@@ -4,7 +4,8 @@
     "description": "A component for managing postal address forms and formatting.",
     "keywords": ["postal", "address", "internationalization", "localization"],
     "require": {
-        "php": ">=5.3.3"
+        "php": ">=5.3.3",
+        "symfony/validator": "*"
     },
     "require-dev": {
     },

@@ -2,6 +2,8 @@
 
 namespace CommerceGuys\Address\Metadata;
 
+use CommerceGuys\Address\AddressInterface;
+
 interface AddressMetadataInterface
 {
     /**
@@ -25,9 +27,9 @@ interface AddressMetadataInterface
     public function getPostalCodeType();
 
     /**
-     * Returns the format of the postal code.
+     * Validate a postal code.
      */
-    public function getPostalCodeFormat();
+    public function validatePostalCode($postalCode);
 
     /**
      * Returns examples of valid postal codes.
@@ -51,4 +53,11 @@ interface AddressMetadataInterface
      *   as defined on the AddressInterface
      */
     public function getUppercaseFields();
+
+    /**
+     * Refine the metadata based on the information provided by an address.
+     *
+     * @return AddressMetadataInterface The refined metadata
+     */
+    public function refineMetadata(AddressInterface $address);
 }
