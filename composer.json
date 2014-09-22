@@ -1,19 +1,35 @@
 {
-    "name": "commerceguys/address",
+    "name": "commerceguys/addressing",
     "type": "library",
-    "description": "A component for managing postal address forms and formatting.",
+    "description": "Addressing library powered by Google's address data.",
     "keywords": ["postal", "address", "internationalization", "localization"],
+    "license": "MIT",
     "require": {
-        "php": ">=5.3.3",
+        "php": ">=5.4.0",
+        "commerceguys/intl": "dev-master",
         "symfony/validator": "*"
     },
     "require-dev": {
+        "phpunit/phpunit": "~4.0",
+        "mikey179/vfsStream": "1.*"
     },
     "suggest": {
         "symfony/form": "to generate Symfony address forms"
     },
     "autoload": {
-        "psr-4": { "CommerceGuys\\Address": "src/" }
+        "psr-4": { "CommerceGuys\\Addressing\\": "src" }
     },
-    "minimum-stability": "dev"
+    "autoload-dev": {
+        "psr-4": {
+            "CommerceGuys\\Addressing\\Tests\\": "tests"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bojan Zivanovic"
+        },
+        {
+            "name": "Damien Tournoud"
+        }
+    ]
 }

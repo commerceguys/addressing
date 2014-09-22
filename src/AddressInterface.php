@@ -1,107 +1,193 @@
 <?php
 
-namespace CommerceGuys\Address;
+namespace CommerceGuys\Addressing;
 
+/**
+ * Interface for international postal addresses.
+ *
+ * Field names follow the OASIS "eXtensible Address Language" (xAL) standard:
+ * http://www.oasis-open.org/committees/ciq/download.shtml
+ *
+ * Doesn't include the sub-administrative area (United States: county,
+ * Italy: province, Great Britain: county) because it is not required for
+ * addressing purposes.
+ */
 interface AddressInterface
 {
-    const COUNTRY = "country";
-
-    const ADMINISTRATIVE_AREA = "administrative_area"
-
-    const LOCALITY = "locality";
-
-    const DEPENDENT_LOCALITY = "dependent_locality";
-
-    const POSTAL_CODE = "postal_code"
-
-    const SORTING_CODE = "sorting_code"
-
-    const ADDRESS_LINE_1 = "address_line_1"
-
-    const ADDRESS_LINE_2 = "address_line_2"
-
-    const ADDRESS_LINE_3 = "address_line_3"
-
-    const ORGANIZATION = "organization";
-
-    const RECIPIENT = "recipient"
-
     /**
-     * Returns the postal country code of the address.
+     * Gets the locale.
      *
-     * This is generally a CLDR country code, i.e. "US", "GB" or "FR".
+     * Allows the initially-selected address format / subdivision translations
+     * to be selected and used the next time this address is modified.
      *
-     * @return string The country code.
+     * @return string The locale.
      */
-    public function getPostalCountryCode();
+    public function getLocale();
 
     /**
-     * Returns the top-level administrative subdivision of the country.
+     * Sets the locale.
      *
-     * @return string The administrative area code
+     * @param string $locale The locale.
+     */
+    public function setLocale($locale);
+
+    /**
+     * Gets the two-letter country code.
+     *
+     * This is a CLDR country code, since CLDR includes additional countries
+     * for addressing purposes, such as Canary Islands (IC).
+     *
+     * @return string The two-letter country code.
+     */
+    public function getCountryCode();
+
+    /**
+     * Sets the two-letter country code.
+     *
+     * @param string $countryCode The two-letter country code.
+     */
+    public function setCountryCode($countryCode);
+
+    /**
+     * Gets the top-level administrative subdivision of the country.
+     *
+     * Called the "state" in the United States, "province" in France and Italy,
+     * "county" in Great Britain, "prefecture" in Japan, etc.
+     *
+     * @return string The administrative area, or the subdivision id if there
+     *                are predefined subdivision at this level.
      */
     public function getAdministrativeArea();
 
     /**
-     * Returns the locality of the address (i.e. the city).
+     * Sets the top-level administrative subdivision of the country.
      *
-     * @return string The locality of the address
+     * @param string $administrativeArea The administrative area.
+     */
+    public function setAdministrativeArea($administrativeArea);
+
+    /**
+     * Gets the locality (i.e city).
+     *
+     * Some countries do not use this field; their address lines are sufficient
+     * to locate an address within a sub-administrative area.
+     *
+     * @return string The locality, or the subdivision id if if there are
+     *                predefined subdivisions at this level
      */
     public function getLocality();
 
     /**
-     * Returns the dependent locality of the address (i.e. the neighborhood).
+     * Sets the locality (i.e city).
      *
-     * @return string The dependent locality of the address
+     * @param string $locality The locality.
+     */
+    public function setLocality($locality);
+
+    /**
+     * Gets the dependent locality (i.e neighbourhood).
+     *
+     * When representing a double-dependent locality in Great Britain, includes
+     * both the double-dependent locality and the dependent locality,
+     * i.e. "Whaley, Langwith".
+     *
+     * @return string The dependent locality, or the subdivision id if if there
+     *                are predefined subdivisions at this level
      */
     public function getDependentLocality();
 
     /**
-     * Returns the postal code of the address.
+     * Sets the dependent locality (i.e neighbourhood).
      *
-     * @return string The postal code
+     * @return string The dependent locality.
+     */
+    public function setDependentLocality($dependentLocality);
+
+    /**
+     * Gets the postal code.
+     *
+     * The value is often alphanumeric.
+     *
+     * @return string The postal code.
      */
     public function getPostalCode();
 
     /**
-     * Returns the postal sorting code of the address.
+     * Sets the postal code of the address.
      *
-     * @return string The postal sorting code
+     * @return string The postal code.
+     */
+    public function setPostalCode($postalCode);
+
+    /**
+     * Gets the sorting code.
+     *
+     * For example, CEDEX in France.
+     *
+     * @return string The sorting code.
      */
     public function getSortingCode();
 
     /**
-     * Returns the first line of address block.
+     * Sets the sorting code.
      *
-     * @return string The first line of the address block
+     * @return string The sorting code.
+     */
+    public function setSortingCode($sortingCode);
+
+    /**
+     * Gets the first line of address block.
+     *
+     * @return string The first line of the address block.
      */
     public function getAddressLine1();
 
     /**
-     * Returns the second line of address block.
+     * Sets the first line of address block.
      *
-     * @return string The second line of the address block
+     * @return string The first line of the address block.
+     */
+    public function setAddressLine1($addressLine1);
+
+    /**
+     * Gets the second line of address block.
+     *
+     * @return string The second line of the address block.
      */
     public function getAddressLine2();
 
     /**
-     * Returns the third line of address block.
+     * Sets the second line of address block.
      *
-     * @return string The third line of the address block
+     * @return string The second line of the address block.
      */
-    public function getAddressLine3();
+    public function setAddressLine2($addressLine2);
 
     /**
-     * Returns the organization of the address.
+     * Gets the recipient.
      *
-     * @return string The organization of the address
+     * @return string The recipient.
+     */
+    public function getRecipient();
+
+    /**
+     * Sets the recipient.
+     *
+     * @param string $recipient The recipient.
+     */
+    public function setRecipient($recipient);
+
+    /**
+     * Gets the organization.
+     *
+     * @return string The organization.
      */
     public function getOrganization();
 
     /**
-     * Returns the recipient of the address.
+     * Sets the organization.
      *
-     * @return string The recipient of the address
+     * @param string $organization The organization.
      */
-    public function getRecipient();
+    public function setOrganization($organization);
 }
