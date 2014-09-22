@@ -16,7 +16,7 @@ class AddressTest extends \PHPUnit_Framework_TestCase
 
     public function setUp()
     {
-        $this->address = new Address;
+        $this->address = new Address();
     }
 
     /**
