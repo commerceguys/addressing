@@ -1,0 +1,14 @@
+{
+    "locale": "und",
+    "format": "%recipient\n%organization\n%address\nSINGAPORE %postal_code",
+    "required_fields": [
+        "address",
+        "postal_code"
+    ],
+    "uppercase_fields": [
+        "locality"
+    ],
+    "administrative_area_type": "province",
+    "postal_code_type": "postal",
+    "postal_code_pattern": "\\d{6}"
+}

@@ -1,0 +1,17 @@
+{
+    "locale": "und",
+    "format": "%recipient\n%organization\n%address\n%postal_code %locality %administrative_area",
+    "required_fields": [
+        "address",
+        "locality",
+        "administrative_area",
+        "postal_code"
+    ],
+    "uppercase_fields": [
+        "locality",
+        "administrative_area"
+    ],
+    "administrative_area_type": "island",
+    "postal_code_type": "postal",
+    "postal_code_pattern": "987\\d{2}"
+}

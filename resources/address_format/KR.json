@@ -1,0 +1,21 @@
+{
+    "locale": "ko-Latn",
+    "format": "%recipient\n%organization\n%address\n%dependent_locality\n%locality\n%administrative_area\n%postal_code",
+    "required_fields": [
+        "address",
+        "locality",
+        "administrative_area",
+        "postal_code"
+    ],
+    "uppercase_fields": [
+        "postal_code"
+    ],
+    "administrative_area_type": "do_si",
+    "postal_code_type": "postal",
+    "postal_code_pattern": "\\d{3}[\\-]\\d{3}",
+    "translations": {
+        "ko": {
+            "format": "%administrative_area %locality%dependent_locality\n%address\n%organization\n%recipient\n%postal_code"
+        }
+    }
+}

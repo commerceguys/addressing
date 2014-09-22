@@ -1,0 +1,14 @@
+{
+    "locale": "id",
+    "format": "%recipient\n%organization\n%address\n%locality\n%administrative_area %postal_code",
+    "required_fields": [
+        "address",
+        "locality"
+    ],
+    "uppercase_fields": [
+        "locality"
+    ],
+    "administrative_area_type": "district",
+    "postal_code_type": "postal",
+    "postal_code_pattern": "\\d{5}"
+}

@@ -1,0 +1,16 @@
+{
+    "locale": "und",
+    "format": "%recipient\n%organization\n%address\n%sorting_code\n%locality\n%postal_code",
+    "required_fields": [
+        "address",
+        "locality",
+        "postal_code"
+    ],
+    "uppercase_fields": [
+        "locality",
+        "postal_code"
+    ],
+    "administrative_area_type": "province",
+    "postal_code_type": "postal",
+    "postal_code_pattern": "BBND 1ZZ"
+}

@@ -1,0 +1,16 @@
+{
+    "locale": "ms",
+    "format": "%recipient\n%organization\n%address\n%postal_code %locality, %administrative_area",
+    "required_fields": [
+        "address",
+        "locality",
+        "postal_code"
+    ],
+    "uppercase_fields": [
+        "locality",
+        "administrative_area"
+    ],
+    "administrative_area_type": "state",
+    "postal_code_type": "postal",
+    "postal_code_pattern": "\\d{5}"
+}

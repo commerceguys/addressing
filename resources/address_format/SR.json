@@ -1,0 +1,14 @@
+{
+    "locale": "nl",
+    "format": "%recipient\n%organization\n%address\n%locality %sorting_code\n%administrative_area",
+    "required_fields": [
+        "address",
+        "locality"
+    ],
+    "uppercase_fields": [
+        "address",
+        "administrative_area"
+    ],
+    "administrative_area_type": "province",
+    "postal_code_type": "postal"
+}

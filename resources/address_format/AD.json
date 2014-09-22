@@ -1,0 +1,14 @@
+{
+    "locale": "ca",
+    "format": "%recipient\n%organization\n%address\n%postal_code %administrative_area",
+    "required_fields": [
+        "address",
+        "administrative_area"
+    ],
+    "uppercase_fields": [
+        "administrative_area"
+    ],
+    "administrative_area_type": "parish",
+    "postal_code_type": "postal",
+    "postal_code_pattern": "AD[1-7]0\\d"
+}

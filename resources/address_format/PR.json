@@ -1,0 +1,19 @@
+{
+    "locale": "und",
+    "format": "%recipient\n%organization\n%address\n%locality PR %postal_code",
+    "required_fields": [
+        "address",
+        "locality",
+        "postal_code"
+    ],
+    "uppercase_fields": [
+        "address",
+        "locality",
+        "recipient",
+        "organization"
+    ],
+    "administrative_area_type": "province",
+    "postal_code_type": "zip",
+    "postal_code_pattern": "(00[679]\\d{2})(?:[ \\-](\\d{4}))?",
+    "postal_code_prefix": "PR"
+}

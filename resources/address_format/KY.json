@@ -1,0 +1,14 @@
+{
+    "locale": "en",
+    "format": "%recipient\n%organization\n%address\n%administrative_area",
+    "required_fields": [
+        "address",
+        "administrative_area"
+    ],
+    "uppercase_fields": [
+        "locality"
+    ],
+    "administrative_area_type": "island",
+    "postal_code_type": "postal",
+    "postal_code_pattern": "KY\\d-\\d{4}"
+}

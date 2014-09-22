@@ -1,0 +1,15 @@
+{
+    "locale": "und",
+    "format": "%recipient\n%organization\n%address\nMC-%postal_code %locality %sorting_code",
+    "required_fields": [
+        "address",
+        "locality"
+    ],
+    "uppercase_fields": [
+        "locality"
+    ],
+    "administrative_area_type": "province",
+    "postal_code_type": "postal",
+    "postal_code_pattern": "980\\d{2}",
+    "postal_code_prefix": "MC-"
+}

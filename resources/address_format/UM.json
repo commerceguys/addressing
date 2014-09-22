@@ -1,0 +1,19 @@
+{
+    "locale": "und",
+    "format": "%recipient\n%organization\n%address\n%locality %administrative_area %postal_code",
+    "required_fields": [
+        "address",
+        "locality",
+        "administrative_area"
+    ],
+    "uppercase_fields": [
+        "address",
+        "locality",
+        "recipient",
+        "organization",
+        "administrative_area"
+    ],
+    "administrative_area_type": "state",
+    "postal_code_type": "zip",
+    "postal_code_pattern": "96898"
+}

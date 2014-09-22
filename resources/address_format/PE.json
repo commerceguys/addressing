@@ -1,0 +1,14 @@
+{
+    "locale": "und",
+    "format": "%recipient\n%organization\n%address\n%locality",
+    "required_fields": [
+        "address",
+        "locality"
+    ],
+    "uppercase_fields": [
+        "locality"
+    ],
+    "administrative_area_type": "province",
+    "postal_code_type": "postal",
+    "postal_code_pattern": "(?:LIMA \\d|CALLAO 0?)\\d|[0-2]\\d{4}"
+}

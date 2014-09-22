@@ -1,0 +1,18 @@
+{
+    "locale": "zh-Latn",
+    "format": "%recipient\n%organization\n%address\n%administrative_area",
+    "required_fields": [
+        "address",
+        "administrative_area"
+    ],
+    "uppercase_fields": [
+        "administrative_area"
+    ],
+    "administrative_area_type": "area",
+    "postal_code_type": "postal",
+    "translations": {
+        "zh-hant": {
+            "format": "%administrative_area\n%address\n%organization\n%recipient"
+        }
+    }
+}

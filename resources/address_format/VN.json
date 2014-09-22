@@ -1,0 +1,19 @@
+{
+    "locale": "vi-Latn",
+    "format": "%recipient\n%organization\n%address\n%locality\n%administrative_area",
+    "required_fields": [
+        "address",
+        "locality"
+    ],
+    "uppercase_fields": [
+        "locality"
+    ],
+    "administrative_area_type": "province",
+    "postal_code_type": "postal",
+    "postal_code_pattern": "\\d{6}",
+    "translations": {
+        "vi": {
+            "format": "%recipient\n%organization\n%address\n%locality\n%administrative_area"
+        }
+    }
+}

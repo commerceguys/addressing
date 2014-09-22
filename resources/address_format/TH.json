@@ -1,0 +1,19 @@
+{
+    "locale": "th-Latn",
+    "format": "%recipient\n%organization\n%address\n%dependent_locality, %locality\n%administrative_area %postal_code",
+    "required_fields": [
+        "address",
+        "locality"
+    ],
+    "uppercase_fields": [
+        "administrative_area"
+    ],
+    "administrative_area_type": "province",
+    "postal_code_type": "postal",
+    "postal_code_pattern": "\\d{5}",
+    "translations": {
+        "th": {
+            "format": "%recipient\n%organization\n%address\n%dependent_locality %locality\n%administrative_area %postal_code"
+        }
+    }
+}

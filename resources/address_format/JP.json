@@ -1,0 +1,21 @@
+{
+    "locale": "ja-Latn",
+    "format": "%recipient\n%organization\n%address\n%locality, %administrative_area\n%postal_code",
+    "required_fields": [
+        "address",
+        "locality",
+        "administrative_area",
+        "postal_code"
+    ],
+    "uppercase_fields": [
+        "administrative_area"
+    ],
+    "administrative_area_type": "prefecture",
+    "postal_code_type": "postal",
+    "postal_code_pattern": "\\d{3}-?\\d{4}",
+    "translations": {
+        "ja": {
+            "format": "〒%postal_code\n%administrative_area%locality\n%address\n%organization\n%recipient"
+        }
+    }
+}

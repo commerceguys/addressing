@@ -1,0 +1,17 @@
+{
+    "locale": "zh-Latn",
+    "format": "%recipient\n%organization\n%address",
+    "required_fields": [
+        "address"
+    ],
+    "uppercase_fields": [
+        "locality"
+    ],
+    "administrative_area_type": "province",
+    "postal_code_type": "postal",
+    "translations": {
+        "zh": {
+            "format": "%address\n%organization\n%recipient"
+        }
+    }
+}

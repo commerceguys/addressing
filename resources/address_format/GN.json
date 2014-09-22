@@ -1,0 +1,14 @@
+{
+    "locale": "und",
+    "format": "%recipient\n%organization\n%postal_code %address %locality",
+    "required_fields": [
+        "address",
+        "locality"
+    ],
+    "uppercase_fields": [
+        "locality"
+    ],
+    "administrative_area_type": "province",
+    "postal_code_type": "postal",
+    "postal_code_pattern": "\\d{3}"
+}
