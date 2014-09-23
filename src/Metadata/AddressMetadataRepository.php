@@ -86,9 +86,13 @@ class AddressMetadataRepository implements AddressMetadataRepositoryInterface
     {
         $idParts = explode('-', $id);
         if (count($idParts) < 2) {
-            throw new \InvalidArgumentException(sprintf('The provided id "%s" is invalid.', $id));
+            // Invalid id, nothing to load.
+            return null;
         }
 
+        // The default ids are constructed to contain the country code
+        // and parent id. For "BR-AL-64b095" BR is the country code and BR-AL
+        // is the parent id.
         array_pop($idParts);
         $countryCode = $idParts[0];
         $parentId = implode('-', $idParts);
@@ -96,6 +100,10 @@ class AddressMetadataRepository implements AddressMetadataRepositoryInterface
             $parentId = 0;
         }
         $definitions = $this->loadSubdivisionDefinitions($countryCode, $parentId, $locale);
+        if (!isset($definitions[$id])) {
+            // No definition found.
+            return null;
+        }
         $definition = $this->translateDefinition($definitions[$id], $locale);
 
         return $this->createSubdivisionFromDefinition($definition);
@@ -154,10 +162,12 @@ class AddressMetadataRepository implements AddressMetadataRepositoryInterface
         if (!isset($this->subdivisionDefinitions[$countryCode][$parentId])) {
             $filename = ($parentId === 0) ? $countryCode . '.json' : $parentId . '.json';
             $rawDefinition = file_get_contents($this->definitionPath . 'subdivision/' . $filename);
-            if (!$rawDefinition) {
-                throw new \Exception(sprintf('The subdivision/%s definition file could not be found.', $filename));
+            if ($rawDefinition) {
+                $this->subdivisionDefinitions[$countryCode][$parentId] = json_decode($rawDefinition, true);
+            } else {
+                // Bypass further loading attempts.
+                $this->subdivisionDefinitions[$countryCode][$parentId] = array();
             }
-            $this->subdivisionDefinitions[$countryCode][$parentId] = json_decode($rawDefinition, true);
         }
 
         return $this->subdivisionDefinitions[$countryCode][$parentId];

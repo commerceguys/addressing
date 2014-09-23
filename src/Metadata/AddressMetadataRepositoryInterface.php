@@ -29,6 +29,9 @@ interface AddressMetadataRepositoryInterface
     /**
      * Returns an address format instance matching the provided country code.
      *
+     * If no matching address format was found, the fallback address format (ZZ)
+     * is returned instead.
+     *
      * @param string $countryCode The country code.
      * @param string $locale      The locale (i.e. fr-FR).
      *
@@ -42,7 +45,7 @@ interface AddressMetadataRepositoryInterface
      * @param string $id     The subdivision id.
      * @param string $locale The locale (i.e. fr-FR).
      *
-     * @return Subdivision The subdivision instance.
+     * @return Subdivision|null The subdivision instance, if found.
      */
     public function getSubdivision($id, $locale = null);
 
