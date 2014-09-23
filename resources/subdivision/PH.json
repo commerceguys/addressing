@@ -1,0 +1,728 @@
+{
+    "PH-ABR": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-ABR",
+        "code": "Abra",
+        "name": "Abra",
+        "postal_code_pattern": "28[0-2]"
+    },
+    "PH-AGN": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-AGN",
+        "code": "Agusan del Norte",
+        "name": "Agusan del Norte",
+        "postal_code_pattern": "86[01]"
+    },
+    "PH-AGS": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-AGS",
+        "code": "Agusan del Sur",
+        "name": "Agusan del Sur",
+        "postal_code_pattern": "85[01]"
+    },
+    "PH-AKL": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-AKL",
+        "code": "Aklan",
+        "name": "Aklan",
+        "postal_code_pattern": "56[01]"
+    },
+    "PH-ALB": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-ALB",
+        "code": "Albay",
+        "name": "Albay",
+        "postal_code_pattern": "45[01]"
+    },
+    "PH-ANT": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-ANT",
+        "code": "Antique",
+        "name": "Antique",
+        "postal_code_pattern": "57[01]"
+    },
+    "PH-APA": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-APA",
+        "code": "Apayao",
+        "name": "Apayao",
+        "postal_code_pattern": "380[0-68]"
+    },
+    "PH-AUR": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-AUR",
+        "code": "Aurora",
+        "name": "Aurora",
+        "postal_code_pattern": "320"
+    },
+    "PH-BAS": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-BAS",
+        "code": "Basilan",
+        "name": "Basilan",
+        "postal_code_pattern": "730"
+    },
+    "PH-BAN": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-BAN",
+        "code": "Bataan",
+        "name": "Bataan",
+        "postal_code_pattern": "21[01]"
+    },
+    "PH-BTN": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-BTN",
+        "code": "Batanes",
+        "name": "Batanes",
+        "postal_code_pattern": "390"
+    },
+    "PH-BTG": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-BTG",
+        "code": "Batangas",
+        "name": "Batangas",
+        "postal_code_pattern": "42[0-3]"
+    },
+    "PH-BEN": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-BEN",
+        "code": "Benguet",
+        "name": "Benguet",
+        "postal_code_pattern": "26(0|1[0-5])"
+    },
+    "PH-BIL": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-BIL",
+        "code": "Biliran",
+        "name": "Biliran",
+        "postal_code_pattern": "65(4[3-9]|5)"
+    },
+    "PH-BOH": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-BOH",
+        "code": "Bohol",
+        "name": "Bohol",
+        "postal_code_pattern": "63[0-3]"
+    },
+    "PH-BUK": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-BUK",
+        "code": "Bukidnon",
+        "name": "Bukidnon",
+        "postal_code_pattern": "87[0-2]"
+    },
+    "PH-BUL": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-BUL",
+        "code": "Bulacan",
+        "name": "Bulacan",
+        "postal_code_pattern": "30[0-2]"
+    },
+    "PH-CAG": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-CAG",
+        "code": "Cagayan",
+        "name": "Cagayan",
+        "postal_code_pattern": "35[0-2]"
+    },
+    "PH-CAN": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-CAN",
+        "code": "Camarines Norte",
+        "name": "Camarines Norte",
+        "postal_code_pattern": "46[01]"
+    },
+    "PH-CAS": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-CAS",
+        "code": "Camarines Sur",
+        "name": "Camarines Sur",
+        "postal_code_pattern": "44[0-3]"
+    },
+    "PH-CAM": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-CAM",
+        "code": "Camiguin",
+        "name": "Camiguin",
+        "postal_code_pattern": "910"
+    },
+    "PH-CAP": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-CAP",
+        "code": "Capiz",
+        "name": "Capiz",
+        "postal_code_pattern": "58[01]"
+    },
+    "PH-CAT": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-CAT",
+        "code": "Catanduanes",
+        "name": "Catanduanes",
+        "postal_code_pattern": "48[01]"
+    },
+    "PH-CAV": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-CAV",
+        "code": "Cavite",
+        "name": "Cavite",
+        "postal_code_pattern": "41[0-2]"
+    },
+    "PH-CEB": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-CEB",
+        "code": "Cebu",
+        "name": "Cebu",
+        "postal_code_pattern": "60[0-5]"
+    },
+    "PH-COM": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-COM",
+        "code": "Compostela Valley",
+        "name": "Compostela Valley",
+        "postal_code_pattern": "88[01]"
+    },
+    "PH-NCO": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-NCO",
+        "code": "Cotabato",
+        "name": "Cotabato",
+        "postal_code_pattern": "94[01]"
+    },
+    "PH-DAV": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-DAV",
+        "code": "Davao del Norte",
+        "name": "Davao del Norte",
+        "postal_code_pattern": "81[0-2]"
+    },
+    "PH-DAS": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-DAS",
+        "code": "Davao del Sur",
+        "name": "Davao del Sur",
+        "postal_code_pattern": "80[01]"
+    },
+    "PH-DAO": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-DAO",
+        "code": "Davao Oriental",
+        "name": "Davao Oriental",
+        "postal_code_pattern": "82[01]"
+    },
+    "PH-DIN": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-DIN",
+        "code": "Dinagat Islands",
+        "name": "Dinagat Islands"
+    },
+    "PH-EAS": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-EAS",
+        "code": "Eastern Samar",
+        "name": "Eastern Samar",
+        "postal_code_pattern": "68[0-2]"
+    },
+    "PH-GUI": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-GUI",
+        "code": "Guimaras",
+        "name": "Guimaras",
+        "postal_code_pattern": "504[4-6]"
+    },
+    "PH-IFU": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-IFU",
+        "code": "Ifugao",
+        "name": "Ifugao",
+        "postal_code_pattern": "36[01]"
+    },
+    "PH-ILN": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-ILN",
+        "code": "Ilocos Norte",
+        "name": "Ilocos Norte",
+        "postal_code_pattern": "29[0-2]"
+    },
+    "PH-ILS": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-ILS",
+        "code": "Ilocos Sur",
+        "name": "Ilocos Sur",
+        "postal_code_pattern": "27[0-3]"
+    },
+    "PH-ILI": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-ILI",
+        "code": "Iloilo",
+        "name": "Iloilo",
+        "postal_code_pattern": "50([0-3]|4[0-3])"
+    },
+    "PH-ISA": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-ISA",
+        "code": "Isabela",
+        "name": "Isabela",
+        "postal_code_pattern": "33[0-3]"
+    },
+    "PH-KAL": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-KAL",
+        "code": "Kalinga",
+        "name": "Kalinga",
+        "postal_code_pattern": "38(0[79]|1[0-4])"
+    },
+    "PH-LUN": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-LUN",
+        "code": "La Union",
+        "name": "La Union",
+        "postal_code_pattern": "25[0-2]"
+    },
+    "PH-LAG": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-LAG",
+        "code": "Laguna",
+        "name": "Laguna",
+        "postal_code_pattern": "40[0-3]"
+    },
+    "PH-LAN": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-LAN",
+        "code": "Lanao del Norte",
+        "name": "Lanao del Norte",
+        "postal_code_pattern": "92[0-2]"
+    },
+    "PH-LAS": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-LAS",
+        "code": "Lanao del Sur",
+        "name": "Lanao del Sur",
+        "postal_code_pattern": "9(3[0-2]|7[01])"
+    },
+    "PH-LEY": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-LEY",
+        "code": "Leyte",
+        "name": "Leyte",
+        "postal_code_pattern": "65([0-3]|4[0-2])"
+    },
+    "PH-MAG": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-MAG",
+        "code": "Maguindanao",
+        "name": "Maguindanao",
+        "postal_code_pattern": "96[01]"
+    },
+    "PH-MAD": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-MAD",
+        "code": "Marinduque",
+        "name": "Marinduque",
+        "postal_code_pattern": "490"
+    },
+    "PH-MAS": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-MAS",
+        "code": "Masbate",
+        "name": "Masbate",
+        "postal_code_pattern": "54[0-2]"
+    },
+    "PH-00": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-00",
+        "code": "Metro Manila",
+        "name": "Metro Manila"
+    },
+    "PH-MDC": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-MDC",
+        "code": "Mindoro Occidental",
+        "name": "Mindoro Occidental",
+        "postal_code_pattern": "51[01]"
+    },
+    "PH-MDR": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-MDR",
+        "code": "Mindoro Oriental",
+        "name": "Mindoro Oriental",
+        "postal_code_pattern": "52[01]"
+    },
+    "PH-MSC": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-MSC",
+        "code": "Misamis Occidental",
+        "name": "Misamis Occidental",
+        "postal_code_pattern": "72[01]"
+    },
+    "PH-MSR": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-MSR",
+        "code": "Misamis Oriental",
+        "name": "Misamis Oriental",
+        "postal_code_pattern": "90[0-2]"
+    },
+    "PH-MOU": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-MOU",
+        "code": "Mountain Province",
+        "name": "Mountain Province",
+        "postal_code_pattern": "26(1[6-9]|2[0-5])"
+    },
+    "PH-NEC": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-NEC",
+        "code": "Negros Occidental",
+        "name": "Negros Occidental",
+        "postal_code_pattern": "61[0-3]"
+    },
+    "PH-NER": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-NER",
+        "code": "Negros Oriental",
+        "name": "Negros Oriental",
+        "postal_code_pattern": "62[0-2]"
+    },
+    "PH-NSA": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-NSA",
+        "code": "Northern Samar",
+        "name": "Northern Samar",
+        "postal_code_pattern": "64[0-2]"
+    },
+    "PH-NUE": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-NUE",
+        "code": "Nueva Ecija",
+        "name": "Nueva Ecija",
+        "postal_code_pattern": "31[0-3]"
+    },
+    "PH-NUV": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-NUV",
+        "code": "Nueva Vizcaya",
+        "name": "Nueva Vizcaya",
+        "postal_code_pattern": "37[01]"
+    },
+    "PH-PLW": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-PLW",
+        "code": "Palawan",
+        "name": "Palawan",
+        "postal_code_pattern": "53[0-2]"
+    },
+    "PH-PAM": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-PAM",
+        "code": "Pampanga",
+        "name": "Pampanga",
+        "postal_code_pattern": "20[0-2]"
+    },
+    "PH-PAN": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-PAN",
+        "code": "Pangasinan",
+        "name": "Pangasinan",
+        "postal_code_pattern": "24[0-4]"
+    },
+    "PH-QUE": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-QUE",
+        "code": "Quezon Province",
+        "name": "Quezon Province",
+        "postal_code_pattern": "43[0-4]"
+    },
+    "PH-QUI": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-QUI",
+        "code": "Quirino",
+        "name": "Quirino",
+        "postal_code_pattern": "340"
+    },
+    "PH-RIZ": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-RIZ",
+        "code": "Rizal",
+        "name": "Rizal",
+        "postal_code_pattern": "1[89]"
+    },
+    "PH-ROM": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-ROM",
+        "code": "Romblon",
+        "name": "Romblon",
+        "postal_code_pattern": "55[01]"
+    },
+    "PH-WSA": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-WSA",
+        "code": "Samar",
+        "name": "Samar",
+        "postal_code_pattern": "67[0-2]"
+    },
+    "PH-SAR": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-SAR",
+        "code": "Sarangani",
+        "name": "Sarangani",
+        "postal_code_pattern": "8015"
+    },
+    "PH-SIG": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-SIG",
+        "code": "Siquijor",
+        "name": "Siquijor",
+        "postal_code_pattern": "62(2[5-9]|30)"
+    },
+    "PH-SOR": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-SOR",
+        "code": "Sorsogon",
+        "name": "Sorsogon",
+        "postal_code_pattern": "47[01]"
+    },
+    "PH-SCO": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-SCO",
+        "code": "South Cotabato",
+        "name": "South Cotabato",
+        "postal_code_pattern": "95[01]"
+    },
+    "PH-SLE": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-SLE",
+        "code": "Southern Leyte",
+        "name": "Southern Leyte"
+    },
+    "PH-SUK": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-SUK",
+        "code": "Sultan Kudarat",
+        "name": "Sultan Kudarat",
+        "postal_code_pattern": "98[01]"
+    },
+    "PH-SLU": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-SLU",
+        "code": "Sulu",
+        "name": "Sulu",
+        "postal_code_pattern": "74[01]"
+    },
+    "PH-SUN": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-SUN",
+        "code": "Surigao del Norte",
+        "name": "Surigao del Norte",
+        "postal_code_pattern": "84[02]"
+    },
+    "PH-SUR": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-SUR",
+        "code": "Surigao del Sur",
+        "name": "Surigao del Sur",
+        "postal_code_pattern": "83[01]"
+    },
+    "PH-TAR": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-TAR",
+        "code": "Tarlac",
+        "name": "Tarlac",
+        "postal_code_pattern": "23[01]"
+    },
+    "PH-TAW": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-TAW",
+        "code": "Tawi-Tawi",
+        "name": "Tawi-Tawi",
+        "postal_code_pattern": "750"
+    },
+    "PH-ZMB": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-ZMB",
+        "code": "Zambales",
+        "name": "Zambales",
+        "postal_code_pattern": "22[01]"
+    },
+    "PH-ZAN": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-ZAN",
+        "code": "Zamboanga del Norte",
+        "name": "Zamboanga del Norte",
+        "postal_code_pattern": "71[0-2]"
+    },
+    "PH-ZAS": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-ZAS",
+        "code": "Zamboanga del Sur",
+        "name": "Zamboanga del Sur",
+        "postal_code_pattern": "70[0-4]"
+    },
+    "PH-ZSI": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-ZSI",
+        "code": "Zamboanga Sibuguey",
+        "name": "Zamboanga Sibuguey",
+        "postal_code_pattern": "70[0-4]"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "KR-41-60f6ae-a1a503": {
+        "locale": "ko-Latn",
+        "country_code": "KR",
+        "parent_id": "KR-41-60f6ae",
+        "id": "KR-41-60f6ae-a1a503",
+        "code": "동안구",
+        "name": "Dongan-gu",
+        "postal_code_pattern": "431",
+        "translations": {
+            "ko": {
+                "name": "동안구"
+            }
+        }
+    },
+    "KR-41-60f6ae-ce74cc": {
+        "locale": "ko-Latn",
+        "country_code": "KR",
+        "parent_id": "KR-41-60f6ae",
+        "id": "KR-41-60f6ae-ce74cc",
+        "code": "만안구",
+        "name": "Manan-gu",
+        "postal_code_pattern": "430",
+        "translations": {
+            "ko": {
+                "name": "만안구"
+            }
+        }
+    }
+}

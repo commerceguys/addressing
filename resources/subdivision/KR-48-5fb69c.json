@@ -1,0 +1,72 @@
+{
+    "KR-48-5fb69c-b15ba0": {
+        "locale": "ko-Latn",
+        "country_code": "KR",
+        "parent_id": "KR-48-5fb69c",
+        "id": "KR-48-5fb69c-b15ba0",
+        "code": "마산합포구",
+        "name": "Masanhappo-gu",
+        "postal_code_pattern": "631",
+        "translations": {
+            "ko": {
+                "name": "마산합포구"
+            }
+        }
+    },
+    "KR-48-5fb69c-503ba5": {
+        "locale": "ko-Latn",
+        "country_code": "KR",
+        "parent_id": "KR-48-5fb69c",
+        "id": "KR-48-5fb69c-503ba5",
+        "code": "마산회원구",
+        "name": "Masanhoewon-gu",
+        "postal_code_pattern": "630",
+        "translations": {
+            "ko": {
+                "name": "마산회원구"
+            }
+        }
+    },
+    "KR-48-5fb69c-b8ca66": {
+        "locale": "ko-Latn",
+        "country_code": "KR",
+        "parent_id": "KR-48-5fb69c",
+        "id": "KR-48-5fb69c-b8ca66",
+        "code": "성산구",
+        "name": "Seongsan-gu",
+        "postal_code_pattern": "642",
+        "translations": {
+            "ko": {
+                "name": "성산구"
+            }
+        }
+    },
+    "KR-48-5fb69c-ecdc62": {
+        "locale": "ko-Latn",
+        "country_code": "KR",
+        "parent_id": "KR-48-5fb69c",
+        "id": "KR-48-5fb69c-ecdc62",
+        "code": "의창구",
+        "name": "Uichang-gu",
+        "postal_code_pattern": "641",
+        "translations": {
+            "ko": {
+                "name": "의창구"
+            }
+        }
+    },
+    "KR-48-5fb69c-ec979c": {
+        "locale": "ko-Latn",
+        "country_code": "KR",
+        "parent_id": "KR-48-5fb69c",
+        "id": "KR-48-5fb69c-ec979c",
+        "code": "진해구",
+        "name": "Jinhae-gu",
+        "postal_code_pattern": "645",
+        "translations": {
+            "ko": {
+                "name": "진해구"
+            }
+        }
+    }
+}

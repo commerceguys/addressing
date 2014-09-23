@@ -1,0 +1,184 @@
+{
+    "CN-53-1030cf-5cb754": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-53-1030cf",
+        "id": "CN-53-1030cf-5cb754",
+        "code": "安宁市",
+        "name": "Anning Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "安宁市"
+            }
+        }
+    },
+    "CN-53-1030cf-2c5d20": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-53-1030cf",
+        "id": "CN-53-1030cf-2c5d20",
+        "code": "呈贡县",
+        "name": "Chenggong Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "呈贡县"
+            }
+        }
+    },
+    "CN-53-1030cf-d61f3a": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-53-1030cf",
+        "id": "CN-53-1030cf-d61f3a",
+        "code": "东川区",
+        "name": "Dongchuan Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "东川区"
+            }
+        }
+    },
+    "CN-53-1030cf-e32402": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-53-1030cf",
+        "id": "CN-53-1030cf-e32402",
+        "code": "富民县",
+        "name": "Fumin Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "富民县"
+            }
+        }
+    },
+    "CN-53-1030cf-9dcc44": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-53-1030cf",
+        "id": "CN-53-1030cf-9dcc44",
+        "code": "官渡区",
+        "name": "Guandu Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "官渡区"
+            }
+        }
+    },
+    "CN-53-1030cf-84a269": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-53-1030cf",
+        "id": "CN-53-1030cf-84a269",
+        "code": "晋宁县",
+        "name": "Jinning Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "晋宁县"
+            }
+        }
+    },
+    "CN-53-1030cf-744a24": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-53-1030cf",
+        "id": "CN-53-1030cf-744a24",
+        "code": "禄劝彝族苗族自治县",
+        "name": "Luquan Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "禄劝县"
+            }
+        }
+    },
+    "CN-53-1030cf-bd503e": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-53-1030cf",
+        "id": "CN-53-1030cf-bd503e",
+        "code": "盘龙区",
+        "name": "Panlong Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "盘龙区"
+            }
+        }
+    },
+    "CN-53-1030cf-a4f29d": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-53-1030cf",
+        "id": "CN-53-1030cf-a4f29d",
+        "code": "石林彝族自治县",
+        "name": "Shilin Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "石林县"
+            }
+        }
+    },
+    "CN-53-1030cf-ce0b87": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-53-1030cf",
+        "id": "CN-53-1030cf-ce0b87",
+        "code": "嵩明县",
+        "name": "Songming Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "嵩明县"
+            }
+        }
+    },
+    "CN-53-1030cf-658f93": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-53-1030cf",
+        "id": "CN-53-1030cf-658f93",
+        "code": "五华区",
+        "name": "Wuhua Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "五华区"
+            }
+        }
+    },
+    "CN-53-1030cf-5adaba": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-53-1030cf",
+        "id": "CN-53-1030cf-5adaba",
+        "code": "西山区",
+        "name": "Xishan Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "西山区"
+            }
+        }
+    },
+    "CN-53-1030cf-aee153": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-53-1030cf",
+        "id": "CN-53-1030cf-aee153",
+        "code": "寻甸回族彝族自治县",
+        "name": "Xundian Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "寻甸县"
+            }
+        }
+    },
+    "CN-53-1030cf-77cb59": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-53-1030cf",
+        "id": "CN-53-1030cf-77cb59",
+        "code": "宜良县",
+        "name": "Yiliang Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "宜良县"
+            }
+        }
+    }
+}

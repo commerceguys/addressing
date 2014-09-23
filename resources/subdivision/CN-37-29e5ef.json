@@ -1,0 +1,54 @@
+{
+    "CN-37-29e5ef-5865b5": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-37-29e5ef",
+        "id": "CN-37-29e5ef-5865b5",
+        "code": "环翠区",
+        "name": "Huancui Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "环翠区"
+            }
+        }
+    },
+    "CN-37-29e5ef-8e6cdc": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-37-29e5ef",
+        "id": "CN-37-29e5ef-8e6cdc",
+        "code": "荣成市",
+        "name": "Rongcheng Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "荣成市"
+            }
+        }
+    },
+    "CN-37-29e5ef-d85225": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-37-29e5ef",
+        "id": "CN-37-29e5ef-d85225",
+        "code": "乳山市",
+        "name": "Rushan Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "乳山市"
+            }
+        }
+    },
+    "CN-37-29e5ef-6fb382": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-37-29e5ef",
+        "id": "CN-37-29e5ef-6fb382",
+        "code": "文登市",
+        "name": "Wendeng Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "文登市"
+            }
+        }
+    }
+}

@@ -1,0 +1,156 @@
+{
+    "AM-AG": {
+        "locale": "hy-Latn",
+        "country_code": "AM",
+        "parent_id": null,
+        "id": "AM-AG",
+        "code": "Արագածոտն",
+        "name": "Aragatsotn",
+        "postal_code_pattern": "0[2-5]",
+        "translations": {
+            "hy": {
+                "name": "Արագածոտն"
+            }
+        }
+    },
+    "AM-AR": {
+        "locale": "hy-Latn",
+        "country_code": "AM",
+        "parent_id": null,
+        "id": "AM-AR",
+        "code": "Արարատ",
+        "name": "Ararat",
+        "postal_code_pattern": "0[6-8]",
+        "translations": {
+            "hy": {
+                "name": "Արարատ"
+            }
+        }
+    },
+    "AM-AV": {
+        "locale": "hy-Latn",
+        "country_code": "AM",
+        "parent_id": null,
+        "id": "AM-AV",
+        "code": "Արմավիր",
+        "name": "Armavir",
+        "postal_code_pattern": "09|1[01]",
+        "translations": {
+            "hy": {
+                "name": "Արմավիր"
+            }
+        }
+    },
+    "AM-GR": {
+        "locale": "hy-Latn",
+        "country_code": "AM",
+        "parent_id": null,
+        "id": "AM-GR",
+        "code": "Գեղարքունիք",
+        "name": "Gegharkunik",
+        "postal_code_pattern": "1[2-6]",
+        "translations": {
+            "hy": {
+                "name": "Գեղարքունիք"
+            }
+        }
+    },
+    "AM-ER": {
+        "locale": "hy-Latn",
+        "country_code": "AM",
+        "parent_id": null,
+        "id": "AM-ER",
+        "code": "Երևան",
+        "name": "Yerevan",
+        "postal_code_pattern": "00",
+        "translations": {
+            "hy": {
+                "name": "Երևան"
+            }
+        }
+    },
+    "AM-LO": {
+        "locale": "hy-Latn",
+        "country_code": "AM",
+        "parent_id": null,
+        "id": "AM-LO",
+        "code": "Լոռի",
+        "name": "Lori",
+        "postal_code_pattern": "1[7-9]|2[01]",
+        "translations": {
+            "hy": {
+                "name": "Լոռի"
+            }
+        }
+    },
+    "AM-KT": {
+        "locale": "hy-Latn",
+        "country_code": "AM",
+        "parent_id": null,
+        "id": "AM-KT",
+        "code": "Կոտայք",
+        "name": "Kotayk",
+        "postal_code_pattern": "2[2-5]",
+        "translations": {
+            "hy": {
+                "name": "Կոտայք"
+            }
+        }
+    },
+    "AM-SH": {
+        "locale": "hy-Latn",
+        "country_code": "AM",
+        "parent_id": null,
+        "id": "AM-SH",
+        "code": "Շիրակ",
+        "name": "Shirak",
+        "postal_code_pattern": "2[6-9]|3[01]",
+        "translations": {
+            "hy": {
+                "name": "Շիրակ"
+            }
+        }
+    },
+    "AM-SU": {
+        "locale": "hy-Latn",
+        "country_code": "AM",
+        "parent_id": null,
+        "id": "AM-SU",
+        "code": "Սյունիք",
+        "name": "Syunik",
+        "postal_code_pattern": "3[2-5]",
+        "translations": {
+            "hy": {
+                "name": "Սյունիք"
+            }
+        }
+    },
+    "AM-VD": {
+        "locale": "hy-Latn",
+        "country_code": "AM",
+        "parent_id": null,
+        "id": "AM-VD",
+        "code": "Վայոց ձոր",
+        "name": "Vayots Dzor",
+        "postal_code_pattern": "3[6-8]",
+        "translations": {
+            "hy": {
+                "name": "Վայոց ձոր"
+            }
+        }
+    },
+    "AM-TV": {
+        "locale": "hy-Latn",
+        "country_code": "AM",
+        "parent_id": null,
+        "id": "AM-TV",
+        "code": "Տավուշ",
+        "name": "Tavush",
+        "postal_code_pattern": "39|4[0-2]",
+        "translations": {
+            "hy": {
+                "name": "Տավուշ"
+            }
+        }
+    }
+}

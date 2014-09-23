@@ -1,0 +1,380 @@
+{
+    "EG-ASN": {
+        "locale": "ar-Latn",
+        "country_code": "EG",
+        "parent_id": null,
+        "id": "EG-ASN",
+        "code": "أسوان",
+        "name": "Aswan",
+        "postal_code_pattern": "81",
+        "translations": {
+            "ar": {
+                "name": "أسوان"
+            }
+        }
+    },
+    "EG-AST": {
+        "locale": "ar-Latn",
+        "country_code": "EG",
+        "parent_id": null,
+        "id": "EG-AST",
+        "code": "أسيوط",
+        "name": "Asyut",
+        "postal_code_pattern": "71",
+        "translations": {
+            "ar": {
+                "name": "أسيوط"
+            }
+        }
+    },
+    "EG-LX": {
+        "locale": "ar-Latn",
+        "country_code": "EG",
+        "parent_id": null,
+        "id": "EG-LX",
+        "code": "الأقصر",
+        "name": "Luxor",
+        "postal_code_pattern": "85",
+        "translations": {
+            "ar": {
+                "name": "الأقصر"
+            }
+        }
+    },
+    "EG-ALX": {
+        "locale": "ar-Latn",
+        "country_code": "EG",
+        "parent_id": null,
+        "id": "EG-ALX",
+        "code": "الإسكندرية",
+        "name": "Alexandria",
+        "postal_code_pattern": "2[13]",
+        "translations": {
+            "ar": {
+                "name": "الإسكندرية"
+            }
+        }
+    },
+    "EG-IS": {
+        "locale": "ar-Latn",
+        "country_code": "EG",
+        "parent_id": null,
+        "id": "EG-IS",
+        "code": "الإسماعيلية",
+        "name": "Ismailia",
+        "postal_code_pattern": "41",
+        "translations": {
+            "ar": {
+                "name": "الإسماعيلية"
+            }
+        }
+    },
+    "EG-BA": {
+        "locale": "ar-Latn",
+        "country_code": "EG",
+        "parent_id": null,
+        "id": "EG-BA",
+        "code": "البحر الأحمر",
+        "name": "Red Sea",
+        "postal_code_pattern": "84",
+        "translations": {
+            "ar": {
+                "name": "البحر الأحمر"
+            }
+        }
+    },
+    "EG-BH": {
+        "locale": "ar-Latn",
+        "country_code": "EG",
+        "parent_id": null,
+        "id": "EG-BH",
+        "code": "البحيرة",
+        "name": "Beheira",
+        "postal_code_pattern": "22",
+        "translations": {
+            "ar": {
+                "name": "البحيرة"
+            }
+        }
+    },
+    "EG-GZ": {
+        "locale": "ar-Latn",
+        "country_code": "EG",
+        "parent_id": null,
+        "id": "EG-GZ",
+        "code": "الجيزة",
+        "name": "Giza",
+        "postal_code_pattern": "12",
+        "translations": {
+            "ar": {
+                "name": "الجيزة"
+            }
+        }
+    },
+    "EG-DK": {
+        "locale": "ar-Latn",
+        "country_code": "EG",
+        "parent_id": null,
+        "id": "EG-DK",
+        "code": "الدقهلية",
+        "name": "Dakahlia",
+        "postal_code_pattern": "35",
+        "translations": {
+            "ar": {
+                "name": "الدقهلية"
+            }
+        }
+    },
+    "EG-SUZ": {
+        "locale": "ar-Latn",
+        "country_code": "EG",
+        "parent_id": null,
+        "id": "EG-SUZ",
+        "code": "السويس",
+        "name": "Suez",
+        "postal_code_pattern": "43",
+        "translations": {
+            "ar": {
+                "name": "السويس"
+            }
+        }
+    },
+    "EG-SHR": {
+        "locale": "ar-Latn",
+        "country_code": "EG",
+        "parent_id": null,
+        "id": "EG-SHR",
+        "code": "الشرقية",
+        "name": "Al Sharqia",
+        "postal_code_pattern": "44",
+        "translations": {
+            "ar": {
+                "name": "الشرقية"
+            }
+        }
+    },
+    "EG-GH": {
+        "locale": "ar-Latn",
+        "country_code": "EG",
+        "parent_id": null,
+        "id": "EG-GH",
+        "code": "الغربية",
+        "name": "Gharbia",
+        "postal_code_pattern": "31",
+        "translations": {
+            "ar": {
+                "name": "الغربية"
+            }
+        }
+    },
+    "EG-FYM": {
+        "locale": "ar-Latn",
+        "country_code": "EG",
+        "parent_id": null,
+        "id": "EG-FYM",
+        "code": "الفيوم",
+        "name": "Faiyum",
+        "postal_code_pattern": "63",
+        "translations": {
+            "ar": {
+                "name": "الفيوم"
+            }
+        }
+    },
+    "EG-C": {
+        "locale": "ar-Latn",
+        "country_code": "EG",
+        "parent_id": null,
+        "id": "EG-C",
+        "code": "القاهرة",
+        "name": "Cairo",
+        "postal_code_pattern": "11",
+        "translations": {
+            "ar": {
+                "name": "القاهرة"
+            }
+        }
+    },
+    "EG-KB": {
+        "locale": "ar-Latn",
+        "country_code": "EG",
+        "parent_id": null,
+        "id": "EG-KB",
+        "code": "القليوبية",
+        "name": "Qalyubia",
+        "postal_code_pattern": "13",
+        "translations": {
+            "ar": {
+                "name": "القليوبية"
+            }
+        }
+    },
+    "EG-MNF": {
+        "locale": "ar-Latn",
+        "country_code": "EG",
+        "parent_id": null,
+        "id": "EG-MNF",
+        "code": "المنوفية",
+        "name": "Monufia",
+        "postal_code_pattern": "32",
+        "translations": {
+            "ar": {
+                "name": "المنوفية"
+            }
+        }
+    },
+    "EG-MN": {
+        "locale": "ar-Latn",
+        "country_code": "EG",
+        "parent_id": null,
+        "id": "EG-MN",
+        "code": "المنيا",
+        "name": "Minya",
+        "postal_code_pattern": "61",
+        "translations": {
+            "ar": {
+                "name": "المنيا"
+            }
+        }
+    },
+    "EG-WAD": {
+        "locale": "ar-Latn",
+        "country_code": "EG",
+        "parent_id": null,
+        "id": "EG-WAD",
+        "code": "الوادي الجديد",
+        "name": "New Valley",
+        "postal_code_pattern": "72",
+        "translations": {
+            "ar": {
+                "name": "الوادي الجديد"
+            }
+        }
+    },
+    "EG-BNS": {
+        "locale": "ar-Latn",
+        "country_code": "EG",
+        "parent_id": null,
+        "id": "EG-BNS",
+        "code": "بني سويف",
+        "name": "Beni Suef",
+        "postal_code_pattern": "62",
+        "translations": {
+            "ar": {
+                "name": "بني سويف"
+            }
+        }
+    },
+    "EG-PTS": {
+        "locale": "ar-Latn",
+        "country_code": "EG",
+        "parent_id": null,
+        "id": "EG-PTS",
+        "code": "بورسعيد",
+        "name": "Port Said",
+        "postal_code_pattern": "42",
+        "translations": {
+            "ar": {
+                "name": "بورسعيد"
+            }
+        }
+    },
+    "EG-JS": {
+        "locale": "ar-Latn",
+        "country_code": "EG",
+        "parent_id": null,
+        "id": "EG-JS",
+        "code": "جنوب سيناء",
+        "name": "South Sinai",
+        "postal_code_pattern": "46",
+        "translations": {
+            "ar": {
+                "name": "جنوب سيناء"
+            }
+        }
+    },
+    "EG-DT": {
+        "locale": "ar-Latn",
+        "country_code": "EG",
+        "parent_id": null,
+        "id": "EG-DT",
+        "code": "دمياط",
+        "name": "Damietta",
+        "postal_code_pattern": "34",
+        "translations": {
+            "ar": {
+                "name": "دمياط"
+            }
+        }
+    },
+    "EG-SHG": {
+        "locale": "ar-Latn",
+        "country_code": "EG",
+        "parent_id": null,
+        "id": "EG-SHG",
+        "code": "سوهاج",
+        "name": "Sohag",
+        "postal_code_pattern": "82",
+        "translations": {
+            "ar": {
+                "name": "سوهاج"
+            }
+        }
+    },
+    "EG-SIN": {
+        "locale": "ar-Latn",
+        "country_code": "EG",
+        "parent_id": null,
+        "id": "EG-SIN",
+        "code": "شمال سيناء",
+        "name": "North Sinai",
+        "postal_code_pattern": "45",
+        "translations": {
+            "ar": {
+                "name": "شمال سيناء"
+            }
+        }
+    },
+    "EG-KN": {
+        "locale": "ar-Latn",
+        "country_code": "EG",
+        "parent_id": null,
+        "id": "EG-KN",
+        "code": "قنا",
+        "name": "Qena",
+        "postal_code_pattern": "83",
+        "translations": {
+            "ar": {
+                "name": "قنا"
+            }
+        }
+    },
+    "EG-KFS": {
+        "locale": "ar-Latn",
+        "country_code": "EG",
+        "parent_id": null,
+        "id": "EG-KFS",
+        "code": "كفر الشيخ",
+        "name": "Kafr el-Sheikh",
+        "postal_code_pattern": "33",
+        "translations": {
+            "ar": {
+                "name": "كفر الشيخ"
+            }
+        }
+    },
+    "EG-MT": {
+        "locale": "ar-Latn",
+        "country_code": "EG",
+        "parent_id": null,
+        "id": "EG-MT",
+        "code": "مطروح",
+        "name": "Matruh",
+        "postal_code_pattern": "51",
+        "translations": {
+            "ar": {
+                "name": "مطروح"
+            }
+        }
+    }
+}

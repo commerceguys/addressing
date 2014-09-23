@@ -1,0 +1,154 @@
+{
+    "BS-06f3b3": {
+        "locale": "en",
+        "country_code": "BS",
+        "parent_id": null,
+        "id": "BS-06f3b3",
+        "code": "ABACO",
+        "name": "Abaco Islands"
+    },
+    "BS-AK": {
+        "locale": "en",
+        "country_code": "BS",
+        "parent_id": null,
+        "id": "BS-AK",
+        "code": "ACKLINS",
+        "name": "Acklins"
+    },
+    "BS-7708d4": {
+        "locale": "en",
+        "country_code": "BS",
+        "parent_id": null,
+        "id": "BS-7708d4",
+        "code": "ANDROS",
+        "name": "Andros Island"
+    },
+    "BS-BY": {
+        "locale": "en",
+        "country_code": "BS",
+        "parent_id": null,
+        "id": "BS-BY",
+        "code": "BERRY ISLANDS",
+        "name": "Berry Islands"
+    },
+    "BS-BI": {
+        "locale": "en",
+        "country_code": "BS",
+        "parent_id": null,
+        "id": "BS-BI",
+        "code": "BIMINI",
+        "name": "Bimini"
+    },
+    "BS-CI": {
+        "locale": "en",
+        "country_code": "BS",
+        "parent_id": null,
+        "id": "BS-CI",
+        "code": "CAT ISLAND",
+        "name": "Cat Island"
+    },
+    "BS-0e4c9b": {
+        "locale": "en",
+        "country_code": "BS",
+        "parent_id": null,
+        "id": "BS-0e4c9b",
+        "code": "CROOKED ISLAND",
+        "name": "Crooked Island"
+    },
+    "BS-85e485": {
+        "locale": "en",
+        "country_code": "BS",
+        "parent_id": null,
+        "id": "BS-85e485",
+        "code": "ELEUTHERA",
+        "name": "Eleuthera"
+    },
+    "BS-EX": {
+        "locale": "en",
+        "country_code": "BS",
+        "parent_id": null,
+        "id": "BS-EX",
+        "code": "EXUMA",
+        "name": "Exuma and Cays"
+    },
+    "BS-59d4c6": {
+        "locale": "en",
+        "country_code": "BS",
+        "parent_id": null,
+        "id": "BS-59d4c6",
+        "code": "GRAND BAHAMA",
+        "name": "Grand Bahama"
+    },
+    "BS-HI": {
+        "locale": "en",
+        "country_code": "BS",
+        "parent_id": null,
+        "id": "BS-HI",
+        "code": "HARBOUR ISLAND",
+        "name": "Harbour Island"
+    },
+    "BS-IN": {
+        "locale": "en",
+        "country_code": "BS",
+        "parent_id": null,
+        "id": "BS-IN",
+        "code": "INAGUA",
+        "name": "Inagua"
+    },
+    "BS-LI": {
+        "locale": "en",
+        "country_code": "BS",
+        "parent_id": null,
+        "id": "BS-LI",
+        "code": "LONG ISLAND",
+        "name": "Long Island"
+    },
+    "BS-MG": {
+        "locale": "en",
+        "country_code": "BS",
+        "parent_id": null,
+        "id": "BS-MG",
+        "code": "MAYAGUANA",
+        "name": "Mayaguana"
+    },
+    "BS-418c39": {
+        "locale": "en",
+        "country_code": "BS",
+        "parent_id": null,
+        "id": "BS-418c39",
+        "code": "N.P.",
+        "name": "New Providence"
+    },
+    "BS-RI": {
+        "locale": "en",
+        "country_code": "BS",
+        "parent_id": null,
+        "id": "BS-RI",
+        "code": "RAGGED ISLAND",
+        "name": "Ragged Island"
+    },
+    "BS-RC": {
+        "locale": "en",
+        "country_code": "BS",
+        "parent_id": null,
+        "id": "BS-RC",
+        "code": "RUM CAY",
+        "name": "Rum Cay"
+    },
+    "BS-SS": {
+        "locale": "en",
+        "country_code": "BS",
+        "parent_id": null,
+        "id": "BS-SS",
+        "code": "SAN SALVADOR",
+        "name": "San Salvador"
+    },
+    "BS-SW": {
+        "locale": "en",
+        "country_code": "BS",
+        "parent_id": null,
+        "id": "BS-SW",
+        "code": "SPANISH WELLS",
+        "name": "Spanish Wells"
+    }
+}

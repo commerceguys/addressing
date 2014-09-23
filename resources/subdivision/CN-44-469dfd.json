@@ -1,0 +1,93 @@
+{
+    "CN-44-469dfd-3dc66d": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44-469dfd",
+        "id": "CN-44-469dfd-3dc66d",
+        "code": "潮南区",
+        "name": "Chaonan Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "潮南区"
+            }
+        }
+    },
+    "CN-44-469dfd-e3c998": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44-469dfd",
+        "id": "CN-44-469dfd-e3c998",
+        "code": "潮阳区",
+        "name": "Chaoyang Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "潮阳区"
+            }
+        }
+    },
+    "CN-44-469dfd-1f5e21": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44-469dfd",
+        "id": "CN-44-469dfd-1f5e21",
+        "code": "澄海区",
+        "name": "Chenghai Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "澄海区"
+            }
+        }
+    },
+    "CN-44-469dfd-0ae416": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44-469dfd",
+        "id": "CN-44-469dfd-0ae416",
+        "code": "濠江区",
+        "name": "Haojiang Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "濠江区"
+            }
+        }
+    },
+    "CN-44-469dfd-53ae78": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44-469dfd",
+        "id": "CN-44-469dfd-53ae78",
+        "code": "金平区",
+        "name": "Jinping Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "金平区"
+            }
+        }
+    },
+    "CN-44-469dfd-15ada6": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44-469dfd",
+        "id": "CN-44-469dfd-15ada6",
+        "code": "龙湖区",
+        "name": "Longhu Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "龙湖区"
+            }
+        }
+    },
+    "CN-44-469dfd-38d398": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44-469dfd",
+        "id": "CN-44-469dfd-38d398",
+        "code": "南澳县",
+        "name": "Nan'ao Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "南澳县"
+            }
+        }
+    }
+}

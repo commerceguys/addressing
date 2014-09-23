@@ -1,0 +1,1970 @@
+{
+    "BR-GO-edcbc6": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-edcbc6",
+        "code": "Abadia de Goiás",
+        "name": "Abadia de Goiás"
+    },
+    "BR-GO-2d7cd1": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-2d7cd1",
+        "code": "Abadiânia",
+        "name": "Abadiânia"
+    },
+    "BR-GO-0e3209": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-0e3209",
+        "code": "Acreúna",
+        "name": "Acreúna"
+    },
+    "BR-GO-5ada15": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-5ada15",
+        "code": "Adelândia",
+        "name": "Adelândia"
+    },
+    "BR-GO-67282d": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-67282d",
+        "code": "Água Fria de Goiás",
+        "name": "Água Fria de Goiás"
+    },
+    "BR-GO-3979dc": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-3979dc",
+        "code": "Água Limpa",
+        "name": "Água Limpa"
+    },
+    "BR-GO-f44af9": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-f44af9",
+        "code": "Águas Lindas de Goiás",
+        "name": "Águas Lindas de Goiás"
+    },
+    "BR-GO-89f917": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-89f917",
+        "code": "Alexânia",
+        "name": "Alexânia"
+    },
+    "BR-GO-4d9927": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-4d9927",
+        "code": "Aloândia",
+        "name": "Aloândia"
+    },
+    "BR-GO-5b016a": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-5b016a",
+        "code": "Alto Horizonte",
+        "name": "Alto Horizonte"
+    },
+    "BR-GO-db23a0": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-db23a0",
+        "code": "Alto Paraíso de Goiás",
+        "name": "Alto Paraíso de Goiás"
+    },
+    "BR-GO-04094f": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-04094f",
+        "code": "Alvorada do Norte",
+        "name": "Alvorada do Norte"
+    },
+    "BR-GO-5f1b8c": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-5f1b8c",
+        "code": "Amaralina",
+        "name": "Amaralina"
+    },
+    "BR-GO-b15019": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-b15019",
+        "code": "Americano do Brasil",
+        "name": "Americano do Brasil"
+    },
+    "BR-GO-acdc36": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-acdc36",
+        "code": "Amorinópolis",
+        "name": "Amorinópolis"
+    },
+    "BR-GO-e62dad": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-e62dad",
+        "code": "Anápolis",
+        "name": "Anápolis"
+    },
+    "BR-GO-1168a8": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-1168a8",
+        "code": "Anhanguera",
+        "name": "Anhanguera"
+    },
+    "BR-GO-498e97": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-498e97",
+        "code": "Anicuns",
+        "name": "Anicuns"
+    },
+    "BR-GO-7d4228": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-7d4228",
+        "code": "Aparecida de Goiânia",
+        "name": "Aparecida de Goiânia"
+    },
+    "BR-GO-083fe4": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-083fe4",
+        "code": "Aparecida do Rio Doce",
+        "name": "Aparecida do Rio Doce"
+    },
+    "BR-GO-db9627": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-db9627",
+        "code": "Aporé",
+        "name": "Aporé"
+    },
+    "BR-GO-05017e": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-05017e",
+        "code": "Araçu",
+        "name": "Araçu"
+    },
+    "BR-GO-4e13a8": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-4e13a8",
+        "code": "Aragarças",
+        "name": "Aragarças"
+    },
+    "BR-GO-23ff6e": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-23ff6e",
+        "code": "Aragoiânia",
+        "name": "Aragoiânia"
+    },
+    "BR-GO-5b4c7e": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-5b4c7e",
+        "code": "Araguapaz",
+        "name": "Araguapaz"
+    },
+    "BR-GO-6d071c": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-6d071c",
+        "code": "Arenópolis",
+        "name": "Arenópolis"
+    },
+    "BR-GO-54f108": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-54f108",
+        "code": "Aruanã",
+        "name": "Aruanã"
+    },
+    "BR-GO-141ff3": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-141ff3",
+        "code": "Aurilândia",
+        "name": "Aurilândia"
+    },
+    "BR-GO-c7f39f": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-c7f39f",
+        "code": "Avelinópolis",
+        "name": "Avelinópolis"
+    },
+    "BR-GO-8258e7": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-8258e7",
+        "code": "Baliza",
+        "name": "Baliza"
+    },
+    "BR-GO-2835a3": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-2835a3",
+        "code": "Barro Alto",
+        "name": "Barro Alto"
+    },
+    "BR-GO-73056e": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-73056e",
+        "code": "Bela Vista de Goiás",
+        "name": "Bela Vista de Goiás"
+    },
+    "BR-GO-c3c54e": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-c3c54e",
+        "code": "Bom Jardim de Goiás",
+        "name": "Bom Jardim de Goiás"
+    },
+    "BR-GO-81cf8a": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-81cf8a",
+        "code": "Bom Jesus de Goiás",
+        "name": "Bom Jesus de Goiás"
+    },
+    "BR-GO-226826": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-226826",
+        "code": "Bonfinópolis",
+        "name": "Bonfinópolis"
+    },
+    "BR-GO-412084": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-412084",
+        "code": "Bonópolis",
+        "name": "Bonópolis"
+    },
+    "BR-GO-906d64": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-906d64",
+        "code": "Brazabrantes",
+        "name": "Brazabrantes"
+    },
+    "BR-GO-8e4764": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-8e4764",
+        "code": "Britânia",
+        "name": "Britânia"
+    },
+    "BR-GO-b6d87d": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-b6d87d",
+        "code": "Buriti Alegre",
+        "name": "Buriti Alegre"
+    },
+    "BR-GO-5166fc": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-5166fc",
+        "code": "Buriti de Goiás",
+        "name": "Buriti de Goiás"
+    },
+    "BR-GO-ca07d1": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-ca07d1",
+        "code": "Buritinópolis",
+        "name": "Buritinópolis"
+    },
+    "BR-GO-ad4989": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-ad4989",
+        "code": "Cabeceiras",
+        "name": "Cabeceiras"
+    },
+    "BR-GO-1b3f52": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-1b3f52",
+        "code": "Cachoeira Alta",
+        "name": "Cachoeira Alta"
+    },
+    "BR-GO-aaf088": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-aaf088",
+        "code": "Cachoeira de Goiás",
+        "name": "Cachoeira de Goiás"
+    },
+    "BR-GO-61a420": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-61a420",
+        "code": "Cachoeira Dourada",
+        "name": "Cachoeira Dourada"
+    },
+    "BR-GO-6023e3": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-6023e3",
+        "code": "Caçu",
+        "name": "Caçu"
+    },
+    "BR-GO-f3cc20": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-f3cc20",
+        "code": "Caiapônia",
+        "name": "Caiapônia"
+    },
+    "BR-GO-006569": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-006569",
+        "code": "Caldas Novas",
+        "name": "Caldas Novas"
+    },
+    "BR-GO-e540a8": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-e540a8",
+        "code": "Caldazinha",
+        "name": "Caldazinha"
+    },
+    "BR-GO-ac8abc": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-ac8abc",
+        "code": "Campestre de Goiás",
+        "name": "Campestre de Goiás"
+    },
+    "BR-GO-5b256a": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-5b256a",
+        "code": "Campinaçu",
+        "name": "Campinaçu"
+    },
+    "BR-GO-999c5c": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-999c5c",
+        "code": "Campinorte",
+        "name": "Campinorte"
+    },
+    "BR-GO-ca40be": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-ca40be",
+        "code": "Campo Alegre de Goiás",
+        "name": "Campo Alegre de Goiás"
+    },
+    "BR-GO-bfa442": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-bfa442",
+        "code": "Campo Limpo de Goiás",
+        "name": "Campo Limpo de Goiás"
+    },
+    "BR-GO-41f12a": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-41f12a",
+        "code": "Campos Belos",
+        "name": "Campos Belos"
+    },
+    "BR-GO-1581e2": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-1581e2",
+        "code": "Campos Verdes",
+        "name": "Campos Verdes"
+    },
+    "BR-GO-7d1e6a": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-7d1e6a",
+        "code": "Carmo do Rio Verde",
+        "name": "Carmo do Rio Verde"
+    },
+    "BR-GO-8a6a65": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-8a6a65",
+        "code": "Castelândia",
+        "name": "Castelândia"
+    },
+    "BR-GO-2849a6": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-2849a6",
+        "code": "Catalão",
+        "name": "Catalão"
+    },
+    "BR-GO-eb7328": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-eb7328",
+        "code": "Caturaí",
+        "name": "Caturaí"
+    },
+    "BR-GO-e0fe9e": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-e0fe9e",
+        "code": "Cavalcante",
+        "name": "Cavalcante"
+    },
+    "BR-GO-b30b6a": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-b30b6a",
+        "code": "Ceres",
+        "name": "Ceres"
+    },
+    "BR-GO-20bd34": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-20bd34",
+        "code": "Cezarina",
+        "name": "Cezarina"
+    },
+    "BR-GO-af6289": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-af6289",
+        "code": "Chapadão do Céu",
+        "name": "Chapadão do Céu"
+    },
+    "BR-GO-1e4091": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-1e4091",
+        "code": "Cidade Ocidental",
+        "name": "Cidade Ocidental"
+    },
+    "BR-GO-77eaf0": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-77eaf0",
+        "code": "Cocalzinho de Goiás",
+        "name": "Cocalzinho de Goiás"
+    },
+    "BR-GO-289f1c": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-289f1c",
+        "code": "Colinas do Sul",
+        "name": "Colinas do Sul"
+    },
+    "BR-GO-48b020": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-48b020",
+        "code": "Córrego do Ouro",
+        "name": "Córrego do Ouro"
+    },
+    "BR-GO-dd306b": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-dd306b",
+        "code": "Corumbá de Goiás",
+        "name": "Corumbá de Goiás"
+    },
+    "BR-GO-6b2612": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-6b2612",
+        "code": "Corumbaíba",
+        "name": "Corumbaíba"
+    },
+    "BR-GO-994214": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-994214",
+        "code": "Cristalina",
+        "name": "Cristalina"
+    },
+    "BR-GO-c8e726": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-c8e726",
+        "code": "Cristianópolis",
+        "name": "Cristianópolis"
+    },
+    "BR-GO-b45d14": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-b45d14",
+        "code": "Crixás",
+        "name": "Crixás"
+    },
+    "BR-GO-5c0d23": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-5c0d23",
+        "code": "Cromínia",
+        "name": "Cromínia"
+    },
+    "BR-GO-70befb": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-70befb",
+        "code": "Cumari",
+        "name": "Cumari"
+    },
+    "BR-GO-aeca03": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-aeca03",
+        "code": "Damianópolis",
+        "name": "Damianópolis"
+    },
+    "BR-GO-b98844": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-b98844",
+        "code": "Damolândia",
+        "name": "Damolândia"
+    },
+    "BR-GO-1eb7b7": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-1eb7b7",
+        "code": "Davinópolis",
+        "name": "Davinópolis"
+    },
+    "BR-GO-ba316e": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-ba316e",
+        "code": "Diorama",
+        "name": "Diorama"
+    },
+    "BR-GO-b8022e": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-b8022e",
+        "code": "Divinópolis de Goiás",
+        "name": "Divinópolis de Goiás"
+    },
+    "BR-GO-480450": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-480450",
+        "code": "Doverlândia",
+        "name": "Doverlândia"
+    },
+    "BR-GO-1226a6": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-1226a6",
+        "code": "Edealina",
+        "name": "Edealina"
+    },
+    "BR-GO-f9115b": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-f9115b",
+        "code": "Edéia",
+        "name": "Edéia"
+    },
+    "BR-GO-d98a11": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-d98a11",
+        "code": "Estrela do Norte",
+        "name": "Estrela do Norte"
+    },
+    "BR-GO-906792": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-906792",
+        "code": "Faina",
+        "name": "Faina"
+    },
+    "BR-GO-248c86": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-248c86",
+        "code": "Fazenda Nova",
+        "name": "Fazenda Nova"
+    },
+    "BR-GO-86caa8": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-86caa8",
+        "code": "Firminópolis",
+        "name": "Firminópolis"
+    },
+    "BR-GO-665490": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-665490",
+        "code": "Flores de Goiás",
+        "name": "Flores de Goiás"
+    },
+    "BR-GO-3d44b1": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-3d44b1",
+        "code": "Formosa",
+        "name": "Formosa"
+    },
+    "BR-GO-a0fc14": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-a0fc14",
+        "code": "Formoso",
+        "name": "Formoso"
+    },
+    "BR-GO-d0fd52": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-d0fd52",
+        "code": "Gameleira de Goiás",
+        "name": "Gameleira de Goiás"
+    },
+    "BR-GO-752ec5": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-752ec5",
+        "code": "Goianápolis",
+        "name": "Goianápolis"
+    },
+    "BR-GO-64cb7b": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-64cb7b",
+        "code": "Goiandira",
+        "name": "Goiandira"
+    },
+    "BR-GO-e66e4a": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-e66e4a",
+        "code": "Goianésia",
+        "name": "Goianésia"
+    },
+    "BR-GO-a66be1": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-a66be1",
+        "code": "Goiânia",
+        "name": "Goiânia"
+    },
+    "BR-GO-02ec6b": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-02ec6b",
+        "code": "Goianira",
+        "name": "Goianira"
+    },
+    "BR-GO-d702b8": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-d702b8",
+        "code": "Goiás",
+        "name": "Goiás"
+    },
+    "BR-GO-f9b3c9": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-f9b3c9",
+        "code": "Goiatuba",
+        "name": "Goiatuba"
+    },
+    "BR-GO-66775e": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-66775e",
+        "code": "Gouvelândia",
+        "name": "Gouvelândia"
+    },
+    "BR-GO-28d8e6": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-28d8e6",
+        "code": "Guapó",
+        "name": "Guapó"
+    },
+    "BR-GO-d97ab2": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-d97ab2",
+        "code": "Guaraíta",
+        "name": "Guaraíta"
+    },
+    "BR-GO-435282": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-435282",
+        "code": "Guarani de Goiás",
+        "name": "Guarani de Goiás"
+    },
+    "BR-GO-ca12f0": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-ca12f0",
+        "code": "Guarinos",
+        "name": "Guarinos"
+    },
+    "BR-GO-5718c0": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-5718c0",
+        "code": "Heitoraí",
+        "name": "Heitoraí"
+    },
+    "BR-GO-d8d394": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-d8d394",
+        "code": "Hidrolândia",
+        "name": "Hidrolândia"
+    },
+    "BR-GO-79deb8": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-79deb8",
+        "code": "Hidrolina",
+        "name": "Hidrolina"
+    },
+    "BR-GO-d9f682": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-d9f682",
+        "code": "Iaciara",
+        "name": "Iaciara"
+    },
+    "BR-GO-0e6d08": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-0e6d08",
+        "code": "Inaciolândia",
+        "name": "Inaciolândia"
+    },
+    "BR-GO-b39f40": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-b39f40",
+        "code": "Indiara",
+        "name": "Indiara"
+    },
+    "BR-GO-61a3cc": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-61a3cc",
+        "code": "Inhumas",
+        "name": "Inhumas"
+    },
+    "BR-GO-ab2840": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-ab2840",
+        "code": "Ipameri",
+        "name": "Ipameri"
+    },
+    "BR-GO-0861fe": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-0861fe",
+        "code": "Ipiranga de Goiás",
+        "name": "Ipiranga de Goiás"
+    },
+    "BR-GO-099fd0": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-099fd0",
+        "code": "Iporá",
+        "name": "Iporá"
+    },
+    "BR-GO-359a48": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-359a48",
+        "code": "Israelândia",
+        "name": "Israelândia"
+    },
+    "BR-GO-7e8281": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-7e8281",
+        "code": "Itaberaí",
+        "name": "Itaberaí"
+    },
+    "BR-GO-58819a": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-58819a",
+        "code": "Itaguari",
+        "name": "Itaguari"
+    },
+    "BR-GO-223601": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-223601",
+        "code": "Itaguaru",
+        "name": "Itaguaru"
+    },
+    "BR-GO-99ca2b": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-99ca2b",
+        "code": "Itajá",
+        "name": "Itajá"
+    },
+    "BR-GO-f3535d": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-f3535d",
+        "code": "Itapaci",
+        "name": "Itapaci"
+    },
+    "BR-GO-7e4eb3": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-7e4eb3",
+        "code": "Itapirapuã",
+        "name": "Itapirapuã"
+    },
+    "BR-GO-c2932f": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-c2932f",
+        "code": "Itapuranga",
+        "name": "Itapuranga"
+    },
+    "BR-GO-dd4e12": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-dd4e12",
+        "code": "Itarumã",
+        "name": "Itarumã"
+    },
+    "BR-GO-2ae511": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-2ae511",
+        "code": "Itauçu",
+        "name": "Itauçu"
+    },
+    "BR-GO-2b52ff": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-2b52ff",
+        "code": "Itumbiara",
+        "name": "Itumbiara"
+    },
+    "BR-GO-4ff3d7": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-4ff3d7",
+        "code": "Ivolândia",
+        "name": "Ivolândia"
+    },
+    "BR-GO-ca0a9b": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-ca0a9b",
+        "code": "Jandaia",
+        "name": "Jandaia"
+    },
+    "BR-GO-bf03ef": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-bf03ef",
+        "code": "Jaraguá",
+        "name": "Jaraguá"
+    },
+    "BR-GO-789dec": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-789dec",
+        "code": "Jataí",
+        "name": "Jataí"
+    },
+    "BR-GO-0a78d6": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-0a78d6",
+        "code": "Jaupaci",
+        "name": "Jaupaci"
+    },
+    "BR-GO-0b75d3": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-0b75d3",
+        "code": "Jesúpolis",
+        "name": "Jesúpolis"
+    },
+    "BR-GO-a6093e": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-a6093e",
+        "code": "Joviânia",
+        "name": "Joviânia"
+    },
+    "BR-GO-789b45": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-789b45",
+        "code": "Jussara",
+        "name": "Jussara"
+    },
+    "BR-GO-da49fe": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-da49fe",
+        "code": "Lagoa Santa",
+        "name": "Lagoa Santa"
+    },
+    "BR-GO-b57815": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-b57815",
+        "code": "Leopoldo de Bulhões",
+        "name": "Leopoldo de Bulhões"
+    },
+    "BR-GO-4c0d60": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-4c0d60",
+        "code": "Luziânia",
+        "name": "Luziânia"
+    },
+    "BR-GO-306cb8": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-306cb8",
+        "code": "Mairipotaba",
+        "name": "Mairipotaba"
+    },
+    "BR-GO-0e1bc2": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-0e1bc2",
+        "code": "Mambaí",
+        "name": "Mambaí"
+    },
+    "BR-GO-49432d": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-49432d",
+        "code": "Mara Rosa",
+        "name": "Mara Rosa"
+    },
+    "BR-GO-5be854": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-5be854",
+        "code": "Marzagão",
+        "name": "Marzagão"
+    },
+    "BR-GO-63055c": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-63055c",
+        "code": "Matrinchã",
+        "name": "Matrinchã"
+    },
+    "BR-GO-941c0c": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-941c0c",
+        "code": "Maurilândia",
+        "name": "Maurilândia"
+    },
+    "BR-GO-1cc0bf": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-1cc0bf",
+        "code": "Mimoso de Goiás",
+        "name": "Mimoso de Goiás"
+    },
+    "BR-GO-cdc983": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-cdc983",
+        "code": "Minaçu",
+        "name": "Minaçu"
+    },
+    "BR-GO-7beec8": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-7beec8",
+        "code": "Mineiros",
+        "name": "Mineiros"
+    },
+    "BR-GO-f9b202": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-f9b202",
+        "code": "Moiporá",
+        "name": "Moiporá"
+    },
+    "BR-GO-128f7c": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-128f7c",
+        "code": "Monte Alegre de Goiás",
+        "name": "Monte Alegre de Goiás"
+    },
+    "BR-GO-e155db": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-e155db",
+        "code": "Montes Claros de Goiás",
+        "name": "Montes Claros de Goiás"
+    },
+    "BR-GO-a6da6d": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-a6da6d",
+        "code": "Montividiu",
+        "name": "Montividiu"
+    },
+    "BR-GO-a68df9": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-a68df9",
+        "code": "Montividiu do Norte",
+        "name": "Montividiu do Norte"
+    },
+    "BR-GO-07e1c7": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-07e1c7",
+        "code": "Morrinhos",
+        "name": "Morrinhos"
+    },
+    "BR-GO-dec2e6": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-dec2e6",
+        "code": "Morro Agudo de Goiás",
+        "name": "Morro Agudo de Goiás"
+    },
+    "BR-GO-070bf4": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-070bf4",
+        "code": "Mossâmedes",
+        "name": "Mossâmedes"
+    },
+    "BR-GO-d7f233": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-d7f233",
+        "code": "Mozarlândia",
+        "name": "Mozarlândia"
+    },
+    "BR-GO-9e2c54": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-9e2c54",
+        "code": "Mundo Novo",
+        "name": "Mundo Novo"
+    },
+    "BR-GO-56f96a": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-56f96a",
+        "code": "Mutunópolis",
+        "name": "Mutunópolis"
+    },
+    "BR-GO-d4eab9": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-d4eab9",
+        "code": "Nazário",
+        "name": "Nazário"
+    },
+    "BR-GO-4ef557": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-4ef557",
+        "code": "Nerópolis",
+        "name": "Nerópolis"
+    },
+    "BR-GO-88f646": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-88f646",
+        "code": "Niquelândia",
+        "name": "Niquelândia"
+    },
+    "BR-GO-67db9c": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-67db9c",
+        "code": "Nova América",
+        "name": "Nova América"
+    },
+    "BR-GO-899001": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-899001",
+        "code": "Nova Aurora",
+        "name": "Nova Aurora"
+    },
+    "BR-GO-0fb1d0": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-0fb1d0",
+        "code": "Nova Crixás",
+        "name": "Nova Crixás"
+    },
+    "BR-GO-86c224": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-86c224",
+        "code": "Nova Glória",
+        "name": "Nova Glória"
+    },
+    "BR-GO-889ed5": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-889ed5",
+        "code": "Nova Iguaçu de Goiás",
+        "name": "Nova Iguaçu de Goiás"
+    },
+    "BR-GO-e053b1": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-e053b1",
+        "code": "Nova Roma",
+        "name": "Nova Roma"
+    },
+    "BR-GO-2b7f52": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-2b7f52",
+        "code": "Nova Veneza",
+        "name": "Nova Veneza"
+    },
+    "BR-GO-8a631c": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-8a631c",
+        "code": "Novo Brasil",
+        "name": "Novo Brasil"
+    },
+    "BR-GO-06a30d": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-06a30d",
+        "code": "Novo Gama",
+        "name": "Novo Gama"
+    },
+    "BR-GO-2c101e": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-2c101e",
+        "code": "Novo Planalto",
+        "name": "Novo Planalto"
+    },
+    "BR-GO-eaefb2": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-eaefb2",
+        "code": "Orizona",
+        "name": "Orizona"
+    },
+    "BR-GO-ce5c65": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-ce5c65",
+        "code": "Ouro Verde de Goiás",
+        "name": "Ouro Verde de Goiás"
+    },
+    "BR-GO-ab9afb": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-ab9afb",
+        "code": "Ouvidor",
+        "name": "Ouvidor"
+    },
+    "BR-GO-c96786": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-c96786",
+        "code": "Padre Bernardo",
+        "name": "Padre Bernardo"
+    },
+    "BR-GO-7adaf1": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-7adaf1",
+        "code": "Palestina de Goiás",
+        "name": "Palestina de Goiás"
+    },
+    "BR-GO-f1f90e": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-f1f90e",
+        "code": "Palmeiras de Goiás",
+        "name": "Palmeiras de Goiás"
+    },
+    "BR-GO-c93f9b": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-c93f9b",
+        "code": "Palmelo",
+        "name": "Palmelo"
+    },
+    "BR-GO-55b65f": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-55b65f",
+        "code": "Palminópolis",
+        "name": "Palminópolis"
+    },
+    "BR-GO-ed4eda": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-ed4eda",
+        "code": "Panama",
+        "name": "Panama"
+    },
+    "BR-GO-e90e9a": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-e90e9a",
+        "code": "Paranaiguara",
+        "name": "Paranaiguara"
+    },
+    "BR-GO-1e4638": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-1e4638",
+        "code": "Paraúna",
+        "name": "Paraúna"
+    },
+    "BR-GO-7a0ec3": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-7a0ec3",
+        "code": "Perolândia",
+        "name": "Perolândia"
+    },
+    "BR-GO-a8a837": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-a8a837",
+        "code": "Petrolina de Goiás",
+        "name": "Petrolina de Goiás"
+    },
+    "BR-GO-687e9d": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-687e9d",
+        "code": "Pilar de Goiás",
+        "name": "Pilar de Goiás"
+    },
+    "BR-GO-78718e": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-78718e",
+        "code": "Piracanjuba",
+        "name": "Piracanjuba"
+    },
+    "BR-GO-ba3818": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-ba3818",
+        "code": "Piranhas",
+        "name": "Piranhas"
+    },
+    "BR-GO-c4b72f": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-c4b72f",
+        "code": "Pirenópolis",
+        "name": "Pirenópolis"
+    },
+    "BR-GO-53a92d": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-53a92d",
+        "code": "Pires do Rio",
+        "name": "Pires do Rio"
+    },
+    "BR-GO-922958": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-922958",
+        "code": "Planaltina",
+        "name": "Planaltina"
+    },
+    "BR-GO-009464": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-009464",
+        "code": "Pontalina",
+        "name": "Pontalina"
+    },
+    "BR-GO-57238b": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-57238b",
+        "code": "Porangatu",
+        "name": "Porangatu"
+    },
+    "BR-GO-43cec9": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-43cec9",
+        "code": "Porteirão",
+        "name": "Porteirão"
+    },
+    "BR-GO-c1071b": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-c1071b",
+        "code": "Portelândia",
+        "name": "Portelândia"
+    },
+    "BR-GO-47e02a": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-47e02a",
+        "code": "Posse",
+        "name": "Posse"
+    },
+    "BR-GO-03deb3": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-03deb3",
+        "code": "Professor Jamil",
+        "name": "Professor Jamil"
+    },
+    "BR-GO-b55ab6": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-b55ab6",
+        "code": "Quirinópolis",
+        "name": "Quirinópolis"
+    },
+    "BR-GO-68e98c": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-68e98c",
+        "code": "Rialma",
+        "name": "Rialma"
+    },
+    "BR-GO-ec3529": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-ec3529",
+        "code": "Rianápolis",
+        "name": "Rianápolis"
+    },
+    "BR-GO-04697f": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-04697f",
+        "code": "Rio Quente",
+        "name": "Rio Quente"
+    },
+    "BR-GO-a8dc19": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-a8dc19",
+        "code": "Río Verde",
+        "name": "Río Verde"
+    },
+    "BR-GO-19c014": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-19c014",
+        "code": "Rubiataba",
+        "name": "Rubiataba"
+    },
+    "BR-GO-54180c": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-54180c",
+        "code": "Sanclerlândia",
+        "name": "Sanclerlândia"
+    },
+    "BR-GO-47f868": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-47f868",
+        "code": "Santa Bárbara de Goiás",
+        "name": "Santa Bárbara de Goiás"
+    },
+    "BR-GO-9e5597": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-9e5597",
+        "code": "Santa Cruz de Goiás",
+        "name": "Santa Cruz de Goiás"
+    },
+    "BR-GO-555089": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-555089",
+        "code": "Santa Fé de Goiás",
+        "name": "Santa Fé de Goiás"
+    },
+    "BR-GO-bed055": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-bed055",
+        "code": "Santa Helena de Goiás",
+        "name": "Santa Helena de Goiás"
+    },
+    "BR-GO-56175b": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-56175b",
+        "code": "Santa Isabel",
+        "name": "Santa Isabel"
+    },
+    "BR-GO-adbf2b": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-adbf2b",
+        "code": "Santa Rita do Araguaia",
+        "name": "Santa Rita do Araguaia"
+    },
+    "BR-GO-776d5a": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-776d5a",
+        "code": "Santa Rita do Novo Destino",
+        "name": "Santa Rita do Novo Destino"
+    },
+    "BR-GO-8b930c": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-8b930c",
+        "code": "Santa Rosa de Goiás",
+        "name": "Santa Rosa de Goiás"
+    },
+    "BR-GO-5e0acc": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-5e0acc",
+        "code": "Santa Tereza de Goiás",
+        "name": "Santa Tereza de Goiás"
+    },
+    "BR-GO-453b4e": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-453b4e",
+        "code": "Santa Terezinha de Goiás",
+        "name": "Santa Terezinha de Goiás"
+    },
+    "BR-GO-177e5d": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-177e5d",
+        "code": "Santo Antônio da Barra",
+        "name": "Santo Antônio da Barra"
+    },
+    "BR-GO-a59024": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-a59024",
+        "code": "Santo Antônio de Goiás",
+        "name": "Santo Antônio de Goiás"
+    },
+    "BR-GO-272010": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-272010",
+        "code": "Santo Antônio do Descoberto",
+        "name": "Santo Antônio do Descoberto"
+    },
+    "BR-GO-bef97a": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-bef97a",
+        "code": "São Domingos",
+        "name": "São Domingos"
+    },
+    "BR-GO-0d426b": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-0d426b",
+        "code": "São Francisco de Goiás",
+        "name": "São Francisco de Goiás"
+    },
+    "BR-GO-49b879": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-49b879",
+        "code": "São João d'Aliança",
+        "name": "São João d'Aliança"
+    },
+    "BR-GO-3aef55": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-3aef55",
+        "code": "São João da Paraúna",
+        "name": "São João da Paraúna"
+    },
+    "BR-GO-9215ac": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-9215ac",
+        "code": "São Luís de Montes Belos",
+        "name": "São Luís de Montes Belos"
+    },
+    "BR-GO-a73e81": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-a73e81",
+        "code": "São Luíz do Norte",
+        "name": "São Luíz do Norte"
+    },
+    "BR-GO-4c3ac3": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-4c3ac3",
+        "code": "São Miguel do Araguaia",
+        "name": "São Miguel do Araguaia"
+    },
+    "BR-GO-76ddb2": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-76ddb2",
+        "code": "São Miguel do Passa Quatro",
+        "name": "São Miguel do Passa Quatro"
+    },
+    "BR-GO-e0c4af": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-e0c4af",
+        "code": "São Patrício",
+        "name": "São Patrício"
+    },
+    "BR-GO-dd5022": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-dd5022",
+        "code": "São Simão",
+        "name": "São Simão"
+    },
+    "BR-GO-9c470f": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-9c470f",
+        "code": "Senador Canedo",
+        "name": "Senador Canedo"
+    },
+    "BR-GO-37e10f": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-37e10f",
+        "code": "Serranópolis",
+        "name": "Serranópolis"
+    },
+    "BR-GO-463819": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-463819",
+        "code": "Silvania",
+        "name": "Silvania"
+    },
+    "BR-GO-b6b08e": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-b6b08e",
+        "code": "Simolândia",
+        "name": "Simolândia"
+    },
+    "BR-GO-e0c821": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-e0c821",
+        "code": "Sítio d'Abadia",
+        "name": "Sítio d'Abadia"
+    },
+    "BR-GO-bd9430": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-bd9430",
+        "code": "Taquaral de Goiás",
+        "name": "Taquaral de Goiás"
+    },
+    "BR-GO-c52588": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-c52588",
+        "code": "Teresina de Goiás",
+        "name": "Teresina de Goiás"
+    },
+    "BR-GO-fdde46": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-fdde46",
+        "code": "Terezópolis de Goiás",
+        "name": "Terezópolis de Goiás"
+    },
+    "BR-GO-1c7b43": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-1c7b43",
+        "code": "Três Ranchos",
+        "name": "Três Ranchos"
+    },
+    "BR-GO-474732": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-474732",
+        "code": "Trindade",
+        "name": "Trindade"
+    },
+    "BR-GO-fac42c": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-fac42c",
+        "code": "Trombas",
+        "name": "Trombas"
+    },
+    "BR-GO-d42319": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-d42319",
+        "code": "Turvânia",
+        "name": "Turvânia"
+    },
+    "BR-GO-646a21": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-646a21",
+        "code": "Turvelândia",
+        "name": "Turvelândia"
+    },
+    "BR-GO-d92b38": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-d92b38",
+        "code": "Uirapuru",
+        "name": "Uirapuru"
+    },
+    "BR-GO-2008ef": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-2008ef",
+        "code": "Uruaçu",
+        "name": "Uruaçu"
+    },
+    "BR-GO-f73888": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-f73888",
+        "code": "Uruana",
+        "name": "Uruana"
+    },
+    "BR-GO-6d513c": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-6d513c",
+        "code": "Urutaí",
+        "name": "Urutaí"
+    },
+    "BR-GO-8da033": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-8da033",
+        "code": "Valparaíso de Goiás",
+        "name": "Valparaíso de Goiás"
+    },
+    "BR-GO-2fe776": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-2fe776",
+        "code": "Varjão",
+        "name": "Varjão"
+    },
+    "BR-GO-fad27f": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-fad27f",
+        "code": "Vianópolis",
+        "name": "Vianópolis"
+    },
+    "BR-GO-4f1420": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-4f1420",
+        "code": "Vicentinópolis",
+        "name": "Vicentinópolis"
+    },
+    "BR-GO-3ef7c0": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-3ef7c0",
+        "code": "Vila Boa",
+        "name": "Vila Boa"
+    },
+    "BR-GO-f0f423": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-GO",
+        "id": "BR-GO-f0f423",
+        "code": "Vila Propício",
+        "name": "Vila Propício"
+    }
+}

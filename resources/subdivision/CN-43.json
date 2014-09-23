@@ -1,0 +1,198 @@
+{
+    "CN-43-c7b576": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-43",
+        "id": "CN-43-c7b576",
+        "code": "常德市",
+        "name": "Changde Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "常德市"
+            }
+        },
+        "has_children": true
+    },
+    "CN-43-0b7501": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-43",
+        "id": "CN-43-0b7501",
+        "code": "郴州市",
+        "name": "Chenzhou Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "郴州市"
+            }
+        },
+        "has_children": true
+    },
+    "CN-43-8490c5": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-43",
+        "id": "CN-43-8490c5",
+        "code": "衡阳市",
+        "name": "Hengyang Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "衡阳市"
+            }
+        },
+        "has_children": true
+    },
+    "CN-43-31f68d": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-43",
+        "id": "CN-43-31f68d",
+        "code": "怀化市",
+        "name": "Huaihua Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "怀化市"
+            }
+        },
+        "has_children": true
+    },
+    "CN-43-a35a87": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-43",
+        "id": "CN-43-a35a87",
+        "code": "娄底市",
+        "name": "Loudi Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "娄底市"
+            }
+        },
+        "has_children": true
+    },
+    "CN-43-b37816": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-43",
+        "id": "CN-43-b37816",
+        "code": "邵阳市",
+        "name": "Shaoyang Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "邵阳市"
+            }
+        },
+        "has_children": true
+    },
+    "CN-43-c75d79": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-43",
+        "id": "CN-43-c75d79",
+        "code": "湘潭市",
+        "name": "Xiangtan Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "湘潭市"
+            }
+        },
+        "has_children": true
+    },
+    "CN-43-935574": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-43",
+        "id": "CN-43-935574",
+        "code": "湘西土家族苗族自治州",
+        "name": "Xiangxi Zhou",
+        "translations": {
+            "zh-hans": {
+                "name": "湘西州"
+            }
+        },
+        "has_children": true
+    },
+    "CN-43-b752f1": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-43",
+        "id": "CN-43-b752f1",
+        "code": "益阳市",
+        "name": "Yiyang Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "益阳市"
+            }
+        },
+        "has_children": true
+    },
+    "CN-43-afd523": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-43",
+        "id": "CN-43-afd523",
+        "code": "永州市",
+        "name": "Yongzhou Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "永州市"
+            }
+        },
+        "has_children": true
+    },
+    "CN-43-b04a65": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-43",
+        "id": "CN-43-b04a65",
+        "code": "岳阳市",
+        "name": "Yueyang Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "岳阳市"
+            }
+        },
+        "has_children": true
+    },
+    "CN-43-a11b2c": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-43",
+        "id": "CN-43-a11b2c",
+        "code": "张家界市",
+        "name": "Zhangjiajie Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "张家界市"
+            }
+        },
+        "has_children": true
+    },
+    "CN-43-a72ac2": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-43",
+        "id": "CN-43-a72ac2",
+        "code": "长沙市",
+        "name": "Changsha Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "长沙市"
+            }
+        },
+        "has_children": true
+    },
+    "CN-43-83d42a": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-43",
+        "id": "CN-43-83d42a",
+        "code": "株洲市",
+        "name": "Zhuzhou Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "株洲市"
+            }
+        },
+        "has_children": true
+    }
+}

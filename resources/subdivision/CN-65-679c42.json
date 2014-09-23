@@ -1,0 +1,119 @@
+{
+    "CN-65-679c42-bbc56f": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-65-679c42",
+        "id": "CN-65-679c42-bbc56f",
+        "code": "阿克苏市",
+        "name": "Aksu Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "阿克苏市"
+            }
+        }
+    },
+    "CN-65-679c42-575cbe": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-65-679c42",
+        "id": "CN-65-679c42-575cbe",
+        "code": "阿瓦提县",
+        "name": "Awat Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "阿瓦提县"
+            }
+        }
+    },
+    "CN-65-679c42-0b3fa2": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-65-679c42",
+        "id": "CN-65-679c42-0b3fa2",
+        "code": "拜城县",
+        "name": "Baicheng Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "拜城县"
+            }
+        }
+    },
+    "CN-65-679c42-44a8c8": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-65-679c42",
+        "id": "CN-65-679c42-44a8c8",
+        "code": "柯坪县",
+        "name": "Kalpin Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "柯坪县"
+            }
+        }
+    },
+    "CN-65-679c42-3565e1": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-65-679c42",
+        "id": "CN-65-679c42-3565e1",
+        "code": "库车县",
+        "name": "Kuqa Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "库车县"
+            }
+        }
+    },
+    "CN-65-679c42-865f15": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-65-679c42",
+        "id": "CN-65-679c42-865f15",
+        "code": "沙雅县",
+        "name": "Xayar Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "沙雅县"
+            }
+        }
+    },
+    "CN-65-679c42-c6686b": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-65-679c42",
+        "id": "CN-65-679c42-c6686b",
+        "code": "温宿县",
+        "name": "Wensu Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "温宿县"
+            }
+        }
+    },
+    "CN-65-679c42-88a3f7": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-65-679c42",
+        "id": "CN-65-679c42-88a3f7",
+        "code": "乌什县",
+        "name": "Wushi Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "乌什县"
+            }
+        }
+    },
+    "CN-65-679c42-40cb7c": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-65-679c42",
+        "id": "CN-65-679c42-40cb7c",
+        "code": "新和县",
+        "name": "Xinhe Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "新和县"
+            }
+        }
+    }
+}

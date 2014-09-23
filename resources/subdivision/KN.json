@@ -1,0 +1,18 @@
+{
+    "KN-N": {
+        "locale": "en",
+        "country_code": "KN",
+        "parent_id": null,
+        "id": "KN-N",
+        "code": "Nevis",
+        "name": "Nevis"
+    },
+    "KN-K": {
+        "locale": "en",
+        "country_code": "KN",
+        "parent_id": null,
+        "id": "KN-K",
+        "code": "St. Kitts",
+        "name": "St. Kitts"
+    }
+}

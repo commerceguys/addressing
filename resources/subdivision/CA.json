@@ -1,0 +1,184 @@
+{
+    "CA-AB": {
+        "locale": "en",
+        "country_code": "CA",
+        "parent_id": null,
+        "id": "CA-AB",
+        "code": "AB",
+        "name": "Alberta",
+        "postal_code_pattern": "T",
+        "translations": {
+            "fr": {
+                "name": "Alberta"
+            }
+        }
+    },
+    "CA-BC": {
+        "locale": "en",
+        "country_code": "CA",
+        "parent_id": null,
+        "id": "CA-BC",
+        "code": "BC",
+        "name": "British Columbia",
+        "postal_code_pattern": "V",
+        "translations": {
+            "fr": {
+                "name": "Colombie-Britannique"
+            }
+        }
+    },
+    "CA-MB": {
+        "locale": "en",
+        "country_code": "CA",
+        "parent_id": null,
+        "id": "CA-MB",
+        "code": "MB",
+        "name": "Manitoba",
+        "postal_code_pattern": "R",
+        "translations": {
+            "fr": {
+                "name": "Manitoba"
+            }
+        }
+    },
+    "CA-NB": {
+        "locale": "en",
+        "country_code": "CA",
+        "parent_id": null,
+        "id": "CA-NB",
+        "code": "NB",
+        "name": "New Brunswick",
+        "postal_code_pattern": "E",
+        "translations": {
+            "fr": {
+                "name": "Nouveau-Brunswick"
+            }
+        }
+    },
+    "CA-NL": {
+        "locale": "en",
+        "country_code": "CA",
+        "parent_id": null,
+        "id": "CA-NL",
+        "code": "NL",
+        "name": "Newfoundland and Labrador",
+        "postal_code_pattern": "A",
+        "translations": {
+            "fr": {
+                "name": "Terre-Neuve-et-Labrador"
+            }
+        }
+    },
+    "CA-NT": {
+        "locale": "en",
+        "country_code": "CA",
+        "parent_id": null,
+        "id": "CA-NT",
+        "code": "NT",
+        "name": "Northwest Territories",
+        "postal_code_pattern": "X0E|X0G|X1A",
+        "translations": {
+            "fr": {
+                "name": "Territoires du Nord-Ouest"
+            }
+        }
+    },
+    "CA-NS": {
+        "locale": "en",
+        "country_code": "CA",
+        "parent_id": null,
+        "id": "CA-NS",
+        "code": "NS",
+        "name": "Nova Scotia",
+        "postal_code_pattern": "B",
+        "translations": {
+            "fr": {
+                "name": "Nouvelle-Ecosse"
+            }
+        }
+    },
+    "CA-NU": {
+        "locale": "en",
+        "country_code": "CA",
+        "parent_id": null,
+        "id": "CA-NU",
+        "code": "NU",
+        "name": "Nunavut",
+        "postal_code_pattern": "X0A|X0B|X0C",
+        "translations": {
+            "fr": {
+                "name": "Nunavut"
+            }
+        }
+    },
+    "CA-ON": {
+        "locale": "en",
+        "country_code": "CA",
+        "parent_id": null,
+        "id": "CA-ON",
+        "code": "ON",
+        "name": "Ontario",
+        "postal_code_pattern": "K|L|M|N|P",
+        "translations": {
+            "fr": {
+                "name": "Ontario"
+            }
+        }
+    },
+    "CA-PE": {
+        "locale": "en",
+        "country_code": "CA",
+        "parent_id": null,
+        "id": "CA-PE",
+        "code": "PE",
+        "name": "Prince Edward Island",
+        "postal_code_pattern": "C",
+        "translations": {
+            "fr": {
+                "name": "Ile-du-Prince-Edouard"
+            }
+        }
+    },
+    "CA-QC": {
+        "locale": "en",
+        "country_code": "CA",
+        "parent_id": null,
+        "id": "CA-QC",
+        "code": "QC",
+        "name": "Quebec",
+        "postal_code_pattern": "G|H|J|K1A",
+        "translations": {
+            "fr": {
+                "name": "Québec"
+            }
+        }
+    },
+    "CA-SK": {
+        "locale": "en",
+        "country_code": "CA",
+        "parent_id": null,
+        "id": "CA-SK",
+        "code": "SK",
+        "name": "Saskatchewan",
+        "postal_code_pattern": "S|R8A",
+        "translations": {
+            "fr": {
+                "name": "Saskatchewan"
+            }
+        }
+    },
+    "CA-YT": {
+        "locale": "en",
+        "country_code": "CA",
+        "parent_id": null,
+        "id": "CA-YT",
+        "code": "YT",
+        "name": "Yukon",
+        "postal_code_pattern": "Y",
+        "translations": {
+            "fr": {
+                "name": "Yukon"
+            }
+        }
+    }
+}

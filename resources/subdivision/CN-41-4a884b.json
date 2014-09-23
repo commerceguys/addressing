@@ -1,0 +1,132 @@
+{
+    "CN-41-4a884b-7726e1": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-41-4a884b",
+        "id": "CN-41-4a884b-7726e1",
+        "code": "宝丰县",
+        "name": "Baofeng Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "宝丰县"
+            }
+        }
+    },
+    "CN-41-4a884b-880ab2": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-41-4a884b",
+        "id": "CN-41-4a884b-880ab2",
+        "code": "郏县",
+        "name": "Jia Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "郏县"
+            }
+        }
+    },
+    "CN-41-4a884b-f5d4dc": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-41-4a884b",
+        "id": "CN-41-4a884b-f5d4dc",
+        "code": "鲁山县",
+        "name": "Lushan Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "鲁山县"
+            }
+        }
+    },
+    "CN-41-4a884b-5cf14e": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-41-4a884b",
+        "id": "CN-41-4a884b-5cf14e",
+        "code": "汝州市",
+        "name": "Ruzhou Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "汝州市"
+            }
+        }
+    },
+    "CN-41-4a884b-382425": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-41-4a884b",
+        "id": "CN-41-4a884b-382425",
+        "code": "石龙区",
+        "name": "Shilong Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "石龙区"
+            }
+        }
+    },
+    "CN-41-4a884b-579585": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-41-4a884b",
+        "id": "CN-41-4a884b-579585",
+        "code": "卫东区",
+        "name": "Weidong Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "卫东区"
+            }
+        }
+    },
+    "CN-41-4a884b-c9cc3b": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-41-4a884b",
+        "id": "CN-41-4a884b-c9cc3b",
+        "code": "舞钢市",
+        "name": "Wugang Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "舞钢市"
+            }
+        }
+    },
+    "CN-41-4a884b-7c6700": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-41-4a884b",
+        "id": "CN-41-4a884b-7c6700",
+        "code": "新华区",
+        "name": "Xinhua Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "新华区"
+            }
+        }
+    },
+    "CN-41-4a884b-b0358f": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-41-4a884b",
+        "id": "CN-41-4a884b-b0358f",
+        "code": "叶县",
+        "name": "Ye Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "叶县"
+            }
+        }
+    },
+    "CN-41-4a884b-89fb38": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-41-4a884b",
+        "id": "CN-41-4a884b-89fb38",
+        "code": "湛河区",
+        "name": "Zhanhe Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "湛河区"
+            }
+        }
+    }
+}

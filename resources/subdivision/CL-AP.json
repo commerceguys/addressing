@@ -1,0 +1,34 @@
+{
+    "CL-AP-f16ca0": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AP",
+        "id": "CL-AP-f16ca0",
+        "code": "Arica",
+        "name": "Arica"
+    },
+    "CL-AP-3a6ff5": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AP",
+        "id": "CL-AP-3a6ff5",
+        "code": "Camarones",
+        "name": "Camarones"
+    },
+    "CL-AP-2647bd": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AP",
+        "id": "CL-AP-2647bd",
+        "code": "General Lagos",
+        "name": "General Lagos"
+    },
+    "CL-AP-b522a9": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AP",
+        "id": "CL-AP-b522a9",
+        "code": "Putre",
+        "name": "Putre"
+    }
+}

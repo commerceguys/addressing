@@ -1,0 +1,210 @@
+{
+    "CN-11-67c298": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-11",
+        "id": "CN-11-67c298",
+        "code": "昌平区",
+        "name": "Changping Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "昌平区"
+            }
+        }
+    },
+    "CN-11-93c7ac": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-11",
+        "id": "CN-11-93c7ac",
+        "code": "朝阳区",
+        "name": "Chaoyang Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "朝阳区"
+            }
+        }
+    },
+    "CN-11-0eda12": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-11",
+        "id": "CN-11-0eda12",
+        "code": "大兴区",
+        "name": "Daxing Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "大兴区"
+            }
+        }
+    },
+    "CN-11-e3de5c": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-11",
+        "id": "CN-11-e3de5c",
+        "code": "东城区",
+        "name": "Dongcheng Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "东城区"
+            }
+        }
+    },
+    "CN-11-251338": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-11",
+        "id": "CN-11-251338",
+        "code": "房山区",
+        "name": "Fangshan Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "房山区"
+            }
+        }
+    },
+    "CN-11-acb844": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-11",
+        "id": "CN-11-acb844",
+        "code": "丰台区",
+        "name": "Fengtai Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "丰台区"
+            }
+        }
+    },
+    "CN-11-4f9c85": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-11",
+        "id": "CN-11-4f9c85",
+        "code": "海淀区",
+        "name": "Haidian Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "海淀区"
+            }
+        }
+    },
+    "CN-11-e1bbce": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-11",
+        "id": "CN-11-e1bbce",
+        "code": "怀柔区",
+        "name": "Huairou Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "怀柔区"
+            }
+        }
+    },
+    "CN-11-fa1b7f": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-11",
+        "id": "CN-11-fa1b7f",
+        "code": "门头沟区",
+        "name": "Mentougou Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "门头沟区"
+            }
+        }
+    },
+    "CN-11-3db9b8": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-11",
+        "id": "CN-11-3db9b8",
+        "code": "密云县",
+        "name": "Miyun Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "密云县"
+            }
+        }
+    },
+    "CN-11-9f44ee": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-11",
+        "id": "CN-11-9f44ee",
+        "code": "平谷区",
+        "name": "Pinggu Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "平谷区"
+            }
+        }
+    },
+    "CN-11-666e06": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-11",
+        "id": "CN-11-666e06",
+        "code": "石景山区",
+        "name": "Shijingshan Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "石景山区"
+            }
+        }
+    },
+    "CN-11-9ee9b2": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-11",
+        "id": "CN-11-9ee9b2",
+        "code": "顺义区",
+        "name": "Shunyi Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "顺义区"
+            }
+        }
+    },
+    "CN-11-456eba": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-11",
+        "id": "CN-11-456eba",
+        "code": "通州区",
+        "name": "Tongzhou Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "通州区"
+            }
+        }
+    },
+    "CN-11-30524e": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-11",
+        "id": "CN-11-30524e",
+        "code": "西城区",
+        "name": "Xicheng Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "西城区"
+            }
+        }
+    },
+    "CN-11-b3546f": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-11",
+        "id": "CN-11-b3546f",
+        "code": "延庆县",
+        "name": "Yanqing Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "延庆县"
+            }
+        }
+    }
+}

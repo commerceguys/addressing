@@ -1,0 +1,171 @@
+{
+    "CN-14-231d6c-97819b": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-14-231d6c",
+        "id": "CN-14-231d6c-97819b",
+        "code": "城区",
+        "name": "Cheng Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "城区"
+            }
+        }
+    },
+    "CN-14-231d6c-947477": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-14-231d6c",
+        "id": "CN-14-231d6c-947477",
+        "code": "壶关县",
+        "name": "Huguan Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "壶关县"
+            }
+        }
+    },
+    "CN-14-231d6c-661c25": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-14-231d6c",
+        "id": "CN-14-231d6c-661c25",
+        "code": "郊区",
+        "name": "Jiao Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "郊区"
+            }
+        }
+    },
+    "CN-14-231d6c-692180": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-14-231d6c",
+        "id": "CN-14-231d6c-692180",
+        "code": "黎城县",
+        "name": "Licheng Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "黎城县"
+            }
+        }
+    },
+    "CN-14-231d6c-55a3be": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-14-231d6c",
+        "id": "CN-14-231d6c-55a3be",
+        "code": "潞城市",
+        "name": "Lucheng Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "潞城市"
+            }
+        }
+    },
+    "CN-14-231d6c-1cc165": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-14-231d6c",
+        "id": "CN-14-231d6c-1cc165",
+        "code": "平顺县",
+        "name": "Pingshun Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "平顺县"
+            }
+        }
+    },
+    "CN-14-231d6c-7865ef": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-14-231d6c",
+        "id": "CN-14-231d6c-7865ef",
+        "code": "沁县",
+        "name": "Qin Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "沁县"
+            }
+        }
+    },
+    "CN-14-231d6c-e7e46d": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-14-231d6c",
+        "id": "CN-14-231d6c-e7e46d",
+        "code": "沁源县",
+        "name": "Qinyuan Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "沁源县"
+            }
+        }
+    },
+    "CN-14-231d6c-8bcfbf": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-14-231d6c",
+        "id": "CN-14-231d6c-8bcfbf",
+        "code": "屯留县",
+        "name": "Tunliu Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "屯留县"
+            }
+        }
+    },
+    "CN-14-231d6c-cb60de": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-14-231d6c",
+        "id": "CN-14-231d6c-cb60de",
+        "code": "武乡县",
+        "name": "Wuxiang Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "武乡县"
+            }
+        }
+    },
+    "CN-14-231d6c-cb6cb3": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-14-231d6c",
+        "id": "CN-14-231d6c-cb6cb3",
+        "code": "襄垣县",
+        "name": "Xiangyuan Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "襄垣县"
+            }
+        }
+    },
+    "CN-14-231d6c-e17425": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-14-231d6c",
+        "id": "CN-14-231d6c-e17425",
+        "code": "长治县",
+        "name": "Changzhi Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "长治县"
+            }
+        }
+    },
+    "CN-14-231d6c-53ca7e": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-14-231d6c",
+        "id": "CN-14-231d6c-53ca7e",
+        "code": "长子县",
+        "name": "Zhangzi Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "长子县"
+            }
+        }
+    }
+}

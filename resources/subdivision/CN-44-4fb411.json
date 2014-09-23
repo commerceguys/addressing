@@ -1,0 +1,80 @@
+{
+    "CN-44-4fb411-d61187": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44-4fb411",
+        "id": "CN-44-4fb411-d61187",
+        "code": "电白县",
+        "name": "Dianbai Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "电白县"
+            }
+        }
+    },
+    "CN-44-4fb411-39a00e": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44-4fb411",
+        "id": "CN-44-4fb411-39a00e",
+        "code": "高州市",
+        "name": "Gaozhou Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "高州市"
+            }
+        }
+    },
+    "CN-44-4fb411-99d1fd": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44-4fb411",
+        "id": "CN-44-4fb411-99d1fd",
+        "code": "化州市",
+        "name": "Huazhou Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "化州市"
+            }
+        }
+    },
+    "CN-44-4fb411-bb5896": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44-4fb411",
+        "id": "CN-44-4fb411-bb5896",
+        "code": "茂港区",
+        "name": "Maogang Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "茂港区"
+            }
+        }
+    },
+    "CN-44-4fb411-ce6b5e": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44-4fb411",
+        "id": "CN-44-4fb411-ce6b5e",
+        "code": "茂南区",
+        "name": "Maonan Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "茂南区"
+            }
+        }
+    },
+    "CN-44-4fb411-8a96d2": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44-4fb411",
+        "id": "CN-44-4fb411-8a96d2",
+        "code": "信宜市",
+        "name": "Xinyi Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "信宜市"
+            }
+        }
+    }
+}

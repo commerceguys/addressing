@@ -1,0 +1,184 @@
+{
+    "TW-TAO-a404be": {
+        "locale": "zh-Latn",
+        "country_code": "TW",
+        "parent_id": "TW-TAO",
+        "id": "TW-TAO-a404be",
+        "code": "八德市",
+        "name": "Bade City",
+        "postal_code_pattern": "334",
+        "translations": {
+            "zh-hant": {
+                "name": "八德市"
+            }
+        }
+    },
+    "TW-TAO-9904fe": {
+        "locale": "zh-Latn",
+        "country_code": "TW",
+        "parent_id": "TW-TAO",
+        "id": "TW-TAO-9904fe",
+        "code": "大園鄉",
+        "name": "Dayuan Township",
+        "postal_code_pattern": "337",
+        "translations": {
+            "zh-hant": {
+                "name": "大園鄉"
+            }
+        }
+    },
+    "TW-TAO-375024": {
+        "locale": "zh-Latn",
+        "country_code": "TW",
+        "parent_id": "TW-TAO",
+        "id": "TW-TAO-375024",
+        "code": "大溪鎮",
+        "name": "Dasi Township",
+        "postal_code_pattern": "335",
+        "translations": {
+            "zh-hant": {
+                "name": "大溪鎮"
+            }
+        }
+    },
+    "TW-TAO-97bcbf": {
+        "locale": "zh-Latn",
+        "country_code": "TW",
+        "parent_id": "TW-TAO",
+        "id": "TW-TAO-97bcbf",
+        "code": "中壢市",
+        "name": "Jhongli City",
+        "postal_code_pattern": "320",
+        "translations": {
+            "zh-hant": {
+                "name": "中壢市"
+            }
+        }
+    },
+    "TW-TAO-b053e4": {
+        "locale": "zh-Latn",
+        "country_code": "TW",
+        "parent_id": "TW-TAO",
+        "id": "TW-TAO-b053e4",
+        "code": "平鎮市",
+        "name": "Pingjhen City",
+        "postal_code_pattern": "324",
+        "translations": {
+            "zh-hant": {
+                "name": "平鎮市"
+            }
+        }
+    },
+    "TW-TAO-8b7c60": {
+        "locale": "zh-Latn",
+        "country_code": "TW",
+        "parent_id": "TW-TAO",
+        "id": "TW-TAO-8b7c60",
+        "code": "桃園市",
+        "name": "Taoyuan City",
+        "postal_code_pattern": "330",
+        "translations": {
+            "zh-hant": {
+                "name": "桃園市"
+            }
+        }
+    },
+    "TW-TAO-439ebe": {
+        "locale": "zh-Latn",
+        "country_code": "TW",
+        "parent_id": "TW-TAO",
+        "id": "TW-TAO-439ebe",
+        "code": "復興鄉",
+        "name": "Fusing Township",
+        "postal_code_pattern": "336",
+        "translations": {
+            "zh-hant": {
+                "name": "復興鄉"
+            }
+        }
+    },
+    "TW-TAO-db874e": {
+        "locale": "zh-Latn",
+        "country_code": "TW",
+        "parent_id": "TW-TAO",
+        "id": "TW-TAO-db874e",
+        "code": "新屋鄉",
+        "name": "Sinwu Township",
+        "postal_code_pattern": "327",
+        "translations": {
+            "zh-hant": {
+                "name": "新屋鄉"
+            }
+        }
+    },
+    "TW-TAO-34b2f8": {
+        "locale": "zh-Latn",
+        "country_code": "TW",
+        "parent_id": "TW-TAO",
+        "id": "TW-TAO-34b2f8",
+        "code": "楊梅鎮",
+        "name": "Yangmei Township",
+        "postal_code_pattern": "326",
+        "translations": {
+            "zh-hant": {
+                "name": "楊梅鎮"
+            }
+        }
+    },
+    "TW-TAO-a67ee9": {
+        "locale": "zh-Latn",
+        "country_code": "TW",
+        "parent_id": "TW-TAO",
+        "id": "TW-TAO-a67ee9",
+        "code": "龍潭鄉",
+        "name": "Longtan Township",
+        "postal_code_pattern": "325",
+        "translations": {
+            "zh-hant": {
+                "name": "龍潭鄉"
+            }
+        }
+    },
+    "TW-TAO-999975": {
+        "locale": "zh-Latn",
+        "country_code": "TW",
+        "parent_id": "TW-TAO",
+        "id": "TW-TAO-999975",
+        "code": "龜山鄉",
+        "name": "Gueishan Township",
+        "postal_code_pattern": "333",
+        "translations": {
+            "zh-hant": {
+                "name": "龜山鄉"
+            }
+        }
+    },
+    "TW-TAO-380887": {
+        "locale": "zh-Latn",
+        "country_code": "TW",
+        "parent_id": "TW-TAO",
+        "id": "TW-TAO-380887",
+        "code": "蘆竹鄉",
+        "name": "Lujhu Township",
+        "postal_code_pattern": "338",
+        "translations": {
+            "zh-hant": {
+                "name": "蘆竹鄉"
+            }
+        }
+    },
+    "TW-TAO-621f64": {
+        "locale": "zh-Latn",
+        "country_code": "TW",
+        "parent_id": "TW-TAO",
+        "id": "TW-TAO-621f64",
+        "code": "觀音鄉",
+        "name": "Guanyin Township",
+        "postal_code_pattern": "328",
+        "translations": {
+            "zh-hant": {
+                "name": "觀音鄉"
+            }
+        }
+    }
+}

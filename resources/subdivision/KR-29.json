@@ -1,0 +1,72 @@
+{
+    "KR-29-10ff0b": {
+        "locale": "ko-Latn",
+        "country_code": "KR",
+        "parent_id": "KR-29",
+        "id": "KR-29-10ff0b",
+        "code": "광산구",
+        "name": "Gwangsan-gu",
+        "postal_code_pattern": "506",
+        "translations": {
+            "ko": {
+                "name": "광산구"
+            }
+        }
+    },
+    "KR-29-50c04c": {
+        "locale": "ko-Latn",
+        "country_code": "KR",
+        "parent_id": "KR-29",
+        "id": "KR-29-50c04c",
+        "code": "남구",
+        "name": "Nam-gu",
+        "postal_code_pattern": "503",
+        "translations": {
+            "ko": {
+                "name": "남구"
+            }
+        }
+    },
+    "KR-29-98c88a": {
+        "locale": "ko-Latn",
+        "country_code": "KR",
+        "parent_id": "KR-29",
+        "id": "KR-29-98c88a",
+        "code": "동구",
+        "name": "Dong-gu",
+        "postal_code_pattern": "501",
+        "translations": {
+            "ko": {
+                "name": "동구"
+            }
+        }
+    },
+    "KR-29-a3af8d": {
+        "locale": "ko-Latn",
+        "country_code": "KR",
+        "parent_id": "KR-29",
+        "id": "KR-29-a3af8d",
+        "code": "북구",
+        "name": "Buk-gu",
+        "postal_code_pattern": "500",
+        "translations": {
+            "ko": {
+                "name": "북구"
+            }
+        }
+    },
+    "KR-29-678e9f": {
+        "locale": "ko-Latn",
+        "country_code": "KR",
+        "parent_id": "KR-29",
+        "id": "KR-29-678e9f",
+        "code": "서구",
+        "name": "Seo-gu",
+        "postal_code_pattern": "502",
+        "translations": {
+            "ko": {
+                "name": "서구"
+            }
+        }
+    }
+}

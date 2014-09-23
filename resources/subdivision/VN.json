@@ -1,0 +1,834 @@
+{
+    "VN-44": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-44",
+        "code": "An Giang",
+        "name": "AN GIANG PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "An Giang"
+            }
+        }
+    },
+    "VN-43": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-43",
+        "code": "Bà Rịa–Vũng Tàu",
+        "name": "BA RIA-VUNG TAU PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Bà Rịa–Vũng Tàu"
+            }
+        }
+    },
+    "VN-54": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-54",
+        "code": "Bắc Giang",
+        "name": "BAC GIANG PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Bắc Giang"
+            }
+        }
+    },
+    "VN-53": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-53",
+        "code": "Bắc Kạn",
+        "name": "BAC KAN PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Bắc Kạn"
+            }
+        }
+    },
+    "VN-55": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-55",
+        "code": "Bắc Lieu",
+        "name": "BAC LIEU PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Bắc Lieu"
+            }
+        }
+    },
+    "VN-56": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-56",
+        "code": "Bắc Ninh",
+        "name": "BAC NINH PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Bắc Ninh"
+            }
+        }
+    },
+    "VN-50": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-50",
+        "code": "Bến Tre",
+        "name": "BEN TRE PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Bến Tre"
+            }
+        }
+    },
+    "VN-57": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-57",
+        "code": "Bình Dương",
+        "name": "BINH DUONG PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Bình Dương"
+            }
+        }
+    },
+    "VN-31": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-31",
+        "code": "Bình Định",
+        "name": "BINH DINH PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Bình Định"
+            }
+        }
+    },
+    "VN-58": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-58",
+        "code": "Bình Phước",
+        "name": "BINH PHUOC PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Bình Phước"
+            }
+        }
+    },
+    "VN-40": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-40",
+        "code": "Bình Thuận",
+        "name": "BINH THUAN PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Bình Thuận"
+            }
+        }
+    },
+    "VN-59": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-59",
+        "code": "Cà Mau",
+        "name": "CA MAU PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Cà Mau"
+            }
+        }
+    },
+    "VN-04": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-04",
+        "code": "Cao Bằng",
+        "name": "CAO BANG PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Cao Bằng"
+            }
+        }
+    },
+    "VN-48": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-48",
+        "code": "Cần Thơ",
+        "name": "CAN THO CITY",
+        "translations": {
+            "vi": {
+                "name": "Cần Thơ"
+            }
+        }
+    },
+    "VN-60": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-60",
+        "code": "Đà Nẵng",
+        "name": "DA NANG CITY",
+        "translations": {
+            "vi": {
+                "name": "Đà Nẵng"
+            }
+        }
+    },
+    "VN-33": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-33",
+        "code": "Đắk Lắk",
+        "name": "DAK LAK PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Đắk Lắk"
+            }
+        }
+    },
+    "VN-72": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-72",
+        "code": "Đăk Nông",
+        "name": "DAK NONG PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Đăk Nông"
+            }
+        }
+    },
+    "VN-71": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-71",
+        "code": "Điện Biên",
+        "name": "DIEN BIEN PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Điện Biên"
+            }
+        }
+    },
+    "VN-39": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-39",
+        "code": "Đồng Nai",
+        "name": "DONG NAI PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Đồng Nai"
+            }
+        }
+    },
+    "VN-45": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-45",
+        "code": "Đồng Tháp",
+        "name": "DONG THAP PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Đồng Tháp"
+            }
+        }
+    },
+    "VN-30": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-30",
+        "code": "Gia Lai",
+        "name": "GIA LAI PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Gia Lai"
+            }
+        }
+    },
+    "VN-03": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-03",
+        "code": "Hà Giang",
+        "name": "HA GIANG PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Hà Giang"
+            }
+        }
+    },
+    "VN-63": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-63",
+        "code": "Hà Nam",
+        "name": "HA NAM PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Hà Nam"
+            }
+        }
+    },
+    "VN-64": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-64",
+        "code": "Hà Nội",
+        "name": "HANOI CITY",
+        "translations": {
+            "vi": {
+                "name": "Hà Nội"
+            }
+        }
+    },
+    "VN-15": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-15",
+        "code": "Hà Tây",
+        "name": "HA TAY PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Hà Tây"
+            }
+        }
+    },
+    "VN-23": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-23",
+        "code": "Hà Tĩnh",
+        "name": "HA TINH PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Hà Tĩnh"
+            }
+        }
+    },
+    "VN-61": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-61",
+        "code": "Hải Dương",
+        "name": "HAI DUONG PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Hải Dương"
+            }
+        }
+    },
+    "VN-62": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-62",
+        "code": "Hải Phòng",
+        "name": "HAIPHONG CITY",
+        "translations": {
+            "vi": {
+                "name": "Hải Phòng"
+            }
+        }
+    },
+    "VN-73": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-73",
+        "code": "Hậu Giang",
+        "name": "HAU GIANG PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Hậu Giang"
+            }
+        }
+    },
+    "VN-14": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-14",
+        "code": "Hòa Bình",
+        "name": "HOA BINH PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Hòa Bình"
+            }
+        }
+    },
+    "VN-66": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-66",
+        "code": "Hưng Yên",
+        "name": "HUNG YEN PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Hưng Yên"
+            }
+        }
+    },
+    "VN-34": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-34",
+        "code": "Khánh Hòa",
+        "name": "KHANH HOA PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Khánh Hòa"
+            }
+        }
+    },
+    "VN-47": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-47",
+        "code": "Kiên Giang",
+        "name": "KIEN GIANG PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Kiên Giang"
+            }
+        }
+    },
+    "VN-28": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-28",
+        "code": "Kon Tum",
+        "name": "KON TUM PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Kon Tum"
+            }
+        }
+    },
+    "VN-01": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-01",
+        "code": "Lai Châu",
+        "name": "LAI CHAU PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Lai Châu"
+            }
+        }
+    },
+    "VN-09": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-09",
+        "code": "Lạng Sơn",
+        "name": "LANG SONG PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Lạng Sơn"
+            }
+        }
+    },
+    "VN-02": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-02",
+        "code": "Lào Cai",
+        "name": "LAO CAI PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Lào Cai"
+            }
+        }
+    },
+    "VN-35": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-35",
+        "code": "Lâm Đồng",
+        "name": "LAM DONG PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Lâm Đồng"
+            }
+        }
+    },
+    "VN-41": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-41",
+        "code": "Long An",
+        "name": "LONG AN PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Long An"
+            }
+        }
+    },
+    "VN-67": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-67",
+        "code": "Nam Định",
+        "name": "NAM DINH PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Nam Định"
+            }
+        }
+    },
+    "VN-22": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-22",
+        "code": "Nghệ An",
+        "name": "NGHE AN PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Nghệ An"
+            }
+        }
+    },
+    "VN-18": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-18",
+        "code": "Ninh Bình",
+        "name": "NINH BINH PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Ninh Bình"
+            }
+        }
+    },
+    "VN-36": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-36",
+        "code": "Ninh Thuận",
+        "name": "NINH THUAN PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Ninh Thuận"
+            }
+        }
+    },
+    "VN-68": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-68",
+        "code": "Phú Thọ",
+        "name": "PHU THO PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Phú Thọ"
+            }
+        }
+    },
+    "VN-32": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-32",
+        "code": "Phú Yên",
+        "name": "PHU YEN PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Phú Yên"
+            }
+        }
+    },
+    "VN-24": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-24",
+        "code": "Quảng Bình",
+        "name": "QUANG BINH PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Quảng Bình"
+            }
+        }
+    },
+    "VN-27": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-27",
+        "code": "Quảng Nam",
+        "name": "QUANG NAM PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Quảng Nam"
+            }
+        }
+    },
+    "VN-29": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-29",
+        "code": "Quảng Ngãi",
+        "name": "QUANG NGAI PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Quảng Ngãi"
+            }
+        }
+    },
+    "VN-13": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-13",
+        "code": "Quảng Ninh",
+        "name": "QUANG NINH PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Quảng Ninh"
+            }
+        }
+    },
+    "VN-25": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-25",
+        "code": "Quảng Trị",
+        "name": "QUANG TRI PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Quảng Trị"
+            }
+        }
+    },
+    "VN-52": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-52",
+        "code": "Sóc Trăng",
+        "name": "SOC TRANG PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Sóc Trăng"
+            }
+        }
+    },
+    "VN-05": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-05",
+        "code": "Sơn La",
+        "name": "SON LA PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Sơn La"
+            }
+        }
+    },
+    "VN-37": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-37",
+        "code": "Tây Ninh",
+        "name": "TAY NINH PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Tây Ninh"
+            }
+        }
+    },
+    "VN-20": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-20",
+        "code": "Thái Bình",
+        "name": "THAI BINH PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Thái Bình"
+            }
+        }
+    },
+    "VN-69": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-69",
+        "code": "Thái Nguyên",
+        "name": "THAI NGUYEN PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Thái Nguyên"
+            }
+        }
+    },
+    "VN-21": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-21",
+        "code": "Thanh Hóa",
+        "name": "THANH HOA PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Thanh Hóa"
+            }
+        }
+    },
+    "VN-65": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-65",
+        "code": "Thành phố Hồ Chí Minh",
+        "name": "HO CHI MINH CITY",
+        "translations": {
+            "vi": {
+                "name": "Thành phố Hồ Chí Minh"
+            }
+        }
+    },
+    "VN-26": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-26",
+        "code": "Thừa Thiên–Huế",
+        "name": "THUA THIEN-HUE PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Thừa Thiên–Huế"
+            }
+        }
+    },
+    "VN-46": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-46",
+        "code": "Tiền Giang",
+        "name": "TIEN GIANG PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Tiền Giang"
+            }
+        }
+    },
+    "VN-51": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-51",
+        "code": "Trà Vinh",
+        "name": "TRA VINH PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Trà Vinh"
+            }
+        }
+    },
+    "VN-07": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-07",
+        "code": "Tuyên Quang",
+        "name": "TUYEN QUANG PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Tuyên Quang"
+            }
+        }
+    },
+    "VN-49": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-49",
+        "code": "Vĩnh Long",
+        "name": "VINH LONG PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Vĩnh Long"
+            }
+        }
+    },
+    "VN-70": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-70",
+        "code": "Vĩnh Phúc",
+        "name": "VINH PHUC PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Vĩnh Phúc"
+            }
+        }
+    },
+    "VN-06": {
+        "locale": "vi-Latn",
+        "country_code": "VN",
+        "parent_id": null,
+        "id": "VN-06",
+        "code": "Yên Bái",
+        "name": "YEN BAI PROVINCE",
+        "translations": {
+            "vi": {
+                "name": "Yên Bái"
+            }
+        }
+    }
+}

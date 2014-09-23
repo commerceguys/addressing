@@ -1,0 +1,67 @@
+{
+    "CN-64-8833b6-8a3720": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-64-8833b6",
+        "id": "CN-64-8833b6-8a3720",
+        "code": "泾源县",
+        "name": "Jingyuan Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "泾源县"
+            }
+        }
+    },
+    "CN-64-8833b6-015e79": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-64-8833b6",
+        "id": "CN-64-8833b6-015e79",
+        "code": "隆德县",
+        "name": "Longde Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "隆德县"
+            }
+        }
+    },
+    "CN-64-8833b6-7dd60b": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-64-8833b6",
+        "id": "CN-64-8833b6-7dd60b",
+        "code": "彭阳县",
+        "name": "Pengyang Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "彭阳县"
+            }
+        }
+    },
+    "CN-64-8833b6-6786eb": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-64-8833b6",
+        "id": "CN-64-8833b6-6786eb",
+        "code": "西吉县",
+        "name": "Xiji Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "西吉县"
+            }
+        }
+    },
+    "CN-64-8833b6-a5c6ad": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-64-8833b6",
+        "id": "CN-64-8833b6-a5c6ad",
+        "code": "原州区",
+        "name": "Yuanzhou Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "原州区"
+            }
+        }
+    }
+}

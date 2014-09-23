@@ -1,0 +1,218 @@
+{
+    "AR-B": {
+        "locale": "es",
+        "country_code": "AR",
+        "parent_id": null,
+        "id": "AR-B",
+        "code": "Buenos Aires",
+        "name": "Buenos Aires",
+        "postal_code_pattern": "B?[1-36-8]"
+    },
+    "AR-K": {
+        "locale": "es",
+        "country_code": "AR",
+        "parent_id": null,
+        "id": "AR-K",
+        "code": "Catamarca",
+        "name": "Catamarca",
+        "postal_code_pattern": "K?[45]"
+    },
+    "AR-H": {
+        "locale": "es",
+        "country_code": "AR",
+        "parent_id": null,
+        "id": "AR-H",
+        "code": "Chaco",
+        "name": "Chaco",
+        "postal_code_pattern": "H?3"
+    },
+    "AR-U": {
+        "locale": "es",
+        "country_code": "AR",
+        "parent_id": null,
+        "id": "AR-U",
+        "code": "Chubut",
+        "name": "Chubut",
+        "postal_code_pattern": "U?[89]"
+    },
+    "AR-C": {
+        "locale": "es",
+        "country_code": "AR",
+        "parent_id": null,
+        "id": "AR-C",
+        "code": "Ciudad Autónoma de Buenos Aires",
+        "name": "Ciudad de Buenos Aires",
+        "postal_code_pattern": "C?1"
+    },
+    "AR-X": {
+        "locale": "es",
+        "country_code": "AR",
+        "parent_id": null,
+        "id": "AR-X",
+        "code": "Córdoba",
+        "name": "Córdoba",
+        "postal_code_pattern": "X?[235-8]"
+    },
+    "AR-W": {
+        "locale": "es",
+        "country_code": "AR",
+        "parent_id": null,
+        "id": "AR-W",
+        "code": "Corrientes",
+        "name": "Corrientes",
+        "postal_code_pattern": "W?3"
+    },
+    "AR-E": {
+        "locale": "es",
+        "country_code": "AR",
+        "parent_id": null,
+        "id": "AR-E",
+        "code": "Entre Ríos",
+        "name": "Entre Ríos",
+        "postal_code_pattern": "E?[1-3]"
+    },
+    "AR-P": {
+        "locale": "es",
+        "country_code": "AR",
+        "parent_id": null,
+        "id": "AR-P",
+        "code": "Formosa",
+        "name": "Formosa",
+        "postal_code_pattern": "P?[37]"
+    },
+    "AR-Y": {
+        "locale": "es",
+        "country_code": "AR",
+        "parent_id": null,
+        "id": "AR-Y",
+        "code": "Jujuy",
+        "name": "Jujuy",
+        "postal_code_pattern": "Y?4"
+    },
+    "AR-L": {
+        "locale": "es",
+        "country_code": "AR",
+        "parent_id": null,
+        "id": "AR-L",
+        "code": "La Pampa",
+        "name": "La Pampa",
+        "postal_code_pattern": "L?[3568]"
+    },
+    "AR-F": {
+        "locale": "es",
+        "country_code": "AR",
+        "parent_id": null,
+        "id": "AR-F",
+        "code": "La Rioja",
+        "name": "La Rioja",
+        "postal_code_pattern": "F?5"
+    },
+    "AR-M": {
+        "locale": "es",
+        "country_code": "AR",
+        "parent_id": null,
+        "id": "AR-M",
+        "code": "Mendoza",
+        "name": "Mendoza",
+        "postal_code_pattern": "M?[56]"
+    },
+    "AR-N": {
+        "locale": "es",
+        "country_code": "AR",
+        "parent_id": null,
+        "id": "AR-N",
+        "code": "Misiones",
+        "name": "Misiones",
+        "postal_code_pattern": "N?3"
+    },
+    "AR-Q": {
+        "locale": "es",
+        "country_code": "AR",
+        "parent_id": null,
+        "id": "AR-Q",
+        "code": "Neuquén",
+        "name": "Neuquén",
+        "postal_code_pattern": "Q?[38]"
+    },
+    "AR-R": {
+        "locale": "es",
+        "country_code": "AR",
+        "parent_id": null,
+        "id": "AR-R",
+        "code": "Río Negro",
+        "name": "Río Negro",
+        "postal_code_pattern": "R?[89]"
+    },
+    "AR-A": {
+        "locale": "es",
+        "country_code": "AR",
+        "parent_id": null,
+        "id": "AR-A",
+        "code": "Salta",
+        "name": "Salta",
+        "postal_code_pattern": "A?[34]"
+    },
+    "AR-J": {
+        "locale": "es",
+        "country_code": "AR",
+        "parent_id": null,
+        "id": "AR-J",
+        "code": "San Juan",
+        "name": "San Juan",
+        "postal_code_pattern": "J?5"
+    },
+    "AR-D": {
+        "locale": "es",
+        "country_code": "AR",
+        "parent_id": null,
+        "id": "AR-D",
+        "code": "San Luis",
+        "name": "San Luis",
+        "postal_code_pattern": "D?[4-6]"
+    },
+    "AR-Z": {
+        "locale": "es",
+        "country_code": "AR",
+        "parent_id": null,
+        "id": "AR-Z",
+        "code": "Santa Cruz",
+        "name": "Santa Cruz",
+        "postal_code_pattern": "Z?[89]"
+    },
+    "AR-S": {
+        "locale": "es",
+        "country_code": "AR",
+        "parent_id": null,
+        "id": "AR-S",
+        "code": "Santa Fe",
+        "name": "Santa Fe",
+        "postal_code_pattern": "S?[2368]"
+    },
+    "AR-G": {
+        "locale": "es",
+        "country_code": "AR",
+        "parent_id": null,
+        "id": "AR-G",
+        "code": "Santiago del Estero",
+        "name": "Santiago del Estero",
+        "postal_code_pattern": "G?[2-5]"
+    },
+    "AR-V": {
+        "locale": "es",
+        "country_code": "AR",
+        "parent_id": null,
+        "id": "AR-V",
+        "code": "Tierra del Fuego",
+        "name": "Tierra del Fuego",
+        "postal_code_pattern": "V?9"
+    },
+    "AR-T": {
+        "locale": "es",
+        "country_code": "AR",
+        "parent_id": null,
+        "id": "AR-T",
+        "code": "Tucumán",
+        "name": "Tucumán",
+        "postal_code_pattern": "T?[45]"
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "CL-TA-688840": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-TA",
+        "id": "CL-TA-688840",
+        "code": "Alto Hospicio",
+        "name": "Alto Hospicio"
+    },
+    "CL-TA-94c056": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-TA",
+        "id": "CL-TA-94c056",
+        "code": "Camiña",
+        "name": "Camiña"
+    },
+    "CL-TA-63d866": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-TA",
+        "id": "CL-TA-63d866",
+        "code": "Colchane",
+        "name": "Colchane"
+    },
+    "CL-TA-eb93af": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-TA",
+        "id": "CL-TA-eb93af",
+        "code": "Huara",
+        "name": "Huara"
+    },
+    "CL-TA-987e6d": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-TA",
+        "id": "CL-TA-987e6d",
+        "code": "Iquique",
+        "name": "Iquique"
+    },
+    "CL-TA-b76576": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-TA",
+        "id": "CL-TA-b76576",
+        "code": "Pica",
+        "name": "Pica"
+    },
+    "CL-TA-6a85ad": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-TA",
+        "id": "CL-TA-6a85ad",
+        "code": "Pozo Almonte",
+        "name": "Pozo Almonte"
+    }
+}

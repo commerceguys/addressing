@@ -1,0 +1,80 @@
+{
+    "CN-42-8a5bf0-7e8a36": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-42-8a5bf0",
+        "id": "CN-42-8a5bf0-7e8a36",
+        "code": "赤壁市",
+        "name": "Chibi Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "赤壁市"
+            }
+        }
+    },
+    "CN-42-8a5bf0-8deb0d": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-42-8a5bf0",
+        "id": "CN-42-8a5bf0-8deb0d",
+        "code": "崇阳县",
+        "name": "Chongyang Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "崇阳县"
+            }
+        }
+    },
+    "CN-42-8a5bf0-7f5fce": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-42-8a5bf0",
+        "id": "CN-42-8a5bf0-7f5fce",
+        "code": "嘉鱼县",
+        "name": "Jiayu Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "嘉鱼县"
+            }
+        }
+    },
+    "CN-42-8a5bf0-6571aa": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-42-8a5bf0",
+        "id": "CN-42-8a5bf0-6571aa",
+        "code": "通城县",
+        "name": "Tongcheng Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "通城县"
+            }
+        }
+    },
+    "CN-42-8a5bf0-09820c": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-42-8a5bf0",
+        "id": "CN-42-8a5bf0-09820c",
+        "code": "通山县",
+        "name": "Tongshan Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "通山县"
+            }
+        }
+    },
+    "CN-42-8a5bf0-eb50bd": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-42-8a5bf0",
+        "id": "CN-42-8a5bf0-eb50bd",
+        "code": "咸安区",
+        "name": "Xian'an Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "咸安区"
+            }
+        }
+    }
+}

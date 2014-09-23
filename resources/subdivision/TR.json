@@ -1,0 +1,650 @@
+{
+    "TR-01": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-01",
+        "code": "Adana",
+        "name": "Adana"
+    },
+    "TR-02": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-02",
+        "code": "Adıyaman",
+        "name": "Adıyaman"
+    },
+    "TR-03": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-03",
+        "code": "Afyon",
+        "name": "Afyon"
+    },
+    "TR-04": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-04",
+        "code": "Ağrı",
+        "name": "Ağrı"
+    },
+    "TR-68": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-68",
+        "code": "Aksaray",
+        "name": "Aksaray"
+    },
+    "TR-05": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-05",
+        "code": "Amasya",
+        "name": "Amasya"
+    },
+    "TR-06": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-06",
+        "code": "Ankara",
+        "name": "Ankara"
+    },
+    "TR-07": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-07",
+        "code": "Antalya",
+        "name": "Antalya"
+    },
+    "TR-75": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-75",
+        "code": "Ardahan",
+        "name": "Ardahan"
+    },
+    "TR-08": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-08",
+        "code": "Artvin",
+        "name": "Artvin"
+    },
+    "TR-09": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-09",
+        "code": "Aydın",
+        "name": "Aydın"
+    },
+    "TR-10": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-10",
+        "code": "Balıkesir",
+        "name": "Balıkesir"
+    },
+    "TR-74": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-74",
+        "code": "Bartın",
+        "name": "Bartın"
+    },
+    "TR-72": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-72",
+        "code": "Batman",
+        "name": "Batman"
+    },
+    "TR-69": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-69",
+        "code": "Bayburt",
+        "name": "Bayburt"
+    },
+    "TR-11": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-11",
+        "code": "Bilecik",
+        "name": "Bilecik"
+    },
+    "TR-12": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-12",
+        "code": "Bingöl",
+        "name": "Bingöl"
+    },
+    "TR-13": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-13",
+        "code": "Bitlis",
+        "name": "Bitlis"
+    },
+    "TR-14": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-14",
+        "code": "Bolu",
+        "name": "Bolu"
+    },
+    "TR-15": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-15",
+        "code": "Burdur",
+        "name": "Burdur"
+    },
+    "TR-16": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-16",
+        "code": "Bursa",
+        "name": "Bursa"
+    },
+    "TR-17": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-17",
+        "code": "Çanakkale",
+        "name": "Çanakkale"
+    },
+    "TR-18": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-18",
+        "code": "Çankırı",
+        "name": "Çankırı"
+    },
+    "TR-19": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-19",
+        "code": "Çorum",
+        "name": "Çorum"
+    },
+    "TR-20": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-20",
+        "code": "Denizli",
+        "name": "Denizli"
+    },
+    "TR-21": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-21",
+        "code": "Diyarbakır",
+        "name": "Diyarbakır"
+    },
+    "TR-81": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-81",
+        "code": "Düzce",
+        "name": "Düzce"
+    },
+    "TR-22": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-22",
+        "code": "Edirne",
+        "name": "Edirne"
+    },
+    "TR-23": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-23",
+        "code": "Elazığ",
+        "name": "Elazığ"
+    },
+    "TR-24": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-24",
+        "code": "Erzincan",
+        "name": "Erzincan"
+    },
+    "TR-25": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-25",
+        "code": "Erzurum",
+        "name": "Erzurum"
+    },
+    "TR-26": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-26",
+        "code": "Eskişehir",
+        "name": "Eskişehir"
+    },
+    "TR-27": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-27",
+        "code": "Gaziantep",
+        "name": "Gaziantep"
+    },
+    "TR-28": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-28",
+        "code": "Giresun",
+        "name": "Giresun"
+    },
+    "TR-29": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-29",
+        "code": "Gümüşhane",
+        "name": "Gümüşhane"
+    },
+    "TR-30": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-30",
+        "code": "Hakkari",
+        "name": "Hakkari"
+    },
+    "TR-31": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-31",
+        "code": "Hatay",
+        "name": "Hatay"
+    },
+    "TR-76": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-76",
+        "code": "Iğdır",
+        "name": "Iğdır"
+    },
+    "TR-32": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-32",
+        "code": "Isparta",
+        "name": "Isparta"
+    },
+    "TR-34": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-34",
+        "code": "İstanbul",
+        "name": "İstanbul"
+    },
+    "TR-35": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-35",
+        "code": "İzmir",
+        "name": "İzmir"
+    },
+    "TR-46": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-46",
+        "code": "Kahramanmaraş",
+        "name": "Kahramanmaraş"
+    },
+    "TR-78": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-78",
+        "code": "Karabük",
+        "name": "Karabük"
+    },
+    "TR-70": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-70",
+        "code": "Karaman",
+        "name": "Karaman"
+    },
+    "TR-36": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-36",
+        "code": "Kars",
+        "name": "Kars"
+    },
+    "TR-37": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-37",
+        "code": "Kastamonu",
+        "name": "Kastamonu"
+    },
+    "TR-38": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-38",
+        "code": "Kayseri",
+        "name": "Kayseri"
+    },
+    "TR-71": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-71",
+        "code": "Kırıkkale",
+        "name": "Kırıkkale"
+    },
+    "TR-39": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-39",
+        "code": "Kırklareli",
+        "name": "Kırklareli"
+    },
+    "TR-40": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-40",
+        "code": "Kırşehir",
+        "name": "Kırşehir"
+    },
+    "TR-79": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-79",
+        "code": "Kilis",
+        "name": "Kilis"
+    },
+    "TR-41": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-41",
+        "code": "Kocaeli",
+        "name": "Kocaeli"
+    },
+    "TR-42": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-42",
+        "code": "Konya",
+        "name": "Konya"
+    },
+    "TR-43": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-43",
+        "code": "Kütahya",
+        "name": "Kütahya"
+    },
+    "TR-44": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-44",
+        "code": "Malatya",
+        "name": "Malatya"
+    },
+    "TR-45": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-45",
+        "code": "Manisa",
+        "name": "Manisa"
+    },
+    "TR-47": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-47",
+        "code": "Mardin",
+        "name": "Mardin"
+    },
+    "TR-33": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-33",
+        "code": "Mersin",
+        "name": "Mersin"
+    },
+    "TR-48": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-48",
+        "code": "Muğla",
+        "name": "Muğla"
+    },
+    "TR-49": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-49",
+        "code": "Muş",
+        "name": "Muş"
+    },
+    "TR-50": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-50",
+        "code": "Nevşehir",
+        "name": "Nevşehir"
+    },
+    "TR-51": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-51",
+        "code": "Niğde",
+        "name": "Niğde"
+    },
+    "TR-52": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-52",
+        "code": "Ordu",
+        "name": "Ordu"
+    },
+    "TR-80": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-80",
+        "code": "Osmaniye",
+        "name": "Osmaniye"
+    },
+    "TR-53": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-53",
+        "code": "Rize",
+        "name": "Rize"
+    },
+    "TR-54": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-54",
+        "code": "Sakarya",
+        "name": "Sakarya"
+    },
+    "TR-55": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-55",
+        "code": "Samsun",
+        "name": "Samsun"
+    },
+    "TR-56": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-56",
+        "code": "Siirt",
+        "name": "Siirt"
+    },
+    "TR-57": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-57",
+        "code": "Sinop",
+        "name": "Sinop"
+    },
+    "TR-58": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-58",
+        "code": "Sivas",
+        "name": "Sivas"
+    },
+    "TR-63": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-63",
+        "code": "Şanlıurfa",
+        "name": "Şanlıurfa"
+    },
+    "TR-73": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-73",
+        "code": "Şırnak",
+        "name": "Şırnak"
+    },
+    "TR-59": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-59",
+        "code": "Tekirdağ",
+        "name": "Tekirdağ"
+    },
+    "TR-60": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-60",
+        "code": "Tokat",
+        "name": "Tokat"
+    },
+    "TR-61": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-61",
+        "code": "Trabzon",
+        "name": "Trabzon"
+    },
+    "TR-62": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-62",
+        "code": "Tunceli",
+        "name": "Tunceli"
+    },
+    "TR-64": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-64",
+        "code": "Uşak",
+        "name": "Uşak"
+    },
+    "TR-65": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-65",
+        "code": "Van",
+        "name": "Van"
+    },
+    "TR-77": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-77",
+        "code": "Yalova",
+        "name": "Yalova"
+    },
+    "TR-66": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-66",
+        "code": "Yozgat",
+        "name": "Yozgat"
+    },
+    "TR-67": {
+        "locale": "tr",
+        "country_code": "TR",
+        "parent_id": null,
+        "id": "TR-67",
+        "code": "Zonguldak",
+        "name": "Zonguldak"
+    }
+}

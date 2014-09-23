@@ -1,0 +1,197 @@
+{
+    "CN-62-86a3f7": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-62",
+        "id": "CN-62-86a3f7",
+        "code": "白银市",
+        "name": "Baiyin Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "白银市"
+            }
+        },
+        "has_children": true
+    },
+    "CN-62-67a810": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-62",
+        "id": "CN-62-67a810",
+        "code": "定西市",
+        "name": "Dingxi Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "定西市"
+            }
+        },
+        "has_children": true
+    },
+    "CN-62-3eff90": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-62",
+        "id": "CN-62-3eff90",
+        "code": "甘南藏族自治州",
+        "name": "Gannan Zhou",
+        "translations": {
+            "zh-hans": {
+                "name": "甘南州"
+            }
+        },
+        "has_children": true
+    },
+    "CN-62-33cf68": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-62",
+        "id": "CN-62-33cf68",
+        "code": "嘉峪关市",
+        "name": "Jiayuguan Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "嘉峪关市"
+            }
+        }
+    },
+    "CN-62-1bed76": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-62",
+        "id": "CN-62-1bed76",
+        "code": "金昌市",
+        "name": "Jinchang Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "金昌市"
+            }
+        },
+        "has_children": true
+    },
+    "CN-62-670094": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-62",
+        "id": "CN-62-670094",
+        "code": "酒泉市",
+        "name": "Jiuquan Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "酒泉市"
+            }
+        },
+        "has_children": true
+    },
+    "CN-62-2ef5ac": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-62",
+        "id": "CN-62-2ef5ac",
+        "code": "兰州市",
+        "name": "Lanzhou Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "兰州市"
+            }
+        },
+        "has_children": true
+    },
+    "CN-62-5cd643": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-62",
+        "id": "CN-62-5cd643",
+        "code": "临夏回族自治州",
+        "name": "Linxia Zhou",
+        "translations": {
+            "zh-hans": {
+                "name": "临夏州"
+            }
+        },
+        "has_children": true
+    },
+    "CN-62-634033": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-62",
+        "id": "CN-62-634033",
+        "code": "陇南市",
+        "name": "Longnan Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "陇南市"
+            }
+        },
+        "has_children": true
+    },
+    "CN-62-f65236": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-62",
+        "id": "CN-62-f65236",
+        "code": "平凉市",
+        "name": "Pingliang Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "平凉市"
+            }
+        },
+        "has_children": true
+    },
+    "CN-62-4b712c": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-62",
+        "id": "CN-62-4b712c",
+        "code": "庆阳市",
+        "name": "Qingyang Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "庆阳市"
+            }
+        },
+        "has_children": true
+    },
+    "CN-62-a22c87": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-62",
+        "id": "CN-62-a22c87",
+        "code": "天水市",
+        "name": "Tianshui Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "天水市"
+            }
+        },
+        "has_children": true
+    },
+    "CN-62-84ebf3": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-62",
+        "id": "CN-62-84ebf3",
+        "code": "武威市",
+        "name": "Wuwei Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "武威市"
+            }
+        },
+        "has_children": true
+    },
+    "CN-62-6947b0": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-62",
+        "id": "CN-62-6947b0",
+        "code": "张掖市",
+        "name": "Zhangye Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "张掖市"
+            }
+        },
+        "has_children": true
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "CN-44-a08359-5f0d51": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44-a08359",
+        "id": "CN-44-a08359-5f0d51",
+        "code": "潮安县",
+        "name": "Chao'an Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "潮安县"
+            }
+        }
+    },
+    "CN-44-a08359-02de50": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44-a08359",
+        "id": "CN-44-a08359-02de50",
+        "code": "饶平县",
+        "name": "Raoping Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "饶平县"
+            }
+        }
+    },
+    "CN-44-a08359-fc8e54": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44-a08359",
+        "id": "CN-44-a08359-fc8e54",
+        "code": "湘桥区",
+        "name": "Xiangqiao Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "湘桥区"
+            }
+        }
+    }
+}

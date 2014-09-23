@@ -1,0 +1,132 @@
+{
+    "CN-14-d9f2d0-52a554": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-14-d9f2d0",
+        "id": "CN-14-d9f2d0-52a554",
+        "code": "古交市",
+        "name": "Gujiao Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "古交市"
+            }
+        }
+    },
+    "CN-14-d9f2d0-49f473": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-14-d9f2d0",
+        "id": "CN-14-d9f2d0-49f473",
+        "code": "尖草坪区",
+        "name": "Jiancaoping Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "尖草坪区"
+            }
+        }
+    },
+    "CN-14-d9f2d0-513772": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-14-d9f2d0",
+        "id": "CN-14-d9f2d0-513772",
+        "code": "晋源区",
+        "name": "Jinyuan Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "晋源区"
+            }
+        }
+    },
+    "CN-14-d9f2d0-4a4467": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-14-d9f2d0",
+        "id": "CN-14-d9f2d0-4a4467",
+        "code": "娄烦县",
+        "name": "Loufan Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "娄烦县"
+            }
+        }
+    },
+    "CN-14-d9f2d0-82965b": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-14-d9f2d0",
+        "id": "CN-14-d9f2d0-82965b",
+        "code": "清徐县",
+        "name": "Qingxu Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "清徐县"
+            }
+        }
+    },
+    "CN-14-d9f2d0-d98362": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-14-d9f2d0",
+        "id": "CN-14-d9f2d0-d98362",
+        "code": "万柏林区",
+        "name": "Wanbailin Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "万柏林区"
+            }
+        }
+    },
+    "CN-14-d9f2d0-fc70ec": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-14-d9f2d0",
+        "id": "CN-14-d9f2d0-fc70ec",
+        "code": "小店区",
+        "name": "Xiaodian Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "小店区"
+            }
+        }
+    },
+    "CN-14-d9f2d0-97428c": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-14-d9f2d0",
+        "id": "CN-14-d9f2d0-97428c",
+        "code": "杏花岭区",
+        "name": "Xinghualing Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "杏花岭区"
+            }
+        }
+    },
+    "CN-14-d9f2d0-002352": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-14-d9f2d0",
+        "id": "CN-14-d9f2d0-002352",
+        "code": "阳曲县",
+        "name": "Yangqu Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "阳曲县"
+            }
+        }
+    },
+    "CN-14-d9f2d0-d2aac7": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-14-d9f2d0",
+        "id": "CN-14-d9f2d0-d2aac7",
+        "code": "迎泽区",
+        "name": "Yingze Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "迎泽区"
+            }
+        }
+    }
+}

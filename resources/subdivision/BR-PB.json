@@ -1,0 +1,1786 @@
+{
+    "BR-PB-7c3e92": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-7c3e92",
+        "code": "Água Branca",
+        "name": "Água Branca"
+    },
+    "BR-PB-2b4f1d": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-2b4f1d",
+        "code": "Aguiar",
+        "name": "Aguiar"
+    },
+    "BR-PB-bf095c": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-bf095c",
+        "code": "Alagoa Grande",
+        "name": "Alagoa Grande"
+    },
+    "BR-PB-d5e154": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-d5e154",
+        "code": "Alagoa Nova",
+        "name": "Alagoa Nova"
+    },
+    "BR-PB-ab07cc": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-ab07cc",
+        "code": "Alagoinha",
+        "name": "Alagoinha"
+    },
+    "BR-PB-e8974d": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-e8974d",
+        "code": "Alcantil",
+        "name": "Alcantil"
+    },
+    "BR-PB-00bca3": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-00bca3",
+        "code": "Algodão de Jandaíra",
+        "name": "Algodão de Jandaíra"
+    },
+    "BR-PB-c917ef": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-c917ef",
+        "code": "Alhandra",
+        "name": "Alhandra"
+    },
+    "BR-PB-06e10c": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-06e10c",
+        "code": "Amparo",
+        "name": "Amparo"
+    },
+    "BR-PB-a4f90d": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-a4f90d",
+        "code": "Aparecida",
+        "name": "Aparecida"
+    },
+    "BR-PB-42fa79": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-42fa79",
+        "code": "Araçagi",
+        "name": "Araçagi"
+    },
+    "BR-PB-ab25af": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-ab25af",
+        "code": "Arará",
+        "name": "Arará"
+    },
+    "BR-PB-10dbad": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-10dbad",
+        "code": "Araruna",
+        "name": "Araruna"
+    },
+    "BR-PB-5b9501": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-5b9501",
+        "code": "Areia",
+        "name": "Areia"
+    },
+    "BR-PB-a3dab7": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-a3dab7",
+        "code": "Areia de Baraúnas",
+        "name": "Areia de Baraúnas"
+    },
+    "BR-PB-1525b6": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-1525b6",
+        "code": "Areial",
+        "name": "Areial"
+    },
+    "BR-PB-69b089": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-69b089",
+        "code": "Aroeiras",
+        "name": "Aroeiras"
+    },
+    "BR-PB-d490fd": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-d490fd",
+        "code": "Assunção",
+        "name": "Assunção"
+    },
+    "BR-PB-c02416": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-c02416",
+        "code": "Baía da Traição",
+        "name": "Baía da Traição"
+    },
+    "BR-PB-bb984c": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-bb984c",
+        "code": "Bananeiras",
+        "name": "Bananeiras"
+    },
+    "BR-PB-25012e": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-25012e",
+        "code": "Baraúna",
+        "name": "Baraúna"
+    },
+    "BR-PB-1aac2b": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-1aac2b",
+        "code": "Barra de Santa Rosa",
+        "name": "Barra de Santa Rosa"
+    },
+    "BR-PB-ecc8cb": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-ecc8cb",
+        "code": "Barra de Santana",
+        "name": "Barra de Santana"
+    },
+    "BR-PB-823fbe": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-823fbe",
+        "code": "Barra de São Miguel",
+        "name": "Barra de São Miguel"
+    },
+    "BR-PB-0ea5da": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-0ea5da",
+        "code": "Bayeux",
+        "name": "Bayeux"
+    },
+    "BR-PB-f3f584": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-f3f584",
+        "code": "Belém",
+        "name": "Belém"
+    },
+    "BR-PB-a523ca": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-a523ca",
+        "code": "Belém do Brejo do Cruz",
+        "name": "Belém do Brejo do Cruz"
+    },
+    "BR-PB-c24690": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-c24690",
+        "code": "Bernardino Batista",
+        "name": "Bernardino Batista"
+    },
+    "BR-PB-ac7747": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-ac7747",
+        "code": "Boa Ventura",
+        "name": "Boa Ventura"
+    },
+    "BR-PB-624f74": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-624f74",
+        "code": "Boa Vista",
+        "name": "Boa Vista"
+    },
+    "BR-PB-08741e": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-08741e",
+        "code": "Bom Jesus",
+        "name": "Bom Jesus"
+    },
+    "BR-PB-0decfe": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-0decfe",
+        "code": "Bom Sucesso",
+        "name": "Bom Sucesso"
+    },
+    "BR-PB-8b75aa": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-8b75aa",
+        "code": "Bonito de Santa Fé",
+        "name": "Bonito de Santa Fé"
+    },
+    "BR-PB-5914aa": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-5914aa",
+        "code": "Boqueirão",
+        "name": "Boqueirão"
+    },
+    "BR-PB-d249f6": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-d249f6",
+        "code": "Borborema",
+        "name": "Borborema"
+    },
+    "BR-PB-576307": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-576307",
+        "code": "Brejo do Cruz",
+        "name": "Brejo do Cruz"
+    },
+    "BR-PB-872b45": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-872b45",
+        "code": "Brejo dos Santos",
+        "name": "Brejo dos Santos"
+    },
+    "BR-PB-a2b3d2": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-a2b3d2",
+        "code": "Caaporã",
+        "name": "Caaporã"
+    },
+    "BR-PB-e8ce70": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-e8ce70",
+        "code": "Cabaceiras",
+        "name": "Cabaceiras"
+    },
+    "BR-PB-1f489a": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-1f489a",
+        "code": "Cabedelo",
+        "name": "Cabedelo"
+    },
+    "BR-PB-d0d458": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-d0d458",
+        "code": "Cachoeira dos Índios",
+        "name": "Cachoeira dos Índios"
+    },
+    "BR-PB-8c7115": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-8c7115",
+        "code": "Cacimba de Areia",
+        "name": "Cacimba de Areia"
+    },
+    "BR-PB-99503e": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-99503e",
+        "code": "Cacimba de Dentro",
+        "name": "Cacimba de Dentro"
+    },
+    "BR-PB-2c02db": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-2c02db",
+        "code": "Cacimbas",
+        "name": "Cacimbas"
+    },
+    "BR-PB-986f62": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-986f62",
+        "code": "Caiçara",
+        "name": "Caiçara"
+    },
+    "BR-PB-bfaa32": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-bfaa32",
+        "code": "Cajazeiras",
+        "name": "Cajazeiras"
+    },
+    "BR-PB-a23d09": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-a23d09",
+        "code": "Cajazeirinhas",
+        "name": "Cajazeirinhas"
+    },
+    "BR-PB-7107a3": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-7107a3",
+        "code": "Caldas Brandão",
+        "name": "Caldas Brandão"
+    },
+    "BR-PB-8a1dee": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-8a1dee",
+        "code": "Camalaú",
+        "name": "Camalaú"
+    },
+    "BR-PB-0915a4": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-0915a4",
+        "code": "Campina Grande",
+        "name": "Campina Grande"
+    },
+    "BR-PB-5c0a22": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-5c0a22",
+        "code": "Campo de Santana",
+        "name": "Campo de Santana"
+    },
+    "BR-PB-bbbe72": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-bbbe72",
+        "code": "Capim",
+        "name": "Capim"
+    },
+    "BR-PB-c727d5": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-c727d5",
+        "code": "Caraúbas",
+        "name": "Caraúbas"
+    },
+    "BR-PB-9b1b9f": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-9b1b9f",
+        "code": "Carrapateira",
+        "name": "Carrapateira"
+    },
+    "BR-PB-b14df7": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-b14df7",
+        "code": "Casserengue",
+        "name": "Casserengue"
+    },
+    "BR-PB-33af91": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-33af91",
+        "code": "Catingueira",
+        "name": "Catingueira"
+    },
+    "BR-PB-a427f3": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-a427f3",
+        "code": "Catolé do Rocha",
+        "name": "Catolé do Rocha"
+    },
+    "BR-PB-2418d6": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-2418d6",
+        "code": "Caturité",
+        "name": "Caturité"
+    },
+    "BR-PB-ecce30": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-ecce30",
+        "code": "Conceição",
+        "name": "Conceição"
+    },
+    "BR-PB-55e32d": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-55e32d",
+        "code": "Condado",
+        "name": "Condado"
+    },
+    "BR-PB-80bf47": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-80bf47",
+        "code": "Conde",
+        "name": "Conde"
+    },
+    "BR-PB-36bc92": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-36bc92",
+        "code": "Congo",
+        "name": "Congo"
+    },
+    "BR-PB-11b9e4": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-11b9e4",
+        "code": "Coremas",
+        "name": "Coremas"
+    },
+    "BR-PB-cb2dc2": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-cb2dc2",
+        "code": "Coxixola",
+        "name": "Coxixola"
+    },
+    "BR-PB-708d51": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-708d51",
+        "code": "Cruz do Espírito Santo",
+        "name": "Cruz do Espírito Santo"
+    },
+    "BR-PB-1e3926": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-1e3926",
+        "code": "Cubati",
+        "name": "Cubati"
+    },
+    "BR-PB-eb2871": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-eb2871",
+        "code": "Cuité",
+        "name": "Cuité"
+    },
+    "BR-PB-2a51fb": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-2a51fb",
+        "code": "Cuité de Mamanguape",
+        "name": "Cuité de Mamanguape"
+    },
+    "BR-PB-ad7774": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-ad7774",
+        "code": "Cuitegi",
+        "name": "Cuitegi"
+    },
+    "BR-PB-b2ba44": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-b2ba44",
+        "code": "Curral de Cima",
+        "name": "Curral de Cima"
+    },
+    "BR-PB-7d2543": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-7d2543",
+        "code": "Curral Velho",
+        "name": "Curral Velho"
+    },
+    "BR-PB-03bca6": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-03bca6",
+        "code": "Damião",
+        "name": "Damião"
+    },
+    "BR-PB-e679bb": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-e679bb",
+        "code": "Desterro",
+        "name": "Desterro"
+    },
+    "BR-PB-bd07e2": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-bd07e2",
+        "code": "Diamante",
+        "name": "Diamante"
+    },
+    "BR-PB-512ce1": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-512ce1",
+        "code": "Dona Inês",
+        "name": "Dona Inês"
+    },
+    "BR-PB-14cdc7": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-14cdc7",
+        "code": "Duas Estradas",
+        "name": "Duas Estradas"
+    },
+    "BR-PB-073959": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-073959",
+        "code": "Emas",
+        "name": "Emas"
+    },
+    "BR-PB-f50733": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-f50733",
+        "code": "Esperança",
+        "name": "Esperança"
+    },
+    "BR-PB-45056e": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-45056e",
+        "code": "Fagundes",
+        "name": "Fagundes"
+    },
+    "BR-PB-f4528c": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-f4528c",
+        "code": "Frei Martinho",
+        "name": "Frei Martinho"
+    },
+    "BR-PB-e4dfa2": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-e4dfa2",
+        "code": "Gado Bravo",
+        "name": "Gado Bravo"
+    },
+    "BR-PB-8ab400": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-8ab400",
+        "code": "Guarabira",
+        "name": "Guarabira"
+    },
+    "BR-PB-5af15d": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-5af15d",
+        "code": "Gurinhém",
+        "name": "Gurinhém"
+    },
+    "BR-PB-928b1e": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-928b1e",
+        "code": "Gurjão",
+        "name": "Gurjão"
+    },
+    "BR-PB-f3e1ba": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-f3e1ba",
+        "code": "Ibiara",
+        "name": "Ibiara"
+    },
+    "BR-PB-410474": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-410474",
+        "code": "Igaracy",
+        "name": "Igaracy"
+    },
+    "BR-PB-f856a8": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-f856a8",
+        "code": "Imaculada",
+        "name": "Imaculada"
+    },
+    "BR-PB-9b7af3": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-9b7af3",
+        "code": "Inga",
+        "name": "Inga"
+    },
+    "BR-PB-d1a0c6": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-d1a0c6",
+        "code": "Itabaiana",
+        "name": "Itabaiana"
+    },
+    "BR-PB-0836df": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-0836df",
+        "code": "Itaporanga",
+        "name": "Itaporanga"
+    },
+    "BR-PB-e4be89": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-e4be89",
+        "code": "Itapororoca",
+        "name": "Itapororoca"
+    },
+    "BR-PB-b757c4": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-b757c4",
+        "code": "Itatuba",
+        "name": "Itatuba"
+    },
+    "BR-PB-1c3b31": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-1c3b31",
+        "code": "Jacaraú",
+        "name": "Jacaraú"
+    },
+    "BR-PB-06cc80": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-06cc80",
+        "code": "Jerico",
+        "name": "Jerico"
+    },
+    "BR-PB-a0afd5": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-a0afd5",
+        "code": "João Pessoa",
+        "name": "João Pessoa"
+    },
+    "BR-PB-956574": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-956574",
+        "code": "Juarez Távora",
+        "name": "Juarez Távora"
+    },
+    "BR-PB-8e4e6f": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-8e4e6f",
+        "code": "Juazeirinho",
+        "name": "Juazeirinho"
+    },
+    "BR-PB-baa7c0": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-baa7c0",
+        "code": "Junco do Seridó",
+        "name": "Junco do Seridó"
+    },
+    "BR-PB-50f7f3": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-50f7f3",
+        "code": "Juripiranga",
+        "name": "Juripiranga"
+    },
+    "BR-PB-975125": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-975125",
+        "code": "Juru",
+        "name": "Juru"
+    },
+    "BR-PB-b20175": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-b20175",
+        "code": "Lagoa",
+        "name": "Lagoa"
+    },
+    "BR-PB-1a87e6": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-1a87e6",
+        "code": "Lagoa de Dentro",
+        "name": "Lagoa de Dentro"
+    },
+    "BR-PB-77af49": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-77af49",
+        "code": "Lagoa Seca",
+        "name": "Lagoa Seca"
+    },
+    "BR-PB-7396b8": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-7396b8",
+        "code": "Lastro",
+        "name": "Lastro"
+    },
+    "BR-PB-8f9b6f": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-8f9b6f",
+        "code": "Livramento",
+        "name": "Livramento"
+    },
+    "BR-PB-980d4a": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-980d4a",
+        "code": "Logradouro",
+        "name": "Logradouro"
+    },
+    "BR-PB-a5fae2": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-a5fae2",
+        "code": "Lucena",
+        "name": "Lucena"
+    },
+    "BR-PB-2c15ad": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-2c15ad",
+        "code": "Mãe d'água",
+        "name": "Mãe d'água"
+    },
+    "BR-PB-0123a1": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-0123a1",
+        "code": "Malta",
+        "name": "Malta"
+    },
+    "BR-PB-552fe2": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-552fe2",
+        "code": "Mamanguape",
+        "name": "Mamanguape"
+    },
+    "BR-PB-07f446": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-07f446",
+        "code": "Manaíra",
+        "name": "Manaíra"
+    },
+    "BR-PB-a2bd6f": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-a2bd6f",
+        "code": "Marcação",
+        "name": "Marcação"
+    },
+    "BR-PB-50c543": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-50c543",
+        "code": "Mari",
+        "name": "Mari"
+    },
+    "BR-PB-6f1e91": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-6f1e91",
+        "code": "Marizópolis",
+        "name": "Marizópolis"
+    },
+    "BR-PB-23200e": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-23200e",
+        "code": "Massaranduba",
+        "name": "Massaranduba"
+    },
+    "BR-PB-68f174": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-68f174",
+        "code": "Mataraca",
+        "name": "Mataraca"
+    },
+    "BR-PB-7f63bd": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-7f63bd",
+        "code": "Matinhas",
+        "name": "Matinhas"
+    },
+    "BR-PB-4fbeca": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-4fbeca",
+        "code": "Mato Grosso",
+        "name": "Mato Grosso"
+    },
+    "BR-PB-606fae": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-606fae",
+        "code": "Maturéia",
+        "name": "Maturéia"
+    },
+    "BR-PB-866c45": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-866c45",
+        "code": "Mogeiro",
+        "name": "Mogeiro"
+    },
+    "BR-PB-6ea36d": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-6ea36d",
+        "code": "Montadas",
+        "name": "Montadas"
+    },
+    "BR-PB-604d92": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-604d92",
+        "code": "Monte Horebe",
+        "name": "Monte Horebe"
+    },
+    "BR-PB-622eb3": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-622eb3",
+        "code": "Monteiro",
+        "name": "Monteiro"
+    },
+    "BR-PB-b712fc": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-b712fc",
+        "code": "Mulungú",
+        "name": "Mulungú"
+    },
+    "BR-PB-4c554f": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-4c554f",
+        "code": "Natuba",
+        "name": "Natuba"
+    },
+    "BR-PB-264c3e": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-264c3e",
+        "code": "Nazarezinho",
+        "name": "Nazarezinho"
+    },
+    "BR-PB-fae2ef": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-fae2ef",
+        "code": "Nova Floresta",
+        "name": "Nova Floresta"
+    },
+    "BR-PB-52735e": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-52735e",
+        "code": "Nova Olinda",
+        "name": "Nova Olinda"
+    },
+    "BR-PB-2f2edd": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-2f2edd",
+        "code": "Nova Palmeira",
+        "name": "Nova Palmeira"
+    },
+    "BR-PB-fcd6f5": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-fcd6f5",
+        "code": "Olho d'Água",
+        "name": "Olho d'Água"
+    },
+    "BR-PB-3b60c9": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-3b60c9",
+        "code": "Olivedos",
+        "name": "Olivedos"
+    },
+    "BR-PB-fd4787": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-fd4787",
+        "code": "Ouro Velho",
+        "name": "Ouro Velho"
+    },
+    "BR-PB-6a58af": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-6a58af",
+        "code": "Parari",
+        "name": "Parari"
+    },
+    "BR-PB-e3098e": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-e3098e",
+        "code": "Passagem",
+        "name": "Passagem"
+    },
+    "BR-PB-66ba04": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-66ba04",
+        "code": "Patos",
+        "name": "Patos"
+    },
+    "BR-PB-fcafce": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-fcafce",
+        "code": "Paulista",
+        "name": "Paulista"
+    },
+    "BR-PB-3a565b": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-3a565b",
+        "code": "Pedra Branca",
+        "name": "Pedra Branca"
+    },
+    "BR-PB-f25229": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-f25229",
+        "code": "Pedra Lavrada",
+        "name": "Pedra Lavrada"
+    },
+    "BR-PB-251c58": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-251c58",
+        "code": "Pedras de Fogo",
+        "name": "Pedras de Fogo"
+    },
+    "BR-PB-89e3fb": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-89e3fb",
+        "code": "Pedro Régis",
+        "name": "Pedro Régis"
+    },
+    "BR-PB-516449": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-516449",
+        "code": "Piancó",
+        "name": "Piancó"
+    },
+    "BR-PB-344d7f": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-344d7f",
+        "code": "Picuí",
+        "name": "Picuí"
+    },
+    "BR-PB-960269": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-960269",
+        "code": "Pilar",
+        "name": "Pilar"
+    },
+    "BR-PB-515380": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-515380",
+        "code": "Pilões",
+        "name": "Pilões"
+    },
+    "BR-PB-8dba93": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-8dba93",
+        "code": "Pilõezinhos",
+        "name": "Pilõezinhos"
+    },
+    "BR-PB-bbf07c": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-bbf07c",
+        "code": "Pirpirituba",
+        "name": "Pirpirituba"
+    },
+    "BR-PB-c22498": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-c22498",
+        "code": "Pitimbu",
+        "name": "Pitimbu"
+    },
+    "BR-PB-3fc1bd": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-3fc1bd",
+        "code": "Pocinhos",
+        "name": "Pocinhos"
+    },
+    "BR-PB-ad6a91": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-ad6a91",
+        "code": "Poço Dantas",
+        "name": "Poço Dantas"
+    },
+    "BR-PB-7b2ced": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-7b2ced",
+        "code": "Poço de José de Moura",
+        "name": "Poço de José de Moura"
+    },
+    "BR-PB-725e70": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-725e70",
+        "code": "Pombal",
+        "name": "Pombal"
+    },
+    "BR-PB-a24d04": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-a24d04",
+        "code": "Prata",
+        "name": "Prata"
+    },
+    "BR-PB-322b3a": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-322b3a",
+        "code": "Princesa Isabel",
+        "name": "Princesa Isabel"
+    },
+    "BR-PB-a5bf54": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-a5bf54",
+        "code": "Puxinanã",
+        "name": "Puxinanã"
+    },
+    "BR-PB-4d8d9a": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-4d8d9a",
+        "code": "Queimadas",
+        "name": "Queimadas"
+    },
+    "BR-PB-4c0568": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-4c0568",
+        "code": "Quixaba",
+        "name": "Quixaba"
+    },
+    "BR-PB-3f2ac7": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-3f2ac7",
+        "code": "Remígio",
+        "name": "Remígio"
+    },
+    "BR-PB-eac396": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-eac396",
+        "code": "Riachão",
+        "name": "Riachão"
+    },
+    "BR-PB-4e38c1": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-4e38c1",
+        "code": "Riachão do Bacamarte",
+        "name": "Riachão do Bacamarte"
+    },
+    "BR-PB-add245": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-add245",
+        "code": "Riachão do Poço",
+        "name": "Riachão do Poço"
+    },
+    "BR-PB-da100a": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-da100a",
+        "code": "Riacho de Santo Antônio",
+        "name": "Riacho de Santo Antônio"
+    },
+    "BR-PB-399143": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-399143",
+        "code": "Riacho dos Cavalos",
+        "name": "Riacho dos Cavalos"
+    },
+    "BR-PB-ba3418": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-ba3418",
+        "code": "Rio Tinto",
+        "name": "Rio Tinto"
+    },
+    "BR-PB-4ffb69": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-4ffb69",
+        "code": "Salgadinho",
+        "name": "Salgadinho"
+    },
+    "BR-PB-fc3f3b": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-fc3f3b",
+        "code": "Salgado de São Félix",
+        "name": "Salgado de São Félix"
+    },
+    "BR-PB-aef0b5": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-aef0b5",
+        "code": "Santa Cecília",
+        "name": "Santa Cecília"
+    },
+    "BR-PB-d76574": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-d76574",
+        "code": "Santa Cruz",
+        "name": "Santa Cruz"
+    },
+    "BR-PB-c3e9dc": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-c3e9dc",
+        "code": "Santa Helena",
+        "name": "Santa Helena"
+    },
+    "BR-PB-3dd076": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-3dd076",
+        "code": "Santa Inês",
+        "name": "Santa Inês"
+    },
+    "BR-PB-2978a4": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-2978a4",
+        "code": "Santa Luzia",
+        "name": "Santa Luzia"
+    },
+    "BR-PB-622d5d": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-622d5d",
+        "code": "Santa Rita",
+        "name": "Santa Rita"
+    },
+    "BR-PB-d029b6": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-d029b6",
+        "code": "Santa Teresinha",
+        "name": "Santa Teresinha"
+    },
+    "BR-PB-06f788": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-06f788",
+        "code": "Santana de Mangueira",
+        "name": "Santana de Mangueira"
+    },
+    "BR-PB-a5d8e3": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-a5d8e3",
+        "code": "Santana dos Garrotes",
+        "name": "Santana dos Garrotes"
+    },
+    "BR-PB-93892b": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-93892b",
+        "code": "Santarém",
+        "name": "Santarém"
+    },
+    "BR-PB-640681": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-640681",
+        "code": "Santo André",
+        "name": "Santo André"
+    },
+    "BR-PB-43a3ed": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-43a3ed",
+        "code": "São Bentinho",
+        "name": "São Bentinho"
+    },
+    "BR-PB-2d4e01": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-2d4e01",
+        "code": "São Bento",
+        "name": "São Bento"
+    },
+    "BR-PB-dfdbd7": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-dfdbd7",
+        "code": "São Domingos de Pombal",
+        "name": "São Domingos de Pombal"
+    },
+    "BR-PB-9d3e09": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-9d3e09",
+        "code": "São Domingos do Cariri",
+        "name": "São Domingos do Cariri"
+    },
+    "BR-PB-75a50b": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-75a50b",
+        "code": "São Francisco",
+        "name": "São Francisco"
+    },
+    "BR-PB-27bfed": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-27bfed",
+        "code": "São João do Cariri",
+        "name": "São João do Cariri"
+    },
+    "BR-PB-e0ca5a": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-e0ca5a",
+        "code": "São João do Rio do Peixe",
+        "name": "São João do Rio do Peixe"
+    },
+    "BR-PB-82f609": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-82f609",
+        "code": "São João do Tigre",
+        "name": "São João do Tigre"
+    },
+    "BR-PB-55ade7": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-55ade7",
+        "code": "São José da Lagoa Tapada",
+        "name": "São José da Lagoa Tapada"
+    },
+    "BR-PB-885abb": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-885abb",
+        "code": "São José de Caiana",
+        "name": "São José de Caiana"
+    },
+    "BR-PB-b324c4": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-b324c4",
+        "code": "São José de Espinharas",
+        "name": "São José de Espinharas"
+    },
+    "BR-PB-e58418": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-e58418",
+        "code": "São José de Piranhas",
+        "name": "São José de Piranhas"
+    },
+    "BR-PB-f470fe": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-f470fe",
+        "code": "São José de Princesa",
+        "name": "São José de Princesa"
+    },
+    "BR-PB-b16e98": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-b16e98",
+        "code": "São José do Bonfim",
+        "name": "São José do Bonfim"
+    },
+    "BR-PB-628c5e": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-628c5e",
+        "code": "São José do Brejo do Cruz",
+        "name": "São José do Brejo do Cruz"
+    },
+    "BR-PB-0cfa8f": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-0cfa8f",
+        "code": "São José do Sabugi",
+        "name": "São José do Sabugi"
+    },
+    "BR-PB-27bd75": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-27bd75",
+        "code": "São José dos Cordeiros",
+        "name": "São José dos Cordeiros"
+    },
+    "BR-PB-7a32b9": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-7a32b9",
+        "code": "São José dos Ramos",
+        "name": "São José dos Ramos"
+    },
+    "BR-PB-8b1268": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-8b1268",
+        "code": "São Mamede",
+        "name": "São Mamede"
+    },
+    "BR-PB-54f744": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-54f744",
+        "code": "São Miguel de Taipu",
+        "name": "São Miguel de Taipu"
+    },
+    "BR-PB-f4b88f": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-f4b88f",
+        "code": "São Sebastião de Lagoa de Roça",
+        "name": "São Sebastião de Lagoa de Roça"
+    },
+    "BR-PB-3f38b1": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-3f38b1",
+        "code": "São Sebastião do Umbuzeiro",
+        "name": "São Sebastião do Umbuzeiro"
+    },
+    "BR-PB-86372b": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-86372b",
+        "code": "Sāpe",
+        "name": "Sāpe"
+    },
+    "BR-PB-85b366": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-85b366",
+        "code": "Seridó",
+        "name": "Seridó"
+    },
+    "BR-PB-165e9a": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-165e9a",
+        "code": "Serra Branca",
+        "name": "Serra Branca"
+    },
+    "BR-PB-e9798e": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-e9798e",
+        "code": "Serra da Raiz",
+        "name": "Serra da Raiz"
+    },
+    "BR-PB-0c4780": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-0c4780",
+        "code": "Serra Grande",
+        "name": "Serra Grande"
+    },
+    "BR-PB-bbbfb4": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-bbbfb4",
+        "code": "Serra Redonda",
+        "name": "Serra Redonda"
+    },
+    "BR-PB-58d0ec": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-58d0ec",
+        "code": "Serraria",
+        "name": "Serraria"
+    },
+    "BR-PB-ef2045": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-ef2045",
+        "code": "Sertãozinho",
+        "name": "Sertãozinho"
+    },
+    "BR-PB-44150a": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-44150a",
+        "code": "Sobrado",
+        "name": "Sobrado"
+    },
+    "BR-PB-98aced": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-98aced",
+        "code": "Solânea",
+        "name": "Solânea"
+    },
+    "BR-PB-0b6b6b": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-0b6b6b",
+        "code": "Soledade",
+        "name": "Soledade"
+    },
+    "BR-PB-4f3ba3": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-4f3ba3",
+        "code": "Sossego",
+        "name": "Sossego"
+    },
+    "BR-PB-1c5dcb": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-1c5dcb",
+        "code": "Sousa",
+        "name": "Sousa"
+    },
+    "BR-PB-1b064a": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-1b064a",
+        "code": "Sumé",
+        "name": "Sumé"
+    },
+    "BR-PB-8a9042": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-8a9042",
+        "code": "Taperoá",
+        "name": "Taperoá"
+    },
+    "BR-PB-45c3a3": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-45c3a3",
+        "code": "Tavares",
+        "name": "Tavares"
+    },
+    "BR-PB-6b9ae5": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-6b9ae5",
+        "code": "Teixeira",
+        "name": "Teixeira"
+    },
+    "BR-PB-65d9cb": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-65d9cb",
+        "code": "Tenório",
+        "name": "Tenório"
+    },
+    "BR-PB-c3cbd9": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-c3cbd9",
+        "code": "Triunfo",
+        "name": "Triunfo"
+    },
+    "BR-PB-06f3ef": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-06f3ef",
+        "code": "Uiraúna",
+        "name": "Uiraúna"
+    },
+    "BR-PB-3bae7b": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-3bae7b",
+        "code": "Umbuzeiro",
+        "name": "Umbuzeiro"
+    },
+    "BR-PB-df5392": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-df5392",
+        "code": "Várzea",
+        "name": "Várzea"
+    },
+    "BR-PB-b3ed5a": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-b3ed5a",
+        "code": "Vieirópolis",
+        "name": "Vieirópolis"
+    },
+    "BR-PB-d4fc1a": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-d4fc1a",
+        "code": "Vista Serrana",
+        "name": "Vista Serrana"
+    },
+    "BR-PB-9e3a4b": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-PB",
+        "id": "BR-PB-9e3a4b",
+        "code": "Zabelê",
+        "name": "Zabelê"
+    }
+}

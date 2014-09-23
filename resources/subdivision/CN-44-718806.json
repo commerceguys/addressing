@@ -1,0 +1,93 @@
+{
+    "CN-44-718806-47d7c2": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44-718806",
+        "id": "CN-44-718806-47d7c2",
+        "code": "恩平市",
+        "name": "Enping Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "恩平市"
+            }
+        }
+    },
+    "CN-44-718806-59a9c1": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44-718806",
+        "id": "CN-44-718806-59a9c1",
+        "code": "鹤山市",
+        "name": "Heshan Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "鹤山市"
+            }
+        }
+    },
+    "CN-44-718806-eb1322": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44-718806",
+        "id": "CN-44-718806-eb1322",
+        "code": "江海区",
+        "name": "Jianghai Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "江海区"
+            }
+        }
+    },
+    "CN-44-718806-ffbd55": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44-718806",
+        "id": "CN-44-718806-ffbd55",
+        "code": "开平市",
+        "name": "Kaiping Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "开平市"
+            }
+        }
+    },
+    "CN-44-718806-0655de": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44-718806",
+        "id": "CN-44-718806-0655de",
+        "code": "蓬江区",
+        "name": "Pengjiang Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "蓬江区"
+            }
+        }
+    },
+    "CN-44-718806-ff576d": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44-718806",
+        "id": "CN-44-718806-ff576d",
+        "code": "台山市",
+        "name": "Taishan Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "台山市"
+            }
+        }
+    },
+    "CN-44-718806-462012": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44-718806",
+        "id": "CN-44-718806-462012",
+        "code": "新会区",
+        "name": "Xinhui Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "新会区"
+            }
+        }
+    }
+}

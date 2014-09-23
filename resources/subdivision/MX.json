@@ -1,0 +1,290 @@
+{
+    "MX-AGU": {
+        "locale": "es",
+        "country_code": "MX",
+        "parent_id": null,
+        "id": "MX-AGU",
+        "code": "AGS",
+        "name": "Aguascalientes",
+        "postal_code_pattern": "20"
+    },
+    "MX-BCN": {
+        "locale": "es",
+        "country_code": "MX",
+        "parent_id": null,
+        "id": "MX-BCN",
+        "code": "BC",
+        "name": "Baja California",
+        "postal_code_pattern": "2[12]"
+    },
+    "MX-BCS": {
+        "locale": "es",
+        "country_code": "MX",
+        "parent_id": null,
+        "id": "MX-BCS",
+        "code": "BCS",
+        "name": "Baja California Sur",
+        "postal_code_pattern": "23"
+    },
+    "MX-CAM": {
+        "locale": "es",
+        "country_code": "MX",
+        "parent_id": null,
+        "id": "MX-CAM",
+        "code": "CAMP",
+        "name": "Campeche",
+        "postal_code_pattern": "24"
+    },
+    "MX-CHP": {
+        "locale": "es",
+        "country_code": "MX",
+        "parent_id": null,
+        "id": "MX-CHP",
+        "code": "CHIS",
+        "name": "Chiapas",
+        "postal_code_pattern": "29|30"
+    },
+    "MX-CHH": {
+        "locale": "es",
+        "country_code": "MX",
+        "parent_id": null,
+        "id": "MX-CHH",
+        "code": "CHIH",
+        "name": "Chihuahua",
+        "postal_code_pattern": "3[1-3]"
+    },
+    "MX-COA": {
+        "locale": "es",
+        "country_code": "MX",
+        "parent_id": null,
+        "id": "MX-COA",
+        "code": "COAH",
+        "name": "Coahuila",
+        "postal_code_pattern": "2[5-7]"
+    },
+    "MX-COL": {
+        "locale": "es",
+        "country_code": "MX",
+        "parent_id": null,
+        "id": "MX-COL",
+        "code": "COL",
+        "name": "Colima",
+        "postal_code_pattern": "28"
+    },
+    "MX-DIF": {
+        "locale": "es",
+        "country_code": "MX",
+        "parent_id": null,
+        "id": "MX-DIF",
+        "code": "D.F.",
+        "name": "Distrito Federal",
+        "postal_code_pattern": "0|1[0-6]"
+    },
+    "MX-DUR": {
+        "locale": "es",
+        "country_code": "MX",
+        "parent_id": null,
+        "id": "MX-DUR",
+        "code": "DGO",
+        "name": "Durango",
+        "postal_code_pattern": "3[45]"
+    },
+    "MX-MEX": {
+        "locale": "es",
+        "country_code": "MX",
+        "parent_id": null,
+        "id": "MX-MEX",
+        "code": "MEX",
+        "name": "Estado de México",
+        "postal_code_pattern": "5[0-7]"
+    },
+    "MX-GUA": {
+        "locale": "es",
+        "country_code": "MX",
+        "parent_id": null,
+        "id": "MX-GUA",
+        "code": "GTO",
+        "name": "Guanajuato",
+        "postal_code_pattern": "3[6-8]"
+    },
+    "MX-GRO": {
+        "locale": "es",
+        "country_code": "MX",
+        "parent_id": null,
+        "id": "MX-GRO",
+        "code": "GRO",
+        "name": "Guerrero",
+        "postal_code_pattern": "39|4[01]"
+    },
+    "MX-HID": {
+        "locale": "es",
+        "country_code": "MX",
+        "parent_id": null,
+        "id": "MX-HID",
+        "code": "HGO",
+        "name": "Hidalgo",
+        "postal_code_pattern": "4[23]"
+    },
+    "MX-JAL": {
+        "locale": "es",
+        "country_code": "MX",
+        "parent_id": null,
+        "id": "MX-JAL",
+        "code": "JAL",
+        "name": "Jalisco",
+        "postal_code_pattern": "4[4-9]"
+    },
+    "MX-MIC": {
+        "locale": "es",
+        "country_code": "MX",
+        "parent_id": null,
+        "id": "MX-MIC",
+        "code": "MICH",
+        "name": "Michoacán",
+        "postal_code_pattern": "5[89]|6[01]"
+    },
+    "MX-MOR": {
+        "locale": "es",
+        "country_code": "MX",
+        "parent_id": null,
+        "id": "MX-MOR",
+        "code": "MOR",
+        "name": "Morelos",
+        "postal_code_pattern": "62"
+    },
+    "MX-NAY": {
+        "locale": "es",
+        "country_code": "MX",
+        "parent_id": null,
+        "id": "MX-NAY",
+        "code": "NAY",
+        "name": "Nayarit",
+        "postal_code_pattern": "63"
+    },
+    "MX-NLE": {
+        "locale": "es",
+        "country_code": "MX",
+        "parent_id": null,
+        "id": "MX-NLE",
+        "code": "NL",
+        "name": "Nuevo León",
+        "postal_code_pattern": "6[4-7]"
+    },
+    "MX-OAX": {
+        "locale": "es",
+        "country_code": "MX",
+        "parent_id": null,
+        "id": "MX-OAX",
+        "code": "OAX",
+        "name": "Oaxaca",
+        "postal_code_pattern": "6[89]|7[01]"
+    },
+    "MX-PUE": {
+        "locale": "es",
+        "country_code": "MX",
+        "parent_id": null,
+        "id": "MX-PUE",
+        "code": "PUE",
+        "name": "Puebla",
+        "postal_code_pattern": "7[2-5]"
+    },
+    "MX-QUE": {
+        "locale": "es",
+        "country_code": "MX",
+        "parent_id": null,
+        "id": "MX-QUE",
+        "code": "QRO",
+        "name": "Querétaro",
+        "postal_code_pattern": "76"
+    },
+    "MX-ROO": {
+        "locale": "es",
+        "country_code": "MX",
+        "parent_id": null,
+        "id": "MX-ROO",
+        "code": "QROO",
+        "name": "Quintana Roo",
+        "postal_code_pattern": "77"
+    },
+    "MX-SLP": {
+        "locale": "es",
+        "country_code": "MX",
+        "parent_id": null,
+        "id": "MX-SLP",
+        "code": "SLP",
+        "name": "San Luís Potosí",
+        "postal_code_pattern": "7[89]"
+    },
+    "MX-SIN": {
+        "locale": "es",
+        "country_code": "MX",
+        "parent_id": null,
+        "id": "MX-SIN",
+        "code": "SIN",
+        "name": "Sinalóa",
+        "postal_code_pattern": "8[0-2]"
+    },
+    "MX-SON": {
+        "locale": "es",
+        "country_code": "MX",
+        "parent_id": null,
+        "id": "MX-SON",
+        "code": "SON",
+        "name": "Sonora",
+        "postal_code_pattern": "8[3-5]"
+    },
+    "MX-TAB": {
+        "locale": "es",
+        "country_code": "MX",
+        "parent_id": null,
+        "id": "MX-TAB",
+        "code": "TAB",
+        "name": "Tabasco",
+        "postal_code_pattern": "86"
+    },
+    "MX-TAM": {
+        "locale": "es",
+        "country_code": "MX",
+        "parent_id": null,
+        "id": "MX-TAM",
+        "code": "TAMPS",
+        "name": "Tamaulipas",
+        "postal_code_pattern": "8[7-9]"
+    },
+    "MX-TLA": {
+        "locale": "es",
+        "country_code": "MX",
+        "parent_id": null,
+        "id": "MX-TLA",
+        "code": "TLAX",
+        "name": "Tlaxcala",
+        "postal_code_pattern": "90"
+    },
+    "MX-VER": {
+        "locale": "es",
+        "country_code": "MX",
+        "parent_id": null,
+        "id": "MX-VER",
+        "code": "VER",
+        "name": "Veracruz",
+        "postal_code_pattern": "9[1-6]"
+    },
+    "MX-YUC": {
+        "locale": "es",
+        "country_code": "MX",
+        "parent_id": null,
+        "id": "MX-YUC",
+        "code": "YUC",
+        "name": "Yucatán",
+        "postal_code_pattern": "97"
+    },
+    "MX-ZAC": {
+        "locale": "es",
+        "country_code": "MX",
+        "parent_id": null,
+        "id": "MX-ZAC",
+        "code": "ZAC",
+        "name": "Zacatecas",
+        "postal_code_pattern": "9[89]"
+    }
+}

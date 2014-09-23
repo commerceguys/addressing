@@ -1,0 +1,41 @@
+{
+    "CN-53-174785-58c493": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-53-174785",
+        "id": "CN-53-174785-58c493",
+        "code": "德钦县",
+        "name": "Dêqên Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "德钦县"
+            }
+        }
+    },
+    "CN-53-174785-b3fea0": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-53-174785",
+        "id": "CN-53-174785-b3fea0",
+        "code": "维西傈僳族自治县",
+        "name": "Weixi Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "维西县"
+            }
+        }
+    },
+    "CN-53-174785-9fa1d2": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-53-174785",
+        "id": "CN-53-174785-9fa1d2",
+        "code": "香格里拉县",
+        "name": "Shangêlila Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "香格里拉县"
+            }
+        }
+    }
+}

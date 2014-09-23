@@ -1,0 +1,54 @@
+{
+    "CN-43-a11b2c-7bd5c8": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-43-a11b2c",
+        "id": "CN-43-a11b2c-7bd5c8",
+        "code": "慈利县",
+        "name": "Cili Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "慈利县"
+            }
+        }
+    },
+    "CN-43-a11b2c-d79055": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-43-a11b2c",
+        "id": "CN-43-a11b2c-d79055",
+        "code": "桑植县",
+        "name": "Sangzhi Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "桑植县"
+            }
+        }
+    },
+    "CN-43-a11b2c-87b60c": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-43-a11b2c",
+        "id": "CN-43-a11b2c-87b60c",
+        "code": "武陵源区",
+        "name": "Wulingyuan Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "武陵源区"
+            }
+        }
+    },
+    "CN-43-a11b2c-eef1a4": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-43-a11b2c",
+        "id": "CN-43-a11b2c-eef1a4",
+        "code": "永定区",
+        "name": "Yongding Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "永定区"
+            }
+        }
+    }
+}

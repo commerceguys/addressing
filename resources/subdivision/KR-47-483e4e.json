@@ -1,0 +1,30 @@
+{
+    "KR-47-483e4e-49d4f6": {
+        "locale": "ko-Latn",
+        "country_code": "KR",
+        "parent_id": "KR-47-483e4e",
+        "id": "KR-47-483e4e-49d4f6",
+        "code": "남구",
+        "name": "Nam-gu",
+        "postal_code_pattern": "790",
+        "translations": {
+            "ko": {
+                "name": "남구"
+            }
+        }
+    },
+    "KR-47-483e4e-f032cf": {
+        "locale": "ko-Latn",
+        "country_code": "KR",
+        "parent_id": "KR-47-483e4e",
+        "id": "KR-47-483e4e-f032cf",
+        "code": "북구",
+        "name": "Buk-gu",
+        "postal_code_pattern": "791",
+        "translations": {
+            "ko": {
+                "name": "북구"
+            }
+        }
+    }
+}

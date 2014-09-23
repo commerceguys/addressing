@@ -1,0 +1,74 @@
+{
+    "CV-BV": {
+        "locale": "pt",
+        "country_code": "CV",
+        "parent_id": null,
+        "id": "CV-BV",
+        "code": "Boa Vista",
+        "name": "Boa Vista"
+    },
+    "CV-BR": {
+        "locale": "pt",
+        "country_code": "CV",
+        "parent_id": null,
+        "id": "CV-BR",
+        "code": "Brava",
+        "name": "Brava"
+    },
+    "CV-31d0db": {
+        "locale": "pt",
+        "country_code": "CV",
+        "parent_id": null,
+        "id": "CV-31d0db",
+        "code": "Fogo",
+        "name": "Fogo"
+    },
+    "CV-MA": {
+        "locale": "pt",
+        "country_code": "CV",
+        "parent_id": null,
+        "id": "CV-MA",
+        "code": "Maio",
+        "name": "Maio"
+    },
+    "CV-SL": {
+        "locale": "pt",
+        "country_code": "CV",
+        "parent_id": null,
+        "id": "CV-SL",
+        "code": "Sal",
+        "name": "Sal"
+    },
+    "CV-5a98ef": {
+        "locale": "pt",
+        "country_code": "CV",
+        "parent_id": null,
+        "id": "CV-5a98ef",
+        "code": "Santiago",
+        "name": "Santiago"
+    },
+    "CV-acadcc": {
+        "locale": "pt",
+        "country_code": "CV",
+        "parent_id": null,
+        "id": "CV-acadcc",
+        "code": "Santo Antão",
+        "name": "Santo Antão"
+    },
+    "CV-SN": {
+        "locale": "pt",
+        "country_code": "CV",
+        "parent_id": null,
+        "id": "CV-SN",
+        "code": "São Nicolau",
+        "name": "São Nicolau"
+    },
+    "CV-SV": {
+        "locale": "pt",
+        "country_code": "CV",
+        "parent_id": null,
+        "id": "CV-SV",
+        "code": "São Vicente",
+        "name": "São Vicente"
+    }
+}

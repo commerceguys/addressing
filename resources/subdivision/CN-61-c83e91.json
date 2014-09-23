@@ -1,0 +1,145 @@
+{
+    "CN-61-c83e91-557714": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-61-c83e91",
+        "id": "CN-61-c83e91-557714",
+        "code": "白水县",
+        "name": "Baishui Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "白水县"
+            }
+        }
+    },
+    "CN-61-c83e91-3a1381": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-61-c83e91",
+        "id": "CN-61-c83e91-3a1381",
+        "code": "澄城县",
+        "name": "Chengcheng Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "澄城县"
+            }
+        }
+    },
+    "CN-61-c83e91-d07ae1": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-61-c83e91",
+        "id": "CN-61-c83e91-d07ae1",
+        "code": "大荔县",
+        "name": "Dali Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "大荔县"
+            }
+        }
+    },
+    "CN-61-c83e91-6c6e31": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-61-c83e91",
+        "id": "CN-61-c83e91-6c6e31",
+        "code": "富平县",
+        "name": "Fuping Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "富平县"
+            }
+        }
+    },
+    "CN-61-c83e91-04d089": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-61-c83e91",
+        "id": "CN-61-c83e91-04d089",
+        "code": "韩城市",
+        "name": "Hancheng Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "韩城市"
+            }
+        }
+    },
+    "CN-61-c83e91-62668d": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-61-c83e91",
+        "id": "CN-61-c83e91-62668d",
+        "code": "合阳县",
+        "name": "Heyang Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "合阳县"
+            }
+        }
+    },
+    "CN-61-c83e91-52238b": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-61-c83e91",
+        "id": "CN-61-c83e91-52238b",
+        "code": "华县",
+        "name": "Hua Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "华县"
+            }
+        }
+    },
+    "CN-61-c83e91-5e68d2": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-61-c83e91",
+        "id": "CN-61-c83e91-5e68d2",
+        "code": "华阴市",
+        "name": "Huayin Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "华阴市"
+            }
+        }
+    },
+    "CN-61-c83e91-20dc15": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-61-c83e91",
+        "id": "CN-61-c83e91-20dc15",
+        "code": "临渭区",
+        "name": "Linwei Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "临渭区"
+            }
+        }
+    },
+    "CN-61-c83e91-112dc0": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-61-c83e91",
+        "id": "CN-61-c83e91-112dc0",
+        "code": "蒲城县",
+        "name": "Pucheng Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "蒲城县"
+            }
+        }
+    },
+    "CN-61-c83e91-b87108": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-61-c83e91",
+        "id": "CN-61-c83e91-b87108",
+        "code": "潼关县",
+        "name": "Tongguan Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "潼关县"
+            }
+        }
+    }
+}

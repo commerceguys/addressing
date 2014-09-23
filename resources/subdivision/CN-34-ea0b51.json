@@ -1,0 +1,106 @@
+{
+    "CN-34-ea0b51-35cd67": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-34-ea0b51",
+        "id": "CN-34-ea0b51-35cd67",
+        "code": "定远县",
+        "name": "Dingyuan Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "定远县"
+            }
+        }
+    },
+    "CN-34-ea0b51-951540": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-34-ea0b51",
+        "id": "CN-34-ea0b51-951540",
+        "code": "凤阳县",
+        "name": "Fengyang Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "凤阳县"
+            }
+        }
+    },
+    "CN-34-ea0b51-6285fe": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-34-ea0b51",
+        "id": "CN-34-ea0b51-6285fe",
+        "code": "来安县",
+        "name": "Lai'an Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "来安县"
+            }
+        }
+    },
+    "CN-34-ea0b51-912d51": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-34-ea0b51",
+        "id": "CN-34-ea0b51-912d51",
+        "code": "琅琊区",
+        "name": "Liangya Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "琅琊区"
+            }
+        }
+    },
+    "CN-34-ea0b51-ed6a3d": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-34-ea0b51",
+        "id": "CN-34-ea0b51-ed6a3d",
+        "code": "明光市",
+        "name": "Mingguang Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "明光市"
+            }
+        }
+    },
+    "CN-34-ea0b51-7f361e": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-34-ea0b51",
+        "id": "CN-34-ea0b51-7f361e",
+        "code": "南谯区",
+        "name": "Nanqiao Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "南谯区"
+            }
+        }
+    },
+    "CN-34-ea0b51-ec5860": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-34-ea0b51",
+        "id": "CN-34-ea0b51-ec5860",
+        "code": "全椒县",
+        "name": "Quanjiao Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "全椒县"
+            }
+        }
+    },
+    "CN-34-ea0b51-d11ac8": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-34-ea0b51",
+        "id": "CN-34-ea0b51-d11ac8",
+        "code": "天长市",
+        "name": "Tianchang Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "天长市"
+            }
+        }
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "CN-23-5a303b-4af9fb": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-23-5a303b",
+        "id": "CN-23-5a303b-4af9fb",
+        "code": "东风区",
+        "name": "Dongfeng Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "东风区"
+            }
+        }
+    },
+    "CN-23-5a303b-9b5822": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-23-5a303b",
+        "id": "CN-23-5a303b-9b5822",
+        "code": "抚远县",
+        "name": "Fuyuan Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "抚远县"
+            }
+        }
+    },
+    "CN-23-5a303b-ca1402": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-23-5a303b",
+        "id": "CN-23-5a303b-ca1402",
+        "code": "富锦市",
+        "name": "Fujin Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "富锦市"
+            }
+        }
+    },
+    "CN-23-5a303b-ff612d": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-23-5a303b",
+        "id": "CN-23-5a303b-ff612d",
+        "code": "桦川县",
+        "name": "Huachuan Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "桦川县"
+            }
+        }
+    },
+    "CN-23-5a303b-10b313": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-23-5a303b",
+        "id": "CN-23-5a303b-10b313",
+        "code": "桦南县",
+        "name": "Huanan Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "桦南县"
+            }
+        }
+    },
+    "CN-23-5a303b-e4fb07": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-23-5a303b",
+        "id": "CN-23-5a303b-e4fb07",
+        "code": "郊区",
+        "name": "Jiao Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "郊区"
+            }
+        }
+    },
+    "CN-23-5a303b-e68d45": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-23-5a303b",
+        "id": "CN-23-5a303b-e68d45",
+        "code": "前进区",
+        "name": "Qianjin Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "前进区"
+            }
+        }
+    },
+    "CN-23-5a303b-a8e83e": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-23-5a303b",
+        "id": "CN-23-5a303b-a8e83e",
+        "code": "汤原县",
+        "name": "Tangyuan Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "汤原县"
+            }
+        }
+    },
+    "CN-23-5a303b-236009": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-23-5a303b",
+        "id": "CN-23-5a303b-236009",
+        "code": "同江市",
+        "name": "Tongjiang Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "同江市"
+            }
+        }
+    },
+    "CN-23-5a303b-296437": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-23-5a303b",
+        "id": "CN-23-5a303b-296437",
+        "code": "向阳区",
+        "name": "Xiangyang Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "向阳区"
+            }
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "CN-62-84ebf3-4c3477": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-62-84ebf3",
+        "id": "CN-62-84ebf3-4c3477",
+        "code": "古浪县",
+        "name": "Gulang Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "古浪县"
+            }
+        }
+    },
+    "CN-62-84ebf3-e67020": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-62-84ebf3",
+        "id": "CN-62-84ebf3-e67020",
+        "code": "凉州区",
+        "name": "Liangzhou Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "凉州区"
+            }
+        }
+    },
+    "CN-62-84ebf3-c2afab": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-62-84ebf3",
+        "id": "CN-62-84ebf3-c2afab",
+        "code": "民勤县",
+        "name": "Minqin Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "民勤县"
+            }
+        }
+    },
+    "CN-62-84ebf3-40acb9": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-62-84ebf3",
+        "id": "CN-62-84ebf3-40acb9",
+        "code": "天祝藏族自治县",
+        "name": "Tianzhu Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "天祝县"
+            }
+        }
+    }
+}

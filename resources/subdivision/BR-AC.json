@@ -1,0 +1,178 @@
+{
+    "BR-AC-64f70b": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AC",
+        "id": "BR-AC-64f70b",
+        "code": "Acrelândia",
+        "name": "Acrelândia"
+    },
+    "BR-AC-505752": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AC",
+        "id": "BR-AC-505752",
+        "code": "Assis Brasil",
+        "name": "Assis Brasil"
+    },
+    "BR-AC-cb2d00": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AC",
+        "id": "BR-AC-cb2d00",
+        "code": "Brasiléia",
+        "name": "Brasiléia"
+    },
+    "BR-AC-a562d7": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AC",
+        "id": "BR-AC-a562d7",
+        "code": "Bujari",
+        "name": "Bujari"
+    },
+    "BR-AC-e2e1f6": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AC",
+        "id": "BR-AC-e2e1f6",
+        "code": "Capixaba",
+        "name": "Capixaba"
+    },
+    "BR-AC-f65c00": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AC",
+        "id": "BR-AC-f65c00",
+        "code": "Cruzeiro do Sul",
+        "name": "Cruzeiro do Sul"
+    },
+    "BR-AC-551110": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AC",
+        "id": "BR-AC-551110",
+        "code": "Epitaciolândia",
+        "name": "Epitaciolândia"
+    },
+    "BR-AC-603fed": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AC",
+        "id": "BR-AC-603fed",
+        "code": "Feijó",
+        "name": "Feijó"
+    },
+    "BR-AC-80a959": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AC",
+        "id": "BR-AC-80a959",
+        "code": "Jordão",
+        "name": "Jordão"
+    },
+    "BR-AC-334910": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AC",
+        "id": "BR-AC-334910",
+        "code": "Mâncio Lima",
+        "name": "Mâncio Lima"
+    },
+    "BR-AC-993f90": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AC",
+        "id": "BR-AC-993f90",
+        "code": "Manoel Urbano",
+        "name": "Manoel Urbano"
+    },
+    "BR-AC-eb6f51": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AC",
+        "id": "BR-AC-eb6f51",
+        "code": "Marechal Thaumaturgo",
+        "name": "Marechal Thaumaturgo"
+    },
+    "BR-AC-7c3526": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AC",
+        "id": "BR-AC-7c3526",
+        "code": "Plácido de Castro",
+        "name": "Plácido de Castro"
+    },
+    "BR-AC-6e6b33": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AC",
+        "id": "BR-AC-6e6b33",
+        "code": "Porto Acre",
+        "name": "Porto Acre"
+    },
+    "BR-AC-3e4891": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AC",
+        "id": "BR-AC-3e4891",
+        "code": "Porto Walter",
+        "name": "Porto Walter"
+    },
+    "BR-AC-0c7d7e": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AC",
+        "id": "BR-AC-0c7d7e",
+        "code": "Rio Branco",
+        "name": "Rio Branco"
+    },
+    "BR-AC-24f432": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AC",
+        "id": "BR-AC-24f432",
+        "code": "Rodrigues Alves",
+        "name": "Rodrigues Alves"
+    },
+    "BR-AC-581bb9": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AC",
+        "id": "BR-AC-581bb9",
+        "code": "Santa Rosa do Purus",
+        "name": "Santa Rosa do Purus"
+    },
+    "BR-AC-3915c4": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AC",
+        "id": "BR-AC-3915c4",
+        "code": "Sena Madureira",
+        "name": "Sena Madureira"
+    },
+    "BR-AC-ff65e0": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AC",
+        "id": "BR-AC-ff65e0",
+        "code": "Senador Guiomard",
+        "name": "Senador Guiomard"
+    },
+    "BR-AC-984c98": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AC",
+        "id": "BR-AC-984c98",
+        "code": "Tarauacá",
+        "name": "Tarauacá"
+    },
+    "BR-AC-b1f123": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AC",
+        "id": "BR-AC-b1f123",
+        "code": "Xapuri",
+        "name": "Xapuri"
+    }
+}

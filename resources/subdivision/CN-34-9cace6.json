@@ -1,0 +1,54 @@
+{
+    "CN-34-9cace6-9abe83": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-34-9cace6",
+        "id": "CN-34-9cace6-9abe83",
+        "code": "郊区",
+        "name": "Jiao Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "郊区"
+            }
+        }
+    },
+    "CN-34-9cace6-3daabf": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-34-9cace6",
+        "id": "CN-34-9cace6-3daabf",
+        "code": "狮子山区",
+        "name": "Shizishan Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "狮子山区"
+            }
+        }
+    },
+    "CN-34-9cace6-ff235a": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-34-9cace6",
+        "id": "CN-34-9cace6-ff235a",
+        "code": "铜官山区",
+        "name": "Tongguanshan Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "铜官山区"
+            }
+        }
+    },
+    "CN-34-9cace6-9e7723": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-34-9cace6",
+        "id": "CN-34-9cace6-9e7723",
+        "code": "铜陵县",
+        "name": "Tongling Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "铜陵县"
+            }
+        }
+    }
+}

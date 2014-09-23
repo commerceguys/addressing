@@ -1,0 +1,114 @@
+{
+    "CN-71-dfbf10-878195": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-dfbf10",
+        "id": "CN-71-dfbf10-878195",
+        "code": "北區",
+        "name": "North District",
+        "postal_code_pattern": "404",
+        "translations": {
+            "zh-hans": {
+                "name": "北區"
+            }
+        }
+    },
+    "CN-71-dfbf10-abbd4e": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-dfbf10",
+        "id": "CN-71-dfbf10-abbd4e",
+        "code": "北屯區",
+        "name": "Beitun District",
+        "postal_code_pattern": "406",
+        "translations": {
+            "zh-hans": {
+                "name": "北屯區"
+            }
+        }
+    },
+    "CN-71-dfbf10-85640d": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-dfbf10",
+        "id": "CN-71-dfbf10-85640d",
+        "code": "東區",
+        "name": "East District",
+        "postal_code_pattern": "401",
+        "translations": {
+            "zh-hans": {
+                "name": "東區"
+            }
+        }
+    },
+    "CN-71-dfbf10-a59fd4": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-dfbf10",
+        "id": "CN-71-dfbf10-a59fd4",
+        "code": "南區",
+        "name": "South District",
+        "postal_code_pattern": "402",
+        "translations": {
+            "zh-hans": {
+                "name": "南區"
+            }
+        }
+    },
+    "CN-71-dfbf10-4e51db": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-dfbf10",
+        "id": "CN-71-dfbf10-4e51db",
+        "code": "南屯區",
+        "name": "Nantun District",
+        "postal_code_pattern": "408",
+        "translations": {
+            "zh-hans": {
+                "name": "南屯區"
+            }
+        }
+    },
+    "CN-71-dfbf10-aa4baf": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-dfbf10",
+        "id": "CN-71-dfbf10-aa4baf",
+        "code": "西區",
+        "name": "West District",
+        "postal_code_pattern": "403",
+        "translations": {
+            "zh-hans": {
+                "name": "西區"
+            }
+        }
+    },
+    "CN-71-dfbf10-42fb60": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-dfbf10",
+        "id": "CN-71-dfbf10-42fb60",
+        "code": "西屯區",
+        "name": "Situn District",
+        "postal_code_pattern": "407",
+        "translations": {
+            "zh-hans": {
+                "name": "西屯區"
+            }
+        }
+    },
+    "CN-71-dfbf10-119d8f": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-dfbf10",
+        "id": "CN-71-dfbf10-119d8f",
+        "code": "中區",
+        "name": "Central District",
+        "postal_code_pattern": "400",
+        "translations": {
+            "zh-hans": {
+                "name": "中區"
+            }
+        }
+    }
+}

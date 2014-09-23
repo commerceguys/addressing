@@ -1,0 +1,15 @@
+{
+    "CN-92-03c13c": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-92",
+        "id": "CN-92-03c13c",
+        "code": "澳门",
+        "name": "Macau",
+        "translations": {
+            "zh-hans": {
+                "name": "澳门"
+            }
+        }
+    }
+}

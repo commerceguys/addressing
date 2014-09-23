@@ -1,0 +1,258 @@
+{
+    "CL-AR-553404": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AR",
+        "id": "CL-AR-553404",
+        "code": "Angol",
+        "name": "Angol"
+    },
+    "CL-AR-f310bc": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AR",
+        "id": "CL-AR-f310bc",
+        "code": "Carahue",
+        "name": "Carahue"
+    },
+    "CL-AR-5f17e8": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AR",
+        "id": "CL-AR-5f17e8",
+        "code": "Cholchol",
+        "name": "Cholchol"
+    },
+    "CL-AR-a38f29": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AR",
+        "id": "CL-AR-a38f29",
+        "code": "Collipulli",
+        "name": "Collipulli"
+    },
+    "CL-AR-bf097f": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AR",
+        "id": "CL-AR-bf097f",
+        "code": "Cunco",
+        "name": "Cunco"
+    },
+    "CL-AR-c6a20a": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AR",
+        "id": "CL-AR-c6a20a",
+        "code": "Curacautín",
+        "name": "Curacautín"
+    },
+    "CL-AR-38a27c": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AR",
+        "id": "CL-AR-38a27c",
+        "code": "Curarrehue",
+        "name": "Curarrehue"
+    },
+    "CL-AR-3aa4bc": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AR",
+        "id": "CL-AR-3aa4bc",
+        "code": "Ercilla",
+        "name": "Ercilla"
+    },
+    "CL-AR-c59f70": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AR",
+        "id": "CL-AR-c59f70",
+        "code": "Freire",
+        "name": "Freire"
+    },
+    "CL-AR-085cf1": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AR",
+        "id": "CL-AR-085cf1",
+        "code": "Galvarino",
+        "name": "Galvarino"
+    },
+    "CL-AR-c492f3": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AR",
+        "id": "CL-AR-c492f3",
+        "code": "Gorbea",
+        "name": "Gorbea"
+    },
+    "CL-AR-5a18cf": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AR",
+        "id": "CL-AR-5a18cf",
+        "code": "Lautaro",
+        "name": "Lautaro"
+    },
+    "CL-AR-537fad": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AR",
+        "id": "CL-AR-537fad",
+        "code": "Loncoche",
+        "name": "Loncoche"
+    },
+    "CL-AR-6a3894": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AR",
+        "id": "CL-AR-6a3894",
+        "code": "Lonquimay",
+        "name": "Lonquimay"
+    },
+    "CL-AR-b5e424": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AR",
+        "id": "CL-AR-b5e424",
+        "code": "Los Sauces",
+        "name": "Los Sauces"
+    },
+    "CL-AR-120ece": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AR",
+        "id": "CL-AR-120ece",
+        "code": "Lumaco",
+        "name": "Lumaco"
+    },
+    "CL-AR-9f1ce8": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AR",
+        "id": "CL-AR-9f1ce8",
+        "code": "Melipeuco",
+        "name": "Melipeuco"
+    },
+    "CL-AR-b49023": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AR",
+        "id": "CL-AR-b49023",
+        "code": "Nueva Imperial",
+        "name": "Nueva Imperial"
+    },
+    "CL-AR-01e124": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AR",
+        "id": "CL-AR-01e124",
+        "code": "Padre Las Casas",
+        "name": "Padre Las Casas"
+    },
+    "CL-AR-dae28f": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AR",
+        "id": "CL-AR-dae28f",
+        "code": "Perquenco",
+        "name": "Perquenco"
+    },
+    "CL-AR-5f47aa": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AR",
+        "id": "CL-AR-5f47aa",
+        "code": "Pitrufquén",
+        "name": "Pitrufquén"
+    },
+    "CL-AR-e64028": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AR",
+        "id": "CL-AR-e64028",
+        "code": "Pucón",
+        "name": "Pucón"
+    },
+    "CL-AR-6575af": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AR",
+        "id": "CL-AR-6575af",
+        "code": "Purén",
+        "name": "Purén"
+    },
+    "CL-AR-1ec924": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AR",
+        "id": "CL-AR-1ec924",
+        "code": "Renaico",
+        "name": "Renaico"
+    },
+    "CL-AR-d0382c": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AR",
+        "id": "CL-AR-d0382c",
+        "code": "Saavedra",
+        "name": "Saavedra"
+    },
+    "CL-AR-82f585": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AR",
+        "id": "CL-AR-82f585",
+        "code": "Temuco",
+        "name": "Temuco"
+    },
+    "CL-AR-b6c1e7": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AR",
+        "id": "CL-AR-b6c1e7",
+        "code": "Teodoro Schmidt",
+        "name": "Teodoro Schmidt"
+    },
+    "CL-AR-3c5b6a": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AR",
+        "id": "CL-AR-3c5b6a",
+        "code": "Toltén",
+        "name": "Toltén"
+    },
+    "CL-AR-cbd2a4": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AR",
+        "id": "CL-AR-cbd2a4",
+        "code": "Traiguén",
+        "name": "Traiguén"
+    },
+    "CL-AR-3e19a0": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AR",
+        "id": "CL-AR-3e19a0",
+        "code": "Victoria",
+        "name": "Victoria"
+    },
+    "CL-AR-83130d": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AR",
+        "id": "CL-AR-83130d",
+        "code": "Vilcún",
+        "name": "Vilcún"
+    },
+    "CL-AR-0122dc": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AR",
+        "id": "CL-AR-0122dc",
+        "code": "Villarrica",
+        "name": "Villarrica"
+    }
+}

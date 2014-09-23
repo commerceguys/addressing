@@ -1,0 +1,54 @@
+{
+    "CN-64-fdcf88-6850cf": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-64-fdcf88",
+        "id": "CN-64-fdcf88-6850cf",
+        "code": "利通区",
+        "name": "Litong Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "利通区"
+            }
+        }
+    },
+    "CN-64-fdcf88-232d8d": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-64-fdcf88",
+        "id": "CN-64-fdcf88-232d8d",
+        "code": "青铜峡市",
+        "name": "Qingtongxia Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "青铜峡市"
+            }
+        }
+    },
+    "CN-64-fdcf88-d9ffc4": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-64-fdcf88",
+        "id": "CN-64-fdcf88-d9ffc4",
+        "code": "同心县",
+        "name": "Tongxin Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "同心县"
+            }
+        }
+    },
+    "CN-64-fdcf88-505403": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-64-fdcf88",
+        "id": "CN-64-fdcf88-505403",
+        "code": "盐池县",
+        "name": "Yanchi Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "盐池县"
+            }
+        }
+    }
+}

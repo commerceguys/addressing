@@ -1,0 +1,74 @@
+{
+    "CL-AN-6672f7": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AN",
+        "id": "CL-AN-6672f7",
+        "code": "Antofagasta",
+        "name": "Antofagasta"
+    },
+    "CL-AN-be9856": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AN",
+        "id": "CL-AN-be9856",
+        "code": "Calama",
+        "name": "Calama"
+    },
+    "CL-AN-7160f9": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AN",
+        "id": "CL-AN-7160f9",
+        "code": "María Elena",
+        "name": "María Elena"
+    },
+    "CL-AN-25781c": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AN",
+        "id": "CL-AN-25781c",
+        "code": "Mejillones",
+        "name": "Mejillones"
+    },
+    "CL-AN-040348": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AN",
+        "id": "CL-AN-040348",
+        "code": "Ollagüe",
+        "name": "Ollagüe"
+    },
+    "CL-AN-2bb729": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AN",
+        "id": "CL-AN-2bb729",
+        "code": "San Pedro de Atacama",
+        "name": "San Pedro de Atacama"
+    },
+    "CL-AN-b25c38": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AN",
+        "id": "CL-AN-b25c38",
+        "code": "Sierra Gorda",
+        "name": "Sierra Gorda"
+    },
+    "CL-AN-70829e": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AN",
+        "id": "CL-AN-70829e",
+        "code": "Taltal",
+        "name": "Taltal"
+    },
+    "CL-AN-f3aba1": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AN",
+        "id": "CL-AN-f3aba1",
+        "code": "Tocopilla",
+        "name": "Tocopilla"
+    }
+}

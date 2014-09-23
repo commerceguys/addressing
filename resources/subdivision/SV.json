@@ -1,0 +1,128 @@
+{
+    "SV-AH": {
+        "locale": "es",
+        "country_code": "SV",
+        "parent_id": null,
+        "id": "SV-AH",
+        "code": "AHUACHAPAN",
+        "name": "Ahuachapán",
+        "postal_code_pattern": "CP 21"
+    },
+    "SV-CA": {
+        "locale": "es",
+        "country_code": "SV",
+        "parent_id": null,
+        "id": "SV-CA",
+        "code": "CABANAS",
+        "name": "Cabañas",
+        "postal_code_pattern": "CP 12"
+    },
+    "SV-CH": {
+        "locale": "es",
+        "country_code": "SV",
+        "parent_id": null,
+        "id": "SV-CH",
+        "code": "CALATENANGO",
+        "name": "Chalatenango",
+        "postal_code_pattern": "CP 13"
+    },
+    "SV-CU": {
+        "locale": "es",
+        "country_code": "SV",
+        "parent_id": null,
+        "id": "SV-CU",
+        "code": "CUSCATLAN",
+        "name": "Cuscatlán",
+        "postal_code_pattern": "CP 14"
+    },
+    "SV-LI": {
+        "locale": "es",
+        "country_code": "SV",
+        "parent_id": null,
+        "id": "SV-LI",
+        "code": "LA LIBERTAD",
+        "name": "La Libertad",
+        "postal_code_pattern": "CP 15"
+    },
+    "SV-PA": {
+        "locale": "es",
+        "country_code": "SV",
+        "parent_id": null,
+        "id": "SV-PA",
+        "code": "LA PAZ",
+        "name": "La Paz",
+        "postal_code_pattern": "CP 16"
+    },
+    "SV-UN": {
+        "locale": "es",
+        "country_code": "SV",
+        "parent_id": null,
+        "id": "SV-UN",
+        "code": "LA UNION",
+        "name": "La Unión",
+        "postal_code_pattern": "CP 31"
+    },
+    "SV-MO": {
+        "locale": "es",
+        "country_code": "SV",
+        "parent_id": null,
+        "id": "SV-MO",
+        "code": "MORAZAN",
+        "name": "Morazán",
+        "postal_code_pattern": "CP 32"
+    },
+    "SV-SM": {
+        "locale": "es",
+        "country_code": "SV",
+        "parent_id": null,
+        "id": "SV-SM",
+        "code": "SAN MIGUEL",
+        "name": "San Miguel",
+        "postal_code_pattern": "CP 33"
+    },
+    "SV-SS": {
+        "locale": "es",
+        "country_code": "SV",
+        "parent_id": null,
+        "id": "SV-SS",
+        "code": "SAN SALVADOR",
+        "name": "San Salvador",
+        "postal_code_pattern": "CP 11"
+    },
+    "SV-SV": {
+        "locale": "es",
+        "country_code": "SV",
+        "parent_id": null,
+        "id": "SV-SV",
+        "code": "SAN VICENTE",
+        "name": "San Vicente",
+        "postal_code_pattern": "CP 17"
+    },
+    "SV-SA": {
+        "locale": "es",
+        "country_code": "SV",
+        "parent_id": null,
+        "id": "SV-SA",
+        "code": "SANTA ANA",
+        "name": "Santa Ana",
+        "postal_code_pattern": "CP 22"
+    },
+    "SV-SO": {
+        "locale": "es",
+        "country_code": "SV",
+        "parent_id": null,
+        "id": "SV-SO",
+        "code": "SONSONATE",
+        "name": "Sonsonate",
+        "postal_code_pattern": "CP 23"
+    },
+    "SV-US": {
+        "locale": "es",
+        "country_code": "SV",
+        "parent_id": null,
+        "id": "SV-US",
+        "code": "USULUTAN",
+        "name": "Usulután",
+        "postal_code_pattern": "CP 34"
+    }
+}

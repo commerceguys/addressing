@@ -1,0 +1,54 @@
+{
+    "CN-45-eba83f-5fc9e9": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-45-eba83f",
+        "id": "CN-45-eba83f-5fc9e9",
+        "code": "灵山县",
+        "name": "Lingshan Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "灵山县"
+            }
+        }
+    },
+    "CN-45-eba83f-20139a": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-45-eba83f",
+        "id": "CN-45-eba83f-20139a",
+        "code": "浦北县",
+        "name": "Pubei Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "浦北县"
+            }
+        }
+    },
+    "CN-45-eba83f-3e32d5": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-45-eba83f",
+        "id": "CN-45-eba83f-3e32d5",
+        "code": "钦北区",
+        "name": "Qinbei Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "钦北区"
+            }
+        }
+    },
+    "CN-45-eba83f-173831": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-45-eba83f",
+        "id": "CN-45-eba83f-173831",
+        "code": "钦南区",
+        "name": "Qinnan Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "钦南区"
+            }
+        }
+    }
+}

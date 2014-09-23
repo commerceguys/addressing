@@ -1,0 +1,119 @@
+{
+    "CN-37-98ed18-2e1bfc": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-37-98ed18",
+        "id": "CN-37-98ed18-2e1bfc",
+        "code": "曹县",
+        "name": "Cao Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "曹县"
+            }
+        }
+    },
+    "CN-37-98ed18-75228b": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-37-98ed18",
+        "id": "CN-37-98ed18-75228b",
+        "code": "成武县",
+        "name": "Chengwu Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "成武县"
+            }
+        }
+    },
+    "CN-37-98ed18-65ff0d": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-37-98ed18",
+        "id": "CN-37-98ed18-65ff0d",
+        "code": "单县",
+        "name": "Shan Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "单县"
+            }
+        }
+    },
+    "CN-37-98ed18-fb6e9a": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-37-98ed18",
+        "id": "CN-37-98ed18-fb6e9a",
+        "code": "定陶县",
+        "name": "Dingtao Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "定陶县"
+            }
+        }
+    },
+    "CN-37-98ed18-6aa47c": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-37-98ed18",
+        "id": "CN-37-98ed18-6aa47c",
+        "code": "东明县",
+        "name": "Dongming Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "东明县"
+            }
+        }
+    },
+    "CN-37-98ed18-d05451": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-37-98ed18",
+        "id": "CN-37-98ed18-d05451",
+        "code": "巨野县",
+        "name": "Juye Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "巨野县"
+            }
+        }
+    },
+    "CN-37-98ed18-812899": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-37-98ed18",
+        "id": "CN-37-98ed18-812899",
+        "code": "鄄城县",
+        "name": "Juancheng Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "鄄城县"
+            }
+        }
+    },
+    "CN-37-98ed18-5f07e9": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-37-98ed18",
+        "id": "CN-37-98ed18-5f07e9",
+        "code": "牡丹区",
+        "name": "Mudan Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "牡丹区"
+            }
+        }
+    },
+    "CN-37-98ed18-b06704": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-37-98ed18",
+        "id": "CN-37-98ed18-b06704",
+        "code": "郓城县",
+        "name": "Yuncheng Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "郓城县"
+            }
+        }
+    }
+}

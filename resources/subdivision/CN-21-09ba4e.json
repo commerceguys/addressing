@@ -1,0 +1,80 @@
+{
+    "CN-21-09ba4e-5d74f9": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-21-09ba4e",
+        "id": "CN-21-09ba4e-5d74f9",
+        "code": "东港市",
+        "name": "Donggang Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "东港市"
+            }
+        }
+    },
+    "CN-21-09ba4e-c6abc6": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-21-09ba4e",
+        "id": "CN-21-09ba4e-c6abc6",
+        "code": "凤城市",
+        "name": "Fengcheng Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "凤城市"
+            }
+        }
+    },
+    "CN-21-09ba4e-ba1d9f": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-21-09ba4e",
+        "id": "CN-21-09ba4e-ba1d9f",
+        "code": "宽甸满族自治县",
+        "name": "Kuandian Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "宽甸县"
+            }
+        }
+    },
+    "CN-21-09ba4e-3d40a5": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-21-09ba4e",
+        "id": "CN-21-09ba4e-3d40a5",
+        "code": "元宝区",
+        "name": "Yuanbao Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "元宝区"
+            }
+        }
+    },
+    "CN-21-09ba4e-69f95c": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-21-09ba4e",
+        "id": "CN-21-09ba4e-69f95c",
+        "code": "振安区",
+        "name": "Zhen'an Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "振安区"
+            }
+        }
+    },
+    "CN-21-09ba4e-b283f1": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-21-09ba4e",
+        "id": "CN-21-09ba4e-b283f1",
+        "code": "振兴区",
+        "name": "Zhenxing Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "振兴区"
+            }
+        }
+    }
+}

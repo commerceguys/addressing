@@ -1,0 +1,106 @@
+{
+    "CN-54-4e4db3-5c8816": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-54-4e4db3",
+        "id": "CN-54-4e4db3-5c8816",
+        "code": "城关区",
+        "name": "Chengguan Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "城关区"
+            }
+        }
+    },
+    "CN-54-4e4db3-9d88de": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-54-4e4db3",
+        "id": "CN-54-4e4db3-9d88de",
+        "code": "达孜县",
+        "name": "Dagzê Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "达孜县"
+            }
+        }
+    },
+    "CN-54-4e4db3-bb2029": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-54-4e4db3",
+        "id": "CN-54-4e4db3-bb2029",
+        "code": "当雄县",
+        "name": "Damxung Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "当雄县"
+            }
+        }
+    },
+    "CN-54-4e4db3-85c0e3": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-54-4e4db3",
+        "id": "CN-54-4e4db3-85c0e3",
+        "code": "堆龙德庆县",
+        "name": "Doilungdêqên Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "堆龙德庆县"
+            }
+        }
+    },
+    "CN-54-4e4db3-405aeb": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-54-4e4db3",
+        "id": "CN-54-4e4db3-405aeb",
+        "code": "林周县",
+        "name": "Lhünzhub Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "林周县"
+            }
+        }
+    },
+    "CN-54-4e4db3-8a6ce2": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-54-4e4db3",
+        "id": "CN-54-4e4db3-8a6ce2",
+        "code": "墨竹工卡县",
+        "name": "Maizhokunggar Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "墨竹工卡县"
+            }
+        }
+    },
+    "CN-54-4e4db3-5d6bed": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-54-4e4db3",
+        "id": "CN-54-4e4db3-5d6bed",
+        "code": "尼木县",
+        "name": "Nyêmo Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "尼木县"
+            }
+        }
+    },
+    "CN-54-4e4db3-47c9ea": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-54-4e4db3",
+        "id": "CN-54-4e4db3-47c9ea",
+        "code": "曲水县",
+        "name": "Qüxü Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "曲水县"
+            }
+        }
+    }
+}

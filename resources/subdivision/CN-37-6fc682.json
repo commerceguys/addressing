@@ -1,0 +1,80 @@
+{
+    "CN-37-6fc682-e02cad": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-37-6fc682",
+        "id": "CN-37-6fc682-e02cad",
+        "code": "岱岳区",
+        "name": "Daiyue Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "岱岳区"
+            }
+        }
+    },
+    "CN-37-6fc682-fc9ed6": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-37-6fc682",
+        "id": "CN-37-6fc682-fc9ed6",
+        "code": "东平县",
+        "name": "Dongping Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "东平县"
+            }
+        }
+    },
+    "CN-37-6fc682-70ccf7": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-37-6fc682",
+        "id": "CN-37-6fc682-70ccf7",
+        "code": "肥城市",
+        "name": "Feicheng Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "肥城市"
+            }
+        }
+    },
+    "CN-37-6fc682-b47f0c": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-37-6fc682",
+        "id": "CN-37-6fc682-b47f0c",
+        "code": "宁阳县",
+        "name": "Ningyang Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "宁阳县"
+            }
+        }
+    },
+    "CN-37-6fc682-1fbc08": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-37-6fc682",
+        "id": "CN-37-6fc682-1fbc08",
+        "code": "泰山区",
+        "name": "Taishan Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "泰山区"
+            }
+        }
+    },
+    "CN-37-6fc682-0d0efc": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-37-6fc682",
+        "id": "CN-37-6fc682-0d0efc",
+        "code": "新泰市",
+        "name": "Xintai Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "新泰市"
+            }
+        }
+    }
+}

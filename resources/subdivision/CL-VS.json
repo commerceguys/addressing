@@ -1,0 +1,306 @@
+{
+    "CL-VS-b566ec": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-VS",
+        "id": "CL-VS-b566ec",
+        "code": "Algarrobo",
+        "name": "Algarrobo"
+    },
+    "CL-VS-9753a5": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-VS",
+        "id": "CL-VS-9753a5",
+        "code": "Cabildo",
+        "name": "Cabildo"
+    },
+    "CL-VS-8f91b6": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-VS",
+        "id": "CL-VS-8f91b6",
+        "code": "Calle Larga",
+        "name": "Calle Larga"
+    },
+    "CL-VS-53e3d0": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-VS",
+        "id": "CL-VS-53e3d0",
+        "code": "Cartagena",
+        "name": "Cartagena"
+    },
+    "CL-VS-e77b3d": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-VS",
+        "id": "CL-VS-e77b3d",
+        "code": "Casablanca",
+        "name": "Casablanca"
+    },
+    "CL-VS-93985c": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-VS",
+        "id": "CL-VS-93985c",
+        "code": "Catemu",
+        "name": "Catemu"
+    },
+    "CL-VS-cf1747": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-VS",
+        "id": "CL-VS-cf1747",
+        "code": "Concón",
+        "name": "Concón"
+    },
+    "CL-VS-958a33": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-VS",
+        "id": "CL-VS-958a33",
+        "code": "El Quisco",
+        "name": "El Quisco"
+    },
+    "CL-VS-b9687d": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-VS",
+        "id": "CL-VS-b9687d",
+        "code": "El Tabo",
+        "name": "El Tabo"
+    },
+    "CL-VS-869aad": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-VS",
+        "id": "CL-VS-869aad",
+        "code": "Hijuelas",
+        "name": "Hijuelas"
+    },
+    "CL-VS-6ede48": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-VS",
+        "id": "CL-VS-6ede48",
+        "code": "Isla de Pascua",
+        "name": "Isla de Pascua"
+    },
+    "CL-VS-7ee464": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-VS",
+        "id": "CL-VS-7ee464",
+        "code": "Juan Fernández",
+        "name": "Juan Fernández"
+    },
+    "CL-VS-e40e3f": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-VS",
+        "id": "CL-VS-e40e3f",
+        "code": "La Calera",
+        "name": "La Calera"
+    },
+    "CL-VS-36332f": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-VS",
+        "id": "CL-VS-36332f",
+        "code": "La Cruz",
+        "name": "La Cruz"
+    },
+    "CL-VS-b7ad54": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-VS",
+        "id": "CL-VS-b7ad54",
+        "code": "La Ligua",
+        "name": "La Ligua"
+    },
+    "CL-VS-38be75": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-VS",
+        "id": "CL-VS-38be75",
+        "code": "Limache",
+        "name": "Limache"
+    },
+    "CL-VS-2513ac": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-VS",
+        "id": "CL-VS-2513ac",
+        "code": "Llaillay",
+        "name": "Llaillay"
+    },
+    "CL-VS-b48c28": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-VS",
+        "id": "CL-VS-b48c28",
+        "code": "Los Andes",
+        "name": "Los Andes"
+    },
+    "CL-VS-7e812b": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-VS",
+        "id": "CL-VS-7e812b",
+        "code": "Nogales",
+        "name": "Nogales"
+    },
+    "CL-VS-4d2d94": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-VS",
+        "id": "CL-VS-4d2d94",
+        "code": "Olmué",
+        "name": "Olmué"
+    },
+    "CL-VS-89fd8c": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-VS",
+        "id": "CL-VS-89fd8c",
+        "code": "Panquehue",
+        "name": "Panquehue"
+    },
+    "CL-VS-1c46eb": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-VS",
+        "id": "CL-VS-1c46eb",
+        "code": "Papudo",
+        "name": "Papudo"
+    },
+    "CL-VS-30b8e9": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-VS",
+        "id": "CL-VS-30b8e9",
+        "code": "Petorca",
+        "name": "Petorca"
+    },
+    "CL-VS-191d63": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-VS",
+        "id": "CL-VS-191d63",
+        "code": "Puchuncaví",
+        "name": "Puchuncaví"
+    },
+    "CL-VS-92341f": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-VS",
+        "id": "CL-VS-92341f",
+        "code": "Putaendo",
+        "name": "Putaendo"
+    },
+    "CL-VS-ca2e2a": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-VS",
+        "id": "CL-VS-ca2e2a",
+        "code": "Quillota",
+        "name": "Quillota"
+    },
+    "CL-VS-c13d51": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-VS",
+        "id": "CL-VS-c13d51",
+        "code": "Quilpué",
+        "name": "Quilpué"
+    },
+    "CL-VS-e19894": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-VS",
+        "id": "CL-VS-e19894",
+        "code": "Quintero",
+        "name": "Quintero"
+    },
+    "CL-VS-2615ff": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-VS",
+        "id": "CL-VS-2615ff",
+        "code": "Rinconada",
+        "name": "Rinconada"
+    },
+    "CL-VS-028053": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-VS",
+        "id": "CL-VS-028053",
+        "code": "San Antonio",
+        "name": "San Antonio"
+    },
+    "CL-VS-acaf3d": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-VS",
+        "id": "CL-VS-acaf3d",
+        "code": "San Esteban",
+        "name": "San Esteban"
+    },
+    "CL-VS-f74f75": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-VS",
+        "id": "CL-VS-f74f75",
+        "code": "San Felipe",
+        "name": "San Felipe"
+    },
+    "CL-VS-4420a3": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-VS",
+        "id": "CL-VS-4420a3",
+        "code": "Santa María",
+        "name": "Santa María"
+    },
+    "CL-VS-912d35": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-VS",
+        "id": "CL-VS-912d35",
+        "code": "Santo Domingo",
+        "name": "Santo Domingo"
+    },
+    "CL-VS-814249": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-VS",
+        "id": "CL-VS-814249",
+        "code": "Valparaíso",
+        "name": "Valparaíso"
+    },
+    "CL-VS-256149": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-VS",
+        "id": "CL-VS-256149",
+        "code": "Villa Alemana",
+        "name": "Villa Alemana"
+    },
+    "CL-VS-1f9fb0": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-VS",
+        "id": "CL-VS-1f9fb0",
+        "code": "Viña del Mar",
+        "name": "Viña del Mar"
+    },
+    "CL-VS-8804e3": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-VS",
+        "id": "CL-VS-8804e3",
+        "code": "Zapallar",
+        "name": "Zapallar"
+    }
+}

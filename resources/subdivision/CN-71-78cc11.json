@@ -1,0 +1,254 @@
+{
+    "CN-71-78cc11-591afd": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-78cc11",
+        "id": "CN-71-78cc11-591afd",
+        "code": "阿里山鄉",
+        "name": "Alishan Township",
+        "postal_code_pattern": "605",
+        "translations": {
+            "zh-hans": {
+                "name": "阿里山鄉"
+            }
+        }
+    },
+    "CN-71-78cc11-f82055": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-78cc11",
+        "id": "CN-71-78cc11-f82055",
+        "code": "布袋鎮",
+        "name": "Budai Township",
+        "postal_code_pattern": "625",
+        "translations": {
+            "zh-hans": {
+                "name": "布袋鎮"
+            }
+        }
+    },
+    "CN-71-78cc11-31e388": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-78cc11",
+        "id": "CN-71-78cc11-31e388",
+        "code": "大埔鄉",
+        "name": "Dapu Township",
+        "postal_code_pattern": "607",
+        "translations": {
+            "zh-hans": {
+                "name": "大埔鄉"
+            }
+        }
+    },
+    "CN-71-78cc11-5f8d9e": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-78cc11",
+        "id": "CN-71-78cc11-5f8d9e",
+        "code": "大林鎮",
+        "name": "Dalin Township",
+        "postal_code_pattern": "622",
+        "translations": {
+            "zh-hans": {
+                "name": "大林鎮"
+            }
+        }
+    },
+    "CN-71-78cc11-37c1ca": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-78cc11",
+        "id": "CN-71-78cc11-37c1ca",
+        "code": "東石鄉",
+        "name": "Dongshih Township",
+        "postal_code_pattern": "614",
+        "translations": {
+            "zh-hans": {
+                "name": "東石鄉"
+            }
+        }
+    },
+    "CN-71-78cc11-62d585": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-78cc11",
+        "id": "CN-71-78cc11-62d585",
+        "code": "番路鄉",
+        "name": "Fanlu Township",
+        "postal_code_pattern": "602",
+        "translations": {
+            "zh-hans": {
+                "name": "番路鄉"
+            }
+        }
+    },
+    "CN-71-78cc11-eb81b2": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-78cc11",
+        "id": "CN-71-78cc11-eb81b2",
+        "code": "六腳鄉",
+        "name": "Lioujiao Township",
+        "postal_code_pattern": "615",
+        "translations": {
+            "zh-hans": {
+                "name": "六腳鄉"
+            }
+        }
+    },
+    "CN-71-78cc11-f7845b": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-78cc11",
+        "id": "CN-71-78cc11-f7845b",
+        "code": "鹿草鄉",
+        "name": "Lucao Township",
+        "postal_code_pattern": "611",
+        "translations": {
+            "zh-hans": {
+                "name": "鹿草鄉"
+            }
+        }
+    },
+    "CN-71-78cc11-d637e3": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-78cc11",
+        "id": "CN-71-78cc11-d637e3",
+        "code": "梅山鄉",
+        "name": "Meishan Township",
+        "postal_code_pattern": "603",
+        "translations": {
+            "zh-hans": {
+                "name": "梅山鄉"
+            }
+        }
+    },
+    "CN-71-78cc11-c6cabe": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-78cc11",
+        "id": "CN-71-78cc11-c6cabe",
+        "code": "民雄鄉",
+        "name": "Minsyong Township",
+        "postal_code_pattern": "621",
+        "translations": {
+            "zh-hans": {
+                "name": "民雄鄉"
+            }
+        }
+    },
+    "CN-71-78cc11-f5b48f": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-78cc11",
+        "id": "CN-71-78cc11-f5b48f",
+        "code": "朴子市",
+        "name": "Puzih City",
+        "postal_code_pattern": "613",
+        "translations": {
+            "zh-hans": {
+                "name": "朴子市"
+            }
+        }
+    },
+    "CN-71-78cc11-ca2d7b": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-78cc11",
+        "id": "CN-71-78cc11-ca2d7b",
+        "code": "水上鄉",
+        "name": "Shueishang Township",
+        "postal_code_pattern": "608",
+        "translations": {
+            "zh-hans": {
+                "name": "水上鄉"
+            }
+        }
+    },
+    "CN-71-78cc11-95f1c5": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-78cc11",
+        "id": "CN-71-78cc11-95f1c5",
+        "code": "太保市",
+        "name": "Taibao City",
+        "postal_code_pattern": "612",
+        "translations": {
+            "zh-hans": {
+                "name": "太保市"
+            }
+        }
+    },
+    "CN-71-78cc11-df03bc": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-78cc11",
+        "id": "CN-71-78cc11-df03bc",
+        "code": "溪口鄉",
+        "name": "Sikou Township",
+        "postal_code_pattern": "623",
+        "translations": {
+            "zh-hans": {
+                "name": "溪口鄉"
+            }
+        }
+    },
+    "CN-71-78cc11-eb95e4": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-78cc11",
+        "id": "CN-71-78cc11-eb95e4",
+        "code": "新港鄉",
+        "name": "Singang Township",
+        "postal_code_pattern": "616",
+        "translations": {
+            "zh-hans": {
+                "name": "新港鄉"
+            }
+        }
+    },
+    "CN-71-78cc11-cd54ad": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-78cc11",
+        "id": "CN-71-78cc11-cd54ad",
+        "code": "義竹鄉",
+        "name": "Yijhu Township",
+        "postal_code_pattern": "624",
+        "translations": {
+            "zh-hans": {
+                "name": "義竹鄉"
+            }
+        }
+    },
+    "CN-71-78cc11-8f2ede": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-78cc11",
+        "id": "CN-71-78cc11-8f2ede",
+        "code": "中埔鄉",
+        "name": "Jhongpu Township",
+        "postal_code_pattern": "606",
+        "translations": {
+            "zh-hans": {
+                "name": "中埔鄉"
+            }
+        }
+    },
+    "CN-71-78cc11-00c21c": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-78cc11",
+        "id": "CN-71-78cc11-00c21c",
+        "code": "竹崎鄉",
+        "name": "Jhuci Township",
+        "postal_code_pattern": "604",
+        "translations": {
+            "zh-hans": {
+                "name": "竹崎鄉"
+            }
+        }
+    }
+}

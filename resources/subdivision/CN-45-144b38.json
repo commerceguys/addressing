@@ -1,0 +1,67 @@
+{
+    "CN-45-144b38-919459": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-45-144b38",
+        "id": "CN-45-144b38-919459",
+        "code": "港北区",
+        "name": "Gangbei Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "港北区"
+            }
+        }
+    },
+    "CN-45-144b38-74af3f": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-45-144b38",
+        "id": "CN-45-144b38-74af3f",
+        "code": "港南区",
+        "name": "Gangnan Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "港南区"
+            }
+        }
+    },
+    "CN-45-144b38-030cb7": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-45-144b38",
+        "id": "CN-45-144b38-030cb7",
+        "code": "桂平市",
+        "name": "Guiping Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "桂平市"
+            }
+        }
+    },
+    "CN-45-144b38-647f5d": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-45-144b38",
+        "id": "CN-45-144b38-647f5d",
+        "code": "平南县",
+        "name": "Pingnan Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "平南县"
+            }
+        }
+    },
+    "CN-45-144b38-36ac09": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-45-144b38",
+        "id": "CN-45-144b38-36ac09",
+        "code": "覃塘区",
+        "name": "Tantang Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "覃塘区"
+            }
+        }
+    }
+}

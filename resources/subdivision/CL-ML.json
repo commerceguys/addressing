@@ -1,0 +1,242 @@
+{
+    "CL-ML-366ce8": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-ML",
+        "id": "CL-ML-366ce8",
+        "code": "Cauquenes",
+        "name": "Cauquenes"
+    },
+    "CL-ML-949849": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-ML",
+        "id": "CL-ML-949849",
+        "code": "Chanco",
+        "name": "Chanco"
+    },
+    "CL-ML-12e6ef": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-ML",
+        "id": "CL-ML-12e6ef",
+        "code": "Colbún",
+        "name": "Colbún"
+    },
+    "CL-ML-58cc14": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-ML",
+        "id": "CL-ML-58cc14",
+        "code": "Constitución",
+        "name": "Constitución"
+    },
+    "CL-ML-4cb275": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-ML",
+        "id": "CL-ML-4cb275",
+        "code": "Curepto",
+        "name": "Curepto"
+    },
+    "CL-ML-85cb89": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-ML",
+        "id": "CL-ML-85cb89",
+        "code": "Curicó",
+        "name": "Curicó"
+    },
+    "CL-ML-885b64": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-ML",
+        "id": "CL-ML-885b64",
+        "code": "Empedrado",
+        "name": "Empedrado"
+    },
+    "CL-ML-d3e9f3": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-ML",
+        "id": "CL-ML-d3e9f3",
+        "code": "Hualañé",
+        "name": "Hualañé"
+    },
+    "CL-ML-6c9903": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-ML",
+        "id": "CL-ML-6c9903",
+        "code": "Licantén",
+        "name": "Licantén"
+    },
+    "CL-ML-9775d0": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-ML",
+        "id": "CL-ML-9775d0",
+        "code": "Linares",
+        "name": "Linares"
+    },
+    "CL-ML-5dd3d9": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-ML",
+        "id": "CL-ML-5dd3d9",
+        "code": "Longaví",
+        "name": "Longaví"
+    },
+    "CL-ML-35cc5a": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-ML",
+        "id": "CL-ML-35cc5a",
+        "code": "Maule",
+        "name": "Maule"
+    },
+    "CL-ML-61a8a0": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-ML",
+        "id": "CL-ML-61a8a0",
+        "code": "Molina",
+        "name": "Molina"
+    },
+    "CL-ML-70b972": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-ML",
+        "id": "CL-ML-70b972",
+        "code": "Parral",
+        "name": "Parral"
+    },
+    "CL-ML-7801a1": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-ML",
+        "id": "CL-ML-7801a1",
+        "code": "Pelarco",
+        "name": "Pelarco"
+    },
+    "CL-ML-34812a": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-ML",
+        "id": "CL-ML-34812a",
+        "code": "Pelluhue",
+        "name": "Pelluhue"
+    },
+    "CL-ML-3e1d77": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-ML",
+        "id": "CL-ML-3e1d77",
+        "code": "Pencahue",
+        "name": "Pencahue"
+    },
+    "CL-ML-508994": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-ML",
+        "id": "CL-ML-508994",
+        "code": "Rauco",
+        "name": "Rauco"
+    },
+    "CL-ML-3cbe35": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-ML",
+        "id": "CL-ML-3cbe35",
+        "code": "Retiro",
+        "name": "Retiro"
+    },
+    "CL-ML-e44594": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-ML",
+        "id": "CL-ML-e44594",
+        "code": "Río Claro",
+        "name": "Río Claro"
+    },
+    "CL-ML-253b45": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-ML",
+        "id": "CL-ML-253b45",
+        "code": "Romeral",
+        "name": "Romeral"
+    },
+    "CL-ML-e1d71a": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-ML",
+        "id": "CL-ML-e1d71a",
+        "code": "Sagrada Familia",
+        "name": "Sagrada Familia"
+    },
+    "CL-ML-198386": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-ML",
+        "id": "CL-ML-198386",
+        "code": "San Clemente",
+        "name": "San Clemente"
+    },
+    "CL-ML-57f0ac": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-ML",
+        "id": "CL-ML-57f0ac",
+        "code": "San Javier de Loncomilla",
+        "name": "San Javier de Loncomilla"
+    },
+    "CL-ML-bb84a8": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-ML",
+        "id": "CL-ML-bb84a8",
+        "code": "San Rafael",
+        "name": "San Rafael"
+    },
+    "CL-ML-5ea926": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-ML",
+        "id": "CL-ML-5ea926",
+        "code": "Talca",
+        "name": "Talca"
+    },
+    "CL-ML-59ecd4": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-ML",
+        "id": "CL-ML-59ecd4",
+        "code": "Teno",
+        "name": "Teno"
+    },
+    "CL-ML-e941cc": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-ML",
+        "id": "CL-ML-e941cc",
+        "code": "Vichuquén",
+        "name": "Vichuquén"
+    },
+    "CL-ML-3dfb15": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-ML",
+        "id": "CL-ML-3dfb15",
+        "code": "Villa Alegre",
+        "name": "Villa Alegre"
+    },
+    "CL-ML-38bad0": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-ML",
+        "id": "CL-ML-38bad0",
+        "code": "Yerbas Buenas",
+        "name": "Yerbas Buenas"
+    }
+}

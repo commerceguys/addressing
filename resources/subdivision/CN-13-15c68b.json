@@ -1,0 +1,301 @@
+{
+    "CN-13-15c68b-ca64ef": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-13-15c68b",
+        "id": "CN-13-15c68b-ca64ef",
+        "code": "高邑县",
+        "name": "Gaoyi Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "高邑县"
+            }
+        }
+    },
+    "CN-13-15c68b-a54c50": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-13-15c68b",
+        "id": "CN-13-15c68b-a54c50",
+        "code": "藁城市",
+        "name": "Gaocheng Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "藁城市"
+            }
+        }
+    },
+    "CN-13-15c68b-529bab": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-13-15c68b",
+        "id": "CN-13-15c68b-529bab",
+        "code": "晋州市",
+        "name": "Jinzhou Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "晋州市"
+            }
+        }
+    },
+    "CN-13-15c68b-ef459b": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-13-15c68b",
+        "id": "CN-13-15c68b-ef459b",
+        "code": "井陉矿区",
+        "name": "Jingxing Kuangqu",
+        "translations": {
+            "zh-hans": {
+                "name": "井陉矿区"
+            }
+        }
+    },
+    "CN-13-15c68b-7523cc": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-13-15c68b",
+        "id": "CN-13-15c68b-7523cc",
+        "code": "井陉县",
+        "name": "Jingxing Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "井陉县"
+            }
+        }
+    },
+    "CN-13-15c68b-7a495f": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-13-15c68b",
+        "id": "CN-13-15c68b-7a495f",
+        "code": "灵寿县",
+        "name": "Lingshou Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "灵寿县"
+            }
+        }
+    },
+    "CN-13-15c68b-2ff610": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-13-15c68b",
+        "id": "CN-13-15c68b-2ff610",
+        "code": "鹿泉市",
+        "name": "Luquan Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "鹿泉市"
+            }
+        }
+    },
+    "CN-13-15c68b-93b59e": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-13-15c68b",
+        "id": "CN-13-15c68b-93b59e",
+        "code": "栾城县",
+        "name": "Luancheng Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "栾城县"
+            }
+        }
+    },
+    "CN-13-15c68b-3fd0d5": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-13-15c68b",
+        "id": "CN-13-15c68b-3fd0d5",
+        "code": "平山县",
+        "name": "Pingshan Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "平山县"
+            }
+        }
+    },
+    "CN-13-15c68b-ff2e5d": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-13-15c68b",
+        "id": "CN-13-15c68b-ff2e5d",
+        "code": "桥东区",
+        "name": "Qiaodong Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "桥东区"
+            }
+        }
+    },
+    "CN-13-15c68b-358c14": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-13-15c68b",
+        "id": "CN-13-15c68b-358c14",
+        "code": "桥西区",
+        "name": "Qiaoxi Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "桥西区"
+            }
+        }
+    },
+    "CN-13-15c68b-abd097": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-13-15c68b",
+        "id": "CN-13-15c68b-abd097",
+        "code": "深泽县",
+        "name": "Shenze Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "深泽县"
+            }
+        }
+    },
+    "CN-13-15c68b-9f26fb": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-13-15c68b",
+        "id": "CN-13-15c68b-9f26fb",
+        "code": "无极县",
+        "name": "Wuji Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "无极县"
+            }
+        }
+    },
+    "CN-13-15c68b-bf070e": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-13-15c68b",
+        "id": "CN-13-15c68b-bf070e",
+        "code": "辛集市",
+        "name": "Xinji Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "辛集市"
+            }
+        }
+    },
+    "CN-13-15c68b-623e1f": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-13-15c68b",
+        "id": "CN-13-15c68b-623e1f",
+        "code": "新华区",
+        "name": "Xinhua Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "新华区"
+            }
+        }
+    },
+    "CN-13-15c68b-87035a": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-13-15c68b",
+        "id": "CN-13-15c68b-87035a",
+        "code": "新乐市",
+        "name": "Xinle Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "新乐市"
+            }
+        }
+    },
+    "CN-13-15c68b-2a9142": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-13-15c68b",
+        "id": "CN-13-15c68b-2a9142",
+        "code": "行唐县",
+        "name": "Xingtang Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "行唐县"
+            }
+        }
+    },
+    "CN-13-15c68b-9ec1b0": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-13-15c68b",
+        "id": "CN-13-15c68b-9ec1b0",
+        "code": "裕华区",
+        "name": "Yuhua Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "裕华区"
+            }
+        }
+    },
+    "CN-13-15c68b-192b3d": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-13-15c68b",
+        "id": "CN-13-15c68b-192b3d",
+        "code": "元氏县",
+        "name": "Yuanshi Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "元氏县"
+            }
+        }
+    },
+    "CN-13-15c68b-ebee08": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-13-15c68b",
+        "id": "CN-13-15c68b-ebee08",
+        "code": "赞皇县",
+        "name": "Zanhuang Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "赞皇县"
+            }
+        }
+    },
+    "CN-13-15c68b-887c32": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-13-15c68b",
+        "id": "CN-13-15c68b-887c32",
+        "code": "长安区",
+        "name": "Chang'an Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "长安区"
+            }
+        }
+    },
+    "CN-13-15c68b-53816e": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-13-15c68b",
+        "id": "CN-13-15c68b-53816e",
+        "code": "赵县",
+        "name": "Zhao Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "赵县"
+            }
+        }
+    },
+    "CN-13-15c68b-c91d08": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-13-15c68b",
+        "id": "CN-13-15c68b-c91d08",
+        "code": "正定县",
+        "name": "Zhengding Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "正定县"
+            }
+        }
+    }
+}

@@ -1,0 +1,992 @@
+{
+    "IT-AG": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-AG",
+        "code": "AG",
+        "name": "Agrigento",
+        "postal_code_pattern": "92"
+    },
+    "IT-AL": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-AL",
+        "code": "AL",
+        "name": "Alessandria",
+        "postal_code_pattern": "15"
+    },
+    "IT-AN": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-AN",
+        "code": "AN",
+        "name": "Ancona",
+        "postal_code_pattern": "60"
+    },
+    "IT-AR": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-AR",
+        "code": "AR",
+        "name": "Arezzo",
+        "postal_code_pattern": "52"
+    },
+    "IT-AP": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-AP",
+        "code": "AP",
+        "name": "Ascoli Piceno",
+        "postal_code_pattern": "63"
+    },
+    "IT-AT": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-AT",
+        "code": "AT",
+        "name": "Asti",
+        "postal_code_pattern": "14"
+    },
+    "IT-AV": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-AV",
+        "code": "AV",
+        "name": "Avellino",
+        "postal_code_pattern": "83"
+    },
+    "IT-BA": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-BA",
+        "code": "BA",
+        "name": "Bari",
+        "postal_code_pattern": "70"
+    },
+    "IT-BT": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-BT",
+        "code": "BT",
+        "name": "Barletta-Andria-Trani",
+        "postal_code_pattern": "76[01]"
+    },
+    "IT-BL": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-BL",
+        "code": "BL",
+        "name": "Belluno",
+        "postal_code_pattern": "32"
+    },
+    "IT-BN": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-BN",
+        "code": "BN",
+        "name": "Benevento",
+        "postal_code_pattern": "82"
+    },
+    "IT-BG": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-BG",
+        "code": "BG",
+        "name": "Bergamo",
+        "postal_code_pattern": "24"
+    },
+    "IT-BI": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-BI",
+        "code": "BI",
+        "name": "Biella",
+        "postal_code_pattern": "13[89]"
+    },
+    "IT-BO": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-BO",
+        "code": "BO",
+        "name": "Bologna",
+        "postal_code_pattern": "40"
+    },
+    "IT-BZ": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-BZ",
+        "code": "BZ",
+        "name": "Bolzano",
+        "postal_code_pattern": "39"
+    },
+    "IT-BS": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-BS",
+        "code": "BS",
+        "name": "Brescia",
+        "postal_code_pattern": "25"
+    },
+    "IT-BR": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-BR",
+        "code": "BR",
+        "name": "Brindisi",
+        "postal_code_pattern": "72"
+    },
+    "IT-CA": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-CA",
+        "code": "CA",
+        "name": "Cagliari",
+        "postal_code_pattern": "0912[1-9]|0913[0-4]|0901[0289]|0902[03468]|0903[0234]|0904|0803[035]|08043"
+    },
+    "IT-CL": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-CL",
+        "code": "CL",
+        "name": "Caltanissetta",
+        "postal_code_pattern": "93"
+    },
+    "IT-CB": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-CB",
+        "code": "CB",
+        "name": "Campobasso",
+        "postal_code_pattern": "860[1-4]|86100"
+    },
+    "IT-CI": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-CI",
+        "code": "CI",
+        "name": "Carbonia-Iglesias",
+        "postal_code_pattern": "0901[013-7]"
+    },
+    "IT-CE": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-CE",
+        "code": "CE",
+        "name": "Caserta",
+        "postal_code_pattern": "81"
+    },
+    "IT-CT": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-CT",
+        "code": "CT",
+        "name": "Catania",
+        "postal_code_pattern": "95"
+    },
+    "IT-CZ": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-CZ",
+        "code": "CZ",
+        "name": "Catanzaro",
+        "postal_code_pattern": "88[01]"
+    },
+    "IT-CH": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-CH",
+        "code": "CH",
+        "name": "Chieti",
+        "postal_code_pattern": "66"
+    },
+    "IT-CO": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-CO",
+        "code": "CO",
+        "name": "Como",
+        "postal_code_pattern": "22"
+    },
+    "IT-CS": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-CS",
+        "code": "CS",
+        "name": "Cosenza",
+        "postal_code_pattern": "87"
+    },
+    "IT-CR": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-CR",
+        "code": "CR",
+        "name": "Cremona",
+        "postal_code_pattern": "26[01]"
+    },
+    "IT-KR": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-KR",
+        "code": "KR",
+        "name": "Crotone",
+        "postal_code_pattern": "88[89]"
+    },
+    "IT-CN": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-CN",
+        "code": "CN",
+        "name": "Cuneo",
+        "postal_code_pattern": "12|18025"
+    },
+    "IT-EN": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-EN",
+        "code": "EN",
+        "name": "Enna",
+        "postal_code_pattern": "94"
+    },
+    "IT-FM": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-FM",
+        "code": "FM",
+        "name": "Fermo",
+        "postal_code_pattern": "638|63900"
+    },
+    "IT-FE": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-FE",
+        "code": "FE",
+        "name": "Ferrara",
+        "postal_code_pattern": "44"
+    },
+    "IT-FI": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-FI",
+        "code": "FI",
+        "name": "Firenze",
+        "postal_code_pattern": "50"
+    },
+    "IT-FG": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-FG",
+        "code": "FG",
+        "name": "Foggia",
+        "postal_code_pattern": "71"
+    },
+    "IT-FC": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-FC",
+        "code": "FC",
+        "name": "Forlì-Cesena",
+        "postal_code_pattern": "47[015]"
+    },
+    "IT-FR": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-FR",
+        "code": "FR",
+        "name": "Frosinone",
+        "postal_code_pattern": "03"
+    },
+    "IT-GE": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-GE",
+        "code": "GE",
+        "name": "Genova",
+        "postal_code_pattern": "16"
+    },
+    "IT-GO": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-GO",
+        "code": "GO",
+        "name": "Gorizia",
+        "postal_code_pattern": "34[01]7"
+    },
+    "IT-GR": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-GR",
+        "code": "GR",
+        "name": "Grosseto",
+        "postal_code_pattern": "58"
+    },
+    "IT-IM": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-IM",
+        "code": "IM",
+        "name": "Imperia",
+        "postal_code_pattern": "18"
+    },
+    "IT-IS": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-IS",
+        "code": "IS",
+        "name": "Isernia",
+        "postal_code_pattern": "860[7-9]|86170"
+    },
+    "IT-AQ": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-AQ",
+        "code": "AQ",
+        "name": "L'Aquila",
+        "postal_code_pattern": "67"
+    },
+    "IT-SP": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-SP",
+        "code": "SP",
+        "name": "La Spezia",
+        "postal_code_pattern": "19"
+    },
+    "IT-LT": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-LT",
+        "code": "LT",
+        "name": "Latina",
+        "postal_code_pattern": "04"
+    },
+    "IT-LE": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-LE",
+        "code": "LE",
+        "name": "Lecce",
+        "postal_code_pattern": "73"
+    },
+    "IT-LC": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-LC",
+        "code": "LC",
+        "name": "Lecco",
+        "postal_code_pattern": "23[89]"
+    },
+    "IT-LI": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-LI",
+        "code": "LI",
+        "name": "Livorno",
+        "postal_code_pattern": "57"
+    },
+    "IT-LO": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-LO",
+        "code": "LO",
+        "name": "Lodi",
+        "postal_code_pattern": "26[89]"
+    },
+    "IT-LU": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-LU",
+        "code": "LU",
+        "name": "Lucca",
+        "postal_code_pattern": "55"
+    },
+    "IT-MC": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-MC",
+        "code": "MC",
+        "name": "Macerata",
+        "postal_code_pattern": "62"
+    },
+    "IT-MN": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-MN",
+        "code": "MN",
+        "name": "Mantova",
+        "postal_code_pattern": "46"
+    },
+    "IT-MS": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-MS",
+        "code": "MS",
+        "name": "Massa-Carrara",
+        "postal_code_pattern": "54"
+    },
+    "IT-MT": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-MT",
+        "code": "MT",
+        "name": "Matera",
+        "postal_code_pattern": "75"
+    },
+    "IT-VS": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-VS",
+        "code": "VS",
+        "name": "Medio Campidano",
+        "postal_code_pattern": "0902[012579]|0903[015-9]|09040"
+    },
+    "IT-ME": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-ME",
+        "code": "ME",
+        "name": "Messina",
+        "postal_code_pattern": "98"
+    },
+    "IT-MI": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-MI",
+        "code": "MI",
+        "name": "Milano",
+        "postal_code_pattern": "20"
+    },
+    "IT-MO": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-MO",
+        "code": "MO",
+        "name": "Modena",
+        "postal_code_pattern": "41"
+    },
+    "IT-MB": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-MB",
+        "code": "MB",
+        "name": "Monza e della Brianza",
+        "postal_code_pattern": "208|20900"
+    },
+    "IT-NA": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-NA",
+        "code": "NA",
+        "name": "Napoli",
+        "postal_code_pattern": "80"
+    },
+    "IT-NO": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-NO",
+        "code": "NO",
+        "name": "Novara",
+        "postal_code_pattern": "28[01]"
+    },
+    "IT-NU": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-NU",
+        "code": "NU",
+        "name": "Nuoro",
+        "postal_code_pattern": "080[1-3]|08100"
+    },
+    "IT-OG": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-OG",
+        "code": "OG",
+        "name": "Ogliastra",
+        "postal_code_pattern": "08037|0804[024-9]"
+    },
+    "IT-OT": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-OT",
+        "code": "OT",
+        "name": "Olbia-Tempio",
+        "postal_code_pattern": "08020|0702|0703[08]"
+    },
+    "IT-OR": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-OR",
+        "code": "OR",
+        "name": "Oristano",
+        "postal_code_pattern": "090[7-9]|09170|0801[039]|0803[04]"
+    },
+    "IT-PD": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-PD",
+        "code": "PD",
+        "name": "Padova",
+        "postal_code_pattern": "35"
+    },
+    "IT-PA": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-PA",
+        "code": "PA",
+        "name": "Palermo",
+        "postal_code_pattern": "90"
+    },
+    "IT-PR": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-PR",
+        "code": "PR",
+        "name": "Parma",
+        "postal_code_pattern": "43"
+    },
+    "IT-PV": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-PV",
+        "code": "PV",
+        "name": "Pavia",
+        "postal_code_pattern": "27"
+    },
+    "IT-PG": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-PG",
+        "code": "PG",
+        "name": "Perugia",
+        "postal_code_pattern": "06"
+    },
+    "IT-PU": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-PU",
+        "code": "PU",
+        "name": "Pesaro e Urbino",
+        "postal_code_pattern": "61"
+    },
+    "IT-PE": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-PE",
+        "code": "PE",
+        "name": "Pescara",
+        "postal_code_pattern": "65"
+    },
+    "IT-PC": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-PC",
+        "code": "PC",
+        "name": "Piacenza",
+        "postal_code_pattern": "29"
+    },
+    "IT-PI": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-PI",
+        "code": "PI",
+        "name": "Pisa",
+        "postal_code_pattern": "56"
+    },
+    "IT-PT": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-PT",
+        "code": "PT",
+        "name": "Pistoia",
+        "postal_code_pattern": "51"
+    },
+    "IT-PN": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-PN",
+        "code": "PN",
+        "name": "Pordenone",
+        "postal_code_pattern": "330[7-9]|33170"
+    },
+    "IT-PZ": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-PZ",
+        "code": "PZ",
+        "name": "Potenza",
+        "postal_code_pattern": "85"
+    },
+    "IT-PO": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-PO",
+        "code": "PO",
+        "name": "Prato",
+        "postal_code_pattern": "59"
+    },
+    "IT-RG": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-RG",
+        "code": "RG",
+        "name": "Ragusa",
+        "postal_code_pattern": "97"
+    },
+    "IT-RA": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-RA",
+        "code": "RA",
+        "name": "Ravenna",
+        "postal_code_pattern": "48"
+    },
+    "IT-RC": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-RC",
+        "code": "RC",
+        "name": "Reggio Calabria",
+        "postal_code_pattern": "89[01]"
+    },
+    "IT-RE": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-RE",
+        "code": "RE",
+        "name": "Reggio nell'Emilia",
+        "postal_code_pattern": "42"
+    },
+    "IT-RI": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-RI",
+        "code": "RI",
+        "name": "Rieti",
+        "postal_code_pattern": "02"
+    },
+    "IT-RN": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-RN",
+        "code": "RN",
+        "name": "Rimini",
+        "postal_code_pattern": "47[89]"
+    },
+    "IT-RM": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-RM",
+        "code": "RM",
+        "name": "Roma",
+        "postal_code_pattern": "00"
+    },
+    "IT-RO": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-RO",
+        "code": "RO",
+        "name": "Rovigo",
+        "postal_code_pattern": "45"
+    },
+    "IT-SA": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-SA",
+        "code": "SA",
+        "name": "Salerno",
+        "postal_code_pattern": "84"
+    },
+    "IT-SS": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-SS",
+        "code": "SS",
+        "name": "Sassari",
+        "postal_code_pattern": "070[14]|0703[0-79]|07100"
+    },
+    "IT-SV": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-SV",
+        "code": "SV",
+        "name": "Savona",
+        "postal_code_pattern": "17|12071"
+    },
+    "IT-SI": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-SI",
+        "code": "SI",
+        "name": "Siena",
+        "postal_code_pattern": "53"
+    },
+    "IT-SR": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-SR",
+        "code": "SR",
+        "name": "Siracusa",
+        "postal_code_pattern": "96"
+    },
+    "IT-SO": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-SO",
+        "code": "SO",
+        "name": "Sondrio",
+        "postal_code_pattern": "23[01]"
+    },
+    "IT-TA": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-TA",
+        "code": "TA",
+        "name": "Taranto",
+        "postal_code_pattern": "74"
+    },
+    "IT-TE": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-TE",
+        "code": "TE",
+        "name": "Teramo",
+        "postal_code_pattern": "64"
+    },
+    "IT-TR": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-TR",
+        "code": "TR",
+        "name": "Terni",
+        "postal_code_pattern": "05"
+    },
+    "IT-TO": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-TO",
+        "code": "TO",
+        "name": "Torino",
+        "postal_code_pattern": "10"
+    },
+    "IT-TP": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-TP",
+        "code": "TP",
+        "name": "Trapani",
+        "postal_code_pattern": "91"
+    },
+    "IT-TN": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-TN",
+        "code": "TN",
+        "name": "Trento",
+        "postal_code_pattern": "38"
+    },
+    "IT-TV": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-TV",
+        "code": "TV",
+        "name": "Treviso",
+        "postal_code_pattern": "31"
+    },
+    "IT-TS": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-TS",
+        "code": "TS",
+        "name": "Trieste",
+        "postal_code_pattern": "3401|341[0-689]|34062"
+    },
+    "IT-UD": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-UD",
+        "code": "UD",
+        "name": "Udine",
+        "postal_code_pattern": "330[1-5]|33100"
+    },
+    "IT-AO": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-AO",
+        "code": "AO",
+        "name": "Valle d'Aosta",
+        "postal_code_pattern": "11"
+    },
+    "IT-VA": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-VA",
+        "code": "VA",
+        "name": "Varese",
+        "postal_code_pattern": "21"
+    },
+    "IT-VE": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-VE",
+        "code": "VE",
+        "name": "Venezia",
+        "postal_code_pattern": "30"
+    },
+    "IT-VB": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-VB",
+        "code": "VB",
+        "name": "Verbano-Cusio-Ossola",
+        "postal_code_pattern": "28[89]"
+    },
+    "IT-VC": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-VC",
+        "code": "VC",
+        "name": "Vercelli",
+        "postal_code_pattern": "13[01]"
+    },
+    "IT-VR": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-VR",
+        "code": "VR",
+        "name": "Verona",
+        "postal_code_pattern": "37"
+    },
+    "IT-VV": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-VV",
+        "code": "VV",
+        "name": "Vibo Valentia",
+        "postal_code_pattern": "89[89]"
+    },
+    "IT-VI": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-VI",
+        "code": "VI",
+        "name": "Vicenza",
+        "postal_code_pattern": "36"
+    },
+    "IT-VT": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-VT",
+        "code": "VT",
+        "name": "Viterbo",
+        "postal_code_pattern": "01"
+    }
+}

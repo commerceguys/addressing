@@ -1,0 +1,660 @@
+{
+    "JP-01": {
+        "locale": "ja-Latn",
+        "country_code": "JP",
+        "parent_id": null,
+        "id": "JP-01",
+        "code": "北海道",
+        "name": "Hokkaido",
+        "postal_code_pattern": "0[4-9]|00[1-7]",
+        "translations": {
+            "ja": {
+                "name": "北海道"
+            }
+        }
+    },
+    "JP-02": {
+        "locale": "ja-Latn",
+        "country_code": "JP",
+        "parent_id": null,
+        "id": "JP-02",
+        "code": "青森県",
+        "name": "Aomori",
+        "postal_code_pattern": "03|018",
+        "translations": {
+            "ja": {
+                "name": "青森県"
+            }
+        }
+    },
+    "JP-03": {
+        "locale": "ja-Latn",
+        "country_code": "JP",
+        "parent_id": null,
+        "id": "JP-03",
+        "code": "岩手県",
+        "name": "Iwate",
+        "postal_code_pattern": "02",
+        "translations": {
+            "ja": {
+                "name": "岩手県"
+            }
+        }
+    },
+    "JP-04": {
+        "locale": "ja-Latn",
+        "country_code": "JP",
+        "parent_id": null,
+        "id": "JP-04",
+        "code": "宮城県",
+        "name": "Miyagi",
+        "postal_code_pattern": "98",
+        "translations": {
+            "ja": {
+                "name": "宮城県"
+            }
+        }
+    },
+    "JP-05": {
+        "locale": "ja-Latn",
+        "country_code": "JP",
+        "parent_id": null,
+        "id": "JP-05",
+        "code": "秋田県",
+        "name": "Akita",
+        "postal_code_pattern": "01",
+        "translations": {
+            "ja": {
+                "name": "秋田県"
+            }
+        }
+    },
+    "JP-06": {
+        "locale": "ja-Latn",
+        "country_code": "JP",
+        "parent_id": null,
+        "id": "JP-06",
+        "code": "山形県",
+        "name": "Yamagata",
+        "postal_code_pattern": "99",
+        "translations": {
+            "ja": {
+                "name": "山形県"
+            }
+        }
+    },
+    "JP-07": {
+        "locale": "ja-Latn",
+        "country_code": "JP",
+        "parent_id": null,
+        "id": "JP-07",
+        "code": "福島県",
+        "name": "Fukushima",
+        "postal_code_pattern": "9[67]",
+        "translations": {
+            "ja": {
+                "name": "福島県"
+            }
+        }
+    },
+    "JP-08": {
+        "locale": "ja-Latn",
+        "country_code": "JP",
+        "parent_id": null,
+        "id": "JP-08",
+        "code": "茨城県",
+        "name": "Ibaraki",
+        "postal_code_pattern": "3[01]",
+        "translations": {
+            "ja": {
+                "name": "茨城県"
+            }
+        }
+    },
+    "JP-09": {
+        "locale": "ja-Latn",
+        "country_code": "JP",
+        "parent_id": null,
+        "id": "JP-09",
+        "code": "栃木県",
+        "name": "Tochigi",
+        "postal_code_pattern": "32|311|349",
+        "translations": {
+            "ja": {
+                "name": "栃木県"
+            }
+        }
+    },
+    "JP-10": {
+        "locale": "ja-Latn",
+        "country_code": "JP",
+        "parent_id": null,
+        "id": "JP-10",
+        "code": "群馬県",
+        "name": "Gunma",
+        "postal_code_pattern": "37|38[49]",
+        "translations": {
+            "ja": {
+                "name": "群馬県"
+            }
+        }
+    },
+    "JP-11": {
+        "locale": "ja-Latn",
+        "country_code": "JP",
+        "parent_id": null,
+        "id": "JP-11",
+        "code": "埼玉県",
+        "name": "Saitama",
+        "postal_code_pattern": "3[3-6]",
+        "translations": {
+            "ja": {
+                "name": "埼玉県"
+            }
+        }
+    },
+    "JP-12": {
+        "locale": "ja-Latn",
+        "country_code": "JP",
+        "parent_id": null,
+        "id": "JP-12",
+        "code": "千葉県",
+        "name": "Chiba",
+        "postal_code_pattern": "2[6-9]",
+        "translations": {
+            "ja": {
+                "name": "千葉県"
+            }
+        }
+    },
+    "JP-13": {
+        "locale": "ja-Latn",
+        "country_code": "JP",
+        "parent_id": null,
+        "id": "JP-13",
+        "code": "東京都",
+        "name": "Tokyo",
+        "postal_code_pattern": "1[0-8]|19[0-8]|20",
+        "translations": {
+            "ja": {
+                "name": "東京都"
+            }
+        }
+    },
+    "JP-14": {
+        "locale": "ja-Latn",
+        "country_code": "JP",
+        "parent_id": null,
+        "id": "JP-14",
+        "code": "神奈川県",
+        "name": "Kanagawa",
+        "postal_code_pattern": "2[1-5]|199",
+        "translations": {
+            "ja": {
+                "name": "神奈川県"
+            }
+        }
+    },
+    "JP-15": {
+        "locale": "ja-Latn",
+        "country_code": "JP",
+        "parent_id": null,
+        "id": "JP-15",
+        "code": "新潟県",
+        "name": "Niigata",
+        "postal_code_pattern": "9[45]|389",
+        "translations": {
+            "ja": {
+                "name": "新潟県"
+            }
+        }
+    },
+    "JP-16": {
+        "locale": "ja-Latn",
+        "country_code": "JP",
+        "parent_id": null,
+        "id": "JP-16",
+        "code": "富山県",
+        "name": "Toyama",
+        "postal_code_pattern": "93",
+        "translations": {
+            "ja": {
+                "name": "富山県"
+            }
+        }
+    },
+    "JP-17": {
+        "locale": "ja-Latn",
+        "country_code": "JP",
+        "parent_id": null,
+        "id": "JP-17",
+        "code": "石川県",
+        "name": "Ishikawa",
+        "postal_code_pattern": "92|939",
+        "translations": {
+            "ja": {
+                "name": "石川県"
+            }
+        }
+    },
+    "JP-18": {
+        "locale": "ja-Latn",
+        "country_code": "JP",
+        "parent_id": null,
+        "id": "JP-18",
+        "code": "福井県",
+        "name": "Fukui",
+        "postal_code_pattern": "91|922",
+        "translations": {
+            "ja": {
+                "name": "福井県"
+            }
+        }
+    },
+    "JP-19": {
+        "locale": "ja-Latn",
+        "country_code": "JP",
+        "parent_id": null,
+        "id": "JP-19",
+        "code": "山梨県",
+        "name": "Yamanashi",
+        "postal_code_pattern": "40",
+        "translations": {
+            "ja": {
+                "name": "山梨県"
+            }
+        }
+    },
+    "JP-20": {
+        "locale": "ja-Latn",
+        "country_code": "JP",
+        "parent_id": null,
+        "id": "JP-20",
+        "code": "長野県",
+        "name": "Nagano",
+        "postal_code_pattern": "3[89]|949",
+        "translations": {
+            "ja": {
+                "name": "長野県"
+            }
+        }
+    },
+    "JP-21": {
+        "locale": "ja-Latn",
+        "country_code": "JP",
+        "parent_id": null,
+        "id": "JP-21",
+        "code": "岐阜県",
+        "name": "Gifu",
+        "postal_code_pattern": "50",
+        "translations": {
+            "ja": {
+                "name": "岐阜県"
+            }
+        }
+    },
+    "JP-22": {
+        "locale": "ja-Latn",
+        "country_code": "JP",
+        "parent_id": null,
+        "id": "JP-22",
+        "code": "静岡県",
+        "name": "Shizuoka",
+        "postal_code_pattern": "4[1-9]",
+        "translations": {
+            "ja": {
+                "name": "静岡県"
+            }
+        }
+    },
+    "JP-23": {
+        "locale": "ja-Latn",
+        "country_code": "JP",
+        "parent_id": null,
+        "id": "JP-23",
+        "code": "愛知県",
+        "name": "Aichi",
+        "postal_code_pattern": "4[4-9]|431",
+        "translations": {
+            "ja": {
+                "name": "愛知県"
+            }
+        }
+    },
+    "JP-24": {
+        "locale": "ja-Latn",
+        "country_code": "JP",
+        "parent_id": null,
+        "id": "JP-24",
+        "code": "三重県",
+        "name": "Mie",
+        "postal_code_pattern": "51|498|647",
+        "translations": {
+            "ja": {
+                "name": "三重県"
+            }
+        }
+    },
+    "JP-25": {
+        "locale": "ja-Latn",
+        "country_code": "JP",
+        "parent_id": null,
+        "id": "JP-25",
+        "code": "滋賀県",
+        "name": "Shiga",
+        "postal_code_pattern": "52",
+        "translations": {
+            "ja": {
+                "name": "滋賀県"
+            }
+        }
+    },
+    "JP-26": {
+        "locale": "ja-Latn",
+        "country_code": "JP",
+        "parent_id": null,
+        "id": "JP-26",
+        "code": "京都府",
+        "name": "Kyoto",
+        "postal_code_pattern": "6[0-2]|520",
+        "translations": {
+            "ja": {
+                "name": "京都府"
+            }
+        }
+    },
+    "JP-27": {
+        "locale": "ja-Latn",
+        "country_code": "JP",
+        "parent_id": null,
+        "id": "JP-27",
+        "code": "大阪府",
+        "name": "Osaka",
+        "postal_code_pattern": "5[3-9]|618|630",
+        "translations": {
+            "ja": {
+                "name": "大阪府"
+            }
+        }
+    },
+    "JP-28": {
+        "locale": "ja-Latn",
+        "country_code": "JP",
+        "parent_id": null,
+        "id": "JP-28",
+        "code": "兵庫県",
+        "name": "Hyogo",
+        "postal_code_pattern": "6[5-7]|563",
+        "translations": {
+            "ja": {
+                "name": "兵庫県"
+            }
+        }
+    },
+    "JP-29": {
+        "locale": "ja-Latn",
+        "country_code": "JP",
+        "parent_id": null,
+        "id": "JP-29",
+        "code": "奈良県",
+        "name": "Nara",
+        "postal_code_pattern": "63|64[78]",
+        "translations": {
+            "ja": {
+                "name": "奈良県"
+            }
+        }
+    },
+    "JP-30": {
+        "locale": "ja-Latn",
+        "country_code": "JP",
+        "parent_id": null,
+        "id": "JP-30",
+        "code": "和歌山県",
+        "name": "Wakayama",
+        "postal_code_pattern": "64|519",
+        "translations": {
+            "ja": {
+                "name": "和歌山県"
+            }
+        }
+    },
+    "JP-31": {
+        "locale": "ja-Latn",
+        "country_code": "JP",
+        "parent_id": null,
+        "id": "JP-31",
+        "code": "鳥取県",
+        "name": "Tottori",
+        "postal_code_pattern": "68",
+        "translations": {
+            "ja": {
+                "name": "鳥取県"
+            }
+        }
+    },
+    "JP-32": {
+        "locale": "ja-Latn",
+        "country_code": "JP",
+        "parent_id": null,
+        "id": "JP-32",
+        "code": "島根県",
+        "name": "Shimane",
+        "postal_code_pattern": "69|68[45]",
+        "translations": {
+            "ja": {
+                "name": "島根県"
+            }
+        }
+    },
+    "JP-33": {
+        "locale": "ja-Latn",
+        "country_code": "JP",
+        "parent_id": null,
+        "id": "JP-33",
+        "code": "岡山県",
+        "name": "Okayama",
+        "postal_code_pattern": "7[01]",
+        "translations": {
+            "ja": {
+                "name": "岡山県"
+            }
+        }
+    },
+    "JP-34": {
+        "locale": "ja-Latn",
+        "country_code": "JP",
+        "parent_id": null,
+        "id": "JP-34",
+        "code": "広島県",
+        "name": "Hiroshima",
+        "postal_code_pattern": "7[23]",
+        "translations": {
+            "ja": {
+                "name": "広島県"
+            }
+        }
+    },
+    "JP-35": {
+        "locale": "ja-Latn",
+        "country_code": "JP",
+        "parent_id": null,
+        "id": "JP-35",
+        "code": "山口県",
+        "name": "Yamaguchi",
+        "postal_code_pattern": "7[45]",
+        "translations": {
+            "ja": {
+                "name": "山口県"
+            }
+        }
+    },
+    "JP-36": {
+        "locale": "ja-Latn",
+        "country_code": "JP",
+        "parent_id": null,
+        "id": "JP-36",
+        "code": "徳島県",
+        "name": "Tokushima",
+        "postal_code_pattern": "77",
+        "translations": {
+            "ja": {
+                "name": "徳島県"
+            }
+        }
+    },
+    "JP-37": {
+        "locale": "ja-Latn",
+        "country_code": "JP",
+        "parent_id": null,
+        "id": "JP-37",
+        "code": "香川県",
+        "name": "Kagawa",
+        "postal_code_pattern": "76",
+        "translations": {
+            "ja": {
+                "name": "香川県"
+            }
+        }
+    },
+    "JP-38": {
+        "locale": "ja-Latn",
+        "country_code": "JP",
+        "parent_id": null,
+        "id": "JP-38",
+        "code": "愛媛県",
+        "name": "Ehime",
+        "postal_code_pattern": "79",
+        "translations": {
+            "ja": {
+                "name": "愛媛県"
+            }
+        }
+    },
+    "JP-39": {
+        "locale": "ja-Latn",
+        "country_code": "JP",
+        "parent_id": null,
+        "id": "JP-39",
+        "code": "高知県",
+        "name": "Kochi",
+        "postal_code_pattern": "78",
+        "translations": {
+            "ja": {
+                "name": "高知県"
+            }
+        }
+    },
+    "JP-40": {
+        "locale": "ja-Latn",
+        "country_code": "JP",
+        "parent_id": null,
+        "id": "JP-40",
+        "code": "福岡県",
+        "name": "Fukuoka",
+        "postal_code_pattern": "8[0-3]|871",
+        "translations": {
+            "ja": {
+                "name": "福岡県"
+            }
+        }
+    },
+    "JP-41": {
+        "locale": "ja-Latn",
+        "country_code": "JP",
+        "parent_id": null,
+        "id": "JP-41",
+        "code": "佐賀県",
+        "name": "Saga",
+        "postal_code_pattern": "84",
+        "translations": {
+            "ja": {
+                "name": "佐賀県"
+            }
+        }
+    },
+    "JP-42": {
+        "locale": "ja-Latn",
+        "country_code": "JP",
+        "parent_id": null,
+        "id": "JP-42",
+        "code": "長崎県",
+        "name": "Nagasaki",
+        "postal_code_pattern": "85|81[17]|848",
+        "translations": {
+            "ja": {
+                "name": "長崎県"
+            }
+        }
+    },
+    "JP-43": {
+        "locale": "ja-Latn",
+        "country_code": "JP",
+        "parent_id": null,
+        "id": "JP-43",
+        "code": "熊本県",
+        "name": "Kumamoto",
+        "postal_code_pattern": "86",
+        "translations": {
+            "ja": {
+                "name": "熊本県"
+            }
+        }
+    },
+    "JP-44": {
+        "locale": "ja-Latn",
+        "country_code": "JP",
+        "parent_id": null,
+        "id": "JP-44",
+        "code": "大分県",
+        "name": "Oita",
+        "postal_code_pattern": "87|839",
+        "translations": {
+            "ja": {
+                "name": "大分県"
+            }
+        }
+    },
+    "JP-45": {
+        "locale": "ja-Latn",
+        "country_code": "JP",
+        "parent_id": null,
+        "id": "JP-45",
+        "code": "宮崎県",
+        "name": "Miyazaki",
+        "postal_code_pattern": "88",
+        "translations": {
+            "ja": {
+                "name": "宮崎県"
+            }
+        }
+    },
+    "JP-46": {
+        "locale": "ja-Latn",
+        "country_code": "JP",
+        "parent_id": null,
+        "id": "JP-46",
+        "code": "鹿児島県",
+        "name": "Kagoshima",
+        "postal_code_pattern": "89",
+        "translations": {
+            "ja": {
+                "name": "鹿児島県"
+            }
+        }
+    },
+    "JP-47": {
+        "locale": "ja-Latn",
+        "country_code": "JP",
+        "parent_id": null,
+        "id": "JP-47",
+        "code": "沖縄県",
+        "name": "Okinawa",
+        "postal_code_pattern": "90",
+        "translations": {
+            "ja": {
+                "name": "沖縄県"
+            }
+        }
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "CN-62-67a810-bafc25": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-62-67a810",
+        "id": "CN-62-67a810-bafc25",
+        "code": "安定区",
+        "name": "Anding Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "安定区"
+            }
+        }
+    },
+    "CN-62-67a810-cd5cde": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-62-67a810",
+        "id": "CN-62-67a810-cd5cde",
+        "code": "临洮县",
+        "name": "Lintao Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "临洮县"
+            }
+        }
+    },
+    "CN-62-67a810-7e9bad": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-62-67a810",
+        "id": "CN-62-67a810-7e9bad",
+        "code": "陇西县",
+        "name": "Longxi Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "陇西县"
+            }
+        }
+    },
+    "CN-62-67a810-8a62d8": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-62-67a810",
+        "id": "CN-62-67a810-8a62d8",
+        "code": "岷县",
+        "name": "Min Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "岷县"
+            }
+        }
+    },
+    "CN-62-67a810-55341a": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-62-67a810",
+        "id": "CN-62-67a810-55341a",
+        "code": "通渭县",
+        "name": "Tongwei Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "通渭县"
+            }
+        }
+    },
+    "CN-62-67a810-268faa": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-62-67a810",
+        "id": "CN-62-67a810-268faa",
+        "code": "渭源县",
+        "name": "Weiyuan Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "渭源县"
+            }
+        }
+    },
+    "CN-62-67a810-8b9f87": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-62-67a810",
+        "id": "CN-62-67a810-8b9f87",
+        "code": "漳县",
+        "name": "Zhang Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "漳县"
+            }
+        }
+    }
+}

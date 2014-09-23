@@ -1,0 +1,72 @@
+{
+    "KR-30-93e760": {
+        "locale": "ko-Latn",
+        "country_code": "KR",
+        "parent_id": "KR-30",
+        "id": "KR-30-93e760",
+        "code": "대덕구",
+        "name": "Daedeok-gu",
+        "postal_code_pattern": "306",
+        "translations": {
+            "ko": {
+                "name": "대덕구"
+            }
+        }
+    },
+    "KR-30-5a0ecd": {
+        "locale": "ko-Latn",
+        "country_code": "KR",
+        "parent_id": "KR-30",
+        "id": "KR-30-5a0ecd",
+        "code": "동구",
+        "name": "Dong-gu",
+        "postal_code_pattern": "300",
+        "translations": {
+            "ko": {
+                "name": "동구"
+            }
+        }
+    },
+    "KR-30-359b24": {
+        "locale": "ko-Latn",
+        "country_code": "KR",
+        "parent_id": "KR-30",
+        "id": "KR-30-359b24",
+        "code": "서구",
+        "name": "Seo-gu",
+        "postal_code_pattern": "302",
+        "translations": {
+            "ko": {
+                "name": "서구"
+            }
+        }
+    },
+    "KR-30-072bd7": {
+        "locale": "ko-Latn",
+        "country_code": "KR",
+        "parent_id": "KR-30",
+        "id": "KR-30-072bd7",
+        "code": "유성구",
+        "name": "Yuseong-gu",
+        "postal_code_pattern": "305",
+        "translations": {
+            "ko": {
+                "name": "유성구"
+            }
+        }
+    },
+    "KR-30-3c729c": {
+        "locale": "ko-Latn",
+        "country_code": "KR",
+        "parent_id": "KR-30",
+        "id": "KR-30-3c729c",
+        "code": "중구",
+        "name": "Jung-gu",
+        "postal_code_pattern": "301",
+        "translations": {
+            "ko": {
+                "name": "중구"
+            }
+        }
+    }
+}

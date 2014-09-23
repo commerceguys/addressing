@@ -1,0 +1,30 @@
+{
+    "KR-44-6e797e-b6677d": {
+        "locale": "ko-Latn",
+        "country_code": "KR",
+        "parent_id": "KR-44-6e797e",
+        "id": "KR-44-6e797e-b6677d",
+        "code": "동남구",
+        "name": "Dongnam-gu",
+        "postal_code_pattern": "330",
+        "translations": {
+            "ko": {
+                "name": "동남구"
+            }
+        }
+    },
+    "KR-44-6e797e-83165d": {
+        "locale": "ko-Latn",
+        "country_code": "KR",
+        "parent_id": "KR-44-6e797e",
+        "id": "KR-44-6e797e-83165d",
+        "code": "서북구",
+        "name": "Seobuk-gu",
+        "postal_code_pattern": "331",
+        "translations": {
+            "ko": {
+                "name": "서북구"
+            }
+        }
+    }
+}

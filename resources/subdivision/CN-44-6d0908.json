@@ -1,0 +1,158 @@
+{
+    "CN-44-6d0908-d42b3e": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44-6d0908",
+        "id": "CN-44-6d0908-d42b3e",
+        "code": "白云区",
+        "name": "Baiyun Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "白云区"
+            }
+        }
+    },
+    "CN-44-6d0908-59753f": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44-6d0908",
+        "id": "CN-44-6d0908-59753f",
+        "code": "从化市",
+        "name": "Conghua Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "从化市"
+            }
+        }
+    },
+    "CN-44-6d0908-694f66": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44-6d0908",
+        "id": "CN-44-6d0908-694f66",
+        "code": "番禺区",
+        "name": "Panyu Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "番禺区"
+            }
+        }
+    },
+    "CN-44-6d0908-742adf": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44-6d0908",
+        "id": "CN-44-6d0908-742adf",
+        "code": "海珠区",
+        "name": "Haizhu Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "海珠区"
+            }
+        }
+    },
+    "CN-44-6d0908-922ea6": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44-6d0908",
+        "id": "CN-44-6d0908-922ea6",
+        "code": "花都区",
+        "name": "Huadu Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "花都区"
+            }
+        }
+    },
+    "CN-44-6d0908-737d80": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44-6d0908",
+        "id": "CN-44-6d0908-737d80",
+        "code": "黄埔区",
+        "name": "Huangpu Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "黄埔区"
+            }
+        }
+    },
+    "CN-44-6d0908-e5e8f0": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44-6d0908",
+        "id": "CN-44-6d0908-e5e8f0",
+        "code": "荔湾区",
+        "name": "Liwan Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "荔湾区"
+            }
+        }
+    },
+    "CN-44-6d0908-d38c1e": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44-6d0908",
+        "id": "CN-44-6d0908-d38c1e",
+        "code": "萝岗区",
+        "name": "Luogang Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "萝岗区"
+            }
+        }
+    },
+    "CN-44-6d0908-fbe8ff": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44-6d0908",
+        "id": "CN-44-6d0908-fbe8ff",
+        "code": "南沙区",
+        "name": "Nansha Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "南沙区"
+            }
+        }
+    },
+    "CN-44-6d0908-69daac": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44-6d0908",
+        "id": "CN-44-6d0908-69daac",
+        "code": "天河区",
+        "name": "Tianhe Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "天河区"
+            }
+        }
+    },
+    "CN-44-6d0908-6de237": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44-6d0908",
+        "id": "CN-44-6d0908-6de237",
+        "code": "越秀区",
+        "name": "Yuexiu Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "越秀区"
+            }
+        }
+    },
+    "CN-44-6d0908-e6ddc5": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44-6d0908",
+        "id": "CN-44-6d0908-e6ddc5",
+        "code": "增城市",
+        "name": "Zengcheng Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "增城市"
+            }
+        }
+    }
+}

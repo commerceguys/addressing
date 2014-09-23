@@ -1,0 +1,114 @@
+{
+    "JM-13": {
+        "locale": "en",
+        "country_code": "JM",
+        "parent_id": null,
+        "id": "JM-13",
+        "code": "Clarendon",
+        "name": "Clarendon"
+    },
+    "JM-09": {
+        "locale": "en",
+        "country_code": "JM",
+        "parent_id": null,
+        "id": "JM-09",
+        "code": "Hanover",
+        "name": "Hanover"
+    },
+    "JM-01": {
+        "locale": "en",
+        "country_code": "JM",
+        "parent_id": null,
+        "id": "JM-01",
+        "code": "Kingston",
+        "name": "Kingston"
+    },
+    "JM-12": {
+        "locale": "en",
+        "country_code": "JM",
+        "parent_id": null,
+        "id": "JM-12",
+        "code": "Manchester",
+        "name": "Manchester"
+    },
+    "JM-04": {
+        "locale": "en",
+        "country_code": "JM",
+        "parent_id": null,
+        "id": "JM-04",
+        "code": "Portland",
+        "name": "Portland"
+    },
+    "JM-02": {
+        "locale": "en",
+        "country_code": "JM",
+        "parent_id": null,
+        "id": "JM-02",
+        "code": "St. Andrew",
+        "name": "St. Andrew"
+    },
+    "JM-06": {
+        "locale": "en",
+        "country_code": "JM",
+        "parent_id": null,
+        "id": "JM-06",
+        "code": "St. Ann",
+        "name": "St. Ann"
+    },
+    "JM-14": {
+        "locale": "en",
+        "country_code": "JM",
+        "parent_id": null,
+        "id": "JM-14",
+        "code": "St. Catherine",
+        "name": "St. Catherine"
+    },
+    "JM-11": {
+        "locale": "en",
+        "country_code": "JM",
+        "parent_id": null,
+        "id": "JM-11",
+        "code": "St. Elizabeth",
+        "name": "St. Elizabeth"
+    },
+    "JM-08": {
+        "locale": "en",
+        "country_code": "JM",
+        "parent_id": null,
+        "id": "JM-08",
+        "code": "St. James",
+        "name": "St. James"
+    },
+    "JM-05": {
+        "locale": "en",
+        "country_code": "JM",
+        "parent_id": null,
+        "id": "JM-05",
+        "code": "St. Mary",
+        "name": "St. Mary"
+    },
+    "JM-03": {
+        "locale": "en",
+        "country_code": "JM",
+        "parent_id": null,
+        "id": "JM-03",
+        "code": "St. Thomas",
+        "name": "St. Thomas"
+    },
+    "JM-07": {
+        "locale": "en",
+        "country_code": "JM",
+        "parent_id": null,
+        "id": "JM-07",
+        "code": "Trelawny",
+        "name": "Trelawny"
+    },
+    "JM-10": {
+        "locale": "en",
+        "country_code": "JM",
+        "parent_id": null,
+        "id": "JM-10",
+        "code": "Westmoreland",
+        "name": "Westmoreland"
+    }
+}

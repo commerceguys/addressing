@@ -1,0 +1,26 @@
+{
+    "KY-1229bf": {
+        "locale": "en",
+        "country_code": "KY",
+        "parent_id": null,
+        "id": "KY-1229bf",
+        "code": "CAYMAN BRAC",
+        "name": "CAYMAN BRAC"
+    },
+    "KY-88c790": {
+        "locale": "en",
+        "country_code": "KY",
+        "parent_id": null,
+        "id": "KY-88c790",
+        "code": "GRAND CAYMAN",
+        "name": "GRAND CAYMAN"
+    },
+    "KY-19e5ee": {
+        "locale": "en",
+        "country_code": "KY",
+        "parent_id": null,
+        "id": "KY-19e5ee",
+        "code": "LITTLE CAYMAN",
+        "name": "LITTLE CAYMAN"
+    }
+}

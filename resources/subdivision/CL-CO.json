@@ -1,0 +1,122 @@
+{
+    "CL-CO-693432": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-CO",
+        "id": "CL-CO-693432",
+        "code": "Andacollo",
+        "name": "Andacollo"
+    },
+    "CL-CO-16fc39": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-CO",
+        "id": "CL-CO-16fc39",
+        "code": "Canela",
+        "name": "Canela"
+    },
+    "CL-CO-44eafc": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-CO",
+        "id": "CL-CO-44eafc",
+        "code": "Combarbalá",
+        "name": "Combarbalá"
+    },
+    "CL-CO-a1f7c3": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-CO",
+        "id": "CL-CO-a1f7c3",
+        "code": "Coquimbo",
+        "name": "Coquimbo"
+    },
+    "CL-CO-5a572a": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-CO",
+        "id": "CL-CO-5a572a",
+        "code": "Illapel",
+        "name": "Illapel"
+    },
+    "CL-CO-ffc9cb": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-CO",
+        "id": "CL-CO-ffc9cb",
+        "code": "La Higuera",
+        "name": "La Higuera"
+    },
+    "CL-CO-4f241e": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-CO",
+        "id": "CL-CO-4f241e",
+        "code": "La Serena",
+        "name": "La Serena"
+    },
+    "CL-CO-e42e90": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-CO",
+        "id": "CL-CO-e42e90",
+        "code": "Los Vilos",
+        "name": "Los Vilos"
+    },
+    "CL-CO-56a7ed": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-CO",
+        "id": "CL-CO-56a7ed",
+        "code": "Monte Patria",
+        "name": "Monte Patria"
+    },
+    "CL-CO-e2d811": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-CO",
+        "id": "CL-CO-e2d811",
+        "code": "Ovalle",
+        "name": "Ovalle"
+    },
+    "CL-CO-d8fba6": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-CO",
+        "id": "CL-CO-d8fba6",
+        "code": "Paihuano",
+        "name": "Paihuano"
+    },
+    "CL-CO-f634b2": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-CO",
+        "id": "CL-CO-f634b2",
+        "code": "Punitaqui",
+        "name": "Punitaqui"
+    },
+    "CL-CO-aed48b": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-CO",
+        "id": "CL-CO-aed48b",
+        "code": "Río Hurtado",
+        "name": "Río Hurtado"
+    },
+    "CL-CO-acc8ee": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-CO",
+        "id": "CL-CO-acc8ee",
+        "code": "Salamanca",
+        "name": "Salamanca"
+    },
+    "CL-CO-6b9d8b": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-CO",
+        "id": "CL-CO-6b9d8b",
+        "code": "Vicuña",
+        "name": "Vicuña"
+    }
+}

@@ -1,0 +1,498 @@
+{
+    "BR-AM-20cb10": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-20cb10",
+        "code": "Alvarães",
+        "name": "Alvarães"
+    },
+    "BR-AM-52ba52": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-52ba52",
+        "code": "Amaturá",
+        "name": "Amaturá"
+    },
+    "BR-AM-12a2a2": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-12a2a2",
+        "code": "Anamã",
+        "name": "Anamã"
+    },
+    "BR-AM-2dd7ae": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-2dd7ae",
+        "code": "Anorí",
+        "name": "Anorí"
+    },
+    "BR-AM-d1d58b": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-d1d58b",
+        "code": "Apuí",
+        "name": "Apuí"
+    },
+    "BR-AM-65a148": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-65a148",
+        "code": "Atalaia do Norte",
+        "name": "Atalaia do Norte"
+    },
+    "BR-AM-8eaf5c": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-8eaf5c",
+        "code": "Autazes",
+        "name": "Autazes"
+    },
+    "BR-AM-b380aa": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-b380aa",
+        "code": "Barcelos",
+        "name": "Barcelos"
+    },
+    "BR-AM-2f06ec": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-2f06ec",
+        "code": "Barreirinha",
+        "name": "Barreirinha"
+    },
+    "BR-AM-482a07": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-482a07",
+        "code": "Benjamin Constant",
+        "name": "Benjamin Constant"
+    },
+    "BR-AM-f1cdac": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-f1cdac",
+        "code": "Beruri",
+        "name": "Beruri"
+    },
+    "BR-AM-476bb5": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-476bb5",
+        "code": "Boa Vista do Ramos",
+        "name": "Boa Vista do Ramos"
+    },
+    "BR-AM-9f356b": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-9f356b",
+        "code": "Boca do Acre",
+        "name": "Boca do Acre"
+    },
+    "BR-AM-58b71d": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-58b71d",
+        "code": "Borba",
+        "name": "Borba"
+    },
+    "BR-AM-32bbab": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-32bbab",
+        "code": "Caapiranga",
+        "name": "Caapiranga"
+    },
+    "BR-AM-038a54": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-038a54",
+        "code": "Canutama",
+        "name": "Canutama"
+    },
+    "BR-AM-2f0ecb": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-2f0ecb",
+        "code": "Carauari",
+        "name": "Carauari"
+    },
+    "BR-AM-debcd2": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-debcd2",
+        "code": "Careiro",
+        "name": "Careiro"
+    },
+    "BR-AM-506df1": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-506df1",
+        "code": "Careiro da Várzea",
+        "name": "Careiro da Várzea"
+    },
+    "BR-AM-f6f8f0": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-f6f8f0",
+        "code": "Coari",
+        "name": "Coari"
+    },
+    "BR-AM-cc2253": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-cc2253",
+        "code": "Codajás",
+        "name": "Codajás"
+    },
+    "BR-AM-729d45": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-729d45",
+        "code": "Eirunepé",
+        "name": "Eirunepé"
+    },
+    "BR-AM-341fa6": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-341fa6",
+        "code": "Envira",
+        "name": "Envira"
+    },
+    "BR-AM-907cba": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-907cba",
+        "code": "Fonte Boa",
+        "name": "Fonte Boa"
+    },
+    "BR-AM-0fbdd0": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-0fbdd0",
+        "code": "Guajará",
+        "name": "Guajará"
+    },
+    "BR-AM-524e26": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-524e26",
+        "code": "Humaitá",
+        "name": "Humaitá"
+    },
+    "BR-AM-c758b0": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-c758b0",
+        "code": "Ipixuna",
+        "name": "Ipixuna"
+    },
+    "BR-AM-652e54": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-652e54",
+        "code": "Iranduba",
+        "name": "Iranduba"
+    },
+    "BR-AM-39e835": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-39e835",
+        "code": "Itacoatiara",
+        "name": "Itacoatiara"
+    },
+    "BR-AM-e91a00": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-e91a00",
+        "code": "Itamarati",
+        "name": "Itamarati"
+    },
+    "BR-AM-dbcf2c": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-dbcf2c",
+        "code": "Itapiranga",
+        "name": "Itapiranga"
+    },
+    "BR-AM-21f161": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-21f161",
+        "code": "Japurá",
+        "name": "Japurá"
+    },
+    "BR-AM-08778e": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-08778e",
+        "code": "Jurua",
+        "name": "Jurua"
+    },
+    "BR-AM-05f9c9": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-05f9c9",
+        "code": "Jutaí",
+        "name": "Jutaí"
+    },
+    "BR-AM-10a5ad": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-10a5ad",
+        "code": "Lábrea",
+        "name": "Lábrea"
+    },
+    "BR-AM-104c3e": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-104c3e",
+        "code": "Manacapuru",
+        "name": "Manacapuru"
+    },
+    "BR-AM-2913db": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-2913db",
+        "code": "Manaquiri",
+        "name": "Manaquiri"
+    },
+    "BR-AM-7d436f": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-7d436f",
+        "code": "Manaus",
+        "name": "Manaus"
+    },
+    "BR-AM-ea081f": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-ea081f",
+        "code": "Manicoré",
+        "name": "Manicoré"
+    },
+    "BR-AM-875a50": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-875a50",
+        "code": "Maraã",
+        "name": "Maraã"
+    },
+    "BR-AM-2ee739": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-2ee739",
+        "code": "Maués",
+        "name": "Maués"
+    },
+    "BR-AM-8fbb87": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-8fbb87",
+        "code": "Nhamundá",
+        "name": "Nhamundá"
+    },
+    "BR-AM-cd3ddc": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-cd3ddc",
+        "code": "Nova Olinda do Norte",
+        "name": "Nova Olinda do Norte"
+    },
+    "BR-AM-a938b7": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-a938b7",
+        "code": "Novo Airão",
+        "name": "Novo Airão"
+    },
+    "BR-AM-b77eac": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-b77eac",
+        "code": "Novo Aripuanã",
+        "name": "Novo Aripuanã"
+    },
+    "BR-AM-4514ae": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-4514ae",
+        "code": "Parintins",
+        "name": "Parintins"
+    },
+    "BR-AM-7a4d1c": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-7a4d1c",
+        "code": "Pauini",
+        "name": "Pauini"
+    },
+    "BR-AM-699756": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-699756",
+        "code": "Presidente Figueiredo",
+        "name": "Presidente Figueiredo"
+    },
+    "BR-AM-4907db": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-4907db",
+        "code": "Rio Preto da Eva",
+        "name": "Rio Preto da Eva"
+    },
+    "BR-AM-574803": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-574803",
+        "code": "Santa Isabel do Rio Negro",
+        "name": "Santa Isabel do Rio Negro"
+    },
+    "BR-AM-2bf275": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-2bf275",
+        "code": "Santo Antônio do Içá",
+        "name": "Santo Antônio do Içá"
+    },
+    "BR-AM-3c0dd2": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-3c0dd2",
+        "code": "São Gabriel da Cachoeira",
+        "name": "São Gabriel da Cachoeira"
+    },
+    "BR-AM-59e0dd": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-59e0dd",
+        "code": "São Paulo de Olivença",
+        "name": "São Paulo de Olivença"
+    },
+    "BR-AM-97fe61": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-97fe61",
+        "code": "São Sebastião do Uatumã",
+        "name": "São Sebastião do Uatumã"
+    },
+    "BR-AM-56765f": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-56765f",
+        "code": "Silves",
+        "name": "Silves"
+    },
+    "BR-AM-db7d4a": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-db7d4a",
+        "code": "Tabatinga",
+        "name": "Tabatinga"
+    },
+    "BR-AM-56093f": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-56093f",
+        "code": "Tapauá",
+        "name": "Tapauá"
+    },
+    "BR-AM-7d3e47": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-7d3e47",
+        "code": "Tefé",
+        "name": "Tefé"
+    },
+    "BR-AM-a7392e": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-a7392e",
+        "code": "Tonantins",
+        "name": "Tonantins"
+    },
+    "BR-AM-e44372": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-e44372",
+        "code": "Uarini",
+        "name": "Uarini"
+    },
+    "BR-AM-f04508": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-f04508",
+        "code": "Urucará",
+        "name": "Urucará"
+    },
+    "BR-AM-885227": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-AM",
+        "id": "BR-AM-885227",
+        "code": "Urucurituba",
+        "name": "Urucurituba"
+    }
+}

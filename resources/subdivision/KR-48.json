@@ -1,0 +1,255 @@
+{
+    "KR-48-8ebfb4": {
+        "locale": "ko-Latn",
+        "country_code": "KR",
+        "parent_id": "KR-48",
+        "id": "KR-48-8ebfb4",
+        "code": "거제시",
+        "name": "Geoje-si",
+        "postal_code_pattern": "656",
+        "translations": {
+            "ko": {
+                "name": "거제시"
+            }
+        }
+    },
+    "KR-48-b1e290": {
+        "locale": "ko-Latn",
+        "country_code": "KR",
+        "parent_id": "KR-48",
+        "id": "KR-48-b1e290",
+        "code": "거창군",
+        "name": "Geochang-gun",
+        "postal_code_pattern": "670",
+        "translations": {
+            "ko": {
+                "name": "거창군"
+            }
+        }
+    },
+    "KR-48-5a5bf1": {
+        "locale": "ko-Latn",
+        "country_code": "KR",
+        "parent_id": "KR-48",
+        "id": "KR-48-5a5bf1",
+        "code": "고성군",
+        "name": "Goseong-gun",
+        "postal_code_pattern": "638",
+        "translations": {
+            "ko": {
+                "name": "고성군"
+            }
+        }
+    },
+    "KR-48-d1fc53": {
+        "locale": "ko-Latn",
+        "country_code": "KR",
+        "parent_id": "KR-48",
+        "id": "KR-48-d1fc53",
+        "code": "김해시",
+        "name": "Gimhae-si",
+        "postal_code_pattern": "621",
+        "translations": {
+            "ko": {
+                "name": "김해시"
+            }
+        }
+    },
+    "KR-48-3d2fac": {
+        "locale": "ko-Latn",
+        "country_code": "KR",
+        "parent_id": "KR-48",
+        "id": "KR-48-3d2fac",
+        "code": "남해군",
+        "name": "Namhae-gun",
+        "postal_code_pattern": "668[\\-]8",
+        "translations": {
+            "ko": {
+                "name": "남해군"
+            }
+        }
+    },
+    "KR-48-09fb09": {
+        "locale": "ko-Latn",
+        "country_code": "KR",
+        "parent_id": "KR-48",
+        "id": "KR-48-09fb09",
+        "code": "밀양시",
+        "name": "Miryang-si",
+        "postal_code_pattern": "627",
+        "translations": {
+            "ko": {
+                "name": "밀양시"
+            }
+        }
+    },
+    "KR-48-71e39b": {
+        "locale": "ko-Latn",
+        "country_code": "KR",
+        "parent_id": "KR-48",
+        "id": "KR-48-71e39b",
+        "code": "사천시",
+        "name": "Sacheon-si",
+        "postal_code_pattern": "664",
+        "translations": {
+            "ko": {
+                "name": "사천시"
+            }
+        }
+    },
+    "KR-48-cd27bc": {
+        "locale": "ko-Latn",
+        "country_code": "KR",
+        "parent_id": "KR-48",
+        "id": "KR-48-cd27bc",
+        "code": "산청군",
+        "name": "Sancheong-gun",
+        "postal_code_pattern": "666",
+        "translations": {
+            "ko": {
+                "name": "산청군"
+            }
+        }
+    },
+    "KR-48-d0bcec": {
+        "locale": "ko-Latn",
+        "country_code": "KR",
+        "parent_id": "KR-48",
+        "id": "KR-48-d0bcec",
+        "code": "양산시",
+        "name": "Yangsan-si",
+        "postal_code_pattern": "626",
+        "translations": {
+            "ko": {
+                "name": "양산시"
+            }
+        }
+    },
+    "KR-48-2c7bb5": {
+        "locale": "ko-Latn",
+        "country_code": "KR",
+        "parent_id": "KR-48",
+        "id": "KR-48-2c7bb5",
+        "code": "의령군",
+        "name": "Uiryeong-gun",
+        "postal_code_pattern": "636",
+        "translations": {
+            "ko": {
+                "name": "의령군"
+            }
+        }
+    },
+    "KR-48-1002ed": {
+        "locale": "ko-Latn",
+        "country_code": "KR",
+        "parent_id": "KR-48",
+        "id": "KR-48-1002ed",
+        "code": "진주시",
+        "name": "Jinju-si",
+        "postal_code_pattern": "660",
+        "translations": {
+            "ko": {
+                "name": "진주시"
+            }
+        }
+    },
+    "KR-48-bddde5": {
+        "locale": "ko-Latn",
+        "country_code": "KR",
+        "parent_id": "KR-48",
+        "id": "KR-48-bddde5",
+        "code": "창녕군",
+        "name": "Changnyeong-gun",
+        "postal_code_pattern": "635",
+        "translations": {
+            "ko": {
+                "name": "창녕군"
+            }
+        }
+    },
+    "KR-48-5fb69c": {
+        "locale": "ko-Latn",
+        "country_code": "KR",
+        "parent_id": "KR-48",
+        "id": "KR-48-5fb69c",
+        "code": "창원시",
+        "name": "Changwon-si",
+        "postal_code_pattern": "6(?:3[01]|4[125])",
+        "translations": {
+            "ko": {
+                "name": "창원시"
+            }
+        },
+        "has_children": true
+    },
+    "KR-48-b3328f": {
+        "locale": "ko-Latn",
+        "country_code": "KR",
+        "parent_id": "KR-48",
+        "id": "KR-48-b3328f",
+        "code": "통영시",
+        "name": "Tongyeong-si",
+        "postal_code_pattern": "650",
+        "translations": {
+            "ko": {
+                "name": "통영시"
+            }
+        }
+    },
+    "KR-48-e58f4b": {
+        "locale": "ko-Latn",
+        "country_code": "KR",
+        "parent_id": "KR-48",
+        "id": "KR-48-e58f4b",
+        "code": "하동군",
+        "name": "Hadong-gun",
+        "postal_code_pattern": "667",
+        "translations": {
+            "ko": {
+                "name": "하동군"
+            }
+        }
+    },
+    "KR-48-aaf443": {
+        "locale": "ko-Latn",
+        "country_code": "KR",
+        "parent_id": "KR-48",
+        "id": "KR-48-aaf443",
+        "code": "함안군",
+        "name": "Haman-gun",
+        "postal_code_pattern": "637",
+        "translations": {
+            "ko": {
+                "name": "함안군"
+            }
+        }
+    },
+    "KR-48-5ff477": {
+        "locale": "ko-Latn",
+        "country_code": "KR",
+        "parent_id": "KR-48",
+        "id": "KR-48-5ff477",
+        "code": "함양군",
+        "name": "Hamyang-gun",
+        "postal_code_pattern": "676",
+        "translations": {
+            "ko": {
+                "name": "함양군"
+            }
+        }
+    },
+    "KR-48-c1728f": {
+        "locale": "ko-Latn",
+        "country_code": "KR",
+        "parent_id": "KR-48",
+        "id": "KR-48-c1728f",
+        "code": "합천군",
+        "name": "Hapcheon-gun",
+        "postal_code_pattern": "678",
+        "translations": {
+            "ko": {
+                "name": "합천군"
+            }
+        }
+    }
+}

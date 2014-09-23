@@ -1,0 +1,58 @@
+{
+    "CN-71-39b250-9d294d": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-39b250",
+        "id": "CN-71-39b250-9d294d",
+        "code": "北竿鄉",
+        "name": "Beigan Township",
+        "postal_code_pattern": "210",
+        "translations": {
+            "zh-hans": {
+                "name": "北竿鄉"
+            }
+        }
+    },
+    "CN-71-39b250-14afbf": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-39b250",
+        "id": "CN-71-39b250-14afbf",
+        "code": "東引鄉",
+        "name": "Dongyin Township",
+        "postal_code_pattern": "212",
+        "translations": {
+            "zh-hans": {
+                "name": "東引鄉"
+            }
+        }
+    },
+    "CN-71-39b250-f2dd99": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-39b250",
+        "id": "CN-71-39b250-f2dd99",
+        "code": "莒光鄉",
+        "name": "Jyuguang Township",
+        "postal_code_pattern": "211",
+        "translations": {
+            "zh-hans": {
+                "name": "莒光鄉"
+            }
+        }
+    },
+    "CN-71-39b250-b57981": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-39b250",
+        "id": "CN-71-39b250-b57981",
+        "code": "南竿鄉",
+        "name": "Nangan Township",
+        "postal_code_pattern": "209",
+        "translations": {
+            "zh-hans": {
+                "name": "南竿鄉"
+            }
+        }
+    }
+}

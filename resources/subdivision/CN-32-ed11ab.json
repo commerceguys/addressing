@@ -1,0 +1,106 @@
+{
+    "CN-32-ed11ab-3fce99": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-32-ed11ab",
+        "id": "CN-32-ed11ab-3fce99",
+        "code": "北塘区",
+        "name": "Beitang Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "北塘区"
+            }
+        }
+    },
+    "CN-32-ed11ab-a86600": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-32-ed11ab",
+        "id": "CN-32-ed11ab-a86600",
+        "code": "滨湖区",
+        "name": "Binhu Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "滨湖区"
+            }
+        }
+    },
+    "CN-32-ed11ab-6103d3": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-32-ed11ab",
+        "id": "CN-32-ed11ab-6103d3",
+        "code": "崇安区",
+        "name": "Chong'an Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "崇安区"
+            }
+        }
+    },
+    "CN-32-ed11ab-fa7752": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-32-ed11ab",
+        "id": "CN-32-ed11ab-fa7752",
+        "code": "惠山区",
+        "name": "Huishan Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "惠山区"
+            }
+        }
+    },
+    "CN-32-ed11ab-738780": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-32-ed11ab",
+        "id": "CN-32-ed11ab-738780",
+        "code": "江阴市",
+        "name": "Jiangyin Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "江阴市"
+            }
+        }
+    },
+    "CN-32-ed11ab-75522c": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-32-ed11ab",
+        "id": "CN-32-ed11ab-75522c",
+        "code": "南长区",
+        "name": "Nanchang Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "南长区"
+            }
+        }
+    },
+    "CN-32-ed11ab-e9277e": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-32-ed11ab",
+        "id": "CN-32-ed11ab-e9277e",
+        "code": "锡山区",
+        "name": "Xishan Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "锡山区"
+            }
+        }
+    },
+    "CN-32-ed11ab-b405a7": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-32-ed11ab",
+        "id": "CN-32-ed11ab-b405a7",
+        "code": "宜兴市",
+        "name": "Yixing Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "宜兴市"
+            }
+        }
+    }
+}

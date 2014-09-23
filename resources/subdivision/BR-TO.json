@@ -1,0 +1,1114 @@
+{
+    "BR-TO-fef239": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-fef239",
+        "code": "Abreulândia",
+        "name": "Abreulândia"
+    },
+    "BR-TO-306695": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-306695",
+        "code": "Aguiarnópolis",
+        "name": "Aguiarnópolis"
+    },
+    "BR-TO-8c4499": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-8c4499",
+        "code": "Aliança do Tocantins",
+        "name": "Aliança do Tocantins"
+    },
+    "BR-TO-da0a7d": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-da0a7d",
+        "code": "Almas",
+        "name": "Almas"
+    },
+    "BR-TO-8b2f5f": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-8b2f5f",
+        "code": "Alvorada",
+        "name": "Alvorada"
+    },
+    "BR-TO-9adbb2": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-9adbb2",
+        "code": "Ananas",
+        "name": "Ananas"
+    },
+    "BR-TO-10db5a": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-10db5a",
+        "code": "Angico",
+        "name": "Angico"
+    },
+    "BR-TO-970889": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-970889",
+        "code": "Aparecida do Rio Negro",
+        "name": "Aparecida do Rio Negro"
+    },
+    "BR-TO-28610f": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-28610f",
+        "code": "Aragominas",
+        "name": "Aragominas"
+    },
+    "BR-TO-a80650": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-a80650",
+        "code": "Araguacema",
+        "name": "Araguacema"
+    },
+    "BR-TO-2d4582": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-2d4582",
+        "code": "Araguaçu",
+        "name": "Araguaçu"
+    },
+    "BR-TO-d55f24": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-d55f24",
+        "code": "Araguaína",
+        "name": "Araguaína"
+    },
+    "BR-TO-c2bb0c": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-c2bb0c",
+        "code": "Araguanã",
+        "name": "Araguanã"
+    },
+    "BR-TO-5ef4c0": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-5ef4c0",
+        "code": "Araguatins",
+        "name": "Araguatins"
+    },
+    "BR-TO-f471af": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-f471af",
+        "code": "Arapoema",
+        "name": "Arapoema"
+    },
+    "BR-TO-00f0cb": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-00f0cb",
+        "code": "Arraias",
+        "name": "Arraias"
+    },
+    "BR-TO-a05b77": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-a05b77",
+        "code": "Augustinópolis",
+        "name": "Augustinópolis"
+    },
+    "BR-TO-ea87fd": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-ea87fd",
+        "code": "Aurora do Tocantins",
+        "name": "Aurora do Tocantins"
+    },
+    "BR-TO-17ff2b": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-17ff2b",
+        "code": "Axixá do Tocantins",
+        "name": "Axixá do Tocantins"
+    },
+    "BR-TO-5e0fb3": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-5e0fb3",
+        "code": "Babaçulândia",
+        "name": "Babaçulândia"
+    },
+    "BR-TO-d2f157": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-d2f157",
+        "code": "Bandeirantes do Tocantins",
+        "name": "Bandeirantes do Tocantins"
+    },
+    "BR-TO-ebcf84": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-ebcf84",
+        "code": "Barra do Ouro",
+        "name": "Barra do Ouro"
+    },
+    "BR-TO-2033b8": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-2033b8",
+        "code": "Barrolândia",
+        "name": "Barrolândia"
+    },
+    "BR-TO-eb796a": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-eb796a",
+        "code": "Bernardo Sayão",
+        "name": "Bernardo Sayão"
+    },
+    "BR-TO-08b7e4": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-08b7e4",
+        "code": "Bom Jesus do Tocantins",
+        "name": "Bom Jesus do Tocantins"
+    },
+    "BR-TO-341105": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-341105",
+        "code": "Brasilândia do Tocantins",
+        "name": "Brasilândia do Tocantins"
+    },
+    "BR-TO-0fbc83": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-0fbc83",
+        "code": "Brejinho de Nazaré",
+        "name": "Brejinho de Nazaré"
+    },
+    "BR-TO-7cd1de": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-7cd1de",
+        "code": "Buriti do Tocantins",
+        "name": "Buriti do Tocantins"
+    },
+    "BR-TO-d37be3": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-d37be3",
+        "code": "Cachoeirinha",
+        "name": "Cachoeirinha"
+    },
+    "BR-TO-5f9d02": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-5f9d02",
+        "code": "Campos Lindos",
+        "name": "Campos Lindos"
+    },
+    "BR-TO-f9c34f": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-f9c34f",
+        "code": "Cariri do Tocantins",
+        "name": "Cariri do Tocantins"
+    },
+    "BR-TO-d9656f": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-d9656f",
+        "code": "Carmolândia",
+        "name": "Carmolândia"
+    },
+    "BR-TO-8815d1": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-8815d1",
+        "code": "Carrasco Bonito",
+        "name": "Carrasco Bonito"
+    },
+    "BR-TO-927377": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-927377",
+        "code": "Caseara",
+        "name": "Caseara"
+    },
+    "BR-TO-5657c6": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-5657c6",
+        "code": "Centenário",
+        "name": "Centenário"
+    },
+    "BR-TO-534a20": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-534a20",
+        "code": "Chapada da Natividade",
+        "name": "Chapada da Natividade"
+    },
+    "BR-TO-16e859": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-16e859",
+        "code": "Chapada de Areia",
+        "name": "Chapada de Areia"
+    },
+    "BR-TO-d4b367": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-d4b367",
+        "code": "Colinas do Tocantins",
+        "name": "Colinas do Tocantins"
+    },
+    "BR-TO-a0c59e": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-a0c59e",
+        "code": "Colméia",
+        "name": "Colméia"
+    },
+    "BR-TO-8b32dc": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-8b32dc",
+        "code": "Combinado",
+        "name": "Combinado"
+    },
+    "BR-TO-767ed1": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-767ed1",
+        "code": "Conceição do Tocantins",
+        "name": "Conceição do Tocantins"
+    },
+    "BR-TO-f6c409": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-f6c409",
+        "code": "Couto de Magalhães",
+        "name": "Couto de Magalhães"
+    },
+    "BR-TO-c8593d": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-c8593d",
+        "code": "Cristalândia",
+        "name": "Cristalândia"
+    },
+    "BR-TO-c05d27": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-c05d27",
+        "code": "Crixás do Tocantins",
+        "name": "Crixás do Tocantins"
+    },
+    "BR-TO-307764": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-307764",
+        "code": "Darcinópolis",
+        "name": "Darcinópolis"
+    },
+    "BR-TO-e06bbc": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-e06bbc",
+        "code": "Dianópolis",
+        "name": "Dianópolis"
+    },
+    "BR-TO-fd6aa3": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-fd6aa3",
+        "code": "Divinópolis do Tocantins",
+        "name": "Divinópolis do Tocantins"
+    },
+    "BR-TO-422625": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-422625",
+        "code": "Dois Irmãos do Tocantins",
+        "name": "Dois Irmãos do Tocantins"
+    },
+    "BR-TO-ae13ee": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-ae13ee",
+        "code": "Dueré",
+        "name": "Dueré"
+    },
+    "BR-TO-55deb1": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-55deb1",
+        "code": "Esperantina",
+        "name": "Esperantina"
+    },
+    "BR-TO-f453c1": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-f453c1",
+        "code": "Fátima",
+        "name": "Fátima"
+    },
+    "BR-TO-f5ae72": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-f5ae72",
+        "code": "Figueirópolis",
+        "name": "Figueirópolis"
+    },
+    "BR-TO-1db9bc": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-1db9bc",
+        "code": "Filadelfia",
+        "name": "Filadelfia"
+    },
+    "BR-TO-c0be35": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-c0be35",
+        "code": "Formoso do Araguaia",
+        "name": "Formoso do Araguaia"
+    },
+    "BR-TO-4a4e66": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-4a4e66",
+        "code": "Fortaleza do Tabocão",
+        "name": "Fortaleza do Tabocão"
+    },
+    "BR-TO-d5656e": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-d5656e",
+        "code": "Goianorte",
+        "name": "Goianorte"
+    },
+    "BR-TO-146786": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-146786",
+        "code": "Goiatins",
+        "name": "Goiatins"
+    },
+    "BR-TO-99aaec": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-99aaec",
+        "code": "Guaraí",
+        "name": "Guaraí"
+    },
+    "BR-TO-981d69": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-981d69",
+        "code": "Gurupi",
+        "name": "Gurupi"
+    },
+    "BR-TO-f6df59": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-f6df59",
+        "code": "Ipueiras",
+        "name": "Ipueiras"
+    },
+    "BR-TO-d9e1bf": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-d9e1bf",
+        "code": "Itacajá",
+        "name": "Itacajá"
+    },
+    "BR-TO-efa76d": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-efa76d",
+        "code": "Itaguatins",
+        "name": "Itaguatins"
+    },
+    "BR-TO-9359ea": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-9359ea",
+        "code": "Itapiratins",
+        "name": "Itapiratins"
+    },
+    "BR-TO-d28935": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-d28935",
+        "code": "Itaporã do Tocantins",
+        "name": "Itaporã do Tocantins"
+    },
+    "BR-TO-c4d8c9": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-c4d8c9",
+        "code": "Jaú do Tocantins",
+        "name": "Jaú do Tocantins"
+    },
+    "BR-TO-3737f7": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-3737f7",
+        "code": "Juarina",
+        "name": "Juarina"
+    },
+    "BR-TO-3ffb7f": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-3ffb7f",
+        "code": "Lagoa da Confusão",
+        "name": "Lagoa da Confusão"
+    },
+    "BR-TO-517093": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-517093",
+        "code": "Lagoa do Tocantins",
+        "name": "Lagoa do Tocantins"
+    },
+    "BR-TO-7e9d3b": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-7e9d3b",
+        "code": "Lajeado",
+        "name": "Lajeado"
+    },
+    "BR-TO-75bf0f": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-75bf0f",
+        "code": "Lavandeira",
+        "name": "Lavandeira"
+    },
+    "BR-TO-3a62b7": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-3a62b7",
+        "code": "Lizarda",
+        "name": "Lizarda"
+    },
+    "BR-TO-dc3fef": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-dc3fef",
+        "code": "Luzinópolis",
+        "name": "Luzinópolis"
+    },
+    "BR-TO-3f7542": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-3f7542",
+        "code": "Marianópolis do Tocantins",
+        "name": "Marianópolis do Tocantins"
+    },
+    "BR-TO-19b47a": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-19b47a",
+        "code": "Mateiros",
+        "name": "Mateiros"
+    },
+    "BR-TO-576345": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-576345",
+        "code": "Maurilândia do Tocantins",
+        "name": "Maurilândia do Tocantins"
+    },
+    "BR-TO-2a29ca": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-2a29ca",
+        "code": "Miracema do Tocantins",
+        "name": "Miracema do Tocantins"
+    },
+    "BR-TO-ce34ba": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-ce34ba",
+        "code": "Miranorte",
+        "name": "Miranorte"
+    },
+    "BR-TO-e59219": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-e59219",
+        "code": "Monte do Carmo",
+        "name": "Monte do Carmo"
+    },
+    "BR-TO-413426": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-413426",
+        "code": "Monte Santo do Tocantins",
+        "name": "Monte Santo do Tocantins"
+    },
+    "BR-TO-953dd8": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-953dd8",
+        "code": "Muricilândia",
+        "name": "Muricilândia"
+    },
+    "BR-TO-64747c": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-64747c",
+        "code": "Natividade",
+        "name": "Natividade"
+    },
+    "BR-TO-10df7f": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-10df7f",
+        "code": "Nazaré",
+        "name": "Nazaré"
+    },
+    "BR-TO-2e1cf3": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-2e1cf3",
+        "code": "Nova Olinda",
+        "name": "Nova Olinda"
+    },
+    "BR-TO-90f4bf": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-90f4bf",
+        "code": "Nova Rosalândia",
+        "name": "Nova Rosalândia"
+    },
+    "BR-TO-97b803": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-97b803",
+        "code": "Novo Acordo",
+        "name": "Novo Acordo"
+    },
+    "BR-TO-234d1e": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-234d1e",
+        "code": "Novo Alegre",
+        "name": "Novo Alegre"
+    },
+    "BR-TO-ad80f1": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-ad80f1",
+        "code": "Novo Jardim",
+        "name": "Novo Jardim"
+    },
+    "BR-TO-92adc3": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-92adc3",
+        "code": "Oliveira de Fátima",
+        "name": "Oliveira de Fátima"
+    },
+    "BR-TO-5d4142": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-5d4142",
+        "code": "Palmas",
+        "name": "Palmas"
+    },
+    "BR-TO-0464ba": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-0464ba",
+        "code": "Palmeirante",
+        "name": "Palmeirante"
+    },
+    "BR-TO-c1f859": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-c1f859",
+        "code": "Palmeiras do Tocantins",
+        "name": "Palmeiras do Tocantins"
+    },
+    "BR-TO-e2f122": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-e2f122",
+        "code": "Palmeirópolis",
+        "name": "Palmeirópolis"
+    },
+    "BR-TO-53981b": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-53981b",
+        "code": "Paraíso do Tocantins",
+        "name": "Paraíso do Tocantins"
+    },
+    "BR-TO-8d3944": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-8d3944",
+        "code": "Paraná",
+        "name": "Paraná"
+    },
+    "BR-TO-e3bb9e": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-e3bb9e",
+        "code": "Pau D'Arco",
+        "name": "Pau D'Arco"
+    },
+    "BR-TO-e0846b": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-e0846b",
+        "code": "Pedro Afonso",
+        "name": "Pedro Afonso"
+    },
+    "BR-TO-0f1274": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-0f1274",
+        "code": "Peixe",
+        "name": "Peixe"
+    },
+    "BR-TO-5ba66f": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-5ba66f",
+        "code": "Pequizeiro",
+        "name": "Pequizeiro"
+    },
+    "BR-TO-6f0474": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-6f0474",
+        "code": "Pindorama do Tocantins",
+        "name": "Pindorama do Tocantins"
+    },
+    "BR-TO-cf0d9d": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-cf0d9d",
+        "code": "Piraquê",
+        "name": "Piraquê"
+    },
+    "BR-TO-756952": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-756952",
+        "code": "Pium",
+        "name": "Pium"
+    },
+    "BR-TO-17142c": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-17142c",
+        "code": "Ponte Alta do Bom Jesus",
+        "name": "Ponte Alta do Bom Jesus"
+    },
+    "BR-TO-e8f305": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-e8f305",
+        "code": "Ponte Alta do Tocantins",
+        "name": "Ponte Alta do Tocantins"
+    },
+    "BR-TO-1c6dfd": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-1c6dfd",
+        "code": "Porto Alegre do Tocantins",
+        "name": "Porto Alegre do Tocantins"
+    },
+    "BR-TO-8b18e8": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-8b18e8",
+        "code": "Porto Nacional",
+        "name": "Porto Nacional"
+    },
+    "BR-TO-2e1825": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-2e1825",
+        "code": "Praia Norte",
+        "name": "Praia Norte"
+    },
+    "BR-TO-cc242d": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-cc242d",
+        "code": "Presidente Kennedy",
+        "name": "Presidente Kennedy"
+    },
+    "BR-TO-97570f": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-97570f",
+        "code": "Pugmil",
+        "name": "Pugmil"
+    },
+    "BR-TO-5172c0": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-5172c0",
+        "code": "Recursolândia",
+        "name": "Recursolândia"
+    },
+    "BR-TO-10a923": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-10a923",
+        "code": "Riachinho",
+        "name": "Riachinho"
+    },
+    "BR-TO-c329d3": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-c329d3",
+        "code": "Rio da Conceição",
+        "name": "Rio da Conceição"
+    },
+    "BR-TO-8171f3": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-8171f3",
+        "code": "Rio dos Bois",
+        "name": "Rio dos Bois"
+    },
+    "BR-TO-471eff": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-471eff",
+        "code": "Rio Sono",
+        "name": "Rio Sono"
+    },
+    "BR-TO-5dbc7c": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-5dbc7c",
+        "code": "Sampaio",
+        "name": "Sampaio"
+    },
+    "BR-TO-e1515a": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-e1515a",
+        "code": "Sandolândia",
+        "name": "Sandolândia"
+    },
+    "BR-TO-9172b6": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-9172b6",
+        "code": "Santa Fé do Araguaia",
+        "name": "Santa Fé do Araguaia"
+    },
+    "BR-TO-93f768": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-93f768",
+        "code": "Santa Maria do Tocantins",
+        "name": "Santa Maria do Tocantins"
+    },
+    "BR-TO-6dfa63": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-6dfa63",
+        "code": "Santa Rita do Tocantins",
+        "name": "Santa Rita do Tocantins"
+    },
+    "BR-TO-0cf225": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-0cf225",
+        "code": "Santa Rosa do Tocantins",
+        "name": "Santa Rosa do Tocantins"
+    },
+    "BR-TO-fbdd6c": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-fbdd6c",
+        "code": "Santa Tereza do Tocantins",
+        "name": "Santa Tereza do Tocantins"
+    },
+    "BR-TO-066b93": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-066b93",
+        "code": "Santa Terezinha do Tocantins",
+        "name": "Santa Terezinha do Tocantins"
+    },
+    "BR-TO-71963d": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-71963d",
+        "code": "São Bento do Tocantins",
+        "name": "São Bento do Tocantins"
+    },
+    "BR-TO-45f42e": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-45f42e",
+        "code": "São Félix do Tocantins",
+        "name": "São Félix do Tocantins"
+    },
+    "BR-TO-e0f078": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-e0f078",
+        "code": "São Miguel do Tocantins",
+        "name": "São Miguel do Tocantins"
+    },
+    "BR-TO-fbe1fb": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-fbe1fb",
+        "code": "São Salvador do Tocantins",
+        "name": "São Salvador do Tocantins"
+    },
+    "BR-TO-84d803": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-84d803",
+        "code": "São Sebastião do Tocantins",
+        "name": "São Sebastião do Tocantins"
+    },
+    "BR-TO-960e9a": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-960e9a",
+        "code": "São Valério da Natividade",
+        "name": "São Valério da Natividade"
+    },
+    "BR-TO-664abb": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-664abb",
+        "code": "Silvanópolis",
+        "name": "Silvanópolis"
+    },
+    "BR-TO-9fc1fe": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-9fc1fe",
+        "code": "Sítio Novo do Tocantins",
+        "name": "Sítio Novo do Tocantins"
+    },
+    "BR-TO-0d84db": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-0d84db",
+        "code": "Sucupira",
+        "name": "Sucupira"
+    },
+    "BR-TO-6e7dc4": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-6e7dc4",
+        "code": "Taguatinga",
+        "name": "Taguatinga"
+    },
+    "BR-TO-dcf2c7": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-dcf2c7",
+        "code": "Taipas do Tocantins",
+        "name": "Taipas do Tocantins"
+    },
+    "BR-TO-e9c448": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-e9c448",
+        "code": "Talisma",
+        "name": "Talisma"
+    },
+    "BR-TO-a8cf15": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-a8cf15",
+        "code": "Tocantínia",
+        "name": "Tocantínia"
+    },
+    "BR-TO-91def0": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-91def0",
+        "code": "Tocantinópolis",
+        "name": "Tocantinópolis"
+    },
+    "BR-TO-01a1e0": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-01a1e0",
+        "code": "Tupirama",
+        "name": "Tupirama"
+    },
+    "BR-TO-1d7780": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-1d7780",
+        "code": "Tupiratins",
+        "name": "Tupiratins"
+    },
+    "BR-TO-65875c": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-65875c",
+        "code": "Wanderlândia",
+        "name": "Wanderlândia"
+    },
+    "BR-TO-8a5a30": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-TO",
+        "id": "BR-TO-8a5a30",
+        "code": "Xambioá",
+        "name": "Xambioá"
+    }
+}

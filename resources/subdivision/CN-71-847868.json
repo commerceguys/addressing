@@ -1,0 +1,184 @@
+{
+    "CN-71-847868-04f542": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-847868",
+        "id": "CN-71-847868-04f542",
+        "code": "東沙島",
+        "name": "Dongsha Island",
+        "postal_code_pattern": "817",
+        "translations": {
+            "zh-hans": {
+                "name": "東沙島"
+            }
+        }
+    },
+    "CN-71-847868-f1a3a4": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-847868",
+        "id": "CN-71-847868-f1a3a4",
+        "code": "鼓山區",
+        "name": "Gushan District",
+        "postal_code_pattern": "804",
+        "translations": {
+            "zh-hans": {
+                "name": "鼓山區"
+            }
+        }
+    },
+    "CN-71-847868-04f8fc": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-847868",
+        "id": "CN-71-847868-04f8fc",
+        "code": "苓雅區",
+        "name": "Lingya District",
+        "postal_code_pattern": "802",
+        "translations": {
+            "zh-hans": {
+                "name": "苓雅區"
+            }
+        }
+    },
+    "CN-71-847868-b05071": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-847868",
+        "id": "CN-71-847868-b05071",
+        "code": "南沙島",
+        "name": "Nansha Island",
+        "postal_code_pattern": "819",
+        "translations": {
+            "zh-hans": {
+                "name": "南沙島"
+            }
+        }
+    },
+    "CN-71-847868-0dd81a": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-847868",
+        "id": "CN-71-847868-0dd81a",
+        "code": "楠梓區",
+        "name": "Nanzih District",
+        "postal_code_pattern": "811",
+        "translations": {
+            "zh-hans": {
+                "name": "楠梓區"
+            }
+        }
+    },
+    "CN-71-847868-38deb5": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-847868",
+        "id": "CN-71-847868-38deb5",
+        "code": "旗津區",
+        "name": "Cijin District",
+        "postal_code_pattern": "805",
+        "translations": {
+            "zh-hans": {
+                "name": "旗津區"
+            }
+        }
+    },
+    "CN-71-847868-e3c281": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-847868",
+        "id": "CN-71-847868-e3c281",
+        "code": "前金區",
+        "name": "Cianjin District",
+        "postal_code_pattern": "801",
+        "translations": {
+            "zh-hans": {
+                "name": "前金區"
+            }
+        }
+    },
+    "CN-71-847868-c12d22": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-847868",
+        "id": "CN-71-847868-c12d22",
+        "code": "前鎮區",
+        "name": "Cianjhen District",
+        "postal_code_pattern": "806",
+        "translations": {
+            "zh-hans": {
+                "name": "前鎮區"
+            }
+        }
+    },
+    "CN-71-847868-a4da5e": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-847868",
+        "id": "CN-71-847868-a4da5e",
+        "code": "三民區",
+        "name": "Sanmin District",
+        "postal_code_pattern": "807",
+        "translations": {
+            "zh-hans": {
+                "name": "三民區"
+            }
+        }
+    },
+    "CN-71-847868-7c855b": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-847868",
+        "id": "CN-71-847868-7c855b",
+        "code": "小港區",
+        "name": "Siaogang District",
+        "postal_code_pattern": "812",
+        "translations": {
+            "zh-hans": {
+                "name": "小港區"
+            }
+        }
+    },
+    "CN-71-847868-001904": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-847868",
+        "id": "CN-71-847868-001904",
+        "code": "新興區",
+        "name": "Sinsing District",
+        "postal_code_pattern": "800",
+        "translations": {
+            "zh-hans": {
+                "name": "新興區"
+            }
+        }
+    },
+    "CN-71-847868-974cbd": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-847868",
+        "id": "CN-71-847868-974cbd",
+        "code": "鹽埕區",
+        "name": "Yancheng District",
+        "postal_code_pattern": "803",
+        "translations": {
+            "zh-hans": {
+                "name": "鹽埕區"
+            }
+        }
+    },
+    "CN-71-847868-507b95": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-847868",
+        "id": "CN-71-847868-507b95",
+        "code": "左營區",
+        "name": "Zuoying District",
+        "postal_code_pattern": "813",
+        "translations": {
+            "zh-hans": {
+                "name": "左營區"
+            }
+        }
+    }
+}

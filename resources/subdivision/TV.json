@@ -1,0 +1,74 @@
+{
+    "TV-FUN": {
+        "locale": "tyv",
+        "country_code": "TV",
+        "parent_id": null,
+        "id": "TV-FUN",
+        "code": "FUNAFUTI",
+        "name": "FUNAFUTI"
+    },
+    "TV-NMG": {
+        "locale": "tyv",
+        "country_code": "TV",
+        "parent_id": null,
+        "id": "TV-NMG",
+        "code": "NANUMANGA",
+        "name": "NANUMANGA"
+    },
+    "TV-NMA": {
+        "locale": "tyv",
+        "country_code": "TV",
+        "parent_id": null,
+        "id": "TV-NMA",
+        "code": "NANUMEA",
+        "name": "NANUMEA"
+    },
+    "TV-05b851": {
+        "locale": "tyv",
+        "country_code": "TV",
+        "parent_id": null,
+        "id": "TV-05b851",
+        "code": "NIULAKITA",
+        "name": "NIULAKITA"
+    },
+    "TV-NIT": {
+        "locale": "tyv",
+        "country_code": "TV",
+        "parent_id": null,
+        "id": "TV-NIT",
+        "code": "NIUTAO",
+        "name": "NIUTAO"
+    },
+    "TV-NUI": {
+        "locale": "tyv",
+        "country_code": "TV",
+        "parent_id": null,
+        "id": "TV-NUI",
+        "code": "NUI",
+        "name": "NUI"
+    },
+    "TV-NKF": {
+        "locale": "tyv",
+        "country_code": "TV",
+        "parent_id": null,
+        "id": "TV-NKF",
+        "code": "NUKUFETAU",
+        "name": "NUKUFETAU"
+    },
+    "TV-NKL": {
+        "locale": "tyv",
+        "country_code": "TV",
+        "parent_id": null,
+        "id": "TV-NKL",
+        "code": "NUKULAELAE",
+        "name": "NUKULAELAE"
+    },
+    "TV-VAI": {
+        "locale": "tyv",
+        "country_code": "TV",
+        "parent_id": null,
+        "id": "TV-VAI",
+        "code": "VAITUPU",
+        "name": "VAITUPU"
+    }
+}

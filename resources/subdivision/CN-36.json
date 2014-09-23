@@ -1,0 +1,156 @@
+{
+    "CN-36-30572a": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-36",
+        "id": "CN-36-30572a",
+        "code": "抚州市",
+        "name": "Fuzhou Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "抚州市"
+            }
+        },
+        "has_children": true
+    },
+    "CN-36-0a0b00": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-36",
+        "id": "CN-36-0a0b00",
+        "code": "赣州市",
+        "name": "Ganzhou Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "赣州市"
+            }
+        },
+        "has_children": true
+    },
+    "CN-36-df3a6c": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-36",
+        "id": "CN-36-df3a6c",
+        "code": "吉安市",
+        "name": "Ji'an Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "吉安市"
+            }
+        },
+        "has_children": true
+    },
+    "CN-36-d29d26": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-36",
+        "id": "CN-36-d29d26",
+        "code": "景德镇市",
+        "name": "Jingdezhen Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "景德镇市"
+            }
+        },
+        "has_children": true
+    },
+    "CN-36-38bb59": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-36",
+        "id": "CN-36-38bb59",
+        "code": "九江市",
+        "name": "Jiujiang Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "九江市"
+            }
+        },
+        "has_children": true
+    },
+    "CN-36-65ceb4": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-36",
+        "id": "CN-36-65ceb4",
+        "code": "南昌市",
+        "name": "Nanchang Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "南昌市"
+            }
+        },
+        "has_children": true
+    },
+    "CN-36-4650f7": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-36",
+        "id": "CN-36-4650f7",
+        "code": "萍乡市",
+        "name": "Pingxiang Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "萍乡市"
+            }
+        },
+        "has_children": true
+    },
+    "CN-36-787f03": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-36",
+        "id": "CN-36-787f03",
+        "code": "上饶市",
+        "name": "Shangrao Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "上饶市"
+            }
+        },
+        "has_children": true
+    },
+    "CN-36-a00f8c": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-36",
+        "id": "CN-36-a00f8c",
+        "code": "新余市",
+        "name": "Xinyu Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "新余市"
+            }
+        },
+        "has_children": true
+    },
+    "CN-36-d9c097": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-36",
+        "id": "CN-36-d9c097",
+        "code": "宜春市",
+        "name": "Yichun shi",
+        "translations": {
+            "zh-hans": {
+                "name": "宜春市"
+            }
+        },
+        "has_children": true
+    },
+    "CN-36-08bef3": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-36",
+        "id": "CN-36-08bef3",
+        "code": "鹰潭市",
+        "name": "Yingtan Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "鹰潭市"
+            }
+        },
+        "has_children": true
+    }
+}

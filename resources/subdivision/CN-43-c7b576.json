@@ -1,0 +1,119 @@
+{
+    "CN-43-c7b576-130c2d": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-43-c7b576",
+        "id": "CN-43-c7b576-130c2d",
+        "code": "安乡县",
+        "name": "Anxiang Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "安乡县"
+            }
+        }
+    },
+    "CN-43-c7b576-6c40ae": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-43-c7b576",
+        "id": "CN-43-c7b576-6c40ae",
+        "code": "鼎城区",
+        "name": "Dingcheng Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "鼎城区"
+            }
+        }
+    },
+    "CN-43-c7b576-ff38fc": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-43-c7b576",
+        "id": "CN-43-c7b576-ff38fc",
+        "code": "汉寿县",
+        "name": "Hanshou Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "汉寿县"
+            }
+        }
+    },
+    "CN-43-c7b576-039da1": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-43-c7b576",
+        "id": "CN-43-c7b576-039da1",
+        "code": "津市市",
+        "name": "Jinshi Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "津市市"
+            }
+        }
+    },
+    "CN-43-c7b576-3b1075": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-43-c7b576",
+        "id": "CN-43-c7b576-3b1075",
+        "code": "澧县",
+        "name": "Li Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "澧县"
+            }
+        }
+    },
+    "CN-43-c7b576-b385f0": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-43-c7b576",
+        "id": "CN-43-c7b576-b385f0",
+        "code": "临澧县",
+        "name": "Linli Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "临澧县"
+            }
+        }
+    },
+    "CN-43-c7b576-261c87": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-43-c7b576",
+        "id": "CN-43-c7b576-261c87",
+        "code": "石门县",
+        "name": "Shimen Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "石门县"
+            }
+        }
+    },
+    "CN-43-c7b576-0974b3": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-43-c7b576",
+        "id": "CN-43-c7b576-0974b3",
+        "code": "桃源县",
+        "name": "Taoyuan Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "桃源县"
+            }
+        }
+    },
+    "CN-43-c7b576-ad5e0c": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-43-c7b576",
+        "id": "CN-43-c7b576-ad5e0c",
+        "code": "武陵区",
+        "name": "Wuling Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "武陵区"
+            }
+        }
+    }
+}

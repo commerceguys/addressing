@@ -1,0 +1,41 @@
+{
+    "CN-36-08bef3-0a2ad1": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-36-08bef3",
+        "id": "CN-36-08bef3-0a2ad1",
+        "code": "贵溪市",
+        "name": "Guixi Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "贵溪市"
+            }
+        }
+    },
+    "CN-36-08bef3-c5994f": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-36-08bef3",
+        "id": "CN-36-08bef3-c5994f",
+        "code": "余江县",
+        "name": "Yujiang Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "余江县"
+            }
+        }
+    },
+    "CN-36-08bef3-bb2a21": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-36-08bef3",
+        "id": "CN-36-08bef3-bb2a21",
+        "code": "月湖区",
+        "name": "Yuehu Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "月湖区"
+            }
+        }
+    }
+}

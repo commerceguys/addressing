@@ -1,0 +1,93 @@
+{
+    "CN-23-a59ec0-29f581": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-23-a59ec0",
+        "id": "CN-23-a59ec0-29f581",
+        "code": "呼玛县",
+        "name": "Huma Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "呼玛县"
+            }
+        }
+    },
+    "CN-23-a59ec0-8370e0": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-23-a59ec0",
+        "id": "CN-23-a59ec0-8370e0",
+        "code": "呼中区",
+        "name": "Huzhong Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "呼中区"
+            }
+        }
+    },
+    "CN-23-a59ec0-b16f46": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-23-a59ec0",
+        "id": "CN-23-a59ec0-b16f46",
+        "code": "加格达奇区",
+        "name": "Jiagedaqi Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "加格达奇区"
+            }
+        }
+    },
+    "CN-23-a59ec0-60d644": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-23-a59ec0",
+        "id": "CN-23-a59ec0-60d644",
+        "code": "漠河县",
+        "name": "Mohe Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "漠河县"
+            }
+        }
+    },
+    "CN-23-a59ec0-57a7a8": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-23-a59ec0",
+        "id": "CN-23-a59ec0-57a7a8",
+        "code": "松岭区",
+        "name": "Songling Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "松岭区"
+            }
+        }
+    },
+    "CN-23-a59ec0-3ff88f": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-23-a59ec0",
+        "id": "CN-23-a59ec0-3ff88f",
+        "code": "塔河县",
+        "name": "Tahe Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "塔河县"
+            }
+        }
+    },
+    "CN-23-a59ec0-ca07cb": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-23-a59ec0",
+        "id": "CN-23-a59ec0-ca07cb",
+        "code": "新林区",
+        "name": "Xinlin Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "新林区"
+            }
+        }
+    }
+}

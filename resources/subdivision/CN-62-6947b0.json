@@ -1,0 +1,80 @@
+{
+    "CN-62-6947b0-8a1396": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-62-6947b0",
+        "id": "CN-62-6947b0-8a1396",
+        "code": "甘州区",
+        "name": "Ganzhou Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "甘州区"
+            }
+        }
+    },
+    "CN-62-6947b0-e2dbdd": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-62-6947b0",
+        "id": "CN-62-6947b0-e2dbdd",
+        "code": "高台县",
+        "name": "Gaotai Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "高台县"
+            }
+        }
+    },
+    "CN-62-6947b0-d8192b": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-62-6947b0",
+        "id": "CN-62-6947b0-d8192b",
+        "code": "临泽县",
+        "name": "Linze Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "临泽县"
+            }
+        }
+    },
+    "CN-62-6947b0-89be85": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-62-6947b0",
+        "id": "CN-62-6947b0-89be85",
+        "code": "民乐县",
+        "name": "Minle Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "民乐县"
+            }
+        }
+    },
+    "CN-62-6947b0-2ec5cd": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-62-6947b0",
+        "id": "CN-62-6947b0-2ec5cd",
+        "code": "山丹县",
+        "name": "Shandan Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "山丹县"
+            }
+        }
+    },
+    "CN-62-6947b0-27d75a": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-62-6947b0",
+        "id": "CN-62-6947b0-27d75a",
+        "code": "肃南裕固族自治县",
+        "name": "Sunan Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "肃南县"
+            }
+        }
+    }
+}

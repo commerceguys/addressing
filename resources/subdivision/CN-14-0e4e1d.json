@@ -1,0 +1,171 @@
+{
+    "CN-14-0e4e1d-3f85ae": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-14-0e4e1d",
+        "id": "CN-14-0e4e1d-3f85ae",
+        "code": "河津市",
+        "name": "Hejin Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "河津市"
+            }
+        }
+    },
+    "CN-14-0e4e1d-e1a6a5": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-14-0e4e1d",
+        "id": "CN-14-0e4e1d-e1a6a5",
+        "code": "稷山县",
+        "name": "Jishan Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "稷山县"
+            }
+        }
+    },
+    "CN-14-0e4e1d-4728c8": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-14-0e4e1d",
+        "id": "CN-14-0e4e1d-4728c8",
+        "code": "绛县",
+        "name": "Jiang Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "绛县"
+            }
+        }
+    },
+    "CN-14-0e4e1d-0290af": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-14-0e4e1d",
+        "id": "CN-14-0e4e1d-0290af",
+        "code": "临猗县",
+        "name": "Linyi Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "临猗县"
+            }
+        }
+    },
+    "CN-14-0e4e1d-682d83": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-14-0e4e1d",
+        "id": "CN-14-0e4e1d-682d83",
+        "code": "平陆县",
+        "name": "Pinglu Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "平陆县"
+            }
+        }
+    },
+    "CN-14-0e4e1d-73527a": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-14-0e4e1d",
+        "id": "CN-14-0e4e1d-73527a",
+        "code": "芮城县",
+        "name": "Ruicheng Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "芮城县"
+            }
+        }
+    },
+    "CN-14-0e4e1d-412729": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-14-0e4e1d",
+        "id": "CN-14-0e4e1d-412729",
+        "code": "万荣县",
+        "name": "Wanrong Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "万荣县"
+            }
+        }
+    },
+    "CN-14-0e4e1d-cce545": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-14-0e4e1d",
+        "id": "CN-14-0e4e1d-cce545",
+        "code": "闻喜县",
+        "name": "Wenxi Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "闻喜县"
+            }
+        }
+    },
+    "CN-14-0e4e1d-5645ee": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-14-0e4e1d",
+        "id": "CN-14-0e4e1d-5645ee",
+        "code": "夏县",
+        "name": "Xia Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "夏县"
+            }
+        }
+    },
+    "CN-14-0e4e1d-9acc54": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-14-0e4e1d",
+        "id": "CN-14-0e4e1d-9acc54",
+        "code": "新绛县",
+        "name": "Xinjiang Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "新绛县"
+            }
+        }
+    },
+    "CN-14-0e4e1d-f55ab0": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-14-0e4e1d",
+        "id": "CN-14-0e4e1d-f55ab0",
+        "code": "盐湖区",
+        "name": "Yanhu Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "盐湖区"
+            }
+        }
+    },
+    "CN-14-0e4e1d-983c8c": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-14-0e4e1d",
+        "id": "CN-14-0e4e1d-983c8c",
+        "code": "永济市",
+        "name": "Yongji Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "永济市"
+            }
+        }
+    },
+    "CN-14-0e4e1d-9ea9ee": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-14-0e4e1d",
+        "id": "CN-14-0e4e1d-9ea9ee",
+        "code": "垣曲县",
+        "name": "Yuanqu Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "垣曲县"
+            }
+        }
+    }
+}

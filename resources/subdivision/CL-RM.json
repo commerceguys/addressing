@@ -1,0 +1,418 @@
+{
+    "CL-RM-4cff9a": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-RM",
+        "id": "CL-RM-4cff9a",
+        "code": "Alhué",
+        "name": "Alhué"
+    },
+    "CL-RM-ab37eb": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-RM",
+        "id": "CL-RM-ab37eb",
+        "code": "Buin",
+        "name": "Buin"
+    },
+    "CL-RM-7e8de9": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-RM",
+        "id": "CL-RM-7e8de9",
+        "code": "Calera de Tango",
+        "name": "Calera de Tango"
+    },
+    "CL-RM-101dc1": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-RM",
+        "id": "CL-RM-101dc1",
+        "code": "Cerrillos",
+        "name": "Cerrillos"
+    },
+    "CL-RM-d4b995": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-RM",
+        "id": "CL-RM-d4b995",
+        "code": "Cerro Navia",
+        "name": "Cerro Navia"
+    },
+    "CL-RM-0b6f6c": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-RM",
+        "id": "CL-RM-0b6f6c",
+        "code": "Colina",
+        "name": "Colina"
+    },
+    "CL-RM-59646e": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-RM",
+        "id": "CL-RM-59646e",
+        "code": "Conchalí",
+        "name": "Conchalí"
+    },
+    "CL-RM-48382f": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-RM",
+        "id": "CL-RM-48382f",
+        "code": "Curacaví",
+        "name": "Curacaví"
+    },
+    "CL-RM-772b64": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-RM",
+        "id": "CL-RM-772b64",
+        "code": "El Bosque",
+        "name": "El Bosque"
+    },
+    "CL-RM-33e987": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-RM",
+        "id": "CL-RM-33e987",
+        "code": "El Monte",
+        "name": "El Monte"
+    },
+    "CL-RM-744666": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-RM",
+        "id": "CL-RM-744666",
+        "code": "Estación Central",
+        "name": "Estación Central"
+    },
+    "CL-RM-428f2f": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-RM",
+        "id": "CL-RM-428f2f",
+        "code": "Huechuraba",
+        "name": "Huechuraba"
+    },
+    "CL-RM-a07b13": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-RM",
+        "id": "CL-RM-a07b13",
+        "code": "Independencia",
+        "name": "Independencia"
+    },
+    "CL-RM-0c5944": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-RM",
+        "id": "CL-RM-0c5944",
+        "code": "Isla de Maipo",
+        "name": "Isla de Maipo"
+    },
+    "CL-RM-eae5e8": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-RM",
+        "id": "CL-RM-eae5e8",
+        "code": "La Cisterna",
+        "name": "La Cisterna"
+    },
+    "CL-RM-2160de": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-RM",
+        "id": "CL-RM-2160de",
+        "code": "La Florida",
+        "name": "La Florida"
+    },
+    "CL-RM-62201b": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-RM",
+        "id": "CL-RM-62201b",
+        "code": "La Granja",
+        "name": "La Granja"
+    },
+    "CL-RM-187e1a": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-RM",
+        "id": "CL-RM-187e1a",
+        "code": "La Pintana",
+        "name": "La Pintana"
+    },
+    "CL-RM-a3b3af": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-RM",
+        "id": "CL-RM-a3b3af",
+        "code": "La Reina",
+        "name": "La Reina"
+    },
+    "CL-RM-c29403": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-RM",
+        "id": "CL-RM-c29403",
+        "code": "Lampa",
+        "name": "Lampa"
+    },
+    "CL-RM-5b5cfc": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-RM",
+        "id": "CL-RM-5b5cfc",
+        "code": "Las Condes",
+        "name": "Las Condes"
+    },
+    "CL-RM-75cb91": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-RM",
+        "id": "CL-RM-75cb91",
+        "code": "Lo Barnechea",
+        "name": "Lo Barnechea"
+    },
+    "CL-RM-19b4e7": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-RM",
+        "id": "CL-RM-19b4e7",
+        "code": "Lo Espejo",
+        "name": "Lo Espejo"
+    },
+    "CL-RM-e787ee": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-RM",
+        "id": "CL-RM-e787ee",
+        "code": "Lo Prado",
+        "name": "Lo Prado"
+    },
+    "CL-RM-a5027e": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-RM",
+        "id": "CL-RM-a5027e",
+        "code": "Macul",
+        "name": "Macul"
+    },
+    "CL-RM-dff20e": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-RM",
+        "id": "CL-RM-dff20e",
+        "code": "Maipú",
+        "name": "Maipú"
+    },
+    "CL-RM-332a16": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-RM",
+        "id": "CL-RM-332a16",
+        "code": "María Pinto",
+        "name": "María Pinto"
+    },
+    "CL-RM-8a3ef0": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-RM",
+        "id": "CL-RM-8a3ef0",
+        "code": "Melipilla",
+        "name": "Melipilla"
+    },
+    "CL-RM-d78a71": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-RM",
+        "id": "CL-RM-d78a71",
+        "code": "Ñuñoa",
+        "name": "Ñuñoa"
+    },
+    "CL-RM-aeb344": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-RM",
+        "id": "CL-RM-aeb344",
+        "code": "Padre Hurtado",
+        "name": "Padre Hurtado"
+    },
+    "CL-RM-10c314": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-RM",
+        "id": "CL-RM-10c314",
+        "code": "Paine",
+        "name": "Paine"
+    },
+    "CL-RM-6155dc": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-RM",
+        "id": "CL-RM-6155dc",
+        "code": "Pedro Aguirre Cerda",
+        "name": "Pedro Aguirre Cerda"
+    },
+    "CL-RM-4338c7": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-RM",
+        "id": "CL-RM-4338c7",
+        "code": "Peñaflor",
+        "name": "Peñaflor"
+    },
+    "CL-RM-8ebac6": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-RM",
+        "id": "CL-RM-8ebac6",
+        "code": "Peñalolén",
+        "name": "Peñalolén"
+    },
+    "CL-RM-fa0f0d": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-RM",
+        "id": "CL-RM-fa0f0d",
+        "code": "Pirque",
+        "name": "Pirque"
+    },
+    "CL-RM-e745de": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-RM",
+        "id": "CL-RM-e745de",
+        "code": "Providencia",
+        "name": "Providencia"
+    },
+    "CL-RM-241f99": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-RM",
+        "id": "CL-RM-241f99",
+        "code": "Pudahuel",
+        "name": "Pudahuel"
+    },
+    "CL-RM-da73c4": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-RM",
+        "id": "CL-RM-da73c4",
+        "code": "Puente Alto",
+        "name": "Puente Alto"
+    },
+    "CL-RM-4eddec": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-RM",
+        "id": "CL-RM-4eddec",
+        "code": "Quilicura",
+        "name": "Quilicura"
+    },
+    "CL-RM-418d54": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-RM",
+        "id": "CL-RM-418d54",
+        "code": "Quinta Normal",
+        "name": "Quinta Normal"
+    },
+    "CL-RM-261f9a": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-RM",
+        "id": "CL-RM-261f9a",
+        "code": "Recoleta",
+        "name": "Recoleta"
+    },
+    "CL-RM-85cc49": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-RM",
+        "id": "CL-RM-85cc49",
+        "code": "Renca",
+        "name": "Renca"
+    },
+    "CL-RM-58e19a": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-RM",
+        "id": "CL-RM-58e19a",
+        "code": "San Bernardo",
+        "name": "San Bernardo"
+    },
+    "CL-RM-1b571f": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-RM",
+        "id": "CL-RM-1b571f",
+        "code": "San Joaquín",
+        "name": "San Joaquín"
+    },
+    "CL-RM-9192d1": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-RM",
+        "id": "CL-RM-9192d1",
+        "code": "San José de Maipo",
+        "name": "San José de Maipo"
+    },
+    "CL-RM-40e573": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-RM",
+        "id": "CL-RM-40e573",
+        "code": "San Miguel",
+        "name": "San Miguel"
+    },
+    "CL-RM-7b4226": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-RM",
+        "id": "CL-RM-7b4226",
+        "code": "San Pedro",
+        "name": "San Pedro"
+    },
+    "CL-RM-cbf228": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-RM",
+        "id": "CL-RM-cbf228",
+        "code": "San Ramón",
+        "name": "San Ramón"
+    },
+    "CL-RM-baab7f": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-RM",
+        "id": "CL-RM-baab7f",
+        "code": "Santiago",
+        "name": "Santiago"
+    },
+    "CL-RM-bf6d1e": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-RM",
+        "id": "CL-RM-bf6d1e",
+        "code": "Talagante",
+        "name": "Talagante"
+    },
+    "CL-RM-98e097": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-RM",
+        "id": "CL-RM-98e097",
+        "code": "Tiltil",
+        "name": "Tiltil"
+    },
+    "CL-RM-14bc6b": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-RM",
+        "id": "CL-RM-14bc6b",
+        "code": "Vitacura",
+        "name": "Vitacura"
+    }
+}

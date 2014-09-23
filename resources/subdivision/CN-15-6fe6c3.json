@@ -1,0 +1,106 @@
+{
+    "CN-15-6fe6c3-e439d9": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-15-6fe6c3",
+        "id": "CN-15-6fe6c3-e439d9",
+        "code": "霍林郭勒市",
+        "name": "Holingol Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "霍林郭勒市"
+            }
+        }
+    },
+    "CN-15-6fe6c3-bf2537": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-15-6fe6c3",
+        "id": "CN-15-6fe6c3-bf2537",
+        "code": "开鲁县",
+        "name": "Kailu Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "开鲁县"
+            }
+        }
+    },
+    "CN-15-6fe6c3-b44d2c": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-15-6fe6c3",
+        "id": "CN-15-6fe6c3-b44d2c",
+        "code": "科尔沁区",
+        "name": "Horqin Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "科尔沁区"
+            }
+        }
+    },
+    "CN-15-6fe6c3-10fef9": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-15-6fe6c3",
+        "id": "CN-15-6fe6c3-10fef9",
+        "code": "科尔沁左翼后旗",
+        "name": "Horqin Zuoyi Houqi",
+        "translations": {
+            "zh-hans": {
+                "name": "科尔沁左翼后旗"
+            }
+        }
+    },
+    "CN-15-6fe6c3-d6fe7c": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-15-6fe6c3",
+        "id": "CN-15-6fe6c3-d6fe7c",
+        "code": "科尔沁左翼中旗",
+        "name": "Horqin Zuoyi Zhongqi",
+        "translations": {
+            "zh-hans": {
+                "name": "科尔沁左翼中旗"
+            }
+        }
+    },
+    "CN-15-6fe6c3-0a713b": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-15-6fe6c3",
+        "id": "CN-15-6fe6c3-0a713b",
+        "code": "库伦旗",
+        "name": "Hure Qi",
+        "translations": {
+            "zh-hans": {
+                "name": "库伦旗"
+            }
+        }
+    },
+    "CN-15-6fe6c3-31b381": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-15-6fe6c3",
+        "id": "CN-15-6fe6c3-31b381",
+        "code": "奈曼旗",
+        "name": "Naiman Qi",
+        "translations": {
+            "zh-hans": {
+                "name": "奈曼旗"
+            }
+        }
+    },
+    "CN-15-6fe6c3-006cc6": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-15-6fe6c3",
+        "id": "CN-15-6fe6c3-006cc6",
+        "code": "扎鲁特旗",
+        "name": "Jarud Qi",
+        "translations": {
+            "zh-hans": {
+                "name": "扎鲁特旗"
+            }
+        }
+    }
+}

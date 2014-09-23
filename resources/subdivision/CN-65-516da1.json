@@ -1,0 +1,41 @@
+{
+    "CN-65-516da1-ddafa2": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-65-516da1",
+        "id": "CN-65-516da1-ddafa2",
+        "code": "博乐市",
+        "name": "Bole Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "博乐市"
+            }
+        }
+    },
+    "CN-65-516da1-240eaf": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-65-516da1",
+        "id": "CN-65-516da1-240eaf",
+        "code": "精河县",
+        "name": "Jinghe Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "精河县"
+            }
+        }
+    },
+    "CN-65-516da1-6d174d": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-65-516da1",
+        "id": "CN-65-516da1-6d174d",
+        "code": "温泉县",
+        "name": "Wenquan Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "温泉县"
+            }
+        }
+    }
+}

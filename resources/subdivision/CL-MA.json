@@ -1,0 +1,90 @@
+{
+    "CL-MA-27f9b1": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-MA",
+        "id": "CL-MA-27f9b1",
+        "code": "Antártica",
+        "name": "Antártica"
+    },
+    "CL-MA-359464": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-MA",
+        "id": "CL-MA-359464",
+        "code": "Cabo de Hornos",
+        "name": "Cabo de Hornos"
+    },
+    "CL-MA-7597a3": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-MA",
+        "id": "CL-MA-7597a3",
+        "code": "Laguna Blanca",
+        "name": "Laguna Blanca"
+    },
+    "CL-MA-3ceb5a": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-MA",
+        "id": "CL-MA-3ceb5a",
+        "code": "Natales",
+        "name": "Natales"
+    },
+    "CL-MA-749d64": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-MA",
+        "id": "CL-MA-749d64",
+        "code": "Porvenir",
+        "name": "Porvenir"
+    },
+    "CL-MA-326ff4": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-MA",
+        "id": "CL-MA-326ff4",
+        "code": "Primavera",
+        "name": "Primavera"
+    },
+    "CL-MA-518c87": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-MA",
+        "id": "CL-MA-518c87",
+        "code": "Punta Arenas",
+        "name": "Punta Arenas"
+    },
+    "CL-MA-012a48": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-MA",
+        "id": "CL-MA-012a48",
+        "code": "Río Verde",
+        "name": "Río Verde"
+    },
+    "CL-MA-d7c200": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-MA",
+        "id": "CL-MA-d7c200",
+        "code": "San Gregorio",
+        "name": "San Gregorio"
+    },
+    "CL-MA-93443b": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-MA",
+        "id": "CL-MA-93443b",
+        "code": "Timaukel",
+        "name": "Timaukel"
+    },
+    "CL-MA-657131": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-MA",
+        "id": "CL-MA-657131",
+        "code": "Torres del Paine",
+        "name": "Torres del Paine"
+    }
+}

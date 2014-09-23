@@ -1,0 +1,54 @@
+{
+    "CN-34-390cbf-194e58": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-34-390cbf",
+        "id": "CN-34-390cbf-194e58",
+        "code": "利辛县",
+        "name": "Lixin Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "利辛县"
+            }
+        }
+    },
+    "CN-34-390cbf-2deda0": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-34-390cbf",
+        "id": "CN-34-390cbf-2deda0",
+        "code": "蒙城县",
+        "name": "Mengcheng Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "蒙城县"
+            }
+        }
+    },
+    "CN-34-390cbf-2d70dd": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-34-390cbf",
+        "id": "CN-34-390cbf-2d70dd",
+        "code": "谯城区",
+        "name": "Qiaocheng Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "谯城区"
+            }
+        }
+    },
+    "CN-34-390cbf-efab02": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-34-390cbf",
+        "id": "CN-34-390cbf-efab02",
+        "code": "涡阳县",
+        "name": "Guoyang Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "涡阳县"
+            }
+        }
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "CN-22-c524c1-b8770c": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-22-c524c1",
+        "id": "CN-22-c524c1-b8770c",
+        "code": "东昌区",
+        "name": "Dongchang Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "东昌区"
+            }
+        }
+    },
+    "CN-22-c524c1-4bed2b": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-22-c524c1",
+        "id": "CN-22-c524c1-4bed2b",
+        "code": "二道江区",
+        "name": "Erdaojiang Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "二道江区"
+            }
+        }
+    },
+    "CN-22-c524c1-774b8a": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-22-c524c1",
+        "id": "CN-22-c524c1-774b8a",
+        "code": "辉南县",
+        "name": "Huinan Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "辉南县"
+            }
+        }
+    },
+    "CN-22-c524c1-009a46": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-22-c524c1",
+        "id": "CN-22-c524c1-009a46",
+        "code": "集安市",
+        "name": "Ji'an Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "集安市"
+            }
+        }
+    },
+    "CN-22-c524c1-5a8e09": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-22-c524c1",
+        "id": "CN-22-c524c1-5a8e09",
+        "code": "柳河县",
+        "name": "Liuhe Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "柳河县"
+            }
+        }
+    },
+    "CN-22-c524c1-f866b8": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-22-c524c1",
+        "id": "CN-22-c524c1-f866b8",
+        "code": "梅河口市",
+        "name": "Meihekou Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "梅河口市"
+            }
+        }
+    },
+    "CN-22-c524c1-656937": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-22-c524c1",
+        "id": "CN-22-c524c1-656937",
+        "code": "通化县",
+        "name": "Tonghua Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "通化县"
+            }
+        }
+    }
+}

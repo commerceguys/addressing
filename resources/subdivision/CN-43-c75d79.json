@@ -1,0 +1,67 @@
+{
+    "CN-43-c75d79-0430eb": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-43-c75d79",
+        "id": "CN-43-c75d79-0430eb",
+        "code": "韶山市",
+        "name": "Shaoshan Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "韶山市"
+            }
+        }
+    },
+    "CN-43-c75d79-dc6437": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-43-c75d79",
+        "id": "CN-43-c75d79-dc6437",
+        "code": "湘潭县",
+        "name": "Xiangtan Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "湘潭县"
+            }
+        }
+    },
+    "CN-43-c75d79-8765da": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-43-c75d79",
+        "id": "CN-43-c75d79-8765da",
+        "code": "湘乡市",
+        "name": "Xiangxiang Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "湘乡市"
+            }
+        }
+    },
+    "CN-43-c75d79-c0c86f": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-43-c75d79",
+        "id": "CN-43-c75d79-c0c86f",
+        "code": "雨湖区",
+        "name": "Yuhu Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "雨湖区"
+            }
+        }
+    },
+    "CN-43-c75d79-408ac3": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-43-c75d79",
+        "id": "CN-43-c75d79-408ac3",
+        "code": "岳塘区",
+        "name": "Yuetang Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "岳塘区"
+            }
+        }
+    }
+}

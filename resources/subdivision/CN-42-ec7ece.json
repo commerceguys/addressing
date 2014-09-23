@@ -1,0 +1,67 @@
+{
+    "CN-42-ec7ece-909863": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-42-ec7ece",
+        "id": "CN-42-ec7ece-909863",
+        "code": "东宝区",
+        "name": "Dongbao Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "东宝区"
+            }
+        }
+    },
+    "CN-42-ec7ece-584430": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-42-ec7ece",
+        "id": "CN-42-ec7ece-584430",
+        "code": "掇刀区",
+        "name": "Duodao Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "掇刀区"
+            }
+        }
+    },
+    "CN-42-ec7ece-d9ccf7": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-42-ec7ece",
+        "id": "CN-42-ec7ece-d9ccf7",
+        "code": "京山县",
+        "name": "Jingshan Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "京山县"
+            }
+        }
+    },
+    "CN-42-ec7ece-f75fbe": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-42-ec7ece",
+        "id": "CN-42-ec7ece-f75fbe",
+        "code": "沙洋县",
+        "name": "Shayang Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "沙洋县"
+            }
+        }
+    },
+    "CN-42-ec7ece-d1cd87": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-42-ec7ece",
+        "id": "CN-42-ec7ece-d1cd87",
+        "code": "钟祥市",
+        "name": "Zhongxiang Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "钟祥市"
+            }
+        }
+    }
+}

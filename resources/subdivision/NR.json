@@ -1,0 +1,114 @@
+{
+    "NR-01": {
+        "locale": "en",
+        "country_code": "NR",
+        "parent_id": null,
+        "id": "NR-01",
+        "code": "AIWO DISTRICT",
+        "name": "AIWO DISTRICT"
+    },
+    "NR-02": {
+        "locale": "en",
+        "country_code": "NR",
+        "parent_id": null,
+        "id": "NR-02",
+        "code": "ANABAR DISTRICT",
+        "name": "ANABAR DISTRICT"
+    },
+    "NR-03": {
+        "locale": "en",
+        "country_code": "NR",
+        "parent_id": null,
+        "id": "NR-03",
+        "code": "ANETAN DISTRICT",
+        "name": "ANETAN DISTRICT"
+    },
+    "NR-04": {
+        "locale": "en",
+        "country_code": "NR",
+        "parent_id": null,
+        "id": "NR-04",
+        "code": "ANIBARE DISTRICT",
+        "name": "ANIBARE DISTRICT"
+    },
+    "NR-05": {
+        "locale": "en",
+        "country_code": "NR",
+        "parent_id": null,
+        "id": "NR-05",
+        "code": "BAITI DISTRICT",
+        "name": "BAITI DISTRICT"
+    },
+    "NR-06": {
+        "locale": "en",
+        "country_code": "NR",
+        "parent_id": null,
+        "id": "NR-06",
+        "code": "BOE DISTRICT",
+        "name": "BOE DISTRICT"
+    },
+    "NR-07": {
+        "locale": "en",
+        "country_code": "NR",
+        "parent_id": null,
+        "id": "NR-07",
+        "code": "BUADA DISTRICT",
+        "name": "BUADA DISTRICT"
+    },
+    "NR-08": {
+        "locale": "en",
+        "country_code": "NR",
+        "parent_id": null,
+        "id": "NR-08",
+        "code": "DENIGOMODU DISTRICT",
+        "name": "DENIGOMODU DISTRICT"
+    },
+    "NR-09": {
+        "locale": "en",
+        "country_code": "NR",
+        "parent_id": null,
+        "id": "NR-09",
+        "code": "EWA DISTRICT",
+        "name": "EWA DISTRICT"
+    },
+    "NR-10": {
+        "locale": "en",
+        "country_code": "NR",
+        "parent_id": null,
+        "id": "NR-10",
+        "code": "IJUW DISTRICT",
+        "name": "IJUW DISTRICT"
+    },
+    "NR-11": {
+        "locale": "en",
+        "country_code": "NR",
+        "parent_id": null,
+        "id": "NR-11",
+        "code": "MENENG DISTRICT",
+        "name": "MENENG DISTRICT"
+    },
+    "NR-12": {
+        "locale": "en",
+        "country_code": "NR",
+        "parent_id": null,
+        "id": "NR-12",
+        "code": "NIBOK DISTRICT",
+        "name": "NIBOK DISTRICT"
+    },
+    "NR-13": {
+        "locale": "en",
+        "country_code": "NR",
+        "parent_id": null,
+        "id": "NR-13",
+        "code": "UABOE DISTRICT",
+        "name": "UABOE DISTRICT"
+    },
+    "NR-14": {
+        "locale": "en",
+        "country_code": "NR",
+        "parent_id": null,
+        "id": "NR-14",
+        "code": "YAREN DISTRICT",
+        "name": "YAREN DISTRICT"
+    }
+}

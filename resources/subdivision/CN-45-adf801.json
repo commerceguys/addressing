@@ -1,0 +1,223 @@
+{
+    "CN-45-adf801-228c18": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-45-adf801",
+        "id": "CN-45-adf801-228c18",
+        "code": "叠彩区",
+        "name": "Diecai Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "叠彩区"
+            }
+        }
+    },
+    "CN-45-adf801-983b17": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-45-adf801",
+        "id": "CN-45-adf801-983b17",
+        "code": "恭城瑶族自治县",
+        "name": "Gongcheng Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "恭城县"
+            }
+        }
+    },
+    "CN-45-adf801-509794": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-45-adf801",
+        "id": "CN-45-adf801-509794",
+        "code": "灌阳县",
+        "name": "Guanyang Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "灌阳县"
+            }
+        }
+    },
+    "CN-45-adf801-544815": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-45-adf801",
+        "id": "CN-45-adf801-544815",
+        "code": "荔浦县",
+        "name": "Lipu Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "荔浦县"
+            }
+        }
+    },
+    "CN-45-adf801-8c9287": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-45-adf801",
+        "id": "CN-45-adf801-8c9287",
+        "code": "临桂县",
+        "name": "Lingui Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "临桂县"
+            }
+        }
+    },
+    "CN-45-adf801-da0674": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-45-adf801",
+        "id": "CN-45-adf801-da0674",
+        "code": "灵川县",
+        "name": "Lingchuan Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "灵川县"
+            }
+        }
+    },
+    "CN-45-adf801-565820": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-45-adf801",
+        "id": "CN-45-adf801-565820",
+        "code": "龙胜各族自治县",
+        "name": "Longsheng Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "龙胜县"
+            }
+        }
+    },
+    "CN-45-adf801-7c7a7a": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-45-adf801",
+        "id": "CN-45-adf801-7c7a7a",
+        "code": "平乐县",
+        "name": "Pingle Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "平乐县"
+            }
+        }
+    },
+    "CN-45-adf801-0d954d": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-45-adf801",
+        "id": "CN-45-adf801-0d954d",
+        "code": "七星区",
+        "name": "Qixing Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "七星区"
+            }
+        }
+    },
+    "CN-45-adf801-e0ec05": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-45-adf801",
+        "id": "CN-45-adf801-e0ec05",
+        "code": "全州县",
+        "name": "Quanzhou Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "全州县"
+            }
+        }
+    },
+    "CN-45-adf801-72032e": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-45-adf801",
+        "id": "CN-45-adf801-72032e",
+        "code": "象山区",
+        "name": "Xiangshan Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "象山区"
+            }
+        }
+    },
+    "CN-45-adf801-0b728c": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-45-adf801",
+        "id": "CN-45-adf801-0b728c",
+        "code": "兴安县",
+        "name": "Xing'an Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "兴安县"
+            }
+        }
+    },
+    "CN-45-adf801-5913ab": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-45-adf801",
+        "id": "CN-45-adf801-5913ab",
+        "code": "秀峰区",
+        "name": "Xiufeng Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "秀峰区"
+            }
+        }
+    },
+    "CN-45-adf801-6c25f2": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-45-adf801",
+        "id": "CN-45-adf801-6c25f2",
+        "code": "雁山区",
+        "name": "Yanshan Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "雁山区"
+            }
+        }
+    },
+    "CN-45-adf801-0aa9a4": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-45-adf801",
+        "id": "CN-45-adf801-0aa9a4",
+        "code": "阳朔县",
+        "name": "Yangshuo Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "阳朔县"
+            }
+        }
+    },
+    "CN-45-adf801-ee8718": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-45-adf801",
+        "id": "CN-45-adf801-ee8718",
+        "code": "永福县",
+        "name": "Yongfu Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "永福县"
+            }
+        }
+    },
+    "CN-45-adf801-895976": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-45-adf801",
+        "id": "CN-45-adf801-895976",
+        "code": "资源县",
+        "name": "Ziyuan Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "资源县"
+            }
+        }
+    }
+}

@@ -1,0 +1,470 @@
+{
+    "ES-C": {
+        "locale": "es",
+        "country_code": "ES",
+        "parent_id": null,
+        "id": "ES-C",
+        "code": "A Coruña",
+        "name": "A Coruña",
+        "postal_code_pattern": "15"
+    },
+    "ES-VI": {
+        "locale": "es",
+        "country_code": "ES",
+        "parent_id": null,
+        "id": "ES-VI",
+        "code": "Álava",
+        "name": "Álava",
+        "postal_code_pattern": "01"
+    },
+    "ES-AB": {
+        "locale": "es",
+        "country_code": "ES",
+        "parent_id": null,
+        "id": "ES-AB",
+        "code": "Albacete",
+        "name": "Albacete",
+        "postal_code_pattern": "02"
+    },
+    "ES-A": {
+        "locale": "es",
+        "country_code": "ES",
+        "parent_id": null,
+        "id": "ES-A",
+        "code": "Alicante",
+        "name": "Alicante",
+        "postal_code_pattern": "03"
+    },
+    "ES-AL": {
+        "locale": "es",
+        "country_code": "ES",
+        "parent_id": null,
+        "id": "ES-AL",
+        "code": "Almería",
+        "name": "Almería",
+        "postal_code_pattern": "04"
+    },
+    "ES-O": {
+        "locale": "es",
+        "country_code": "ES",
+        "parent_id": null,
+        "id": "ES-O",
+        "code": "Asturias",
+        "name": "Asturias",
+        "postal_code_pattern": "33"
+    },
+    "ES-AV": {
+        "locale": "es",
+        "country_code": "ES",
+        "parent_id": null,
+        "id": "ES-AV",
+        "code": "Ávila",
+        "name": "Ávila",
+        "postal_code_pattern": "05"
+    },
+    "ES-BA": {
+        "locale": "es",
+        "country_code": "ES",
+        "parent_id": null,
+        "id": "ES-BA",
+        "code": "Badajoz",
+        "name": "Badajoz",
+        "postal_code_pattern": "06"
+    },
+    "ES-B": {
+        "locale": "es",
+        "country_code": "ES",
+        "parent_id": null,
+        "id": "ES-B",
+        "code": "Barcelona",
+        "name": "Barcelona",
+        "postal_code_pattern": "08"
+    },
+    "ES-BU": {
+        "locale": "es",
+        "country_code": "ES",
+        "parent_id": null,
+        "id": "ES-BU",
+        "code": "Burgos",
+        "name": "Burgos",
+        "postal_code_pattern": "09"
+    },
+    "ES-CC": {
+        "locale": "es",
+        "country_code": "ES",
+        "parent_id": null,
+        "id": "ES-CC",
+        "code": "Cáceres",
+        "name": "Cáceres",
+        "postal_code_pattern": "10"
+    },
+    "ES-CA": {
+        "locale": "es",
+        "country_code": "ES",
+        "parent_id": null,
+        "id": "ES-CA",
+        "code": "Cádiz",
+        "name": "Cádiz",
+        "postal_code_pattern": "11"
+    },
+    "ES-S": {
+        "locale": "es",
+        "country_code": "ES",
+        "parent_id": null,
+        "id": "ES-S",
+        "code": "Cantabria",
+        "name": "Cantabria",
+        "postal_code_pattern": "39"
+    },
+    "ES-CS": {
+        "locale": "es",
+        "country_code": "ES",
+        "parent_id": null,
+        "id": "ES-CS",
+        "code": "Castellón",
+        "name": "Castellón",
+        "postal_code_pattern": "12"
+    },
+    "ES-CE": {
+        "locale": "es",
+        "country_code": "ES",
+        "parent_id": null,
+        "id": "ES-CE",
+        "code": "Ceuta",
+        "name": "Ceuta",
+        "postal_code_pattern": "51"
+    },
+    "ES-CR": {
+        "locale": "es",
+        "country_code": "ES",
+        "parent_id": null,
+        "id": "ES-CR",
+        "code": "Ciudad Real",
+        "name": "Ciudad Real",
+        "postal_code_pattern": "13"
+    },
+    "ES-CO": {
+        "locale": "es",
+        "country_code": "ES",
+        "parent_id": null,
+        "id": "ES-CO",
+        "code": "Córdoba",
+        "name": "Córdoba",
+        "postal_code_pattern": "14"
+    },
+    "ES-CU": {
+        "locale": "es",
+        "country_code": "ES",
+        "parent_id": null,
+        "id": "ES-CU",
+        "code": "Cuenca",
+        "name": "Cuenca",
+        "postal_code_pattern": "16"
+    },
+    "ES-GI": {
+        "locale": "es",
+        "country_code": "ES",
+        "parent_id": null,
+        "id": "ES-GI",
+        "code": "Girona",
+        "name": "Girona",
+        "postal_code_pattern": "17"
+    },
+    "ES-GR": {
+        "locale": "es",
+        "country_code": "ES",
+        "parent_id": null,
+        "id": "ES-GR",
+        "code": "Granada",
+        "name": "Granada",
+        "postal_code_pattern": "18"
+    },
+    "ES-GU": {
+        "locale": "es",
+        "country_code": "ES",
+        "parent_id": null,
+        "id": "ES-GU",
+        "code": "Guadalajara",
+        "name": "Guadalajara",
+        "postal_code_pattern": "19"
+    },
+    "ES-SS": {
+        "locale": "es",
+        "country_code": "ES",
+        "parent_id": null,
+        "id": "ES-SS",
+        "code": "Guipúzcoa",
+        "name": "Guipúzcoa",
+        "postal_code_pattern": "20"
+    },
+    "ES-H": {
+        "locale": "es",
+        "country_code": "ES",
+        "parent_id": null,
+        "id": "ES-H",
+        "code": "Huelva",
+        "name": "Huelva",
+        "postal_code_pattern": "21"
+    },
+    "ES-HU": {
+        "locale": "es",
+        "country_code": "ES",
+        "parent_id": null,
+        "id": "ES-HU",
+        "code": "Huesca",
+        "name": "Huesca",
+        "postal_code_pattern": "22"
+    },
+    "ES-PM": {
+        "locale": "es",
+        "country_code": "ES",
+        "parent_id": null,
+        "id": "ES-PM",
+        "code": "Islas Baleares",
+        "name": "Islas Baleares",
+        "postal_code_pattern": "07"
+    },
+    "ES-J": {
+        "locale": "es",
+        "country_code": "ES",
+        "parent_id": null,
+        "id": "ES-J",
+        "code": "Jaén",
+        "name": "Jaén",
+        "postal_code_pattern": "23"
+    },
+    "ES-LO": {
+        "locale": "es",
+        "country_code": "ES",
+        "parent_id": null,
+        "id": "ES-LO",
+        "code": "La Rioja",
+        "name": "La Rioja",
+        "postal_code_pattern": "26"
+    },
+    "ES-GC": {
+        "locale": "es",
+        "country_code": "ES",
+        "parent_id": null,
+        "id": "ES-GC",
+        "code": "Las Palmas",
+        "name": "Las Palmas",
+        "postal_code_pattern": "35"
+    },
+    "ES-LE": {
+        "locale": "es",
+        "country_code": "ES",
+        "parent_id": null,
+        "id": "ES-LE",
+        "code": "León",
+        "name": "León",
+        "postal_code_pattern": "24"
+    },
+    "ES-L": {
+        "locale": "es",
+        "country_code": "ES",
+        "parent_id": null,
+        "id": "ES-L",
+        "code": "Lleida",
+        "name": "Lleida",
+        "postal_code_pattern": "25"
+    },
+    "ES-LU": {
+        "locale": "es",
+        "country_code": "ES",
+        "parent_id": null,
+        "id": "ES-LU",
+        "code": "Lugo",
+        "name": "Lugo",
+        "postal_code_pattern": "27"
+    },
+    "ES-M": {
+        "locale": "es",
+        "country_code": "ES",
+        "parent_id": null,
+        "id": "ES-M",
+        "code": "Madrid",
+        "name": "Madrid",
+        "postal_code_pattern": "28"
+    },
+    "ES-MA": {
+        "locale": "es",
+        "country_code": "ES",
+        "parent_id": null,
+        "id": "ES-MA",
+        "code": "Málaga",
+        "name": "Málaga",
+        "postal_code_pattern": "29"
+    },
+    "ES-ML": {
+        "locale": "es",
+        "country_code": "ES",
+        "parent_id": null,
+        "id": "ES-ML",
+        "code": "Melilla",
+        "name": "Melilla",
+        "postal_code_pattern": "52"
+    },
+    "ES-MU": {
+        "locale": "es",
+        "country_code": "ES",
+        "parent_id": null,
+        "id": "ES-MU",
+        "code": "Murcia",
+        "name": "Murcia",
+        "postal_code_pattern": "30"
+    },
+    "ES-NA": {
+        "locale": "es",
+        "country_code": "ES",
+        "parent_id": null,
+        "id": "ES-NA",
+        "code": "Navarra",
+        "name": "Navarra",
+        "postal_code_pattern": "31"
+    },
+    "ES-OR": {
+        "locale": "es",
+        "country_code": "ES",
+        "parent_id": null,
+        "id": "ES-OR",
+        "code": "Ourense",
+        "name": "Ourense",
+        "postal_code_pattern": "32"
+    },
+    "ES-P": {
+        "locale": "es",
+        "country_code": "ES",
+        "parent_id": null,
+        "id": "ES-P",
+        "code": "Palencia",
+        "name": "Palencia",
+        "postal_code_pattern": "34"
+    },
+    "ES-PO": {
+        "locale": "es",
+        "country_code": "ES",
+        "parent_id": null,
+        "id": "ES-PO",
+        "code": "Pontevedra",
+        "name": "Pontevedra",
+        "postal_code_pattern": "36"
+    },
+    "ES-SA": {
+        "locale": "es",
+        "country_code": "ES",
+        "parent_id": null,
+        "id": "ES-SA",
+        "code": "Salamanca",
+        "name": "Salamanca",
+        "postal_code_pattern": "37"
+    },
+    "ES-TF": {
+        "locale": "es",
+        "country_code": "ES",
+        "parent_id": null,
+        "id": "ES-TF",
+        "code": "Santa Cruz de Tenerife",
+        "name": "Santa Cruz de Tenerife",
+        "postal_code_pattern": "38"
+    },
+    "ES-SG": {
+        "locale": "es",
+        "country_code": "ES",
+        "parent_id": null,
+        "id": "ES-SG",
+        "code": "Segovia",
+        "name": "Segovia",
+        "postal_code_pattern": "40"
+    },
+    "ES-SE": {
+        "locale": "es",
+        "country_code": "ES",
+        "parent_id": null,
+        "id": "ES-SE",
+        "code": "Sevilla",
+        "name": "Sevilla",
+        "postal_code_pattern": "41"
+    },
+    "ES-SO": {
+        "locale": "es",
+        "country_code": "ES",
+        "parent_id": null,
+        "id": "ES-SO",
+        "code": "Soria",
+        "name": "Soria",
+        "postal_code_pattern": "42"
+    },
+    "ES-T": {
+        "locale": "es",
+        "country_code": "ES",
+        "parent_id": null,
+        "id": "ES-T",
+        "code": "Tarragona",
+        "name": "Tarragona",
+        "postal_code_pattern": "43"
+    },
+    "ES-TE": {
+        "locale": "es",
+        "country_code": "ES",
+        "parent_id": null,
+        "id": "ES-TE",
+        "code": "Teruel",
+        "name": "Teruel",
+        "postal_code_pattern": "44"
+    },
+    "ES-TO": {
+        "locale": "es",
+        "country_code": "ES",
+        "parent_id": null,
+        "id": "ES-TO",
+        "code": "Toledo",
+        "name": "Toledo",
+        "postal_code_pattern": "45"
+    },
+    "ES-V": {
+        "locale": "es",
+        "country_code": "ES",
+        "parent_id": null,
+        "id": "ES-V",
+        "code": "Valencia",
+        "name": "Valencia",
+        "postal_code_pattern": "46"
+    },
+    "ES-VA": {
+        "locale": "es",
+        "country_code": "ES",
+        "parent_id": null,
+        "id": "ES-VA",
+        "code": "Valladolid",
+        "name": "Valladolid",
+        "postal_code_pattern": "47"
+    },
+    "ES-BI": {
+        "locale": "es",
+        "country_code": "ES",
+        "parent_id": null,
+        "id": "ES-BI",
+        "code": "Vizcaya",
+        "name": "Vizcaya",
+        "postal_code_pattern": "48"
+    },
+    "ES-ZA": {
+        "locale": "es",
+        "country_code": "ES",
+        "parent_id": null,
+        "id": "ES-ZA",
+        "code": "Zamora",
+        "name": "Zamora",
+        "postal_code_pattern": "49"
+    },
+    "ES-Z": {
+        "locale": "es",
+        "country_code": "ES",
+        "parent_id": null,
+        "id": "ES-Z",
+        "code": "Zaragoza",
+        "name": "Zaragoza",
+        "postal_code_pattern": "50"
+    }
+}

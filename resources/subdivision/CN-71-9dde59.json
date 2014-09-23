@@ -1,0 +1,86 @@
+{
+    "CN-71-9dde59-e30ad7": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-9dde59",
+        "id": "CN-71-9dde59-e30ad7",
+        "code": "安南區",
+        "name": "Annan District",
+        "postal_code_pattern": "709",
+        "translations": {
+            "zh-hans": {
+                "name": "安南區"
+            }
+        }
+    },
+    "CN-71-9dde59-a3c0cb": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-9dde59",
+        "id": "CN-71-9dde59-a3c0cb",
+        "code": "安平區",
+        "name": "Anping District",
+        "postal_code_pattern": "708",
+        "translations": {
+            "zh-hans": {
+                "name": "安平區"
+            }
+        }
+    },
+    "CN-71-9dde59-588007": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-9dde59",
+        "id": "CN-71-9dde59-588007",
+        "code": "北區",
+        "name": "North District",
+        "postal_code_pattern": "704",
+        "translations": {
+            "zh-hans": {
+                "name": "北區"
+            }
+        }
+    },
+    "CN-71-9dde59-adc709": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-9dde59",
+        "id": "CN-71-9dde59-adc709",
+        "code": "東區",
+        "name": "East District",
+        "postal_code_pattern": "701",
+        "translations": {
+            "zh-hans": {
+                "name": "東區"
+            }
+        }
+    },
+    "CN-71-9dde59-30ba64": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-9dde59",
+        "id": "CN-71-9dde59-30ba64",
+        "code": "南區",
+        "name": "South District",
+        "postal_code_pattern": "702",
+        "translations": {
+            "zh-hans": {
+                "name": "南區"
+            }
+        }
+    },
+    "CN-71-9dde59-09e297": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-9dde59",
+        "id": "CN-71-9dde59-09e297",
+        "code": "中西區",
+        "name": "West Central District",
+        "postal_code_pattern": "700",
+        "translations": {
+            "zh-hans": {
+                "name": "中西區"
+            }
+        }
+    }
+}

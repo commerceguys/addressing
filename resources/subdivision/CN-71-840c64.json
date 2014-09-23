@@ -1,0 +1,184 @@
+{
+    "CN-71-840c64-37edad": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-840c64",
+        "id": "CN-71-840c64-37edad",
+        "code": "八德市",
+        "name": "Bade City",
+        "postal_code_pattern": "334",
+        "translations": {
+            "zh-hans": {
+                "name": "八德市"
+            }
+        }
+    },
+    "CN-71-840c64-889910": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-840c64",
+        "id": "CN-71-840c64-889910",
+        "code": "大溪鎮",
+        "name": "Dasi Township",
+        "postal_code_pattern": "335",
+        "translations": {
+            "zh-hans": {
+                "name": "大溪鎮"
+            }
+        }
+    },
+    "CN-71-840c64-2d4504": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-840c64",
+        "id": "CN-71-840c64-2d4504",
+        "code": "大園鄉",
+        "name": "Dayuan Township",
+        "postal_code_pattern": "337",
+        "translations": {
+            "zh-hans": {
+                "name": "大園鄉"
+            }
+        }
+    },
+    "CN-71-840c64-ff5b9b": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-840c64",
+        "id": "CN-71-840c64-ff5b9b",
+        "code": "復興鄉",
+        "name": "Fusing Township",
+        "postal_code_pattern": "336",
+        "translations": {
+            "zh-hans": {
+                "name": "復興鄉"
+            }
+        }
+    },
+    "CN-71-840c64-a1e255": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-840c64",
+        "id": "CN-71-840c64-a1e255",
+        "code": "觀音鄉",
+        "name": "Guanyin Township",
+        "postal_code_pattern": "328",
+        "translations": {
+            "zh-hans": {
+                "name": "觀音鄉"
+            }
+        }
+    },
+    "CN-71-840c64-811efe": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-840c64",
+        "id": "CN-71-840c64-811efe",
+        "code": "龜山鄉",
+        "name": "Gueishan Township",
+        "postal_code_pattern": "333",
+        "translations": {
+            "zh-hans": {
+                "name": "龜山鄉"
+            }
+        }
+    },
+    "CN-71-840c64-c8801f": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-840c64",
+        "id": "CN-71-840c64-c8801f",
+        "code": "龍潭鄉",
+        "name": "Longtan Township",
+        "postal_code_pattern": "325",
+        "translations": {
+            "zh-hans": {
+                "name": "龍潭鄉"
+            }
+        }
+    },
+    "CN-71-840c64-4dd30d": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-840c64",
+        "id": "CN-71-840c64-4dd30d",
+        "code": "蘆竹鄉",
+        "name": "Lujhu Township",
+        "postal_code_pattern": "338",
+        "translations": {
+            "zh-hans": {
+                "name": "蘆竹鄉"
+            }
+        }
+    },
+    "CN-71-840c64-92a63c": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-840c64",
+        "id": "CN-71-840c64-92a63c",
+        "code": "平鎮市",
+        "name": "Pingjhen City",
+        "postal_code_pattern": "324",
+        "translations": {
+            "zh-hans": {
+                "name": "平鎮市"
+            }
+        }
+    },
+    "CN-71-840c64-a122c4": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-840c64",
+        "id": "CN-71-840c64-a122c4",
+        "code": "桃園市",
+        "name": "Taoyuan City",
+        "postal_code_pattern": "330",
+        "translations": {
+            "zh-hans": {
+                "name": "桃園市"
+            }
+        }
+    },
+    "CN-71-840c64-3792b2": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-840c64",
+        "id": "CN-71-840c64-3792b2",
+        "code": "新屋鄉",
+        "name": "Sinwu Township",
+        "postal_code_pattern": "327",
+        "translations": {
+            "zh-hans": {
+                "name": "新屋鄉"
+            }
+        }
+    },
+    "CN-71-840c64-00921a": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-840c64",
+        "id": "CN-71-840c64-00921a",
+        "code": "楊梅鎮",
+        "name": "Yangmei Township",
+        "postal_code_pattern": "326",
+        "translations": {
+            "zh-hans": {
+                "name": "楊梅鎮"
+            }
+        }
+    },
+    "CN-71-840c64-7db215": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-840c64",
+        "id": "CN-71-840c64-7db215",
+        "code": "中壢市",
+        "name": "Jhongli City",
+        "postal_code_pattern": "320",
+        "translations": {
+            "zh-hans": {
+                "name": "中壢市"
+            }
+        }
+    }
+}

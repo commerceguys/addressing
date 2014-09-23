@@ -1,0 +1,41 @@
+{
+    "CN-44-b4e4be-76be68": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44-b4e4be",
+        "id": "CN-44-b4e4be-76be68",
+        "code": "斗门区",
+        "name": "Doumen Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "斗门区"
+            }
+        }
+    },
+    "CN-44-b4e4be-c56488": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44-b4e4be",
+        "id": "CN-44-b4e4be-c56488",
+        "code": "金湾区",
+        "name": "Jinwan Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "金湾区"
+            }
+        }
+    },
+    "CN-44-b4e4be-35f5ea": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44-b4e4be",
+        "id": "CN-44-b4e4be-35f5ea",
+        "code": "香洲区",
+        "name": "Xiangzhou Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "香洲区"
+            }
+        }
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "CL-AI-d1a8f1": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AI",
+        "id": "CL-AI-d1a8f1",
+        "code": "Aysén",
+        "name": "Aysén"
+    },
+    "CL-AI-8be445": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AI",
+        "id": "CL-AI-8be445",
+        "code": "Chile Chico",
+        "name": "Chile Chico"
+    },
+    "CL-AI-417b31": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AI",
+        "id": "CL-AI-417b31",
+        "code": "Cisnes",
+        "name": "Cisnes"
+    },
+    "CL-AI-d3f537": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AI",
+        "id": "CL-AI-d3f537",
+        "code": "Cochrane",
+        "name": "Cochrane"
+    },
+    "CL-AI-dfceae": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AI",
+        "id": "CL-AI-dfceae",
+        "code": "Coyhaique",
+        "name": "Coyhaique"
+    },
+    "CL-AI-1b0ad4": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AI",
+        "id": "CL-AI-1b0ad4",
+        "code": "Guaitecas",
+        "name": "Guaitecas"
+    },
+    "CL-AI-4b667e": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AI",
+        "id": "CL-AI-4b667e",
+        "code": "Lago Verde",
+        "name": "Lago Verde"
+    },
+    "CL-AI-5f81e4": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AI",
+        "id": "CL-AI-5f81e4",
+        "code": "O'Higgins",
+        "name": "O'Higgins"
+    },
+    "CL-AI-99302d": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AI",
+        "id": "CL-AI-99302d",
+        "code": "Río Ibáñez",
+        "name": "Río Ibáñez"
+    },
+    "CL-AI-165879": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AI",
+        "id": "CL-AI-165879",
+        "code": "Tortel",
+        "name": "Tortel"
+    }
+}

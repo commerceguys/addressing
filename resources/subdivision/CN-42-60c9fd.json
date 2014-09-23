@@ -1,0 +1,93 @@
+{
+    "CN-42-60c9fd-89fecb": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-42-60c9fd",
+        "id": "CN-42-60c9fd-89fecb",
+        "code": "安陆市",
+        "name": "Anlu Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "安陆市"
+            }
+        }
+    },
+    "CN-42-60c9fd-08df66": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-42-60c9fd",
+        "id": "CN-42-60c9fd-08df66",
+        "code": "大悟县",
+        "name": "Dawu Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "大悟县"
+            }
+        }
+    },
+    "CN-42-60c9fd-0dd357": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-42-60c9fd",
+        "id": "CN-42-60c9fd-0dd357",
+        "code": "汉川市",
+        "name": "Hanchuan Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "汉川市"
+            }
+        }
+    },
+    "CN-42-60c9fd-76eb0d": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-42-60c9fd",
+        "id": "CN-42-60c9fd-76eb0d",
+        "code": "孝昌县",
+        "name": "Xiaochang Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "孝昌县"
+            }
+        }
+    },
+    "CN-42-60c9fd-6f56cf": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-42-60c9fd",
+        "id": "CN-42-60c9fd-6f56cf",
+        "code": "孝南区",
+        "name": "Xiaonan Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "孝南区"
+            }
+        }
+    },
+    "CN-42-60c9fd-8118a5": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-42-60c9fd",
+        "id": "CN-42-60c9fd-8118a5",
+        "code": "应城市",
+        "name": "Yingcheng Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "应城市"
+            }
+        }
+    },
+    "CN-42-60c9fd-940713": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-42-60c9fd",
+        "id": "CN-42-60c9fd-940713",
+        "code": "云梦县",
+        "name": "Yunmeng Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "云梦县"
+            }
+        }
+    }
+}

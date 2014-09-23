@@ -1,0 +1,119 @@
+{
+    "CN-41-093161-00a1a3": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-41-093161",
+        "id": "CN-41-093161-00a1a3",
+        "code": "梁园区",
+        "name": "Liangyuan Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "梁园区"
+            }
+        }
+    },
+    "CN-41-093161-47e1ae": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-41-093161",
+        "id": "CN-41-093161-47e1ae",
+        "code": "民权县",
+        "name": "Minquan Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "民权县"
+            }
+        }
+    },
+    "CN-41-093161-2abf68": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-41-093161",
+        "id": "CN-41-093161-2abf68",
+        "code": "宁陵县",
+        "name": "Ningling Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "宁陵县"
+            }
+        }
+    },
+    "CN-41-093161-450002": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-41-093161",
+        "id": "CN-41-093161-450002",
+        "code": "睢县",
+        "name": "Sui Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "睢县"
+            }
+        }
+    },
+    "CN-41-093161-be5cf3": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-41-093161",
+        "id": "CN-41-093161-be5cf3",
+        "code": "睢阳区",
+        "name": "Suiyang Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "睢阳区"
+            }
+        }
+    },
+    "CN-41-093161-12e546": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-41-093161",
+        "id": "CN-41-093161-12e546",
+        "code": "夏邑县",
+        "name": "Xiayi Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "夏邑县"
+            }
+        }
+    },
+    "CN-41-093161-d32168": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-41-093161",
+        "id": "CN-41-093161-d32168",
+        "code": "永城市",
+        "name": "Yongcheng Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "永城市"
+            }
+        }
+    },
+    "CN-41-093161-08a625": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-41-093161",
+        "id": "CN-41-093161-08a625",
+        "code": "虞城县",
+        "name": "Yucheng Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "虞城县"
+            }
+        }
+    },
+    "CN-41-093161-a36006": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-41-093161",
+        "id": "CN-41-093161-a36006",
+        "code": "柘城县",
+        "name": "Zhecheng Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "柘城县"
+            }
+        }
+    }
+}

@@ -1,0 +1,145 @@
+{
+    "CN-61-387696-37e5d2": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-61-387696",
+        "id": "CN-61-387696-37e5d2",
+        "code": "城固县",
+        "name": "Chenggu Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "城固县"
+            }
+        }
+    },
+    "CN-61-387696-6a1074": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-61-387696",
+        "id": "CN-61-387696-6a1074",
+        "code": "略阳县",
+        "name": "Lüeyang Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "略阳县"
+            }
+        }
+    },
+    "CN-61-387696-e00898": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-61-387696",
+        "id": "CN-61-387696-e00898",
+        "code": "佛坪县",
+        "name": "Foping Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "佛坪县"
+            }
+        }
+    },
+    "CN-61-387696-26a8ed": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-61-387696",
+        "id": "CN-61-387696-26a8ed",
+        "code": "汉台区",
+        "name": "Hantai Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "汉台区"
+            }
+        }
+    },
+    "CN-61-387696-6640fa": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-61-387696",
+        "id": "CN-61-387696-6640fa",
+        "code": "留坝县",
+        "name": "Liuba Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "留坝县"
+            }
+        }
+    },
+    "CN-61-387696-a676b5": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-61-387696",
+        "id": "CN-61-387696-a676b5",
+        "code": "勉县",
+        "name": "Mian Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "勉县"
+            }
+        }
+    },
+    "CN-61-387696-5840fd": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-61-387696",
+        "id": "CN-61-387696-5840fd",
+        "code": "南郑县",
+        "name": "Nanzheng Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "南郑县"
+            }
+        }
+    },
+    "CN-61-387696-afab0b": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-61-387696",
+        "id": "CN-61-387696-afab0b",
+        "code": "宁强县",
+        "name": "Ningqiang Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "宁强县"
+            }
+        }
+    },
+    "CN-61-387696-f25f56": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-61-387696",
+        "id": "CN-61-387696-f25f56",
+        "code": "西乡县",
+        "name": "Xixiang Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "西乡县"
+            }
+        }
+    },
+    "CN-61-387696-26e308": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-61-387696",
+        "id": "CN-61-387696-26e308",
+        "code": "洋县",
+        "name": "Yang Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "洋县"
+            }
+        }
+    },
+    "CN-61-387696-a03404": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-61-387696",
+        "id": "CN-61-387696-a03404",
+        "code": "镇巴县",
+        "name": "Zhenba Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "镇巴县"
+            }
+        }
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "CL-AT-f86abc": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AT",
+        "id": "CL-AT-f86abc",
+        "code": "Alto del Carmen",
+        "name": "Alto del Carmen"
+    },
+    "CL-AT-b38395": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AT",
+        "id": "CL-AT-b38395",
+        "code": "Caldera",
+        "name": "Caldera"
+    },
+    "CL-AT-081b93": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AT",
+        "id": "CL-AT-081b93",
+        "code": "Chañaral",
+        "name": "Chañaral"
+    },
+    "CL-AT-a87956": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AT",
+        "id": "CL-AT-a87956",
+        "code": "Copiapó",
+        "name": "Copiapó"
+    },
+    "CL-AT-cbdb96": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AT",
+        "id": "CL-AT-cbdb96",
+        "code": "Diego de Almagro",
+        "name": "Diego de Almagro"
+    },
+    "CL-AT-2623c7": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AT",
+        "id": "CL-AT-2623c7",
+        "code": "Freirina",
+        "name": "Freirina"
+    },
+    "CL-AT-4e3a26": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AT",
+        "id": "CL-AT-4e3a26",
+        "code": "Huasco",
+        "name": "Huasco"
+    },
+    "CL-AT-779b6c": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AT",
+        "id": "CL-AT-779b6c",
+        "code": "Tierra Amarilla",
+        "name": "Tierra Amarilla"
+    },
+    "CL-AT-6e8b7e": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-AT",
+        "id": "CL-AT-6e8b7e",
+        "code": "Vallenar",
+        "name": "Vallenar"
+    }
+}

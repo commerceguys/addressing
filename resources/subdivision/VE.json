@@ -1,0 +1,202 @@
+{
+    "VE-Z": {
+        "locale": "es",
+        "country_code": "VE",
+        "parent_id": null,
+        "id": "VE-Z",
+        "code": "Amazonas",
+        "name": "Amazonas"
+    },
+    "VE-B": {
+        "locale": "es",
+        "country_code": "VE",
+        "parent_id": null,
+        "id": "VE-B",
+        "code": "Anzoátegui",
+        "name": "Anzoátegui"
+    },
+    "VE-C": {
+        "locale": "es",
+        "country_code": "VE",
+        "parent_id": null,
+        "id": "VE-C",
+        "code": "Apure",
+        "name": "Apure"
+    },
+    "VE-D": {
+        "locale": "es",
+        "country_code": "VE",
+        "parent_id": null,
+        "id": "VE-D",
+        "code": "Aragua",
+        "name": "Aragua"
+    },
+    "VE-E": {
+        "locale": "es",
+        "country_code": "VE",
+        "parent_id": null,
+        "id": "VE-E",
+        "code": "Barinas",
+        "name": "Barinas"
+    },
+    "VE-F": {
+        "locale": "es",
+        "country_code": "VE",
+        "parent_id": null,
+        "id": "VE-F",
+        "code": "Bolívar",
+        "name": "Bolívar"
+    },
+    "VE-G": {
+        "locale": "es",
+        "country_code": "VE",
+        "parent_id": null,
+        "id": "VE-G",
+        "code": "Carabobo",
+        "name": "Carabobo"
+    },
+    "VE-H": {
+        "locale": "es",
+        "country_code": "VE",
+        "parent_id": null,
+        "id": "VE-H",
+        "code": "Cojedes",
+        "name": "Cojedes"
+    },
+    "VE-Y": {
+        "locale": "es",
+        "country_code": "VE",
+        "parent_id": null,
+        "id": "VE-Y",
+        "code": "Delta Amacuro",
+        "name": "Delta Amacuro"
+    },
+    "VE-W": {
+        "locale": "es",
+        "country_code": "VE",
+        "parent_id": null,
+        "id": "VE-W",
+        "code": "Dependencias Federales",
+        "name": "Dependencias Federales"
+    },
+    "VE-A": {
+        "locale": "es",
+        "country_code": "VE",
+        "parent_id": null,
+        "id": "VE-A",
+        "code": "Distrito Federal",
+        "name": "Distrito Federal"
+    },
+    "VE-I": {
+        "locale": "es",
+        "country_code": "VE",
+        "parent_id": null,
+        "id": "VE-I",
+        "code": "Falcón",
+        "name": "Falcón"
+    },
+    "VE-J": {
+        "locale": "es",
+        "country_code": "VE",
+        "parent_id": null,
+        "id": "VE-J",
+        "code": "Guárico",
+        "name": "Guárico"
+    },
+    "VE-K": {
+        "locale": "es",
+        "country_code": "VE",
+        "parent_id": null,
+        "id": "VE-K",
+        "code": "Lara",
+        "name": "Lara"
+    },
+    "VE-L": {
+        "locale": "es",
+        "country_code": "VE",
+        "parent_id": null,
+        "id": "VE-L",
+        "code": "Mérida",
+        "name": "Mérida"
+    },
+    "VE-M": {
+        "locale": "es",
+        "country_code": "VE",
+        "parent_id": null,
+        "id": "VE-M",
+        "code": "Miranda",
+        "name": "Miranda"
+    },
+    "VE-N": {
+        "locale": "es",
+        "country_code": "VE",
+        "parent_id": null,
+        "id": "VE-N",
+        "code": "Monagas",
+        "name": "Monagas"
+    },
+    "VE-O": {
+        "locale": "es",
+        "country_code": "VE",
+        "parent_id": null,
+        "id": "VE-O",
+        "code": "Nueva Esparta",
+        "name": "Nueva Esparta"
+    },
+    "VE-P": {
+        "locale": "es",
+        "country_code": "VE",
+        "parent_id": null,
+        "id": "VE-P",
+        "code": "Portuguesa",
+        "name": "Portuguesa"
+    },
+    "VE-R": {
+        "locale": "es",
+        "country_code": "VE",
+        "parent_id": null,
+        "id": "VE-R",
+        "code": "Sucre",
+        "name": "Sucre"
+    },
+    "VE-S": {
+        "locale": "es",
+        "country_code": "VE",
+        "parent_id": null,
+        "id": "VE-S",
+        "code": "Táchira",
+        "name": "Táchira"
+    },
+    "VE-T": {
+        "locale": "es",
+        "country_code": "VE",
+        "parent_id": null,
+        "id": "VE-T",
+        "code": "Trujillo",
+        "name": "Trujillo"
+    },
+    "VE-X": {
+        "locale": "es",
+        "country_code": "VE",
+        "parent_id": null,
+        "id": "VE-X",
+        "code": "Vargas",
+        "name": "Vargas"
+    },
+    "VE-U": {
+        "locale": "es",
+        "country_code": "VE",
+        "parent_id": null,
+        "id": "VE-U",
+        "code": "Yaracuy",
+        "name": "Yaracuy"
+    },
+    "VE-V": {
+        "locale": "es",
+        "country_code": "VE",
+        "parent_id": null,
+        "id": "VE-V",
+        "code": "Zulia",
+        "name": "Zulia"
+    }
+}

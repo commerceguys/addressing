@@ -1,0 +1,93 @@
+{
+    "CN-21-add646-5ec8f8": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-21-add646",
+        "id": "CN-21-add646-5ec8f8",
+        "code": "白塔区",
+        "name": "Baita Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "白塔区"
+            }
+        }
+    },
+    "CN-21-add646-4d67e8": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-21-add646",
+        "id": "CN-21-add646-4d67e8",
+        "code": "灯塔市",
+        "name": "Dengta Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "灯塔市"
+            }
+        }
+    },
+    "CN-21-add646-190a99": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-21-add646",
+        "id": "CN-21-add646-190a99",
+        "code": "弓长岭区",
+        "name": "Gongzhangling Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "弓长岭区"
+            }
+        }
+    },
+    "CN-21-add646-1d4b2b": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-21-add646",
+        "id": "CN-21-add646-1d4b2b",
+        "code": "宏伟区",
+        "name": "Hongwei Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "宏伟区"
+            }
+        }
+    },
+    "CN-21-add646-c1646f": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-21-add646",
+        "id": "CN-21-add646-c1646f",
+        "code": "辽阳县",
+        "name": "Liaoyang Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "辽阳县"
+            }
+        }
+    },
+    "CN-21-add646-92fb5e": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-21-add646",
+        "id": "CN-21-add646-92fb5e",
+        "code": "太子河区",
+        "name": "Taizihe Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "太子河区"
+            }
+        }
+    },
+    "CN-21-add646-fdf205": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-21-add646",
+        "id": "CN-21-add646-fdf205",
+        "code": "文圣区",
+        "name": "Wensheng Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "文圣区"
+            }
+        }
+    }
+}

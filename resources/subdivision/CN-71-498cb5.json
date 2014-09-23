@@ -1,0 +1,408 @@
+{
+    "CN-71-498cb5-68815d": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-498cb5",
+        "id": "CN-71-498cb5-68815d",
+        "code": "八里鄉",
+        "name": "Bali Township",
+        "postal_code_pattern": "249",
+        "translations": {
+            "zh-hans": {
+                "name": "八里鄉"
+            }
+        }
+    },
+    "CN-71-498cb5-a4a769": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-498cb5",
+        "id": "CN-71-498cb5-a4a769",
+        "code": "板橋市",
+        "name": "Banciao City",
+        "postal_code_pattern": "220",
+        "translations": {
+            "zh-hans": {
+                "name": "板橋市"
+            }
+        }
+    },
+    "CN-71-498cb5-db375c": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-498cb5",
+        "id": "CN-71-498cb5-db375c",
+        "code": "淡水鎮",
+        "name": "Danshuei Township",
+        "postal_code_pattern": "251",
+        "translations": {
+            "zh-hans": {
+                "name": "淡水鎮"
+            }
+        }
+    },
+    "CN-71-498cb5-64743c": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-498cb5",
+        "id": "CN-71-498cb5-64743c",
+        "code": "貢寮鄉",
+        "name": "Gongliao Township",
+        "postal_code_pattern": "228",
+        "translations": {
+            "zh-hans": {
+                "name": "貢寮鄉"
+            }
+        }
+    },
+    "CN-71-498cb5-8d64cd": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-498cb5",
+        "id": "CN-71-498cb5-8d64cd",
+        "code": "金山鄉",
+        "name": "Jinshan Township",
+        "postal_code_pattern": "208",
+        "translations": {
+            "zh-hans": {
+                "name": "金山鄉"
+            }
+        }
+    },
+    "CN-71-498cb5-b5cdac": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-498cb5",
+        "id": "CN-71-498cb5-b5cdac",
+        "code": "林口鄉",
+        "name": "Linkou Township",
+        "postal_code_pattern": "244",
+        "translations": {
+            "zh-hans": {
+                "name": "林口鄉"
+            }
+        }
+    },
+    "CN-71-498cb5-88a089": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-498cb5",
+        "id": "CN-71-498cb5-88a089",
+        "code": "蘆洲市",
+        "name": "Lujhou City",
+        "postal_code_pattern": "247",
+        "translations": {
+            "zh-hans": {
+                "name": "蘆洲市"
+            }
+        }
+    },
+    "CN-71-498cb5-36bcd8": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-498cb5",
+        "id": "CN-71-498cb5-36bcd8",
+        "code": "平溪鄉",
+        "name": "Pingsi Township",
+        "postal_code_pattern": "226",
+        "translations": {
+            "zh-hans": {
+                "name": "平溪鄉"
+            }
+        }
+    },
+    "CN-71-498cb5-017237": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-498cb5",
+        "id": "CN-71-498cb5-017237",
+        "code": "坪林鄉",
+        "name": "Pinglin Township",
+        "postal_code_pattern": "232",
+        "translations": {
+            "zh-hans": {
+                "name": "坪林鄉"
+            }
+        }
+    },
+    "CN-71-498cb5-e9b07d": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-498cb5",
+        "id": "CN-71-498cb5-e9b07d",
+        "code": "瑞芳鎮",
+        "name": "Rueifang Township",
+        "postal_code_pattern": "224",
+        "translations": {
+            "zh-hans": {
+                "name": "瑞芳鎮"
+            }
+        }
+    },
+    "CN-71-498cb5-649e0d": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-498cb5",
+        "id": "CN-71-498cb5-649e0d",
+        "code": "三峽鎮",
+        "name": "Sansia Township",
+        "postal_code_pattern": "237",
+        "translations": {
+            "zh-hans": {
+                "name": "三峽鎮"
+            }
+        }
+    },
+    "CN-71-498cb5-43f53f": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-498cb5",
+        "id": "CN-71-498cb5-43f53f",
+        "code": "三芝鄉",
+        "name": "Sanjhih Township",
+        "postal_code_pattern": "252",
+        "translations": {
+            "zh-hans": {
+                "name": "三芝鄉"
+            }
+        }
+    },
+    "CN-71-498cb5-619353": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-498cb5",
+        "id": "CN-71-498cb5-619353",
+        "code": "三重市",
+        "name": "Sanchong City",
+        "postal_code_pattern": "241",
+        "translations": {
+            "zh-hans": {
+                "name": "三重市"
+            }
+        }
+    },
+    "CN-71-498cb5-9d2cc5": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-498cb5",
+        "id": "CN-71-498cb5-9d2cc5",
+        "code": "深坑鄉",
+        "name": "Shenkeng Township",
+        "postal_code_pattern": "222",
+        "translations": {
+            "zh-hans": {
+                "name": "深坑鄉"
+            }
+        }
+    },
+    "CN-71-498cb5-dc95d4": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-498cb5",
+        "id": "CN-71-498cb5-dc95d4",
+        "code": "石碇鄉",
+        "name": "Shihding Township",
+        "postal_code_pattern": "223",
+        "translations": {
+            "zh-hans": {
+                "name": "石碇鄉"
+            }
+        }
+    },
+    "CN-71-498cb5-5d1a77": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-498cb5",
+        "id": "CN-71-498cb5-5d1a77",
+        "code": "石門鄉",
+        "name": "Shihmen Township",
+        "postal_code_pattern": "253",
+        "translations": {
+            "zh-hans": {
+                "name": "石門鄉"
+            }
+        }
+    },
+    "CN-71-498cb5-df01f0": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-498cb5",
+        "id": "CN-71-498cb5-df01f0",
+        "code": "樹林市",
+        "name": "Shulin City",
+        "postal_code_pattern": "238",
+        "translations": {
+            "zh-hans": {
+                "name": "樹林市"
+            }
+        }
+    },
+    "CN-71-498cb5-b29143": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-498cb5",
+        "id": "CN-71-498cb5-b29143",
+        "code": "雙溪鄉",
+        "name": "Shuangsi Township",
+        "postal_code_pattern": "227",
+        "translations": {
+            "zh-hans": {
+                "name": "雙溪鄉"
+            }
+        }
+    },
+    "CN-71-498cb5-d04d2f": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-498cb5",
+        "id": "CN-71-498cb5-d04d2f",
+        "code": "泰山鄉",
+        "name": "Taishan Township",
+        "postal_code_pattern": "243",
+        "translations": {
+            "zh-hans": {
+                "name": "泰山鄉"
+            }
+        }
+    },
+    "CN-71-498cb5-80ad39": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-498cb5",
+        "id": "CN-71-498cb5-80ad39",
+        "code": "土城市",
+        "name": "Tucheng City",
+        "postal_code_pattern": "236",
+        "translations": {
+            "zh-hans": {
+                "name": "土城市"
+            }
+        }
+    },
+    "CN-71-498cb5-2ccf56": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-498cb5",
+        "id": "CN-71-498cb5-2ccf56",
+        "code": "萬里鄉",
+        "name": "Wanli Township",
+        "postal_code_pattern": "207",
+        "translations": {
+            "zh-hans": {
+                "name": "萬里鄉"
+            }
+        }
+    },
+    "CN-71-498cb5-3e9e9d": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-498cb5",
+        "id": "CN-71-498cb5-3e9e9d",
+        "code": "烏來鄉",
+        "name": "Wulai Township",
+        "postal_code_pattern": "233",
+        "translations": {
+            "zh-hans": {
+                "name": "烏來鄉"
+            }
+        }
+    },
+    "CN-71-498cb5-bd9bca": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-498cb5",
+        "id": "CN-71-498cb5-bd9bca",
+        "code": "五股鄉",
+        "name": "Wugu Township",
+        "postal_code_pattern": "248",
+        "translations": {
+            "zh-hans": {
+                "name": "五股鄉"
+            }
+        }
+    },
+    "CN-71-498cb5-497de2": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-498cb5",
+        "id": "CN-71-498cb5-497de2",
+        "code": "汐止市",
+        "name": "Sijhih City",
+        "postal_code_pattern": "221",
+        "translations": {
+            "zh-hans": {
+                "name": "汐止市"
+            }
+        }
+    },
+    "CN-71-498cb5-eccba8": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-498cb5",
+        "id": "CN-71-498cb5-eccba8",
+        "code": "新店市",
+        "name": "Sindian City",
+        "postal_code_pattern": "231",
+        "translations": {
+            "zh-hans": {
+                "name": "新店市"
+            }
+        }
+    },
+    "CN-71-498cb5-20da0f": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-498cb5",
+        "id": "CN-71-498cb5-20da0f",
+        "code": "新莊市",
+        "name": "Sinjhuang City",
+        "postal_code_pattern": "242",
+        "translations": {
+            "zh-hans": {
+                "name": "新莊市"
+            }
+        }
+    },
+    "CN-71-498cb5-731b99": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-498cb5",
+        "id": "CN-71-498cb5-731b99",
+        "code": "鶯歌鎮",
+        "name": "Yingge Township",
+        "postal_code_pattern": "239",
+        "translations": {
+            "zh-hans": {
+                "name": "鶯歌鎮"
+            }
+        }
+    },
+    "CN-71-498cb5-ad4d6b": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-498cb5",
+        "id": "CN-71-498cb5-ad4d6b",
+        "code": "永和市",
+        "name": "Yonghe City",
+        "postal_code_pattern": "234",
+        "translations": {
+            "zh-hans": {
+                "name": "永和市"
+            }
+        }
+    },
+    "CN-71-498cb5-88fc3d": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71-498cb5",
+        "id": "CN-71-498cb5-88fc3d",
+        "code": "中和市",
+        "name": "Jhonghe City",
+        "postal_code_pattern": "235",
+        "translations": {
+            "zh-hans": {
+                "name": "中和市"
+            }
+        }
+    }
+}

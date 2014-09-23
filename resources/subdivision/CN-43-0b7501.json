@@ -1,0 +1,145 @@
+{
+    "CN-43-0b7501-8950d8": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-43-0b7501",
+        "id": "CN-43-0b7501-8950d8",
+        "code": "安仁县",
+        "name": "Anren Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "安仁县"
+            }
+        }
+    },
+    "CN-43-0b7501-0677a0": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-43-0b7501",
+        "id": "CN-43-0b7501-0677a0",
+        "code": "北湖区",
+        "name": "Beihu Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "北湖区"
+            }
+        }
+    },
+    "CN-43-0b7501-2493ef": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-43-0b7501",
+        "id": "CN-43-0b7501-2493ef",
+        "code": "桂东县",
+        "name": "Guidong Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "桂东县"
+            }
+        }
+    },
+    "CN-43-0b7501-0bb978": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-43-0b7501",
+        "id": "CN-43-0b7501-0bb978",
+        "code": "桂阳县",
+        "name": "Guiyang Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "桂阳县"
+            }
+        }
+    },
+    "CN-43-0b7501-044121": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-43-0b7501",
+        "id": "CN-43-0b7501-044121",
+        "code": "嘉禾县",
+        "name": "Jiahe Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "嘉禾县"
+            }
+        }
+    },
+    "CN-43-0b7501-12490e": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-43-0b7501",
+        "id": "CN-43-0b7501-12490e",
+        "code": "临武县",
+        "name": "Linwu Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "临武县"
+            }
+        }
+    },
+    "CN-43-0b7501-dcbd67": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-43-0b7501",
+        "id": "CN-43-0b7501-dcbd67",
+        "code": "汝城县",
+        "name": "Rucheng Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "汝城县"
+            }
+        }
+    },
+    "CN-43-0b7501-09b1dc": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-43-0b7501",
+        "id": "CN-43-0b7501-09b1dc",
+        "code": "苏仙区",
+        "name": "Suxian Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "苏仙区"
+            }
+        }
+    },
+    "CN-43-0b7501-4b13b3": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-43-0b7501",
+        "id": "CN-43-0b7501-4b13b3",
+        "code": "宜章县",
+        "name": "Yizhang Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "宜章县"
+            }
+        }
+    },
+    "CN-43-0b7501-290983": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-43-0b7501",
+        "id": "CN-43-0b7501-290983",
+        "code": "永兴县",
+        "name": "Yongxing Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "永兴县"
+            }
+        }
+    },
+    "CN-43-0b7501-09961f": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-43-0b7501",
+        "id": "CN-43-0b7501-09961f",
+        "code": "资兴市",
+        "name": "Zixing Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "资兴市"
+            }
+        }
+    }
+}

@@ -1,0 +1,242 @@
+{
+    "CL-LL-20f2c2": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-LL",
+        "id": "CL-LL-20f2c2",
+        "code": "Ancud",
+        "name": "Ancud"
+    },
+    "CL-LL-321018": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-LL",
+        "id": "CL-LL-321018",
+        "code": "Calbuco",
+        "name": "Calbuco"
+    },
+    "CL-LL-994ad9": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-LL",
+        "id": "CL-LL-994ad9",
+        "code": "Castro",
+        "name": "Castro"
+    },
+    "CL-LL-7bb6cc": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-LL",
+        "id": "CL-LL-7bb6cc",
+        "code": "Chaitén",
+        "name": "Chaitén"
+    },
+    "CL-LL-0eae13": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-LL",
+        "id": "CL-LL-0eae13",
+        "code": "Chonchi",
+        "name": "Chonchi"
+    },
+    "CL-LL-1c8ecd": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-LL",
+        "id": "CL-LL-1c8ecd",
+        "code": "Cochamó",
+        "name": "Cochamó"
+    },
+    "CL-LL-e77588": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-LL",
+        "id": "CL-LL-e77588",
+        "code": "Curaco de Vélez",
+        "name": "Curaco de Vélez"
+    },
+    "CL-LL-0bfe41": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-LL",
+        "id": "CL-LL-0bfe41",
+        "code": "Dalcahue",
+        "name": "Dalcahue"
+    },
+    "CL-LL-139d80": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-LL",
+        "id": "CL-LL-139d80",
+        "code": "Fresia",
+        "name": "Fresia"
+    },
+    "CL-LL-80c0ad": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-LL",
+        "id": "CL-LL-80c0ad",
+        "code": "Frutillar",
+        "name": "Frutillar"
+    },
+    "CL-LL-15b34c": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-LL",
+        "id": "CL-LL-15b34c",
+        "code": "Futaleufú",
+        "name": "Futaleufú"
+    },
+    "CL-LL-a8172a": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-LL",
+        "id": "CL-LL-a8172a",
+        "code": "Hualaihué",
+        "name": "Hualaihué"
+    },
+    "CL-LL-1fe6cb": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-LL",
+        "id": "CL-LL-1fe6cb",
+        "code": "Llanquihue",
+        "name": "Llanquihue"
+    },
+    "CL-LL-c5b9c5": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-LL",
+        "id": "CL-LL-c5b9c5",
+        "code": "Los Muermos",
+        "name": "Los Muermos"
+    },
+    "CL-LL-001f4d": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-LL",
+        "id": "CL-LL-001f4d",
+        "code": "Maullín",
+        "name": "Maullín"
+    },
+    "CL-LL-f8c8ca": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-LL",
+        "id": "CL-LL-f8c8ca",
+        "code": "Osorno",
+        "name": "Osorno"
+    },
+    "CL-LL-910ad9": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-LL",
+        "id": "CL-LL-910ad9",
+        "code": "Palena",
+        "name": "Palena"
+    },
+    "CL-LL-aae345": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-LL",
+        "id": "CL-LL-aae345",
+        "code": "Puerto Montt",
+        "name": "Puerto Montt"
+    },
+    "CL-LL-4e3457": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-LL",
+        "id": "CL-LL-4e3457",
+        "code": "Puerto Octay",
+        "name": "Puerto Octay"
+    },
+    "CL-LL-6cab6a": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-LL",
+        "id": "CL-LL-6cab6a",
+        "code": "Puerto Varas",
+        "name": "Puerto Varas"
+    },
+    "CL-LL-f30866": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-LL",
+        "id": "CL-LL-f30866",
+        "code": "Puqueldón",
+        "name": "Puqueldón"
+    },
+    "CL-LL-35db26": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-LL",
+        "id": "CL-LL-35db26",
+        "code": "Purranque",
+        "name": "Purranque"
+    },
+    "CL-LL-763c4a": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-LL",
+        "id": "CL-LL-763c4a",
+        "code": "Puyehue",
+        "name": "Puyehue"
+    },
+    "CL-LL-938e9c": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-LL",
+        "id": "CL-LL-938e9c",
+        "code": "Queilén",
+        "name": "Queilén"
+    },
+    "CL-LL-d4a56e": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-LL",
+        "id": "CL-LL-d4a56e",
+        "code": "Quellón",
+        "name": "Quellón"
+    },
+    "CL-LL-16773f": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-LL",
+        "id": "CL-LL-16773f",
+        "code": "Quemchi",
+        "name": "Quemchi"
+    },
+    "CL-LL-e68403": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-LL",
+        "id": "CL-LL-e68403",
+        "code": "Quinchao",
+        "name": "Quinchao"
+    },
+    "CL-LL-f01eb8": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-LL",
+        "id": "CL-LL-f01eb8",
+        "code": "Río Negro",
+        "name": "Río Negro"
+    },
+    "CL-LL-1d84d2": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-LL",
+        "id": "CL-LL-1d84d2",
+        "code": "San Juan de la Costa",
+        "name": "San Juan de la Costa"
+    },
+    "CL-LL-f5c0c8": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": "CL-LL",
+        "id": "CL-LL-f5c0c8",
+        "code": "San Pablo",
+        "name": "San Pablo"
+    }
+}

@@ -1,0 +1,155 @@
+{
+    "NI-BO": {
+        "locale": "es",
+        "country_code": "NI",
+        "parent_id": null,
+        "id": "NI-BO",
+        "code": "BOACO",
+        "name": "BOACO",
+        "postal_code_pattern": "5[23]"
+    },
+    "NI-CA": {
+        "locale": "es",
+        "country_code": "NI",
+        "parent_id": null,
+        "id": "NI-CA",
+        "code": "CARAZO",
+        "name": "CARAZO",
+        "postal_code_pattern": "4[45]"
+    },
+    "NI-CI": {
+        "locale": "es",
+        "country_code": "NI",
+        "parent_id": null,
+        "id": "NI-CI",
+        "code": "CHINANDEGA",
+        "name": "CHINANDEGA",
+        "postal_code_pattern": "2[23]"
+    },
+    "NI-CO": {
+        "locale": "es",
+        "country_code": "NI",
+        "parent_id": null,
+        "id": "NI-CO",
+        "code": "CHONTALES",
+        "name": "CHONTALES",
+        "postal_code_pattern": "51"
+    },
+    "NI-ES": {
+        "locale": "es",
+        "country_code": "NI",
+        "parent_id": null,
+        "id": "NI-ES",
+        "code": "ESTELI",
+        "name": "ESTELI",
+        "postal_code_pattern": "3[01]"
+    },
+    "NI-GR": {
+        "locale": "es",
+        "country_code": "NI",
+        "parent_id": null,
+        "id": "NI-GR",
+        "code": "GRANADA",
+        "name": "GRANADA",
+        "postal_code_pattern": "4[01]"
+    },
+    "NI-JI": {
+        "locale": "es",
+        "country_code": "NI",
+        "parent_id": null,
+        "id": "NI-JI",
+        "code": "JINOTEGA",
+        "name": "JINOTEGA",
+        "postal_code_pattern": "6[23]"
+    },
+    "NI-LE": {
+        "locale": "es",
+        "country_code": "NI",
+        "parent_id": null,
+        "id": "NI-LE",
+        "code": "LEON",
+        "name": "LEON",
+        "postal_code_pattern": "2[01]"
+    },
+    "NI-MD": {
+        "locale": "es",
+        "country_code": "NI",
+        "parent_id": null,
+        "id": "NI-MD",
+        "code": "MADRIZ",
+        "name": "MADRIZ",
+        "postal_code_pattern": "3[23]"
+    },
+    "NI-MN": {
+        "locale": "es",
+        "country_code": "NI",
+        "parent_id": null,
+        "id": "NI-MN",
+        "code": "MANAGUA",
+        "name": "MANAGUA",
+        "postal_code_pattern": "1[02-6]|99"
+    },
+    "NI-MS": {
+        "locale": "es",
+        "country_code": "NI",
+        "parent_id": null,
+        "id": "NI-MS",
+        "code": "MASAYA",
+        "name": "MASAYA",
+        "postal_code_pattern": "4[23]"
+    },
+    "NI-MT": {
+        "locale": "es",
+        "country_code": "NI",
+        "parent_id": null,
+        "id": "NI-MT",
+        "code": "MATAGALPA",
+        "name": "MATAGALPA",
+        "postal_code_pattern": "6[01]"
+    },
+    "NI-NS": {
+        "locale": "es",
+        "country_code": "NI",
+        "parent_id": null,
+        "id": "NI-NS",
+        "code": "NUEVA SEGOVIA",
+        "name": "NUEVA SEGOVIA",
+        "postal_code_pattern": "3[45]"
+    },
+    "NI-AN": {
+        "locale": "es",
+        "country_code": "NI",
+        "parent_id": null,
+        "id": "NI-AN",
+        "code": "RAAN",
+        "name": "RAAN",
+        "postal_code_pattern": "7[01]"
+    },
+    "NI-AS": {
+        "locale": "es",
+        "country_code": "NI",
+        "parent_id": null,
+        "id": "NI-AS",
+        "code": "RAAS",
+        "name": "RAAS",
+        "postal_code_pattern": "8[01]"
+    },
+    "NI-SJ": {
+        "locale": "es",
+        "country_code": "NI",
+        "parent_id": null,
+        "id": "NI-SJ",
+        "code": "RIO SAN JUAN",
+        "name": "RIO SAN JUAN",
+        "postal_code_pattern": "9[01]"
+    },
+    "NI-RI": {
+        "locale": "es",
+        "country_code": "NI",
+        "parent_id": null,
+        "id": "NI-RI",
+        "code": "RIVAS",
+        "name": "RIVAS",
+        "postal_code_pattern": "4[67]"
+    }
+}

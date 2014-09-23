@@ -1,0 +1,146 @@
+{
+    "SO-AW": {
+        "locale": "so",
+        "country_code": "SO",
+        "parent_id": null,
+        "id": "SO-AW",
+        "code": "AD",
+        "name": "AWDAL"
+    },
+    "SO-BK": {
+        "locale": "so",
+        "country_code": "SO",
+        "parent_id": null,
+        "id": "SO-BK",
+        "code": "BK",
+        "name": "BAKOOL"
+    },
+    "SO-BN": {
+        "locale": "so",
+        "country_code": "SO",
+        "parent_id": null,
+        "id": "SO-BN",
+        "code": "BN",
+        "name": "BANAADIR"
+    },
+    "SO-BR": {
+        "locale": "so",
+        "country_code": "SO",
+        "parent_id": null,
+        "id": "SO-BR",
+        "code": "BR",
+        "name": "BARI"
+    },
+    "SO-BY": {
+        "locale": "so",
+        "country_code": "SO",
+        "parent_id": null,
+        "id": "SO-BY",
+        "code": "BY",
+        "name": "BAY"
+    },
+    "SO-GA": {
+        "locale": "so",
+        "country_code": "SO",
+        "parent_id": null,
+        "id": "SO-GA",
+        "code": "GG",
+        "name": "GALGUDUUD"
+    },
+    "SO-GE": {
+        "locale": "so",
+        "country_code": "SO",
+        "parent_id": null,
+        "id": "SO-GE",
+        "code": "GD",
+        "name": "GEDO"
+    },
+    "SO-HI": {
+        "locale": "so",
+        "country_code": "SO",
+        "parent_id": null,
+        "id": "SO-HI",
+        "code": "HR",
+        "name": "HIIRAAN"
+    },
+    "SO-JD": {
+        "locale": "so",
+        "country_code": "SO",
+        "parent_id": null,
+        "id": "SO-JD",
+        "code": "JD",
+        "name": "JUBBADA DHEXE"
+    },
+    "SO-JH": {
+        "locale": "so",
+        "country_code": "SO",
+        "parent_id": null,
+        "id": "SO-JH",
+        "code": "JH",
+        "name": "JUBBADA HOOSE"
+    },
+    "SO-MU": {
+        "locale": "so",
+        "country_code": "SO",
+        "parent_id": null,
+        "id": "SO-MU",
+        "code": "MD",
+        "name": "MUDUG"
+    },
+    "SO-NU": {
+        "locale": "so",
+        "country_code": "SO",
+        "parent_id": null,
+        "id": "SO-NU",
+        "code": "NG",
+        "name": "NUGAAL"
+    },
+    "SO-SA": {
+        "locale": "so",
+        "country_code": "SO",
+        "parent_id": null,
+        "id": "SO-SA",
+        "code": "SG",
+        "name": "SANAAG"
+    },
+    "SO-SD": {
+        "locale": "so",
+        "country_code": "SO",
+        "parent_id": null,
+        "id": "SO-SD",
+        "code": "SD",
+        "name": "SHABEELLAHA DHEXE"
+    },
+    "SO-SH": {
+        "locale": "so",
+        "country_code": "SO",
+        "parent_id": null,
+        "id": "SO-SH",
+        "code": "SH",
+        "name": "SHABEELLAHA HOOSE"
+    },
+    "SO-SO": {
+        "locale": "so",
+        "country_code": "SO",
+        "parent_id": null,
+        "id": "SO-SO",
+        "code": "SL",
+        "name": "SOOL"
+    },
+    "SO-TO": {
+        "locale": "so",
+        "country_code": "SO",
+        "parent_id": null,
+        "id": "SO-TO",
+        "code": "TG",
+        "name": "TOGDHEER"
+    },
+    "SO-WO": {
+        "locale": "so",
+        "country_code": "SO",
+        "parent_id": null,
+        "id": "SO-WO",
+        "code": "WG",
+        "name": "WOQOOYI GALBEED"
+    }
+}

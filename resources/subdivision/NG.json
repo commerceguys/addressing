@@ -1,0 +1,298 @@
+{
+    "NG-AB": {
+        "locale": "en",
+        "country_code": "NG",
+        "parent_id": null,
+        "id": "NG-AB",
+        "code": "ABIA",
+        "name": "ABIA"
+    },
+    "NG-AD": {
+        "locale": "en",
+        "country_code": "NG",
+        "parent_id": null,
+        "id": "NG-AD",
+        "code": "ADAMAWA",
+        "name": "ADAMAWA"
+    },
+    "NG-AK": {
+        "locale": "en",
+        "country_code": "NG",
+        "parent_id": null,
+        "id": "NG-AK",
+        "code": "AKWA IBOM",
+        "name": "AKWA IBOM"
+    },
+    "NG-AN": {
+        "locale": "en",
+        "country_code": "NG",
+        "parent_id": null,
+        "id": "NG-AN",
+        "code": "ANAMBRA",
+        "name": "ANAMBRA"
+    },
+    "NG-BA": {
+        "locale": "en",
+        "country_code": "NG",
+        "parent_id": null,
+        "id": "NG-BA",
+        "code": "BAUCHI",
+        "name": "BAUCHI"
+    },
+    "NG-BY": {
+        "locale": "en",
+        "country_code": "NG",
+        "parent_id": null,
+        "id": "NG-BY",
+        "code": "BAYELSA",
+        "name": "BAYELSA"
+    },
+    "NG-BE": {
+        "locale": "en",
+        "country_code": "NG",
+        "parent_id": null,
+        "id": "NG-BE",
+        "code": "BENUE",
+        "name": "BENUE"
+    },
+    "NG-BO": {
+        "locale": "en",
+        "country_code": "NG",
+        "parent_id": null,
+        "id": "NG-BO",
+        "code": "BORNO",
+        "name": "BORNO"
+    },
+    "NG-CR": {
+        "locale": "en",
+        "country_code": "NG",
+        "parent_id": null,
+        "id": "NG-CR",
+        "code": "CROSS RIVER",
+        "name": "CROSS RIVER"
+    },
+    "NG-DE": {
+        "locale": "en",
+        "country_code": "NG",
+        "parent_id": null,
+        "id": "NG-DE",
+        "code": "DELTA",
+        "name": "DELTA"
+    },
+    "NG-EB": {
+        "locale": "en",
+        "country_code": "NG",
+        "parent_id": null,
+        "id": "NG-EB",
+        "code": "EBONYI",
+        "name": "EBONYI"
+    },
+    "NG-ED": {
+        "locale": "en",
+        "country_code": "NG",
+        "parent_id": null,
+        "id": "NG-ED",
+        "code": "EDO",
+        "name": "EDO"
+    },
+    "NG-EK": {
+        "locale": "en",
+        "country_code": "NG",
+        "parent_id": null,
+        "id": "NG-EK",
+        "code": "EKITI",
+        "name": "EKITI"
+    },
+    "NG-EN": {
+        "locale": "en",
+        "country_code": "NG",
+        "parent_id": null,
+        "id": "NG-EN",
+        "code": "ENUGU",
+        "name": "ENUGU"
+    },
+    "NG-FC": {
+        "locale": "en",
+        "country_code": "NG",
+        "parent_id": null,
+        "id": "NG-FC",
+        "code": "FCT-ABUJA",
+        "name": "FCT-ABUJA"
+    },
+    "NG-GO": {
+        "locale": "en",
+        "country_code": "NG",
+        "parent_id": null,
+        "id": "NG-GO",
+        "code": "GOMBE",
+        "name": "GOMBE"
+    },
+    "NG-IM": {
+        "locale": "en",
+        "country_code": "NG",
+        "parent_id": null,
+        "id": "NG-IM",
+        "code": "IMO",
+        "name": "IMO"
+    },
+    "NG-JI": {
+        "locale": "en",
+        "country_code": "NG",
+        "parent_id": null,
+        "id": "NG-JI",
+        "code": "JIGAWA",
+        "name": "JIGAWA"
+    },
+    "NG-KD": {
+        "locale": "en",
+        "country_code": "NG",
+        "parent_id": null,
+        "id": "NG-KD",
+        "code": "KADUNA",
+        "name": "KADUNA"
+    },
+    "NG-KN": {
+        "locale": "en",
+        "country_code": "NG",
+        "parent_id": null,
+        "id": "NG-KN",
+        "code": "KANO",
+        "name": "KANO"
+    },
+    "NG-KT": {
+        "locale": "en",
+        "country_code": "NG",
+        "parent_id": null,
+        "id": "NG-KT",
+        "code": "KATSINA",
+        "name": "KATSINA"
+    },
+    "NG-KE": {
+        "locale": "en",
+        "country_code": "NG",
+        "parent_id": null,
+        "id": "NG-KE",
+        "code": "KEBBI",
+        "name": "KEBBI"
+    },
+    "NG-KO": {
+        "locale": "en",
+        "country_code": "NG",
+        "parent_id": null,
+        "id": "NG-KO",
+        "code": "KOGI",
+        "name": "KOGI"
+    },
+    "NG-KW": {
+        "locale": "en",
+        "country_code": "NG",
+        "parent_id": null,
+        "id": "NG-KW",
+        "code": "KWARA",
+        "name": "KWARA"
+    },
+    "NG-LA": {
+        "locale": "en",
+        "country_code": "NG",
+        "parent_id": null,
+        "id": "NG-LA",
+        "code": "LAGOS",
+        "name": "LAGOS"
+    },
+    "NG-NA": {
+        "locale": "en",
+        "country_code": "NG",
+        "parent_id": null,
+        "id": "NG-NA",
+        "code": "NASSARAWA",
+        "name": "NASSARAWA"
+    },
+    "NG-NI": {
+        "locale": "en",
+        "country_code": "NG",
+        "parent_id": null,
+        "id": "NG-NI",
+        "code": "NIGER",
+        "name": "NIGER"
+    },
+    "NG-OG": {
+        "locale": "en",
+        "country_code": "NG",
+        "parent_id": null,
+        "id": "NG-OG",
+        "code": "OGUN",
+        "name": "OGUN"
+    },
+    "NG-ON": {
+        "locale": "en",
+        "country_code": "NG",
+        "parent_id": null,
+        "id": "NG-ON",
+        "code": "ONDO",
+        "name": "ONDO"
+    },
+    "NG-OS": {
+        "locale": "en",
+        "country_code": "NG",
+        "parent_id": null,
+        "id": "NG-OS",
+        "code": "OSUN",
+        "name": "OSUN"
+    },
+    "NG-OY": {
+        "locale": "en",
+        "country_code": "NG",
+        "parent_id": null,
+        "id": "NG-OY",
+        "code": "OYO",
+        "name": "OYO"
+    },
+    "NG-PL": {
+        "locale": "en",
+        "country_code": "NG",
+        "parent_id": null,
+        "id": "NG-PL",
+        "code": "PLATEAU",
+        "name": "PLATEAU"
+    },
+    "NG-RI": {
+        "locale": "en",
+        "country_code": "NG",
+        "parent_id": null,
+        "id": "NG-RI",
+        "code": "RIVERS",
+        "name": "RIVERS"
+    },
+    "NG-SO": {
+        "locale": "en",
+        "country_code": "NG",
+        "parent_id": null,
+        "id": "NG-SO",
+        "code": "SOKOTO",
+        "name": "SOKOTO"
+    },
+    "NG-TA": {
+        "locale": "en",
+        "country_code": "NG",
+        "parent_id": null,
+        "id": "NG-TA",
+        "code": "TARABA",
+        "name": "TARABA"
+    },
+    "NG-YO": {
+        "locale": "en",
+        "country_code": "NG",
+        "parent_id": null,
+        "id": "NG-YO",
+        "code": "YOBE",
+        "name": "YOBE"
+    },
+    "NG-ZA": {
+        "locale": "en",
+        "country_code": "NG",
+        "parent_id": null,
+        "id": "NG-ZA",
+        "code": "ZAMFARA",
+        "name": "ZAMFARA"
+    }
+}

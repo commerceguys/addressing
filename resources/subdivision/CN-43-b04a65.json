@@ -1,0 +1,119 @@
+{
+    "CN-43-b04a65-c1eac5": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-43-b04a65",
+        "id": "CN-43-b04a65-c1eac5",
+        "code": "华容县",
+        "name": "Huarong Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "华容县"
+            }
+        }
+    },
+    "CN-43-b04a65-f7445e": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-43-b04a65",
+        "id": "CN-43-b04a65-f7445e",
+        "code": "君山区",
+        "name": "Junshan Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "君山区"
+            }
+        }
+    },
+    "CN-43-b04a65-733cba": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-43-b04a65",
+        "id": "CN-43-b04a65-733cba",
+        "code": "临湘市",
+        "name": "Linxiang Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "临湘市"
+            }
+        }
+    },
+    "CN-43-b04a65-b2257d": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-43-b04a65",
+        "id": "CN-43-b04a65-b2257d",
+        "code": "汨罗市",
+        "name": "Miluo Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "汨罗市"
+            }
+        }
+    },
+    "CN-43-b04a65-567643": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-43-b04a65",
+        "id": "CN-43-b04a65-567643",
+        "code": "平江县",
+        "name": "Pingjiang Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "平江县"
+            }
+        }
+    },
+    "CN-43-b04a65-b4ccff": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-43-b04a65",
+        "id": "CN-43-b04a65-b4ccff",
+        "code": "湘阴县",
+        "name": "Xiangyin Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "湘阴县"
+            }
+        }
+    },
+    "CN-43-b04a65-4e98b5": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-43-b04a65",
+        "id": "CN-43-b04a65-4e98b5",
+        "code": "岳阳楼区",
+        "name": "Yueyanglou Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "岳阳楼区"
+            }
+        }
+    },
+    "CN-43-b04a65-87f2a8": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-43-b04a65",
+        "id": "CN-43-b04a65-87f2a8",
+        "code": "岳阳县",
+        "name": "Yueyang Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "岳阳县"
+            }
+        }
+    },
+    "CN-43-b04a65-047bcd": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-43-b04a65",
+        "id": "CN-43-b04a65-047bcd",
+        "code": "云溪区",
+        "name": "Yunxi Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "云溪区"
+            }
+        }
+    }
+}

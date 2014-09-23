@@ -1,0 +1,80 @@
+{
+    "CN-51-1f1569-e9c120": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-51-1f1569",
+        "id": "CN-51-1f1569-e9c120",
+        "code": "大安区",
+        "name": "Da'an Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "大安区"
+            }
+        }
+    },
+    "CN-51-1f1569-744dc7": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-51-1f1569",
+        "id": "CN-51-1f1569-744dc7",
+        "code": "富顺县",
+        "name": "Fushun Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "富顺县"
+            }
+        }
+    },
+    "CN-51-1f1569-e6ef70": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-51-1f1569",
+        "id": "CN-51-1f1569-e6ef70",
+        "code": "贡井区",
+        "name": "Gongjing Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "贡井区"
+            }
+        }
+    },
+    "CN-51-1f1569-942f0b": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-51-1f1569",
+        "id": "CN-51-1f1569-942f0b",
+        "code": "荣县",
+        "name": "Rong Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "荣县"
+            }
+        }
+    },
+    "CN-51-1f1569-fde650": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-51-1f1569",
+        "id": "CN-51-1f1569-fde650",
+        "code": "沿滩区",
+        "name": "Yantan Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "沿滩区"
+            }
+        }
+    },
+    "CN-51-1f1569-20b11e": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-51-1f1569",
+        "id": "CN-51-1f1569-20b11e",
+        "code": "自流井区",
+        "name": "Ziliujing Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "自流井区"
+            }
+        }
+    }
+}

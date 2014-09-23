@@ -1,0 +1,67 @@
+{
+    "CN-35-89d251-1584c2": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-35-89d251",
+        "id": "CN-35-89d251-1584c2",
+        "code": "城厢区",
+        "name": "Chengxiang Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "城厢区"
+            }
+        }
+    },
+    "CN-35-89d251-4ce66c": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-35-89d251",
+        "id": "CN-35-89d251-4ce66c",
+        "code": "涵江区",
+        "name": "Hanjiang Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "涵江区"
+            }
+        }
+    },
+    "CN-35-89d251-2691c2": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-35-89d251",
+        "id": "CN-35-89d251-2691c2",
+        "code": "荔城区",
+        "name": "Licheng Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "荔城区"
+            }
+        }
+    },
+    "CN-35-89d251-be8547": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-35-89d251",
+        "id": "CN-35-89d251-be8547",
+        "code": "仙游县",
+        "name": "Xianyou Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "仙游县"
+            }
+        }
+    },
+    "CN-35-89d251-e668c2": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-35-89d251",
+        "id": "CN-35-89d251-e668c2",
+        "code": "秀屿区",
+        "name": "Xiuyu Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "秀屿区"
+            }
+        }
+    }
+}

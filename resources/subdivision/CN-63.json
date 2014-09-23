@@ -1,0 +1,114 @@
+{
+    "CN-63-6ab0a4": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-63",
+        "id": "CN-63-6ab0a4",
+        "code": "果洛藏族自治州",
+        "name": "Golog Zhou",
+        "translations": {
+            "zh-hans": {
+                "name": "果洛州"
+            }
+        },
+        "has_children": true
+    },
+    "CN-63-c0c513": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-63",
+        "id": "CN-63-c0c513",
+        "code": "海北藏族自治州",
+        "name": "Haibei Zhou",
+        "translations": {
+            "zh-hans": {
+                "name": "海北州"
+            }
+        },
+        "has_children": true
+    },
+    "CN-63-2ae857": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-63",
+        "id": "CN-63-2ae857",
+        "code": "海东地区",
+        "name": "Haidong Diqu",
+        "translations": {
+            "zh-hans": {
+                "name": "海东地区"
+            }
+        },
+        "has_children": true
+    },
+    "CN-63-032d2b": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-63",
+        "id": "CN-63-032d2b",
+        "code": "海南藏族自治州",
+        "name": "Hainan Zhou",
+        "translations": {
+            "zh-hans": {
+                "name": "海南州"
+            }
+        },
+        "has_children": true
+    },
+    "CN-63-2dbbd6": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-63",
+        "id": "CN-63-2dbbd6",
+        "code": "海西蒙古族藏族自治州",
+        "name": "Haixi Zhou",
+        "translations": {
+            "zh-hans": {
+                "name": "海西州"
+            }
+        },
+        "has_children": true
+    },
+    "CN-63-bb60a6": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-63",
+        "id": "CN-63-bb60a6",
+        "code": "黄南藏族自治州",
+        "name": "Huangnan Zhou",
+        "translations": {
+            "zh-hans": {
+                "name": "黄南州"
+            }
+        },
+        "has_children": true
+    },
+    "CN-63-7501ef": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-63",
+        "id": "CN-63-7501ef",
+        "code": "西宁市",
+        "name": "Xining Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "西宁市"
+            }
+        },
+        "has_children": true
+    },
+    "CN-63-c1dcc8": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-63",
+        "id": "CN-63-c1dcc8",
+        "code": "玉树藏族自治州",
+        "name": "Yushu Zhou",
+        "translations": {
+            "zh-hans": {
+                "name": "玉树州"
+            }
+        },
+        "has_children": true
+    }
+}

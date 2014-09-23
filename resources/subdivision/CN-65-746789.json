@@ -1,0 +1,41 @@
+{
+    "CN-65-746789-7caa2f": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-65-746789",
+        "id": "CN-65-746789-7caa2f",
+        "code": "鄯善县",
+        "name": "Shanshan Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "鄯善县"
+            }
+        }
+    },
+    "CN-65-746789-08f557": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-65-746789",
+        "id": "CN-65-746789-08f557",
+        "code": "吐鲁番市",
+        "name": "Turpan Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "吐鲁番市"
+            }
+        }
+    },
+    "CN-65-746789-fe4a25": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-65-746789",
+        "id": "CN-65-746789-fe4a25",
+        "code": "托克逊县",
+        "name": "Toksun Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "托克逊县"
+            }
+        }
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "CN-42-24ca8f-50de2c": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-42-24ca8f",
+        "id": "CN-42-24ca8f-50de2c",
+        "code": "保康县",
+        "name": "Baokang Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "保康县"
+            }
+        }
+    },
+    "CN-42-24ca8f-0a468c": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-42-24ca8f",
+        "id": "CN-42-24ca8f-0a468c",
+        "code": "樊城区",
+        "name": "Fancheng Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "樊城区"
+            }
+        }
+    },
+    "CN-42-24ca8f-6d7de2": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-42-24ca8f",
+        "id": "CN-42-24ca8f-6d7de2",
+        "code": "谷城县",
+        "name": "Gucheng Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "谷城县"
+            }
+        }
+    },
+    "CN-42-24ca8f-f7158f": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-42-24ca8f",
+        "id": "CN-42-24ca8f-f7158f",
+        "code": "老河口市",
+        "name": "Laohekou Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "老河口市"
+            }
+        }
+    },
+    "CN-42-24ca8f-b615f0": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-42-24ca8f",
+        "id": "CN-42-24ca8f-b615f0",
+        "code": "南漳县",
+        "name": "Nanzhang Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "南漳县"
+            }
+        }
+    },
+    "CN-42-24ca8f-7003c1": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-42-24ca8f",
+        "id": "CN-42-24ca8f-7003c1",
+        "code": "襄城区",
+        "name": "Xiangcheng Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "襄城区"
+            }
+        }
+    },
+    "CN-42-24ca8f-64a770": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-42-24ca8f",
+        "id": "CN-42-24ca8f-64a770",
+        "code": "襄阳区",
+        "name": "Xiangyang Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "襄阳区"
+            }
+        }
+    },
+    "CN-42-24ca8f-7fe1c6": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-42-24ca8f",
+        "id": "CN-42-24ca8f-7fe1c6",
+        "code": "宜城市",
+        "name": "Yicheng Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "宜城市"
+            }
+        }
+    },
+    "CN-42-24ca8f-b35520": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-42-24ca8f",
+        "id": "CN-42-24ca8f-b35520",
+        "code": "枣阳市",
+        "name": "Zaoyang Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "枣阳市"
+            }
+        }
+    }
+}

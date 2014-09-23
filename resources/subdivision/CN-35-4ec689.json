@@ -1,0 +1,93 @@
+{
+    "CN-35-4ec689-5df4b3": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-35-4ec689",
+        "id": "CN-35-4ec689-5df4b3",
+        "code": "连城县",
+        "name": "Liancheng Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "连城县"
+            }
+        }
+    },
+    "CN-35-4ec689-a556d6": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-35-4ec689",
+        "id": "CN-35-4ec689-a556d6",
+        "code": "上杭县",
+        "name": "Shanghang Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "上杭县"
+            }
+        }
+    },
+    "CN-35-4ec689-58273d": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-35-4ec689",
+        "id": "CN-35-4ec689-58273d",
+        "code": "武平县",
+        "name": "Wuping Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "武平县"
+            }
+        }
+    },
+    "CN-35-4ec689-4ac4b0": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-35-4ec689",
+        "id": "CN-35-4ec689-4ac4b0",
+        "code": "新罗区",
+        "name": "Xinluo Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "新罗区"
+            }
+        }
+    },
+    "CN-35-4ec689-b89194": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-35-4ec689",
+        "id": "CN-35-4ec689-b89194",
+        "code": "永定县",
+        "name": "Yongding Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "永定县"
+            }
+        }
+    },
+    "CN-35-4ec689-ea7f43": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-35-4ec689",
+        "id": "CN-35-4ec689-ea7f43",
+        "code": "漳平市",
+        "name": "Zhangping Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "漳平市"
+            }
+        }
+    },
+    "CN-35-4ec689-d0d0a5": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-35-4ec689",
+        "id": "CN-35-4ec689-d0d0a5",
+        "code": "长汀县",
+        "name": "Changting Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "长汀县"
+            }
+        }
+    }
+}

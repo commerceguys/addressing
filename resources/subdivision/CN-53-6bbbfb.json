@@ -1,0 +1,119 @@
+{
+    "CN-53-6bbbfb-53ba08": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-53-6bbbfb",
+        "id": "CN-53-6bbbfb-53ba08",
+        "code": "富源县",
+        "name": "Fuyuan Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "富源县"
+            }
+        }
+    },
+    "CN-53-6bbbfb-0fdba4": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-53-6bbbfb",
+        "id": "CN-53-6bbbfb-0fdba4",
+        "code": "会泽县",
+        "name": "Huize Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "会泽县"
+            }
+        }
+    },
+    "CN-53-6bbbfb-f5e8f3": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-53-6bbbfb",
+        "id": "CN-53-6bbbfb-f5e8f3",
+        "code": "陆良县",
+        "name": "Luliang Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "陆良县"
+            }
+        }
+    },
+    "CN-53-6bbbfb-0cf238": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-53-6bbbfb",
+        "id": "CN-53-6bbbfb-0cf238",
+        "code": "罗平县",
+        "name": "Luoping Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "罗平县"
+            }
+        }
+    },
+    "CN-53-6bbbfb-dac93e": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-53-6bbbfb",
+        "id": "CN-53-6bbbfb-dac93e",
+        "code": "马龙县",
+        "name": "Malong Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "马龙县"
+            }
+        }
+    },
+    "CN-53-6bbbfb-de202e": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-53-6bbbfb",
+        "id": "CN-53-6bbbfb-de202e",
+        "code": "麒麟区",
+        "name": "Qilin Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "麒麟区"
+            }
+        }
+    },
+    "CN-53-6bbbfb-0f8fee": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-53-6bbbfb",
+        "id": "CN-53-6bbbfb-0f8fee",
+        "code": "师宗县",
+        "name": "Shizong Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "师宗县"
+            }
+        }
+    },
+    "CN-53-6bbbfb-680861": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-53-6bbbfb",
+        "id": "CN-53-6bbbfb-680861",
+        "code": "宣威市",
+        "name": "Xuanwei Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "宣威市"
+            }
+        }
+    },
+    "CN-53-6bbbfb-b82857": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-53-6bbbfb",
+        "id": "CN-53-6bbbfb-b82857",
+        "code": "沾益县",
+        "name": "Zhanyi Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "沾益县"
+            }
+        }
+    }
+}

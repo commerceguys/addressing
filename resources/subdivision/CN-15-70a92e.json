@@ -1,0 +1,41 @@
+{
+    "CN-15-70a92e-772f76": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-15-70a92e",
+        "id": "CN-15-70a92e-772f76",
+        "code": "海勃湾区",
+        "name": "Haibowan Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "海勃湾区"
+            }
+        }
+    },
+    "CN-15-70a92e-148e04": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-15-70a92e",
+        "id": "CN-15-70a92e-148e04",
+        "code": "海南区",
+        "name": "Hainan Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "海南区"
+            }
+        }
+    },
+    "CN-15-70a92e-b421c6": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-15-70a92e",
+        "id": "CN-15-70a92e-b421c6",
+        "code": "乌达区",
+        "name": "Ud Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "乌达区"
+            }
+        }
+    }
+}

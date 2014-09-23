@@ -1,0 +1,137 @@
+{
+    "CL-AN": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": null,
+        "id": "CL-AN",
+        "code": "II Región de Antofagasta",
+        "name": "Antofagasta",
+        "has_children": true
+    },
+    "CL-AR": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": null,
+        "id": "CL-AR",
+        "code": "IX Región de la Araucanía",
+        "name": "Araucanía",
+        "has_children": true
+    },
+    "CL-AP": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": null,
+        "id": "CL-AP",
+        "code": "XV Región de Arica y Parinacota",
+        "name": "Arica y Parinacota",
+        "has_children": true
+    },
+    "CL-AT": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": null,
+        "id": "CL-AT",
+        "code": "III Región de Atacama",
+        "name": "Atacama",
+        "has_children": true
+    },
+    "CL-AI": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": null,
+        "id": "CL-AI",
+        "code": "XI Región Aysén del General Carlos Ibáñez del Campo",
+        "name": "Aysén del General Carlos Ibáñez del Campo",
+        "has_children": true
+    },
+    "CL-BI": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": null,
+        "id": "CL-BI",
+        "code": "VIII Región del Biobío",
+        "name": "Biobío",
+        "has_children": true
+    },
+    "CL-CO": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": null,
+        "id": "CL-CO",
+        "code": "IV Región de Coquimbo",
+        "name": "Coquimbo",
+        "has_children": true
+    },
+    "CL-LI": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": null,
+        "id": "CL-LI",
+        "code": "VI Región del Libertador General Bernardo O'Higgins",
+        "name": "Libertador General Bernardo O'Higgins",
+        "has_children": true
+    },
+    "CL-LL": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": null,
+        "id": "CL-LL",
+        "code": "X Región de Los Lagos",
+        "name": "Los Lagos",
+        "has_children": true
+    },
+    "CL-LR": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": null,
+        "id": "CL-LR",
+        "code": "XIV Región de Los Ríos",
+        "name": "Los Ríos",
+        "has_children": true
+    },
+    "CL-MA": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": null,
+        "id": "CL-MA",
+        "code": "XII Región de Magallanes y de la Antártica Chilena",
+        "name": "Magallanes y de la Antártica Chilena",
+        "has_children": true
+    },
+    "CL-ML": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": null,
+        "id": "CL-ML",
+        "code": "VII Región del Maule",
+        "name": "Maule",
+        "has_children": true
+    },
+    "CL-RM": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": null,
+        "id": "CL-RM",
+        "code": "Región Metropolitana de Santiago",
+        "name": "Metropolitana de Santiago",
+        "has_children": true
+    },
+    "CL-TA": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": null,
+        "id": "CL-TA",
+        "code": "I Región de Tarapacá",
+        "name": "Tarapacá",
+        "has_children": true
+    },
+    "CL-VS": {
+        "locale": "es",
+        "country_code": "CL",
+        "parent_id": null,
+        "id": "CL-VS",
+        "code": "V Región de Valparaíso",
+        "name": "Valparaíso",
+        "has_children": true
+    }
+}

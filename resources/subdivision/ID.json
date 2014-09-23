@@ -1,0 +1,266 @@
+{
+    "ID-AC": {
+        "locale": "id",
+        "country_code": "ID",
+        "parent_id": null,
+        "id": "ID-AC",
+        "code": "Aceh",
+        "name": "Aceh"
+    },
+    "ID-BA": {
+        "locale": "id",
+        "country_code": "ID",
+        "parent_id": null,
+        "id": "ID-BA",
+        "code": "Bali",
+        "name": "Bali"
+    },
+    "ID-BT": {
+        "locale": "id",
+        "country_code": "ID",
+        "parent_id": null,
+        "id": "ID-BT",
+        "code": "Banten",
+        "name": "Banten"
+    },
+    "ID-BE": {
+        "locale": "id",
+        "country_code": "ID",
+        "parent_id": null,
+        "id": "ID-BE",
+        "code": "Bengkulu",
+        "name": "Bengkulu"
+    },
+    "ID-YO": {
+        "locale": "id",
+        "country_code": "ID",
+        "parent_id": null,
+        "id": "ID-YO",
+        "code": "Daerah Istimewa Yogyakarta",
+        "name": "Daerah Istimewa Yogyakarta"
+    },
+    "ID-JK": {
+        "locale": "id",
+        "country_code": "ID",
+        "parent_id": null,
+        "id": "ID-JK",
+        "code": "DKI Jakarta",
+        "name": "DKI Jakarta"
+    },
+    "ID-GO": {
+        "locale": "id",
+        "country_code": "ID",
+        "parent_id": null,
+        "id": "ID-GO",
+        "code": "Gorontalo",
+        "name": "Gorontalo"
+    },
+    "ID-JA": {
+        "locale": "id",
+        "country_code": "ID",
+        "parent_id": null,
+        "id": "ID-JA",
+        "code": "Jambi",
+        "name": "Jambi"
+    },
+    "ID-JB": {
+        "locale": "id",
+        "country_code": "ID",
+        "parent_id": null,
+        "id": "ID-JB",
+        "code": "Jawa Barat",
+        "name": "Jawa Barat"
+    },
+    "ID-JT": {
+        "locale": "id",
+        "country_code": "ID",
+        "parent_id": null,
+        "id": "ID-JT",
+        "code": "Jawa Tengah",
+        "name": "Jawa Tengah"
+    },
+    "ID-JI": {
+        "locale": "id",
+        "country_code": "ID",
+        "parent_id": null,
+        "id": "ID-JI",
+        "code": "Jawa Timur",
+        "name": "Jawa Timur"
+    },
+    "ID-KB": {
+        "locale": "id",
+        "country_code": "ID",
+        "parent_id": null,
+        "id": "ID-KB",
+        "code": "Kalimantan Barat",
+        "name": "Kalimantan Barat"
+    },
+    "ID-KS": {
+        "locale": "id",
+        "country_code": "ID",
+        "parent_id": null,
+        "id": "ID-KS",
+        "code": "Kalimantan Selatan",
+        "name": "Kalimantan Selatan"
+    },
+    "ID-KT": {
+        "locale": "id",
+        "country_code": "ID",
+        "parent_id": null,
+        "id": "ID-KT",
+        "code": "Kalimantan Tengah",
+        "name": "Kalimantan Tengah"
+    },
+    "ID-KI": {
+        "locale": "id",
+        "country_code": "ID",
+        "parent_id": null,
+        "id": "ID-KI",
+        "code": "Kalimantan Timur",
+        "name": "Kalimantan Timur"
+    },
+    "ID-BB": {
+        "locale": "id",
+        "country_code": "ID",
+        "parent_id": null,
+        "id": "ID-BB",
+        "code": "Kepulauan Bangka Belitung",
+        "name": "Kepulauan Bangka Belitung"
+    },
+    "ID-KR": {
+        "locale": "id",
+        "country_code": "ID",
+        "parent_id": null,
+        "id": "ID-KR",
+        "code": "Kepulauan Riau",
+        "name": "Kepulauan Riau"
+    },
+    "ID-LA": {
+        "locale": "id",
+        "country_code": "ID",
+        "parent_id": null,
+        "id": "ID-LA",
+        "code": "Lampung",
+        "name": "Lampung"
+    },
+    "ID-MA": {
+        "locale": "id",
+        "country_code": "ID",
+        "parent_id": null,
+        "id": "ID-MA",
+        "code": "Maluku",
+        "name": "Maluku"
+    },
+    "ID-MU": {
+        "locale": "id",
+        "country_code": "ID",
+        "parent_id": null,
+        "id": "ID-MU",
+        "code": "Maluku Utara",
+        "name": "Maluku Utara"
+    },
+    "ID-NB": {
+        "locale": "id",
+        "country_code": "ID",
+        "parent_id": null,
+        "id": "ID-NB",
+        "code": "Nusa Tenggara Barat",
+        "name": "Nusa Tenggara Barat"
+    },
+    "ID-NT": {
+        "locale": "id",
+        "country_code": "ID",
+        "parent_id": null,
+        "id": "ID-NT",
+        "code": "Nusa Tenggara Timur",
+        "name": "Nusa Tenggara Timur"
+    },
+    "ID-PA": {
+        "locale": "id",
+        "country_code": "ID",
+        "parent_id": null,
+        "id": "ID-PA",
+        "code": "Papua",
+        "name": "Papua"
+    },
+    "ID-PB": {
+        "locale": "id",
+        "country_code": "ID",
+        "parent_id": null,
+        "id": "ID-PB",
+        "code": "Papua Barat",
+        "name": "Papua Barat"
+    },
+    "ID-RI": {
+        "locale": "id",
+        "country_code": "ID",
+        "parent_id": null,
+        "id": "ID-RI",
+        "code": "Riau",
+        "name": "Riau"
+    },
+    "ID-SR": {
+        "locale": "id",
+        "country_code": "ID",
+        "parent_id": null,
+        "id": "ID-SR",
+        "code": "Sulawesi Barat",
+        "name": "Sulawesi Barat"
+    },
+    "ID-SN": {
+        "locale": "id",
+        "country_code": "ID",
+        "parent_id": null,
+        "id": "ID-SN",
+        "code": "Sulawesi Selatan",
+        "name": "Sulawesi Selatan"
+    },
+    "ID-ST": {
+        "locale": "id",
+        "country_code": "ID",
+        "parent_id": null,
+        "id": "ID-ST",
+        "code": "Sulawesi Tengah",
+        "name": "Sulawesi Tengah"
+    },
+    "ID-SG": {
+        "locale": "id",
+        "country_code": "ID",
+        "parent_id": null,
+        "id": "ID-SG",
+        "code": "Sulawesi Tenggara",
+        "name": "Sulawesi Tenggara"
+    },
+    "ID-SA": {
+        "locale": "id",
+        "country_code": "ID",
+        "parent_id": null,
+        "id": "ID-SA",
+        "code": "Sulawesi Utara",
+        "name": "Sulawesi Utara"
+    },
+    "ID-SB": {
+        "locale": "id",
+        "country_code": "ID",
+        "parent_id": null,
+        "id": "ID-SB",
+        "code": "Sumatera Barat",
+        "name": "Sumatera Barat"
+    },
+    "ID-SS": {
+        "locale": "id",
+        "country_code": "ID",
+        "parent_id": null,
+        "id": "ID-SS",
+        "code": "Sumatera Selatan",
+        "name": "Sumatera Selatan"
+    },
+    "ID-SU": {
+        "locale": "id",
+        "country_code": "ID",
+        "parent_id": null,
+        "id": "ID-SU",
+        "code": "Sumatera Utara",
+        "name": "Sumatera Utara"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "AU-ACT": {
+        "locale": "en",
+        "country_code": "AU",
+        "parent_id": null,
+        "id": "AU-ACT",
+        "code": "ACT",
+        "name": "Australian Capital Territory",
+        "postal_code_pattern": "29|2540|260|261[0-8]|02|2620"
+    },
+    "AU-NSW": {
+        "locale": "en",
+        "country_code": "AU",
+        "parent_id": null,
+        "id": "AU-NSW",
+        "code": "NSW",
+        "name": "New South Wales",
+        "postal_code_pattern": "1|2[0-57-8]|26[2-9]|261[189]|3500|3585|3586|3644|3707"
+    },
+    "AU-NT": {
+        "locale": "en",
+        "country_code": "AU",
+        "parent_id": null,
+        "id": "AU-NT",
+        "code": "NT",
+        "name": "Northern Territory",
+        "postal_code_pattern": "0[89]"
+    },
+    "AU-QLD": {
+        "locale": "en",
+        "country_code": "AU",
+        "parent_id": null,
+        "id": "AU-QLD",
+        "code": "QLD",
+        "name": "Queensland",
+        "postal_code_pattern": "[49]"
+    },
+    "AU-SA": {
+        "locale": "en",
+        "country_code": "AU",
+        "parent_id": null,
+        "id": "AU-SA",
+        "code": "SA",
+        "name": "South Australia",
+        "postal_code_pattern": "5|0872"
+    },
+    "AU-TAS": {
+        "locale": "en",
+        "country_code": "AU",
+        "parent_id": null,
+        "id": "AU-TAS",
+        "code": "TAS",
+        "name": "Tasmania",
+        "postal_code_pattern": "7"
+    },
+    "AU-VIC": {
+        "locale": "en",
+        "country_code": "AU",
+        "parent_id": null,
+        "id": "AU-VIC",
+        "code": "VIC",
+        "name": "Victoria",
+        "postal_code_pattern": "[38]"
+    },
+    "AU-WA": {
+        "locale": "en",
+        "country_code": "AU",
+        "parent_id": null,
+        "id": "AU-WA",
+        "code": "WA",
+        "name": "Western Australia",
+        "postal_code_pattern": "6|0872"
+    }
+}

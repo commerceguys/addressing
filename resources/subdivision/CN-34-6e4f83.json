@@ -1,0 +1,54 @@
+{
+    "CN-34-6e4f83-8cbffc": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-34-6e4f83",
+        "id": "CN-34-6e4f83-8cbffc",
+        "code": "杜集区",
+        "name": "Duji Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "杜集区"
+            }
+        }
+    },
+    "CN-34-6e4f83-d09a02": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-34-6e4f83",
+        "id": "CN-34-6e4f83-d09a02",
+        "code": "烈山区",
+        "name": "Lieshan Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "烈山区"
+            }
+        }
+    },
+    "CN-34-6e4f83-38922e": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-34-6e4f83",
+        "id": "CN-34-6e4f83-38922e",
+        "code": "濉溪县",
+        "name": "Suixi Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "濉溪县"
+            }
+        }
+    },
+    "CN-34-6e4f83-f84c06": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-34-6e4f83",
+        "id": "CN-34-6e4f83-f84c06",
+        "code": "相山区",
+        "name": "Xiangshan Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "相山区"
+            }
+        }
+    }
+}

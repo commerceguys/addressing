@@ -1,0 +1,294 @@
+{
+    "CN-44-a08359": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44",
+        "id": "CN-44-a08359",
+        "code": "潮州市",
+        "name": "Chaozhou Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "潮州市"
+            }
+        },
+        "has_children": true
+    },
+    "CN-44-29e129": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44",
+        "id": "CN-44-29e129",
+        "code": "东莞市",
+        "name": "Dongguan Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "东莞市"
+            }
+        }
+    },
+    "CN-44-c25091": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44",
+        "id": "CN-44-c25091",
+        "code": "佛山市",
+        "name": "Foshan Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "佛山市"
+            }
+        },
+        "has_children": true
+    },
+    "CN-44-6d0908": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44",
+        "id": "CN-44-6d0908",
+        "code": "广州市",
+        "name": "Guangzhou Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "广州市"
+            }
+        },
+        "has_children": true
+    },
+    "CN-44-bba3e0": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44",
+        "id": "CN-44-bba3e0",
+        "code": "河源市",
+        "name": "Heyuan Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "河源市"
+            }
+        },
+        "has_children": true
+    },
+    "CN-44-1920eb": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44",
+        "id": "CN-44-1920eb",
+        "code": "惠州市",
+        "name": "Huizhou Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "惠州市"
+            }
+        },
+        "has_children": true
+    },
+    "CN-44-718806": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44",
+        "id": "CN-44-718806",
+        "code": "江门市",
+        "name": "Jiangmen Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "江门市"
+            }
+        },
+        "has_children": true
+    },
+    "CN-44-6876bb": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44",
+        "id": "CN-44-6876bb",
+        "code": "揭阳市",
+        "name": "Jieyang Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "揭阳市"
+            }
+        },
+        "has_children": true
+    },
+    "CN-44-4fb411": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44",
+        "id": "CN-44-4fb411",
+        "code": "茂名市",
+        "name": "Maoming Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "茂名市"
+            }
+        },
+        "has_children": true
+    },
+    "CN-44-331cbf": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44",
+        "id": "CN-44-331cbf",
+        "code": "梅州市",
+        "name": "Meizhou Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "梅州市"
+            }
+        },
+        "has_children": true
+    },
+    "CN-44-273b74": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44",
+        "id": "CN-44-273b74",
+        "code": "清远市",
+        "name": "Qingyuan Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "清远市"
+            }
+        },
+        "has_children": true
+    },
+    "CN-44-469dfd": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44",
+        "id": "CN-44-469dfd",
+        "code": "汕头市",
+        "name": "Shantou Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "汕头市"
+            }
+        },
+        "has_children": true
+    },
+    "CN-44-9ea1de": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44",
+        "id": "CN-44-9ea1de",
+        "code": "汕尾市",
+        "name": "Shanwei Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "汕尾市"
+            }
+        },
+        "has_children": true
+    },
+    "CN-44-9a7e30": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44",
+        "id": "CN-44-9a7e30",
+        "code": "韶关市",
+        "name": "Shaoguan Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "韶关市"
+            }
+        },
+        "has_children": true
+    },
+    "CN-44-7789f3": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44",
+        "id": "CN-44-7789f3",
+        "code": "深圳市",
+        "name": "Shenzhen Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "深圳市"
+            }
+        },
+        "has_children": true
+    },
+    "CN-44-3c888c": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44",
+        "id": "CN-44-3c888c",
+        "code": "阳江市",
+        "name": "Yangjiang Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "阳江市"
+            }
+        },
+        "has_children": true
+    },
+    "CN-44-d7aa9d": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44",
+        "id": "CN-44-d7aa9d",
+        "code": "云浮市",
+        "name": "Yunfu Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "云浮市"
+            }
+        },
+        "has_children": true
+    },
+    "CN-44-53e6ab": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44",
+        "id": "CN-44-53e6ab",
+        "code": "湛江市",
+        "name": "Zhanjiang Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "湛江市"
+            }
+        },
+        "has_children": true
+    },
+    "CN-44-e014b8": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44",
+        "id": "CN-44-e014b8",
+        "code": "肇庆市",
+        "name": "Zhaoqing Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "肇庆市"
+            }
+        },
+        "has_children": true
+    },
+    "CN-44-c67295": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44",
+        "id": "CN-44-c67295",
+        "code": "中山市",
+        "name": "Zhongshan Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "中山市"
+            }
+        }
+    },
+    "CN-44-b4e4be": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-44",
+        "id": "CN-44-b4e4be",
+        "code": "珠海市",
+        "name": "Zhuhai Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "珠海市"
+            }
+        },
+        "has_children": true
+    }
+}

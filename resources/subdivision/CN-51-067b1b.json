@@ -1,0 +1,132 @@
+{
+    "CN-51-067b1b-56f67e": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-51-067b1b",
+        "id": "CN-51-067b1b-56f67e",
+        "code": "翠屏区",
+        "name": "Cuiping Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "翠屏区"
+            }
+        }
+    },
+    "CN-51-067b1b-45bfe5": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-51-067b1b",
+        "id": "CN-51-067b1b-45bfe5",
+        "code": "高县",
+        "name": "Gao Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "高县"
+            }
+        }
+    },
+    "CN-51-067b1b-5e5368": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-51-067b1b",
+        "id": "CN-51-067b1b-5e5368",
+        "code": "珙县",
+        "name": "Gong Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "珙县"
+            }
+        }
+    },
+    "CN-51-067b1b-dd009d": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-51-067b1b",
+        "id": "CN-51-067b1b-dd009d",
+        "code": "江安县",
+        "name": "Jiang'an Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "江安县"
+            }
+        }
+    },
+    "CN-51-067b1b-973894": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-51-067b1b",
+        "id": "CN-51-067b1b-973894",
+        "code": "南溪县",
+        "name": "Nanxi Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "南溪县"
+            }
+        }
+    },
+    "CN-51-067b1b-be782f": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-51-067b1b",
+        "id": "CN-51-067b1b-be782f",
+        "code": "屏山县",
+        "name": "Pingshan Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "屏山县"
+            }
+        }
+    },
+    "CN-51-067b1b-e5db74": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-51-067b1b",
+        "id": "CN-51-067b1b-e5db74",
+        "code": "兴文县",
+        "name": "Xingwen Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "兴文县"
+            }
+        }
+    },
+    "CN-51-067b1b-3e251e": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-51-067b1b",
+        "id": "CN-51-067b1b-3e251e",
+        "code": "宜宾县",
+        "name": "Yibin Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "宜宾县"
+            }
+        }
+    },
+    "CN-51-067b1b-3a99fb": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-51-067b1b",
+        "id": "CN-51-067b1b-3a99fb",
+        "code": "筠连县",
+        "name": "Junlian Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "筠连县"
+            }
+        }
+    },
+    "CN-51-067b1b-f4e0b1": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-51-067b1b",
+        "id": "CN-51-067b1b-f4e0b1",
+        "code": "长宁县",
+        "name": "Changning Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "长宁县"
+            }
+        }
+    }
+}

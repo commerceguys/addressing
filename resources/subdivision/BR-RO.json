@@ -1,0 +1,418 @@
+{
+    "BR-RO-a031de": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-RO",
+        "id": "BR-RO-a031de",
+        "code": "Alta Floresta d'Oeste",
+        "name": "Alta Floresta d'Oeste"
+    },
+    "BR-RO-1034ed": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-RO",
+        "id": "BR-RO-1034ed",
+        "code": "Alto Alegre do Parecis",
+        "name": "Alto Alegre do Parecis"
+    },
+    "BR-RO-36c089": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-RO",
+        "id": "BR-RO-36c089",
+        "code": "Alto Paraíso",
+        "name": "Alto Paraíso"
+    },
+    "BR-RO-8f1e93": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-RO",
+        "id": "BR-RO-8f1e93",
+        "code": "Alvorada d'Oeste",
+        "name": "Alvorada d'Oeste"
+    },
+    "BR-RO-8365fb": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-RO",
+        "id": "BR-RO-8365fb",
+        "code": "Ariquemes",
+        "name": "Ariquemes"
+    },
+    "BR-RO-328648": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-RO",
+        "id": "BR-RO-328648",
+        "code": "Buritis",
+        "name": "Buritis"
+    },
+    "BR-RO-1db48e": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-RO",
+        "id": "BR-RO-1db48e",
+        "code": "Cabixi",
+        "name": "Cabixi"
+    },
+    "BR-RO-eea75c": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-RO",
+        "id": "BR-RO-eea75c",
+        "code": "Cacaulândia",
+        "name": "Cacaulândia"
+    },
+    "BR-RO-e1f1a0": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-RO",
+        "id": "BR-RO-e1f1a0",
+        "code": "Cacoal",
+        "name": "Cacoal"
+    },
+    "BR-RO-e8fb7c": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-RO",
+        "id": "BR-RO-e8fb7c",
+        "code": "Campo Novo de Rondônia",
+        "name": "Campo Novo de Rondônia"
+    },
+    "BR-RO-fd85d7": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-RO",
+        "id": "BR-RO-fd85d7",
+        "code": "Candeias do Jamari",
+        "name": "Candeias do Jamari"
+    },
+    "BR-RO-36c62a": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-RO",
+        "id": "BR-RO-36c62a",
+        "code": "Castanheiras",
+        "name": "Castanheiras"
+    },
+    "BR-RO-a33b1b": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-RO",
+        "id": "BR-RO-a33b1b",
+        "code": "Cerejeiras",
+        "name": "Cerejeiras"
+    },
+    "BR-RO-6a673f": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-RO",
+        "id": "BR-RO-6a673f",
+        "code": "Chupinguaia",
+        "name": "Chupinguaia"
+    },
+    "BR-RO-dd81a1": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-RO",
+        "id": "BR-RO-dd81a1",
+        "code": "Colorado do Oeste",
+        "name": "Colorado do Oeste"
+    },
+    "BR-RO-180b3f": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-RO",
+        "id": "BR-RO-180b3f",
+        "code": "Corumbiara",
+        "name": "Corumbiara"
+    },
+    "BR-RO-5c3711": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-RO",
+        "id": "BR-RO-5c3711",
+        "code": "Costa Marques",
+        "name": "Costa Marques"
+    },
+    "BR-RO-724019": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-RO",
+        "id": "BR-RO-724019",
+        "code": "Cujubim",
+        "name": "Cujubim"
+    },
+    "BR-RO-4491f5": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-RO",
+        "id": "BR-RO-4491f5",
+        "code": "Espigão d'Oeste",
+        "name": "Espigão d'Oeste"
+    },
+    "BR-RO-9b037b": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-RO",
+        "id": "BR-RO-9b037b",
+        "code": "Governador Jorge Teixeira",
+        "name": "Governador Jorge Teixeira"
+    },
+    "BR-RO-085c4a": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-RO",
+        "id": "BR-RO-085c4a",
+        "code": "Guajará-Mirim",
+        "name": "Guajará-Mirim"
+    },
+    "BR-RO-9dcc70": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-RO",
+        "id": "BR-RO-9dcc70",
+        "code": "Itapuã do Oeste",
+        "name": "Itapuã do Oeste"
+    },
+    "BR-RO-5cbd7f": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-RO",
+        "id": "BR-RO-5cbd7f",
+        "code": "Jaru",
+        "name": "Jaru"
+    },
+    "BR-RO-ec16b4": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-RO",
+        "id": "BR-RO-ec16b4",
+        "code": "Ji-Paraná",
+        "name": "Ji-Paraná"
+    },
+    "BR-RO-52ed7b": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-RO",
+        "id": "BR-RO-52ed7b",
+        "code": "Machadinho d'Oeste",
+        "name": "Machadinho d'Oeste"
+    },
+    "BR-RO-ddc458": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-RO",
+        "id": "BR-RO-ddc458",
+        "code": "Ministro Andreazza",
+        "name": "Ministro Andreazza"
+    },
+    "BR-RO-e1cb71": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-RO",
+        "id": "BR-RO-e1cb71",
+        "code": "Mirante da Serra",
+        "name": "Mirante da Serra"
+    },
+    "BR-RO-33b8c9": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-RO",
+        "id": "BR-RO-33b8c9",
+        "code": "Monte Negro",
+        "name": "Monte Negro"
+    },
+    "BR-RO-8f52cf": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-RO",
+        "id": "BR-RO-8f52cf",
+        "code": "Nova Brasilândia d'Oeste",
+        "name": "Nova Brasilândia d'Oeste"
+    },
+    "BR-RO-91941b": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-RO",
+        "id": "BR-RO-91941b",
+        "code": "Nova Mamoré",
+        "name": "Nova Mamoré"
+    },
+    "BR-RO-5e777c": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-RO",
+        "id": "BR-RO-5e777c",
+        "code": "Nova União",
+        "name": "Nova União"
+    },
+    "BR-RO-dbe5d3": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-RO",
+        "id": "BR-RO-dbe5d3",
+        "code": "Novo Horizonte do Oeste",
+        "name": "Novo Horizonte do Oeste"
+    },
+    "BR-RO-ef7d8a": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-RO",
+        "id": "BR-RO-ef7d8a",
+        "code": "Ouro Preto do Oeste",
+        "name": "Ouro Preto do Oeste"
+    },
+    "BR-RO-8371cd": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-RO",
+        "id": "BR-RO-8371cd",
+        "code": "Parecis",
+        "name": "Parecis"
+    },
+    "BR-RO-b6980c": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-RO",
+        "id": "BR-RO-b6980c",
+        "code": "Pimenta Bueno",
+        "name": "Pimenta Bueno"
+    },
+    "BR-RO-faa48f": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-RO",
+        "id": "BR-RO-faa48f",
+        "code": "Pimenteiras do Oeste",
+        "name": "Pimenteiras do Oeste"
+    },
+    "BR-RO-a54742": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-RO",
+        "id": "BR-RO-a54742",
+        "code": "Porto Velho",
+        "name": "Porto Velho"
+    },
+    "BR-RO-7b13a2": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-RO",
+        "id": "BR-RO-7b13a2",
+        "code": "Presidente Médici",
+        "name": "Presidente Médici"
+    },
+    "BR-RO-5c1462": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-RO",
+        "id": "BR-RO-5c1462",
+        "code": "Primavera de Rondônia",
+        "name": "Primavera de Rondônia"
+    },
+    "BR-RO-d6afb5": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-RO",
+        "id": "BR-RO-d6afb5",
+        "code": "Rio Crespo",
+        "name": "Rio Crespo"
+    },
+    "BR-RO-8b3d12": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-RO",
+        "id": "BR-RO-8b3d12",
+        "code": "Rolim de Moura",
+        "name": "Rolim de Moura"
+    },
+    "BR-RO-00f825": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-RO",
+        "id": "BR-RO-00f825",
+        "code": "Santa Luzia d'Oeste",
+        "name": "Santa Luzia d'Oeste"
+    },
+    "BR-RO-5a2890": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-RO",
+        "id": "BR-RO-5a2890",
+        "code": "São Felipe d'Oeste",
+        "name": "São Felipe d'Oeste"
+    },
+    "BR-RO-927b82": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-RO",
+        "id": "BR-RO-927b82",
+        "code": "São Francisco do Guaporé",
+        "name": "São Francisco do Guaporé"
+    },
+    "BR-RO-22d766": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-RO",
+        "id": "BR-RO-22d766",
+        "code": "São Miguel do Guaporé",
+        "name": "São Miguel do Guaporé"
+    },
+    "BR-RO-363dc7": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-RO",
+        "id": "BR-RO-363dc7",
+        "code": "Seringueiras",
+        "name": "Seringueiras"
+    },
+    "BR-RO-f26e27": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-RO",
+        "id": "BR-RO-f26e27",
+        "code": "Teixeirópolis",
+        "name": "Teixeirópolis"
+    },
+    "BR-RO-914a5f": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-RO",
+        "id": "BR-RO-914a5f",
+        "code": "Theobroma",
+        "name": "Theobroma"
+    },
+    "BR-RO-bb3b81": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-RO",
+        "id": "BR-RO-bb3b81",
+        "code": "Urupá",
+        "name": "Urupá"
+    },
+    "BR-RO-416ce8": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-RO",
+        "id": "BR-RO-416ce8",
+        "code": "Vale do Anari",
+        "name": "Vale do Anari"
+    },
+    "BR-RO-09fffd": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-RO",
+        "id": "BR-RO-09fffd",
+        "code": "Vale do Paraíso",
+        "name": "Vale do Paraíso"
+    },
+    "BR-RO-5d86a1": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-RO",
+        "id": "BR-RO-5d86a1",
+        "code": "Vilhena",
+        "name": "Vilhena"
+    }
+}

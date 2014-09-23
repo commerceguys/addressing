@@ -1,0 +1,560 @@
+{
+    "US-AL": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-AL",
+        "code": "AL",
+        "name": "Alabama",
+        "postal_code_pattern": "3[56]"
+    },
+    "US-AK": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-AK",
+        "code": "AK",
+        "name": "Alaska",
+        "postal_code_pattern": "99[5-9]"
+    },
+    "US-AS": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-AS",
+        "code": "AS",
+        "name": "American Samoa",
+        "postal_code_pattern": "96799"
+    },
+    "US-AZ": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-AZ",
+        "code": "AZ",
+        "name": "Arizona",
+        "postal_code_pattern": "8[56]"
+    },
+    "US-AR": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-AR",
+        "code": "AR",
+        "name": "Arkansas",
+        "postal_code_pattern": "71[6-9]|72"
+    },
+    "US-AA": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-AA",
+        "code": "AA",
+        "name": "Armed Forces (AA)",
+        "postal_code_pattern": "340"
+    },
+    "US-AE": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-AE",
+        "code": "AE",
+        "name": "Armed Forces (AE)",
+        "postal_code_pattern": "09"
+    },
+    "US-AP": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-AP",
+        "code": "AP",
+        "name": "Armed Forces (AP)",
+        "postal_code_pattern": "96[2-6]"
+    },
+    "US-CA": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-CA",
+        "code": "CA",
+        "name": "California",
+        "postal_code_pattern": "9[0-5]|96[01]"
+    },
+    "US-CO": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-CO",
+        "code": "CO",
+        "name": "Colorado",
+        "postal_code_pattern": "8[01]"
+    },
+    "US-CT": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-CT",
+        "code": "CT",
+        "name": "Connecticut",
+        "postal_code_pattern": "06"
+    },
+    "US-DE": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-DE",
+        "code": "DE",
+        "name": "Delaware",
+        "postal_code_pattern": "19[7-9]"
+    },
+    "US-DC": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-DC",
+        "code": "DC",
+        "name": "District of Columbia",
+        "postal_code_pattern": "20[02-5]|569"
+    },
+    "US-FL": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-FL",
+        "code": "FL",
+        "name": "Florida",
+        "postal_code_pattern": "3[23]|34[1-9]"
+    },
+    "US-GA": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-GA",
+        "code": "GA",
+        "name": "Georgia",
+        "postal_code_pattern": "3[01]|398|39901"
+    },
+    "US-GU": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-GU",
+        "code": "GU",
+        "name": "Guam",
+        "postal_code_pattern": "969([1-2]\\d|3[12])"
+    },
+    "US-HI": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-HI",
+        "code": "HI",
+        "name": "Hawaii",
+        "postal_code_pattern": "967[0-8]|9679[0-8]|968"
+    },
+    "US-ID": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-ID",
+        "code": "ID",
+        "name": "Idaho",
+        "postal_code_pattern": "83[2-9]"
+    },
+    "US-IL": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-IL",
+        "code": "IL",
+        "name": "Illinois",
+        "postal_code_pattern": "6[0-2]"
+    },
+    "US-IN": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-IN",
+        "code": "IN",
+        "name": "Indiana",
+        "postal_code_pattern": "4[67]"
+    },
+    "US-IA": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-IA",
+        "code": "IA",
+        "name": "Iowa",
+        "postal_code_pattern": "5[0-2]"
+    },
+    "US-KS": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-KS",
+        "code": "KS",
+        "name": "Kansas",
+        "postal_code_pattern": "6[67]"
+    },
+    "US-KY": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-KY",
+        "code": "KY",
+        "name": "Kentucky",
+        "postal_code_pattern": "4[01]|42[0-7]"
+    },
+    "US-LA": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-LA",
+        "code": "LA",
+        "name": "Louisiana",
+        "postal_code_pattern": "70|71[0-5]"
+    },
+    "US-ME": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-ME",
+        "code": "ME",
+        "name": "Maine",
+        "postal_code_pattern": "039|04"
+    },
+    "US-MH": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-MH",
+        "code": "MH",
+        "name": "Marshall Islands",
+        "postal_code_pattern": "969[67]"
+    },
+    "US-MD": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-MD",
+        "code": "MD",
+        "name": "Maryland",
+        "postal_code_pattern": "20[6-9]|21"
+    },
+    "US-MA": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-MA",
+        "code": "MA",
+        "name": "Massachusetts",
+        "postal_code_pattern": "01|02[0-7]|05501|05544"
+    },
+    "US-MI": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-MI",
+        "code": "MI",
+        "name": "Michigan",
+        "postal_code_pattern": "4[89]"
+    },
+    "US-FM": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-FM",
+        "code": "FM",
+        "name": "Micronesia",
+        "postal_code_pattern": "9694[1-4]"
+    },
+    "US-MN": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-MN",
+        "code": "MN",
+        "name": "Minnesota",
+        "postal_code_pattern": "55|56[0-7]"
+    },
+    "US-MS": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-MS",
+        "code": "MS",
+        "name": "Mississippi",
+        "postal_code_pattern": "38[6-9]|39[0-7]"
+    },
+    "US-MO": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-MO",
+        "code": "MO",
+        "name": "Missouri",
+        "postal_code_pattern": "6[3-5]"
+    },
+    "US-MT": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-MT",
+        "code": "MT",
+        "name": "Montana",
+        "postal_code_pattern": "59"
+    },
+    "US-NE": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-NE",
+        "code": "NE",
+        "name": "Nebraska",
+        "postal_code_pattern": "6[89]"
+    },
+    "US-NV": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-NV",
+        "code": "NV",
+        "name": "Nevada",
+        "postal_code_pattern": "889|89"
+    },
+    "US-NH": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-NH",
+        "code": "NH",
+        "name": "New Hampshire",
+        "postal_code_pattern": "03[0-8]"
+    },
+    "US-NJ": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-NJ",
+        "code": "NJ",
+        "name": "New Jersey",
+        "postal_code_pattern": "0[78]"
+    },
+    "US-NM": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-NM",
+        "code": "NM",
+        "name": "New Mexico",
+        "postal_code_pattern": "87|88[0-4]"
+    },
+    "US-NY": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-NY",
+        "code": "NY",
+        "name": "New York",
+        "postal_code_pattern": "1[0-4]|06390|00501|00544"
+    },
+    "US-NC": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-NC",
+        "code": "NC",
+        "name": "North Carolina",
+        "postal_code_pattern": "2[78]"
+    },
+    "US-ND": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-ND",
+        "code": "ND",
+        "name": "North Dakota",
+        "postal_code_pattern": "58"
+    },
+    "US-MP": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-MP",
+        "code": "MP",
+        "name": "Northern Mariana Islands",
+        "postal_code_pattern": "9695[0-2]"
+    },
+    "US-OH": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-OH",
+        "code": "OH",
+        "name": "Ohio",
+        "postal_code_pattern": "4[3-5]"
+    },
+    "US-OK": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-OK",
+        "code": "OK",
+        "name": "Oklahoma",
+        "postal_code_pattern": "7[34]"
+    },
+    "US-OR": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-OR",
+        "code": "OR",
+        "name": "Oregon",
+        "postal_code_pattern": "97"
+    },
+    "US-PW": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-PW",
+        "code": "PW",
+        "name": "Palau",
+        "postal_code_pattern": "969(39|40)"
+    },
+    "US-PA": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-PA",
+        "code": "PA",
+        "name": "Pennsylvania",
+        "postal_code_pattern": "1[5-8]|19[0-6]"
+    },
+    "US-PR": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-PR",
+        "code": "PR",
+        "name": "Puerto Rico",
+        "postal_code_pattern": "00[679]"
+    },
+    "US-RI": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-RI",
+        "code": "RI",
+        "name": "Rhode Island",
+        "postal_code_pattern": "02[89]"
+    },
+    "US-SC": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-SC",
+        "code": "SC",
+        "name": "South Carolina",
+        "postal_code_pattern": "29"
+    },
+    "US-SD": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-SD",
+        "code": "SD",
+        "name": "South Dakota",
+        "postal_code_pattern": "57"
+    },
+    "US-TN": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-TN",
+        "code": "TN",
+        "name": "Tennessee",
+        "postal_code_pattern": "37|38[0-5]"
+    },
+    "US-TX": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-TX",
+        "code": "TX",
+        "name": "Texas",
+        "postal_code_pattern": "7[5-9]|885|73301|73344"
+    },
+    "US-UT": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-UT",
+        "code": "UT",
+        "name": "Utah",
+        "postal_code_pattern": "84"
+    },
+    "US-VT": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-VT",
+        "code": "VT",
+        "name": "Vermont",
+        "postal_code_pattern": "05"
+    },
+    "US-VI": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-VI",
+        "code": "VI",
+        "name": "Virgin Islands",
+        "postal_code_pattern": "008"
+    },
+    "US-VA": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-VA",
+        "code": "VA",
+        "name": "Virginia",
+        "postal_code_pattern": "201|2[23]|24[0-6]"
+    },
+    "US-WA": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-WA",
+        "code": "WA",
+        "name": "Washington",
+        "postal_code_pattern": "98|99[0-4]"
+    },
+    "US-WV": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-WV",
+        "code": "WV",
+        "name": "West Virginia",
+        "postal_code_pattern": "24[7-9]|2[56]"
+    },
+    "US-WI": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-WI",
+        "code": "WI",
+        "name": "Wisconsin",
+        "postal_code_pattern": "5[34]"
+    },
+    "US-WY": {
+        "locale": "en",
+        "country_code": "US",
+        "parent_id": null,
+        "id": "US-WY",
+        "code": "WY",
+        "name": "Wyoming",
+        "postal_code_pattern": "82|83[01]|83414"
+    }
+}

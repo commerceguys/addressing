@@ -1,0 +1,41 @@
+{
+    "CN-53-1153fd-64d7a8": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-53-1153fd",
+        "id": "CN-53-1153fd-64d7a8",
+        "code": "景洪市",
+        "name": "Jinghong Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "景洪市"
+            }
+        }
+    },
+    "CN-53-1153fd-497d90": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-53-1153fd",
+        "id": "CN-53-1153fd-497d90",
+        "code": "勐海县",
+        "name": "Menghai Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "勐海县"
+            }
+        }
+    },
+    "CN-53-1153fd-bafe73": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-53-1153fd",
+        "id": "CN-53-1153fd-bafe73",
+        "code": "勐腊县",
+        "name": "Mengla Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "勐腊县"
+            }
+        }
+    }
+}

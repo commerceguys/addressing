@@ -1,0 +1,65 @@
+{
+    "AD-07": {
+        "locale": "ca",
+        "country_code": "AD",
+        "parent_id": null,
+        "id": "AD-07",
+        "code": "ANDORRA LA VELLA",
+        "name": "Andorra la Vella",
+        "postal_code_pattern": "AD50[01]"
+    },
+    "AD-02": {
+        "locale": "ca",
+        "country_code": "AD",
+        "parent_id": null,
+        "id": "AD-02",
+        "code": "CANILLO",
+        "name": "Canillo",
+        "postal_code_pattern": "AD10[01]"
+    },
+    "AD-03": {
+        "locale": "ca",
+        "country_code": "AD",
+        "parent_id": null,
+        "id": "AD-03",
+        "code": "ENCAMP",
+        "name": "Encamp",
+        "postal_code_pattern": "AD20[01]"
+    },
+    "AD-08": {
+        "locale": "ca",
+        "country_code": "AD",
+        "parent_id": null,
+        "id": "AD-08",
+        "code": "ESCALDES ENGORDANY",
+        "name": "Escaldes Engordany",
+        "postal_code_pattern": "AD70[01]"
+    },
+    "AD-04": {
+        "locale": "ca",
+        "country_code": "AD",
+        "parent_id": null,
+        "id": "AD-04",
+        "code": "LAMASSANA",
+        "name": "Lamassana",
+        "postal_code_pattern": "AD40[01]"
+    },
+    "AD-05": {
+        "locale": "ca",
+        "country_code": "AD",
+        "parent_id": null,
+        "id": "AD-05",
+        "code": "ORDINO",
+        "name": "Ordino",
+        "postal_code_pattern": "AD30[01]"
+    },
+    "AD-06": {
+        "locale": "ca",
+        "country_code": "AD",
+        "parent_id": null,
+        "id": "AD-06",
+        "code": "SANT JULIA DE LORIA",
+        "name": "Sant Julia de Loria",
+        "postal_code_pattern": "AD60[01]"
+    }
+}

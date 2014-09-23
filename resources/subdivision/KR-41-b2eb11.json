@@ -1,0 +1,44 @@
+{
+    "KR-41-b2eb11-b4a3d8": {
+        "locale": "ko-Latn",
+        "country_code": "KR",
+        "parent_id": "KR-41-b2eb11",
+        "id": "KR-41-b2eb11-b4a3d8",
+        "code": "기흥구",
+        "name": "Giheung-gu",
+        "postal_code_pattern": "446",
+        "translations": {
+            "ko": {
+                "name": "기흥구"
+            }
+        }
+    },
+    "KR-41-b2eb11-e8a0e8": {
+        "locale": "ko-Latn",
+        "country_code": "KR",
+        "parent_id": "KR-41-b2eb11",
+        "id": "KR-41-b2eb11-e8a0e8",
+        "code": "수지구",
+        "name": "Suji-gu",
+        "postal_code_pattern": "448",
+        "translations": {
+            "ko": {
+                "name": "수지구"
+            }
+        }
+    },
+    "KR-41-b2eb11-344f1e": {
+        "locale": "ko-Latn",
+        "country_code": "KR",
+        "parent_id": "KR-41-b2eb11",
+        "id": "KR-41-b2eb11-344f1e",
+        "code": "처인구",
+        "name": "Cheoin-gu",
+        "postal_code_pattern": "449",
+        "translations": {
+            "ko": {
+                "name": "처인구"
+            }
+        }
+    }
+}

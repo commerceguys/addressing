@@ -1,0 +1,80 @@
+{
+    "CN-35-0ddf8f-870e69": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-35-0ddf8f",
+        "id": "CN-35-0ddf8f-870e69",
+        "code": "海沧区",
+        "name": "Haicang Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "海沧区"
+            }
+        }
+    },
+    "CN-35-0ddf8f-381f82": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-35-0ddf8f",
+        "id": "CN-35-0ddf8f-381f82",
+        "code": "湖里区",
+        "name": "Huli Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "湖里区"
+            }
+        }
+    },
+    "CN-35-0ddf8f-a3b636": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-35-0ddf8f",
+        "id": "CN-35-0ddf8f-a3b636",
+        "code": "集美区",
+        "name": "Jimei Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "集美区"
+            }
+        }
+    },
+    "CN-35-0ddf8f-6d1bae": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-35-0ddf8f",
+        "id": "CN-35-0ddf8f-6d1bae",
+        "code": "思明区",
+        "name": "Siming Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "思明区"
+            }
+        }
+    },
+    "CN-35-0ddf8f-2e7e7b": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-35-0ddf8f",
+        "id": "CN-35-0ddf8f-2e7e7b",
+        "code": "同安区",
+        "name": "Tong'an Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "同安区"
+            }
+        }
+    },
+    "CN-35-0ddf8f-b870bb": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-35-0ddf8f",
+        "id": "CN-35-0ddf8f-b870bb",
+        "code": "翔安区",
+        "name": "Xiang'an Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "翔安区"
+            }
+        }
+    }
+}

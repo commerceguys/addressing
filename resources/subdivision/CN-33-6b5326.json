@@ -1,0 +1,80 @@
+{
+    "CN-33-6b5326-a139f5": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-33-6b5326",
+        "id": "CN-33-6b5326-a139f5",
+        "code": "上虞市",
+        "name": "Shangyu Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "上虞市"
+            }
+        }
+    },
+    "CN-33-6b5326-b2f6e2": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-33-6b5326",
+        "id": "CN-33-6b5326-b2f6e2",
+        "code": "绍兴县",
+        "name": "Shaoxing Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "绍兴县"
+            }
+        }
+    },
+    "CN-33-6b5326-5e182e": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-33-6b5326",
+        "id": "CN-33-6b5326-5e182e",
+        "code": "嵊州市",
+        "name": "Shengzhou Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "嵊州市"
+            }
+        }
+    },
+    "CN-33-6b5326-2bcd44": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-33-6b5326",
+        "id": "CN-33-6b5326-2bcd44",
+        "code": "新昌县",
+        "name": "Xinchang Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "新昌县"
+            }
+        }
+    },
+    "CN-33-6b5326-b7c968": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-33-6b5326",
+        "id": "CN-33-6b5326-b7c968",
+        "code": "越城区",
+        "name": "Yuecheng Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "越城区"
+            }
+        }
+    },
+    "CN-33-6b5326-6a7ea7": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-33-6b5326",
+        "id": "CN-33-6b5326-6a7ea7",
+        "code": "诸暨市",
+        "name": "Zhuji Shi",
+        "translations": {
+            "zh-hans": {
+                "name": "诸暨市"
+            }
+        }
+    }
+}

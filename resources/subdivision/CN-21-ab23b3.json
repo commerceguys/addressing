@@ -1,0 +1,54 @@
+{
+    "CN-21-ab23b3-76ae24": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-21-ab23b3",
+        "id": "CN-21-ab23b3-76ae24",
+        "code": "大洼县",
+        "name": "Dawa Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "大洼县"
+            }
+        }
+    },
+    "CN-21-ab23b3-3ab85f": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-21-ab23b3",
+        "id": "CN-21-ab23b3-3ab85f",
+        "code": "盘山县",
+        "name": "Panshan Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "盘山县"
+            }
+        }
+    },
+    "CN-21-ab23b3-389e11": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-21-ab23b3",
+        "id": "CN-21-ab23b3-389e11",
+        "code": "双台子区",
+        "name": "Shuangtaizi Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "双台子区"
+            }
+        }
+    },
+    "CN-21-ab23b3-b9cb76": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-21-ab23b3",
+        "id": "CN-21-ab23b3-b9cb76",
+        "code": "兴隆台区",
+        "name": "Xinglongtai Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "兴隆台区"
+            }
+        }
+    }
+}

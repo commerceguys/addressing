@@ -1,0 +1,67 @@
+{
+    "CN-14-defb44-4ccb98": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-14-defb44",
+        "id": "CN-14-defb44-4ccb98",
+        "code": "城区",
+        "name": "Cheng Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "城区"
+            }
+        }
+    },
+    "CN-14-defb44-c4ca6f": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-14-defb44",
+        "id": "CN-14-defb44-c4ca6f",
+        "code": "郊区",
+        "name": "Jiao Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "郊区"
+            }
+        }
+    },
+    "CN-14-defb44-6937c6": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-14-defb44",
+        "id": "CN-14-defb44-6937c6",
+        "code": "矿区",
+        "name": "Kuang Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "矿区"
+            }
+        }
+    },
+    "CN-14-defb44-1282d6": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-14-defb44",
+        "id": "CN-14-defb44-1282d6",
+        "code": "平定县",
+        "name": "Pingding Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "平定县"
+            }
+        }
+    },
+    "CN-14-defb44-7d9e96": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-14-defb44",
+        "id": "CN-14-defb44-7d9e96",
+        "code": "盂县",
+        "name": "Yu Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "盂县"
+            }
+        }
+    }
+}

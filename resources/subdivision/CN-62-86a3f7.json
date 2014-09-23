@@ -1,0 +1,67 @@
+{
+    "CN-62-86a3f7-f8aaed": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-62-86a3f7",
+        "id": "CN-62-86a3f7-f8aaed",
+        "code": "白银区",
+        "name": "Baiyin Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "白银区"
+            }
+        }
+    },
+    "CN-62-86a3f7-dbe509": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-62-86a3f7",
+        "id": "CN-62-86a3f7-dbe509",
+        "code": "会宁县",
+        "name": "Huining Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "会宁县"
+            }
+        }
+    },
+    "CN-62-86a3f7-762e45": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-62-86a3f7",
+        "id": "CN-62-86a3f7-762e45",
+        "code": "景泰县",
+        "name": "Jingtai Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "景泰县"
+            }
+        }
+    },
+    "CN-62-86a3f7-48bece": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-62-86a3f7",
+        "id": "CN-62-86a3f7-48bece",
+        "code": "靖远县",
+        "name": "Jingyuan Xian",
+        "translations": {
+            "zh-hans": {
+                "name": "靖远县"
+            }
+        }
+    },
+    "CN-62-86a3f7-0f1fa7": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-62-86a3f7",
+        "id": "CN-62-86a3f7-0f1fa7",
+        "code": "平川区",
+        "name": "Pingchuan Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "平川区"
+            }
+        }
+    }
+}
