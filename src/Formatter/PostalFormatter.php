@@ -22,6 +22,10 @@ class PostalFormatter
      */
     public function __construct(AddressMetadataRepositoryInterface $repository)
     {
+        if (!function_exists('mb_strtoupper')) {
+            throw new \Exception('The "mbstring" extension is required by this class.');
+        }
+
         $this->repository = $repository;
     }
 
@@ -90,7 +94,7 @@ class PostalFormatter
         $uppercaseFields = $addressFormat->getUppercaseFields();
         foreach ($uppercaseFields as $uppercaseField) {
             if (isset($replacements['%' . $uppercaseField])) {
-                $replacements['%' . $uppercaseField] = $this->uppercaseString($replacements['%' . $uppercaseField]);
+                $replacements['%' . $uppercaseField] = mb_strtoupper($replacements['%' . $uppercaseField], 'utf-8');
             }
         }
         $formattedAddress = strtr($format, $replacements);
@@ -104,32 +108,9 @@ class PostalFormatter
         $destinationCountryCode = $address->getCountryCode();
         if ($destinationCountryCode != $originCountryCode) {
             $country = $this->repository->getCountryName($destinationCountryCode, $originLocale);
-            $formattedAddress .= "\n" . $this->uppercaseString($country);
+            $formattedAddress .= "\n" . mb_strtoupper($country, 'utf-8');
         }
 
         return $formattedAddress;
-    }
-
-    /**
-     * Converts a UTF-8 string to uppercase.
-     *
-     * @param string $string The string to uppercase.
-     *
-     * @return string The uppercased string.
-     */
-    protected function uppercaseString($string)
-    {
-        if (function_exists('mb_strtoupper')) {
-            return mb_strtoupper($string, 'utf-8');
-        }
-
-        // Uppercase ASCII and latin-1 accented characters.
-        setlocale(LC_ALL, 'C');
-        $string = strtoupper($string);
-        $string = preg_replace_callback('/\xC3[\xA0-\xB6\xB8-\xBE]/', function ($matches) {
-            return $matches[0][0] . chr(ord($matches[0][1]) ^ 32);
-        }, $string);
-
-        return $string;
     }
 }
