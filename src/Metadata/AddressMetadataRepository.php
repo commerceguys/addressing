@@ -2,8 +2,8 @@
 
 namespace CommerceGuys\Addressing\Metadata;
 
-use CommerceGuys\Intl\Country\CountryManagerInstance;
-use CommerceGuys\Intl\Country\DefaultCountryManager;
+use CommerceGuys\Intl\Country\CountryRepositoryInstance;
+use CommerceGuys\Intl\Country\CountryRepository;
 
 class AddressMetadataRepository implements AddressMetadataRepositoryInterface
 {
@@ -22,11 +22,11 @@ class AddressMetadataRepository implements AddressMetadataRepositoryInterface
     protected $subdivisionDefinitions = array();
 
     /**
-     * The country manager.
+     * The country repository.
      *
-     * @var CountryManagerInstance
+     * @var CountryRepositoryInstance
      */
-    protected $countryManager;
+    protected $countryRepository;
 
     /**
      * Creates an AddressMetadataManager instance.
@@ -34,10 +34,10 @@ class AddressMetadataRepository implements AddressMetadataRepositoryInterface
      * @param string $definitionPath The path to the metadata definitions.
      *                               Defaults to 'resources/'.
      */
-    public function __construct($definitionPath = null, CountryManagerInstance $countryManager = null)
+    public function __construct($definitionPath = null, CountryRepositoryInstance $countryRepository = null)
     {
         $this->definitionPath = $definitionPath ?: __DIR__ . '/../../resources/';
-        $this->countryManager = $countryManager ?: new DefaultCountryManager();
+        $this->countryRepository = $countryRepository ?: new CountryRepository();
     }
 
     /**
@@ -45,7 +45,7 @@ class AddressMetadataRepository implements AddressMetadataRepositoryInterface
      */
     public function getCountryName($countryCode, $locale = null)
     {
-        $country = $this->countryManager->get($countryCode, $locale);
+        $country = $this->countryRepository->get($countryCode, $locale);
 
         return $country->getName();
     }
@@ -55,10 +55,10 @@ class AddressMetadataRepository implements AddressMetadataRepositoryInterface
      */
     public function getCountryNames($locale = null)
     {
-        $countries = $this->countryManager->getAll($locale);
+        $countries = $this->countryRepository->getAll($locale);
         $countryNames = array();
         foreach ($countries as $countryCode => $country) {
-            $countryName[$countryCode] = $country->getName();
+            $countryNames[$countryCode] = $country->getName();
         }
 
         return $countryNames;
