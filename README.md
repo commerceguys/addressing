@@ -1,46 +1,111 @@
-This component stores and manipulates postal addresses, more precisely the kind
-of postal addresses meant to identify a precise recipient location for shipping
-purposes.
+addressing
+==========
 
-The storage of exact geographic coordinates and the identification non-postal
-geographic features (countries, regions, mountains, lakes, etc.) is explicitly
-out of scope.
+A PHP 5.4+ addressing library, powered by Google's [i18n Services](https://i18napis.appspot.com) [Address Data Service](https://i18napis.appspot.com/address).
 
-# Data model
+Stores and manipulates postal addresses, meant to identify a precise recipient location for shipping or billing purposes.
 
-The data model of postal address data is based on a tree of features:
+Features:
+- Address formats for 200 countries
+- Subdivisions (administrative areas, localities, dependent localities) for 40 countries
+- Subdivision translations for all of the parent country's (i.e Canada, Switzerland) official languages.
+- Validation (via Symfony Validator)
+- Form generation (via Symfony Form)
+- Postal formatting
 
-* Country
-* Administrative area
-* Locality
-* Dependent Locality
-* ZIP / Postal code
-* Sorting code
-* Address line 1
-* Address line 2
-* Address line 3
-* Organization
-* Recipient
+The backstory can be found in [this blog post](https://drupalcommerce.org/blog/16864/commerce-2x-stories-addressing).
 
-# Formatting and validation metadata
+# Address object
 
-The validation of addresses is based on a tree of validation data, up to three
-levels:
+The [address object](https://github.com/commerceguys/addressing/blob/master/src/AddressInterface.php) represents a postal adddress, and has the following fields:
 
-* Country
-* Administrative area
-* Locality
-* Dependent Locality
+- Country
+- Administrative area
+- Locality (City)
+- Dependent Locality
+- Postal code
+- Sorting code
+- Address line 1
+- Address line 2
+- Organization
+- Recipient
 
-Each level specify:
+Field names follow the OASIS [eXtensible Address Language (xAL)](http://www.oasis-open.org/committees/ciq/download.shtml) standard.
 
-* Address format, based on placeholders of the fields of the data model;
-* The labels for the administrative area (state, province, parish, etc.), and
-  the postal code (postal code or ZIP code);
-* Validation of postal codes (via regular expression patterns);
-* Uppercasing requirements (many postoffice in the world mandate some lines of the address to be uppercased to make optical reading easier);
-* Examples of postal code;
-* etc.
+The CLDR country list is used (via [commerceguys/intl](https://github.com/commerceguys/intl)), because it includes additional countries for addressing purposes, such as Canary Islands (IC).
 
-The default metadata shipped with this component is based on the one build by
-Google for Android (licensed under Apache 2).
+# Address metadata
+
+The [address format object](https://github.com/commerceguys/addressing/blob/master/src/Metadata/AddressFormatInterface.php) contains the following data for a country:
+
+- Which fields are used, and in which order
+- Which fields are required
+- Which fields need to be uppercased for the actual mailing (to facilitate automated sorting of mail)
+- The labels for the administrative area (state, province, parish, etc.), and the postal code (postal code or ZIP code)
+- The regular expression pattern for validating postal codes
+
+The [subdivision object](https://github.com/commerceguys/addressing/blob/master/src/Metadata/SubdivisionInterface.php) contains the following data:
+
+- The subdivision code (used to represent the subdivison on a parcel/envelope, i.e CA for California)
+- The subdivison name (shown to the user in a dropdown)
+- The postal code prefix (used to ensure that a postal code begins with the expected characters)
+
+Subdivisions are hierarchical and can have up to three levels:
+Administrative Area -> Locality -> Dependent Locality.
+
+```php
+use CommerceGuys\Addressing\Metadata\AddressMetadataRepository;
+
+$repository = new AddressMetadataRepository();
+
+// Get the address format for Brazil.
+$addressFormat = $repository->getAddressFormat('BR');
+
+// Get the subdivisions for Brazil.
+$states = $repository->getRegions('BR');
+foreach ($states as $state) {
+    $municipalities = $province->getChildren();
+}
+
+// Get the subdivisions for Canada, in French.
+$states = $repository->getRegions('CA', 'fr');
+foreach ($states as $state) {
+    echo $state->getName();
+}
+```
+
+# Postal formatter
+
+The address is formatted according to the destination country format.
+If the parcel is being sent to a different country, the country name is appended
+in the local language (so that the local post office can understand it).
+
+If a country (i.e China/Japan/Korea) uses both major-to-minor (country first) and
+minor-to-major (recipient first) address formats, the right one is selected based on the origin address.
+For example, if the parcel is being sent from China to China, the local major-to-minor format is used.
+But if the parcel is being sent from France to China, then the minor-to-major format is used,
+increasing the chances of the address being interpreted correctly.
+
+```php
+use CommerceGuys\Addressing\Formatter\PostalFormatter;
+use CommerceGuys\Addressing\Metadata\AddressMetadataRepository;
+
+$repository = new AddressMetadataRepository();
+$formatter = new PostalFormatter($repository);
+
+// Format an address for sending from Switzerland, in French.
+// If the address destination is not Switzerland, the country name will be
+// appended in French, uppercase.
+echo $formatter->format($address, 'CH', 'fr');
+```
+
+# Validator
+
+Address validation relies on the [Symfony Validator](https://github.com/symfony/validator) library.
+
+Checks performed:
+- Country code is valid.
+- All required fields are filled in.
+- All fields unused by the country's format are empty.
+- All subdivisions are valid (values matched against predefined subdivisions).
+- The postal code is valid (country and subdivision-level patterns).
