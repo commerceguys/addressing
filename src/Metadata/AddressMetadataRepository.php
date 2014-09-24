@@ -45,6 +45,8 @@ class AddressMetadataRepository implements AddressMetadataRepositoryInterface
      */
     public function getCountryName($countryCode, $locale = null)
     {
+        // The CountryRepository doesn't accept a null locale.
+        $locale = $locale ?: 'en';
         $country = $this->countryRepository->get($countryCode, $locale);
 
         return $country->getName();
@@ -55,6 +57,8 @@ class AddressMetadataRepository implements AddressMetadataRepositoryInterface
      */
     public function getCountryNames($locale = null)
     {
+        // The CountryRepository doesn't accept a null locale.
+        $locale = $locale ?: 'en';
         $countries = $this->countryRepository->getAll($locale);
         $countryNames = array();
         foreach ($countries as $countryCode => $country) {
