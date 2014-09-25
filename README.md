@@ -66,7 +66,7 @@ $addressFormat = $repository->getAddressFormat('BR');
 // Get the subdivisions for Brazil.
 $states = $repository->getSubdivisions('BR');
 foreach ($states as $state) {
-    $municipalities = $province->getChildren();
+    $municipalities = $state->getChildren();
 }
 
 // Get the subdivisions for Canada, in French.
