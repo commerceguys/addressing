@@ -1,7 +1,7 @@
 addressing
 ==========
 
-A PHP 5.4+ addressing library, powered by Google's [i18n Services](https://i18napis.appspot.com) [Address Data Service](https://i18napis.appspot.com/address).
+A PHP 5.4+ addressing library, powered by Google's dataset.
 
 Stores and manipulates postal addresses, meant to identify a precise recipient location for shipping or billing purposes.
 
@@ -12,6 +12,8 @@ Features:
 - Validation (via Symfony Validator)
 - Form generation (via Symfony Form)
 - Postal formatting
+
+The dataset is [stored locally](https://github.com/commerceguys/addressing/tree/master/resources) in JSON format, [generated](https://github.com/commerceguys/addressing/blob/master/scripts/generate.php) from Google's [Address Data Service](https://i18napis.appspot.com/address).
 
 The backstory can be found in [this blog post](https://drupalcommerce.org/blog/16864/commerce-2x-stories-addressing).
 
@@ -62,13 +64,13 @@ $repository = new AddressMetadataRepository();
 $addressFormat = $repository->getAddressFormat('BR');
 
 // Get the subdivisions for Brazil.
-$states = $repository->getRegions('BR');
+$states = $repository->getSubdivisions('BR');
 foreach ($states as $state) {
     $municipalities = $province->getChildren();
 }
 
 // Get the subdivisions for Canada, in French.
-$states = $repository->getRegions('CA', 'fr');
+$states = $repository->getSubdivisions('CA', 0, 'fr');
 foreach ($states as $state) {
     echo $state->getName();
 }
