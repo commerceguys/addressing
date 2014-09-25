@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Generates the yml files stored in resources/country.
+ * Generates the JSON files stored in resources/address_format and resources/subdivision.
  */
 
 set_time_limit(0);
