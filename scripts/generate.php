@@ -8,11 +8,11 @@ set_time_limit(0);
 
 include '../vendor/autoload.php';
 
-use CommerceGuys\Intl\Country\DefaultCountryManager;
+use CommerceGuys\Intl\Country\CountryRepository;
 use CommerceGuys\Addressing\Metadata\AddressFormat;
 
-$countryManager = new DefaultCountryManager();
-$countries = $countryManager->getAll();
+$countryRepository = new CountryRepository();
+$countries = $countryRepository->getAll();
 $service_url = 'http://i18napis.appspot.com/address';
 if (!is_dir('address_format')) {
     die('Could not find the empty address_format/ folder, please create it.');
