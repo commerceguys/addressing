@@ -100,6 +100,8 @@ class Address implements AddressInterface
     public function setLocale($locale)
     {
         $this->locale = $locale;
+
+        return $this;
     }
 
     /**
