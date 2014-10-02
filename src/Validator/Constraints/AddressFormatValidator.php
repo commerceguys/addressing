@@ -118,7 +118,7 @@ class AddressFormatValidator extends ConstraintValidator
                 break;
             }
             $nextFieldConstant = $subdivisionLevels[$nextIndex];
-            if (empty($$values[$nextFieldConstant])) {
+            if (empty($values[$nextFieldConstant])) {
                 // The child value is empty, stop.
                 break;
             }
@@ -133,7 +133,7 @@ class AddressFormatValidator extends ConstraintValidator
             }
 
             if (!$found) {
-                $subPath = '[' . $this->fieldMapping[$fieldConstant] . ']';
+                $subPath = '[' . $this->fieldMapping[$nextFieldConstant] . ']';
                 $invalidValue = $values[$nextFieldConstant];
                 $this->context->addViolationAt($subPath, $constraint->invalidMessage, array(), $invalidValue);
                 break;
@@ -168,7 +168,7 @@ class AddressFormatValidator extends ConstraintValidator
             $subdivisionPostalCodePattern = null;
             foreach ($subdivisions as $subdivision) {
                 if ($subdivision->getPostalCodePattern()) {
-                    $subdivisionPostalCodePattern = '/' . $child->getPostalCodePattern() . '/';
+                    $subdivisionPostalCodePattern = '/' . $subdivision->getPostalCodePattern() . '/';
                 }
             }
 
