@@ -10,7 +10,7 @@ use CommerceGuys\Addressing\Metadata\Subdivision;
 class SubdivisionTest extends \PHPUnit_Framework_TestCase
 {
     /**
-     * @var \CommerceGuys\Addressing\Metadata\Subdivision
+     * @var Subdivision
      */
     protected $subdivision;
 
@@ -25,6 +25,10 @@ class SubdivisionTest extends \PHPUnit_Framework_TestCase
      * @covers ::getChildren
      * @covers ::setChildren
      * @covers ::hasChildren
+     * @uses CommerceGuys\Addressing\Metadata\Subdivision::setId
+     * @uses CommerceGuys\Addressing\Metadata\Subdivision::setCountryCode
+     * @uses CommerceGuys\Addressing\Metadata\Subdivision::getCode
+     * @uses CommerceGuys\Addressing\Metadata\Subdivision::setCode
      */
     public function testHierarchy()
     {
