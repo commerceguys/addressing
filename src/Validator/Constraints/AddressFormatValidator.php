@@ -45,12 +45,8 @@ class AddressFormatValidator extends ConstraintValidator
         $addressFormat = $repository->getAddressFormat($address->getCountryCode());
 
         $this->validateFields($values, $addressFormat, $constraint);
-        // Continue validating only if all required fields are present.
-        $violations = $this->context->getViolations();
-        if (count($violations) === 0) {
-            $subdivisions = $this->validateSubdivisions($values, $addressFormat, $constraint);
-            $this->validatePostalCode($address->getPostalCode(), $subdivisions, $addressFormat, $constraint);
-        }
+        $subdivisions = $this->validateSubdivisions($values, $addressFormat, $constraint);
+        $this->validatePostalCode($address->getPostalCode(), $subdivisions, $addressFormat, $constraint);
     }
 
     /**
@@ -85,7 +81,7 @@ class AddressFormatValidator extends ConstraintValidator
      * Validates the provided subdivision values.
      *
      * @param array      $values     The field values, keyed by field constants.
-     * @param AddressFormatInterface The address format.
+     * @param AddressFormatInterface $addressFormat The address format.
      * @param Constraint $constraint The constraint.
      *
      * @return array An array of found valid subdivisions.
@@ -148,36 +144,37 @@ class AddressFormatValidator extends ConstraintValidator
      *
      * @param string     $postalCode   The postal code.
      * @param array      $subdivisions An array of found valid subdivisions.
-     * @param AddressFormatInterface The address format.
+     * @param AddressFormatInterface $addressFormat The address format.
      * @param Constraint $constraint   The constraint.
      */
-    protected function validatePostalCode($postalCode, $subdivisions, AddressFormatInterface $addressFormat, $constraint)
+    protected function validatePostalCode($postalCode, array $subdivisions, AddressFormatInterface $addressFormat, $constraint)
     {
         if (empty($postalCode)) {
             // Nothing to validate.
             return;
         }
 
-        preg_match('/' . $addressFormat->getPostalCodePattern() . '/', $postalCode, $matches);
-        // The pattern must match the provided value completely.
-        if (empty($matches[0]) || $matches[0] != $postalCode) {
-            $this->context->addViolationAt('[postalCode]', $constraint->invalidMessage, array(), $postalCode);
-        }
-
+        // Try to find a postal code pattern.
+        $subdivisionPostalCodePattern = null;
         if ($subdivisions) {
-            $subdivisionPostalCodePattern = null;
             foreach ($subdivisions as $subdivision) {
                 if ($subdivision->getPostalCodePattern()) {
                     $subdivisionPostalCodePattern = '/' . $subdivision->getPostalCodePattern() . '/';
                 }
             }
+        }
 
-            if ($subdivisionPostalCodePattern) {
-                // The subdivision pattern must be a partial match, it only
-                // confirms that the value starts with the expected characters.
-                if (!preg_match($subdivisionPostalCodePattern, $postalCode)) {
-                    $this->context->addViolationAt('[postalCode]', $constraint->invalidMessage, array(), $postalCode);
-                }
+        if ($subdivisionPostalCodePattern) {
+            // The subdivision pattern must be a partial match, it only
+            // confirms that the value starts with the expected characters.
+            if (!preg_match($subdivisionPostalCodePattern, $postalCode)) {
+                $this->context->addViolationAt('[postalCode]', $constraint->invalidMessage, array(), $postalCode);
+            }
+        } else {
+            preg_match('/' . $addressFormat->getPostalCodePattern() . '/', $postalCode, $matches);
+            // The pattern must match the provided value completely.
+            if (empty($matches[0]) || $matches[0] != $postalCode) {
+                $this->context->addViolationAt('[postalCode]', $constraint->invalidMessage, array(), $postalCode);
             }
         }
     }

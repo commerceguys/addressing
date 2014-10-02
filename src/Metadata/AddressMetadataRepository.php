@@ -2,7 +2,7 @@
 
 namespace CommerceGuys\Addressing\Metadata;
 
-use CommerceGuys\Intl\Country\CountryRepositoryInstance;
+use CommerceGuys\Intl\Country\CountryRepositoryInterface;
 use CommerceGuys\Intl\Country\CountryRepository;
 
 class AddressMetadataRepository implements AddressMetadataRepositoryInterface
@@ -24,7 +24,7 @@ class AddressMetadataRepository implements AddressMetadataRepositoryInterface
     /**
      * The country repository.
      *
-     * @var CountryRepositoryInstance
+     * @var CountryRepositoryInterface
      */
     protected $countryRepository;
 
@@ -33,8 +33,9 @@ class AddressMetadataRepository implements AddressMetadataRepositoryInterface
      *
      * @param string $definitionPath The path to the metadata definitions.
      *                               Defaults to 'resources/'.
+     * @param CountryRepositoryInterface $countryRepository
      */
-    public function __construct($definitionPath = null, CountryRepositoryInstance $countryRepository = null)
+    public function __construct($definitionPath = null, CountryRepositoryInterface $countryRepository = null)
     {
         $this->definitionPath = $definitionPath ?: __DIR__ . '/../../resources/';
         $this->countryRepository = $countryRepository ?: new CountryRepository();
@@ -139,7 +140,7 @@ class AddressMetadataRepository implements AddressMetadataRepositoryInterface
     {
         if (!isset($this->addressFormatDefinitions[$countryCode])) {
             $filename = $this->definitionPath . 'address_format/' . $countryCode . '.json';
-            $rawDefinition = file_get_contents($filename);
+            $rawDefinition = @file_get_contents($filename);
             if ($rawDefinition) {
                 $rawDefinition = json_decode($rawDefinition, true);
                 $rawDefinition['country_code'] = $countryCode;
@@ -165,7 +166,7 @@ class AddressMetadataRepository implements AddressMetadataRepositoryInterface
     {
         if (!isset($this->subdivisionDefinitions[$countryCode][$parentId])) {
             $filename = ($parentId === 0) ? $countryCode . '.json' : $parentId . '.json';
-            $rawDefinition = file_get_contents($this->definitionPath . 'subdivision/' . $filename);
+            $rawDefinition = @file_get_contents($this->definitionPath . 'subdivision/' . $filename);
             if ($rawDefinition) {
                 $this->subdivisionDefinitions[$countryCode][$parentId] = json_decode($rawDefinition, true);
             } else {
