@@ -8,6 +8,13 @@ use CommerceGuys\Intl\Country\CountryRepository;
 class AddressMetadataRepository implements AddressMetadataRepositoryInterface
 {
     /**
+     * The path where metadata definitions are stored.
+     *
+     * @var string
+     */
+    protected $definitionPath;
+
+    /**
      * Address format definitions.
      *
      * @var array
@@ -29,7 +36,7 @@ class AddressMetadataRepository implements AddressMetadataRepositoryInterface
     protected $countryRepository;
 
     /**
-     * Creates an AddressMetadataManager instance.
+     * Creates an AddressMetadataRepository instance.
      *
      * @param string $definitionPath The path to the metadata definitions.
      *                               Defaults to 'resources/'.
@@ -216,7 +223,7 @@ class AddressMetadataRepository implements AddressMetadataRepositoryInterface
      *
      * @param array $definition The address format definition.
      *
-     * @return \CommerceGuys\Addressing\Metadata\AddressFormat
+     * @return AddressFormat
      */
     protected function createAddressFormatFromDefinition(array $definition)
     {
@@ -243,7 +250,7 @@ class AddressMetadataRepository implements AddressMetadataRepositoryInterface
      *
      * @param array $definition The subdivision definition.
      *
-     * @return \CommerceGuys\Addressing\Metadata\Subdivision
+     * @return Subdivision
      */
     protected function createSubdivisionFromDefinition(array $definition)
     {
