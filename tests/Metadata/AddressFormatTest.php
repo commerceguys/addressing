@@ -10,7 +10,7 @@ use CommerceGuys\Addressing\Metadata\AddressFormat;
 class AddressFormatTest extends \PHPUnit_Framework_TestCase
 {
     /**
-     * @var \CommerceGuys\Addressing\Metadata\AddressFormat
+     * @var AddressFormat
      */
     protected $addressFormat;
 
@@ -27,6 +27,15 @@ class AddressFormatTest extends \PHPUnit_Framework_TestCase
     {
         $this->addressFormat->setCountryCode('US');
         $this->assertEquals($this->addressFormat->getCountryCode(), 'US');
+    }
+
+    /**
+     * @covers ::getLocalLanguageCode
+     * @covers ::setLocalLanguageCode
+     */
+    public function testLocalLanguageCode() {
+        $this->addressFormat->setLocalLanguageCode('NL');
+        $this->assertEquals($this->addressFormat->getLocalLanguageCode(), 'NL');
     }
 
     /**
