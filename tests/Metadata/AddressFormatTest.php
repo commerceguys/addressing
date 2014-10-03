@@ -30,15 +30,6 @@ class AddressFormatTest extends \PHPUnit_Framework_TestCase
     }
 
     /**
-     * @covers ::getLocalLanguageCode
-     * @covers ::setLocalLanguageCode
-     */
-    public function testLocalLanguageCode() {
-        $this->addressFormat->setLocalLanguageCode('NL');
-        $this->assertEquals($this->addressFormat->getLocalLanguageCode(), 'NL');
-    }
-
-    /**
      * @covers ::getFormat
      * @covers ::setFormat
      */

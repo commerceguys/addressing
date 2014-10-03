@@ -88,24 +88,6 @@ class AddressFormat implements AddressFormatInterface
     /**
      * {@inheritdoc}
      */
-    public function getLocalLanguageCode()
-    {
-        return $this->localLanguageCode;
-    }
-
-    /**
-     * {@inheritdoc}
-     */
-    public function setLocalLanguageCode($languageCode)
-    {
-        $this->localLanguageCode = $languageCode;
-
-        return $this;
-    }
-
-    /**
-     * {@inheritdoc}
-     */
     public function getFormat()
     {
         return $this->format;
