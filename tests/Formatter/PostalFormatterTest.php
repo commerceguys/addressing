@@ -10,7 +10,8 @@ use CommerceGuys\Addressing\Metadata\AddressMetadataRepositoryInterface;
 /**
  * @coversDefaultClass \CommerceGuys\Addressing\Formatter\PostalFormatter
  */
-class PostalFormatterTest extends \PHPUnit_Framework_TestCase {
+class PostalFormatterTest extends \PHPUnit_Framework_TestCase
+{
     /**
      * The metadata repository.
      *
@@ -19,12 +20,16 @@ class PostalFormatterTest extends \PHPUnit_Framework_TestCase {
     protected $repository;
 
     /**
+     * The postal formatter.
+     *
      * @var PostalFormatter
      */
     protected $postalFormatter;
 
     /**
-     * @var array addresses
+     * The addresses.
+     *
+     * @var array
      */
     protected $addresses = array(
         'us' => array(
@@ -107,7 +112,7 @@ class PostalFormatterTest extends \PHPUnit_Framework_TestCase {
      * Helper function to create a address.
      *
      * @param array $values
-     * @return \CommerceGuys\Addressing\Address
+     * @return Address
      */
     protected function createAddress(array $values) {
         $address = new Address();
