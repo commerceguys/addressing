@@ -125,4 +125,34 @@ interface SubdivisionInterface
      * @return bool TRUE if the subdivision has children, FALSE otherwise.
      */
     public function hasChildren();
+
+    /**
+     * Gets the locale.
+     *
+     * @return string The locale.
+     */
+    public function getLocale();
+
+    /**
+     * Sets the locale.
+     *
+     * @param string $locale The locale.
+     *
+     * @return $this
+     */
+    public function setLocale($locale);
+
+    /**
+     * Gets the metadata repository.
+     *
+     * @return AddressMetadataRepositoryInterface The metadata repository.
+     */
+    public static function getRepository();
+
+    /**
+     * Sets the metadata repository.
+     *
+     * @param AddressMetadataRepositoryInterface $repository The metadata repository.
+     */
+    public static function setRepository(AddressMetadataRepositoryInterface $repository);
 }

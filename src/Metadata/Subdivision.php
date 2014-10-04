@@ -213,9 +213,7 @@ class Subdivision implements SubdivisionInterface
     }
 
     /**
-     * Gets the locale.
-     *
-     * @return string The locale.
+     * {@inheritdoc}
      */
     public function getLocale()
     {
@@ -223,9 +221,7 @@ class Subdivision implements SubdivisionInterface
     }
 
     /**
-     * Sets the locale.
-     *
-     * @param string $locale The locale.
+     * {@inheritdoc}
      */
     public function setLocale($locale)
     {
@@ -235,9 +231,7 @@ class Subdivision implements SubdivisionInterface
     }
 
     /**
-     * Gets the metadata repository.
-     *
-     * @return AddressMetadataRepositoryInterface The metadata repository.
+     * {@inheritdoc}
      */
     public static function getRepository()
     {
@@ -249,9 +243,7 @@ class Subdivision implements SubdivisionInterface
     }
 
     /**
-     * Sets the metadata repository.
-     *
-     * @param AddressMetadataRepositoryInterface $repository The metadata repository.
+     * {@inheritdoc}
      */
     public static function setRepository(AddressMetadataRepositoryInterface $repository)
     {
