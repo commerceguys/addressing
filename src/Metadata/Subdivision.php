@@ -202,6 +202,8 @@ class Subdivision implements SubdivisionInterface
     public function setChildren($children)
     {
         $this->children = $children;
+
+        return $this;
     }
 
     /**
