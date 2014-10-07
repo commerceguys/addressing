@@ -38,8 +38,8 @@ class AddressMetadataRepository implements AddressMetadataRepositoryInterface
     /**
      * Creates an AddressMetadataRepository instance.
      *
-     * @param string $definitionPath The path to the metadata definitions.
-     *                               Defaults to 'resources/'.
+     * @param string                     $definitionPath    Path to the metadata definitions.
+     *                                                      Defaults to 'resources/'.
      * @param CountryRepositoryInterface $countryRepository
      */
     public function __construct($definitionPath = null, CountryRepositoryInterface $countryRepository = null)

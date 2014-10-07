@@ -80,9 +80,9 @@ class AddressFormatValidator extends ConstraintValidator
     /**
      * Validates the provided subdivision values.
      *
-     * @param array      $values     The field values, keyed by field constants.
+     * @param array                  $values        The field values, keyed by field constants.
      * @param AddressFormatInterface $addressFormat The address format.
-     * @param Constraint $constraint The constraint.
+     * @param Constraint             $constraint    The constraint.
      *
      * @return array An array of found valid subdivisions.
      */
@@ -142,10 +142,10 @@ class AddressFormatValidator extends ConstraintValidator
     /**
      * Validates the provided postal code.
      *
-     * @param string     $postalCode   The postal code.
-     * @param array      $subdivisions An array of found valid subdivisions.
+     * @param string                 $postalCode    The postal code.
+     * @param array                  $subdivisions  An array of found valid subdivisions.
      * @param AddressFormatInterface $addressFormat The address format.
-     * @param Constraint $constraint   The constraint.
+     * @param Constraint             $constraint    The constraint.
      */
     protected function validatePostalCode($postalCode, array $subdivisions, AddressFormatInterface $addressFormat, $constraint)
     {
