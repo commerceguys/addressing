@@ -1,11 +1,11 @@
 <?php
 
-namespace CommerceGuys\Addressing\Tests\Metadata;
+namespace CommerceGuys\Addressing\Tests\Model;
 
-use CommerceGuys\Addressing\Metadata\Subdivision;
+use CommerceGuys\Addressing\Model\Subdivision;
 
 /**
- * @coversDefaultClass \CommerceGuys\Addressing\Metadata\Subdivision
+ * @coversDefaultClass \CommerceGuys\Addressing\Model\Subdivision
  */
 class SubdivisionTest extends \PHPUnit_Framework_TestCase
 {
@@ -25,10 +25,10 @@ class SubdivisionTest extends \PHPUnit_Framework_TestCase
      * @covers ::getChildren
      * @covers ::setChildren
      * @covers ::hasChildren
-     * @uses CommerceGuys\Addressing\Metadata\Subdivision::setId
-     * @uses CommerceGuys\Addressing\Metadata\Subdivision::setCountryCode
-     * @uses CommerceGuys\Addressing\Metadata\Subdivision::getCode
-     * @uses CommerceGuys\Addressing\Metadata\Subdivision::setCode
+     * @uses CommerceGuys\Addressing\Model\Subdivision::setId
+     * @uses CommerceGuys\Addressing\Model\Subdivision::setCountryCode
+     * @uses CommerceGuys\Addressing\Model\Subdivision::getCode
+     * @uses CommerceGuys\Addressing\Model\Subdivision::setCode
      */
     public function testHierarchy()
     {

@@ -1,6 +1,6 @@
 <?php
 
-namespace CommerceGuys\Addressing;
+namespace CommerceGuys\Addressing\Model;
 
 use CommerceGuys\Addressing\Validator\Constraints\AddressFormat as AddressFormatConstraint;
 use Symfony\Component\Validator\Constraints\Country as CountryConstraint;

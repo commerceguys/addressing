@@ -2,8 +2,8 @@
 
 namespace CommerceGuys\Addressing\Form\EventListener;
 
-use CommerceGuys\Addressing\Metadata\AddressFormat;
-use CommerceGuys\Addressing\Metadata\AddressFormatInterface;
+use CommerceGuys\Addressing\Model\AddressFormat;
+use CommerceGuys\Addressing\Model\AddressFormatInterface;
 use Symfony\Component\Form\FormEvent;
 use Symfony\Component\Form\FormEvents;
 use Symfony\Component\EventDispatcher\EventSubscriberInterface;

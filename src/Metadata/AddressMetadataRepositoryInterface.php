@@ -2,6 +2,9 @@
 
 namespace CommerceGuys\Addressing\Metadata;
 
+use CommerceGuys\Addressing\Model\AddressFormat;
+use CommerceGuys\Addressing\Model\Subdivision;
+
 /**
  * Address metadata repository interface.
  */

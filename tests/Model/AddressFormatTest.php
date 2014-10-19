@@ -1,11 +1,11 @@
 <?php
 
-namespace CommerceGuys\Addressing\Tests\Metadata;
+namespace CommerceGuys\Addressing\Tests\Model;
 
-use CommerceGuys\Addressing\Metadata\AddressFormat;
+use CommerceGuys\Addressing\Model\AddressFormat;
 
 /**
- * @coversDefaultClass \CommerceGuys\Addressing\Metadata\AddressFormat
+ * @coversDefaultClass \CommerceGuys\Addressing\Model\AddressFormat
  */
 class AddressFormatTest extends \PHPUnit_Framework_TestCase
 {

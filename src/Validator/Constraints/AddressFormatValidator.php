@@ -2,8 +2,8 @@
 
 namespace CommerceGuys\Addressing\Validator\Constraints;
 
-use CommerceGuys\Addressing\AddressInterface;
-use CommerceGuys\Addressing\Metadata\AddressFormatInterface;
+use CommerceGuys\Addressing\Model\AddressInterface;
+use CommerceGuys\Addressing\Model\AddressFormatInterface;
 use CommerceGuys\Addressing\Metadata\AddressMetadataRepository;
 use CommerceGuys\Addressing\Metadata\AddressMetadataRepositoryInterface;
 use Symfony\Component\Validator\Constraint;

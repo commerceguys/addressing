@@ -2,7 +2,7 @@
 
 namespace CommerceGuys\Addressing\Tests\Formatter;
 
-use CommerceGuys\Addressing\Address;
+use CommerceGuys\Addressing\Model\Address;
 use CommerceGuys\Addressing\Formatter\PostalFormatter;
 use CommerceGuys\Addressing\Metadata\AddressMetadataRepository;
 use CommerceGuys\Addressing\Metadata\AddressMetadataRepositoryInterface;
@@ -71,9 +71,9 @@ class PostalFormatterTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::__construct
      * @covers ::format
-     * @uses CommerceGuys\Addressing\Address
-     * @uses CommerceGuys\Addressing\Metadata\AddressFormat
-     * @uses CommerceGuys\Addressing\Metadata\Subdivision
+     * @uses CommerceGuys\Addressing\Model\Address
+     * @uses CommerceGuys\Addressing\Model\AddressFormat
+     * @uses CommerceGuys\Addressing\Model\Subdivision
      * @uses CommerceGuys\Addressing\Metadata\AddressMetadataRepository
      *
      * @dataProvider formatterAddressProvider

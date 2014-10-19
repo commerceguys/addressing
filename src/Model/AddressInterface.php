@@ -1,6 +1,6 @@
 <?php
 
-namespace CommerceGuys\Addressing;
+namespace CommerceGuys\Addressing\Model;
 
 /**
  * Interface for international postal addresses.

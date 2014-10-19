@@ -39,7 +39,7 @@ class AddressType extends AbstractType
     public function setDefaultOptions(OptionsResolverInterface $resolver)
     {
         $resolver->setDefaults(array(
-            'data_class' => 'CommerceGuys\Addressing\Address'
+            'data_class' => 'CommerceGuys\Addressing\Model\Address'
         ));
     }
 

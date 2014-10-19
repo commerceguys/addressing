@@ -225,7 +225,7 @@ class AddressMetadataRepositoryTest extends \PHPUnit_Framework_TestCase
         $addressFormat = $this->addressMetadataRepository->getAddressFormat(
           'ES'
         );
-        $this->assertInstanceOf('CommerceGuys\Addressing\Metadata\AddressFormat', $addressFormat);
+        $this->assertInstanceOf('CommerceGuys\Addressing\Model\AddressFormat', $addressFormat);
     }
 
     /**
@@ -255,7 +255,7 @@ class AddressMetadataRepositoryTest extends \PHPUnit_Framework_TestCase
     public function testGetSubdivision()
     {
         $subDivision = $this->addressMetadataRepository->getSubdivision('ES-O');
-        $this->assertInstanceOf('CommerceGuys\Addressing\Metadata\Subdivision', $subDivision);
+        $this->assertInstanceOf('CommerceGuys\Addressing\Model\Subdivision', $subDivision);
     }
 
     /**
@@ -267,7 +267,7 @@ class AddressMetadataRepositoryTest extends \PHPUnit_Framework_TestCase
     public function testGetSubdivisionWithLocale()
     {
         $subDivision = $this->addressMetadataRepository->getSubdivision('ES-O', 'es');
-        $this->assertInstanceOf('CommerceGuys\Addressing\Metadata\Subdivision', $subDivision);
+        $this->assertInstanceOf('CommerceGuys\Addressing\Model\Subdivision', $subDivision);
     }
 
     /**
@@ -279,7 +279,7 @@ class AddressMetadataRepositoryTest extends \PHPUnit_Framework_TestCase
     public function testGetSubdivisionWithTranslation()
     {
         $subDivision = $this->addressMetadataRepository->getSubdivision('ES-O', 'asturian');
-        $this->assertInstanceOf('CommerceGuys\Addressing\Metadata\Subdivision', $subDivision);
+        $this->assertInstanceOf('CommerceGuys\Addressing\Model\Subdivision', $subDivision);
         $subDivisionName = $this->getObjectAttribute(
           $subDivision,
           'name'
@@ -296,7 +296,7 @@ class AddressMetadataRepositoryTest extends \PHPUnit_Framework_TestCase
     public function testGetSubdivisionWithParents()
     {
         $subDivision = $this->addressMetadataRepository->getSubdivision('ES-O-Oviedo');
-        $this->assertInstanceOf('CommerceGuys\Addressing\Metadata\Subdivision', $subDivision);
+        $this->assertInstanceOf('CommerceGuys\Addressing\Model\Subdivision', $subDivision);
     }
 
     /**
@@ -334,7 +334,7 @@ class AddressMetadataRepositoryTest extends \PHPUnit_Framework_TestCase
         $subDivisions = $this->addressMetadataRepository->getSubdivisions('ES');
         $this->assertInternalType('array', $subDivisions);
         foreach ($subDivisions as $subDivision) {
-            $this->assertInstanceOf('CommerceGuys\Addressing\Metadata\Subdivision', $subDivision);
+            $this->assertInstanceOf('CommerceGuys\Addressing\Model\Subdivision', $subDivision);
         }
     }
 

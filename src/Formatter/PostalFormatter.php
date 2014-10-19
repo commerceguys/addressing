@@ -2,9 +2,9 @@
 
 namespace CommerceGuys\Addressing\Formatter;
 
-use CommerceGuys\Addressing\AddressInterface;
+use CommerceGuys\Addressing\Model\AddressInterface;
 use CommerceGuys\Addressing\Metadata\AddressMetadataRepositoryInterface;
-use CommerceGuys\Addressing\Metadata\AddressFormat;
+use CommerceGuys\Addressing\Model\AddressFormat;
 
 class PostalFormatter
 {

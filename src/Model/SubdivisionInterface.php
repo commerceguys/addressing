@@ -1,6 +1,6 @@
 <?php
 
-namespace CommerceGuys\Addressing\Metadata;
+namespace CommerceGuys\Addressing\Model;
 
 /**
  * Interface for country subdivisons.

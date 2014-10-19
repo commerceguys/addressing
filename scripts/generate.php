@@ -9,7 +9,7 @@ set_time_limit(0);
 include '../vendor/autoload.php';
 
 use CommerceGuys\Intl\Country\CountryRepository;
-use CommerceGuys\Addressing\Metadata\AddressFormat;
+use CommerceGuys\Addressing\Model\AddressFormat;
 
 $countryRepository = new CountryRepository();
 $countries = $countryRepository->getAll();

@@ -1,16 +1,16 @@
 <?php
 
-namespace CommerceGuys\Addressing\Tests;
+namespace CommerceGuys\Addressing\Tests\Model;
 
-use CommerceGuys\Addressing\Address;
+use CommerceGuys\Addressing\Model\Address;
 
 /**
- * @coversDefaultClass \CommerceGuys\Addressing\Address
+ * @coversDefaultClass \CommerceGuys\Addressing\Model\Address
  */
 class AddressTest extends \PHPUnit_Framework_TestCase
 {
     /**
-     * @var \CommerceGuys\Addressing\Address
+     * @var Address
      */
     protected $country;
 
