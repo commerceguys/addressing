@@ -17,11 +17,13 @@ Features:
 
 The dataset is [stored locally](https://github.com/commerceguys/addressing/tree/master/resources) in JSON format, [generated](https://github.com/commerceguys/addressing/blob/master/scripts/generate.php) from Google's [Address Data Service](https://i18napis.appspot.com/address).
 
-The backstory can be found in [this blog post](https://drupalcommerce.org/blog/16864/commerce-2x-stories-addressing).
+The CLDR country list is used (via [commerceguys/intl](https://github.com/commerceguys/intl)), because it includes additional countries for addressing purposes, such as Canary Islands (IC).
 
-# Address object
+Further backstory can be found in [this blog post](https://drupalcommerce.org/blog/16864/commerce-2x-stories-addressing).
 
-The [address object](https://github.com/commerceguys/addressing/blob/master/src/AddressInterface.php) represents a postal adddress, and has the following fields:
+# Data model
+
+The [address object](https://github.com/commerceguys/addressing/blob/master/src/Model/AddressInterface.php) represents a postal adddress, and has the following fields:
 
 - Country
 - Administrative area
@@ -36,11 +38,7 @@ The [address object](https://github.com/commerceguys/addressing/blob/master/src/
 
 Field names follow the OASIS [eXtensible Address Language (xAL)](http://www.oasis-open.org/committees/ciq/download.shtml) standard.
 
-The CLDR country list is used (via [commerceguys/intl](https://github.com/commerceguys/intl)), because it includes additional countries for addressing purposes, such as Canary Islands (IC).
-
-# Address metadata
-
-The [address format object](https://github.com/commerceguys/addressing/blob/master/src/Metadata/AddressFormatInterface.php) contains the following data for a country:
+The [address format object](https://github.com/commerceguys/addressing/blob/master/src/Model/AddressFormatInterface.php) contains the following data for a country:
 
 - Which fields are used, and in which order
 - Which fields are required
@@ -48,7 +46,7 @@ The [address format object](https://github.com/commerceguys/addressing/blob/mast
 - The labels for the administrative area (state, province, parish, etc.), and the postal code (postal code or ZIP code)
 - The regular expression pattern for validating postal codes
 
-The [subdivision object](https://github.com/commerceguys/addressing/blob/master/src/Metadata/SubdivisionInterface.php) contains the following data:
+The [subdivision object](https://github.com/commerceguys/addressing/blob/master/src/Model/SubdivisionInterface.php) contains the following data:
 
 - The subdivision code (used to represent the subdivison on a parcel/envelope, i.e CA for California)
 - The subdivison name (shown to the user in a dropdown)
@@ -58,21 +56,23 @@ Subdivisions are hierarchical and can have up to three levels:
 Administrative Area -> Locality -> Dependent Locality.
 
 ```php
-use CommerceGuys\Addressing\Metadata\AddressMetadataRepository;
+use CommerceGuys\Addressing\Repository\AddressFormatRepository;
+use CommerceGuys\Addressing\Repository\SubdivisionRepository;
 
-$repository = new AddressMetadataRepository();
+$addressFormatRepository = new AddressFormatRepository();
+$subdivisionRepository = new SubdivisionRepository();
 
 // Get the address format for Brazil.
-$addressFormat = $repository->getAddressFormat('BR');
+$addressFormat = $addressFormatRepository->get('BR');
 
 // Get the subdivisions for Brazil.
-$states = $repository->getSubdivisions('BR');
+$states = $subdivisionRepository->getAll('BR');
 foreach ($states as $state) {
     $municipalities = $state->getChildren();
 }
 
 // Get the subdivisions for Canada, in French.
-$states = $repository->getSubdivisions('CA', 0, 'fr');
+$states = $subdivisionRepository->getAll('CA', 0, 'fr');
 foreach ($states as $state) {
     echo $state->getName();
 }
