@@ -4,8 +4,8 @@ namespace CommerceGuys\Addressing\Tests\Formatter;
 
 use CommerceGuys\Addressing\Model\Address;
 use CommerceGuys\Addressing\Formatter\PostalFormatter;
-use CommerceGuys\Addressing\Metadata\AddressMetadataRepository;
-use CommerceGuys\Addressing\Metadata\AddressMetadataRepositoryInterface;
+use CommerceGuys\Addressing\Provider\DataProvider;
+use CommerceGuys\Addressing\Provider\DataProviderInterface;
 
 /**
  * @coversDefaultClass \CommerceGuys\Addressing\Formatter\PostalFormatter
@@ -13,11 +13,11 @@ use CommerceGuys\Addressing\Metadata\AddressMetadataRepositoryInterface;
 class PostalFormatterTest extends \PHPUnit_Framework_TestCase
 {
     /**
-     * The metadata repository.
+     * The data provider.
      *
-     * @var AddressMetadataRepositoryInterface
+     * @var DataProviderInterface
      */
-    protected $repository;
+    protected $dataProvider;
 
     /**
      * The postal formatter.
@@ -53,17 +53,17 @@ class PostalFormatterTest extends \PHPUnit_Framework_TestCase
      * {@inheritdoc}
      */
     public function setUp() {
-        $this->repository = new AddressMetadataRepository();
-        $this->postalFormatter = new PostalFormatter($this->repository);
+        $this->dataProvider = new DataProvider();
+        $this->postalFormatter = new PostalFormatter($this->dataProvider);
     }
 
     /**
      * @covers ::__construct
-     * @uses CommerceGuys\Addressing\Metadata\AddressMetadataRepository
+     * @uses CommerceGuys\Addressing\Provider\DataProvider
      */
     public function testConstructor() {
-        $this->repository = new AddressMetadataRepository();
-        $postalFormatter = new PostalFormatter($this->repository);
+        $this->dataProvider = new DataProvider();
+        $postalFormatter = new PostalFormatter($this->dataProvider);
 
         $this->assertInstanceOf('CommerceGuys\\Addressing\\Formatter\\PostalFormatter', $postalFormatter);
     }
@@ -74,7 +74,7 @@ class PostalFormatterTest extends \PHPUnit_Framework_TestCase
      * @uses CommerceGuys\Addressing\Model\Address
      * @uses CommerceGuys\Addressing\Model\AddressFormat
      * @uses CommerceGuys\Addressing\Model\Subdivision
-     * @uses CommerceGuys\Addressing\Metadata\AddressMetadataRepository
+     * @uses CommerceGuys\Addressing\Provider\DataProvider
      *
      * @dataProvider formatterAddressProvider
      */
@@ -120,6 +120,7 @@ class PostalFormatterTest extends \PHPUnit_Framework_TestCase
             $setter = 'set' . ucfirst($fieldName);
             $address->$setter($value);
         }
+
         return $address;
     }
 }

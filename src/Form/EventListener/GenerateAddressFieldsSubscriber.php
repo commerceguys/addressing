@@ -4,6 +4,7 @@ namespace CommerceGuys\Addressing\Form\EventListener;
 
 use CommerceGuys\Addressing\Model\AddressFormat;
 use CommerceGuys\Addressing\Model\AddressFormatInterface;
+use CommerceGuys\Addressing\Provider\DataProviderInterface;
 use Symfony\Component\Form\FormEvent;
 use Symfony\Component\Form\FormEvents;
 use Symfony\Component\EventDispatcher\EventSubscriberInterface;
@@ -11,11 +12,11 @@ use Symfony\Component\EventDispatcher\EventSubscriberInterface;
 class GenerateAddressFieldsSubscriber implements EventSubscriberInterface
 {
     /**
-     * The metadata repository.
+     * The data provider.
      *
-     * @var AddressMetadataInterface
+     * @var DataProviderInterface
      */
-    protected $repository;
+    protected $dataProvider;
 
     /**
      * The mapping between field constants (format) and field names (address).
@@ -36,11 +37,11 @@ class GenerateAddressFieldsSubscriber implements EventSubscriberInterface
     /**
      * Creates a GenerateAddressFieldsSubscriber instance.
      *
-     * @param AddressMetadataRepositoryInterface $repository The metadata repository.
+     * @param DataProviderInterface $dataProvider The data provider.
      */
-    public function __construct($repository)
+    public function __construct(DataProviderInterface $dataProvider)
     {
-        $this->repository = $repository;
+        $this->dataProvider = $dataProvider;
     }
 
     /**
@@ -89,7 +90,7 @@ class GenerateAddressFieldsSubscriber implements EventSubscriberInterface
      */
     protected function buildForm($form, $countryCode, $administrativeArea, $locality)
     {
-        $addressFormat = $this->repository->getAddressFormat($countryCode);
+        $addressFormat = $this->dataProvider->getAddressFormat($countryCode);
         // A list of needed subdivisions and their parent ids.
         $subdivisions = array(
             AddressFormatInterface::FIELD_ADMINISTRATIVE_AREA => 0,
@@ -137,7 +138,7 @@ class GenerateAddressFieldsSubscriber implements EventSubscriberInterface
         // Add choices for predefined subdivisions.
         foreach ($subdivisions as $fieldConstant => $parentId) {
             // @todo Pass the form locale to get the translated values.
-            $children = $this->repository->getSubdivisions($addressFormat->getCountryCode(), $parentId);
+            $children = $this->dataProvider->getSubdivisions($addressFormat->getCountryCode(), $parentId);
             if ($children) {
                 $fields[$fieldConstant]['choices'] = array();
                 foreach ($children as $child) {

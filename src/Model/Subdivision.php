@@ -2,6 +2,9 @@
 
 namespace CommerceGuys\Addressing\Model;
 
+use CommerceGuys\Addressing\Repository\SubdivisionRepositoryInterface;
+use CommerceGuys\Addressing\Repository\SubdivisionRepository;
+
 class Subdivision implements SubdivisionInterface
 {
     /**
@@ -61,9 +64,9 @@ class Subdivision implements SubdivisionInterface
     protected $locale;
 
     /**
-     * The metadata repository.
+     * The subdivision repository.
      *
-     * @var AddressMetadataRepositoryInterface
+     * @var SubdivisionRepositoryInterface
      */
     protected static $repository;
 
@@ -75,7 +78,7 @@ class Subdivision implements SubdivisionInterface
         if (!$this->parent->getCode()) {
             // The parent object is incomplete. Load the full one.
             $repository = self::getRepository();
-            $this->parent = $repository->getSubdivision($this->parent->getId());
+            $this->parent = $repository->get($this->parent->getId());
         }
 
         return $this->parent;
@@ -190,7 +193,7 @@ class Subdivision implements SubdivisionInterface
         // to array('load'), to indicate that they should be lazy loaded.
         if (!isset($this->children) || $this->children === array('load')) {
             $repository = self::getRepository();
-            $this->children = $repository->getSubdivisions($this->countryCode, $this->id, $this->locale);
+            $this->children = $repository->getAll($this->countryCode, $this->id, $this->locale);
         }
 
         return $this->children;
@@ -237,25 +240,25 @@ class Subdivision implements SubdivisionInterface
     }
 
     /**
-     * Gets the metadata repository.
+     * Gets the subdivision repository.
      *
-     * @return AddressMetadataRepositoryInterface The metadata repository.
+     * @return SubdivisionRepositoryInterface The subdivision repository.
      */
     public static function getRepository()
     {
         if (!isset(self::$repository)) {
-            self::setRepository(new AddressMetadataRepository());
+            self::setRepository(new SubdivisionRepository());
         }
 
         return self::$repository;
     }
 
     /**
-     * Sets the metadata repository.
+     * Sets the subdivision repository.
      *
-     * @param AddressMetadataRepositoryInterface $repository The metadata repository.
+     * @param SubdivisionRepositoryInterface $repository The subdivision repository.
      */
-    public static function setRepository(AddressMetadataRepositoryInterface $repository)
+    public static function setRepository(SubdivisionRepositoryInterface $repository)
     {
         self::$repository = $repository;
     }

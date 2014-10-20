@@ -3,8 +3,8 @@
 namespace CommerceGuys\Addressing\Tests\Validator;
 
 use CommerceGuys\Addressing\Model\Address;
-use CommerceGuys\Addressing\Metadata\AddressMetadataRepository;
-use CommerceGuys\Addressing\Validator\Constraints\AddressFormat;
+use CommerceGuys\Addressing\Provider\DataProvider;
+use CommerceGuys\Addressing\Validator\Constraints\AddressFormat as AddressFormatConstraint;
 use CommerceGuys\Addressing\Validator\Constraints\AddressFormatValidator;
 use Symfony\Component\Validator\Validation;
 use Symfony\Component\Validator\Validator\LegacyValidator;
@@ -35,7 +35,7 @@ class AddressFormatValidatorTest extends \PHPUnit_Framework_TestCase
     public function setUp()
     {
         $this->address = new Address();
-        $this->constraint = new AddressFormat();
+        $this->constraint = new AddressFormatConstraint();
         $this->validator = Validation::createValidator();
     }
 
@@ -43,8 +43,8 @@ class AddressFormatValidatorTest extends \PHPUnit_Framework_TestCase
      * @covers CommerceGuys\Addressing\Validator\Constraints\AddressFormatValidator
      * @uses CommerceGuys\Addressing\Model\Address
      * @uses CommerceGuys\Addressing\Model\AddressFormat
-     * @uses CommerceGuys\Addressing\Metadata\AddressMetadataRepository
      * @uses CommerceGuys\Addressing\Model\Subdivision
+     * @uses CommerceGuys\Addressing\Provider\DataProvider
      */
     public function testUnitedStatesOK()
     {
@@ -61,8 +61,8 @@ class AddressFormatValidatorTest extends \PHPUnit_Framework_TestCase
      * @covers CommerceGuys\Addressing\Validator\Constraints\AddressFormatValidator
      * @uses CommerceGuys\Addressing\Model\Address
      * @uses CommerceGuys\Addressing\Model\AddressFormat
-     * @uses CommerceGuys\Addressing\Metadata\AddressMetadataRepository
      * @uses CommerceGuys\Addressing\Model\Subdivision
+     * @uses CommerceGuys\Addressing\Provider\DataProvider
      */
     public function testUnitedStatesNotOK()
     {
@@ -81,8 +81,8 @@ class AddressFormatValidatorTest extends \PHPUnit_Framework_TestCase
      * @covers CommerceGuys\Addressing\Validator\Constraints\AddressFormatValidator
      * @uses CommerceGuys\Addressing\Model\Address
      * @uses CommerceGuys\Addressing\Model\AddressFormat
-     * @uses CommerceGuys\Addressing\Metadata\AddressMetadataRepository
      * @uses CommerceGuys\Addressing\Model\Subdivision
+     * @uses CommerceGuys\Addressing\Provider\DataProvider
      */
     public function testChinaOK() {
         $this->address
@@ -98,8 +98,8 @@ class AddressFormatValidatorTest extends \PHPUnit_Framework_TestCase
      * @covers CommerceGuys\Addressing\Validator\Constraints\AddressFormatValidator
      * @uses CommerceGuys\Addressing\Model\Address
      * @uses CommerceGuys\Addressing\Model\AddressFormat
-     * @uses CommerceGuys\Addressing\Metadata\AddressMetadataRepository
      * @uses CommerceGuys\Addressing\Model\Subdivision
+     * @uses CommerceGuys\Addressing\Provider\DataProvider
      */
     public function testGermanAddress() {
         $this->address
@@ -123,8 +123,8 @@ class AddressFormatValidatorTest extends \PHPUnit_Framework_TestCase
      * @covers CommerceGuys\Addressing\Validator\Constraints\AddressFormatValidator
      * @uses CommerceGuys\Addressing\Model\Address
      * @uses CommerceGuys\Addressing\Model\AddressFormat
-     * @uses CommerceGuys\Addressing\Metadata\AddressMetadataRepository
      * @uses CommerceGuys\Addressing\Model\Subdivision
+     * @uses CommerceGuys\Addressing\Provider\DataProvider
      */
     public function testIrishAddress() {
         $this->address
@@ -147,8 +147,8 @@ class AddressFormatValidatorTest extends \PHPUnit_Framework_TestCase
      * @covers CommerceGuys\Addressing\Validator\Constraints\AddressFormatValidator
      * @uses CommerceGuys\Addressing\Model\Address
      * @uses CommerceGuys\Addressing\Model\AddressFormat
-     * @uses CommerceGuys\Addressing\Metadata\AddressMetadataRepository
      * @uses CommerceGuys\Addressing\Model\Subdivision
+     * @uses CommerceGuys\Addressing\Provider\DataProvider
      */
     public function testChinaPostalCodeBadFormat() {
         $this->address
@@ -167,8 +167,8 @@ class AddressFormatValidatorTest extends \PHPUnit_Framework_TestCase
      * @covers CommerceGuys\Addressing\Validator\Constraints\AddressFormatValidator
      * @uses CommerceGuys\Addressing\Model\Address
      * @uses CommerceGuys\Addressing\Model\AddressFormat
-     * @uses CommerceGuys\Addressing\Metadata\AddressMetadataRepository
      * @uses CommerceGuys\Addressing\Model\Subdivision
+     * @uses CommerceGuys\Addressing\Provider\DataProvider
      */
     public function testEmptyPostalCodeReportedAsGoodFormat() {
         $this->address
@@ -196,8 +196,8 @@ class AddressFormatValidatorTest extends \PHPUnit_Framework_TestCase
      * @covers CommerceGuys\Addressing\Validator\Constraints\AddressFormatValidator
      * @uses CommerceGuys\Addressing\Model\Address
      * @uses CommerceGuys\Addressing\Model\AddressFormat
-     * @uses CommerceGuys\Addressing\Metadata\AddressMetadataRepository
      * @uses CommerceGuys\Addressing\Model\Subdivision
+     * @uses CommerceGuys\Addressing\Provider\DataProvider
      */
     public function testChinaTaiwanOk() {
         $this->address
@@ -215,8 +215,9 @@ class AddressFormatValidatorTest extends \PHPUnit_Framework_TestCase
      * @covers CommerceGuys\Addressing\Validator\Constraints\AddressFormatValidator
      * @uses CommerceGuys\Addressing\Model\Address
      * @uses CommerceGuys\Addressing\Model\AddressFormat
-     * @uses CommerceGuys\Addressing\Metadata\AddressMetadataRepository
+     * @uses CommerceGuys\Addressing\Provider\DataProvider
      * @uses CommerceGuys\Addressing\Model\Subdivision
+     * @uses CommerceGuys\Addressing\Provider\DataProvider
      */
     public function testChinaTaiwanUnknownDistrict() {
         $this->address
@@ -236,8 +237,8 @@ class AddressFormatValidatorTest extends \PHPUnit_Framework_TestCase
      * @covers CommerceGuys\Addressing\Validator\Constraints\AddressFormatValidator
      * @uses CommerceGuys\Addressing\Model\Address
      * @uses CommerceGuys\Addressing\Model\AddressFormat
-     * @uses CommerceGuys\Addressing\Metadata\AddressMetadataRepository
      * @uses CommerceGuys\Addressing\Model\Subdivision
+     * @uses CommerceGuys\Addressing\Provider\DataProvider
      */
     public function testStreetVerification() {
         $this->address
@@ -257,8 +258,8 @@ class AddressFormatValidatorTest extends \PHPUnit_Framework_TestCase
      * @covers CommerceGuys\Addressing\Validator\Constraints\AddressFormatValidator
      * @uses CommerceGuys\Addressing\Model\Address
      * @uses CommerceGuys\Addressing\Model\AddressFormat
-     * @uses CommerceGuys\Addressing\Metadata\AddressMetadataRepository
      * @uses CommerceGuys\Addressing\Model\Subdivision
+     * @uses CommerceGuys\Addressing\Provider\DataProvider
      */
     public function testSubdivisionPostcodePattern() {
         // The correct postal code patters is used for a subdivision.
@@ -283,8 +284,8 @@ class AddressFormatValidatorTest extends \PHPUnit_Framework_TestCase
      * @covers CommerceGuys\Addressing\Validator\Constraints\AddressFormatValidator
      * @uses CommerceGuys\Addressing\Model\Address
      * @uses CommerceGuys\Addressing\Model\AddressFormat
-     * @uses CommerceGuys\Addressing\Metadata\AddressMetadataRepository
      * @uses CommerceGuys\Addressing\Model\Subdivision
+     * @uses CommerceGuys\Addressing\Provider\DataProvider
      */
     public function testJapan() {
         $this->address
@@ -301,8 +302,8 @@ class AddressFormatValidatorTest extends \PHPUnit_Framework_TestCase
      * @covers CommerceGuys\Addressing\Validator\Constraints\AddressFormatValidator
      * @uses CommerceGuys\Addressing\Model\Address
      * @uses CommerceGuys\Addressing\Model\AddressFormat
-     * @uses CommerceGuys\Addressing\Metadata\AddressMetadataRepository
      * @uses CommerceGuys\Addressing\Model\Subdivision
+     * @uses CommerceGuys\Addressing\Provider\DataProvider
      */
     public function testCanadaMixedCasePostcode() {
         $this->address
@@ -320,8 +321,8 @@ class AddressFormatValidatorTest extends \PHPUnit_Framework_TestCase
      * @covers CommerceGuys\Addressing\Validator\Constraints\AddressFormatValidator
      * @uses CommerceGuys\Addressing\Model\Address
      * @uses CommerceGuys\Addressing\Model\AddressFormat
-     * @uses CommerceGuys\Addressing\Metadata\AddressMetadataRepository
      * @uses CommerceGuys\Addressing\Model\Subdivision
+     * @uses CommerceGuys\Addressing\Provider\DataProvider
      */
     public function testCanadaUnusedFields() {
         $this->address
@@ -338,17 +339,17 @@ class AddressFormatValidatorTest extends \PHPUnit_Framework_TestCase
     }
 
     /**
-     * @covers ::getRepository
-     * @covers ::setRepository
-     * @uses CommerceGuys\Addressing\Metadata\AddressMetadataRepository
+     * @covers ::getDataProvider
+     * @covers ::setDataProvider
+     * @uses CommerceGuys\Addressing\Provider\DataProvider
      */
-    public function testRepository() {
+    public function testDataProvider() {
         $addressFormatValidator = new AddressFormatValidator();
-        $this->assertInstanceOf('CommerceGuys\Addressing\Metadata\AddressMetadataRepository', $addressFormatValidator->getRepository());
+        $this->assertInstanceOf('CommerceGuys\Addressing\Provider\DataProvider', $addressFormatValidator->getDataProvider());
 
-        $addressMetadataRepository = new AddressMetadataRepository();
-        $addressFormatValidator->setRepository($addressMetadataRepository);
-        $this->assertEquals($addressMetadataRepository, $addressFormatValidator->getRepository());
+        $dataProvider = new DataProvider();
+        $addressFormatValidator->setDataProvider($dataProvider);
+        $this->assertEquals($dataProvider, $addressFormatValidator->getDataProvider());
     }
 
     /**

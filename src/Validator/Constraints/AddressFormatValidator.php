@@ -4,19 +4,19 @@ namespace CommerceGuys\Addressing\Validator\Constraints;
 
 use CommerceGuys\Addressing\Model\AddressInterface;
 use CommerceGuys\Addressing\Model\AddressFormatInterface;
-use CommerceGuys\Addressing\Metadata\AddressMetadataRepository;
-use CommerceGuys\Addressing\Metadata\AddressMetadataRepositoryInterface;
+use CommerceGuys\Addressing\Provider\DataProvider;
+use CommerceGuys\Addressing\Provider\DataProviderInterface;
 use Symfony\Component\Validator\Constraint;
 use Symfony\Component\Validator\ConstraintValidator;
 
 class AddressFormatValidator extends ConstraintValidator
 {
     /**
-     * The metadata repository.
+     * The data provider.
      *
-     * @var AddressMetadataRepositoryInterface
+     * @var DataProviderInterface
      */
-    protected $repository;
+    protected $dataProvider;
 
     /**
      * The mapping between field constants (format) and field names (address).
@@ -41,8 +41,8 @@ class AddressFormatValidator extends ConstraintValidator
     {
         $address = $value;
         $values = $this->extractAddressValues($address);
-        $repository = $this->getRepository();
-        $addressFormat = $repository->getAddressFormat($address->getCountryCode());
+        $dataProvider = $this->getDataProvider();
+        $addressFormat = $dataProvider->getAddressFormat($address->getCountryCode());
 
         $this->validateFields($values, $addressFormat, $constraint);
         $subdivisions = $this->validateSubdivisions($values, $addressFormat, $constraint);
@@ -88,7 +88,7 @@ class AddressFormatValidator extends ConstraintValidator
      */
     protected function validateSubdivisions($values, AddressFormatInterface $addressFormat, $constraint)
     {
-        $repository = $this->getRepository();
+        $dataProvider = $this->getDataProvider();
         $countryCode = $addressFormat->getCountryCode();
         $subdivisionLevels = array(
             'root',
@@ -107,7 +107,7 @@ class AddressFormatValidator extends ConstraintValidator
                 }
             }
 
-            $children = $repository->getSubdivisions($countryCode, $parentId);
+            $children = $dataProvider->getSubdivisions($countryCode, $parentId);
             $nextIndex = $index + 1;
             if (!$children || !isset($subdivisionLevels[$nextIndex])) {
                 // This level has no children, stop.
@@ -217,26 +217,26 @@ class AddressFormatValidator extends ConstraintValidator
     }
 
     /**
-     * Gets the metadata repository.
+     * Gets the data provider.
      *
-     * @return AddressMetadataRepositoryInterface The metadata repository.
+     * @return DataProviderInterface The data provider.
      */
-    public function getRepository()
+    public function getDataProvider()
     {
-        if (!$this->repository) {
-            $this->repository = new AddressMetadataRepository();
+        if (!$this->dataProvider) {
+            $this->dataProvider = new DataProvider();
         }
 
-        return $this->repository;
+        return $this->dataProvider;
     }
 
     /**
-     * Sets the metadata repository.
+     * Sets the data provider.
      *
-     * @param AddressMetadataRepositoryInterface $repository The metadata repository.
+     * @param DataProviderInterface $dataProvider The data provider.
      */
-    public function setRepository(AddressMetadataRepositoryInterface $repository)
+    public function setDataProvider(DataProviderInterface $dataProvider)
     {
-        $this->repository = $repository;
+        $this->dataProvider = $dataProvider;
     }
 }

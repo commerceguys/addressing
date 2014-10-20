@@ -3,30 +3,30 @@
 namespace CommerceGuys\Addressing\Formatter;
 
 use CommerceGuys\Addressing\Model\AddressInterface;
-use CommerceGuys\Addressing\Metadata\AddressMetadataRepositoryInterface;
 use CommerceGuys\Addressing\Model\AddressFormat;
+use CommerceGuys\Addressing\Provider\DataProviderInterface;
 
 class PostalFormatter
 {
     /**
-     * The metadata repository.
+     * The data provider.
      *
-     * @var AddressMetadataRepositoryInterface
+     * @var DataProviderInterface
      */
-    protected $repository;
+    protected $dataProvider;
 
     /**
      * Creates a PostalFormatter instance.
      *
-     * @param AddressMetadataRepositoryInterface $repository The metadata repository.
+     * @param DataProviderInterface $dataProvider The data provider.
      */
-    public function __construct(AddressMetadataRepositoryInterface $repository)
+    public function __construct(DataProviderInterface $dataProvider)
     {
         if (!function_exists('mb_strtoupper')) {
             throw new \Exception('The "mbstring" extension is required by this class.');
         }
 
-        $this->repository = $repository;
+        $this->dataProvider = $dataProvider;
     }
 
     /**
@@ -52,7 +52,7 @@ class PostalFormatter
         // minor-to-major format being used for China/Japan/Korea in case of
         // international shippments, increasing the chances of the
         // address being interpreted correctly.
-        $addressFormat = $this->repository->getAddressFormat($countryCode, $originLocale);
+        $addressFormat = $this->dataProvider->getAddressFormat($countryCode, $originLocale);
 
         $subdivisions = array(
             'administrative_area' => $address->getAdministrativeArea(),
@@ -65,7 +65,7 @@ class PostalFormatter
                 // This level is empty, so there can be no sublevels.
                 break;
             }
-            $subdivision = $this->repository->getSubdivision($id);
+            $subdivision = $this->dataProvider->getSubdivision($id);
             if (!$subdivision) {
                 // This level has no predefined subdivison, stop.
                 break;
@@ -107,7 +107,7 @@ class PostalFormatter
         // it's understood by the post office in the origin country).
         $destinationCountryCode = $address->getCountryCode();
         if ($destinationCountryCode != $originCountryCode) {
-            $country = $this->repository->getCountryName($destinationCountryCode, $originLocale);
+            $country = $this->dataProvider->getCountryName($destinationCountryCode, $originLocale);
             $formattedAddress .= "\n" . mb_strtoupper($country, 'utf-8');
         }
 

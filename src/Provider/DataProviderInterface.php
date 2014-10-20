@@ -1,14 +1,20 @@
 <?php
 
-namespace CommerceGuys\Addressing\Metadata;
+namespace CommerceGuys\Addressing\Provider;
 
 use CommerceGuys\Addressing\Model\AddressFormat;
 use CommerceGuys\Addressing\Model\Subdivision;
 
 /**
- * Address metadata repository interface.
+ * Data provider interface.
+ *
+ * Acts as a facade in front of country/subdivision/address_format repositories,
+ * and serves as the single point of contact between the data layer and the
+ * rest of the library. This allows external systems to integrate custom storage
+ * through a single class (e.g. DoctrineDataProvider or DrupalDataProvider,
+ * loading data stored in entities).
  */
-interface AddressMetadataRepositoryInterface
+interface DataProviderInterface
 {
     /**
      * Returns the localized country name matching the provided country code.
