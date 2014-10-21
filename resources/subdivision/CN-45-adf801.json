@@ -44,23 +44,23 @@
         "parent_id": "CN-45-adf801",
         "id": "CN-45-adf801-544815",
         "code": "荔浦县",
-        "name": "Lipu Qu",
+        "name": "Lipu Xian",
         "translations": {
             "zh-hans": {
                 "name": "荔浦县"
             }
         }
     },
-    "CN-45-adf801-8c9287": {
+    "CN-45-adf801-0e1562": {
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-adf801",
-        "id": "CN-45-adf801-8c9287",
-        "code": "临桂县",
-        "name": "Lingui Xian",
+        "id": "CN-45-adf801-0e1562",
+        "code": "临桂区",
+        "name": "Lingui Qu",
         "translations": {
             "zh-hans": {
-                "name": "临桂县"
+                "name": "临桂区"
             }
         }
     },

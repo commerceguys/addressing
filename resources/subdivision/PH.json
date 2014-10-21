@@ -260,6 +260,14 @@
         "name": "Davao del Sur",
         "postal_code_pattern": "80[01]"
     },
+    "PH-a9dd0b": {
+        "locale": "en",
+        "country_code": "PH",
+        "parent_id": null,
+        "id": "PH-a9dd0b",
+        "code": "Davao Occidental",
+        "name": "Davao Occidental"
+    },
     "PH-DAO": {
         "locale": "en",
         "country_code": "PH",

@@ -1,6 +1,6 @@
 {
     "locale": "ms",
-    "format": "%recipient\n%organization\n%address\n%postal_code %locality, %administrative_area",
+    "format": "%recipient\n%organization\n%address\n%dependent_locality\n%postal_code %locality\n%administrative_area",
     "required_fields": [
         "address",
         "locality",

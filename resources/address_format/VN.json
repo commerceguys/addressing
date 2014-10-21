@@ -1,6 +1,6 @@
 {
     "locale": "vi-Latn",
-    "format": "%recipient\n%organization\n%address\n%locality\n%administrative_area",
+    "format": "%recipient\n%organization\n%address\n%locality\n%administrative_area %postal_code",
     "required_fields": [
         "address",
         "locality"
@@ -13,7 +13,7 @@
     "postal_code_pattern": "\\d{6}",
     "translations": {
         "vi": {
-            "format": "%recipient\n%organization\n%address\n%locality\n%administrative_area"
+            "format": "%recipient\n%organization\n%address\n%locality\n%administrative_area %postal_code"
         }
     }
 }

@@ -1,17 +1,4 @@
 {
-    "CN-32-c32846-c4ec52": {
-        "locale": "zh-Latn",
-        "country_code": "CN",
-        "parent_id": "CN-32-c32846",
-        "id": "CN-32-c32846-c4ec52",
-        "code": "沧浪区",
-        "name": "Canglang Qu",
-        "translations": {
-            "zh-hans": {
-                "name": "沧浪区"
-            }
-        }
-    },
     "CN-32-c32846-8318a8": {
         "locale": "zh-Latn",
         "country_code": "CN",
@@ -22,6 +9,19 @@
         "translations": {
             "zh-hans": {
                 "name": "常熟市"
+            }
+        }
+    },
+    "CN-32-c32846-343cc1": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-32-c32846",
+        "id": "CN-32-c32846-343cc1",
+        "code": "姑苏区",
+        "name": "Gusu Qu",
+        "translations": {
+            "zh-hans": {
+                "name": "姑苏区"
             }
         }
     },
@@ -38,19 +38,6 @@
             }
         }
     },
-    "CN-32-c32846-05015f": {
-        "locale": "zh-Latn",
-        "country_code": "CN",
-        "parent_id": "CN-32-c32846",
-        "id": "CN-32-c32846-05015f",
-        "code": "金阊区",
-        "name": "Jinchang Qu",
-        "translations": {
-            "zh-hans": {
-                "name": "金阊区"
-            }
-        }
-    },
     "CN-32-c32846-11b574": {
         "locale": "zh-Latn",
         "country_code": "CN",
@@ -61,19 +48,6 @@
         "translations": {
             "zh-hans": {
                 "name": "昆山市"
-            }
-        }
-    },
-    "CN-32-c32846-ec8e4f": {
-        "locale": "zh-Latn",
-        "country_code": "CN",
-        "parent_id": "CN-32-c32846",
-        "id": "CN-32-c32846-ec8e4f",
-        "code": "平江区",
-        "name": "Pingjiang Qu",
-        "translations": {
-            "zh-hans": {
-                "name": "平江区"
             }
         }
     },
@@ -90,16 +64,16 @@
             }
         }
     },
-    "CN-32-c32846-e3bc6d": {
+    "CN-32-c32846-0b2d2b": {
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-c32846",
-        "id": "CN-32-c32846-e3bc6d",
-        "code": "吴江市",
-        "name": "Wujiang Shi",
+        "id": "CN-32-c32846-0b2d2b",
+        "code": "吴江区",
+        "name": "Wujiang Qu",
         "translations": {
             "zh-hans": {
-                "name": "吴江市"
+                "name": "吴江区"
             }
         }
     },

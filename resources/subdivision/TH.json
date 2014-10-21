@@ -83,6 +83,19 @@
             }
         }
     },
+    "TH-38": {
+        "locale": "th-Latn",
+        "country_code": "TH",
+        "parent_id": null,
+        "id": "TH-38",
+        "code": "จังหวัด บึงกาฬ",
+        "name": "Bueng Kan",
+        "translations": {
+            "th": {
+                "name": "จังหวัด บึงกาฬ"
+            }
+        }
+    },
     "TH-22": {
         "locale": "th-Latn",
         "country_code": "TH",

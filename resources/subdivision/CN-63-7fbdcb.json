@@ -1,9 +1,9 @@
 {
-    "CN-63-2ae857-7711f9": {
+    "CN-63-7fbdcb-f301bf": {
         "locale": "zh-Latn",
         "country_code": "CN",
-        "parent_id": "CN-63-2ae857",
-        "id": "CN-63-2ae857-7711f9",
+        "parent_id": "CN-63-7fbdcb",
+        "id": "CN-63-7fbdcb-f301bf",
         "code": "互助土族自治县",
         "name": "Huzhu Xian",
         "translations": {
@@ -12,11 +12,11 @@
             }
         }
     },
-    "CN-63-2ae857-0df472": {
+    "CN-63-7fbdcb-086283": {
         "locale": "zh-Latn",
         "country_code": "CN",
-        "parent_id": "CN-63-2ae857",
-        "id": "CN-63-2ae857-0df472",
+        "parent_id": "CN-63-7fbdcb",
+        "id": "CN-63-7fbdcb-086283",
         "code": "化隆回族自治县",
         "name": "Hualong Xian",
         "translations": {
@@ -25,24 +25,24 @@
             }
         }
     },
-    "CN-63-2ae857-012587": {
+    "CN-63-7fbdcb-b67abf": {
         "locale": "zh-Latn",
         "country_code": "CN",
-        "parent_id": "CN-63-2ae857",
-        "id": "CN-63-2ae857-012587",
-        "code": "乐都县",
-        "name": "Ledu Xian",
+        "parent_id": "CN-63-7fbdcb",
+        "id": "CN-63-7fbdcb-b67abf",
+        "code": "乐都区",
+        "name": "Ledu Qu",
         "translations": {
             "zh-hans": {
-                "name": "乐都县"
+                "name": "乐都区"
             }
         }
     },
-    "CN-63-2ae857-ed137c": {
+    "CN-63-7fbdcb-602a59": {
         "locale": "zh-Latn",
         "country_code": "CN",
-        "parent_id": "CN-63-2ae857",
-        "id": "CN-63-2ae857-ed137c",
+        "parent_id": "CN-63-7fbdcb",
+        "id": "CN-63-7fbdcb-602a59",
         "code": "民和回族土族自治县",
         "name": "Minhe Xian",
         "translations": {
@@ -51,11 +51,11 @@
             }
         }
     },
-    "CN-63-2ae857-e8d0a6": {
+    "CN-63-7fbdcb-a996b5": {
         "locale": "zh-Latn",
         "country_code": "CN",
-        "parent_id": "CN-63-2ae857",
-        "id": "CN-63-2ae857-e8d0a6",
+        "parent_id": "CN-63-7fbdcb",
+        "id": "CN-63-7fbdcb-a996b5",
         "code": "平安县",
         "name": "Ping'an Xian",
         "translations": {
@@ -64,11 +64,11 @@
             }
         }
     },
-    "CN-63-2ae857-da57c8": {
+    "CN-63-7fbdcb-4a1234": {
         "locale": "zh-Latn",
         "country_code": "CN",
-        "parent_id": "CN-63-2ae857",
-        "id": "CN-63-2ae857-da57c8",
+        "parent_id": "CN-63-7fbdcb",
+        "id": "CN-63-7fbdcb-4a1234",
         "code": "循化撒拉族自治县",
         "name": "Xunhua Xian",
         "translations": {

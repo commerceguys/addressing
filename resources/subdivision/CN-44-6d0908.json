@@ -12,16 +12,16 @@
             }
         }
     },
-    "CN-44-6d0908-59753f": {
+    "CN-44-6d0908-aa4c83": {
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44-6d0908",
-        "id": "CN-44-6d0908-59753f",
-        "code": "从化市",
-        "name": "Conghua Shi",
+        "id": "CN-44-6d0908-aa4c83",
+        "code": "从化区",
+        "name": "Conghua Qu",
         "translations": {
             "zh-hans": {
-                "name": "从化市"
+                "name": "从化区"
             }
         }
     },
@@ -90,19 +90,6 @@
             }
         }
     },
-    "CN-44-6d0908-d38c1e": {
-        "locale": "zh-Latn",
-        "country_code": "CN",
-        "parent_id": "CN-44-6d0908",
-        "id": "CN-44-6d0908-d38c1e",
-        "code": "萝岗区",
-        "name": "Luogang Qu",
-        "translations": {
-            "zh-hans": {
-                "name": "萝岗区"
-            }
-        }
-    },
     "CN-44-6d0908-fbe8ff": {
         "locale": "zh-Latn",
         "country_code": "CN",
@@ -142,16 +129,16 @@
             }
         }
     },
-    "CN-44-6d0908-e6ddc5": {
+    "CN-44-6d0908-eb1a19": {
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44-6d0908",
-        "id": "CN-44-6d0908-e6ddc5",
-        "code": "增城市",
-        "name": "Zengcheng Shi",
+        "id": "CN-44-6d0908-eb1a19",
+        "code": "增城区",
+        "name": "Zengcheng Qu",
         "translations": {
             "zh-hans": {
-                "name": "增城市"
+                "name": "增城区"
             }
         }
     }

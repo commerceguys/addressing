@@ -1,6 +1,6 @@
 {
     "locale": "und",
-    "format": "%recipient\n%organization\n%address",
+    "format": "%recipient\n%organization\n%address\nGIBRALTAR\n%postal_code",
     "required_fields": [
         "address"
     ],

@@ -10,7 +10,8 @@
             "zh-hant": {
                 "name": "九龍"
             }
-        }
+        },
+        "has_children": true
     },
     "HK-9f4b5f": {
         "locale": "zh-Latn",
@@ -23,7 +24,8 @@
             "zh-hant": {
                 "name": "香港島"
             }
-        }
+        },
+        "has_children": true
     },
     "HK-87ea5e": {
         "locale": "zh-Latn",
@@ -36,6 +38,7 @@
             "zh-hant": {
                 "name": "新界"
             }
-        }
+        },
+        "has_children": true
     }
 }

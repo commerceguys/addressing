@@ -1,6 +1,6 @@
 {
     "locale": "zh-Latn",
-    "format": "%recipient\n%organization\n%address\n%administrative_area",
+    "format": "%recipient\n%organization\n%address\n%locality\n%administrative_area",
     "required_fields": [
         "address",
         "administrative_area"
@@ -12,7 +12,7 @@
     "postal_code_type": "postal",
     "translations": {
         "zh-hant": {
-            "format": "%administrative_area\n%address\n%organization\n%recipient"
+            "format": "%administrative_area\n%locality\n%address\n%organization\n%recipient"
         }
     }
 }

@@ -4,7 +4,7 @@
         "country_code": "CL",
         "parent_id": null,
         "id": "CL-AN",
-        "code": "II Región de Antofagasta",
+        "code": "Antofagasta",
         "name": "Antofagasta",
         "has_children": true
     },
@@ -13,7 +13,7 @@
         "country_code": "CL",
         "parent_id": null,
         "id": "CL-AR",
-        "code": "IX Región de la Araucanía",
+        "code": "Araucanía",
         "name": "Araucanía",
         "has_children": true
     },
@@ -22,7 +22,7 @@
         "country_code": "CL",
         "parent_id": null,
         "id": "CL-AP",
-        "code": "XV Región de Arica y Parinacota",
+        "code": "Arica y Parinacota",
         "name": "Arica y Parinacota",
         "has_children": true
     },
@@ -31,7 +31,7 @@
         "country_code": "CL",
         "parent_id": null,
         "id": "CL-AT",
-        "code": "III Región de Atacama",
+        "code": "Atacama",
         "name": "Atacama",
         "has_children": true
     },
@@ -40,7 +40,7 @@
         "country_code": "CL",
         "parent_id": null,
         "id": "CL-AI",
-        "code": "XI Región Aysén del General Carlos Ibáñez del Campo",
+        "code": "Aysén",
         "name": "Aysén del General Carlos Ibáñez del Campo",
         "has_children": true
     },
@@ -49,7 +49,7 @@
         "country_code": "CL",
         "parent_id": null,
         "id": "CL-BI",
-        "code": "VIII Región del Biobío",
+        "code": "Biobío",
         "name": "Biobío",
         "has_children": true
     },
@@ -58,7 +58,7 @@
         "country_code": "CL",
         "parent_id": null,
         "id": "CL-CO",
-        "code": "IV Región de Coquimbo",
+        "code": "Coquimbo",
         "name": "Coquimbo",
         "has_children": true
     },
@@ -67,7 +67,7 @@
         "country_code": "CL",
         "parent_id": null,
         "id": "CL-LI",
-        "code": "VI Región del Libertador General Bernardo O'Higgins",
+        "code": "O'Higgins",
         "name": "Libertador General Bernardo O'Higgins",
         "has_children": true
     },
@@ -76,7 +76,7 @@
         "country_code": "CL",
         "parent_id": null,
         "id": "CL-LL",
-        "code": "X Región de Los Lagos",
+        "code": "Los Lagos",
         "name": "Los Lagos",
         "has_children": true
     },
@@ -85,7 +85,7 @@
         "country_code": "CL",
         "parent_id": null,
         "id": "CL-LR",
-        "code": "XIV Región de Los Ríos",
+        "code": "Los Ríos",
         "name": "Los Ríos",
         "has_children": true
     },
@@ -94,7 +94,7 @@
         "country_code": "CL",
         "parent_id": null,
         "id": "CL-MA",
-        "code": "XII Región de Magallanes y de la Antártica Chilena",
+        "code": "Magallanes",
         "name": "Magallanes y de la Antártica Chilena",
         "has_children": true
     },
@@ -103,7 +103,7 @@
         "country_code": "CL",
         "parent_id": null,
         "id": "CL-ML",
-        "code": "VII Región del Maule",
+        "code": "Maule",
         "name": "Maule",
         "has_children": true
     },
@@ -112,7 +112,7 @@
         "country_code": "CL",
         "parent_id": null,
         "id": "CL-RM",
-        "code": "Región Metropolitana de Santiago",
+        "code": "Región Metropolitana",
         "name": "Metropolitana de Santiago",
         "has_children": true
     },
@@ -121,7 +121,7 @@
         "country_code": "CL",
         "parent_id": null,
         "id": "CL-TA",
-        "code": "I Región de Tarapacá",
+        "code": "Tarapacá",
         "name": "Tarapacá",
         "has_children": true
     },
@@ -130,7 +130,7 @@
         "country_code": "CL",
         "parent_id": null,
         "id": "CL-VS",
-        "code": "V Región de Valparaíso",
+        "code": "Valparaíso",
         "name": "Valparaíso",
         "has_children": true
     }

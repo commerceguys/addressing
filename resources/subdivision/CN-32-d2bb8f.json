@@ -1,27 +1,14 @@
 {
-    "CN-32-d2bb8f-562ede": {
+    "CN-32-d2bb8f-a6387c": {
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-d2bb8f",
-        "id": "CN-32-d2bb8f-562ede",
-        "code": "白下区",
-        "name": "Baixia Qu",
+        "id": "CN-32-d2bb8f-a6387c",
+        "code": "高淳区",
+        "name": "Gaochun Qu",
         "translations": {
             "zh-hans": {
-                "name": "白下区"
-            }
-        }
-    },
-    "CN-32-d2bb8f-50bb12": {
-        "locale": "zh-Latn",
-        "country_code": "CN",
-        "parent_id": "CN-32-d2bb8f",
-        "id": "CN-32-d2bb8f-50bb12",
-        "code": "高淳县",
-        "name": "Gaochun Xian",
-        "translations": {
-            "zh-hans": {
-                "name": "高淳县"
+                "name": "高淳区"
             }
         }
     },
@@ -64,16 +51,16 @@
             }
         }
     },
-    "CN-32-d2bb8f-8746a2": {
+    "CN-32-d2bb8f-d8b6b7": {
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-d2bb8f",
-        "id": "CN-32-d2bb8f-8746a2",
-        "code": "溧水县",
-        "name": "Lishui Xian",
+        "id": "CN-32-d2bb8f-d8b6b7",
+        "code": "溧水区",
+        "name": "Lishui Qu",
         "translations": {
             "zh-hans": {
-                "name": "溧水县"
+                "name": "溧水区"
             }
         }
     },
@@ -126,19 +113,6 @@
         "translations": {
             "zh-hans": {
                 "name": "秦淮区"
-            }
-        }
-    },
-    "CN-32-d2bb8f-9fc1af": {
-        "locale": "zh-Latn",
-        "country_code": "CN",
-        "parent_id": "CN-32-d2bb8f",
-        "id": "CN-32-d2bb8f-9fc1af",
-        "code": "下关区",
-        "name": "Xiaguan Qu",
-        "translations": {
-            "zh-hans": {
-                "name": "下关区"
             }
         }
     },

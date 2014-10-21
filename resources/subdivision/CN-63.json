@@ -27,16 +27,16 @@
         },
         "has_children": true
     },
-    "CN-63-2ae857": {
+    "CN-63-7fbdcb": {
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-63",
-        "id": "CN-63-2ae857",
-        "code": "海东地区",
-        "name": "Haidong Diqu",
+        "id": "CN-63-7fbdcb",
+        "code": "海东市",
+        "name": "Haidong Shi",
         "translations": {
             "zh-hans": {
-                "name": "海东地区"
+                "name": "海东市"
             }
         },
         "has_children": true

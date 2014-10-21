@@ -231,6 +231,14 @@
         "code": "Balneário Gaivota",
         "name": "Balneário Gaivota"
     },
+    "BR-SC-74ff49": {
+        "locale": "pt",
+        "country_code": "BR",
+        "parent_id": "BR-SC",
+        "id": "BR-SC-74ff49",
+        "code": "Balneário Rincão",
+        "name": "Balneário Rincão"
+    },
     "BR-SC-901eb2": {
         "locale": "pt",
         "country_code": "BR",

@@ -12,16 +12,16 @@
             }
         }
     },
-    "CN-13-15c68b-a54c50": {
+    "CN-13-15c68b-29189f": {
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-15c68b",
-        "id": "CN-13-15c68b-a54c50",
-        "code": "藁城市",
-        "name": "Gaocheng Shi",
+        "id": "CN-13-15c68b-29189f",
+        "code": "藁城区",
+        "name": "Gaocheng Qu",
         "translations": {
             "zh-hans": {
-                "name": "藁城市"
+                "name": "藁城区"
             }
         }
     },
@@ -77,29 +77,29 @@
             }
         }
     },
-    "CN-13-15c68b-2ff610": {
+    "CN-13-15c68b-736c07": {
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-15c68b",
-        "id": "CN-13-15c68b-2ff610",
-        "code": "鹿泉市",
-        "name": "Luquan Shi",
+        "id": "CN-13-15c68b-736c07",
+        "code": "鹿泉区",
+        "name": "Luquan Qu",
         "translations": {
             "zh-hans": {
-                "name": "鹿泉市"
+                "name": "鹿泉区"
             }
         }
     },
-    "CN-13-15c68b-93b59e": {
+    "CN-13-15c68b-a553e1": {
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-15c68b",
-        "id": "CN-13-15c68b-93b59e",
-        "code": "栾城县",
-        "name": "Luancheng Xian",
+        "id": "CN-13-15c68b-a553e1",
+        "code": "栾城区",
+        "name": "Luancheng Qu",
         "translations": {
             "zh-hans": {
-                "name": "栾城县"
+                "name": "栾城区"
             }
         }
     },
@@ -113,19 +113,6 @@
         "translations": {
             "zh-hans": {
                 "name": "平山县"
-            }
-        }
-    },
-    "CN-13-15c68b-ff2e5d": {
-        "locale": "zh-Latn",
-        "country_code": "CN",
-        "parent_id": "CN-13-15c68b",
-        "id": "CN-13-15c68b-ff2e5d",
-        "code": "桥东区",
-        "name": "Qiaodong Qu",
-        "translations": {
-            "zh-hans": {
-                "name": "桥东区"
             }
         }
     },

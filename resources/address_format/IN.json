@@ -11,6 +11,6 @@
         "locality"
     ],
     "administrative_area_type": "state",
-    "postal_code_type": "postal",
+    "postal_code_type": "pin",
     "postal_code_pattern": "\\d{6}"
 }
