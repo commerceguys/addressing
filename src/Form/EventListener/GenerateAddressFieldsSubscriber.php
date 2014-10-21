@@ -175,6 +175,7 @@ class GenerateAddressFieldsSubscriber implements EventSubscriberInterface
             AddressFormatInterface::ADMINISTRATIVE_AREA_TYPE_STATE => 'State',
             AddressFormatInterface::POSTAL_CODE_TYPE_POSTAL => 'Postal Code',
             AddressFormatInterface::POSTAL_CODE_TYPE_ZIP => 'ZIP code',
+            AddressFormatInterface::POSTAL_CODE_TYPE_PIN => 'PIN code',
         );
 
         // Determine the correct administrative area label.

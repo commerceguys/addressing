@@ -37,6 +37,7 @@ interface AddressFormatInterface
     // Postal code types.
     const POSTAL_CODE_TYPE_POSTAL = 'postal';
     const POSTAL_CODE_TYPE_ZIP = 'zip';
+    const POSTAL_CODE_TYPE_PIN = 'pin';
 
     /**
      * Gets the two-letter country code.
