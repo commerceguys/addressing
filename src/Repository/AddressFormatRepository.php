@@ -47,6 +47,28 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
     }
 
     /**
+     * {@inheritdoc}
+     */
+    public function getAll($locale = null)
+    {
+        // Gather available address formats.
+        // This is slow, but survivable because the only use case for
+        // fetching all address formats is mass import into another storage.
+        $addressFormats = array();
+        if ($handle = opendir($this->definitionPath)) {
+            while (false !== ($entry = readdir($handle))) {
+                if (substr($entry, 0, 1) != '.') {
+                    $countryCode = strtok($entry, '.');
+                    $addressFormats[$countryCode] = $this->get($countryCode, $locale);
+                }
+            }
+            closedir($handle);
+        }
+
+        return $addressFormats;
+    }
+
+    /**
      * Loads the address format definition for the provided country code.
      *
      * @param string $countryCode The country code.

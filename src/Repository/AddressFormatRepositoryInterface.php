@@ -21,4 +21,13 @@ interface AddressFormatRepositoryInterface
      * @return AddressFormat The address format instance.
      */
     public function get($countryCode, $locale = null);
+
+    /**
+     * Returns all available address format instances.
+     *
+     * @param string  $locale The locale (i.e. fr-FR).
+     *
+     * @return AddressFormat[] An array of address format instances.
+     */
+    public function getAll($locale = null);
 }
