@@ -26,7 +26,7 @@ class AddressFormatTest extends \PHPUnit_Framework_TestCase
     public function testCountryCode()
     {
         $this->addressFormat->setCountryCode('US');
-        $this->assertEquals($this->addressFormat->getCountryCode(), 'US');
+        $this->assertEquals('US', $this->addressFormat->getCountryCode());
     }
 
     /**
@@ -37,7 +37,7 @@ class AddressFormatTest extends \PHPUnit_Framework_TestCase
     {
         $format = "%recipient\n%organization\n%address\n%locality, %administrative_area %postal_code";
         $this->addressFormat->setFormat($format);
-        $this->assertEquals($this->addressFormat->getFormat(), $format);
+        $this->assertEquals($format, $this->addressFormat->getFormat());
     }
 
     /**
@@ -53,7 +53,7 @@ class AddressFormatTest extends \PHPUnit_Framework_TestCase
             AddressFormat::FIELD_ADDRESS,
         );
         $this->addressFormat->setRequiredFields($requiredFields);
-        $this->assertEquals($this->addressFormat->getRequiredFields(), $requiredFields);
+        $this->assertEquals($requiredFields, $this->addressFormat->getRequiredFields());
     }
 
     /**
@@ -67,7 +67,7 @@ class AddressFormatTest extends \PHPUnit_Framework_TestCase
             AddressFormat::FIELD_LOCALITY,
         );
         $this->addressFormat->setUppercaseFields($uppercaseFields);
-        $this->assertEquals($this->addressFormat->getUppercaseFields(), $uppercaseFields);
+        $this->assertEquals($uppercaseFields, $this->addressFormat->getUppercaseFields());
     }
 
     /**
@@ -78,7 +78,7 @@ class AddressFormatTest extends \PHPUnit_Framework_TestCase
     {
         $areaType = AddressFormat::ADMINISTRATIVE_AREA_TYPE_STATE;
         $this->addressFormat->setAdministrativeAreaType($areaType);
-        $this->assertEquals($this->addressFormat->getAdministrativeAreaType(), $areaType);
+        $this->assertEquals($areaType, $this->addressFormat->getAdministrativeAreaType());
     }
 
     /**
@@ -89,7 +89,7 @@ class AddressFormatTest extends \PHPUnit_Framework_TestCase
     {
         $postalCodeType = AddressFormat::POSTAL_CODE_TYPE_ZIP;
         $this->addressFormat->setPostalCodeType($postalCodeType);
-        $this->assertEquals($this->addressFormat->getPostalCodeType(), $postalCodeType);
+        $this->assertEquals($postalCodeType, $this->addressFormat->getPostalCodeType());
     }
 
     /**
@@ -99,7 +99,7 @@ class AddressFormatTest extends \PHPUnit_Framework_TestCase
     public function testPostalCodePattern()
     {
         $this->addressFormat->setPostalCodePattern('(\d{5})(?:[ \-](\d{4}))?');
-        $this->assertEquals($this->addressFormat->getPostalCodePattern(), '(\d{5})(?:[ \-](\d{4}))?');
+        $this->assertEquals('(\d{5})(?:[ \-](\d{4}))?', $this->addressFormat->getPostalCodePattern());
     }
 
     /**
@@ -110,7 +110,7 @@ class AddressFormatTest extends \PHPUnit_Framework_TestCase
     {
         // US doesn't use postal code prefixes, so there's no good example here.
         $this->addressFormat->setPostalCodePrefix('CA');
-        $this->assertEquals($this->addressFormat->getPostalCodePrefix(), 'CA');
+        $this->assertEquals('CA', $this->addressFormat->getPostalCodePrefix());
     }
 
     /**
@@ -120,6 +120,6 @@ class AddressFormatTest extends \PHPUnit_Framework_TestCase
     public function testLocale()
     {
         $this->addressFormat->setLocale('en');
-        $this->assertEquals($this->addressFormat->getLocale(), 'en');
+        $this->assertEquals('en', $this->addressFormat->getLocale());
     }
 }

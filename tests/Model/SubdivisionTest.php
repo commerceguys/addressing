@@ -14,9 +14,34 @@ class SubdivisionTest extends \PHPUnit_Framework_TestCase
      */
     protected $subdivision;
 
+    /**
+     * The US state of Texas.
+     *
+     * @var Subdivision
+     */
+    protected $texas;
+
     public function setUp()
     {
         $this->subdivision = new Subdivision();
+    }
+
+    /**
+     * @covers ::getRepository
+     * @covers ::setRepository
+     */
+    public function testRepository()
+    {
+        $realRepository = $this->subdivision->getRepository();
+        $this->assertInstanceOf('CommerceGuys\Addressing\Repository\SubdivisionRepository', $realRepository);
+
+        // Replace the repository with a mock.
+        $subdivisionRepository = $this
+            ->getMockBuilder('CommerceGuys\Addressing\Repository\SubdivisionRepository')
+            ->disableOriginalConstructor()
+            ->getMock();
+        $this->subdivision->setRepository($subdivisionRepository);
+        $this->assertEquals($subdivisionRepository, $this->subdivision->getRepository());
     }
 
     /**
@@ -32,20 +57,38 @@ class SubdivisionTest extends \PHPUnit_Framework_TestCase
      */
     public function testHierarchy()
     {
-        // There's no real example here because the US only has one level of
-        // subdivisions. So, we'll add Texas as California's parent AND child.
-        $texas = new Subdivision();
-        $texas->setCountryCode('US');
-        $texas->setId('US-TX');
-        $texas->setCode('TX');
+        // Create a mock repository.
+        $subdivisionRepository = $this
+            ->getMockBuilder('CommerceGuys\Addressing\Repository\SubdivisionRepository')
+            ->disableOriginalConstructor()
+            ->getMock();
+        $subdivisionRepository->expects($this->any())
+          ->method('get')
+          ->with('US-TX')
+          ->will($this->returnValue($this->texas));
+        // The US only has one level of subdivisions. For testing purposes,
+        // make the repository return Texas as Califoria's child.
+        $subdivisionRepository->expects($this->any())
+          ->method('getAll')
+          ->with($this->equalTo('US'), $this->equalTo('US-CA'))
+          ->will($this->returnValue(array($this->texas)));
+        $this->subdivision->setRepository($subdivisionRepository);
 
-        $this->subdivision->setParent($texas);
-        $this->assertEquals($this->subdivision->getParent(), $texas);
+        $texasStub = new Subdivision();
+        $texasStub->setCountryCode('US');
+        $texasStub->setId('US-TX');
+        // getParent() should detect the stub and load the full subdivision.
+        $this->subdivision->setParent($texasStub);
+        $this->assertEquals($this->texas, $this->subdivision->getParent());
 
-        $this->assertEquals($this->subdivision->hasChildren(), false);
-        $this->subdivision->setChildren(array($texas));
-        $this->assertEquals($this->subdivision->hasChildren(), true);
-        $this->assertEquals($this->subdivision->getChildren(), array($texas));
+        // Test lazy-loading of children.
+        // This requires the subdivision id and country code to be set.
+        $this->assertEquals(false, $this->subdivision->hasChildren());
+        $this->subdivision->setCountryCode('US');
+        $this->subdivision->setId('US-CA');
+        $this->subdivision->setChildren(array('load'));
+        $this->assertEquals(array($this->texas), $this->subdivision->getChildren());
+        $this->assertEquals(true, $this->subdivision->hasChildren());
     }
 
     /**
@@ -55,7 +98,7 @@ class SubdivisionTest extends \PHPUnit_Framework_TestCase
     public function testCountryCode()
     {
         $this->subdivision->setCountryCode('US');
-        $this->assertEquals($this->subdivision->getCountryCode(), 'US');
+        $this->assertEquals('US', $this->subdivision->getCountryCode());
     }
 
     /**
@@ -65,7 +108,7 @@ class SubdivisionTest extends \PHPUnit_Framework_TestCase
     public function testId()
     {
         $this->subdivision->setId('US-CA');
-        $this->assertEquals($this->subdivision->getId(), 'US-CA');
+        $this->assertEquals('US-CA', $this->subdivision->getId());
     }
 
     /**
@@ -75,7 +118,7 @@ class SubdivisionTest extends \PHPUnit_Framework_TestCase
     public function testCode()
     {
         $this->subdivision->setCode('CA');
-        $this->assertEquals($this->subdivision->getCode(), 'CA');
+        $this->assertEquals('CA', $this->subdivision->getCode());
     }
 
     /**
@@ -85,7 +128,7 @@ class SubdivisionTest extends \PHPUnit_Framework_TestCase
     public function testName()
     {
         $this->subdivision->setName('California');
-        $this->assertEquals($this->subdivision->getName(), 'California');
+        $this->assertEquals('California', $this->subdivision->getName());
     }
 
     /**
@@ -95,7 +138,7 @@ class SubdivisionTest extends \PHPUnit_Framework_TestCase
     public function testPostalCodePattern()
     {
         $this->subdivision->setPostalCodePattern('9[0-5]|96[01]');
-        $this->assertEquals($this->subdivision->getPostalCodePattern(), '9[0-5]|96[01]');
+        $this->assertEquals('9[0-5]|96[01]', $this->subdivision->getPostalCodePattern());
     }
 
     /**
@@ -105,6 +148,6 @@ class SubdivisionTest extends \PHPUnit_Framework_TestCase
     public function testLocale()
     {
         $this->subdivision->setLocale('en');
-        $this->assertEquals($this->subdivision->getLocale(), 'en');
+        $this->assertEquals('en', $this->subdivision->getLocale());
     }
 }

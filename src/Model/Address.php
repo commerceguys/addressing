@@ -284,6 +284,9 @@ class Address implements AddressInterface
         return $this;
     }
 
+    /**
+     * @codeCoverageIgnore
+     */
     public static function loadValidatorMetadata(ClassMetadata $metadata)
     {
         $metadata->addPropertyConstraint('countryCode', new NotBlankConstraint());
