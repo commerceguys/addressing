@@ -98,15 +98,7 @@ class AddressFormatValidator extends ConstraintValidator
         );
         $subdivisions = array();
         foreach ($subdivisionLevels as $index => $fieldConstant) {
-            $parentId = 0;
-            if ($fieldConstant != 'root') {
-                $parentId = $values[$fieldConstant];
-                if (empty($parentId)) {
-                    // This level is empty, hence there can be no sublevels, stop.
-                    break;
-                }
-            }
-
+            $parentId = ($fieldConstant == 'root') ? 0 : $values[$fieldConstant];
             $children = $dataProvider->getSubdivisions($countryCode, $parentId);
             $nextIndex = $index + 1;
             if (!$children || !isset($subdivisionLevels[$nextIndex])) {
