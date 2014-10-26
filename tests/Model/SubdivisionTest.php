@@ -29,6 +29,7 @@ class SubdivisionTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::getRepository
      * @covers ::setRepository
+     * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
      */
     public function testRepository()
     {
@@ -50,10 +51,13 @@ class SubdivisionTest extends \PHPUnit_Framework_TestCase
      * @covers ::getChildren
      * @covers ::setChildren
      * @covers ::hasChildren
-     * @uses CommerceGuys\Addressing\Model\Subdivision::setId
-     * @uses CommerceGuys\Addressing\Model\Subdivision::setCountryCode
-     * @uses CommerceGuys\Addressing\Model\Subdivision::getCode
-     * @uses CommerceGuys\Addressing\Model\Subdivision::setCode
+     * @uses \CommerceGuys\Addressing\Model\Subdivision::getId
+     * @uses \CommerceGuys\Addressing\Model\Subdivision::setId
+     * @uses \CommerceGuys\Addressing\Model\Subdivision::setCountryCode
+     * @uses \CommerceGuys\Addressing\Model\Subdivision::getCode
+     * @uses \CommerceGuys\Addressing\Model\Subdivision::setCode
+     * @uses \CommerceGuys\Addressing\Model\Subdivision::getRepository
+     * @uses \CommerceGuys\Addressing\Model\Subdivision::setRepository
      */
     public function testHierarchy()
     {
@@ -74,6 +78,7 @@ class SubdivisionTest extends \PHPUnit_Framework_TestCase
           ->will($this->returnValue(array($this->texas)));
         $this->subdivision->setRepository($subdivisionRepository);
 
+        $this->assertEquals(null, $this->subdivision->getParent());
         $texasStub = new Subdivision();
         $texasStub->setCountryCode('US');
         $texasStub->setId('US-TX');

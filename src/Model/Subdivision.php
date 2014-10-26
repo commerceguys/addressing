@@ -75,7 +75,7 @@ class Subdivision implements SubdivisionInterface
      */
     public function getParent()
     {
-        if (!$this->parent->getCode()) {
+        if ($this->parent && !$this->parent->getCode()) {
             // The parent object is incomplete. Load the full one.
             $repository = self::getRepository();
             $this->parent = $repository->get($this->parent->getId());
