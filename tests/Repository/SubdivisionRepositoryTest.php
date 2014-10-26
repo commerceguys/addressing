@@ -15,42 +15,49 @@ class SubdivisionRepositoryTest extends \PHPUnit_Framework_TestCase
      *
      * @var array
      */
-    protected $subdivisionsES = array(
-        'ES-O' => array(
-            'locale' => 'es',
-            'country_code' => 'ES',
-            'parent_id' => null,
-            'id' => 'ES-O',
-            'code' => 'Asturias',
-            'name' => 'Asturias',
-            'postal_code_pattern' => '33',
-            'has_children' => true,
-            'translations' => array(
-                'asturian' => array(
-                    'name' => 'Asturies',
-                ),
+    protected $subdivisions = array(
+        'BR' => array(
+            'BR-SC' => array(
+                'locale' => 'pt',
+                'country_code' => 'BR',
+                'parent_id' => null,
+                'id' => 'BR-SC',
+                'code' => 'SC',
+                'name' => 'Santa Catarina',
+                'postal_code_pattern' => '8[89]',
+                'has_children' => true,
+            ),
+            'BR-SP' => array(
+                'locale' => 'pt',
+                'country_code' => 'BR',
+                'parent_id' => null,
+                'id' => 'BR-SP',
+                'code' => 'SP',
+                'name' => 'São Paulo',
+                'postal_code_pattern' => '[01][1-9]',
+                'has_children' => true,
             ),
         ),
-    );
-
-    protected $subdivisionsESWithParent = array(
-        'ES-O-Oviedo' => array(
-            'locale' => 'es',
-            'country_code' => 'ES',
-            'parent_id' => 'ES-O',
-            'id' => 'ES-O-Oviedo',
-            'code' => 'Oviedo',
-            'name' => 'Oviedo',
+        'BR-SC' => array(
+            'BR-SC-9c7753' => array(
+                'locale' => 'pt',
+                'country_code' => 'BR',
+                'parent_id' => 'BR-SC',
+                'id' => 'BR-SC-9c7753',
+                'code' => 'Abelardo Luz',
+                'name' => 'Abelardo Luz',
+            ),
         ),
-    );
-
-    /**
-     * Fake subdivision without parts.
-     *
-     * @var array
-     */
-    protected $invalidSubdivisions = array(
-        'FAKE' => array(),
+        'BR-SP' => array(
+            'BR-SP-8e3f19' => array(
+                'locale' => 'pt',
+                'country_code' => 'BR',
+                'parent_id' => 'BR-SP',
+                'id' => 'BR-SP-8e3f19',
+                'code' => 'Anhumas',
+                'name' => 'Anhumas',
+            ),
+        ),
     );
 
     /**
@@ -60,15 +67,11 @@ class SubdivisionRepositoryTest extends \PHPUnit_Framework_TestCase
     {
         // Mock the existence of JSON definitions on the filesystem.
         $root = vfsStream::setup('resources');
-        vfsStream::newFile('subdivision/ES.json')->at($root)->setContent(
-            json_encode($this->subdivisionsES)
-        );
-        vfsStream::newFile('subdivision/ES-O.json')->at($root)->setContent(
-            json_encode($this->subdivisionsESWithParent)
-        );
-        vfsStream::newFile('subdivision/FA-KE.json')->at($root)->setContent(
-            json_encode($this->invalidSubdivisions)
-        );
+        $directory = vfsStream::newDirectory('subdivision')->at($root);
+        foreach ($this->subdivisions as $parent => $data) {
+            $filename = $parent . '.json';
+            vfsStream::newFile($filename)->at($directory)->setContent(json_encode($data));
+        }
 
         // Instantiate the subdivision repository and confirm that the
         // definition path was properly set.
@@ -84,66 +87,34 @@ class SubdivisionRepositoryTest extends \PHPUnit_Framework_TestCase
      * @covers ::loadDefinitions
      * @covers ::translateDefinition
      * @covers ::createSubdivisionFromDefinition
+     * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository::__construct
+     * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository::getAll
+     * @uses \CommerceGuys\Addressing\Model\Subdivision
      * @depends testConstructor
      */
     public function testGet($subdivisionRepository)
     {
-        $subdivision = $subdivisionRepository->get('ES-O');
-        $this->assertInstanceOf('CommerceGuys\Addressing\Model\Subdivision', $subdivision);
-    }
+        $subdivision = $subdivisionRepository->get('BR-SC');
+        $subdivisionChild = $subdivisionRepository->get('BR-SC-9c7753');
 
-    /**
-     * @covers ::get
-     * @covers ::loadDefinitions
-     * @covers ::translateDefinition
-     * @covers ::createSubdivisionFromDefinition
-     * @depends testConstructor
-     */
-    public function testGetSubdivisionWithLocale($subdivisionRepository)
-    {
-        $subdivision = $subdivisionRepository->get('ES-O', 'es');
         $this->assertInstanceOf('CommerceGuys\Addressing\Model\Subdivision', $subdivision);
-    }
+        $this->assertEquals(null, $subdivision->getParent());
+        $this->assertEquals('BR', $subdivision->getCountryCode());
+        $this->assertEquals('BR-SC', $subdivision->getId());
+        $this->assertEquals('SC', $subdivision->getCode());
+        $this->assertEquals('Santa Catarina', $subdivision->getName());
+        $this->assertEquals('8[89]', $subdivision->getPostalCodePattern());
+        $this->assertEquals('pt', $subdivision->getLocale());
+        $children = $subdivision->getChildren();
+        $this->assertEquals($subdivisionChild, $children['BR-SC-9c7753']);
 
-    /**
-     * @covers ::get
-     * @covers ::loadDefinitions
-     * @covers ::translateDefinition
-     * @covers ::createSubdivisionFromDefinition
-     * @depends testConstructor
-     */
-    public function testGetSubdivisionWithTranslation($subdivisionRepository)
-    {
-        $subdivision = $subdivisionRepository->get('ES-O', 'asturian');
-        $this->assertInstanceOf('CommerceGuys\Addressing\Model\Subdivision', $subdivision);
-        $subdivisionName = $this->getObjectAttribute($subdivision, 'name');
-        $this->assertEquals('Asturies', $subdivisionName);
-    }
-
-    /**
-     * @covers ::get
-     * @covers ::loadDefinitions
-     * @covers ::translateDefinition
-     * @covers ::createSubdivisionFromDefinition
-     * @depends testConstructor
-     */
-    public function testGetSubdivisionWithParents($subdivisionRepository)
-    {
-        $subdivision = $subdivisionRepository->get('ES-O-Oviedo');
-        $this->assertInstanceOf('CommerceGuys\Addressing\Model\Subdivision', $subdivision);
-    }
-
-    /**
-     * @covers ::get
-     * @covers ::loadDefinitions
-     * @covers ::translateDefinition
-     * @covers ::createSubdivisionFromDefinition
-     * @depends testConstructor
-     */
-    public function testGetOrphanSubdivision($subdivisionRepository)
-    {
-        $subdivision = $subdivisionRepository->get('ZZ-ZZ');
-        $this->assertNull($subdivision);
+        $this->assertInstanceOf('CommerceGuys\Addressing\Model\Subdivision', $subdivisionChild);
+        $this->assertEquals('BR-SC-9c7753', $subdivisionChild->getId());
+        // $subdivision contains the loaded children while $parent doesn't,
+        // so they can't be compared directly.
+        $parent = $subdivisionChild->getParent();
+        $this->assertInstanceOf('CommerceGuys\Addressing\Model\Subdivision', $parent);
+        $this->assertEquals($subdivision->getId(), $parent->getId());
     }
 
     /**
@@ -155,8 +126,11 @@ class SubdivisionRepositoryTest extends \PHPUnit_Framework_TestCase
      */
     public function testGetInvalidSubdivision($subdivisionRepository)
     {
-        $subdivision = $subdivisionRepository->get('FAKE');
-        $this->assertNull($subdivision);
+        $invalidIds = array('FAKE', 'ES-A', 'BR-SC-FAKE');
+        foreach ($invalidIds as $invalidId) {
+            $subdivision = $subdivisionRepository->get($invalidId);
+            $this->assertNull($subdivision);
+        }
     }
 
     /**
@@ -164,14 +138,21 @@ class SubdivisionRepositoryTest extends \PHPUnit_Framework_TestCase
      * @covers ::loadDefinitions
      * @covers ::translateDefinition
      * @covers ::createSubdivisionFromDefinition
+     * @uses \CommerceGuys\Addressing\Model\Subdivision
      * @depends testConstructor
      */
     public function testGetAll($subdivisionRepository)
     {
-        $subdivisions = $subdivisionRepository->getAll('ES');
-        $this->assertInternalType('array', $subdivisions);
-        foreach ($subdivisions as $subdivision) {
-            $this->assertInstanceOf('CommerceGuys\Addressing\Model\Subdivision', $subdivision);
-        }
+        $subdivisions = $subdivisionRepository->getAll('BR');
+        $this->assertCount(2, $subdivisions);
+        $this->assertArrayHasKey('BR-SC', $subdivisions);
+        $this->assertArrayHasKey('BR-SP', $subdivisions);
+        $this->assertEquals($subdivisions['BR-SC']->getId(), 'BR-SC');
+        $this->assertEquals($subdivisions['BR-SP']->getId(), 'BR-SP');
+
+        $subdivisions = $subdivisionRepository->getAll('BR', 'BR-SC');
+        $this->assertCount(1, $subdivisions);
+        $this->assertArrayHasKey('BR-SC-9c7753', $subdivisions);
+        $this->assertEquals($subdivisions['BR-SC-9c7753']->getId(), 'BR-SC-9c7753');
     }
 }
