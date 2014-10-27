@@ -44,6 +44,7 @@ class AddressFormatValidatorTest extends \PHPUnit_Framework_TestCase
      * @uses \CommerceGuys\Addressing\Provider\DataProvider
      * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
+     * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
      * @uses \CommerceGuys\Addressing\Model\Subdivision
@@ -64,6 +65,7 @@ class AddressFormatValidatorTest extends \PHPUnit_Framework_TestCase
      * @uses \CommerceGuys\Addressing\Provider\DataProvider
      * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
+     * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
      * @uses \CommerceGuys\Addressing\Model\Subdivision
@@ -86,7 +88,7 @@ class AddressFormatValidatorTest extends \PHPUnit_Framework_TestCase
      * @uses \CommerceGuys\Addressing\Provider\DataProvider
      * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
-     * @uses \CommerceGuys\Addressing\Provider\DataProvider
+     * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
      * @uses \CommerceGuys\Addressing\Model\Subdivision
@@ -107,7 +109,7 @@ class AddressFormatValidatorTest extends \PHPUnit_Framework_TestCase
      * @uses \CommerceGuys\Addressing\Provider\DataProvider
      * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
-     * @uses \CommerceGuys\Addressing\Provider\DataProvider
+     * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
      * @uses \CommerceGuys\Addressing\Model\Subdivision
@@ -136,6 +138,7 @@ class AddressFormatValidatorTest extends \PHPUnit_Framework_TestCase
      * @uses \CommerceGuys\Addressing\Provider\DataProvider
      * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
+     * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
      * @uses \CommerceGuys\Addressing\Model\Subdivision
@@ -163,6 +166,7 @@ class AddressFormatValidatorTest extends \PHPUnit_Framework_TestCase
      * @uses \CommerceGuys\Addressing\Provider\DataProvider
      * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
+     * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
      * @uses \CommerceGuys\Addressing\Model\Subdivision
@@ -186,6 +190,7 @@ class AddressFormatValidatorTest extends \PHPUnit_Framework_TestCase
      * @uses \CommerceGuys\Addressing\Provider\DataProvider
      * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
+     * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
      * @uses \CommerceGuys\Addressing\Model\Subdivision
@@ -218,6 +223,7 @@ class AddressFormatValidatorTest extends \PHPUnit_Framework_TestCase
      * @uses \CommerceGuys\Addressing\Provider\DataProvider
      * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
+     * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
      * @uses \CommerceGuys\Addressing\Model\Subdivision
@@ -240,6 +246,7 @@ class AddressFormatValidatorTest extends \PHPUnit_Framework_TestCase
      * @uses \CommerceGuys\Addressing\Provider\DataProvider
      * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
+     * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
      * @uses \CommerceGuys\Addressing\Model\Subdivision
@@ -264,6 +271,7 @@ class AddressFormatValidatorTest extends \PHPUnit_Framework_TestCase
      * @uses \CommerceGuys\Addressing\Provider\DataProvider
      * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
+     * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
      * @uses \CommerceGuys\Addressing\Model\Subdivision
@@ -288,6 +296,7 @@ class AddressFormatValidatorTest extends \PHPUnit_Framework_TestCase
      * @uses \CommerceGuys\Addressing\Provider\DataProvider
      * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
+     * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
      * @uses \CommerceGuys\Addressing\Model\Subdivision
@@ -316,6 +325,7 @@ class AddressFormatValidatorTest extends \PHPUnit_Framework_TestCase
      * @uses \CommerceGuys\Addressing\Provider\DataProvider
      * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
+     * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
      * @uses \CommerceGuys\Addressing\Model\Subdivision
@@ -337,6 +347,7 @@ class AddressFormatValidatorTest extends \PHPUnit_Framework_TestCase
      * @uses \CommerceGuys\Addressing\Provider\DataProvider
      * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
+     * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
      * @uses \CommerceGuys\Addressing\Model\Subdivision
@@ -359,6 +370,7 @@ class AddressFormatValidatorTest extends \PHPUnit_Framework_TestCase
      * @uses \CommerceGuys\Addressing\Provider\DataProvider
      * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
+     * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
      * @uses \CommerceGuys\Addressing\Model\Subdivision

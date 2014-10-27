@@ -85,10 +85,10 @@ class SubdivisionRepositoryTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::get
      * @covers ::loadDefinitions
-     * @covers ::translateDefinition
      * @covers ::createSubdivisionFromDefinition
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository::__construct
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository::getAll
+     * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      * @uses \CommerceGuys\Addressing\Model\Subdivision
      * @depends testConstructor
      */
@@ -120,8 +120,8 @@ class SubdivisionRepositoryTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::get
      * @covers ::loadDefinitions
-     * @covers ::translateDefinition
      * @covers ::createSubdivisionFromDefinition
+     * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      * @depends testConstructor
      */
     public function testGetInvalidSubdivision($subdivisionRepository)
@@ -136,8 +136,8 @@ class SubdivisionRepositoryTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::getAll
      * @covers ::loadDefinitions
-     * @covers ::translateDefinition
      * @covers ::createSubdivisionFromDefinition
+     * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      * @uses \CommerceGuys\Addressing\Model\Subdivision
      * @depends testConstructor
      */

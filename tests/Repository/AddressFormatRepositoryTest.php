@@ -81,8 +81,8 @@ class AddressFormatRepositoryTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::get
      * @covers ::loadDefinition
-     * @covers ::translateDefinition
      * @covers ::createAddressFormatFromDefinition
+     * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
      * @depends testConstructor
      */
@@ -116,8 +116,8 @@ class AddressFormatRepositoryTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::get
      * @covers ::loadDefinition
-     * @covers ::translateDefinition
      * @covers ::createAddressFormatFromDefinition
+     * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
      * @depends testConstructor
      */
@@ -130,9 +130,9 @@ class AddressFormatRepositoryTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::getAll
      * @covers ::loadDefinition
-     * @covers ::translateDefinition
      * @covers ::createAddressFormatFromDefinition
      * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository::get
+     * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
      * @depends testConstructor
      */
