@@ -2,6 +2,7 @@
 
 namespace CommerceGuys\Addressing\Tests\Repository;
 
+use CommerceGuys\Addressing\Model\Subdivision;
 use CommerceGuys\Addressing\Repository\SubdivisionRepository;
 use org\bovigo\vfs\vfsStream;
 
@@ -62,6 +63,7 @@ class SubdivisionRepositoryTest extends \PHPUnit_Framework_TestCase
 
     /**
      * @covers ::__construct
+     * @uses \CommerceGuys\Addressing\Model\Subdivision::setRepository
      */
     public function testConstructor()
     {
@@ -78,6 +80,10 @@ class SubdivisionRepositoryTest extends \PHPUnit_Framework_TestCase
         $subdivisionRepository = new SubdivisionRepository('vfs://resources/subdivision/');
         $definitionPath = $this->getObjectAttribute($subdivisionRepository, 'definitionPath');
         $this->assertEquals($definitionPath, 'vfs://resources/subdivision/');
+
+        // An earlier test might have swaped the repository with a mock, so
+        // switch it back to a known object.
+        Subdivision::setRepository($subdivisionRepository);
 
         return $subdivisionRepository;
     }
