@@ -88,29 +88,29 @@ class AddressFormatRepositoryTest extends \PHPUnit_Framework_TestCase
      */
     public function testGet($addressFormatRepository)
     {
-        $requiredFields = array(
+        $expectedRequiredFields = array(
             AddressFormat::FIELD_ADDRESS,
             AddressFormat::FIELD_LOCALITY,
             AddressFormat::FIELD_ADMINISTRATIVE_AREA,
             AddressFormat::FIELD_POSTAL_CODE,
-
         );
-        $uppercaseFields = array(
+        $expectedUppercaseFields = array(
             AddressFormat::FIELD_LOCALITY,
             AddressFormat::FIELD_ADMINISTRATIVE_AREA,
         );
+        $expectedFormat = $this->addressFormatES['format'];
 
         $addressFormat = $addressFormatRepository->get('ES');
         $this->assertInstanceOf('CommerceGuys\Addressing\Model\AddressFormat', $addressFormat);
         $this->assertEquals('ES', $addressFormat->getCountryCode());
-        $this->assertEquals($requiredFields, $addressFormat->getRequiredFields());
-        $this->assertEquals($uppercaseFields, $addressFormat->getUppercaseFields());
+        $this->assertEquals($expectedRequiredFields, $addressFormat->getRequiredFields());
+        $this->assertEquals($expectedUppercaseFields, $addressFormat->getUppercaseFields());
+        $this->assertEquals($expectedFormat, $addressFormat->getFormat());
         $this->assertEquals(AddressFormat::ADMINISTRATIVE_AREA_TYPE_PROVINCE, $addressFormat->getAdministrativeAreaType());
         $this->assertEquals(AddressFormat::POSTAL_CODE_TYPE_POSTAL, $addressFormat->getPostalCodeType());
-        $this->assertEquals($this->addressFormatES['format'], $addressFormat->getFormat());
-        $this->assertEquals($this->addressFormatES['postal_code_pattern'], $addressFormat->getPostalCodePattern());
-        $this->assertEquals($this->addressFormatES['postal_code_prefix'], $addressFormat->getPostalCodePrefix());
-        $this->assertEquals($this->addressFormatES['locale'], $addressFormat->getLocale());
+        $this->assertEquals('\\d{5}', $addressFormat->getPostalCodePattern());
+        $this->assertEquals('A', $addressFormat->getPostalCodePrefix());
+        $this->assertEquals('es', $addressFormat->getLocale());
     }
 
     /**
