@@ -27,100 +27,226 @@ class PostalFormatterTest extends \PHPUnit_Framework_TestCase
     protected $postalFormatter;
 
     /**
-     * The addresses.
-     *
-     * @var array
-     */
-    protected $addresses = array(
-        'us' => array(
-            'countryCode' => 'US',
-            'administrativeArea' => 'US-CA',
-            'locality' => 'Mountain View',
-            'addressLine1' => '1234 Somewhere',
-            'postalCode' => '94025'
-        ),
-        'cn' => array(
-            'countryCode' => 'CN',
-            'administrativeArea' => 'CN-11',
-            'locality' => 'CN-11-30524e',
-            'addressLine1' => 'Yitiao Lu',
-            'postalCode' => '123456'
-
-        ),
-    );
-
-    /**
      * {@inheritdoc}
      */
-    public function setUp() {
+    public function setUp()
+    {
         $this->dataProvider = new DataProvider();
         $this->postalFormatter = new PostalFormatter($this->dataProvider);
     }
 
     /**
      * @covers ::__construct
-     * @uses CommerceGuys\Addressing\Provider\DataProvider
+     * @uses \CommerceGuys\Addressing\Provider\DataProvider
+     * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
+     * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
      */
-    public function testConstructor() {
+    public function testConstructor()
+    {
         $this->dataProvider = new DataProvider();
         $postalFormatter = new PostalFormatter($this->dataProvider);
-
-        $this->assertInstanceOf('CommerceGuys\\Addressing\\Formatter\\PostalFormatter', $postalFormatter);
+        $this->assertEquals($this->dataProvider, $this->getObjectAttribute($postalFormatter, 'dataProvider'));
     }
 
     /**
      * @covers ::__construct
      * @covers ::format
-     * @uses CommerceGuys\Addressing\Model\Address
-     * @uses CommerceGuys\Addressing\Model\AddressFormat
-     * @uses CommerceGuys\Addressing\Model\Subdivision
-     * @uses CommerceGuys\Addressing\Provider\DataProvider
-     *
-     * @dataProvider formatterAddressProvider
+     * @uses \CommerceGuys\Addressing\Model\Address
+     * @uses \CommerceGuys\Addressing\Model\AddressFormat
+     * @uses \CommerceGuys\Addressing\Model\Subdivision
+     * @uses \CommerceGuys\Addressing\Provider\DataProvider
+     * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
+     * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
+     * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      */
-    public function testFormat(Address $address, $expectedLines, $originCountryCode, $originLocale = 'en') {
-        $formattedAddress = $this->postalFormatter->format($address, $originCountryCode, $originLocale);
-
-        $this->assertEquals($expectedLines, $formattedAddress);
-    }
-
-    /**
-     * Provides the values for the format test.
-     */
-    public function formatterAddressProvider() {
-        return array(
-          array(
-            $this->createAddress($this->addresses['us']),
-            implode("\n", array('1234 Somewhere', 'MOUNTAIN VIEW, CA 94025')), 'US'
-          ),
-          array(
-            $this->createAddress($this->addresses['us']),
-            implode("\n", array('1234 Somewhere', 'MOUNTAIN VIEW, CA 94025', 'UNITED STATES')), 'FR'
-          ),
-          array(
-            $this->createAddress($this->addresses['us']),
-            implode("\n", array('1234 Somewhere', 'MOUNTAIN VIEW, CA 94025', 'ÉTATS-UNIS')), 'FR', 'fr'
-          ),
-          array(
-            $this->createAddress($this->addresses['cn']),
-            implode("\n", array('Yitiao Lu', '西城区', '北京市, 123456')), 'CN'
-          ),
-        );
-    }
-
-    /**
-     * Helper function to create a address.
-     *
-     * @param array $values
-     * @return Address
-     */
-    protected function createAddress(array $values) {
+    public function testUnitedStatesAddress()
+    {
         $address = new Address();
-        foreach ($values as $fieldName => $value) {
-            $setter = 'set' . ucfirst($fieldName);
-            $address->$setter($value);
-        }
+        $address
+            ->setCountryCode('US')
+            ->setAdministrativeArea('US-CA')
+            ->setLocality('Mt View')
+            ->setAddressLine1('1098 Alta Ave')
+            ->setPostalCode('94043');
 
-        return $address;
+        // Test a US address formatted for sending from the US.
+        $expectedLines = array(
+            '1098 Alta Ave',
+            'MT VIEW, CA 94043',
+        );
+        $formattedAddress = $this->postalFormatter->format($address, 'US');
+        $this->assertFormattedAddress($expectedLines, $formattedAddress);
+
+        // Test a US address formatted for sending from France.
+        $expectedLines = array(
+            '1098 Alta Ave',
+            'MT VIEW, CA 94043',
+            'ÉTATS-UNIS',
+        );
+        $formattedAddress = $this->postalFormatter->format($address, 'FR', 'fr');
+        $this->assertFormattedAddress($expectedLines, $formattedAddress);
+    }
+
+    /**
+     * @covers ::__construct
+     * @covers ::format
+     * @uses \CommerceGuys\Addressing\Model\Address
+     * @uses \CommerceGuys\Addressing\Model\AddressFormat
+     * @uses \CommerceGuys\Addressing\Model\Subdivision
+     * @uses \CommerceGuys\Addressing\Provider\DataProvider
+     * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
+     * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
+     * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
+     */
+    public function testTaiwanAddress()
+    {
+        // Real addresses in the major-to-minor order would be completely in
+        // Traditional Chinese. That's not the case here, for readability.
+        $expectedLines = array(
+            '106',
+            '台北市大安區',
+            'Sec. 3 Hsin-yi Rd.',
+            'Giant Bike Store',
+            'Mr. Liu',
+        );
+        $address = new Address();
+        $address
+            ->setCountryCode('TW')
+            ->setAdministrativeArea('TW-TPE')  // Taipei city
+            ->setLocality('TW-TPE-e3cc33')  // Da-an district
+            ->setAddressLine1('Sec. 3 Hsin-yi Rd.')
+            ->setPostalCode('106')
+            ->setOrganization('Giant Bike Store')
+            ->setRecipient('Mr. Liu');
+
+        $formattedAddress = $this->postalFormatter->format($address, 'TW', 'zh-hant');
+        $this->assertFormattedAddress($expectedLines, $formattedAddress);
+    }
+
+    /**
+     * @covers ::__construct
+     * @covers ::format
+     * @uses \CommerceGuys\Addressing\Model\Address
+     * @uses \CommerceGuys\Addressing\Model\AddressFormat
+     * @uses \CommerceGuys\Addressing\Model\Subdivision
+     * @uses \CommerceGuys\Addressing\Provider\DataProvider
+     * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
+     * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
+     * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
+     */
+    public function testElSalvadorAddress()
+    {
+        $expectedLines = array(
+            'Some Street 12',
+            'AHUACHAPÁN',
+            'AHUACHAPÁN',
+        );
+        $address = new Address();
+        $address
+            ->setCountryCode('SV')
+            ->setAdministrativeArea('Ahuachapán')
+            ->setLocality('Ahuachapán')
+            ->setAddressLine1('Some Street 12');
+
+        $formattedAddress = $this->postalFormatter->format($address, 'SV');
+        $this->assertFormattedAddress($expectedLines, $formattedAddress);
+
+        $address->setPostalCode('CP 2101');
+        $expectedLines = array(
+            'Some Street 12',
+            'CP 2101-AHUACHAPÁN',
+            'AHUACHAPÁN',
+        );
+
+        $formattedAddress = $this->postalFormatter->format($address, 'SV');
+        $this->assertFormattedAddress($expectedLines, $formattedAddress);
+    }
+
+    /**
+     * @covers ::__construct
+     * @covers ::format
+     * @uses \CommerceGuys\Addressing\Model\Address
+     * @uses \CommerceGuys\Addressing\Model\AddressFormat
+     * @uses \CommerceGuys\Addressing\Model\Subdivision
+     * @uses \CommerceGuys\Addressing\Provider\DataProvider
+     * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
+     * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
+     * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
+     */
+    public function testIncompleteAddress()
+    {
+        $expectedLines = array(
+            '1098 Alta Ave',
+            'CA 94043',
+        );
+        // Create a US address without a locality.
+        $address = new Address();
+        $address
+            ->setAdministrativeArea('US-CA')
+            ->setCountryCode('US')
+            ->setAddressLine1('1098 Alta Ave')
+            ->setPostalCode('94043');
+
+        $formattedAddress = $this->postalFormatter->format($address, 'US');
+        $this->assertFormattedAddress($expectedLines, $formattedAddress);
+    }
+
+    /**
+     * @covers ::__construct
+     * @covers ::format
+     * @uses \CommerceGuys\Addressing\Model\Address
+     * @uses \CommerceGuys\Addressing\Model\AddressFormat
+     * @uses \CommerceGuys\Addressing\Model\Subdivision
+     * @uses \CommerceGuys\Addressing\Provider\DataProvider
+     * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
+     * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
+     * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
+     */
+    public function testEmptyAddress()
+    {
+        $expectedLines = array();
+        $address = new Address();
+        $address->setCountryCode('US');
+
+        $formattedAddress = $this->postalFormatter->format($address, 'US');
+        $this->assertFormattedAddress($expectedLines, $formattedAddress);
+    }
+
+    /**
+     * @covers ::__construct
+     * @covers ::format
+     * @uses \CommerceGuys\Addressing\Model\Address
+     * @uses \CommerceGuys\Addressing\Model\AddressFormat
+     * @uses \CommerceGuys\Addressing\Model\Subdivision
+     * @uses \CommerceGuys\Addressing\Provider\DataProvider
+     * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
+     * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
+     * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
+     */
+    public function testAddressLeadingPostPrefix()
+    {
+        $expectedLines = array(
+            'CH-8047 Herrliberg',
+        );
+        $address = new Address();
+        $address
+            ->setCountryCode('CH')
+            ->setLocality('Herrliberg')
+            ->setPostalCode('8047');
+
+        $formattedAddress = $this->postalFormatter->format($address, 'CH');
+        $this->assertFormattedAddress($expectedLines, $formattedAddress);
+    }
+
+    /**
+     * Asserts that the formatted address is valid.
+     *
+     * @param array  $expectedLines
+     * @param string $formattedAddress
+     */
+    protected function assertFormattedAddress(array $expectedLines, $formattedAddress)
+    {
+        $expectedLines = implode("\n", $expectedLines);
+        $this->assertEquals($expectedLines, $formattedAddress);
     }
 }

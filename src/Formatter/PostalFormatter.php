@@ -98,8 +98,13 @@ class PostalFormatter
             }
         }
         $formattedAddress = strtr($format, $replacements);
-        // Remove empty lines.
         $addressLines = explode("\n", $formattedAddress);
+        foreach ($addressLines as $index => $line) {
+            // Remove leading commas and other punctuation that might have been
+            // added in the case of missing data.
+            $addressLines[$index] = trim(preg_replace('/^[-,\\s]+/', '', $line));
+        }
+        // Remove empty lines.
         $addressLines = array_filter($addressLines);
         $formattedAddress = implode("\n", $addressLines);
 
