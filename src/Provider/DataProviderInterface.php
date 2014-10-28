@@ -49,6 +49,15 @@ interface DataProviderInterface
     public function getAddressFormat($countryCode, $locale = null);
 
     /**
+     * Returns all available address format instances.
+     *
+     * @param string $locale The locale (e.g. fr-FR).
+     *
+     * @return AddressFormat[] An array of address format instances.
+     */
+    public function getAddressFormats($locale = null);
+
+    /**
      * Returns a subdivision instance matching the provided id.
      *
      * @param string $id     The subdivision id.

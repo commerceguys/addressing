@@ -88,6 +88,14 @@ class DataProvider implements DataProviderInterface
     /**
      * {@inheritdoc}
      */
+    public function getAddressFormats($locale = null)
+    {
+        return $this->addressFormatRepository->getAll($locale);
+    }
+
+    /**
+     * {@inheritdoc}
+     */
     public function getSubdivision($id, $locale = null)
     {
         return $this->subdivisionRepository->get($id, $locale);
