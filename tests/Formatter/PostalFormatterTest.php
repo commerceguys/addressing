@@ -51,6 +51,7 @@ class PostalFormatterTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::__construct
      * @covers ::format
+     * @covers ::cleanupFormattedAddress
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
      * @uses \CommerceGuys\Addressing\Model\Subdivision
@@ -90,6 +91,7 @@ class PostalFormatterTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::__construct
      * @covers ::format
+     * @covers ::cleanupFormattedAddress
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
      * @uses \CommerceGuys\Addressing\Model\Subdivision
@@ -126,6 +128,7 @@ class PostalFormatterTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::__construct
      * @covers ::format
+     * @covers ::cleanupFormattedAddress
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
      * @uses \CommerceGuys\Addressing\Model\Subdivision
@@ -165,6 +168,7 @@ class PostalFormatterTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::__construct
      * @covers ::format
+     * @covers ::cleanupFormattedAddress
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
      * @uses \CommerceGuys\Addressing\Model\Subdivision
@@ -194,6 +198,7 @@ class PostalFormatterTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::__construct
      * @covers ::format
+     * @covers ::cleanupFormattedAddress
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
      * @uses \CommerceGuys\Addressing\Model\Subdivision
@@ -215,6 +220,7 @@ class PostalFormatterTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::__construct
      * @covers ::format
+     * @covers ::cleanupFormattedAddress
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
      * @uses \CommerceGuys\Addressing\Model\Subdivision

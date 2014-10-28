@@ -98,15 +98,7 @@ class PostalFormatter
             }
         }
         $formattedAddress = strtr($format, $replacements);
-        $addressLines = explode("\n", $formattedAddress);
-        foreach ($addressLines as $index => $line) {
-            // Remove leading commas and other punctuation that might have been
-            // added in the case of missing data.
-            $addressLines[$index] = trim(preg_replace('/^[-,\\s]+/', '', $line));
-        }
-        // Remove empty lines.
-        $addressLines = array_filter($addressLines);
-        $formattedAddress = implode("\n", $addressLines);
+        $formattedAddress = $this->cleanupFormattedAddress($formattedAddress);
 
         // Add the uppercase country name in the origin locale (to ensure
         // it's understood by the post office in the origin country).
@@ -117,5 +109,25 @@ class PostalFormatter
         }
 
         return $formattedAddress;
+    }
+
+    /**
+     * Removes empty lines, leading punctuation, excess whitespace.
+     *
+     * @param string $formattedAddress The formatted address.
+     *
+     * @return string The cleaned up formatted address.
+     */
+    protected function cleanupFormattedAddress($formattedAddress)
+    {
+        $addressLines = explode("\n", $formattedAddress);
+        foreach ($addressLines as $index => $line) {
+            // Remove any leading punctuation added because of missing data.
+            $addressLines[$index] = trim(preg_replace('/^[-,\\s]+/', ' ', $line));
+        }
+        // Remove empty lines.
+        $addressLines = array_filter($addressLines);
+
+        return implode("\n", $addressLines);
     }
 }
