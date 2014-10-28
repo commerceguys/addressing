@@ -48,7 +48,7 @@ The [address format object](https://github.com/commerceguys/addressing/blob/mast
 
 The [subdivision object](https://github.com/commerceguys/addressing/blob/master/src/Model/SubdivisionInterface.php) contains the following data:
 
-- The subdivision code (used to represent the subdivison on a parcel/envelope, i.e CA for California)
+- The subdivision code (used to represent the subdivison on a parcel/envelope, e.g. CA for California)
 - The subdivison name (shown to the user in a dropdown)
 - The postal code prefix (used to ensure that a postal code begins with the expected characters)
 
@@ -84,7 +84,7 @@ The address is formatted according to the destination country format.
 If the parcel is being sent to a different country, the country name is appended
 in the local language (so that the local post office can understand it).
 
-If a country (i.e China/Japan/Korea) uses both major-to-minor (country first) and
+If a country (e.g. China/Japan/Korea) uses both major-to-minor (country first) and
 minor-to-major (recipient first) address formats, the right one is selected based on the origin address.
 For example, if the parcel is being sent from China to China, the local major-to-minor format is used.
 But if the parcel is being sent from France to China, then the minor-to-major format is used,

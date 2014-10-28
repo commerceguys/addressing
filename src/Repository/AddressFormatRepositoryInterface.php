@@ -16,7 +16,7 @@ interface AddressFormatRepositoryInterface
      * is returned instead.
      *
      * @param string $countryCode The country code.
-     * @param string $locale      The locale (i.e. fr-FR).
+     * @param string $locale      The locale (e.g. fr-FR).
      *
      * @return AddressFormat The address format instance.
      */
@@ -25,7 +25,7 @@ interface AddressFormatRepositoryInterface
     /**
      * Returns all available address format instances.
      *
-     * @param string  $locale The locale (i.e. fr-FR).
+     * @param string $locale The locale (e.g. fr-FR).
      *
      * @return AddressFormat[] An array of address format instances.
      */

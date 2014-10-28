@@ -13,7 +13,7 @@ interface SubdivisionRepositoryInterface
      * Returns a subdivision instance matching the provided id.
      *
      * @param string $id     The subdivision id.
-     * @param string $locale The locale (i.e. fr-FR).
+     * @param string $locale The locale (e.g. fr-FR).
      *
      * @return Subdivision|null The subdivision instance, if found.
      */
@@ -24,7 +24,7 @@ interface SubdivisionRepositoryInterface
      *
      * @param string  $countryCode The country code.
      * @param integer $parentId    The parent id.
-     * @param string  $locale      The locale (i.e. fr-FR).
+     * @param string  $locale      The locale (e.g. fr-FR).
      *
      * @return Subdivision[] An array of subdivision instances.
      */

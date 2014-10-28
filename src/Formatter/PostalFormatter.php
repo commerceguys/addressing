@@ -40,7 +40,7 @@ class PostalFormatter
      *
      * @param AddressInterface $address           The address.
      * @param string           $originCountryCode The country code of the origin country.
-     *                                            i.e US if the parcels are sent from the USA.
+     *                                            e.g. US if the parcels are sent from the USA.
      * @param string           $originLocale      The locale used to get the country names.
      *
      * @return string The formatted address, divided by unix newlines (\n).

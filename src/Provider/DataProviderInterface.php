@@ -20,7 +20,7 @@ interface DataProviderInterface
      * Returns the localized country name matching the provided country code.
      *
      * @param string $countryCode The country code.
-     * @param string $locale      The locale (i.e. fr-FR).
+     * @param string $locale      The locale (e.g. fr-FR).
      *
      * @return string The country name.
      */
@@ -29,7 +29,7 @@ interface DataProviderInterface
     /**
      * Returns a list of all country names.
      *
-     * @param string $locale The locale (i.e. fr-FR).
+     * @param string $locale The locale (e.g. fr-FR).
      *
      * @return array The country names, keyed by country code.
      */
@@ -42,7 +42,7 @@ interface DataProviderInterface
      * is returned instead.
      *
      * @param string $countryCode The country code.
-     * @param string $locale      The locale (i.e. fr-FR).
+     * @param string $locale      The locale (e.g. fr-FR).
      *
      * @return AddressFormat The address format instance.
      */
@@ -52,7 +52,7 @@ interface DataProviderInterface
      * Returns a subdivision instance matching the provided id.
      *
      * @param string $id     The subdivision id.
-     * @param string $locale The locale (i.e. fr-FR).
+     * @param string $locale The locale (e.g. fr-FR).
      *
      * @return Subdivision|null The subdivision instance, if found.
      */
@@ -63,7 +63,7 @@ interface DataProviderInterface
      *
      * @param string  $countryCode The country code.
      * @param integer $parentId    The parent id.
-     * @param string  $locale      The locale (i.e. fr-FR).
+     * @param string  $locale      The locale (e.g. fr-FR).
      *
      * @return Subdivision[] An array of subdivision instances.
      */

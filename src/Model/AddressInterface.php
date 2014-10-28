@@ -89,7 +89,7 @@ interface AddressInterface
      *
      * When representing a double-dependent locality in Great Britain, includes
      * both the double-dependent locality and the dependent locality,
-     * i.e. "Whaley, Langwith".
+     * e.g. "Whaley, Langwith".
      *
      * @return string The dependent locality, or the subdivision id if if there
      *                are predefined subdivisions at this level

@@ -73,7 +73,7 @@ class AddressFormatRepositoryTest extends \PHPUnit_Framework_TestCase
         // definition path was properly set.
         $addressFormatRepository = new AddressFormatRepository('vfs://resources/address_format/');
         $definitionPath = $this->getObjectAttribute($addressFormatRepository, 'definitionPath');
-        $this->assertEquals($definitionPath, 'vfs://resources/address_format/');
+        $this->assertEquals('vfs://resources/address_format/', $definitionPath);
 
         return $addressFormatRepository;
     }

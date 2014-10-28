@@ -79,7 +79,7 @@ class SubdivisionRepositoryTest extends \PHPUnit_Framework_TestCase
         // definition path was properly set.
         $subdivisionRepository = new SubdivisionRepository('vfs://resources/subdivision/');
         $definitionPath = $this->getObjectAttribute($subdivisionRepository, 'definitionPath');
-        $this->assertEquals($definitionPath, 'vfs://resources/subdivision/');
+        $this->assertEquals('vfs://resources/subdivision/', $definitionPath);
 
         // An earlier test might have swaped the repository with a mock, so
         // switch it back to a known object.
