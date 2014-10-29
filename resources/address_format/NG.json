@@ -10,6 +10,7 @@
         "administrative_area"
     ],
     "administrative_area_type": "state",
+    "locality_type": "city",
     "postal_code_type": "postal",
     "postal_code_pattern": "(?:\\d{6})?"
 }

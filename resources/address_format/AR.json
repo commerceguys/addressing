@@ -11,6 +11,7 @@
         "postal_code"
     ],
     "administrative_area_type": "state",
+    "locality_type": "city",
     "postal_code_type": "postal",
     "postal_code_pattern": "((?:[A-HJ-NP-Z])?\\d{4})([A-Z]{3})?"
 }

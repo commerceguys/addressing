@@ -12,6 +12,8 @@
         "postal_code"
     ],
     "administrative_area_type": "state",
+    "locality_type": "city",
+    "dependent_locality_type": "neighborhood",
     "postal_code_type": "postal",
     "postal_code_pattern": "\\d{5}"
 }

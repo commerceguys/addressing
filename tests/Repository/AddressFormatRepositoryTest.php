@@ -30,6 +30,8 @@ class AddressFormatRepositoryTest extends \PHPUnit_Framework_TestCase
             'administrative_area',
         ),
         'administrative_area_type' => 'province',
+        'locality_type' => 'city',
+        'dependent_locality_type' => 'suburb',
         'postal_code_type' => 'postal',
         'postal_code_pattern' => '\\d{5}',
         'postal_code_prefix' => 'A',
@@ -51,6 +53,8 @@ class AddressFormatRepositoryTest extends \PHPUnit_Framework_TestCase
             'locality',
         ),
         'administrative_area_type' => 'province',
+        'locality_type' => 'city',
+        'dependent_locality_type' => 'suburb',
         'postal_code_type' => 'postal',
     );
 
@@ -107,6 +111,8 @@ class AddressFormatRepositoryTest extends \PHPUnit_Framework_TestCase
         $this->assertEquals($expectedUppercaseFields, $addressFormat->getUppercaseFields());
         $this->assertEquals($expectedFormat, $addressFormat->getFormat());
         $this->assertEquals(AddressFormat::ADMINISTRATIVE_AREA_TYPE_PROVINCE, $addressFormat->getAdministrativeAreaType());
+        $this->assertEquals(AddressFormat::LOCALITY_TYPE_CITY, $addressFormat->getLocalityType());
+        $this->assertEquals(AddressFormat::DEPENDENT_LOCALITY_TYPE_SUBURB, $addressFormat->getDependentLocalityType());
         $this->assertEquals(AddressFormat::POSTAL_CODE_TYPE_POSTAL, $addressFormat->getPostalCodeType());
         $this->assertEquals('\\d{5}', $addressFormat->getPostalCodePattern());
         $this->assertEquals('A', $addressFormat->getPostalCodePrefix());

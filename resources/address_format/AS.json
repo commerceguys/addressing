@@ -15,6 +15,7 @@
         "administrative_area"
     ],
     "administrative_area_type": "state",
+    "locality_type": "city",
     "postal_code_type": "zip",
     "postal_code_pattern": "(96799)(?:[ \\-](\\d{4}))?"
 }

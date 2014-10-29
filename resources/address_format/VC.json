@@ -8,7 +8,7 @@
     "uppercase_fields": [
         "locality"
     ],
-    "administrative_area_type": "province",
+    "locality_type": "city",
     "postal_code_type": "postal",
     "postal_code_pattern": "VC\\d{4}"
 }

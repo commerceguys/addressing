@@ -9,6 +9,8 @@
         "administrative_area"
     ],
     "administrative_area_type": "province",
+    "locality_type": "city",
+    "dependent_locality_type": "suburb",
     "postal_code_type": "postal",
     "postal_code_pattern": "\\d{5}",
     "translations": {

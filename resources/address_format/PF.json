@@ -12,6 +12,7 @@
         "administrative_area"
     ],
     "administrative_area_type": "island",
+    "locality_type": "city",
     "postal_code_type": "postal",
     "postal_code_pattern": "987\\d{2}"
 }

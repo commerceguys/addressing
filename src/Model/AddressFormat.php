@@ -40,6 +40,20 @@ class AddressFormat implements AddressFormatInterface
     protected $administrativeAreaType;
 
     /**
+     * The locality type.
+     *
+     * @var string
+     */
+    protected $localityType;
+
+    /**
+     * The dependent locality type.
+     *
+     * @var string
+     */
+    protected $dependentLocalityType;
+
+    /**
      * The postal code type.
      *
      * @var string
@@ -153,6 +167,42 @@ class AddressFormat implements AddressFormatInterface
     public function setAdministrativeAreaType($administrativeAreaType)
     {
         $this->administrativeAreaType = $administrativeAreaType;
+
+        return $this;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function getLocalityType()
+    {
+        return $this->localityType;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function setLocalityType($localityType)
+    {
+        $this->localityType = $localityType;
+
+        return $this;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function getDependentLocalityType()
+    {
+        return $this->dependentLocalityType;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function setDependentLocalityType($dependentLocalityType)
+    {
+        $this->dependentLocalityType = $dependentLocalityType;
 
         return $this;
     }

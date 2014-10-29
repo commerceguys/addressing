@@ -11,6 +11,8 @@
         "postal_code"
     ],
     "administrative_area_type": "do_si",
+    "locality_type": "city",
+    "dependent_locality_type": "district",
     "postal_code_type": "postal",
     "postal_code_pattern": "\\d{3}[\\-]\\d{3}",
     "translations": {

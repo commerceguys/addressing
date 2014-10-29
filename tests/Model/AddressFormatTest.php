@@ -82,6 +82,28 @@ class AddressFormatTest extends \PHPUnit_Framework_TestCase
     }
 
     /**
+     * @covers ::getLocalityType
+     * @covers ::setLocalityType
+     */
+    public function testLocalityType()
+    {
+        $localityType = AddressFormat::LOCALITY_TYPE_CITY;
+        $this->addressFormat->setLocalityType($localityType);
+        $this->assertEquals($localityType, $this->addressFormat->getLocalityType());
+    }
+
+    /**
+     * @covers ::getDependentLocalityType
+     * @covers ::setDependentLocalityType
+     */
+    public function testDependentLocalityType()
+    {
+        $dependentLocalityType = AddressFormat::DEPENDENT_LOCALITY_TYPE_DISTRICT;
+        $this->addressFormat->setDependentLocalityType($dependentLocalityType);
+        $this->assertEquals($dependentLocalityType, $this->addressFormat->getDependentLocalityType());
+    }
+
+    /**
      * @covers ::getPostalCodeType
      * @covers ::setPostalCodeType
      */

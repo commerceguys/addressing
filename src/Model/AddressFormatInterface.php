@@ -34,6 +34,17 @@ interface AddressFormatInterface
     const ADMINISTRATIVE_AREA_TYPE_PROVINCE = 'province';
     const ADMINISTRATIVE_AREA_TYPE_STATE = 'state';
 
+    // Locality types.
+    const LOCALITY_TYPE_CITY = 'city';
+    const LOCALITY_TYPE_DISTRICT = 'district';
+    const LOCALITY_TYPE_POST_TOWN = 'post_town';
+
+    // Dependent locality types.
+    const DEPENDENT_LOCALITY_TYPE_DISTRICT = 'district';
+    const DEPENDENT_LOCALITY_TYPE_NEIGHBORHOOD = 'neighborhood';
+    const DEPENDENT_LOCALITY_TYPE_VILLAGE_TOWNSHIP = 'village_township';
+    const DEPENDENT_LOCALITY_TYPE_SUBURB = 'suburb';
+
     // Postal code types.
     const POSTAL_CODE_TYPE_POSTAL = 'postal';
     const POSTAL_CODE_TYPE_ZIP = 'zip';
@@ -113,16 +124,51 @@ interface AddressFormatInterface
      *
      * Used for presenting the correct label to the end-user.
      *
-     * @return string One of the ADMINISTRATIVE_AREA_TYPE_ constants.
+     * @return string|null One of the ADMINISTRATIVE_AREA_TYPE_ constants,
+     *                     or null if the administrative area field isn't used.
      */
     public function getAdministrativeAreaType();
 
     /**
-     * Sets the type of the administrative area.
+     * Sets the administrative area type.
      *
-     * @return string One of the ADMINISTRATIVE_AREA_TYPE_ constants.
+     * @param string $administrativeAreaType One of the ADMINISTRATIVE_AREA_TYPE_ constants.
      */
     public function setAdministrativeAreaType($administrativeAreaType);
+
+    /**
+     * Gets the locality type.
+     *
+     * Used for presenting the correct label to the end-user.
+     *
+     * @return string|null One of the LOCALITY_TYPE_ constants.
+     *                     or null if the locality field isn't used.
+     */
+    public function getLocalityType();
+
+    /**
+     * Sets the locality type.
+     *
+     * @param string $localityType One of the LOCALITY_TYPE_ constants.
+     */
+    public function setLocalityType($localityType);
+
+    /**
+     * Gets the dependent locality type.
+     *
+     * Used for presenting the correct label to the end-user.
+     *
+     * @return string|null One of the DEPENDENT_LOCALITY_TYPE_ constants.
+     *                     or null if the dependent locality field isn't used.
+     */
+    public function getDependentLocalityType();
+
+    /**
+     * Sets the dependent locality type.
+     *
+     * @param string $dependentLocalityType One of the DEPENDENT_LOCALITY_TYPE_ constants.
+     */
+    public function setDependentLocalityType($dependentLocalityType);
 
     /**
      * Gets the postal code type.

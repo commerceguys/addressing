@@ -166,21 +166,13 @@ function create_address_format_definition($rawDefinition)
     $addressFormat = array(
         'locale' => determine_locale($rawDefinition),
         'format' => null,
+        'required_fields' => convert_fields($rawDefinition['require']),
+        'uppercase_fields' => convert_fields($rawDefinition['upper']),
+        'administrative_area_type' => $rawDefinition['state_name_type'],
+        'locality_type' => $rawDefinition['locality_name_type'],
+        'dependent_locality_type' => $rawDefinition['sublocality_name_type'],
+        'postal_code_type' => $rawDefinition['zip_name_type'],
     );
-    if (isset($rawDefinition['require'])) {
-        $required = str_split($rawDefinition['require']);
-        $addressFormat['required_fields'] = convert_fields($required);
-    }
-    if (isset($rawDefinition['upper'])) {
-        $uppercase = str_split($rawDefinition['upper']);
-        $addressFormat['uppercase_fields'] = convert_fields($uppercase);
-    }
-    if (isset($rawDefinition['state_name_type'])) {
-        $addressFormat['administrative_area_type'] = $rawDefinition['state_name_type'];
-    }
-    if (isset($rawDefinition['zip_name_type'])) {
-        $addressFormat['postal_code_type'] = $rawDefinition['zip_name_type'];
-    }
     if (isset($rawDefinition['zip'])) {
         $addressFormat['postal_code_pattern'] = $rawDefinition['zip'];
     }
@@ -278,7 +270,7 @@ function convert_format($format)
 /**
  * Converts google's field symbols to the expected values.
  */
-function convert_fields(array $fields)
+function convert_fields($fields)
 {
     $mapping = array(
         'S' => AddressFormat::FIELD_ADMINISTRATIVE_AREA,
@@ -291,6 +283,7 @@ function convert_fields(array $fields)
         'N' => AddressFormat::FIELD_RECIPIENT,
     );
 
+    $fields = str_split($fields);
     foreach ($fields as $key => $field) {
         if (isset($mapping[$field])) {
             $fields[$key] = $mapping[$field];

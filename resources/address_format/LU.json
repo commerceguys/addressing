@@ -9,7 +9,7 @@
     "uppercase_fields": [
         "locality"
     ],
-    "administrative_area_type": "province",
+    "locality_type": "city",
     "postal_code_type": "postal",
     "postal_code_pattern": "\\d{4}",
     "postal_code_prefix": "L-"

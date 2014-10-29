@@ -109,9 +109,17 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
         $addressFormat->setFormat($definition['format']);
         $addressFormat->setRequiredFields($definition['required_fields']);
         $addressFormat->setUppercaseFields($definition['uppercase_fields']);
-        $addressFormat->setAdministrativeAreaType($definition['administrative_area_type']);
         $addressFormat->setPostalCodeType($definition['postal_code_type']);
         $addressFormat->setLocale($definition['locale']);
+        if (isset($definition['administrative_area_type'])) {
+            $addressFormat->setAdministrativeAreaType($definition['administrative_area_type']);
+        }
+        if (isset($definition['locality_type'])) {
+            $addressFormat->setLocalityType($definition['locality_type']);
+        }
+        if (isset($definition['dependent_locality_type'])) {
+            $addressFormat->setDependentLocalityType($definition['dependent_locality_type']);
+        }
         if (isset($definition['postal_code_pattern'])) {
             $addressFormat->setPostalCodePattern($definition['postal_code_pattern']);
         }

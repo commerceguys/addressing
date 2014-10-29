@@ -166,13 +166,20 @@ class GenerateAddressFieldsSubscriber implements EventSubscriberInterface
             AddressFormatInterface::ADMINISTRATIVE_AREA_TYPE_DEPARTMENT => 'Department',
             AddressFormatInterface::ADMINISTRATIVE_AREA_TYPE_DISTRICT => 'District',
             AddressFormatInterface::ADMINISTRATIVE_AREA_TYPE_DO_SI => 'Do',
-            AddressFormatInterface::ADMINISTRATIVE_AREA_TYPE_EMIRATE => 'emirate',
+            AddressFormatInterface::ADMINISTRATIVE_AREA_TYPE_EMIRATE => 'Emirate',
             AddressFormatInterface::ADMINISTRATIVE_AREA_TYPE_ISLAND => 'Island',
             AddressFormatInterface::ADMINISTRATIVE_AREA_TYPE_OBLAST => 'Oblast',
             AddressFormatInterface::ADMINISTRATIVE_AREA_TYPE_PARISH => 'Parish',
             AddressFormatInterface::ADMINISTRATIVE_AREA_TYPE_PREFECTURE => 'Prefecture',
             AddressFormatInterface::ADMINISTRATIVE_AREA_TYPE_PROVINCE => 'Province',
             AddressFormatInterface::ADMINISTRATIVE_AREA_TYPE_STATE => 'State',
+            AddressFormatInterface::LOCALITY_TYPE_CITY => 'City',
+            AddressFormatInterface::LOCALITY_TYPE_DISTRICT => 'District',
+            AddressFormatInterface::LOCALITY_TYPE_POST_TOWN => 'Post Town',
+            AddressFormatInterface::DEPENDENT_LOCALITY_TYPE_DISTRICT => 'District',
+            AddressFormatInterface::DEPENDENT_LOCALITY_TYPE_NEIGHBORHOOD => 'Neighborhood',
+            AddressFormatInterface::DEPENDENT_LOCALITY_TYPE_VILLAGE_TOWNSHIP => 'Village / Township',
+            AddressFormatInterface::DEPENDENT_LOCALITY_TYPE_SUBURB => 'Suburb',
             AddressFormatInterface::POSTAL_CODE_TYPE_POSTAL => 'Postal Code',
             AddressFormatInterface::POSTAL_CODE_TYPE_ZIP => 'ZIP code',
             AddressFormatInterface::POSTAL_CODE_TYPE_PIN => 'PIN code',
@@ -180,9 +187,21 @@ class GenerateAddressFieldsSubscriber implements EventSubscriberInterface
 
         // Determine the correct administrative area label.
         $administrativeAreaType = $addressFormat->getAdministrativeAreaType();
-        $administrativeAreaLabel = $subdivisionLabels[AddressFormatInterface::ADMINISTRATIVE_AREA_TYPE_STATE];
+        $administrativeAreaLabel = '';
         if (isset($subdivisionLabels[$administrativeAreaType])) {
             $administrativeAreaLabel = $subdivisionLabels[$administrativeAreaType];
+        }
+        // Determine the correct locality label.
+        $localityType = $addressFormat->getLocalityType();
+        $localityLabel = '';
+        if (isset($subdivisionLabels[$localityType])) {
+            $localityLabel = $subdivisionLabels[$localityType];
+        }
+        // Determine the correct dependent locality label.
+        $dependentLocalityType = $addressFormat->getLocalityType();
+        $dependentLocalityLabel = '';
+        if (isset($subdivisionLabels[$dependentLocalityType])) {
+            $dependentLocalityLabel = $subdivisionLabels[$dependentLocalityType];
         }
         // Determine the correct postal code label.
         $postalCodeType = $addressFormat->getPostalCodeType();
@@ -194,8 +213,8 @@ class GenerateAddressFieldsSubscriber implements EventSubscriberInterface
         // Assemble the final set of labels.
         $labels = array(
             AddressFormatInterface::FIELD_ADMINISTRATIVE_AREA => $administrativeAreaLabel,
-            AddressFormatInterface::FIELD_LOCALITY => 'City',
-            AddressFormatInterface::FIELD_DEPENDENT_LOCALITY => 'District',
+            AddressFormatInterface::FIELD_LOCALITY => $localityLabel,
+            AddressFormatInterface::FIELD_DEPENDENT_LOCALITY => $dependentLocalityLabel,
             AddressFormatInterface::FIELD_ADDRESS => 'Street Address',
             AddressFormatInterface::FIELD_ORGANIZATION => 'Company',
             AddressFormatInterface::FIELD_RECIPIENT => 'Contact Name',
