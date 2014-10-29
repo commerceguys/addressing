@@ -463,11 +463,11 @@
         "code": "Escada",
         "name": "Escada"
     },
-    "BR-PE-Exu": {
+    "BR-PE-f2f5e7": {
         "locale": "pt",
         "country_code": "BR",
         "parent_id": "BR-PE",
-        "id": "BR-PE-Exu",
+        "id": "BR-PE-f2f5e7",
         "code": "Exu",
         "name": "Exu"
     },

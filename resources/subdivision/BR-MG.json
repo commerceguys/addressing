@@ -3567,11 +3567,11 @@
         "code": "Luminárias",
         "name": "Luminárias"
     },
-    "BR-MG-Luz": {
+    "BR-MG-ff59de": {
         "locale": "pt",
         "country_code": "BR",
         "parent_id": "BR-MG",
-        "id": "BR-MG-Luz",
+        "id": "BR-MG-ff59de",
         "code": "Luz",
         "name": "Luz"
     },

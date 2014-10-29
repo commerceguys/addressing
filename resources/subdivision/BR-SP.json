@@ -2191,11 +2191,11 @@
         "code": "Itobi",
         "name": "Itobi"
     },
-    "BR-SP-Itu": {
+    "BR-SP-f6f5af": {
         "locale": "pt",
         "country_code": "BR",
         "parent_id": "BR-SP",
-        "id": "BR-SP-Itu",
+        "id": "BR-SP-f6f5af",
         "code": "Itu",
         "name": "Itu"
     },
@@ -3567,11 +3567,11 @@
         "code": "Platina",
         "name": "Platina"
     },
-    "BR-SP-Poa": {
+    "BR-SP-7d5e8d": {
         "locale": "pt",
         "country_code": "BR",
         "parent_id": "BR-SP",
-        "id": "BR-SP-Poa",
+        "id": "BR-SP-7d5e8d",
         "code": "Poa",
         "name": "Poa"
     },
@@ -5023,11 +5023,11 @@
         "code": "Urânia",
         "name": "Urânia"
     },
-    "BR-SP-Uru": {
+    "BR-SP-01da25": {
         "locale": "pt",
         "country_code": "BR",
         "parent_id": "BR-SP",
-        "id": "BR-SP-Uru",
+        "id": "BR-SP-01da25",
         "code": "Uru",
         "name": "Uru"
     },

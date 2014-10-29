@@ -51,8 +51,7 @@ foreach ($foundCountries as $countryCode) {
     if ($countryCode == 'ZZ') {
         // Save the ZZ definitions so that they can be used later.
         $genericDefinition = $definition;
-    }
-    else {
+    } else {
         // Merge-in the defaults from ZZ.
         $definition += $genericDefinition;
     }
@@ -85,24 +84,46 @@ foreach ($foundCountries as $countryCode) {
 /**
  * Recursively generates subdivision definitions.
  */
-function generate_subdivisions($countryCode, $parentId, $subdivisionPaths, $languages) {
+function generate_subdivisions($countryCode, $parentId, $subdivisionPaths, $languages)
+{
     global $service_url;
 
-    $subdivisions = array();
+    // Start by retrieving all json definitions.
+    $definitions = array();
+    $definitionKeys = array();
     foreach ($subdivisionPaths as $subdivisionPath) {
         $definition = file_get_contents($service_url . '/data/' . $subdivisionPath);
         $definition = json_decode($definition, true);
+
+        $definitions[$subdivisionPath] = $definition;
+        $definitionKeys[] = $definition['key'];
+    }
+
+    // Determine whether the definition keys are safe to be used as subdivision
+    // ids (by having the same length, and being ASCII).
+    $keySuitableForId = true;
+    foreach ($definitionKeys as $index => $key) {
+        if (strlen($key) != strlen($definitionKeys[0]) || !ctype_print($key)) {
+            $keySuitableAsId = false;
+            break;
+        }
+    }
+
+    $subdivisions = array();
+    foreach ($definitions as $subdivisionPath => $definition) {
         // Construct a safe id for this subdivision. Google doesn't have one.
         if (isset($definition['isoid'])) {
             // Administrative areas often have a numeric isoid.
             $subdivisionId = $parentId . '-' . $definition['isoid'];
-        }
-        elseif (strlen($definition['key']) == '2' || strlen($definition['key']) == '3') {
+        } elseif (count($definitionKeys) > 1 && $keySuitableAsId) {
             // Many administrative areas have no isoid, but use a safe
-            // two or three letter identifier.
+            // two/three letter identifier as the key.
             $subdivisionId = $parentId . '-' . $definition['key'];
-        }
-        else {
+        } elseif (in_array($countryCode, array('AU'))) {
+            // Special case countries which have different key lengths,
+            // but which are known to be safe (for example, Australia).
+            $subdivisionId = $parentId . '-' . $definition['key'];
+        } else {
             // Localities and dependent localities have keys that are
             // not guaranteed to be in the local script, so we hash them.
             $subdivisionId = $parentId . '-' . substr(sha1($parentId . $definition['key']), 0, 6);
@@ -140,7 +161,8 @@ function generate_subdivisions($countryCode, $parentId, $subdivisionPaths, $lang
 /**
  * Creates an address format definition from Google's raw definition.
  */
-function create_address_format_definition($rawDefinition) {
+function create_address_format_definition($rawDefinition)
+{
     $addressFormat = array(
         'locale' => determine_locale($rawDefinition),
         'format' => null,
@@ -171,8 +193,7 @@ function create_address_format_definition($rawDefinition) {
         $language = $rawDefinition['lang'];
         $addressFormat['translations'][$language]['format'] = convert_format($rawDefinition['fmt']);
         $addressFormat['format'] = convert_format($rawDefinition['lfmt']);
-    }
-    else {
+    } else {
         $addressFormat['format'] = convert_format($rawDefinition['fmt']);
     }
 
@@ -182,7 +203,8 @@ function create_address_format_definition($rawDefinition) {
 /**
  * Creates a subdivision definition from Google's raw definition.
  */
-function create_subdivision_definition($countryCode, $parentId, $subdivisionId, $rawDefinition) {
+function create_subdivision_definition($countryCode, $parentId, $subdivisionId, $rawDefinition)
+{
     // The name property isn't set when it's the same as the key.
     if (!isset($rawDefinition['name'])) {
         $rawDefinition['name'] = $rawDefinition['key'];
@@ -216,7 +238,8 @@ function create_subdivision_definition($countryCode, $parentId, $subdivisionId, 
 /**
  * Determines the correct locale of a definition.
  */
-function determine_locale($rawDefinition) {
+function determine_locale($rawDefinition)
+{
     $locale = 'und';
     if (isset($rawDefinition['lang'])) {
         $locale = $rawDefinition['lang'];
@@ -235,7 +258,8 @@ function determine_locale($rawDefinition) {
 /**
  * Converts the provided format string into one recognized by the library.
  */
-function convert_format($format) {
+function convert_format($format)
+{
     $replacements = array(
         '%S' => '%' . AddressFormat::FIELD_ADMINISTRATIVE_AREA,
         '%C' => '%' . AddressFormat::FIELD_LOCALITY,
@@ -254,7 +278,8 @@ function convert_format($format) {
 /**
  * Converts google's field symbols to the expected values.
  */
-function convert_fields(array $fields) {
+function convert_fields(array $fields)
+{
     $mapping = array(
         'S' => AddressFormat::FIELD_ADMINISTRATIVE_AREA,
         'C' => AddressFormat::FIELD_LOCALITY,
