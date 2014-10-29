@@ -12,7 +12,7 @@ class AddressTest extends \PHPUnit_Framework_TestCase
     /**
      * @var Address
      */
-    protected $country;
+    protected $address;
 
     public function setUp()
     {
