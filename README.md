@@ -14,6 +14,7 @@ Features:
 - Validation (via Symfony Validator)
 - Form generation (via Symfony Form)
 - Postal formatting
+- Zones via the [commerceguys/zone](https://github.com/commerceguys/zone) library.
 
 The dataset is [stored locally](https://github.com/commerceguys/addressing/tree/master/resources) in JSON format, [generated](https://github.com/commerceguys/addressing/blob/master/scripts/generate.php) from Google's [Address Data Service](https://i18napis.appspot.com/address).
 
@@ -43,7 +44,7 @@ The [address format object](https://github.com/commerceguys/addressing/blob/mast
 - Which fields are used, and in which order
 - Which fields are required
 - Which fields need to be uppercased for the actual mailing (to facilitate automated sorting of mail)
-- The labels for the administrative area (state, province, parish, etc.), and the postal code (postal code or ZIP code)
+- The labels for the administrative area (state, province, parish, etc.), locality (city/post town/district, etc.), dependent locality (neighborhood, suburb, district, etc) and the postal code (postal code or ZIP code)
 - The regular expression pattern for validating postal codes
 
 The [subdivision object](https://github.com/commerceguys/addressing/blob/master/src/Model/SubdivisionInterface.php) contains the following data:
