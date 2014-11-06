@@ -99,7 +99,7 @@ interface AddressInterface
     /**
      * Sets the dependent locality (i.e neighbourhood).
      *
-     * @return string The dependent locality.
+     * @param string $dependentLocality The dependent locality.
      */
     public function setDependentLocality($dependentLocality);
 
@@ -115,7 +115,7 @@ interface AddressInterface
     /**
      * Sets the postal code of the address.
      *
-     * @return string The postal code.
+     * @param string $postalCode The postal code.
      */
     public function setPostalCode($postalCode);
 
@@ -131,7 +131,7 @@ interface AddressInterface
     /**
      * Sets the sorting code.
      *
-     * @return string The sorting code.
+     * @param string $sortingCode The sorting code.
      */
     public function setSortingCode($sortingCode);
 
@@ -145,7 +145,7 @@ interface AddressInterface
     /**
      * Sets the first line of address block.
      *
-     * @return string The first line of the address block.
+     * @param string $addressLine1 The first line of the address block.
      */
     public function setAddressLine1($addressLine1);
 
@@ -159,7 +159,7 @@ interface AddressInterface
     /**
      * Sets the second line of address block.
      *
-     * @return string The second line of the address block.
+     * @param string $addressLine2 The second line of the address block.
      */
     public function setAddressLine2($addressLine2);
 

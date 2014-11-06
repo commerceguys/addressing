@@ -53,7 +53,7 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
         if ($parentId == $countryCode) {
             $parentId = 0;
         }
-        $definitions = $this->loadDefinitions($countryCode, $parentId, $locale);
+        $definitions = $this->loadDefinitions($countryCode, $parentId);
         if (!isset($definitions[$id])) {
             // No definition found.
             return null;
@@ -68,7 +68,7 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
      */
     public function getAll($countryCode, $parentId = 0, $locale = null)
     {
-        $definitions = $this->loadDefinitions($countryCode, $parentId, $locale);
+        $definitions = $this->loadDefinitions($countryCode, $parentId);
         $subdivisions = array();
         foreach ($definitions as $id => $definition) {
             $definition = $this->translateDefinition($definition, $locale);
