@@ -101,7 +101,7 @@ function generate_subdivisions($countryCode, $parentId, $subdivisionPaths, $lang
 
     // Determine whether the definition keys are safe to be used as subdivision
     // ids (by having the same length, and being ASCII).
-    $keySuitableForId = true;
+    $keySuitableAsId = true;
     foreach ($definitionKeys as $index => $key) {
         if (strlen($key) != strlen($definitionKeys[0]) || !ctype_print($key)) {
             $keySuitableAsId = false;
