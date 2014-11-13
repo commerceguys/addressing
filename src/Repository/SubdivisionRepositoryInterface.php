@@ -22,9 +22,9 @@ interface SubdivisionRepositoryInterface
     /**
      * Returns all available subdivision instances for the provided country code.
      *
-     * @param string  $countryCode The country code.
-     * @param integer $parentId    The parent id.
-     * @param string  $locale      The locale (e.g. fr-FR).
+     * @param string $countryCode The country code.
+     * @param int    $parentId    The parent id.
+     * @param string $locale      The locale (e.g. fr-FR).
      *
      * @return Subdivision[] An array of subdivision instances.
      */

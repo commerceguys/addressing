@@ -81,8 +81,8 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
     /**
      * Loads the subdivision definitions for the provided country code.
      *
-     * @param string  $countryCode The country code.
-     * @param integer $parentId    The parent id.
+     * @param string $countryCode The country code.
+     * @param int    $parentId    The parent id.
      *
      * @return array The subdivision definitions.
      */
