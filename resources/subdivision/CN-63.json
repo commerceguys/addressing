@@ -7,7 +7,7 @@
         "code": "果洛藏族自治州",
         "name": "Golog Zhou",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "果洛州"
             }
         },
@@ -21,7 +21,7 @@
         "code": "海北藏族自治州",
         "name": "Haibei Zhou",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "海北州"
             }
         },
@@ -35,7 +35,7 @@
         "code": "海东市",
         "name": "Haidong Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "海东市"
             }
         },
@@ -49,7 +49,7 @@
         "code": "海南藏族自治州",
         "name": "Hainan Zhou",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "海南州"
             }
         },
@@ -63,7 +63,7 @@
         "code": "海西蒙古族藏族自治州",
         "name": "Haixi Zhou",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "海西州"
             }
         },
@@ -77,7 +77,7 @@
         "code": "黄南藏族自治州",
         "name": "Huangnan Zhou",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "黄南州"
             }
         },
@@ -91,7 +91,7 @@
         "code": "西宁市",
         "name": "Xining Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "西宁市"
             }
         },
@@ -105,7 +105,7 @@
         "code": "玉树藏族自治州",
         "name": "Yushu Zhou",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "玉树州"
             }
         },

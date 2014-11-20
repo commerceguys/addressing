@@ -7,7 +7,7 @@
         "code": "江城哈尼族彝族自治县",
         "name": "Jiangcheng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "江城县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "景东彝族自治县",
         "name": "Jingdong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "景东县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "景谷傣族彝族自治县",
         "name": "Jinggu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "景谷县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "澜沧拉祜族自治县",
         "name": "Lancang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "澜沧县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "孟连傣族拉祜族佤族自治县",
         "name": "Menglian Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "孟连县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "墨江哈尼族自治县",
         "name": "Mojiang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "墨江县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "宁洱哈尼族彝族自治县",
         "name": "Ning'er Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "宁洱县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "思茅区",
         "name": "Simao Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "思茅区"
             }
         }
@@ -111,7 +111,7 @@
         "code": "西盟佤族自治县",
         "name": "Ximeng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "西盟县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "镇沅彝族哈尼族拉祜族自治县",
         "name": "Zhenyuan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "镇沅县"
             }
         }

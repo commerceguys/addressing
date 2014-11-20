@@ -5,7 +5,7 @@
         "parent_id": "TW-TNN",
         "id": "TW-TNN-942f2f",
         "code": "七股區",
-        "name": "Cigu District",
+        "name": "Qigu District",
         "postal_code_pattern": "724",
         "translations": {
             "zh-hant": {
@@ -19,7 +19,7 @@
         "parent_id": "TW-TNN",
         "id": "TW-TNN-594727",
         "code": "下營區",
-        "name": "Siaying District",
+        "name": "Xiaying District",
         "postal_code_pattern": "735",
         "translations": {
             "zh-hant": {
@@ -89,7 +89,7 @@
         "parent_id": "TW-TNN",
         "id": "TW-TNN-c142a4",
         "code": "六甲區",
-        "name": "Lioujia District",
+        "name": "Liujia District",
         "postal_code_pattern": "734",
         "translations": {
             "zh-hant": {
@@ -131,7 +131,7 @@
         "parent_id": "TW-TNN",
         "id": "TW-TNN-9d87f5",
         "code": "左鎮區",
-        "name": "Zuojhen District",
+        "name": "Zuozhen District",
         "postal_code_pattern": "713",
         "translations": {
             "zh-hant": {
@@ -229,7 +229,7 @@
         "parent_id": "TW-TNN",
         "id": "TW-TNN-b7825c",
         "code": "西港區",
-        "name": "Sigang District",
+        "name": "Xigang District",
         "postal_code_pattern": "723",
         "translations": {
             "zh-hant": {
@@ -341,7 +341,7 @@
         "parent_id": "TW-TNN",
         "id": "TW-TNN-34c3fd",
         "code": "柳營區",
-        "name": "Liouying District",
+        "name": "Liuying District",
         "postal_code_pattern": "736",
         "translations": {
             "zh-hant": {
@@ -355,7 +355,7 @@
         "parent_id": "TW-TNN",
         "id": "TW-TNN-d1d1c9",
         "code": "將軍區",
-        "name": "Jiangjyun District",
+        "name": "Jiangjun District",
         "postal_code_pattern": "725",
         "translations": {
             "zh-hant": {
@@ -397,7 +397,7 @@
         "parent_id": "TW-TNN",
         "id": "TW-TNN-80554d",
         "code": "新化區",
-        "name": "Sinhua District",
+        "name": "Xinhua District",
         "postal_code_pattern": "712",
         "translations": {
             "zh-hant": {
@@ -411,7 +411,7 @@
         "parent_id": "TW-TNN",
         "id": "TW-TNN-ae34a9",
         "code": "新市區",
-        "name": "Sinshih District",
+        "name": "Xinshi District",
         "postal_code_pattern": "744",
         "translations": {
             "zh-hant": {
@@ -425,7 +425,7 @@
         "parent_id": "TW-TNN",
         "id": "TW-TNN-3274e9",
         "code": "新營區",
-        "name": "Sinying District",
+        "name": "Xinying District",
         "postal_code_pattern": "730",
         "translations": {
             "zh-hant": {
@@ -439,7 +439,7 @@
         "parent_id": "TW-TNN",
         "id": "TW-TNN-3238a4",
         "code": "楠西區",
-        "name": "Nansi District",
+        "name": "Nanxi District",
         "postal_code_pattern": "715",
         "translations": {
             "zh-hant": {
@@ -453,7 +453,7 @@
         "parent_id": "TW-TNN",
         "id": "TW-TNN-604e2a",
         "code": "學甲區",
-        "name": "Syuejia District",
+        "name": "Xuejia District",
         "postal_code_pattern": "726",
         "translations": {
             "zh-hant": {
@@ -467,7 +467,7 @@
         "parent_id": "TW-TNN",
         "id": "TW-TNN-a9f1c9",
         "code": "龍崎區",
-        "name": "Longci District",
+        "name": "Longqi District",
         "postal_code_pattern": "719",
         "translations": {
             "zh-hant": {
@@ -481,7 +481,7 @@
         "parent_id": "TW-TNN",
         "id": "TW-TNN-59a449",
         "code": "歸仁區",
-        "name": "Gueiren District",
+        "name": "Guiren District",
         "postal_code_pattern": "711",
         "translations": {
             "zh-hant": {
@@ -509,7 +509,7 @@
         "parent_id": "TW-TNN",
         "id": "TW-TNN-e99692",
         "code": "鹽水區",
-        "name": "Yanshuei District",
+        "name": "Yanshui District",
         "postal_code_pattern": "737",
         "translations": {
             "zh-hant": {

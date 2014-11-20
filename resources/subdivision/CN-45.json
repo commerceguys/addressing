@@ -7,7 +7,7 @@
         "code": "百色市",
         "name": "Bose Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "百色市"
             }
         },
@@ -21,7 +21,7 @@
         "code": "北海市",
         "name": "Beihai Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "北海市"
             }
         },
@@ -35,7 +35,7 @@
         "code": "崇左市",
         "name": "Chongzuo Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "崇左市"
             }
         },
@@ -49,7 +49,7 @@
         "code": "防城港市",
         "name": "Fangchenggang Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "防城港市"
             }
         },
@@ -63,7 +63,7 @@
         "code": "贵港市",
         "name": "Guigang Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "贵港市"
             }
         },
@@ -77,7 +77,7 @@
         "code": "桂林市",
         "name": "Guilin Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "桂林市"
             }
         },
@@ -91,7 +91,7 @@
         "code": "河池市",
         "name": "Hechi Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "河池市"
             }
         },
@@ -105,7 +105,7 @@
         "code": "贺州市",
         "name": "Hezhou Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "贺州市"
             }
         },
@@ -119,7 +119,7 @@
         "code": "来宾市",
         "name": "Laibin Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "来宾市"
             }
         },
@@ -133,7 +133,7 @@
         "code": "柳州市",
         "name": "Liuzhou Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "柳州市"
             }
         },
@@ -147,7 +147,7 @@
         "code": "南宁市",
         "name": "Nanning Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "南宁市"
             }
         },
@@ -161,7 +161,7 @@
         "code": "钦州市",
         "name": "Qinzhou Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "钦州市"
             }
         },
@@ -175,7 +175,7 @@
         "code": "梧州市",
         "name": "Wuzhou Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "梧州市"
             }
         },
@@ -189,7 +189,7 @@
         "code": "玉林市",
         "name": "Yulin Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "玉林市"
             }
         },

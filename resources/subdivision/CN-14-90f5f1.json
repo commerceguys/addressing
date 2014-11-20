@@ -7,7 +7,7 @@
         "code": "城区",
         "name": "Cheng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "城区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "高平市",
         "name": "Gaoping Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "高平市"
             }
         }
@@ -33,7 +33,7 @@
         "code": "陵川县",
         "name": "Lingchuan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "陵川县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "沁水县",
         "name": "Qinshui Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "沁水县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "阳城县",
         "name": "Yangcheng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "阳城县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "泽州县",
         "name": "Zezhou Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "泽州县"
             }
         }

@@ -7,7 +7,7 @@
         "code": "瀍河回族区",
         "name": "Chanhe Huizu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "瀍河回族区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "吉利区",
         "name": "Jili Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "吉利区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "涧西区",
         "name": "Jianxi Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "涧西区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "老城区",
         "name": "Laocheng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "老城区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "栾川县",
         "name": "Luanchuan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "栾川县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "洛龙区",
         "name": "Luolong Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "洛龙区"
             }
         }
@@ -85,7 +85,7 @@
         "code": "洛宁县",
         "name": "Luoning Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "洛宁县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "孟津县",
         "name": "Mengjin Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "孟津县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "汝阳县",
         "name": "Ruyang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "汝阳县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "嵩县",
         "name": "Song Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "嵩县"
             }
         }
@@ -137,7 +137,7 @@
         "code": "西工区",
         "name": "Xigong Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "西工区"
             }
         }
@@ -150,7 +150,7 @@
         "code": "新安县",
         "name": "Xin'an Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "新安县"
             }
         }
@@ -163,7 +163,7 @@
         "code": "偃师市",
         "name": "Yanshi Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "偃师市"
             }
         }
@@ -176,7 +176,7 @@
         "code": "伊川县",
         "name": "Yichuan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "伊川县"
             }
         }
@@ -189,7 +189,7 @@
         "code": "宜阳县",
         "name": "Yiyang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "宜阳县"
             }
         }

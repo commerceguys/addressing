@@ -7,7 +7,7 @@
         "code": "定边县",
         "name": "Dingbian Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "定边县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "府谷县",
         "name": "Fugu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "府谷县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "横山县",
         "name": "Hengshan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "横山县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "佳县",
         "name": "Jia Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "佳县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "靖边县",
         "name": "Jingbian Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "靖边县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "米脂县",
         "name": "Mizhi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "米脂县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "清涧县",
         "name": "Qingjian Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "清涧县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "神木县",
         "name": "Shenmu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "神木县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "绥德县",
         "name": "Suide Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "绥德县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "吴堡县",
         "name": "Wubu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "吴堡县"
             }
         }
@@ -137,7 +137,7 @@
         "code": "榆阳区",
         "name": "Yuyang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "榆阳区"
             }
         }
@@ -150,7 +150,7 @@
         "code": "子洲县",
         "name": "Zizhou Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "子洲县"
             }
         }

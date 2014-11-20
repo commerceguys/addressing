@@ -7,7 +7,7 @@
         "code": "大安区",
         "name": "Da'an Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "大安区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "富顺县",
         "name": "Fushun Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "富顺县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "贡井区",
         "name": "Gongjing Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "贡井区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "荣县",
         "name": "Rong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "荣县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "沿滩区",
         "name": "Yantan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "沿滩区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "自流井区",
         "name": "Ziliujing Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "自流井区"
             }
         }

@@ -7,7 +7,7 @@
         "code": "察布查尔锡伯自治县",
         "name": "Qapqal Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "察布查尔县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "巩留县",
         "name": "Gongliu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "巩留县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "霍城县",
         "name": "Huocheng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "霍城县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "奎屯市",
         "name": "Kuytun Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "奎屯市"
             }
         }
@@ -59,7 +59,7 @@
         "code": "尼勒克县",
         "name": "Nilka Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "尼勒克县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "特克斯县",
         "name": "Tekes Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "特克斯县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "新源县",
         "name": "Xinyuan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "新源县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "伊宁市",
         "name": "Yining Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "伊宁市"
             }
         }
@@ -111,7 +111,7 @@
         "code": "伊宁县",
         "name": "Yining Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "伊宁县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "昭苏县",
         "name": "Zhaosu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "昭苏县"
             }
         }

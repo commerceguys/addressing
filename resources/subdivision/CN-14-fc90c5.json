@@ -7,7 +7,7 @@
         "code": "怀仁县",
         "name": "Huairen Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "怀仁县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "平鲁区",
         "name": "Pinglu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "平鲁区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "山阴县",
         "name": "Shanyin Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "山阴县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "朔城区",
         "name": "Shuocheng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "朔城区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "应县",
         "name": "Ying Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "应县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "右玉县",
         "name": "Youyu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "右玉县"
             }
         }

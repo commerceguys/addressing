@@ -7,7 +7,7 @@
         "code": "阿坝县",
         "name": "Aba Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "阿坝县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "黑水县",
         "name": "Heishui Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "黑水县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "红原县",
         "name": "Hongyuan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "红原县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "金川县",
         "name": "Jinchuan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "金川县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "九寨沟县",
         "name": "Jiuzhaigou Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "九寨沟县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "理县",
         "name": "Li Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "理县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "马尔康县",
         "name": "Barkam Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "马尔康县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "茂县",
         "name": "Mao Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "茂县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "壤塘县",
         "name": "Zamtang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "壤塘县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "若尔盖县",
         "name": "Zoǐgê Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "若尔盖县"
             }
         }
@@ -137,7 +137,7 @@
         "code": "松潘县",
         "name": "Songpan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "松潘县"
             }
         }
@@ -150,7 +150,7 @@
         "code": "汶川县",
         "name": "Wenchuan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "汶川县"
             }
         }
@@ -163,7 +163,7 @@
         "code": "小金县",
         "name": "Xiaojin Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "小金县"
             }
         }

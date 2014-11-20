@@ -7,7 +7,7 @@
         "code": "连城县",
         "name": "Liancheng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "连城县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "上杭县",
         "name": "Shanghang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "上杭县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "武平县",
         "name": "Wuping Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "武平县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "新罗区",
         "name": "Xinluo Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "新罗区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "永定县",
         "name": "Yongding Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "永定县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "漳平市",
         "name": "Zhangping Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "漳平市"
             }
         }
@@ -85,7 +85,7 @@
         "code": "长汀县",
         "name": "Changting Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "长汀县"
             }
         }

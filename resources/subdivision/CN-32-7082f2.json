@@ -7,7 +7,7 @@
         "code": "丰县",
         "name": "Feng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "丰县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "鼓楼区",
         "name": "Gulou Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "鼓楼区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "贾汪区",
         "name": "Jiawang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "贾汪区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "九里区",
         "name": "Jiuli Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "九里区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "沛县",
         "name": "Pei Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "沛县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "邳州市",
         "name": "Pizhou Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "邳州市"
             }
         }
@@ -85,7 +85,7 @@
         "code": "泉山区",
         "name": "Quanshan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "泉山区"
             }
         }
@@ -98,7 +98,7 @@
         "code": "睢宁县",
         "name": "Suining Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "睢宁县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "铜山县",
         "name": "Tongshan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "铜山县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "新沂市",
         "name": "Xinyi Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "新沂市"
             }
         }
@@ -137,7 +137,7 @@
         "code": "云龙区",
         "name": "Yunlong Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "云龙区"
             }
         }

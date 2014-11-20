@@ -7,7 +7,7 @@
         "code": "安乡县",
         "name": "Anxiang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "安乡县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "鼎城区",
         "name": "Dingcheng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "鼎城区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "汉寿县",
         "name": "Hanshou Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "汉寿县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "津市市",
         "name": "Jinshi Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "津市市"
             }
         }
@@ -59,7 +59,7 @@
         "code": "澧县",
         "name": "Li Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "澧县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "临澧县",
         "name": "Linli Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "临澧县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "石门县",
         "name": "Shimen Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "石门县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "桃源县",
         "name": "Taoyuan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "桃源县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "武陵区",
         "name": "Wuling Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "武陵区"
             }
         }

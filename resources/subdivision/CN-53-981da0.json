@@ -7,7 +7,7 @@
         "code": "大关县",
         "name": "Daguan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "大关县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "鲁甸县",
         "name": "Ludian Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "鲁甸县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "巧家县",
         "name": "Qiaojia Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "巧家县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "水富县",
         "name": "Shuifu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "水富县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "绥江县",
         "name": "Suijiang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "绥江县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "威信县",
         "name": "Weixin Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "威信县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "盐津县",
         "name": "Yanjin Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "盐津县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "彝良县",
         "name": "Yiliang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "彝良县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "永善县",
         "name": "Yongshan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "永善县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "昭阳区",
         "name": "Zhaoyang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "昭阳区"
             }
         }
@@ -137,7 +137,7 @@
         "code": "镇雄县",
         "name": "Zhenxiong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "镇雄县"
             }
         }

@@ -7,7 +7,7 @@
         "code": "白塔区",
         "name": "Baita Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "白塔区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "灯塔市",
         "name": "Dengta Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "灯塔市"
             }
         }
@@ -33,7 +33,7 @@
         "code": "弓长岭区",
         "name": "Gongzhangling Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "弓长岭区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "宏伟区",
         "name": "Hongwei Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "宏伟区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "辽阳县",
         "name": "Liaoyang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "辽阳县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "太子河区",
         "name": "Taizihe Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "太子河区"
             }
         }
@@ -85,7 +85,7 @@
         "code": "文圣区",
         "name": "Wensheng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "文圣区"
             }
         }

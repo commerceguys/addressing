@@ -7,7 +7,7 @@
         "code": "白碱滩区",
         "name": "Baijiantan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "白碱滩区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "独山子区",
         "name": "Dushanzi Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "独山子区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "克拉玛依区",
         "name": "Karamay Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "克拉玛依区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "乌尔禾区",
         "name": "Orku Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "乌尔禾区"
             }
         }

@@ -7,7 +7,7 @@
         "code": "九龍",
         "name": "Kowloon",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "九龍"
             }
         }
@@ -20,7 +20,7 @@
         "code": "香港島",
         "name": "Hong Kong Island",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "香港島"
             }
         }
@@ -33,7 +33,7 @@
         "code": "新界",
         "name": "New Territories",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "新界"
             }
         }

@@ -7,7 +7,7 @@
         "code": "东乡族自治县",
         "name": "Dongxiangzu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "东乡族县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "广河县",
         "name": "Guanghe Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "广河县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "和政县",
         "name": "Hezheng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "和政县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "积石山保安族东乡族撒拉族自治县",
         "name": "Jishishan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "积石山县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "康乐县",
         "name": "Kangle Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "康乐县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "临夏市",
         "name": "Linxia Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "临夏市"
             }
         }
@@ -85,7 +85,7 @@
         "code": "临夏县",
         "name": "Linxia Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "临夏县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "永靖县",
         "name": "Yongjing Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "永靖县"
             }
         }

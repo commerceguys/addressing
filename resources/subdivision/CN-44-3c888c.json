@@ -7,7 +7,7 @@
         "code": "江城区",
         "name": "Jiangcheng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "江城区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "阳春市",
         "name": "Yangchun Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "阳春市"
             }
         }
@@ -33,7 +33,7 @@
         "code": "阳东县",
         "name": "Yangdong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "阳东县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "阳西县",
         "name": "Yangxi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "阳西县"
             }
         }

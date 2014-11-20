@@ -7,7 +7,7 @@
         "code": "富宁县",
         "name": "Funing Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "富宁县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "广南县",
         "name": "Guangnan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "广南县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "麻栗坡县",
         "name": "Malipo Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "麻栗坡县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "马关县",
         "name": "Maguan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "马关县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "丘北县",
         "name": "Qiubei Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "丘北县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "文山县",
         "name": "Wenshan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "文山县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "西畴县",
         "name": "Xichou Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "西畴县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "砚山县",
         "name": "Yanshan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "砚山县"
             }
         }

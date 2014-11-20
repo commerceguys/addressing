@@ -8,7 +8,7 @@
         "name": "Jincheng Township",
         "postal_code_pattern": "893",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "金城鎮"
             }
         }
@@ -22,7 +22,7 @@
         "name": "Jinhu Township",
         "postal_code_pattern": "891",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "金湖鎮"
             }
         }
@@ -36,7 +36,7 @@
         "name": "Jinning Township",
         "postal_code_pattern": "892",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "金寧鄉"
             }
         }
@@ -50,7 +50,7 @@
         "name": "Jinsha Township",
         "postal_code_pattern": "890",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "金沙鎮"
             }
         }
@@ -64,7 +64,7 @@
         "name": "Lieyu Township",
         "postal_code_pattern": "894",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "烈嶼鄉"
             }
         }
@@ -78,7 +78,7 @@
         "name": "Wuciou Township",
         "postal_code_pattern": "896",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "烏坵鄉"
             }
         }

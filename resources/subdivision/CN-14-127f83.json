@@ -7,7 +7,7 @@
         "code": "安泽县",
         "name": "Anze Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "安泽县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "大宁县",
         "name": "Daning Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "大宁县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "汾西县",
         "name": "Fenxi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "汾西县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "浮山县",
         "name": "Fushan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "浮山县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "古县",
         "name": "Gu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "古县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "洪洞县",
         "name": "Hongtong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "洪洞县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "侯马市",
         "name": "Houma Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "侯马市"
             }
         }
@@ -98,7 +98,7 @@
         "code": "霍州市",
         "name": "Huozhou Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "霍州市"
             }
         }
@@ -111,7 +111,7 @@
         "code": "吉县",
         "name": "Ji Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "吉县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "蒲县",
         "name": "Pu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "蒲县"
             }
         }
@@ -137,7 +137,7 @@
         "code": "曲沃县",
         "name": "Quwo Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "曲沃县"
             }
         }
@@ -150,7 +150,7 @@
         "code": "隰县",
         "name": "Xi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "隰县"
             }
         }
@@ -163,7 +163,7 @@
         "code": "乡宁县",
         "name": "Xiangning Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "乡宁县"
             }
         }
@@ -176,7 +176,7 @@
         "code": "襄汾县",
         "name": "Xiangfen Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "襄汾县"
             }
         }
@@ -189,7 +189,7 @@
         "code": "尧都区",
         "name": "Yaodu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "尧都区"
             }
         }
@@ -202,7 +202,7 @@
         "code": "翼城县",
         "name": "Yicheng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "翼城县"
             }
         }
@@ -215,7 +215,7 @@
         "code": "永和县",
         "name": "Yonghe Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "永和县"
             }
         }

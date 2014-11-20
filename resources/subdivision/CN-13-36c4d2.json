@@ -7,7 +7,7 @@
         "code": "北戴河区",
         "name": "Beidaihe Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "北戴河区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "昌黎县",
         "name": "Changli Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "昌黎县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "抚宁县",
         "name": "Funing Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "抚宁县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "海港区",
         "name": "Haigang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "海港区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "卢龙县",
         "name": "Lulong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "卢龙县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "青龙满族自治县",
         "name": "Qinglong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "青龙县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "山海关区",
         "name": "Shanhaiguan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "山海关区"
             }
         }

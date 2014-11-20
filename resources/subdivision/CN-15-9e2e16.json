@@ -7,7 +7,7 @@
         "code": "磴口县",
         "name": "Dengkou Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "磴口县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "杭锦后旗",
         "name": "Hanggin Houqi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "杭锦后旗"
             }
         }
@@ -33,7 +33,7 @@
         "code": "临河区",
         "name": "Linhe Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "临河区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "乌拉特后旗",
         "name": "Urad Houqi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "乌拉特后旗"
             }
         }
@@ -59,7 +59,7 @@
         "code": "乌拉特前旗",
         "name": "Urad Qianqi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "乌拉特前旗"
             }
         }
@@ -72,7 +72,7 @@
         "code": "乌拉特中旗",
         "name": "Urad Zhongqi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "乌拉特中旗"
             }
         }
@@ -85,7 +85,7 @@
         "code": "五原县",
         "name": "Wuyuan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "五原县"
             }
         }

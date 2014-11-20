@@ -7,7 +7,7 @@
         "code": "华容县",
         "name": "Huarong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "华容县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "君山区",
         "name": "Junshan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "君山区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "临湘市",
         "name": "Linxiang Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "临湘市"
             }
         }
@@ -46,7 +46,7 @@
         "code": "汨罗市",
         "name": "Miluo Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "汨罗市"
             }
         }
@@ -59,7 +59,7 @@
         "code": "平江县",
         "name": "Pingjiang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "平江县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "湘阴县",
         "name": "Xiangyin Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "湘阴县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "岳阳楼区",
         "name": "Yueyanglou Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "岳阳楼区"
             }
         }
@@ -98,7 +98,7 @@
         "code": "岳阳县",
         "name": "Yueyang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "岳阳县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "云溪区",
         "name": "Yunxi Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "云溪区"
             }
         }

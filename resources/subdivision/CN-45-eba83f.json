@@ -7,7 +7,7 @@
         "code": "灵山县",
         "name": "Lingshan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "灵山县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "浦北县",
         "name": "Pubei Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "浦北县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "钦北区",
         "name": "Qinbei Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "钦北区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "钦南区",
         "name": "Qinnan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "钦南区"
             }
         }

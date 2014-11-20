@@ -7,7 +7,7 @@
         "code": "安阳市",
         "name": "Anyang Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "安阳市"
             }
         },
@@ -21,7 +21,7 @@
         "code": "鹤壁市",
         "name": "Hebi Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "鹤壁市"
             }
         },
@@ -35,7 +35,7 @@
         "code": "焦作市",
         "name": "Jiaozuo Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "焦作市"
             }
         },
@@ -49,7 +49,7 @@
         "code": "开封市",
         "name": "Kaifeng Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "开封市"
             }
         },
@@ -63,7 +63,7 @@
         "code": "洛阳市",
         "name": "Luoyang Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "洛阳市"
             }
         },
@@ -77,7 +77,7 @@
         "code": "漯河市",
         "name": "Luohe Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "漯河市"
             }
         },
@@ -91,7 +91,7 @@
         "code": "南阳市",
         "name": "Nanyang Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "南阳市"
             }
         },
@@ -105,7 +105,7 @@
         "code": "平顶山市",
         "name": "Pingdingshan Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "平顶山市"
             }
         },
@@ -119,7 +119,7 @@
         "code": "濮阳市",
         "name": "Puyang Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "濮阳市"
             }
         },
@@ -133,7 +133,7 @@
         "code": "三门峡市",
         "name": "Sanmenxia Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "三门峡市"
             }
         },
@@ -147,7 +147,7 @@
         "code": "商丘市",
         "name": "Shangqiu Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "商丘市"
             }
         },
@@ -161,7 +161,7 @@
         "code": "新乡市",
         "name": "Xinxiang Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "新乡市"
             }
         },
@@ -175,7 +175,7 @@
         "code": "信阳市",
         "name": "Xinyang Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "信阳市"
             }
         },
@@ -189,7 +189,7 @@
         "code": "许昌市",
         "name": "Xuchang Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "许昌市"
             }
         },
@@ -203,7 +203,7 @@
         "code": "郑州市",
         "name": "Zhengzhou Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "郑州市"
             }
         },
@@ -217,7 +217,7 @@
         "code": "周口市",
         "name": "Zhoukou Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "周口市"
             }
         },
@@ -231,7 +231,7 @@
         "code": "驻马店市",
         "name": "Zhumadian Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "驻马店市"
             }
         },

@@ -7,7 +7,7 @@
         "code": "安溪县",
         "name": "Anxi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "安溪县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "德化县",
         "name": "Dehua Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "德化县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "丰泽区",
         "name": "Fengze Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "丰泽区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "惠安县",
         "name": "Hui'an Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "惠安县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "金门县",
         "name": "Jinmen Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "金门县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "晋江市",
         "name": "Jinjiang Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "晋江市"
             }
         }
@@ -85,7 +85,7 @@
         "code": "鲤城区",
         "name": "Licheng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "鲤城区"
             }
         }
@@ -98,7 +98,7 @@
         "code": "洛江区",
         "name": "Luojiang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "洛江区"
             }
         }
@@ -111,7 +111,7 @@
         "code": "南安市",
         "name": "Nan'an Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "南安市"
             }
         }
@@ -124,7 +124,7 @@
         "code": "泉港区",
         "name": "Quangang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "泉港区"
             }
         }
@@ -137,7 +137,7 @@
         "code": "石狮市",
         "name": "Shishi Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "石狮市"
             }
         }
@@ -150,7 +150,7 @@
         "code": "永春县",
         "name": "Yongchun Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "永春县"
             }
         }

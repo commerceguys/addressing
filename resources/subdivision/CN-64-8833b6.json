@@ -7,7 +7,7 @@
         "code": "泾源县",
         "name": "Jingyuan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "泾源县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "隆德县",
         "name": "Longde Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "隆德县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "彭阳县",
         "name": "Pengyang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "彭阳县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "西吉县",
         "name": "Xiji Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "西吉县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "原州区",
         "name": "Yuanzhou Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "原州区"
             }
         }

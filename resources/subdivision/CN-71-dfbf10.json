@@ -8,7 +8,7 @@
         "name": "North District",
         "postal_code_pattern": "404",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "北區"
             }
         }
@@ -22,7 +22,7 @@
         "name": "Beitun District",
         "postal_code_pattern": "406",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "北屯區"
             }
         }
@@ -36,7 +36,7 @@
         "name": "East District",
         "postal_code_pattern": "401",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "東區"
             }
         }
@@ -50,7 +50,7 @@
         "name": "South District",
         "postal_code_pattern": "402",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "南區"
             }
         }
@@ -64,7 +64,7 @@
         "name": "Nantun District",
         "postal_code_pattern": "408",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "南屯區"
             }
         }
@@ -78,7 +78,7 @@
         "name": "West District",
         "postal_code_pattern": "403",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "西區"
             }
         }
@@ -92,7 +92,7 @@
         "name": "Situn District",
         "postal_code_pattern": "407",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "西屯區"
             }
         }
@@ -106,7 +106,7 @@
         "name": "Central District",
         "postal_code_pattern": "400",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "中區"
             }
         }

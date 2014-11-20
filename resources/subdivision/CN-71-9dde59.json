@@ -8,7 +8,7 @@
         "name": "Annan District",
         "postal_code_pattern": "709",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "安南區"
             }
         }
@@ -22,7 +22,7 @@
         "name": "Anping District",
         "postal_code_pattern": "708",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "安平區"
             }
         }
@@ -36,7 +36,7 @@
         "name": "North District",
         "postal_code_pattern": "704",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "北區"
             }
         }
@@ -50,7 +50,7 @@
         "name": "East District",
         "postal_code_pattern": "701",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "東區"
             }
         }
@@ -64,7 +64,7 @@
         "name": "South District",
         "postal_code_pattern": "702",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "南區"
             }
         }
@@ -78,7 +78,7 @@
         "name": "West Central District",
         "postal_code_pattern": "700",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "中西區"
             }
         }

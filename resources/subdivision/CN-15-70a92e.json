@@ -7,7 +7,7 @@
         "code": "海勃湾区",
         "name": "Haibowan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "海勃湾区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "海南区",
         "name": "Hainan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "海南区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "乌达区",
         "name": "Ud Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "乌达区"
             }
         }

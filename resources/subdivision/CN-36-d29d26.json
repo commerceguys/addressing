@@ -7,7 +7,7 @@
         "code": "昌江区",
         "name": "Changjiang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "昌江区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "浮梁县",
         "name": "Fuliang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "浮梁县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "乐平市",
         "name": "Leping Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "乐平市"
             }
         }
@@ -46,7 +46,7 @@
         "code": "珠山区",
         "name": "Zhushan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "珠山区"
             }
         }

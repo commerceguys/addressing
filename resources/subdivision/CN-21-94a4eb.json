@@ -7,7 +7,7 @@
         "code": "甘井子区",
         "name": "Ganjingzi Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "甘井子区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "金州区",
         "name": "Jinzhou Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "金州区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "旅顺口区",
         "name": "Lüshunkou Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "旅顺口区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "普兰店市",
         "name": "Pulandian Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "普兰店市"
             }
         }
@@ -59,7 +59,7 @@
         "code": "沙河口区",
         "name": "Shahekou Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "沙河口区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "瓦房店市",
         "name": "Wafangdian Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "瓦房店市"
             }
         }
@@ -85,7 +85,7 @@
         "code": "西岗区",
         "name": "Xigang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "西岗区"
             }
         }
@@ -98,7 +98,7 @@
         "code": "长海县",
         "name": "Changhai Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "长海县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "中山区",
         "name": "Zhongshan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "中山区"
             }
         }
@@ -124,7 +124,7 @@
         "code": "庄河市",
         "name": "Zhuanghe Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "庄河市"
             }
         }

@@ -7,7 +7,7 @@
         "code": "广汉市",
         "name": "Guanghan Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "广汉市"
             }
         }
@@ -20,7 +20,7 @@
         "code": "旌阳区",
         "name": "Jingyang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "旌阳区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "罗江县",
         "name": "Luojiang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "罗江县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "绵竹市",
         "name": "Mianzhu Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "绵竹市"
             }
         }
@@ -59,7 +59,7 @@
         "code": "什邡市",
         "name": "Shifang Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "什邡市"
             }
         }
@@ -72,7 +72,7 @@
         "code": "中江县",
         "name": "Zhongjiang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "中江县"
             }
         }

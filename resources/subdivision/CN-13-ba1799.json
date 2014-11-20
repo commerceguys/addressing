@@ -7,7 +7,7 @@
         "code": "安国市",
         "name": "Anguo Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "安国市"
             }
         }
@@ -20,7 +20,7 @@
         "code": "安新县",
         "name": "Anxin Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "安新县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "北市区",
         "name": "Beishi Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "北市区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "博野县",
         "name": "Boye Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "博野县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "定兴县",
         "name": "Dingxing Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "定兴县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "定州市",
         "name": "Dingzhou Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "定州市"
             }
         }
@@ -85,7 +85,7 @@
         "code": "阜平县",
         "name": "Fuping Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "阜平县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "高碑店市",
         "name": "Gaobeidian Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "高碑店市"
             }
         }
@@ -111,7 +111,7 @@
         "code": "高阳县",
         "name": "Gaoyang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "高阳县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "涞水县",
         "name": "Laishui Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "涞水县"
             }
         }
@@ -137,7 +137,7 @@
         "code": "涞源县",
         "name": "Laiyuan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "涞源县"
             }
         }
@@ -150,7 +150,7 @@
         "code": "蠡县",
         "name": "Li Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "蠡县"
             }
         }
@@ -163,7 +163,7 @@
         "code": "满城县",
         "name": "Mancheng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "满城县"
             }
         }
@@ -176,7 +176,7 @@
         "code": "南市区",
         "name": "Nanshi Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "南市区"
             }
         }
@@ -189,7 +189,7 @@
         "code": "清苑县",
         "name": "Qingyuan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "清苑县"
             }
         }
@@ -202,7 +202,7 @@
         "code": "曲阳县",
         "name": "Quyang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "曲阳县"
             }
         }
@@ -215,7 +215,7 @@
         "code": "容城县",
         "name": "Rongcheng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "容城县"
             }
         }
@@ -228,7 +228,7 @@
         "code": "顺平县",
         "name": "Shunping Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "顺平县"
             }
         }
@@ -241,7 +241,7 @@
         "code": "唐县",
         "name": "Tang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "唐县"
             }
         }
@@ -254,7 +254,7 @@
         "code": "望都县",
         "name": "Wangdu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "望都县"
             }
         }
@@ -267,7 +267,7 @@
         "code": "新市区",
         "name": "Xinshi Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "新市区"
             }
         }
@@ -280,7 +280,7 @@
         "code": "雄县",
         "name": "Xiong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "雄县"
             }
         }
@@ -293,7 +293,7 @@
         "code": "徐水县",
         "name": "Xushui Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "徐水县"
             }
         }
@@ -306,7 +306,7 @@
         "code": "易县",
         "name": "Yi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "易县"
             }
         }
@@ -319,7 +319,7 @@
         "code": "涿州市",
         "name": "Zhuozhou Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "涿州市"
             }
         }

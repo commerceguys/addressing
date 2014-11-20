@@ -7,7 +7,7 @@
         "code": "滨城区",
         "name": "Bincheng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "滨城区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "博兴县",
         "name": "Boxing Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "博兴县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "惠民县",
         "name": "Huimin Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "惠民县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "无棣县",
         "name": "Wudi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "无棣县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "阳信县",
         "name": "Yangxin Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "阳信县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "沾化县",
         "name": "Zhanhua Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "沾化县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "邹平县",
         "name": "Zouping Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "邹平县"
             }
         }

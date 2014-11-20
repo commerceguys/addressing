@@ -8,7 +8,7 @@
         "name": "Alishan Township",
         "postal_code_pattern": "605",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "阿里山鄉"
             }
         }
@@ -22,7 +22,7 @@
         "name": "Budai Township",
         "postal_code_pattern": "625",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "布袋鎮"
             }
         }
@@ -36,7 +36,7 @@
         "name": "Dapu Township",
         "postal_code_pattern": "607",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "大埔鄉"
             }
         }
@@ -50,7 +50,7 @@
         "name": "Dalin Township",
         "postal_code_pattern": "622",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "大林鎮"
             }
         }
@@ -64,7 +64,7 @@
         "name": "Dongshih Township",
         "postal_code_pattern": "614",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "東石鄉"
             }
         }
@@ -78,7 +78,7 @@
         "name": "Fanlu Township",
         "postal_code_pattern": "602",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "番路鄉"
             }
         }
@@ -92,7 +92,7 @@
         "name": "Lioujiao Township",
         "postal_code_pattern": "615",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "六腳鄉"
             }
         }
@@ -106,7 +106,7 @@
         "name": "Lucao Township",
         "postal_code_pattern": "611",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "鹿草鄉"
             }
         }
@@ -120,7 +120,7 @@
         "name": "Meishan Township",
         "postal_code_pattern": "603",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "梅山鄉"
             }
         }
@@ -134,7 +134,7 @@
         "name": "Minsyong Township",
         "postal_code_pattern": "621",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "民雄鄉"
             }
         }
@@ -148,7 +148,7 @@
         "name": "Puzih City",
         "postal_code_pattern": "613",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "朴子市"
             }
         }
@@ -162,7 +162,7 @@
         "name": "Shueishang Township",
         "postal_code_pattern": "608",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "水上鄉"
             }
         }
@@ -176,7 +176,7 @@
         "name": "Taibao City",
         "postal_code_pattern": "612",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "太保市"
             }
         }
@@ -190,7 +190,7 @@
         "name": "Sikou Township",
         "postal_code_pattern": "623",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "溪口鄉"
             }
         }
@@ -204,7 +204,7 @@
         "name": "Singang Township",
         "postal_code_pattern": "616",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "新港鄉"
             }
         }
@@ -218,7 +218,7 @@
         "name": "Yijhu Township",
         "postal_code_pattern": "624",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "義竹鄉"
             }
         }
@@ -232,7 +232,7 @@
         "name": "Jhongpu Township",
         "postal_code_pattern": "606",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "中埔鄉"
             }
         }
@@ -246,7 +246,7 @@
         "name": "Jhuci Township",
         "postal_code_pattern": "604",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "竹崎鄉"
             }
         }

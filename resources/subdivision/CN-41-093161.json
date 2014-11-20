@@ -7,7 +7,7 @@
         "code": "梁园区",
         "name": "Liangyuan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "梁园区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "民权县",
         "name": "Minquan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "民权县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "宁陵县",
         "name": "Ningling Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "宁陵县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "睢县",
         "name": "Sui Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "睢县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "睢阳区",
         "name": "Suiyang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "睢阳区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "夏邑县",
         "name": "Xiayi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "夏邑县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "永城市",
         "name": "Yongcheng Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "永城市"
             }
         }
@@ -98,7 +98,7 @@
         "code": "虞城县",
         "name": "Yucheng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "虞城县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "柘城县",
         "name": "Zhecheng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "柘城县"
             }
         }

@@ -8,7 +8,7 @@
         "name": "Chaojhou Township",
         "postal_code_pattern": "920",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "潮州鎮"
             }
         }
@@ -22,7 +22,7 @@
         "name": "Checheng Township",
         "postal_code_pattern": "944",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "車城鄉"
             }
         }
@@ -36,7 +36,7 @@
         "name": "Chunrih Township",
         "postal_code_pattern": "942",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "春日鄉"
             }
         }
@@ -50,7 +50,7 @@
         "name": "Donggang Township",
         "postal_code_pattern": "928",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "東港鎮"
             }
         }
@@ -64,7 +64,7 @@
         "name": "Fangliao Township",
         "postal_code_pattern": "940",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "枋寮鄉"
             }
         }
@@ -78,7 +78,7 @@
         "name": "Fangshan Township",
         "postal_code_pattern": "941",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "枋山鄉"
             }
         }
@@ -92,7 +92,7 @@
         "name": "Gaoshu Township",
         "postal_code_pattern": "906",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "高樹鄉"
             }
         }
@@ -106,7 +106,7 @@
         "name": "Hengchun Township",
         "postal_code_pattern": "946",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "恆春鎮"
             }
         }
@@ -120,7 +120,7 @@
         "name": "Jiadong Township",
         "postal_code_pattern": "931",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "佳冬鄉"
             }
         }
@@ -134,7 +134,7 @@
         "name": "Jiouru Township",
         "postal_code_pattern": "904",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "九如鄉"
             }
         }
@@ -148,7 +148,7 @@
         "name": "Kanding Township",
         "postal_code_pattern": "924",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "崁頂鄉"
             }
         }
@@ -162,7 +162,7 @@
         "name": "Laiyi Township",
         "postal_code_pattern": "922",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "來義鄉"
             }
         }
@@ -176,7 +176,7 @@
         "name": "Ligang Township",
         "postal_code_pattern": "905",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "里港鄉"
             }
         }
@@ -190,7 +190,7 @@
         "name": "Linbian Township",
         "postal_code_pattern": "927",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "林邊鄉"
             }
         }
@@ -204,7 +204,7 @@
         "name": "Linluo Township",
         "postal_code_pattern": "909",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "麟洛鄉"
             }
         }
@@ -218,7 +218,7 @@
         "name": "Liouciou Township",
         "postal_code_pattern": "929",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "琉球鄉"
             }
         }
@@ -232,7 +232,7 @@
         "name": "Majia Township",
         "postal_code_pattern": "903",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "瑪家鄉"
             }
         }
@@ -246,7 +246,7 @@
         "name": "Manjhou Township",
         "postal_code_pattern": "947",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "滿洲鄉"
             }
         }
@@ -260,7 +260,7 @@
         "name": "Mudan Township",
         "postal_code_pattern": "945",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "牡丹鄉"
             }
         }
@@ -274,7 +274,7 @@
         "name": "Nanjhou Township",
         "postal_code_pattern": "926",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "南州鄉"
             }
         }
@@ -288,7 +288,7 @@
         "name": "Neipu Township",
         "postal_code_pattern": "912",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "內埔鄉"
             }
         }
@@ -302,7 +302,7 @@
         "name": "Pingtung City",
         "postal_code_pattern": "900",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "屏東市"
             }
         }
@@ -316,7 +316,7 @@
         "name": "Sandimen Township",
         "postal_code_pattern": "901",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "三地門鄉"
             }
         }
@@ -330,7 +330,7 @@
         "name": "Shihzih Township",
         "postal_code_pattern": "943",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "獅子鄉"
             }
         }
@@ -344,7 +344,7 @@
         "name": "Taiwu Township",
         "postal_code_pattern": "921",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "泰武鄉"
             }
         }
@@ -358,7 +358,7 @@
         "name": "Wandan Township",
         "postal_code_pattern": "913",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "萬丹鄉"
             }
         }
@@ -372,7 +372,7 @@
         "name": "Wanluan Township",
         "postal_code_pattern": "923",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "萬巒鄉"
             }
         }
@@ -386,7 +386,7 @@
         "name": "Wutai Township",
         "postal_code_pattern": "902",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "霧台鄉"
             }
         }
@@ -400,7 +400,7 @@
         "name": "Sinpi Township",
         "postal_code_pattern": "925",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "新埤鄉"
             }
         }
@@ -414,7 +414,7 @@
         "name": "Sinyuan Township",
         "postal_code_pattern": "932",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "新園鄉"
             }
         }
@@ -428,7 +428,7 @@
         "name": "Yanpu Township",
         "postal_code_pattern": "907",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "鹽埔鄉"
             }
         }
@@ -442,7 +442,7 @@
         "name": "Changjhih Township",
         "postal_code_pattern": "908",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "長治鄉"
             }
         }
@@ -456,7 +456,7 @@
         "name": "Jhutian Township",
         "postal_code_pattern": "911",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "竹田鄉"
             }
         }

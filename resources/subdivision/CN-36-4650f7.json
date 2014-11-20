@@ -7,7 +7,7 @@
         "code": "安源区",
         "name": "Anyuan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "安源区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "莲花县",
         "name": "Lianhua Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "莲花县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "芦溪县",
         "name": "Luxi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "芦溪县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "上栗县",
         "name": "Shangli Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "上栗县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "湘东区",
         "name": "Xiangdong Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "湘东区"
             }
         }

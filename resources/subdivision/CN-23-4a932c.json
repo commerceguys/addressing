@@ -7,7 +7,7 @@
         "code": "爱民区",
         "name": "Aimin Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "爱民区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "东安区",
         "name": "Dong'an Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "东安区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "东宁县",
         "name": "Dongning Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "东宁县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "海林市",
         "name": "Hailin Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "海林市"
             }
         }
@@ -59,7 +59,7 @@
         "code": "林口县",
         "name": "Linkou Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "林口县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "穆棱市",
         "name": "Muling Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "穆棱市"
             }
         }
@@ -85,7 +85,7 @@
         "code": "宁安市",
         "name": "Ning'an Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "宁安市"
             }
         }
@@ -98,7 +98,7 @@
         "code": "绥芬河市",
         "name": "Suifenhe Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "绥芬河市"
             }
         }
@@ -111,7 +111,7 @@
         "code": "西安区",
         "name": "Xi'an Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "西安区"
             }
         }
@@ -124,7 +124,7 @@
         "code": "阳明区",
         "name": "Yangming Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "阳明区"
             }
         }

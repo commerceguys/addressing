@@ -7,7 +7,7 @@
         "code": "崇信县",
         "name": "Chongxin Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "崇信县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "华亭县",
         "name": "Huating Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "华亭县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "泾川县",
         "name": "Jingchuan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "泾川县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "静宁县",
         "name": "Jingning Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "静宁县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "崆峒区",
         "name": "Kongtong Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "崆峒区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "灵台县",
         "name": "Lingtai Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "灵台县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "庄浪县",
         "name": "Zhuangliang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "庄浪县"
             }
         }

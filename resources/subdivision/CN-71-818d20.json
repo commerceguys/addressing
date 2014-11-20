@@ -8,7 +8,7 @@
         "name": "Da-an Township",
         "postal_code_pattern": "439",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "大安鄉"
             }
         }
@@ -22,7 +22,7 @@
         "name": "Dadu Township",
         "postal_code_pattern": "432",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "大肚鄉"
             }
         }
@@ -36,7 +36,7 @@
         "name": "Dajia Township",
         "postal_code_pattern": "437",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "大甲鎮"
             }
         }
@@ -50,7 +50,7 @@
         "name": "Dali City",
         "postal_code_pattern": "412",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "大里市"
             }
         }
@@ -64,7 +64,7 @@
         "name": "Daya Township",
         "postal_code_pattern": "428",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "大雅鄉"
             }
         }
@@ -78,7 +78,7 @@
         "name": "Dongshih Township",
         "postal_code_pattern": "423",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "東勢鎮"
             }
         }
@@ -92,7 +92,7 @@
         "name": "Fongyuan City",
         "postal_code_pattern": "420",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "豐原市"
             }
         }
@@ -106,7 +106,7 @@
         "name": "Heping Township",
         "postal_code_pattern": "424",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "和平鄉"
             }
         }
@@ -120,7 +120,7 @@
         "name": "Houli Township",
         "postal_code_pattern": "421",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "后里鄉"
             }
         }
@@ -134,7 +134,7 @@
         "name": "Longjing Township",
         "postal_code_pattern": "434",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "龍井鄉"
             }
         }
@@ -148,7 +148,7 @@
         "name": "Cingshuei Township",
         "postal_code_pattern": "436",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "清水鎮"
             }
         }
@@ -162,7 +162,7 @@
         "name": "Shalu Township",
         "postal_code_pattern": "433",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "沙鹿鎮"
             }
         }
@@ -176,7 +176,7 @@
         "name": "Shengang Township",
         "postal_code_pattern": "429",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "神岡鄉"
             }
         }
@@ -190,7 +190,7 @@
         "name": "Shihgang Township",
         "postal_code_pattern": "422",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "石岡鄉"
             }
         }
@@ -204,7 +204,7 @@
         "name": "Taiping City",
         "postal_code_pattern": "411",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "太平市"
             }
         }
@@ -218,7 +218,7 @@
         "name": "Tanzih Township",
         "postal_code_pattern": "427",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "潭子鄉"
             }
         }
@@ -232,7 +232,7 @@
         "name": "Waipu Township",
         "postal_code_pattern": "438",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "外埔鄉"
             }
         }
@@ -246,7 +246,7 @@
         "name": "Wurih Township",
         "postal_code_pattern": "414",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "烏日鄉"
             }
         }
@@ -260,7 +260,7 @@
         "name": "Wuci Township",
         "postal_code_pattern": "435",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "梧棲鎮"
             }
         }
@@ -274,7 +274,7 @@
         "name": "Wufong Township",
         "postal_code_pattern": "413",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "霧峰鄉"
             }
         }
@@ -288,7 +288,7 @@
         "name": "Sinshe Township",
         "postal_code_pattern": "426",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "新社鄉"
             }
         }

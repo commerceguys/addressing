@@ -7,7 +7,7 @@
         "code": "昌吉市",
         "name": "Changji Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "昌吉市"
             }
         }
@@ -20,7 +20,7 @@
         "code": "阜康市",
         "name": "Fukang Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "阜康市"
             }
         }
@@ -33,7 +33,7 @@
         "code": "呼图壁县",
         "name": "Hutubi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "呼图壁县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "吉木萨尔县",
         "name": "Jimsar Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "吉木萨尔县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "玛纳斯县",
         "name": "Manas Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "玛纳斯县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "木垒哈萨克自治县",
         "name": "Mori Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "木垒县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "奇台县",
         "name": "Qitai Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "奇台县"
             }
         }

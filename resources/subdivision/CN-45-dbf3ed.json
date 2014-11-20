@@ -7,7 +7,7 @@
         "code": "合山市",
         "name": "Heshan Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "合山市"
             }
         }
@@ -20,7 +20,7 @@
         "code": "金秀瑶族自治县",
         "name": "Jinxiu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "金秀县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "武宣县",
         "name": "Wuxuan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "武宣县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "象州县",
         "name": "Xiangzhou Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "象州县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "忻城县",
         "name": "Xincheng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "忻城县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "兴宾区",
         "name": "Xingbin Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "兴宾区"
             }
         }

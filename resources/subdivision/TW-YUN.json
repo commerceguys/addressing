@@ -75,7 +75,7 @@
         "parent_id": "TW-YUN",
         "id": "TW-YUN-3a5569",
         "code": "斗六市",
-        "name": "Douliou City",
+        "name": "Douliu City",
         "postal_code_pattern": "640",
         "translations": {
             "zh-hant": {
@@ -103,7 +103,7 @@
         "parent_id": "TW-YUN",
         "id": "TW-YUN-45c5c6",
         "code": "水林鄉",
-        "name": "Shueilin Township",
+        "name": "Shuilin Township",
         "postal_code_pattern": "652",
         "translations": {
             "zh-hant": {
@@ -145,7 +145,7 @@
         "parent_id": "TW-YUN",
         "id": "TW-YUN-39332b",
         "code": "台西鄉",
-        "name": "Taisi Township",
+        "name": "Taixi Township",
         "postal_code_pattern": "636",
         "translations": {
             "zh-hant": {
@@ -159,7 +159,7 @@
         "parent_id": "TW-YUN",
         "id": "TW-YUN-47647f",
         "code": "四湖鄉",
-        "name": "Sihhu Township",
+        "name": "Sihu Township",
         "postal_code_pattern": "654",
         "translations": {
             "zh-hant": {
@@ -173,7 +173,7 @@
         "parent_id": "TW-YUN",
         "id": "TW-YUN-f05154",
         "code": "西螺鎮",
-        "name": "Siluo Township",
+        "name": "Xiluo Township",
         "postal_code_pattern": "648",
         "translations": {
             "zh-hant": {
@@ -187,7 +187,7 @@
         "parent_id": "TW-YUN",
         "id": "TW-YUN-2b473f",
         "code": "東勢鄉",
-        "name": "Dongshih Township",
+        "name": "Dongshi Township",
         "postal_code_pattern": "635",
         "translations": {
             "zh-hant": {
@@ -257,7 +257,7 @@
         "parent_id": "TW-YUN",
         "id": "TW-YUN-aa5901",
         "code": "莿桐鄉",
-        "name": "Cihtong Township",
+        "name": "Citong Township",
         "postal_code_pattern": "647",
         "translations": {
             "zh-hant": {
@@ -271,7 +271,7 @@
         "parent_id": "TW-YUN",
         "id": "TW-YUN-2919cf",
         "code": "褒忠鄉",
-        "name": "Baojhong Township",
+        "name": "Baozhong Township",
         "postal_code_pattern": "634",
         "translations": {
             "zh-hant": {

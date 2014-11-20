@@ -7,7 +7,7 @@
         "code": "和林格尔县",
         "name": "Horinger Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "和林格尔县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "回民区",
         "name": "Huimin Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "回民区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "清水河县",
         "name": "Qingshuihe Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "清水河县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "赛罕区",
         "name": "Saihan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "赛罕区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "土默特左旗",
         "name": "Tumd Zuoqi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "土默特左旗"
             }
         }
@@ -72,7 +72,7 @@
         "code": "托克托县",
         "name": "Togtoh Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "托克托县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "武川县",
         "name": "Wuchuan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "武川县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "新城区",
         "name": "Xincheng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "新城区"
             }
         }
@@ -111,7 +111,7 @@
         "code": "玉泉区",
         "name": "Yuquan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "玉泉区"
             }
         }

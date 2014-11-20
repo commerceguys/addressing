@@ -7,7 +7,7 @@
         "code": "东阳市",
         "name": "Dongyang Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "东阳市"
             }
         }
@@ -20,7 +20,7 @@
         "code": "金东区",
         "name": "Jindong Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "金东区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "兰溪市",
         "name": "Lanxi Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "兰溪市"
             }
         }
@@ -46,7 +46,7 @@
         "code": "磐安县",
         "name": "Pan'an Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "磐安县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "浦江县",
         "name": "Pujiang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "浦江县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "武义县",
         "name": "Wuyi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "武义县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "婺城区",
         "name": "Wucheng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "婺城区"
             }
         }
@@ -98,7 +98,7 @@
         "code": "义乌市",
         "name": "Yiwu Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "义乌市"
             }
         }
@@ -111,7 +111,7 @@
         "code": "永康市",
         "name": "Yongkang Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "永康市"
             }
         }

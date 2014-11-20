@@ -8,7 +8,7 @@
         "name": "Fongbin Township",
         "postal_code_pattern": "977",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "豐濱鄉"
             }
         }
@@ -22,7 +22,7 @@
         "name": "Fonglin Township",
         "postal_code_pattern": "975",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "鳳林鎮"
             }
         }
@@ -36,7 +36,7 @@
         "name": "Fuli Township",
         "postal_code_pattern": "983",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "富里鄉"
             }
         }
@@ -50,7 +50,7 @@
         "name": "Guangfu Township",
         "postal_code_pattern": "976",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "光復鄉"
             }
         }
@@ -64,7 +64,7 @@
         "name": "Hualien City",
         "postal_code_pattern": "970",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "花蓮市"
             }
         }
@@ -78,7 +78,7 @@
         "name": "Ji-an Township",
         "postal_code_pattern": "973",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "吉安鄉"
             }
         }
@@ -92,7 +92,7 @@
         "name": "Rueisuei Township",
         "postal_code_pattern": "978",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "瑞穗鄉"
             }
         }
@@ -106,7 +106,7 @@
         "name": "Shoufong Township",
         "postal_code_pattern": "974",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "壽豐鄉"
             }
         }
@@ -120,7 +120,7 @@
         "name": "Wanrong Township",
         "postal_code_pattern": "979",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "萬榮鄉"
             }
         }
@@ -134,7 +134,7 @@
         "name": "Sincheng Township",
         "postal_code_pattern": "971",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "新城鄉"
             }
         }
@@ -148,7 +148,7 @@
         "name": "Sioulin Township",
         "postal_code_pattern": "972",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "秀林鄉"
             }
         }
@@ -162,7 +162,7 @@
         "name": "Yuli Township",
         "postal_code_pattern": "981",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "玉里鎮"
             }
         }
@@ -176,7 +176,7 @@
         "name": "Jhuosi Township",
         "postal_code_pattern": "982",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "卓溪鄉"
             }
         }

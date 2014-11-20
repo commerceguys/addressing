@@ -7,7 +7,7 @@
         "code": "蚌山区",
         "name": "Bengshan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "蚌山区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "固镇县",
         "name": "Guzhen Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "固镇县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "怀远县",
         "name": "Huaiyuan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "怀远县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "淮上区",
         "name": "Huaishang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "淮上区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "龙子湖区",
         "name": "Longzihu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "龙子湖区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "五河县",
         "name": "Wuhe Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "五河县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "禹会区",
         "name": "Yuhui Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "禹会区"
             }
         }

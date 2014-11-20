@@ -7,7 +7,7 @@
         "code": "北塔区",
         "name": "Beita Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "北塔区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "城步苗族自治县",
         "name": "Chengbu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "城步县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "大祥区",
         "name": "Daxiang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "大祥区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "洞口县",
         "name": "Dongkou Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "洞口县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "隆回县",
         "name": "Longhui Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "隆回县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "邵东县",
         "name": "Shaodong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "邵东县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "邵阳县",
         "name": "Shaoyang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "邵阳县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "双清区",
         "name": "Shuangqing Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "双清区"
             }
         }
@@ -111,7 +111,7 @@
         "code": "绥宁县",
         "name": "Suining Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "绥宁县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "武冈市",
         "name": "Wugang Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "武冈市"
             }
         }
@@ -137,7 +137,7 @@
         "code": "新宁县",
         "name": "Xinning Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "新宁县"
             }
         }
@@ -150,7 +150,7 @@
         "code": "新邵县",
         "name": "Xinshao Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "新邵县"
             }
         }

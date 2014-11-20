@@ -7,7 +7,7 @@
         "code": "大同区",
         "name": "Datong Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "大同区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "杜尔伯特蒙古族自治县",
         "name": "Dorbod Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "杜尔伯特县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "红岗区",
         "name": "Honggang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "红岗区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "林甸县",
         "name": "Lindian Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "林甸县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "龙凤区",
         "name": "Longfeng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "龙凤区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "让胡路区",
         "name": "Ranghulu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "让胡路区"
             }
         }
@@ -85,7 +85,7 @@
         "code": "萨尔图区",
         "name": "Sairt Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "萨尔图区"
             }
         }
@@ -98,7 +98,7 @@
         "code": "肇源县",
         "name": "Zhaoyuan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "肇源县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "肇州县",
         "name": "Zhaozhou Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "肇州县"
             }
         }

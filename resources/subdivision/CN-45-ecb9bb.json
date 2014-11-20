@@ -7,7 +7,7 @@
         "code": "海城区",
         "name": "Haicheng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "海城区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "合浦县",
         "name": "Hepu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "合浦县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "铁山港区",
         "name": "Tieshangang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "铁山港区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "银海区",
         "name": "Yinhai Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "银海区"
             }
         }

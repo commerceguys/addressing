@@ -7,7 +7,7 @@
         "code": "措美县",
         "name": "Comai Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "措美县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "错那县",
         "name": "Cona Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "错那县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "贡嘎县",
         "name": "Gonggar Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "贡嘎县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "加查县",
         "name": "Gyaca Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "加查县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "浪卡子县",
         "name": "Nagarzê Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "浪卡子县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "隆子县",
         "name": "Lhünzê Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "隆子县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "洛扎县",
         "name": "Lhozhag Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "洛扎县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "乃东县",
         "name": "Nêdong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "乃东县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "琼结县",
         "name": "Qonggyai Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "琼结县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "曲松县",
         "name": "Qusum Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "曲松县"
             }
         }
@@ -137,7 +137,7 @@
         "code": "桑日县",
         "name": "Sangri Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "桑日县"
             }
         }
@@ -150,7 +150,7 @@
         "code": "扎囊县",
         "name": "Zhanang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "扎囊县"
             }
         }

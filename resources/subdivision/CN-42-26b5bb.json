@@ -7,7 +7,7 @@
         "code": "丹江口市",
         "name": "Danjiangkou Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "丹江口市"
             }
         }
@@ -20,7 +20,7 @@
         "code": "房县",
         "name": "Fang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "房县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "茅箭区",
         "name": "Maojian Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "茅箭区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "郧西县",
         "name": "Yunxi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "郧西县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "郧县",
         "name": "Yun Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "郧县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "张湾区",
         "name": "Zhangwan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "张湾区"
             }
         }
@@ -85,7 +85,7 @@
         "code": "竹山县",
         "name": "Zhushan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "竹山县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "竹溪县",
         "name": "Zhuxi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "竹溪县"
             }
         }

@@ -7,7 +7,7 @@
         "code": "霍邱县",
         "name": "Huoqiu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "霍邱县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "霍山县",
         "name": "Huoshan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "霍山县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "金安区",
         "name": "Jin'an Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "金安区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "金寨县",
         "name": "Jinzhai Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "金寨县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "寿县",
         "name": "Shou Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "寿县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "舒城县",
         "name": "Shucheng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "舒城县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "裕安区",
         "name": "Yu'an Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "裕安区"
             }
         }

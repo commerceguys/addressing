@@ -7,7 +7,7 @@
         "code": "阿鲁科尔沁旗",
         "name": "Ar Horqin Qi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "阿鲁科尔沁旗"
             }
         }
@@ -20,7 +20,7 @@
         "code": "敖汉旗",
         "name": "Aohan Qi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "敖汉旗"
             }
         }
@@ -33,7 +33,7 @@
         "code": "巴林右旗",
         "name": "Bairin Youqi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "巴林右旗"
             }
         }
@@ -46,7 +46,7 @@
         "code": "巴林左旗",
         "name": "Bairin Zuoqi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "巴林左旗"
             }
         }
@@ -59,7 +59,7 @@
         "code": "红山区",
         "name": "Hongshan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "红山区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "喀喇沁旗",
         "name": "Harqin Qi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "喀喇沁旗"
             }
         }
@@ -85,7 +85,7 @@
         "code": "克什克腾旗",
         "name": "Hexigten Qi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "克什克腾旗"
             }
         }
@@ -98,7 +98,7 @@
         "code": "林西县",
         "name": "Linxi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "林西县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "宁城县",
         "name": "Ningcheng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "宁城县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "松山区",
         "name": "Songshan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "松山区"
             }
         }
@@ -137,7 +137,7 @@
         "code": "翁牛特旗",
         "name": "Ongniud Qi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "翁牛特旗"
             }
         }
@@ -150,7 +150,7 @@
         "code": "元宝山区",
         "name": "Yuanbaoshan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "元宝山区"
             }
         }

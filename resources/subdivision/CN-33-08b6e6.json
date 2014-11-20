@@ -7,7 +7,7 @@
         "code": "安吉县",
         "name": "Anji Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "安吉县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "德清县",
         "name": "Deqing Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "德清县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "南浔区",
         "name": "Nanxun Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "南浔区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "吴兴区",
         "name": "Wuxing Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "吴兴区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "长兴县",
         "name": "Changxing Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "长兴县"
             }
         }

@@ -5,7 +5,7 @@
         "parent_id": "TW-PIF",
         "id": "TW-PIF-3e2f5b",
         "code": "九如鄉",
-        "name": "Jiouru Township",
+        "name": "Jiuru Township",
         "postal_code_pattern": "904",
         "translations": {
             "zh-hant": {
@@ -47,7 +47,7 @@
         "parent_id": "TW-PIF",
         "id": "TW-PIF-2462ef",
         "code": "竹田鄉",
-        "name": "Jhutian Township",
+        "name": "Zhutian Township",
         "postal_code_pattern": "911",
         "translations": {
             "zh-hant": {
@@ -187,7 +187,7 @@
         "parent_id": "TW-PIF",
         "id": "TW-PIF-dd009c",
         "code": "長治鄉",
-        "name": "Changjhih Township",
+        "name": "Changzhi Township",
         "postal_code_pattern": "908",
         "translations": {
             "zh-hant": {
@@ -201,7 +201,7 @@
         "parent_id": "TW-PIF",
         "id": "TW-PIF-800be4",
         "code": "南州鄉",
-        "name": "Nanjhou Township",
+        "name": "Nanzhou Township",
         "postal_code_pattern": "926",
         "translations": {
             "zh-hant": {
@@ -243,7 +243,7 @@
         "parent_id": "TW-PIF",
         "id": "TW-PIF-7d5e08",
         "code": "春日鄉",
-        "name": "Chunrih Township",
+        "name": "Chunri Township",
         "postal_code_pattern": "942",
         "translations": {
             "zh-hant": {
@@ -285,7 +285,7 @@
         "parent_id": "TW-PIF",
         "id": "TW-PIF-f23afb",
         "code": "琉球鄉",
-        "name": "Liouciou Township",
+        "name": "Liuqiu Township",
         "postal_code_pattern": "929",
         "translations": {
             "zh-hant": {
@@ -313,7 +313,7 @@
         "parent_id": "TW-PIF",
         "id": "TW-PIF-6db20c",
         "code": "新埤鄉",
-        "name": "Sinpi Township",
+        "name": "Xinpi Township",
         "postal_code_pattern": "925",
         "translations": {
             "zh-hant": {
@@ -327,7 +327,7 @@
         "parent_id": "TW-PIF",
         "id": "TW-PIF-1bf669",
         "code": "新園鄉",
-        "name": "Sinyuan Township",
+        "name": "Xinyuan Township",
         "postal_code_pattern": "932",
         "translations": {
             "zh-hant": {
@@ -341,7 +341,7 @@
         "parent_id": "TW-PIF",
         "id": "TW-PIF-b457dc",
         "code": "獅子鄉",
-        "name": "Shihzih Township",
+        "name": "Shihzi Township",
         "postal_code_pattern": "943",
         "translations": {
             "zh-hant": {
@@ -383,7 +383,7 @@
         "parent_id": "TW-PIF",
         "id": "TW-PIF-ca9e81",
         "code": "滿洲鄉",
-        "name": "Manjhou Township",
+        "name": "Manzhou Township",
         "postal_code_pattern": "947",
         "translations": {
             "zh-hant": {
@@ -411,7 +411,7 @@
         "parent_id": "TW-PIF",
         "id": "TW-PIF-1b3a2e",
         "code": "潮州鎮",
-        "name": "Chaojhou Township",
+        "name": "Chaozhou Township",
         "postal_code_pattern": "920",
         "translations": {
             "zh-hant": {

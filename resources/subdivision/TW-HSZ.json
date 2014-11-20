@@ -1,0 +1,41 @@
+{
+    "TW-HSZ-9bf0d9": {
+        "locale": "zh-Latn",
+        "country_code": "TW",
+        "parent_id": "TW-HSZ",
+        "id": "TW-HSZ-9bf0d9",
+        "code": "北區",
+        "name": "North District",
+        "translations": {
+            "zh-hant": {
+                "name": "北區"
+            }
+        }
+    },
+    "TW-HSZ-671bd9": {
+        "locale": "zh-Latn",
+        "country_code": "TW",
+        "parent_id": "TW-HSZ",
+        "id": "TW-HSZ-671bd9",
+        "code": "東區",
+        "name": "East District",
+        "translations": {
+            "zh-hant": {
+                "name": "東區"
+            }
+        }
+    },
+    "TW-HSZ-58cc6b": {
+        "locale": "zh-Latn",
+        "country_code": "TW",
+        "parent_id": "TW-HSZ",
+        "id": "TW-HSZ-58cc6b",
+        "code": "香山區",
+        "name": "Xiangshan District",
+        "translations": {
+            "zh-hant": {
+                "name": "香山區"
+            }
+        }
+    }
+}

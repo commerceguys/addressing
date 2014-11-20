@@ -8,7 +8,7 @@
         "name": "Baojhong Township",
         "postal_code_pattern": "634",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "褒忠鄉"
             }
         }
@@ -22,7 +22,7 @@
         "name": "Beigang Township",
         "postal_code_pattern": "651",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "北港鎮"
             }
         }
@@ -36,7 +36,7 @@
         "name": "Cihtong Township",
         "postal_code_pattern": "647",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "莿桐鄉"
             }
         }
@@ -50,7 +50,7 @@
         "name": "Dapi Township",
         "postal_code_pattern": "631",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "大埤鄉"
             }
         }
@@ -64,7 +64,7 @@
         "name": "Dongshih Township",
         "postal_code_pattern": "635",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "東勢鄉"
             }
         }
@@ -78,7 +78,7 @@
         "name": "Douliou City",
         "postal_code_pattern": "640",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "斗六市"
             }
         }
@@ -92,7 +92,7 @@
         "name": "Dounan Township",
         "postal_code_pattern": "630",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "斗南鎮"
             }
         }
@@ -106,7 +106,7 @@
         "name": "Erlun Township",
         "postal_code_pattern": "649",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "二崙鄉"
             }
         }
@@ -120,7 +120,7 @@
         "name": "Gukeng Township",
         "postal_code_pattern": "646",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "古坑鄉"
             }
         }
@@ -134,7 +134,7 @@
         "name": "Huwei Township",
         "postal_code_pattern": "632",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "虎尾鎮"
             }
         }
@@ -148,7 +148,7 @@
         "name": "Kouhu Township",
         "postal_code_pattern": "653",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "口湖鄉"
             }
         }
@@ -162,7 +162,7 @@
         "name": "Linnei Township",
         "postal_code_pattern": "643",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "林內鄉"
             }
         }
@@ -176,7 +176,7 @@
         "name": "Lunbei Township",
         "postal_code_pattern": "637",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "崙背鄉"
             }
         }
@@ -190,7 +190,7 @@
         "name": "Mailiao Township",
         "postal_code_pattern": "638",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "麥寮鄉"
             }
         }
@@ -204,7 +204,7 @@
         "name": "Shueilin Township",
         "postal_code_pattern": "652",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "水林鄉"
             }
         }
@@ -218,7 +218,7 @@
         "name": "Sihhu Township",
         "postal_code_pattern": "654",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "四湖鄉"
             }
         }
@@ -232,7 +232,7 @@
         "name": "Taisi Township",
         "postal_code_pattern": "636",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "台西鄉"
             }
         }
@@ -246,7 +246,7 @@
         "name": "Tuku Township",
         "postal_code_pattern": "633",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "土庫鎮"
             }
         }
@@ -260,7 +260,7 @@
         "name": "Siluo Township",
         "postal_code_pattern": "648",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "西螺鎮"
             }
         }
@@ -274,7 +274,7 @@
         "name": "Yuanchang Township",
         "postal_code_pattern": "655",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "元長鄉"
             }
         }

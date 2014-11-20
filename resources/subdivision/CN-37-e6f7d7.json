@@ -7,7 +7,7 @@
         "code": "东港区",
         "name": "Donggang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "东港区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "莒县",
         "name": "Ju Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "莒县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "岚山区",
         "name": "Lanshan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "岚山区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "五莲县",
         "name": "Wulian Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "五莲县"
             }
         }

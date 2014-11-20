@@ -7,7 +7,7 @@
         "code": "安宁区",
         "name": "Anning Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "安宁区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "城关区",
         "name": "Chengguan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "城关区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "皋兰县",
         "name": "Gaolan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "皋兰县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "红古区",
         "name": "Honggu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "红古区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "七里河区",
         "name": "Qilihe Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "七里河区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "西固区",
         "name": "Xigu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "西固区"
             }
         }
@@ -85,7 +85,7 @@
         "code": "永登县",
         "name": "Yongdeng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "永登县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "榆中县",
         "name": "Yuzhong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "榆中县"
             }
         }

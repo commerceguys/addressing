@@ -7,7 +7,7 @@
         "code": "砀山县",
         "name": "Dangshan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "砀山县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "灵璧县",
         "name": "Lingbi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "灵璧县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "泗县",
         "name": "Si Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "泗县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "萧县",
         "name": "Xiao Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "萧县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "埇桥区",
         "name": "Yongqiao Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "埇桥区"
             }
         }

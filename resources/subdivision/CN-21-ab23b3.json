@@ -7,7 +7,7 @@
         "code": "大洼县",
         "name": "Dawa Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "大洼县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "盘山县",
         "name": "Panshan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "盘山县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "双台子区",
         "name": "Shuangtaizi Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "双台子区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "兴隆台区",
         "name": "Xinglongtai Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "兴隆台区"
             }
         }

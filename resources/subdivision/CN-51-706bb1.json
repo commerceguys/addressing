@@ -7,7 +7,7 @@
         "code": "苍溪县",
         "name": "Cangxi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "苍溪县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "朝天区",
         "name": "Chaotian Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "朝天区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "剑阁县",
         "name": "Jiange Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "剑阁县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "青川县",
         "name": "Qingchuan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "青川县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "市中区",
         "name": "Shizhong Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "市中区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "旺苍县",
         "name": "Wangcang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "旺苍县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "元坝区",
         "name": "Yuanba Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "元坝区"
             }
         }

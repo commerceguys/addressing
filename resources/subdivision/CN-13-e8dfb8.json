@@ -7,7 +7,7 @@
         "code": "成安县",
         "name": "Cheng'an Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "成安县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "磁县",
         "name": "Ci Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "磁县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "丛台区",
         "name": "Congtai Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "丛台区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "大名县",
         "name": "Daming Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "大名县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "肥乡县",
         "name": "Feixiang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "肥乡县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "峰峰矿区",
         "name": "Fengfeng Kuangqu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "峰峰矿区"
             }
         }
@@ -85,7 +85,7 @@
         "code": "复兴区",
         "name": "Fuxing Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "复兴区"
             }
         }
@@ -98,7 +98,7 @@
         "code": "馆陶县",
         "name": "Guantao Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "馆陶县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "广平县",
         "name": "Guangping Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "广平县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "邯郸县",
         "name": "Handan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "邯郸县"
             }
         }
@@ -137,7 +137,7 @@
         "code": "邯山区",
         "name": "Hanshan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "邯山区"
             }
         }
@@ -150,7 +150,7 @@
         "code": "鸡泽县",
         "name": "Jize Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "鸡泽县"
             }
         }
@@ -163,7 +163,7 @@
         "code": "临漳县",
         "name": "Linzhang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "临漳县"
             }
         }
@@ -176,7 +176,7 @@
         "code": "邱县",
         "name": "Qiu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "邱县"
             }
         }
@@ -189,7 +189,7 @@
         "code": "曲周县",
         "name": "Quzhou Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "曲周县"
             }
         }
@@ -202,7 +202,7 @@
         "code": "涉县",
         "name": "She Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "涉县"
             }
         }
@@ -215,7 +215,7 @@
         "code": "魏县",
         "name": "Wei Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "魏县"
             }
         }
@@ -228,7 +228,7 @@
         "code": "武安市",
         "name": "Wu'an Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "武安市"
             }
         }
@@ -241,7 +241,7 @@
         "code": "永年县",
         "name": "Yongnian Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "永年县"
             }
         }

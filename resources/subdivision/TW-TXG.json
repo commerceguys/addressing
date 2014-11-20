@@ -19,7 +19,7 @@
         "parent_id": "TW-TXG",
         "id": "TW-TXG-c4d563",
         "code": "大安區",
-        "name": "Da-an District",
+        "name": "Da'an District",
         "postal_code_pattern": "439",
         "translations": {
             "zh-hant": {
@@ -145,7 +145,7 @@
         "parent_id": "TW-TXG",
         "id": "TW-TXG-09624e",
         "code": "石岡區",
-        "name": "Shihgang District",
+        "name": "Shigang District",
         "postal_code_pattern": "422",
         "translations": {
             "zh-hant": {
@@ -173,7 +173,7 @@
         "parent_id": "TW-TXG",
         "id": "TW-TXG-095c62",
         "code": "西屯區",
-        "name": "Situn District",
+        "name": "Xitun District",
         "postal_code_pattern": "407",
         "translations": {
             "zh-hant": {
@@ -243,7 +243,7 @@
         "parent_id": "TW-TXG",
         "id": "TW-TXG-ede7fe",
         "code": "東勢區",
-        "name": "Dongshih District",
+        "name": "Dongshi District",
         "postal_code_pattern": "423",
         "translations": {
             "zh-hant": {
@@ -285,7 +285,7 @@
         "parent_id": "TW-TXG",
         "id": "TW-TXG-d818da",
         "code": "烏日區",
-        "name": "Wurih District",
+        "name": "Wuri District",
         "postal_code_pattern": "414",
         "translations": {
             "zh-hant": {
@@ -313,7 +313,7 @@
         "parent_id": "TW-TXG",
         "id": "TW-TXG-b043e0",
         "code": "梧棲區",
-        "name": "Wuci District",
+        "name": "Wuqi District",
         "postal_code_pattern": "435",
         "translations": {
             "zh-hant": {
@@ -327,7 +327,7 @@
         "parent_id": "TW-TXG",
         "id": "TW-TXG-155bbe",
         "code": "清水區",
-        "name": "Cingshuei District",
+        "name": "Qingshui District",
         "postal_code_pattern": "436",
         "translations": {
             "zh-hant": {
@@ -341,7 +341,7 @@
         "parent_id": "TW-TXG",
         "id": "TW-TXG-4138bd",
         "code": "新社區",
-        "name": "Sinshe District",
+        "name": "Xinshe District",
         "postal_code_pattern": "426",
         "translations": {
             "zh-hant": {
@@ -355,7 +355,7 @@
         "parent_id": "TW-TXG",
         "id": "TW-TXG-6b49d2",
         "code": "潭子區",
-        "name": "Tanzih District",
+        "name": "Tanzi District",
         "postal_code_pattern": "427",
         "translations": {
             "zh-hant": {
@@ -383,7 +383,7 @@
         "parent_id": "TW-TXG",
         "id": "TW-TXG-12d492",
         "code": "豐原區",
-        "name": "Fongyuan District",
+        "name": "Fengyuan District",
         "postal_code_pattern": "420",
         "translations": {
             "zh-hant": {
@@ -397,7 +397,7 @@
         "parent_id": "TW-TXG",
         "id": "TW-TXG-e9be07",
         "code": "霧峰區",
-        "name": "Wufong District",
+        "name": "Wufeng District",
         "postal_code_pattern": "413",
         "translations": {
             "zh-hant": {

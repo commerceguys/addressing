@@ -7,7 +7,7 @@
         "code": "海原县",
         "name": "Haiyuan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "海原县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "沙坡头区",
         "name": "Shapotou Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "沙坡头区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "中宁县",
         "name": "Zhongning Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "中宁县"
             }
         }

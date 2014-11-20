@@ -7,7 +7,7 @@
         "code": "鹤山区",
         "name": "Heshan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "鹤山区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "浚县",
         "name": "Xun Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "浚县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "淇滨区",
         "name": "Qibin Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "淇滨区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "淇县",
         "name": "Qi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "淇县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "山城区",
         "name": "Shancheng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "山城区"
             }
         }

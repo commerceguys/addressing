@@ -7,7 +7,7 @@
         "code": "常山县",
         "name": "Changshan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "常山县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "江山市",
         "name": "Jiangshan Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "江山市"
             }
         }
@@ -33,7 +33,7 @@
         "code": "开化县",
         "name": "Kaihua Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "开化县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "柯城区",
         "name": "Kecheng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "柯城区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "龙游县",
         "name": "Longyou Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "龙游县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "衢江区",
         "name": "Qujiang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "衢江区"
             }
         }

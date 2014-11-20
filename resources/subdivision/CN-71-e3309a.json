@@ -8,7 +8,7 @@
         "name": "Alian Township",
         "postal_code_pattern": "822",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "阿蓮鄉"
             }
         }
@@ -22,7 +22,7 @@
         "name": "Daliao Township",
         "postal_code_pattern": "831",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "大寮鄉"
             }
         }
@@ -36,7 +36,7 @@
         "name": "Dashe Township",
         "postal_code_pattern": "815",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "大社鄉"
             }
         }
@@ -50,7 +50,7 @@
         "name": "Dashu Township",
         "postal_code_pattern": "840",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "大樹鄉"
             }
         }
@@ -64,7 +64,7 @@
         "name": "Fongshan City",
         "postal_code_pattern": "830",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "鳳山市"
             }
         }
@@ -78,7 +78,7 @@
         "name": "Gangshan Township",
         "postal_code_pattern": "820",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "岡山鎮"
             }
         }
@@ -92,7 +92,7 @@
         "name": "Hunei Township",
         "postal_code_pattern": "829",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "湖內鄉"
             }
         }
@@ -106,7 +106,7 @@
         "name": "Jiading Township",
         "postal_code_pattern": "852",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "茄萣鄉"
             }
         }
@@ -120,7 +120,7 @@
         "name": "Jiasian Township",
         "postal_code_pattern": "847",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "甲仙鄉"
             }
         }
@@ -134,7 +134,7 @@
         "name": "Linyuan Township",
         "postal_code_pattern": "832",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "林園鄉"
             }
         }
@@ -148,7 +148,7 @@
         "name": "Liouguei Township",
         "postal_code_pattern": "844",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "六龜鄉"
             }
         }
@@ -162,7 +162,7 @@
         "name": "Lujhu Township",
         "postal_code_pattern": "821",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "路竹鄉"
             }
         }
@@ -176,7 +176,7 @@
         "name": "Maolin Township",
         "postal_code_pattern": "851",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "茂林鄉"
             }
         }
@@ -190,7 +190,7 @@
         "name": "Meinong Township",
         "postal_code_pattern": "843",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "美濃鎮"
             }
         }
@@ -204,7 +204,7 @@
         "name": "Mituo Township",
         "postal_code_pattern": "827",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "彌陀鄉"
             }
         }
@@ -218,7 +218,7 @@
         "name": "Neimen Township",
         "postal_code_pattern": "845",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "內門鄉"
             }
         }
@@ -232,7 +232,7 @@
         "name": "Niaosong Township",
         "postal_code_pattern": "833",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "鳥松鄉"
             }
         }
@@ -246,7 +246,7 @@
         "name": "Cishan Township",
         "postal_code_pattern": "842",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "旗山鎮"
             }
         }
@@ -260,7 +260,7 @@
         "name": "Ciaotou Township",
         "postal_code_pattern": "825",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "橋頭鄉"
             }
         }
@@ -274,7 +274,7 @@
         "name": "Renwu Township",
         "postal_code_pattern": "814",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "仁武鄉"
             }
         }
@@ -288,7 +288,7 @@
         "name": "Sanmin Township",
         "postal_code_pattern": "849",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "三民鄉"
             }
         }
@@ -302,7 +302,7 @@
         "name": "Shanlin Township",
         "postal_code_pattern": "846",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "杉林鄉"
             }
         }
@@ -316,7 +316,7 @@
         "name": "Taoyuan Township",
         "postal_code_pattern": "848",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "桃源鄉"
             }
         }
@@ -330,7 +330,7 @@
         "name": "Tianliao Township",
         "postal_code_pattern": "823",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "田寮鄉"
             }
         }
@@ -344,7 +344,7 @@
         "name": "Yanchao Township",
         "postal_code_pattern": "824",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "燕巢鄉"
             }
         }
@@ -358,7 +358,7 @@
         "name": "Yong-an Township",
         "postal_code_pattern": "828",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "永安鄉"
             }
         }
@@ -372,7 +372,7 @@
         "name": "Zihguan Township",
         "postal_code_pattern": "826",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "梓官鄉"
             }
         }

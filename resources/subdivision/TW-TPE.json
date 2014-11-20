@@ -5,7 +5,7 @@
         "parent_id": "TW-TPE",
         "id": "TW-TPE-cdce41",
         "code": "士林區",
-        "name": "Shihlin District",
+        "name": "Shilin District",
         "postal_code_pattern": "111",
         "translations": {
             "zh-hant": {
@@ -33,7 +33,7 @@
         "parent_id": "TW-TPE",
         "id": "TW-TPE-e3cc33",
         "code": "大安區",
-        "name": "Da-an District",
+        "name": "Da'an District",
         "postal_code_pattern": "106",
         "translations": {
             "zh-hant": {
@@ -47,7 +47,7 @@
         "parent_id": "TW-TPE",
         "id": "TW-TPE-dfe276",
         "code": "中山區",
-        "name": "Jhongshan District",
+        "name": "Zhongshan District",
         "postal_code_pattern": "104",
         "translations": {
             "zh-hant": {
@@ -61,7 +61,7 @@
         "parent_id": "TW-TPE",
         "id": "TW-TPE-845653",
         "code": "中正區",
-        "name": "Jhongjheng District",
+        "name": "Zhongzheng District",
         "postal_code_pattern": "100",
         "translations": {
             "zh-hant": {
@@ -89,7 +89,7 @@
         "parent_id": "TW-TPE",
         "id": "TW-TPE-9c6129",
         "code": "文山區",
-        "name": "Wunshan District",
+        "name": "Wenshan District",
         "postal_code_pattern": "116",
         "translations": {
             "zh-hant": {
@@ -131,7 +131,7 @@
         "parent_id": "TW-TPE",
         "id": "TW-TPE-b65e6d",
         "code": "信義區",
-        "name": "Sinyi District",
+        "name": "Xinyi District",
         "postal_code_pattern": "110",
         "translations": {
             "zh-hant": {

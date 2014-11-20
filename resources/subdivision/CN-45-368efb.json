@@ -7,7 +7,7 @@
         "code": "德保县",
         "name": "Debao Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "德保县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "靖西县",
         "name": "Jingxi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "靖西县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "乐业县",
         "name": "Leye Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "乐业县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "凌云县",
         "name": "Lingyun Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "凌云县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "隆林各族自治县",
         "name": "Longlin Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "隆林县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "那坡县",
         "name": "Napo Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "那坡县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "平果县",
         "name": "Pingguo Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "平果县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "田东县",
         "name": "Tiandong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "田东县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "田林县",
         "name": "Tianlin Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "田林县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "田阳县",
         "name": "Tianyang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "田阳县"
             }
         }
@@ -137,7 +137,7 @@
         "code": "西林县",
         "name": "Xilin Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "西林县"
             }
         }
@@ -150,7 +150,7 @@
         "code": "右江区",
         "name": "Youjiang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "右江区"
             }
         }

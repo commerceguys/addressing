@@ -7,7 +7,7 @@
         "code": "安居区",
         "name": "Anju Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "安居区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "船山区",
         "name": "Chuanshan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "船山区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "大英县",
         "name": "Daying Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "大英县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "蓬溪县",
         "name": "Pengxi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "蓬溪县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "射洪县",
         "name": "Shehong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "射洪县"
             }
         }

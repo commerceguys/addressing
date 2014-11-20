@@ -8,7 +8,7 @@
         "name": "Datong Township",
         "postal_code_pattern": "267",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "大同鄉"
             }
         }
@@ -22,7 +22,7 @@
         "name": "Dongshan Township",
         "postal_code_pattern": "269",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "冬山鄉"
             }
         }
@@ -36,7 +36,7 @@
         "name": "Jiaosi Township",
         "postal_code_pattern": "262",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "礁溪鄉"
             }
         }
@@ -50,7 +50,7 @@
         "name": "Luodong Township",
         "postal_code_pattern": "265",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "羅東鎮"
             }
         }
@@ -64,7 +64,7 @@
         "name": "Nan-ao Township",
         "postal_code_pattern": "272",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "南澳鄉"
             }
         }
@@ -78,7 +78,7 @@
         "name": "Sansing Township",
         "postal_code_pattern": "266",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "三星鄉"
             }
         }
@@ -92,7 +92,7 @@
         "name": "Su-ao Township",
         "postal_code_pattern": "270",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "蘇澳鎮"
             }
         }
@@ -106,7 +106,7 @@
         "name": "Toucheng Township",
         "postal_code_pattern": "261",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "頭城鎮"
             }
         }
@@ -120,7 +120,7 @@
         "name": "Wujie Township",
         "postal_code_pattern": "268",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "五結鄉"
             }
         }
@@ -134,7 +134,7 @@
         "name": "Yilan City",
         "postal_code_pattern": "260",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "宜蘭市"
             }
         }
@@ -148,7 +148,7 @@
         "name": "Yuanshan Township",
         "postal_code_pattern": "264",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "員山鄉"
             }
         }
@@ -162,7 +162,7 @@
         "name": "Jhuangwei Township",
         "postal_code_pattern": "263",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "壯圍鄉"
             }
         }

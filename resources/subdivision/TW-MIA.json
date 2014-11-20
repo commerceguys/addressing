@@ -61,7 +61,7 @@
         "parent_id": "TW-MIA",
         "id": "TW-MIA-14d066",
         "code": "竹南鎮",
-        "name": "Jhunan Township",
+        "name": "Zhunan Township",
         "postal_code_pattern": "350",
         "translations": {
             "zh-hant": {
@@ -75,7 +75,7 @@
         "parent_id": "TW-MIA",
         "id": "TW-MIA-bca8e8",
         "code": "西湖鄉",
-        "name": "Sihu Township",
+        "name": "Xihu Township",
         "postal_code_pattern": "368",
         "translations": {
             "zh-hant": {
@@ -89,7 +89,7 @@
         "parent_id": "TW-MIA",
         "id": "TW-MIA-b0aa3d",
         "code": "卓蘭鎮",
-        "name": "Jhuolan Township",
+        "name": "Zhuolan Township",
         "postal_code_pattern": "369",
         "translations": {
             "zh-hant": {
@@ -103,7 +103,7 @@
         "parent_id": "TW-MIA",
         "id": "TW-MIA-49a75d",
         "code": "南庄鄉",
-        "name": "Nanjhuang Township",
+        "name": "Nanzhuang Township",
         "postal_code_pattern": "353",
         "translations": {
             "zh-hant": {
@@ -159,7 +159,7 @@
         "parent_id": "TW-MIA",
         "id": "TW-MIA-15f930",
         "code": "泰安鄉",
-        "name": "Tai-an Township",
+        "name": "Tai'an Township",
         "postal_code_pattern": "365",
         "translations": {
             "zh-hant": {
@@ -173,7 +173,7 @@
         "parent_id": "TW-MIA",
         "id": "TW-MIA-a9bc02",
         "code": "通霄鎮",
-        "name": "Tongsiao Township",
+        "name": "Tongxiao Township",
         "postal_code_pattern": "357",
         "translations": {
             "zh-hant": {
@@ -187,7 +187,7 @@
         "parent_id": "TW-MIA",
         "id": "TW-MIA-06882b",
         "code": "造橋鄉",
-        "name": "Zaociao Township",
+        "name": "Zaoqiao Township",
         "postal_code_pattern": "361",
         "translations": {
             "zh-hant": {
@@ -201,7 +201,7 @@
         "parent_id": "TW-MIA",
         "id": "TW-MIA-0c7a7f",
         "code": "獅潭鄉",
-        "name": "Shihtan Township",
+        "name": "Shitan Township",
         "postal_code_pattern": "354",
         "translations": {
             "zh-hant": {

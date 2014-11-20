@@ -7,7 +7,7 @@
         "code": "大新县",
         "name": "Daxin Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "大新县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "扶绥县",
         "name": "Fusui Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "扶绥县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "江洲区",
         "name": "Jiangzhou Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "江洲区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "龙州县",
         "name": "Longzhou Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "龙州县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "宁明县",
         "name": "Ningming Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "宁明县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "凭祥市",
         "name": "Pingxiang Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "凭祥市"
             }
         }
@@ -85,7 +85,7 @@
         "code": "天等县",
         "name": "Tiandeng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "天等县"
             }
         }

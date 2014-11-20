@@ -7,7 +7,7 @@
         "code": "灞桥区",
         "name": "Baqiao Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "灞桥区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "碑林区",
         "name": "Beilin Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "碑林区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "高陵县",
         "name": "Gaoling Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "高陵县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "户县",
         "name": "Hu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "户县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "蓝田县",
         "name": "Lantian Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "蓝田县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "莲湖区",
         "name": "Lianhu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "莲湖区"
             }
         }
@@ -85,7 +85,7 @@
         "code": "临潼区",
         "name": "Lintong Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "临潼区"
             }
         }
@@ -98,7 +98,7 @@
         "code": "未央区",
         "name": "Weiyang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "未央区"
             }
         }
@@ -111,7 +111,7 @@
         "code": "新城区",
         "name": "Xincheng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "新城区"
             }
         }
@@ -124,7 +124,7 @@
         "code": "阎良区",
         "name": "Yanliang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "阎良区"
             }
         }
@@ -137,7 +137,7 @@
         "code": "雁塔区",
         "name": "Yanta Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "雁塔区"
             }
         }
@@ -150,7 +150,7 @@
         "code": "长安区",
         "name": "Chang'an Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "长安区"
             }
         }
@@ -163,7 +163,7 @@
         "code": "周至县",
         "name": "Zhouzhi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "周至县"
             }
         }

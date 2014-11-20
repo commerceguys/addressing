@@ -7,7 +7,7 @@
         "code": "惠来县",
         "name": "Huilai Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "惠来县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "揭东县",
         "name": "Jiedong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "揭东县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "揭西县",
         "name": "Jiexi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "揭西县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "普宁市",
         "name": "Puning Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "普宁市"
             }
         }
@@ -59,7 +59,7 @@
         "code": "榕城区",
         "name": "Rongcheng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "榕城区"
             }
         }

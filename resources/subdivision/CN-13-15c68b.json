@@ -7,7 +7,7 @@
         "code": "高邑县",
         "name": "Gaoyi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "高邑县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "藁城区",
         "name": "Gaocheng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "藁城区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "晋州市",
         "name": "Jinzhou Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "晋州市"
             }
         }
@@ -46,7 +46,7 @@
         "code": "井陉矿区",
         "name": "Jingxing Kuangqu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "井陉矿区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "井陉县",
         "name": "Jingxing Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "井陉县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "灵寿县",
         "name": "Lingshou Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "灵寿县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "鹿泉区",
         "name": "Luquan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "鹿泉区"
             }
         }
@@ -98,7 +98,7 @@
         "code": "栾城区",
         "name": "Luancheng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "栾城区"
             }
         }
@@ -111,7 +111,7 @@
         "code": "平山县",
         "name": "Pingshan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "平山县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "桥西区",
         "name": "Qiaoxi Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "桥西区"
             }
         }
@@ -137,7 +137,7 @@
         "code": "深泽县",
         "name": "Shenze Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "深泽县"
             }
         }
@@ -150,7 +150,7 @@
         "code": "无极县",
         "name": "Wuji Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "无极县"
             }
         }
@@ -163,7 +163,7 @@
         "code": "辛集市",
         "name": "Xinji Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "辛集市"
             }
         }
@@ -176,7 +176,7 @@
         "code": "新华区",
         "name": "Xinhua Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "新华区"
             }
         }
@@ -189,7 +189,7 @@
         "code": "新乐市",
         "name": "Xinle Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "新乐市"
             }
         }
@@ -202,7 +202,7 @@
         "code": "行唐县",
         "name": "Xingtang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "行唐县"
             }
         }
@@ -215,7 +215,7 @@
         "code": "裕华区",
         "name": "Yuhua Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "裕华区"
             }
         }
@@ -228,7 +228,7 @@
         "code": "元氏县",
         "name": "Yuanshi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "元氏县"
             }
         }
@@ -241,7 +241,7 @@
         "code": "赞皇县",
         "name": "Zanhuang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "赞皇县"
             }
         }
@@ -254,7 +254,7 @@
         "code": "长安区",
         "name": "Chang'an Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "长安区"
             }
         }
@@ -267,7 +267,7 @@
         "code": "赵县",
         "name": "Zhao Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "赵县"
             }
         }
@@ -280,7 +280,7 @@
         "code": "正定县",
         "name": "Zhengding Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "正定县"
             }
         }

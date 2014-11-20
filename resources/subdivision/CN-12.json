@@ -7,7 +7,7 @@
         "code": "宝坻区",
         "name": "Baodi Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "宝坻区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "北辰区",
         "name": "Beichen Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "北辰区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "滨海新区",
         "name": "Binhai Xinqu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "滨海新区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "东丽区",
         "name": "Dongli Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "东丽区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "和平区",
         "name": "Heping Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "和平区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "河北区",
         "name": "Hebei Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "河北区"
             }
         }
@@ -85,7 +85,7 @@
         "code": "河东区",
         "name": "Hedong Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "河东区"
             }
         }
@@ -98,7 +98,7 @@
         "code": "河西区",
         "name": "Hexi Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "河西区"
             }
         }
@@ -111,7 +111,7 @@
         "code": "红桥区",
         "name": "Hongqiao Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "红桥区"
             }
         }
@@ -124,7 +124,7 @@
         "code": "蓟县",
         "name": "Ji Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "蓟县"
             }
         }
@@ -137,7 +137,7 @@
         "code": "津南区",
         "name": "Jinnan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "津南区"
             }
         }
@@ -150,7 +150,7 @@
         "code": "静海县",
         "name": "Jinghai Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "静海县"
             }
         }
@@ -163,7 +163,7 @@
         "code": "南开区",
         "name": "Nankai Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "南开区"
             }
         }
@@ -176,7 +176,7 @@
         "code": "宁河县",
         "name": "Ninghe Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "宁河县"
             }
         }
@@ -189,7 +189,7 @@
         "code": "武清区",
         "name": "Wuqing Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "武清区"
             }
         }
@@ -202,7 +202,7 @@
         "code": "西青区",
         "name": "Xiqing Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "西青区"
             }
         }

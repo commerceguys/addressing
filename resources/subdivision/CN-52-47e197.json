@@ -7,7 +7,7 @@
         "code": "德江县",
         "name": "Dejiang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "德江县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "江口县",
         "name": "Jiangkou Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "江口县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "石阡县",
         "name": "Shiqian Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "石阡县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "思南县",
         "name": "Sinan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "思南县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "松桃苗族自治县",
         "name": "Songtao Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "松桃县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "铜仁市",
         "name": "Tongren Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "铜仁市"
             }
         }
@@ -85,7 +85,7 @@
         "code": "万山特区",
         "name": "Wanshan Tequ",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "万山特区"
             }
         }
@@ -98,7 +98,7 @@
         "code": "沿河土家族自治县",
         "name": "Yanhe Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "沿河县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "印江土家族苗族自治县",
         "name": "Yinjiang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "印江县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "玉屏侗族自治县",
         "name": "Yuping Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "玉屏县"
             }
         }

@@ -7,7 +7,7 @@
         "code": "岑巩县",
         "name": "Cengong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "岑巩县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "从江县",
         "name": "Congjiang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "从江县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "丹寨县",
         "name": "Danzhai Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "丹寨县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "黄平县",
         "name": "Huangping Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "黄平县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "剑河县",
         "name": "Jianhe Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "剑河县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "锦屏县",
         "name": "Jinping Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "锦屏县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "凯里市",
         "name": "Kaili Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "凯里市"
             }
         }
@@ -98,7 +98,7 @@
         "code": "雷山县",
         "name": "Leishan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "雷山县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "黎平县",
         "name": "Liping Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "黎平县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "麻江县",
         "name": "Majiang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "麻江县"
             }
         }
@@ -137,7 +137,7 @@
         "code": "榕江县",
         "name": "Rongjiang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "榕江县"
             }
         }
@@ -150,7 +150,7 @@
         "code": "三穗县",
         "name": "Sansui Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "三穗县"
             }
         }
@@ -163,7 +163,7 @@
         "code": "施秉县",
         "name": "Shibing Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "施秉县"
             }
         }
@@ -176,7 +176,7 @@
         "code": "台江县",
         "name": "Taijiang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "台江县"
             }
         }
@@ -189,7 +189,7 @@
         "code": "天柱县",
         "name": "Tianzhu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "天柱县"
             }
         }
@@ -202,7 +202,7 @@
         "code": "镇远县",
         "name": "Zhenyuan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "镇远县"
             }
         }

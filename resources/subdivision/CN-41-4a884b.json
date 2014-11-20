@@ -7,7 +7,7 @@
         "code": "宝丰县",
         "name": "Baofeng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "宝丰县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "郏县",
         "name": "Jia Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "郏县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "鲁山县",
         "name": "Lushan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "鲁山县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "汝州市",
         "name": "Ruzhou Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "汝州市"
             }
         }
@@ -59,7 +59,7 @@
         "code": "石龙区",
         "name": "Shilong Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "石龙区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "卫东区",
         "name": "Weidong Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "卫东区"
             }
         }
@@ -85,7 +85,7 @@
         "code": "舞钢市",
         "name": "Wugang Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "舞钢市"
             }
         }
@@ -98,7 +98,7 @@
         "code": "新华区",
         "name": "Xinhua Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "新华区"
             }
         }
@@ -111,7 +111,7 @@
         "code": "叶县",
         "name": "Ye Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "叶县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "湛河区",
         "name": "Zhanhe Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "湛河区"
             }
         }

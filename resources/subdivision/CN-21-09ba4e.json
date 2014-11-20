@@ -7,7 +7,7 @@
         "code": "东港市",
         "name": "Donggang Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "东港市"
             }
         }
@@ -20,7 +20,7 @@
         "code": "凤城市",
         "name": "Fengcheng Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "凤城市"
             }
         }
@@ -33,7 +33,7 @@
         "code": "宽甸满族自治县",
         "name": "Kuandian Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "宽甸县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "元宝区",
         "name": "Yuanbao Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "元宝区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "振安区",
         "name": "Zhen'an Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "振安区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "振兴区",
         "name": "Zhenxing Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "振兴区"
             }
         }

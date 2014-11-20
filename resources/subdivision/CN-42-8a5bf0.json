@@ -7,7 +7,7 @@
         "code": "赤壁市",
         "name": "Chibi Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "赤壁市"
             }
         }
@@ -20,7 +20,7 @@
         "code": "崇阳县",
         "name": "Chongyang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "崇阳县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "嘉鱼县",
         "name": "Jiayu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "嘉鱼县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "通城县",
         "name": "Tongcheng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "通城县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "通山县",
         "name": "Tongshan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "通山县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "咸安区",
         "name": "Xian'an Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "咸安区"
             }
         }

@@ -8,7 +8,7 @@
         "name": "Beidou Township",
         "postal_code_pattern": "521",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "北斗鎮"
             }
         }
@@ -22,7 +22,7 @@
         "name": "Pusin Township",
         "postal_code_pattern": "513",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "埔心鄉"
             }
         }
@@ -36,7 +36,7 @@
         "name": "Puyan Township",
         "postal_code_pattern": "516",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "埔鹽鄉"
             }
         }
@@ -50,7 +50,7 @@
         "name": "Dacheng Township",
         "postal_code_pattern": "527",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "大城鄉"
             }
         }
@@ -64,7 +64,7 @@
         "name": "Dacun Township",
         "postal_code_pattern": "515",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "大村鄉"
             }
         }
@@ -78,7 +78,7 @@
         "name": "Erlin Township",
         "postal_code_pattern": "526",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "二林鎮"
             }
         }
@@ -92,7 +92,7 @@
         "name": "Ershuei Township",
         "postal_code_pattern": "530",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "二水鄉"
             }
         }
@@ -106,7 +106,7 @@
         "name": "Fangyuan Township",
         "postal_code_pattern": "528",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "芳苑鄉"
             }
         }
@@ -120,7 +120,7 @@
         "name": "Fenyuan Township",
         "postal_code_pattern": "502",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "芬園鄉"
             }
         }
@@ -134,7 +134,7 @@
         "name": "Fusing Township",
         "postal_code_pattern": "506",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "福興鄉"
             }
         }
@@ -148,7 +148,7 @@
         "name": "Hemei Township",
         "postal_code_pattern": "508",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "和美鎮"
             }
         }
@@ -162,7 +162,7 @@
         "name": "Huatan Township",
         "postal_code_pattern": "503",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "花壇鄉"
             }
         }
@@ -176,7 +176,7 @@
         "name": "Lugang Township",
         "postal_code_pattern": "505",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "鹿港鎮"
             }
         }
@@ -190,7 +190,7 @@
         "name": "Pitou Township",
         "postal_code_pattern": "523",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "埤頭鄉"
             }
         }
@@ -204,7 +204,7 @@
         "name": "Shetou Township",
         "postal_code_pattern": "511",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "社頭鄉"
             }
         }
@@ -218,7 +218,7 @@
         "name": "Shengang Township",
         "postal_code_pattern": "509",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "伸港鄉"
             }
         }
@@ -232,7 +232,7 @@
         "name": "Tianwei Township",
         "postal_code_pattern": "522",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "田尾鄉"
             }
         }
@@ -246,7 +246,7 @@
         "name": "Tianjhong Township",
         "postal_code_pattern": "520",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "田中鎮"
             }
         }
@@ -260,7 +260,7 @@
         "name": "Sihu Township",
         "postal_code_pattern": "514",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "溪湖鎮"
             }
         }
@@ -274,7 +274,7 @@
         "name": "Sijhou Township",
         "postal_code_pattern": "524",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "溪州鄉"
             }
         }
@@ -288,7 +288,7 @@
         "name": "Siansi Township",
         "postal_code_pattern": "507",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "線西鄉"
             }
         }
@@ -302,7 +302,7 @@
         "name": "Sioushuei Township",
         "postal_code_pattern": "504",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "秀水鄉"
             }
         }
@@ -316,7 +316,7 @@
         "name": "Yongjing Township",
         "postal_code_pattern": "512",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "永靖鄉"
             }
         }
@@ -330,7 +330,7 @@
         "name": "Yuanlin Township",
         "postal_code_pattern": "510",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "員林鎮"
             }
         }
@@ -344,7 +344,7 @@
         "name": "Changhua City",
         "postal_code_pattern": "500",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "彰化市"
             }
         }
@@ -358,7 +358,7 @@
         "name": "Jhutang Township",
         "postal_code_pattern": "525",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "竹塘鄉"
             }
         }

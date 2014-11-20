@@ -7,7 +7,7 @@
         "code": "宾川县",
         "name": "Binchuan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "宾川县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "大理市",
         "name": "Dali Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "大理市"
             }
         }
@@ -33,7 +33,7 @@
         "code": "洱源县",
         "name": "Eryuan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "洱源县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "鹤庆县",
         "name": "Heqing Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "鹤庆县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "剑川县",
         "name": "Jianchuan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "剑川县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "弥渡县",
         "name": "Midu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "弥渡县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "南涧彝族自治县",
         "name": "Nanjian Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "南涧县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "巍山彝族回族自治县",
         "name": "Weishan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "巍山县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "祥云县",
         "name": "Xiangyun Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "祥云县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "漾濞彝族自治县",
         "name": "Yangbi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "漾濞县"
             }
         }
@@ -137,7 +137,7 @@
         "code": "永平县",
         "name": "Yongping Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "永平县"
             }
         }
@@ -150,7 +150,7 @@
         "code": "云龙县",
         "name": "Yunlong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "云龙县"
             }
         }

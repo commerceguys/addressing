@@ -8,7 +8,7 @@
         "name": "Baisha Township",
         "postal_code_pattern": "884",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "白沙鄉"
             }
         }
@@ -22,7 +22,7 @@
         "name": "Husi Township",
         "postal_code_pattern": "885",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "湖西鄉"
             }
         }
@@ -36,7 +36,7 @@
         "name": "Magong City",
         "postal_code_pattern": "880",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "馬公市"
             }
         }
@@ -50,7 +50,7 @@
         "name": "Cimei Township",
         "postal_code_pattern": "883",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "七美鄉"
             }
         }
@@ -64,7 +64,7 @@
         "name": "Wang-an Township",
         "postal_code_pattern": "882",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "望安鄉"
             }
         }
@@ -78,7 +78,7 @@
         "name": "Siyu Township",
         "postal_code_pattern": "881",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "西嶼鄉"
             }
         }

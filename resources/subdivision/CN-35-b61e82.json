@@ -7,7 +7,7 @@
         "code": "仓山区",
         "name": "Cangshan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "仓山区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "福清市",
         "name": "Fuqing Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "福清市"
             }
         }
@@ -33,7 +33,7 @@
         "code": "鼓楼区",
         "name": "Gulou Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "鼓楼区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "晋安区",
         "name": "Jin'an Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "晋安区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "连江县",
         "name": "Lianjiang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "连江县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "罗源县",
         "name": "Luoyuan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "罗源县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "马尾区",
         "name": "Mawei Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "马尾区"
             }
         }
@@ -98,7 +98,7 @@
         "code": "闽侯县",
         "name": "Minhou Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "闽侯县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "闽清县",
         "name": "Minqing Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "闽清县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "平潭县",
         "name": "Pingtan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "平潭县"
             }
         }
@@ -137,7 +137,7 @@
         "code": "台江区",
         "name": "Taijiang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "台江区"
             }
         }
@@ -150,7 +150,7 @@
         "code": "永泰县",
         "name": "Yongtai Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "永泰县"
             }
         }
@@ -163,7 +163,7 @@
         "code": "长乐市",
         "name": "Changle Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "长乐市"
             }
         }

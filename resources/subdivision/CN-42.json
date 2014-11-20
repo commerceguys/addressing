@@ -7,7 +7,7 @@
         "code": "鄂州市",
         "name": "Ezhou Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "鄂州市"
             }
         },
@@ -21,7 +21,7 @@
         "code": "恩施土家族苗族自治州",
         "name": "Enshi Zhou",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "恩施州"
             }
         },
@@ -35,7 +35,7 @@
         "code": "黄冈市",
         "name": "Huanggang Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "黄冈市"
             }
         },
@@ -49,7 +49,7 @@
         "code": "黄石市",
         "name": "Huangshi Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "黄石市"
             }
         },
@@ -63,7 +63,7 @@
         "code": "荆门市",
         "name": "Jingmen Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "荆门市"
             }
         },
@@ -77,7 +77,7 @@
         "code": "荆州市",
         "name": "Jingzhou Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "荆州市"
             }
         },
@@ -91,7 +91,7 @@
         "code": "潜江市",
         "name": "Qianjiang Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "潜江市"
             }
         }
@@ -104,7 +104,7 @@
         "code": "神农架林区",
         "name": "Shennongjia Linqu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "神农架林区"
             }
         }
@@ -117,7 +117,7 @@
         "code": "十堰市",
         "name": "Shiyan Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "十堰市"
             }
         },
@@ -131,7 +131,7 @@
         "code": "随州市",
         "name": "Suizhou Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "随州市"
             }
         },
@@ -145,7 +145,7 @@
         "code": "天门市",
         "name": "Tianmen Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "天门市"
             }
         }
@@ -158,7 +158,7 @@
         "code": "武汉市",
         "name": "Wuhan Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "武汉市"
             }
         },
@@ -172,7 +172,7 @@
         "code": "咸宁市",
         "name": "Xianning Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "咸宁市"
             }
         },
@@ -186,21 +186,21 @@
         "code": "仙桃市",
         "name": "Xiantao Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "仙桃市"
             }
         }
     },
-    "CN-42-24ca8f": {
+    "CN-42-778f4e": {
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42",
-        "id": "CN-42-24ca8f",
-        "code": "襄樊市",
-        "name": "Xiangfan Shi",
+        "id": "CN-42-778f4e",
+        "code": "襄阳市",
+        "name": "Xiangyang Shi",
         "translations": {
-            "zh-hans": {
-                "name": "襄樊市"
+            "zh": {
+                "name": "襄阳市"
             }
         },
         "has_children": true
@@ -213,7 +213,7 @@
         "code": "孝感市",
         "name": "Xiaogan Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "孝感市"
             }
         },
@@ -227,7 +227,7 @@
         "code": "宜昌市",
         "name": "Yichang Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "宜昌市"
             }
         },

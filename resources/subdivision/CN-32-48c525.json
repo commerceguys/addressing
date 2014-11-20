@@ -7,7 +7,7 @@
         "code": "丹徒区",
         "name": "Dantu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "丹徒区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "丹阳市",
         "name": "Danyang Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "丹阳市"
             }
         }
@@ -33,7 +33,7 @@
         "code": "京口区",
         "name": "Jingkou Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "京口区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "句容市",
         "name": "Jurong Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "句容市"
             }
         }
@@ -59,7 +59,7 @@
         "code": "润州区",
         "name": "Runzhou Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "润州区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "扬中市",
         "name": "Yangzhong Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "扬中市"
             }
         }

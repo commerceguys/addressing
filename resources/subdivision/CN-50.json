@@ -7,7 +7,7 @@
         "code": "巴南区",
         "name": "Banan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "巴南区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "北碚区",
         "name": "Beibei Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "北碚区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "璧山县",
         "name": "Bishan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "璧山县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "城口县",
         "name": "Chengkou Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "城口县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "大渡口区",
         "name": "Dadukou Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "大渡口区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "大足区",
         "name": "Dazu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "大足区"
             }
         }
@@ -85,7 +85,7 @@
         "code": "垫江县",
         "name": "Dianjiang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "垫江县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "丰都县",
         "name": "Fengdu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "丰都县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "奉节县",
         "name": "Fengjie Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "奉节县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "涪陵区",
         "name": "Fuling Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "涪陵区"
             }
         }
@@ -137,7 +137,7 @@
         "code": "合川区",
         "name": "Hechuan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "合川区"
             }
         }
@@ -150,7 +150,7 @@
         "code": "江北区",
         "name": "Jiangbei Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "江北区"
             }
         }
@@ -163,7 +163,7 @@
         "code": "江津区",
         "name": "Jiangjin Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "江津区"
             }
         }
@@ -176,7 +176,7 @@
         "code": "九龙坡区",
         "name": "Jiulongpo Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "九龙坡区"
             }
         }
@@ -189,7 +189,7 @@
         "code": "开县",
         "name": "Kai Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "开县"
             }
         }
@@ -202,7 +202,7 @@
         "code": "梁平县",
         "name": "Liangping Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "梁平县"
             }
         }
@@ -215,7 +215,7 @@
         "code": "南岸区",
         "name": "Nan'an Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "南岸区"
             }
         }
@@ -228,7 +228,7 @@
         "code": "南川区",
         "name": "Nanchuan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "南川区"
             }
         }
@@ -241,7 +241,7 @@
         "code": "彭水苗族土家族自治县",
         "name": "Pengshui Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "彭水县"
             }
         }
@@ -254,7 +254,7 @@
         "code": "綦江区",
         "name": "Qijiang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "綦江区"
             }
         }
@@ -267,7 +267,7 @@
         "code": "黔江区",
         "name": "Qianjiang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "黔江区"
             }
         }
@@ -280,7 +280,7 @@
         "code": "荣昌县",
         "name": "Rongchang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "荣昌县"
             }
         }
@@ -293,7 +293,7 @@
         "code": "沙坪坝区",
         "name": "Shapingba Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "沙坪坝区"
             }
         }
@@ -306,7 +306,7 @@
         "code": "石柱土家族自治县",
         "name": "Shizhu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "石柱县"
             }
         }
@@ -319,7 +319,7 @@
         "code": "铜梁县",
         "name": "Tongliang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "铜梁县"
             }
         }
@@ -332,7 +332,7 @@
         "code": "潼南县",
         "name": "Tongnan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "潼南县"
             }
         }
@@ -345,7 +345,7 @@
         "code": "万州区",
         "name": "Wanzhou Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "万州区"
             }
         }
@@ -358,7 +358,7 @@
         "code": "巫山县",
         "name": "Wushan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "巫山县"
             }
         }
@@ -371,7 +371,7 @@
         "code": "巫溪县",
         "name": "Wuxi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "巫溪县"
             }
         }
@@ -384,7 +384,7 @@
         "code": "武隆县",
         "name": "Wulong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "武隆县"
             }
         }
@@ -397,7 +397,7 @@
         "code": "秀山土家族苗族自治县",
         "name": "Xiushan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "秀山县"
             }
         }
@@ -410,7 +410,7 @@
         "code": "永川区",
         "name": "Yongchuan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "永川区"
             }
         }
@@ -423,7 +423,7 @@
         "code": "酉阳土家族苗族自治县",
         "name": "Youyang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "酉阳县"
             }
         }
@@ -436,7 +436,7 @@
         "code": "渝北区",
         "name": "Yubei Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "渝北区"
             }
         }
@@ -449,7 +449,7 @@
         "code": "渝中区",
         "name": "Yuzhong Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "渝中区"
             }
         }
@@ -462,7 +462,7 @@
         "code": "云阳县",
         "name": "Yunyang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "云阳县"
             }
         }
@@ -475,7 +475,7 @@
         "code": "长寿区",
         "name": "Changshou Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "长寿区"
             }
         }
@@ -488,7 +488,7 @@
         "code": "忠县",
         "name": "Zhong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "忠县"
             }
         }

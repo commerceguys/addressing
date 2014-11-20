@@ -7,7 +7,7 @@
         "code": "朝阳区",
         "name": "Chaoyang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "朝阳区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "德惠市",
         "name": "Dehui Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "德惠市"
             }
         }
@@ -33,7 +33,7 @@
         "code": "二道区",
         "name": "Erdao Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "二道区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "九台市",
         "name": "Jiutai Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "九台市"
             }
         }
@@ -59,7 +59,7 @@
         "code": "宽城区",
         "name": "Kuancheng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "宽城区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "绿园区",
         "name": "Lüyuan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "绿园区"
             }
         }
@@ -85,7 +85,7 @@
         "code": "南关区",
         "name": "Nanguan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "南关区"
             }
         }
@@ -98,7 +98,7 @@
         "code": "农安县",
         "name": "Nong'an Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "农安县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "双阳区",
         "name": "Shuangyang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "双阳区"
             }
         }
@@ -124,7 +124,7 @@
         "code": "榆树市",
         "name": "Yushu Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "榆树市"
             }
         }

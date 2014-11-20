@@ -8,7 +8,7 @@
         "name": "Bali Township",
         "postal_code_pattern": "249",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "八里鄉"
             }
         }
@@ -22,7 +22,7 @@
         "name": "Banciao City",
         "postal_code_pattern": "220",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "板橋市"
             }
         }
@@ -36,7 +36,7 @@
         "name": "Danshuei Township",
         "postal_code_pattern": "251",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "淡水鎮"
             }
         }
@@ -50,7 +50,7 @@
         "name": "Gongliao Township",
         "postal_code_pattern": "228",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "貢寮鄉"
             }
         }
@@ -64,7 +64,7 @@
         "name": "Jinshan Township",
         "postal_code_pattern": "208",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "金山鄉"
             }
         }
@@ -78,7 +78,7 @@
         "name": "Linkou Township",
         "postal_code_pattern": "244",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "林口鄉"
             }
         }
@@ -92,7 +92,7 @@
         "name": "Lujhou City",
         "postal_code_pattern": "247",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "蘆洲市"
             }
         }
@@ -106,7 +106,7 @@
         "name": "Pingsi Township",
         "postal_code_pattern": "226",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "平溪鄉"
             }
         }
@@ -120,7 +120,7 @@
         "name": "Pinglin Township",
         "postal_code_pattern": "232",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "坪林鄉"
             }
         }
@@ -134,7 +134,7 @@
         "name": "Rueifang Township",
         "postal_code_pattern": "224",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "瑞芳鎮"
             }
         }
@@ -148,7 +148,7 @@
         "name": "Sansia Township",
         "postal_code_pattern": "237",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "三峽鎮"
             }
         }
@@ -162,7 +162,7 @@
         "name": "Sanjhih Township",
         "postal_code_pattern": "252",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "三芝鄉"
             }
         }
@@ -176,7 +176,7 @@
         "name": "Sanchong City",
         "postal_code_pattern": "241",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "三重市"
             }
         }
@@ -190,7 +190,7 @@
         "name": "Shenkeng Township",
         "postal_code_pattern": "222",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "深坑鄉"
             }
         }
@@ -204,7 +204,7 @@
         "name": "Shihding Township",
         "postal_code_pattern": "223",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "石碇鄉"
             }
         }
@@ -218,7 +218,7 @@
         "name": "Shihmen Township",
         "postal_code_pattern": "253",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "石門鄉"
             }
         }
@@ -232,7 +232,7 @@
         "name": "Shulin City",
         "postal_code_pattern": "238",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "樹林市"
             }
         }
@@ -246,7 +246,7 @@
         "name": "Shuangsi Township",
         "postal_code_pattern": "227",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "雙溪鄉"
             }
         }
@@ -260,7 +260,7 @@
         "name": "Taishan Township",
         "postal_code_pattern": "243",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "泰山鄉"
             }
         }
@@ -274,7 +274,7 @@
         "name": "Tucheng City",
         "postal_code_pattern": "236",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "土城市"
             }
         }
@@ -288,7 +288,7 @@
         "name": "Wanli Township",
         "postal_code_pattern": "207",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "萬里鄉"
             }
         }
@@ -302,7 +302,7 @@
         "name": "Wulai Township",
         "postal_code_pattern": "233",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "烏來鄉"
             }
         }
@@ -316,7 +316,7 @@
         "name": "Wugu Township",
         "postal_code_pattern": "248",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "五股鄉"
             }
         }
@@ -330,7 +330,7 @@
         "name": "Sijhih City",
         "postal_code_pattern": "221",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "汐止市"
             }
         }
@@ -344,7 +344,7 @@
         "name": "Sindian City",
         "postal_code_pattern": "231",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "新店市"
             }
         }
@@ -358,7 +358,7 @@
         "name": "Sinjhuang City",
         "postal_code_pattern": "242",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "新莊市"
             }
         }
@@ -372,7 +372,7 @@
         "name": "Yingge Township",
         "postal_code_pattern": "239",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "鶯歌鎮"
             }
         }
@@ -386,7 +386,7 @@
         "name": "Yonghe City",
         "postal_code_pattern": "234",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "永和市"
             }
         }
@@ -400,7 +400,7 @@
         "name": "Jhonghe City",
         "postal_code_pattern": "235",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "中和市"
             }
         }

@@ -7,7 +7,7 @@
         "code": "北票市",
         "name": "Beipiao Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "北票市"
             }
         }
@@ -20,7 +20,7 @@
         "code": "朝阳县",
         "name": "Chaoyang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "朝阳县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "建平县",
         "name": "Jianping Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "建平县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "喀喇沁左翼蒙古族自治县",
         "name": "Harqin Zuoyi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "喀喇沁左翼县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "凌源市",
         "name": "Lingyuan Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "凌源市"
             }
         }
@@ -72,7 +72,7 @@
         "code": "龙城区",
         "name": "Longcheng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "龙城区"
             }
         }
@@ -85,7 +85,7 @@
         "code": "双塔区",
         "name": "Shuangta Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "双塔区"
             }
         }

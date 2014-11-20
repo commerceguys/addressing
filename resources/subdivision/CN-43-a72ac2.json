@@ -7,7 +7,7 @@
         "code": "芙蓉区",
         "name": "Furong Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "芙蓉区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "开福区",
         "name": "Kaifu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "开福区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "浏阳市",
         "name": "Liuyang Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "浏阳市"
             }
         }
@@ -46,7 +46,7 @@
         "code": "宁乡县",
         "name": "Ningxiang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "宁乡县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "天心区",
         "name": "Tianxin Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "天心区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "望城县",
         "name": "Wangcheng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "望城县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "雨花区",
         "name": "Yuhua Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "雨花区"
             }
         }
@@ -98,7 +98,7 @@
         "code": "岳麓区",
         "name": "Yuelu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "岳麓区"
             }
         }
@@ -111,7 +111,7 @@
         "code": "长沙县",
         "name": "Changsha Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "长沙县"
             }
         }

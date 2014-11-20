@@ -7,7 +7,7 @@
         "code": "龙华区",
         "name": "Longhua Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "龙华区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "美兰区",
         "name": "Meilan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "美兰区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "琼山区",
         "name": "Qiongshan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "琼山区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "秀英区",
         "name": "Xiuying Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "秀英区"
             }
         }

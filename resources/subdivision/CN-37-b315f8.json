@@ -7,7 +7,7 @@
         "code": "苍山县",
         "name": "Cangshan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "苍山县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "费县",
         "name": "Fei Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "费县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "河东区",
         "name": "Hedong Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "河东区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "莒南县",
         "name": "Junan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "莒南县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "兰山区",
         "name": "Lanshan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "兰山区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "临沭县",
         "name": "Linshu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "临沭县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "罗庄区",
         "name": "Luozhuang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "罗庄区"
             }
         }
@@ -98,7 +98,7 @@
         "code": "蒙阴县",
         "name": "Mengyin Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "蒙阴县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "平邑县",
         "name": "Pingyi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "平邑县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "郯城县",
         "name": "Tancheng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "郯城县"
             }
         }
@@ -137,7 +137,7 @@
         "code": "沂南县",
         "name": "Yinan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "沂南县"
             }
         }
@@ -150,7 +150,7 @@
         "code": "沂水县",
         "name": "Yishui Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "沂水县"
             }
         }

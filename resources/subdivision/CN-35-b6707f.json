@@ -7,7 +7,7 @@
         "code": "东山县",
         "name": "Dongshan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "东山县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "华安县",
         "name": "Hua'an Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "华安县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "龙海市",
         "name": "Longhai Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "龙海市"
             }
         }
@@ -46,7 +46,7 @@
         "code": "龙文区",
         "name": "Longwen Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "龙文区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "南靖县",
         "name": "Nanjing Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "南靖县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "平和县",
         "name": "Pinghe Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "平和县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "芗城区",
         "name": "Xiangcheng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "芗城区"
             }
         }
@@ -98,7 +98,7 @@
         "code": "云霄县",
         "name": "Yunxiao Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "云霄县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "漳浦县",
         "name": "Zhangpu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "漳浦县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "长泰县",
         "name": "Changtai Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "长泰县"
             }
         }
@@ -137,7 +137,7 @@
         "code": "诏安县",
         "name": "Zhao'an Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "诏安县"
             }
         }

@@ -7,7 +7,7 @@
         "code": "岱岳区",
         "name": "Daiyue Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "岱岳区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "东平县",
         "name": "Dongping Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "东平县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "肥城市",
         "name": "Feicheng Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "肥城市"
             }
         }
@@ -46,7 +46,7 @@
         "code": "宁阳县",
         "name": "Ningyang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "宁阳县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "泰山区",
         "name": "Taishan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "泰山区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "新泰市",
         "name": "Xintai Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "新泰市"
             }
         }

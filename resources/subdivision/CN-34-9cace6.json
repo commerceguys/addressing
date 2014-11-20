@@ -7,7 +7,7 @@
         "code": "郊区",
         "name": "Jiao Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "郊区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "狮子山区",
         "name": "Shizishan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "狮子山区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "铜官山区",
         "name": "Tongguanshan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "铜官山区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "铜陵县",
         "name": "Tongling Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "铜陵县"
             }
         }

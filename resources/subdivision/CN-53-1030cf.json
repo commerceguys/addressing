@@ -7,7 +7,7 @@
         "code": "安宁市",
         "name": "Anning Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "安宁市"
             }
         }
@@ -20,7 +20,7 @@
         "code": "呈贡县",
         "name": "Chenggong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "呈贡县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "东川区",
         "name": "Dongchuan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "东川区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "富民县",
         "name": "Fumin Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "富民县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "官渡区",
         "name": "Guandu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "官渡区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "晋宁县",
         "name": "Jinning Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "晋宁县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "禄劝彝族苗族自治县",
         "name": "Luquan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "禄劝县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "盘龙区",
         "name": "Panlong Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "盘龙区"
             }
         }
@@ -111,7 +111,7 @@
         "code": "石林彝族自治县",
         "name": "Shilin Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "石林县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "嵩明县",
         "name": "Songming Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "嵩明县"
             }
         }
@@ -137,7 +137,7 @@
         "code": "五华区",
         "name": "Wuhua Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "五华区"
             }
         }
@@ -150,7 +150,7 @@
         "code": "西山区",
         "name": "Xishan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "西山区"
             }
         }
@@ -163,7 +163,7 @@
         "code": "寻甸回族彝族自治县",
         "name": "Xundian Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "寻甸县"
             }
         }
@@ -176,7 +176,7 @@
         "code": "宜良县",
         "name": "Yiliang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "宜良县"
             }
         }

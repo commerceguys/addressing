@@ -7,7 +7,7 @@
         "code": "丹棱县",
         "name": "Danling Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "丹棱县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "东坡区",
         "name": "Dongpo Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "东坡区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "洪雅县",
         "name": "Hongya Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "洪雅县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "彭山县",
         "name": "Pengshan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "彭山县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "青神县",
         "name": "Qingshen Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "青神县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "仁寿县",
         "name": "Renshou Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "仁寿县"
             }
         }

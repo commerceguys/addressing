@@ -7,7 +7,7 @@
         "code": "白云矿区",
         "name": "Baiyun Kuangqu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "白云矿区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "达尔罕茂明安联合旗",
         "name": "Darhan Mumingan Lianheqi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "达尔罕茂明安联合旗"
             }
         }
@@ -33,7 +33,7 @@
         "code": "东河区",
         "name": "Donghe Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "东河区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "固阳县",
         "name": "Guyang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "固阳县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "九原区",
         "name": "Jiuyuan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "九原区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "昆都仑区",
         "name": "Hondlon Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "昆都仑区"
             }
         }
@@ -85,7 +85,7 @@
         "code": "青山区",
         "name": "Qingshan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "青山区"
             }
         }
@@ -98,7 +98,7 @@
         "code": "石拐区",
         "name": "Shiguai Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "石拐区"
             }
         }
@@ -111,7 +111,7 @@
         "code": "土默特右旗",
         "name": "Tumd Youqi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "土默特右旗"
             }
         }

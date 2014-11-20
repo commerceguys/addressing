@@ -7,7 +7,7 @@
         "code": "古交市",
         "name": "Gujiao Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "古交市"
             }
         }
@@ -20,7 +20,7 @@
         "code": "尖草坪区",
         "name": "Jiancaoping Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "尖草坪区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "晋源区",
         "name": "Jinyuan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "晋源区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "娄烦县",
         "name": "Loufan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "娄烦县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "清徐县",
         "name": "Qingxu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "清徐县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "万柏林区",
         "name": "Wanbailin Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "万柏林区"
             }
         }
@@ -85,7 +85,7 @@
         "code": "小店区",
         "name": "Xiaodian Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "小店区"
             }
         }
@@ -98,7 +98,7 @@
         "code": "杏花岭区",
         "name": "Xinghualing Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "杏花岭区"
             }
         }
@@ -111,7 +111,7 @@
         "code": "阳曲县",
         "name": "Yangqu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "阳曲县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "迎泽区",
         "name": "Yingze Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "迎泽区"
             }
         }

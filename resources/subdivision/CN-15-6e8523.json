@@ -7,7 +7,7 @@
         "code": "阿荣旗",
         "name": "Arun Qi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "阿荣旗"
             }
         }
@@ -20,7 +20,7 @@
         "code": "陈巴尔虎旗",
         "name": "Chen Barag Qi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "陈巴尔虎旗"
             }
         }
@@ -33,7 +33,7 @@
         "code": "额尔古纳市",
         "name": "Ergun Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "额尔古纳市"
             }
         }
@@ -46,7 +46,7 @@
         "code": "鄂伦春自治旗",
         "name": "Oroqen Qi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "鄂伦春旗"
             }
         }
@@ -59,7 +59,7 @@
         "code": "鄂温克族自治旗",
         "name": "Ewenkizu Qi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "鄂温克族旗"
             }
         }
@@ -72,7 +72,7 @@
         "code": "根河市",
         "name": "Genhe Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "根河市"
             }
         }
@@ -85,7 +85,7 @@
         "code": "海拉尔区",
         "name": "Hailar Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "海拉尔区"
             }
         }
@@ -98,7 +98,7 @@
         "code": "满洲里市",
         "name": "Manzhouli Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "满洲里市"
             }
         }
@@ -111,7 +111,7 @@
         "code": "莫力达瓦达斡尔族自治旗",
         "name": "Morin Dawa Qi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "莫力达瓦旗"
             }
         }
@@ -124,7 +124,7 @@
         "code": "新巴尔虎右旗",
         "name": "Xin Barag Youqi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "新巴尔虎右旗"
             }
         }
@@ -137,7 +137,7 @@
         "code": "新巴尔虎左旗",
         "name": "Xin Barag Zuoqi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "新巴尔虎左旗"
             }
         }
@@ -150,7 +150,7 @@
         "code": "牙克石市",
         "name": "Yakeshi Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "牙克石市"
             }
         }
@@ -163,7 +163,7 @@
         "code": "扎兰屯市",
         "name": "Zhalantun Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "扎兰屯市"
             }
         }

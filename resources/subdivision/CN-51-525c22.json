@@ -7,7 +7,7 @@
         "code": "广安区",
         "name": "Guang'an Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "广安区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "华蓥市",
         "name": "Huaying Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "华蓥市"
             }
         }
@@ -33,7 +33,7 @@
         "code": "邻水县",
         "name": "Linshui Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "邻水县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "武胜县",
         "name": "Wusheng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "武胜县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "岳池县",
         "name": "Yuechi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "岳池县"
             }
         }

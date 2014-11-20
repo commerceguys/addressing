@@ -7,7 +7,7 @@
         "code": "博湖县",
         "name": "Bohu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "博湖县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "和静县",
         "name": "Hejing Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "和静县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "和硕县",
         "name": "Hoxud Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "和硕县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "库尔勒市",
         "name": "Korla Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "库尔勒市"
             }
         }
@@ -59,7 +59,7 @@
         "code": "轮台县",
         "name": "Luntai Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "轮台县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "且末县",
         "name": "Qiemo Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "且末县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "若羌县",
         "name": "Ruoqiang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "若羌县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "尉犁县",
         "name": "Yuli Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "尉犁县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "焉耆回族自治县",
         "name": "Yanqi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "焉耆县"
             }
         }

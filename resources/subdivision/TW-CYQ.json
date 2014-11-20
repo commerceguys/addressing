@@ -33,7 +33,7 @@
         "parent_id": "TW-CYQ",
         "id": "TW-CYQ-8cabc3",
         "code": "中埔鄉",
-        "name": "Jhongpu Township",
+        "name": "Zhongpu Township",
         "postal_code_pattern": "606",
         "translations": {
             "zh-hant": {
@@ -47,7 +47,7 @@
         "parent_id": "TW-CYQ",
         "id": "TW-CYQ-b33c82",
         "code": "六腳鄉",
-        "name": "Lioujiao Township",
+        "name": "Liujiao Township",
         "postal_code_pattern": "615",
         "translations": {
             "zh-hant": {
@@ -75,7 +75,7 @@
         "parent_id": "TW-CYQ",
         "id": "TW-CYQ-9ed3ec",
         "code": "水上鄉",
-        "name": "Shueishang Township",
+        "name": "Shuishang Township",
         "postal_code_pattern": "608",
         "translations": {
             "zh-hant": {
@@ -103,7 +103,7 @@
         "parent_id": "TW-CYQ",
         "id": "TW-CYQ-c467c3",
         "code": "民雄鄉",
-        "name": "Minsyong Township",
+        "name": "Minxiong Township",
         "postal_code_pattern": "621",
         "translations": {
             "zh-hant": {
@@ -117,7 +117,7 @@
         "parent_id": "TW-CYQ",
         "id": "TW-CYQ-d1a126",
         "code": "朴子市",
-        "name": "Puzih City",
+        "name": "Puzi City",
         "postal_code_pattern": "613",
         "translations": {
             "zh-hant": {
@@ -131,7 +131,7 @@
         "parent_id": "TW-CYQ",
         "id": "TW-CYQ-b33296",
         "code": "竹崎鄉",
-        "name": "Jhuci Township",
+        "name": "Zhuqi Township",
         "postal_code_pattern": "604",
         "translations": {
             "zh-hant": {
@@ -145,7 +145,7 @@
         "parent_id": "TW-CYQ",
         "id": "TW-CYQ-69f845",
         "code": "東石鄉",
-        "name": "Dongshih Township",
+        "name": "Dongshi Township",
         "postal_code_pattern": "614",
         "translations": {
             "zh-hant": {
@@ -215,7 +215,7 @@
         "parent_id": "TW-CYQ",
         "id": "TW-CYQ-1ce2ca",
         "code": "新港鄉",
-        "name": "Singang Township",
+        "name": "Xingang Township",
         "postal_code_pattern": "616",
         "translations": {
             "zh-hant": {
@@ -229,7 +229,7 @@
         "parent_id": "TW-CYQ",
         "id": "TW-CYQ-8c8163",
         "code": "溪口鄉",
-        "name": "Sikou Township",
+        "name": "Xikou Township",
         "postal_code_pattern": "623",
         "translations": {
             "zh-hant": {
@@ -243,7 +243,7 @@
         "parent_id": "TW-CYQ",
         "id": "TW-CYQ-471eab",
         "code": "義竹鄉",
-        "name": "Yijhu Township",
+        "name": "Yizhu Township",
         "postal_code_pattern": "624",
         "translations": {
             "zh-hant": {

@@ -7,7 +7,7 @@
         "code": "甘谷县",
         "name": "Gangu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "甘谷县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "麦积区",
         "name": "Maiji Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "麦积区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "秦安县",
         "name": "Qin'an Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "秦安县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "秦州区",
         "name": "Qinzhou Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "秦州区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "清水县",
         "name": "Qingshui Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "清水县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "武山县",
         "name": "Wushan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "武山县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "张家川回族自治县",
         "name": "Zhangjiachuan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "张家川县"
             }
         }

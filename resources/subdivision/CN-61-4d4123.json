@@ -7,7 +7,7 @@
         "code": "彬县",
         "name": "Bin Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "彬县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "淳化县",
         "name": "Chunhua Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "淳化县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "乾县",
         "name": "Qian Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "乾县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "泾阳县",
         "name": "Jingyang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "泾阳县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "礼泉县",
         "name": "Liquan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "礼泉县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "秦都区",
         "name": "Qindu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "秦都区"
             }
         }
@@ -85,7 +85,7 @@
         "code": "三原县",
         "name": "Sanyuan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "三原县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "渭城区",
         "name": "Weicheng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "渭城区"
             }
         }
@@ -111,7 +111,7 @@
         "code": "武功县",
         "name": "Wugong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "武功县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "兴平市",
         "name": "Xingping Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "兴平市"
             }
         }
@@ -137,7 +137,7 @@
         "code": "旬邑县",
         "name": "Xunyi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "旬邑县"
             }
         }
@@ -150,7 +150,7 @@
         "code": "杨凌区",
         "name": "Yangling Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "杨凌区"
             }
         }
@@ -163,7 +163,7 @@
         "code": "永寿县",
         "name": "Yongshou Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "永寿县"
             }
         }
@@ -176,7 +176,7 @@
         "code": "长武县",
         "name": "Changwu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "长武县"
             }
         }

@@ -7,7 +7,7 @@
         "code": "城区",
         "name": "Cheng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "城区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "海丰县",
         "name": "Haifeng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "海丰县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "陆丰市",
         "name": "Lufeng Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "陆丰市"
             }
         }
@@ -46,7 +46,7 @@
         "code": "陆河县",
         "name": "Luhe Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "陆河县"
             }
         }

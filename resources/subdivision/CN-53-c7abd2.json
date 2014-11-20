@@ -7,7 +7,7 @@
         "code": "梁河县",
         "name": "Lianghe Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "梁河县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "陇川县",
         "name": "Longchuan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "陇川县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "潞西市",
         "name": "Luxi Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "潞西市"
             }
         }
@@ -46,7 +46,7 @@
         "code": "瑞丽市",
         "name": "Ruili Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "瑞丽市"
             }
         }
@@ -59,7 +59,7 @@
         "code": "盈江县",
         "name": "Yingjiang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "盈江县"
             }
         }

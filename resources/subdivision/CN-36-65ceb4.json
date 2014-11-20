@@ -7,7 +7,7 @@
         "code": "安义县",
         "name": "Anyi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "安义县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "东湖区",
         "name": "Donghu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "东湖区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "进贤县",
         "name": "Jinxian Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "进贤县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "南昌县",
         "name": "Nanchang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "南昌县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "青山湖区",
         "name": "Qingshanhu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "青山湖区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "青云谱区",
         "name": "Qingyunpu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "青云谱区"
             }
         }
@@ -85,7 +85,7 @@
         "code": "湾里区",
         "name": "Wanli Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "湾里区"
             }
         }
@@ -98,7 +98,7 @@
         "code": "西湖区",
         "name": "Xihu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "西湖区"
             }
         }
@@ -111,7 +111,7 @@
         "code": "新建县",
         "name": "Xinjian Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "新建县"
             }
         }

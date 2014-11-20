@@ -7,7 +7,7 @@
         "code": "安陆市",
         "name": "Anlu Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "安陆市"
             }
         }
@@ -20,7 +20,7 @@
         "code": "大悟县",
         "name": "Dawu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "大悟县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "汉川市",
         "name": "Hanchuan Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "汉川市"
             }
         }
@@ -46,7 +46,7 @@
         "code": "孝昌县",
         "name": "Xiaochang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "孝昌县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "孝南区",
         "name": "Xiaonan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "孝南区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "应城市",
         "name": "Yingcheng Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "应城市"
             }
         }
@@ -85,7 +85,7 @@
         "code": "云梦县",
         "name": "Yunmeng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "云梦县"
             }
         }

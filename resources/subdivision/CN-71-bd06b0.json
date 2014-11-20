@@ -8,7 +8,7 @@
         "name": "Anding Township",
         "postal_code_pattern": "745",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "安定鄉"
             }
         }
@@ -22,7 +22,7 @@
         "name": "Baihe Township",
         "postal_code_pattern": "732",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "白河鎮"
             }
         }
@@ -36,7 +36,7 @@
         "name": "Beimen Township",
         "postal_code_pattern": "727",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "北門鄉"
             }
         }
@@ -50,7 +50,7 @@
         "name": "Danei Township",
         "postal_code_pattern": "742",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "大內鄉"
             }
         }
@@ -64,7 +64,7 @@
         "name": "Dongshan Township",
         "postal_code_pattern": "733",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "東山鄉"
             }
         }
@@ -78,7 +78,7 @@
         "name": "Guantian Township",
         "postal_code_pattern": "720",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "官田鄉"
             }
         }
@@ -92,7 +92,7 @@
         "name": "Guanmiao Township",
         "postal_code_pattern": "718",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "關廟鄉"
             }
         }
@@ -106,7 +106,7 @@
         "name": "Gueiren Township",
         "postal_code_pattern": "711",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "歸仁鄉"
             }
         }
@@ -120,7 +120,7 @@
         "name": "Houbi Township",
         "postal_code_pattern": "731",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "後壁鄉"
             }
         }
@@ -134,7 +134,7 @@
         "name": "Jiali Township",
         "postal_code_pattern": "722",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "佳里鎮"
             }
         }
@@ -148,7 +148,7 @@
         "name": "Jiangjyun Township",
         "postal_code_pattern": "725",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "將軍鄉"
             }
         }
@@ -162,7 +162,7 @@
         "name": "Liouying Township",
         "postal_code_pattern": "736",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "柳營鄉"
             }
         }
@@ -176,7 +176,7 @@
         "name": "Lioujia Township",
         "postal_code_pattern": "734",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "六甲鄉"
             }
         }
@@ -190,7 +190,7 @@
         "name": "Longci Township",
         "postal_code_pattern": "719",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "龍崎鄉"
             }
         }
@@ -204,7 +204,7 @@
         "name": "Madou Township",
         "postal_code_pattern": "721",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "麻豆鎮"
             }
         }
@@ -218,7 +218,7 @@
         "name": "Nanhua Township",
         "postal_code_pattern": "716",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "南化鄉"
             }
         }
@@ -232,7 +232,7 @@
         "name": "Nansi Township",
         "postal_code_pattern": "715",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "楠西鄉"
             }
         }
@@ -246,7 +246,7 @@
         "name": "Cigu Township",
         "postal_code_pattern": "724",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "七股鄉"
             }
         }
@@ -260,7 +260,7 @@
         "name": "Rende Township",
         "postal_code_pattern": "717",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "仁德鄉"
             }
         }
@@ -274,7 +274,7 @@
         "name": "Shanshang Township",
         "postal_code_pattern": "743",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "山上鄉"
             }
         }
@@ -288,7 +288,7 @@
         "name": "Shanhua Township",
         "postal_code_pattern": "741",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "善化鎮"
             }
         }
@@ -302,7 +302,7 @@
         "name": "Sigang Township",
         "postal_code_pattern": "723",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "西港鄉"
             }
         }
@@ -316,7 +316,7 @@
         "name": "Siaying Township",
         "postal_code_pattern": "735",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "下營鄉"
             }
         }
@@ -330,7 +330,7 @@
         "name": "Sinhua Township",
         "postal_code_pattern": "712",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "新化鎮"
             }
         }
@@ -344,7 +344,7 @@
         "name": "Sinshih Township",
         "postal_code_pattern": "744",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "新市鄉"
             }
         }
@@ -358,7 +358,7 @@
         "name": "Sinying City",
         "postal_code_pattern": "730",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "新營市"
             }
         }
@@ -372,7 +372,7 @@
         "name": "Syuejia Township",
         "postal_code_pattern": "726",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "學甲鎮"
             }
         }
@@ -386,7 +386,7 @@
         "name": "Yanshuei Township",
         "postal_code_pattern": "737",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "鹽水鎮"
             }
         }
@@ -400,7 +400,7 @@
         "name": "Yongkang City",
         "postal_code_pattern": "710",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "永康市"
             }
         }
@@ -414,7 +414,7 @@
         "name": "Yujing Township",
         "postal_code_pattern": "714",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "玉井鄉"
             }
         }
@@ -428,7 +428,7 @@
         "name": "Zuojhen Township",
         "postal_code_pattern": "713",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "左鎮鄉"
             }
         }

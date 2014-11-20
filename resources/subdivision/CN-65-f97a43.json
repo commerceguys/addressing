@@ -7,7 +7,7 @@
         "code": "阿勒泰市",
         "name": "Aleitai Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "阿勒泰市"
             }
         }
@@ -20,7 +20,7 @@
         "code": "布尔津县",
         "name": "Burqin Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "布尔津县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "福海县",
         "name": "Fuhai Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "福海县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "富蕴县",
         "name": "Fuyun Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "富蕴县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "哈巴河县",
         "name": "Habahe Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "哈巴河县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "吉木乃县",
         "name": "Jeminay Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "吉木乃县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "青河县",
         "name": "Qinghe Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "青河县"
             }
         }

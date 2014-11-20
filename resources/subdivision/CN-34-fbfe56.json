@@ -7,7 +7,7 @@
         "code": "含山县",
         "name": "Hanshan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "含山县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "和县",
         "name": "He Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "和县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "居巢区",
         "name": "Juchao Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "居巢区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "庐江县",
         "name": "Lujiang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "庐江县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "无为县",
         "name": "Wuwei Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "无为县"
             }
         }

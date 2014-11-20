@@ -7,7 +7,7 @@
         "code": "曹县",
         "name": "Cao Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "曹县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "成武县",
         "name": "Chengwu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "成武县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "单县",
         "name": "Shan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "单县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "定陶县",
         "name": "Dingtao Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "定陶县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "东明县",
         "name": "Dongming Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "东明县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "巨野县",
         "name": "Juye Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "巨野县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "鄄城县",
         "name": "Juancheng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "鄄城县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "牡丹区",
         "name": "Mudan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "牡丹区"
             }
         }
@@ -111,7 +111,7 @@
         "code": "郓城县",
         "name": "Yuncheng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "郓城县"
             }
         }

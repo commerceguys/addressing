@@ -7,7 +7,7 @@
         "code": "安仁县",
         "name": "Anren Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "安仁县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "北湖区",
         "name": "Beihu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "北湖区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "桂东县",
         "name": "Guidong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "桂东县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "桂阳县",
         "name": "Guiyang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "桂阳县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "嘉禾县",
         "name": "Jiahe Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "嘉禾县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "临武县",
         "name": "Linwu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "临武县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "汝城县",
         "name": "Rucheng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "汝城县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "苏仙区",
         "name": "Suxian Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "苏仙区"
             }
         }
@@ -111,7 +111,7 @@
         "code": "宜章县",
         "name": "Yizhang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "宜章县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "永兴县",
         "name": "Yongxing Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "永兴县"
             }
         }
@@ -137,7 +137,7 @@
         "code": "资兴市",
         "name": "Zixing Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "资兴市"
             }
         }

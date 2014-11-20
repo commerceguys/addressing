@@ -7,7 +7,7 @@
         "code": "八道江区",
         "name": "Badaojiang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "八道江区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "抚松县",
         "name": "Fusong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "抚松县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "江源区",
         "name": "Jiangyuan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "江源区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "靖宇县",
         "name": "Jingyu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "靖宇县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "临江市",
         "name": "Linjiang Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "临江市"
             }
         }
@@ -72,7 +72,7 @@
         "code": "长白朝鲜族自治县",
         "name": "Changbai Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "长白县"
             }
         }

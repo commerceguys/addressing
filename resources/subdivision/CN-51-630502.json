@@ -7,7 +7,7 @@
         "code": "巴州区",
         "name": "Bazhou Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "巴州区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "南江县",
         "name": "Nanjiang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "南江县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "平昌县",
         "name": "Pingchang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "平昌县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "通江县",
         "name": "Tongjiang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "通江县"
             }
         }

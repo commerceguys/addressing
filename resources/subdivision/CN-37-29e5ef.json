@@ -7,7 +7,7 @@
         "code": "环翠区",
         "name": "Huancui Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "环翠区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "荣成市",
         "name": "Rongcheng Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "荣成市"
             }
         }
@@ -33,7 +33,7 @@
         "code": "乳山市",
         "name": "Rushan Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "乳山市"
             }
         }
@@ -46,7 +46,7 @@
         "code": "文登市",
         "name": "Wendeng Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "文登市"
             }
         }

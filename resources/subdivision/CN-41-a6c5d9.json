@@ -7,7 +7,7 @@
         "code": "安阳县",
         "name": "Anyang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "安阳县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "北关区",
         "name": "Beiguan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "北关区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "滑县",
         "name": "Hua Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "滑县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "林州市",
         "name": "Linzhou Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "林州市"
             }
         }
@@ -59,7 +59,7 @@
         "code": "龙安区",
         "name": "Long'an Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "龙安区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "内黄县",
         "name": "Neihuang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "内黄县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "汤阴县",
         "name": "Tangyin Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "汤阴县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "文峰区",
         "name": "Wenfeng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "文峰区"
             }
         }
@@ -111,7 +111,7 @@
         "code": "殷都区",
         "name": "Yindou Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "殷都区"
             }
         }

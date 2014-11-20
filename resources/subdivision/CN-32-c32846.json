@@ -7,7 +7,7 @@
         "code": "常熟市",
         "name": "Changshu Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "常熟市"
             }
         }
@@ -20,7 +20,7 @@
         "code": "姑苏区",
         "name": "Gusu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "姑苏区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "虎丘区",
         "name": "Huqiu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "虎丘区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "昆山市",
         "name": "Kunshan Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "昆山市"
             }
         }
@@ -59,7 +59,7 @@
         "code": "太仓市",
         "name": "Taicang Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "太仓市"
             }
         }
@@ -72,7 +72,7 @@
         "code": "吴江区",
         "name": "Wujiang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "吴江区"
             }
         }
@@ -85,7 +85,7 @@
         "code": "吴中区",
         "name": "Wuzhong Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "吴中区"
             }
         }
@@ -98,7 +98,7 @@
         "code": "相城区",
         "name": "Xiangcheng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "相城区"
             }
         }
@@ -111,7 +111,7 @@
         "code": "张家港市",
         "name": "Zhangjiagang Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "张家港市"
             }
         }

@@ -7,7 +7,7 @@
         "code": "东昌区",
         "name": "Dongchang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "东昌区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "二道江区",
         "name": "Erdaojiang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "二道江区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "辉南县",
         "name": "Huinan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "辉南县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "集安市",
         "name": "Ji'an Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "集安市"
             }
         }
@@ -59,7 +59,7 @@
         "code": "柳河县",
         "name": "Liuhe Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "柳河县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "梅河口市",
         "name": "Meihekou Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "梅河口市"
             }
         }
@@ -85,7 +85,7 @@
         "code": "通化县",
         "name": "Tonghua Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "通化县"
             }
         }

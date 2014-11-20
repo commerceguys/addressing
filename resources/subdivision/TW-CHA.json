@@ -5,7 +5,7 @@
         "parent_id": "TW-CHA",
         "id": "TW-CHA-4f17b3",
         "code": "二水鄉",
-        "name": "Ershuei Township",
+        "name": "Ershui Township",
         "postal_code_pattern": "530",
         "translations": {
             "zh-hant": {
@@ -89,7 +89,7 @@
         "parent_id": "TW-CHA",
         "id": "TW-CHA-69ab91",
         "code": "田中鎮",
-        "name": "Tianjhong Township",
+        "name": "Tianzhong Township",
         "postal_code_pattern": "520",
         "translations": {
             "zh-hant": {
@@ -117,7 +117,7 @@
         "parent_id": "TW-CHA",
         "id": "TW-CHA-1b2599",
         "code": "竹塘鄉",
-        "name": "Jhutang Township",
+        "name": "Zhutang Township",
         "postal_code_pattern": "525",
         "translations": {
             "zh-hant": {
@@ -145,7 +145,7 @@
         "parent_id": "TW-CHA",
         "id": "TW-CHA-4550cc",
         "code": "秀水鄉",
-        "name": "Sioushuei Township",
+        "name": "Xiushui Township",
         "postal_code_pattern": "504",
         "translations": {
             "zh-hant": {
@@ -243,7 +243,7 @@
         "parent_id": "TW-CHA",
         "id": "TW-CHA-dbea40",
         "code": "埔心鄉",
-        "name": "Pusin Township",
+        "name": "Puxin Township",
         "postal_code_pattern": "513",
         "translations": {
             "zh-hant": {
@@ -285,7 +285,7 @@
         "parent_id": "TW-CHA",
         "id": "TW-CHA-9c90e2",
         "code": "鹿港鎮",
-        "name": "Lugang Township",
+        "name": "Lukang Township",
         "postal_code_pattern": "505",
         "translations": {
             "zh-hant": {
@@ -299,7 +299,7 @@
         "parent_id": "TW-CHA",
         "id": "TW-CHA-6e4eff",
         "code": "溪州鄉",
-        "name": "Sijhou Township",
+        "name": "Xizhou Township",
         "postal_code_pattern": "524",
         "translations": {
             "zh-hant": {
@@ -313,7 +313,7 @@
         "parent_id": "TW-CHA",
         "id": "TW-CHA-8e9309",
         "code": "溪湖鎮",
-        "name": "Sihu Township",
+        "name": "Xihu Township",
         "postal_code_pattern": "514",
         "translations": {
             "zh-hant": {
@@ -341,7 +341,7 @@
         "parent_id": "TW-CHA",
         "id": "TW-CHA-1e2d14",
         "code": "福興鄉",
-        "name": "Fusing Township",
+        "name": "Fuxing Township",
         "postal_code_pattern": "506",
         "translations": {
             "zh-hant": {
@@ -355,7 +355,7 @@
         "parent_id": "TW-CHA",
         "id": "TW-CHA-7f9421",
         "code": "線西鄉",
-        "name": "Siansi Township",
+        "name": "Xianxi Township",
         "postal_code_pattern": "507",
         "translations": {
             "zh-hant": {

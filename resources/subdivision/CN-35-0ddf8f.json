@@ -7,7 +7,7 @@
         "code": "海沧区",
         "name": "Haicang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "海沧区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "湖里区",
         "name": "Huli Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "湖里区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "集美区",
         "name": "Jimei Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "集美区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "思明区",
         "name": "Siming Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "思明区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "同安区",
         "name": "Tong'an Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "同安区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "翔安区",
         "name": "Xiang'an Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "翔安区"
             }
         }

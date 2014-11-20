@@ -7,7 +7,7 @@
         "code": "达坂城区",
         "name": "Dabancheng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "达坂城区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "米东区",
         "name": "Midong Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "米东区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "沙依巴克区",
         "name": "Saybagh Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "沙依巴克区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "水磨沟区",
         "name": "Shuimogou Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "水磨沟区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "天山区",
         "name": "Tianshan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "天山区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "头屯河区",
         "name": "Toutunhe Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "头屯河区"
             }
         }
@@ -85,7 +85,7 @@
         "code": "乌鲁木齐县",
         "name": "Ürümqi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "乌鲁木齐县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "新市区",
         "name": "Xinshi Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "新市区"
             }
         }

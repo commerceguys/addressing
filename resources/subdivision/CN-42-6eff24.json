@@ -7,7 +7,7 @@
         "code": "蔡甸区",
         "name": "Caidian Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "蔡甸区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "东西湖区",
         "name": "Dongxihu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "东西湖区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "汉南区",
         "name": "Hannan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "汉南区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "汉阳区",
         "name": "Hanyang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "汉阳区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "洪山区",
         "name": "Hongshan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "洪山区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "黄陂区",
         "name": "Huangpi Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "黄陂区"
             }
         }
@@ -85,7 +85,7 @@
         "code": "江岸区",
         "name": "Jiang'an Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "江岸区"
             }
         }
@@ -98,7 +98,7 @@
         "code": "江汉区",
         "name": "Jianghan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "江汉区"
             }
         }
@@ -111,7 +111,7 @@
         "code": "江夏区",
         "name": "Jiangxia Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "江夏区"
             }
         }
@@ -124,7 +124,7 @@
         "code": "硚口区",
         "name": "Qiaokou Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "硚口区"
             }
         }
@@ -137,7 +137,7 @@
         "code": "青山区",
         "name": "Qingshan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "青山区"
             }
         }
@@ -150,7 +150,7 @@
         "code": "武昌区",
         "name": "Wuchang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "武昌区"
             }
         }
@@ -163,7 +163,7 @@
         "code": "新洲区",
         "name": "Xinzhou Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "新洲区"
             }
         }

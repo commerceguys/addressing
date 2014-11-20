@@ -8,7 +8,7 @@
         "name": "Puli Township",
         "postal_code_pattern": "545",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "埔里鎮"
             }
         }
@@ -22,7 +22,7 @@
         "name": "Caotun Township",
         "postal_code_pattern": "542",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "草屯鎮"
             }
         }
@@ -36,7 +36,7 @@
         "name": "Guosing Township",
         "postal_code_pattern": "544",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "國姓鄉"
             }
         }
@@ -50,7 +50,7 @@
         "name": "Jiji Township",
         "postal_code_pattern": "552",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "集集鎮"
             }
         }
@@ -64,7 +64,7 @@
         "name": "Lugu Township",
         "postal_code_pattern": "558",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "鹿谷鄉"
             }
         }
@@ -78,7 +78,7 @@
         "name": "Mingjian Township",
         "postal_code_pattern": "551",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "名間鄉"
             }
         }
@@ -92,7 +92,7 @@
         "name": "Nantou City",
         "postal_code_pattern": "540",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "南投市"
             }
         }
@@ -106,7 +106,7 @@
         "name": "Ren-ai Township",
         "postal_code_pattern": "546",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "仁愛鄉"
             }
         }
@@ -120,7 +120,7 @@
         "name": "Shueili Township",
         "postal_code_pattern": "553",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "水里鄉"
             }
         }
@@ -134,7 +134,7 @@
         "name": "Sinyi Township",
         "postal_code_pattern": "556",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "信義鄉"
             }
         }
@@ -148,7 +148,7 @@
         "name": "Yuchih Township",
         "postal_code_pattern": "555",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "魚池鄉"
             }
         }
@@ -162,7 +162,7 @@
         "name": "Jhongliao Township",
         "postal_code_pattern": "541",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "中寮鄉"
             }
         }
@@ -176,7 +176,7 @@
         "name": "Jhushan Township",
         "postal_code_pattern": "557",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "竹山鎮"
             }
         }

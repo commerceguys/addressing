@@ -7,7 +7,7 @@
         "code": "禅城区",
         "name": "Shancheng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "禅城区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "高明区",
         "name": "Gaoming Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "高明区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "南海区",
         "name": "Nanhai Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "南海区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "三水区",
         "name": "Sanshui Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "三水区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "顺德区",
         "name": "Shunde Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "顺德区"
             }
         }

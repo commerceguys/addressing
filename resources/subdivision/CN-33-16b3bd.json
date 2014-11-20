@@ -7,7 +7,7 @@
         "code": "滨江区",
         "name": "Binjiang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "滨江区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "淳安县",
         "name": "Chun'an Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "淳安县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "富阳市",
         "name": "Fuyang Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "富阳市"
             }
         }
@@ -46,7 +46,7 @@
         "code": "拱墅区",
         "name": "Gongshu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "拱墅区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "建德市",
         "name": "Jiande Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "建德市"
             }
         }
@@ -72,7 +72,7 @@
         "code": "江干区",
         "name": "Jianggan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "江干区"
             }
         }
@@ -85,7 +85,7 @@
         "code": "临安市",
         "name": "Lin'an Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "临安市"
             }
         }
@@ -98,7 +98,7 @@
         "code": "上城区",
         "name": "Shangcheng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "上城区"
             }
         }
@@ -111,7 +111,7 @@
         "code": "桐庐县",
         "name": "Tonglu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "桐庐县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "西湖区",
         "name": "Xihu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "西湖区"
             }
         }
@@ -137,7 +137,7 @@
         "code": "下城区",
         "name": "Xiacheng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "下城区"
             }
         }
@@ -150,7 +150,7 @@
         "code": "萧山区",
         "name": "Xiaoshan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "萧山区"
             }
         }
@@ -163,7 +163,7 @@
         "code": "余杭区",
         "name": "Yuhang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "余杭区"
             }
         }

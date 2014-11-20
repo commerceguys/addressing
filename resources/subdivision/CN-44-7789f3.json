@@ -7,7 +7,7 @@
         "code": "宝安区",
         "name": "Bao'an Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "宝安区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "福田区",
         "name": "Futian Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "福田区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "龙岗区",
         "name": "Longgang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "龙岗区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "罗湖区",
         "name": "Luohu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "罗湖区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "南山区",
         "name": "Nanshan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "南山区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "盐田区",
         "name": "Yantian Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "盐田区"
             }
         }

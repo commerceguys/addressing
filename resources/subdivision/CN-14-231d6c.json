@@ -7,7 +7,7 @@
         "code": "城区",
         "name": "Cheng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "城区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "壶关县",
         "name": "Huguan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "壶关县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "郊区",
         "name": "Jiao Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "郊区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "黎城县",
         "name": "Licheng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "黎城县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "潞城市",
         "name": "Lucheng Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "潞城市"
             }
         }
@@ -72,7 +72,7 @@
         "code": "平顺县",
         "name": "Pingshun Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "平顺县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "沁县",
         "name": "Qin Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "沁县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "沁源县",
         "name": "Qinyuan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "沁源县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "屯留县",
         "name": "Tunliu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "屯留县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "武乡县",
         "name": "Wuxiang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "武乡县"
             }
         }
@@ -137,7 +137,7 @@
         "code": "襄垣县",
         "name": "Xiangyuan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "襄垣县"
             }
         }
@@ -150,7 +150,7 @@
         "code": "长治县",
         "name": "Changzhi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "长治县"
             }
         }
@@ -163,7 +163,7 @@
         "code": "长子县",
         "name": "Zhangzi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "长子县"
             }
         }

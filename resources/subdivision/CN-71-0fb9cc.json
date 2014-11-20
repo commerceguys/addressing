@@ -8,7 +8,7 @@
         "name": "Baoshan Township",
         "postal_code_pattern": "308",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "寶山鄉"
             }
         }
@@ -22,7 +22,7 @@
         "name": "Beipu Township",
         "postal_code_pattern": "314",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "北埔鄉"
             }
         }
@@ -36,7 +36,7 @@
         "name": "Emei Township",
         "postal_code_pattern": "315",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "峨眉鄉"
             }
         }
@@ -50,7 +50,7 @@
         "name": "Guansi Township",
         "postal_code_pattern": "306",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "關西鎮"
             }
         }
@@ -64,7 +64,7 @@
         "name": "Hengshan Township",
         "postal_code_pattern": "312",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "橫山鄉"
             }
         }
@@ -78,7 +78,7 @@
         "name": "Hukou Township",
         "postal_code_pattern": "303",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "湖口鄉"
             }
         }
@@ -92,7 +92,7 @@
         "name": "Jianshih Township",
         "postal_code_pattern": "313",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "尖石鄉"
             }
         }
@@ -106,7 +106,7 @@
         "name": "Cyonglin Township",
         "postal_code_pattern": "307",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "芎林鄉"
             }
         }
@@ -120,7 +120,7 @@
         "name": "Wufong Township",
         "postal_code_pattern": "311",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "五峰鄉"
             }
         }
@@ -134,7 +134,7 @@
         "name": "Sinpu Township",
         "postal_code_pattern": "305",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "新埔鎮"
             }
         }
@@ -148,7 +148,7 @@
         "name": "Sinfong Township",
         "postal_code_pattern": "304",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "新豐鄉"
             }
         }
@@ -162,7 +162,7 @@
         "name": "Jhubei City",
         "postal_code_pattern": "302",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "竹北市"
             }
         }
@@ -176,7 +176,7 @@
         "name": "Jhudong Township",
         "postal_code_pattern": "310",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "竹東鎮"
             }
         }

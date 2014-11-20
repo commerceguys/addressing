@@ -1,0 +1,93 @@
+{
+    "AE-AZ": {
+        "locale": "ar-Latn",
+        "country_code": "AE",
+        "parent_id": null,
+        "id": "AE-AZ",
+        "code": "أبو ظبي",
+        "name": "Abu Dhabi",
+        "translations": {
+            "ar": {
+                "name": "أبو ظبي"
+            }
+        }
+    },
+    "AE-SH": {
+        "locale": "ar-Latn",
+        "country_code": "AE",
+        "parent_id": null,
+        "id": "AE-SH",
+        "code": "إمارة الشارقةّ",
+        "name": "Sharjah",
+        "translations": {
+            "ar": {
+                "name": "إمارة الشارقةّ"
+            }
+        }
+    },
+    "AE-DU": {
+        "locale": "ar-Latn",
+        "country_code": "AE",
+        "parent_id": null,
+        "id": "AE-DU",
+        "code": "إمارة دبيّ",
+        "name": "Dubai",
+        "translations": {
+            "ar": {
+                "name": "إمارة دبيّ"
+            }
+        }
+    },
+    "AE-RK": {
+        "locale": "ar-Latn",
+        "country_code": "AE",
+        "parent_id": null,
+        "id": "AE-RK",
+        "code": "إمارة رأس الخيمة",
+        "name": "Ras al Khaimah",
+        "translations": {
+            "ar": {
+                "name": "إمارة رأس الخيمة"
+            }
+        }
+    },
+    "AE-FU": {
+        "locale": "ar-Latn",
+        "country_code": "AE",
+        "parent_id": null,
+        "id": "AE-FU",
+        "code": "الفجيرة",
+        "name": "Fujairah",
+        "translations": {
+            "ar": {
+                "name": "الفجيرة"
+            }
+        }
+    },
+    "AE-UQ": {
+        "locale": "ar-Latn",
+        "country_code": "AE",
+        "parent_id": null,
+        "id": "AE-UQ",
+        "code": "ام القيوين",
+        "name": "Umm Al Quwain",
+        "translations": {
+            "ar": {
+                "name": "ام القيوين"
+            }
+        }
+    },
+    "AE-AJ": {
+        "locale": "ar-Latn",
+        "country_code": "AE",
+        "parent_id": null,
+        "id": "AE-AJ",
+        "code": "عجمان",
+        "name": "Ajmān",
+        "translations": {
+            "ar": {
+                "name": "عجمان"
+            }
+        }
+    }
+}

@@ -7,7 +7,7 @@
         "code": "鼓楼区",
         "name": "Gulou Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "鼓楼区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "金明区",
         "name": "Jinming Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "金明区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "开封县",
         "name": "Kaifeng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "开封县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "兰考县",
         "name": "Lankao Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "兰考县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "龙亭区",
         "name": "Longting Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "龙亭区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "杞县",
         "name": "Qi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "杞县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "顺河回族区",
         "name": "Shunhe Huizu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "顺河回族区"
             }
         }
@@ -98,7 +98,7 @@
         "code": "通许县",
         "name": "Tongxu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "通许县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "尉氏县",
         "name": "Weishi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "尉氏县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "禹王台区",
         "name": "Yuwangtai Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "禹王台区"
             }
         }

@@ -7,7 +7,7 @@
         "code": "策勒县",
         "name": "Qira Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "策勒县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "和田市",
         "name": "Hotan Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "和田市"
             }
         }
@@ -33,7 +33,7 @@
         "code": "和田县",
         "name": "Hotan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "和田县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "洛浦县",
         "name": "Lop Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "洛浦县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "民丰县",
         "name": "Minfeng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "民丰县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "墨玉县",
         "name": "Moyu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "墨玉县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "皮山县",
         "name": "Pishan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "皮山县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "于田县",
         "name": "Yutian Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "于田县"
             }
         }

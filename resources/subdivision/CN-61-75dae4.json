@@ -7,7 +7,7 @@
         "code": "王益区",
         "name": "Wangyi Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "王益区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "耀州区",
         "name": "Yaozhou Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "耀州区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "宜君县",
         "name": "Yijun Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "宜君县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "印台区",
         "name": "Yintai Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "印台区"
             }
         }

@@ -7,7 +7,7 @@
         "code": "潮南区",
         "name": "Chaonan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "潮南区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "潮阳区",
         "name": "Chaoyang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "潮阳区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "澄海区",
         "name": "Chenghai Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "澄海区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "濠江区",
         "name": "Haojiang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "濠江区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "金平区",
         "name": "Jinping Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "金平区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "龙湖区",
         "name": "Longhu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "龙湖区"
             }
         }
@@ -85,7 +85,7 @@
         "code": "南澳县",
         "name": "Nan'ao Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "南澳县"
             }
         }

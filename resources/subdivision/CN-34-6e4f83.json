@@ -7,7 +7,7 @@
         "code": "杜集区",
         "name": "Duji Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "杜集区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "烈山区",
         "name": "Lieshan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "烈山区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "濉溪县",
         "name": "Suixi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "濉溪县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "相山区",
         "name": "Xiangshan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "相山区"
             }
         }

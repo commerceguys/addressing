@@ -5,7 +5,7 @@
         "parent_id": "TW-HSQ",
         "id": "TW-HSQ-55f6e5",
         "code": "五峰鄉",
-        "name": "Wufong Township",
+        "name": "Wufeng Township",
         "postal_code_pattern": "311",
         "translations": {
             "zh-hant": {
@@ -33,7 +33,7 @@
         "parent_id": "TW-HSQ",
         "id": "TW-HSQ-a7f28a",
         "code": "尖石鄉",
-        "name": "Jianshih Township",
+        "name": "Jianshi Township",
         "postal_code_pattern": "313",
         "translations": {
             "zh-hant": {
@@ -47,7 +47,7 @@
         "parent_id": "TW-HSQ",
         "id": "TW-HSQ-0e5e48",
         "code": "竹北市",
-        "name": "Jhubei City",
+        "name": "Zhubei City",
         "postal_code_pattern": "302",
         "translations": {
             "zh-hant": {
@@ -61,7 +61,7 @@
         "parent_id": "TW-HSQ",
         "id": "TW-HSQ-28e21f",
         "code": "竹東鎮",
-        "name": "Jhudong Township",
+        "name": "Zhudong Township",
         "postal_code_pattern": "310",
         "translations": {
             "zh-hant": {
@@ -75,7 +75,7 @@
         "parent_id": "TW-HSQ",
         "id": "TW-HSQ-0830db",
         "code": "芎林鄉",
-        "name": "Cyonglin Township",
+        "name": "Qionglin Township",
         "postal_code_pattern": "307",
         "translations": {
             "zh-hant": {
@@ -117,7 +117,7 @@
         "parent_id": "TW-HSQ",
         "id": "TW-HSQ-efecec",
         "code": "新埔鎮",
-        "name": "Sinpu Township",
+        "name": "Xinpu Township",
         "postal_code_pattern": "305",
         "translations": {
             "zh-hant": {
@@ -131,7 +131,7 @@
         "parent_id": "TW-HSQ",
         "id": "TW-HSQ-55b802",
         "code": "新豐鄉",
-        "name": "Sinfong Township",
+        "name": "Xinfeng Township",
         "postal_code_pattern": "304",
         "translations": {
             "zh-hant": {

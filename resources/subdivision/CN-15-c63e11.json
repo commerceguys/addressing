@@ -7,7 +7,7 @@
         "code": "阿尔山市",
         "name": "Arxan Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "阿尔山市"
             }
         }
@@ -20,7 +20,7 @@
         "code": "科尔沁右翼前旗",
         "name": "Horqin Youyi Qianqi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "科尔沁右翼前旗"
             }
         }
@@ -33,7 +33,7 @@
         "code": "科尔沁右翼中旗",
         "name": "Horqin Youyi Zhongqi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "科尔沁右翼中旗"
             }
         }
@@ -46,7 +46,7 @@
         "code": "突泉县",
         "name": "Tuquan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "突泉县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "乌兰浩特市",
         "name": "Ulan Hot Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "乌兰浩特市"
             }
         }
@@ -72,7 +72,7 @@
         "code": "扎赉特旗",
         "name": "Jalaid Qi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "扎赉特旗"
             }
         }

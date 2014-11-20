@@ -7,7 +7,7 @@
         "code": "安丘市",
         "name": "Anqiu Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "安丘市"
             }
         }
@@ -20,7 +20,7 @@
         "code": "昌乐县",
         "name": "Changle Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "昌乐县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "昌邑市",
         "name": "Changyi Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "昌邑市"
             }
         }
@@ -46,7 +46,7 @@
         "code": "坊子区",
         "name": "Fangzi Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "坊子区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "高密市",
         "name": "Gaomi Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "高密市"
             }
         }
@@ -72,7 +72,7 @@
         "code": "寒亭区",
         "name": "Hanting Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "寒亭区"
             }
         }
@@ -85,7 +85,7 @@
         "code": "奎文区",
         "name": "Kuiwen Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "奎文区"
             }
         }
@@ -98,7 +98,7 @@
         "code": "临朐县",
         "name": "Linqu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "临朐县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "青州市",
         "name": "Qingzhou Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "青州市"
             }
         }
@@ -124,7 +124,7 @@
         "code": "寿光市",
         "name": "Shouguang Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "寿光市"
             }
         }
@@ -137,7 +137,7 @@
         "code": "潍城区",
         "name": "Weicheng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "潍城区"
             }
         }
@@ -150,7 +150,7 @@
         "code": "诸城市",
         "name": "Zhucheng Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "诸城市"
             }
         }

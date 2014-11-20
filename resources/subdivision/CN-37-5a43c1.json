@@ -7,7 +7,7 @@
         "code": "茌平县",
         "name": "Chiping Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "茌平县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "东阿县",
         "name": "Dong'e Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "东阿县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "东昌府区",
         "name": "Dongchangfu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "东昌府区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "高唐县",
         "name": "Gaotang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "高唐县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "冠县",
         "name": "Guan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "冠县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "临清市",
         "name": "Linqing Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "临清市"
             }
         }
@@ -85,7 +85,7 @@
         "code": "莘县",
         "name": "Shen Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "莘县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "阳谷县",
         "name": "Yanggu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "阳谷县"
             }
         }

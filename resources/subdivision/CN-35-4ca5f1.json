@@ -7,7 +7,7 @@
         "code": "大田县",
         "name": "Datian Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "大田县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "建宁县",
         "name": "Jianning Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "建宁县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "将乐县",
         "name": "Jiangle Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "将乐县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "梅列区",
         "name": "Meilie Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "梅列区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "明溪县",
         "name": "Mingxi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "明溪县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "宁化县",
         "name": "Ninghua Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "宁化县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "清流县",
         "name": "Qingliu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "清流县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "三元区",
         "name": "Sanyuan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "三元区"
             }
         }
@@ -111,7 +111,7 @@
         "code": "沙县",
         "name": "Sha Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "沙县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "泰宁县",
         "name": "Taining Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "泰宁县"
             }
         }
@@ -137,7 +137,7 @@
         "code": "永安市",
         "name": "Yong'an Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "永安市"
             }
         }
@@ -150,7 +150,7 @@
         "code": "尤溪县",
         "name": "Youxi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "尤溪县"
             }
         }

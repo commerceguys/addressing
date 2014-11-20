@@ -8,7 +8,7 @@
         "name": "Beinan Township",
         "postal_code_pattern": "954",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "卑南鄉"
             }
         }
@@ -22,7 +22,7 @@
         "name": "Chenggong Township",
         "postal_code_pattern": "961",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "成功鎮"
             }
         }
@@ -36,7 +36,7 @@
         "name": "Chihshang Township",
         "postal_code_pattern": "958",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "池上鄉"
             }
         }
@@ -50,7 +50,7 @@
         "name": "Daren Township",
         "postal_code_pattern": "966",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "達仁鄉"
             }
         }
@@ -64,7 +64,7 @@
         "name": "Dawu Township",
         "postal_code_pattern": "965",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "大武鄉"
             }
         }
@@ -78,7 +78,7 @@
         "name": "Donghe Township",
         "postal_code_pattern": "959",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "東河鄉"
             }
         }
@@ -92,7 +92,7 @@
         "name": "Guanshan Township",
         "postal_code_pattern": "956",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "關山鎮"
             }
         }
@@ -106,7 +106,7 @@
         "name": "Haiduan Township",
         "postal_code_pattern": "957",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "海端鄉"
             }
         }
@@ -120,7 +120,7 @@
         "name": "Jinfong Township",
         "postal_code_pattern": "964",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "金峰鄉"
             }
         }
@@ -134,7 +134,7 @@
         "name": "Lanyu Township",
         "postal_code_pattern": "952",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "蘭嶼鄉"
             }
         }
@@ -148,7 +148,7 @@
         "name": "Luye Township",
         "postal_code_pattern": "955",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "鹿野鄉"
             }
         }
@@ -162,7 +162,7 @@
         "name": "Lyudao Township",
         "postal_code_pattern": "951",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "綠島鄉"
             }
         }
@@ -176,7 +176,7 @@
         "name": "Taitung City",
         "postal_code_pattern": "950",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "台東市"
             }
         }
@@ -190,7 +190,7 @@
         "name": "Taimali Township",
         "postal_code_pattern": "963",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "太麻里鄉"
             }
         }
@@ -204,7 +204,7 @@
         "name": "Yanping Township",
         "postal_code_pattern": "953",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "延平鄉"
             }
         }
@@ -218,7 +218,7 @@
         "name": "Changbin Township",
         "postal_code_pattern": "962",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "長濱鄉"
             }
         }

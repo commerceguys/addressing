@@ -7,7 +7,7 @@
         "code": "城北区",
         "name": "Chengbei Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "城北区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "城东区",
         "name": "Chengdong Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "城东区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "城西区",
         "name": "Chengxi Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "城西区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "城中区",
         "name": "Chengzhong Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "城中区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "大通回族土族自治县",
         "name": "Datong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "大通县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "湟源县",
         "name": "Huangyuan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "湟源县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "湟中县",
         "name": "Huangzhong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "湟中县"
             }
         }

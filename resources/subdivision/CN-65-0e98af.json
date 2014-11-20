@@ -7,7 +7,7 @@
         "code": "巴里坤哈萨克自治县",
         "name": "Barkol Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "巴里坤县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "哈密市",
         "name": "Hami Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "哈密市"
             }
         }
@@ -33,7 +33,7 @@
         "code": "伊吾县",
         "name": "Yiwu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "伊吾县"
             }
         }

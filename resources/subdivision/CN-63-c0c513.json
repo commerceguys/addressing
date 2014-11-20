@@ -7,7 +7,7 @@
         "code": "刚察县",
         "name": "Gangca Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "刚察县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "海晏县",
         "name": "Haiyan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "海晏县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "门源回族自治县",
         "name": "Menyuan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "门源县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "祁连县",
         "name": "Qilian Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "祁连县"
             }
         }

@@ -7,7 +7,7 @@
         "code": "苍南县",
         "name": "Cangnan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "苍南县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "洞头县",
         "name": "Dongtou Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "洞头县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "乐清市",
         "name": "Yueqing Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "乐清市"
             }
         }
@@ -46,7 +46,7 @@
         "code": "龙湾区",
         "name": "Longwan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "龙湾区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "鹿城区",
         "name": "Lucheng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "鹿城区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "瓯海区",
         "name": "Ouhai Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "瓯海区"
             }
         }
@@ -85,7 +85,7 @@
         "code": "平阳县",
         "name": "Pingyang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "平阳县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "瑞安市",
         "name": "Rui'an Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "瑞安市"
             }
         }
@@ -111,7 +111,7 @@
         "code": "泰顺县",
         "name": "Taishun Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "泰顺县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "文成县",
         "name": "Wencheng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "文成县"
             }
         }
@@ -137,7 +137,7 @@
         "code": "永嘉县",
         "name": "Yongjia Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "永嘉县"
             }
         }

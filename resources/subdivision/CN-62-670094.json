@@ -7,7 +7,7 @@
         "code": "阿克塞哈萨克族自治县",
         "name": "Aksay Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "阿克塞县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "敦煌市",
         "name": "Dunhuang Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "敦煌市"
             }
         }
@@ -33,7 +33,7 @@
         "code": "瓜州县",
         "name": "Guazhou Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "瓜州县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "金塔县",
         "name": "Jinta Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "金塔县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "肃北蒙古族自治县",
         "name": "Subei Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "肃北县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "肃州区",
         "name": "Suzhou Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "肃州区"
             }
         }
@@ -85,7 +85,7 @@
         "code": "玉门市",
         "name": "Yumen Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "玉门市"
             }
         }

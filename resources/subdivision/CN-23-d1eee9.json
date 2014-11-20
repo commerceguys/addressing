@@ -7,7 +7,7 @@
         "code": "阿城区",
         "name": "Acheng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "阿城区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "巴彦县",
         "name": "Bayan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "巴彦县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "宾县",
         "name": "Bin Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "宾县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "道里区",
         "name": "Daoli Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "道里区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "道外区",
         "name": "Daowai Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "道外区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "方正县",
         "name": "Fangzheng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "方正县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "呼兰区",
         "name": "Hulan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "呼兰区"
             }
         }
@@ -98,7 +98,7 @@
         "code": "木兰县",
         "name": "Mulan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "木兰县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "南岗区",
         "name": "Nangang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "南岗区"
             }
         }
@@ -124,7 +124,7 @@
         "code": "平房区",
         "name": "Pingfang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "平房区"
             }
         }
@@ -137,7 +137,7 @@
         "code": "尚志市",
         "name": "Shangzhi Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "尚志市"
             }
         }
@@ -150,7 +150,7 @@
         "code": "双城市",
         "name": "Shuangcheng Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "双城市"
             }
         }
@@ -163,7 +163,7 @@
         "code": "松北区",
         "name": "Sonbgei Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "松北区"
             }
         }
@@ -176,7 +176,7 @@
         "code": "通河县",
         "name": "Tonghe Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "通河县"
             }
         }
@@ -189,7 +189,7 @@
         "code": "五常市",
         "name": "Wuchang Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "五常市"
             }
         }
@@ -202,7 +202,7 @@
         "code": "香坊区",
         "name": "Xiangfang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "香坊区"
             }
         }
@@ -215,7 +215,7 @@
         "code": "延寿县",
         "name": "Yanshou Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "延寿县"
             }
         }
@@ -228,7 +228,7 @@
         "code": "依兰县",
         "name": "Yilan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "依兰县"
             }
         }

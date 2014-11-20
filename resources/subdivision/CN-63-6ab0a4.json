@@ -7,7 +7,7 @@
         "code": "班玛县",
         "name": "Baima Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "班玛县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "达日县",
         "name": "Tarlag Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "达日县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "甘德县",
         "name": "Gadê Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "甘德县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "久治县",
         "name": "Jigzhi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "久治县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "玛多县",
         "name": "Madoi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "玛多县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "玛沁县",
         "name": "Maqên Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "玛沁县"
             }
         }

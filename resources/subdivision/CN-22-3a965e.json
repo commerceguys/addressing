@@ -7,7 +7,7 @@
         "code": "公主岭市",
         "name": "Gongzhuling Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "公主岭市"
             }
         }
@@ -20,7 +20,7 @@
         "code": "梨树县",
         "name": "Lishu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "梨树县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "双辽市",
         "name": "Shuangliao Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "双辽市"
             }
         }
@@ -46,7 +46,7 @@
         "code": "铁东区",
         "name": "Tiedong Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "铁东区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "铁西区",
         "name": "Tiexi Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "铁西区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "伊通满族自治县",
         "name": "Yitong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "伊通县"
             }
         }

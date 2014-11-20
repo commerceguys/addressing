@@ -7,7 +7,7 @@
         "code": "迭部县",
         "name": "Têwo Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "迭部县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "合作市",
         "name": "Hezuo Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "合作市"
             }
         }
@@ -33,7 +33,7 @@
         "code": "临潭县",
         "name": "Lintan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "临潭县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "碌曲县",
         "name": "Luqu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "碌曲县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "玛曲县",
         "name": "Maqu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "玛曲县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "夏河县",
         "name": "Xiahe Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "夏河县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "舟曲县",
         "name": "Zhugqu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "舟曲县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "卓尼县",
         "name": "Jonê Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "卓尼县"
             }
         }

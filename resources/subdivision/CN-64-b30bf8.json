@@ -7,7 +7,7 @@
         "code": "贺兰县",
         "name": "Helan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "贺兰县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "金凤区",
         "name": "Jinfeng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "金凤区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "灵武市",
         "name": "Lingwu Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "灵武市"
             }
         }
@@ -46,7 +46,7 @@
         "code": "西夏区",
         "name": "Xixia Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "西夏区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "兴庆区",
         "name": "Xingqing Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "兴庆区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "永宁县",
         "name": "Yongning Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "永宁县"
             }
         }

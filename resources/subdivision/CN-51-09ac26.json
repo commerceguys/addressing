@@ -7,7 +7,7 @@
         "code": "巴塘县",
         "name": "Batang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "巴塘县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "白玉县",
         "name": "Baiyu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "白玉县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "丹巴县",
         "name": "Danba Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "丹巴县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "道孚县",
         "name": "Dawu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "道孚县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "稻城县",
         "name": "Daocheng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "稻城县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "得荣县",
         "name": "Dêrong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "得荣县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "德格县",
         "name": "Dêgê Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "德格县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "甘孜县",
         "name": "Garzê Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "甘孜县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "九龙县",
         "name": "Jiulong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "九龙县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "康定县",
         "name": "Kangding Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "康定县"
             }
         }
@@ -137,7 +137,7 @@
         "code": "理塘县",
         "name": "Litang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "理塘县"
             }
         }
@@ -150,7 +150,7 @@
         "code": "泸定县",
         "name": "Luding Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "泸定县"
             }
         }
@@ -163,7 +163,7 @@
         "code": "炉霍县",
         "name": "Luhuo Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "炉霍县"
             }
         }
@@ -176,7 +176,7 @@
         "code": "色达县",
         "name": "Sêrtar Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "色达县"
             }
         }
@@ -189,7 +189,7 @@
         "code": "石渠县",
         "name": "Sêrxü Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "石渠县"
             }
         }
@@ -202,7 +202,7 @@
         "code": "乡城县",
         "name": "Xiangcheng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "乡城县"
             }
         }
@@ -215,7 +215,7 @@
         "code": "新龙县",
         "name": "Xinlong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "新龙县"
             }
         }
@@ -228,7 +228,7 @@
         "code": "雅江县",
         "name": "Yajiang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "雅江县"
             }
         }

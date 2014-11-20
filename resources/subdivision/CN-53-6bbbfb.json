@@ -7,7 +7,7 @@
         "code": "富源县",
         "name": "Fuyuan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "富源县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "会泽县",
         "name": "Huize Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "会泽县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "陆良县",
         "name": "Luliang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "陆良县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "罗平县",
         "name": "Luoping Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "罗平县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "马龙县",
         "name": "Malong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "马龙县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "麒麟区",
         "name": "Qilin Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "麒麟区"
             }
         }
@@ -85,7 +85,7 @@
         "code": "师宗县",
         "name": "Shizong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "师宗县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "宣威市",
         "name": "Xuanwei Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "宣威市"
             }
         }
@@ -111,7 +111,7 @@
         "code": "沾益县",
         "name": "Zhanyi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "沾益县"
             }
         }

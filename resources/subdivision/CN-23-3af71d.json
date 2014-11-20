@@ -7,7 +7,7 @@
         "code": "昂昂溪区",
         "name": "Ang'angxi Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "昂昂溪区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "拜泉县",
         "name": "Baiquan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "拜泉县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "富拉尔基区",
         "name": "Hulan Ergi Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "富拉尔基区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "富裕县",
         "name": "Fuyu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "富裕县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "甘南县",
         "name": "Gannan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "甘南县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "建华区",
         "name": "Jianhua Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "建华区"
             }
         }
@@ -85,7 +85,7 @@
         "code": "克东县",
         "name": "Kedong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "克东县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "克山县",
         "name": "Keshan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "克山县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "龙江县",
         "name": "Longjiang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "龙江县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "龙沙区",
         "name": "Longsha Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "龙沙区"
             }
         }
@@ -137,7 +137,7 @@
         "code": "梅里斯达斡尔族区",
         "name": "Meilisi Daurzu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "梅里斯达斡尔族区"
             }
         }
@@ -150,7 +150,7 @@
         "code": "讷河市",
         "name": "Nehe Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "讷河市"
             }
         }
@@ -163,7 +163,7 @@
         "code": "碾子山区",
         "name": "Nianzishan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "碾子山区"
             }
         }
@@ -176,7 +176,7 @@
         "code": "泰来县",
         "name": "Tailai Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "泰来县"
             }
         }
@@ -189,7 +189,7 @@
         "code": "铁锋区",
         "name": "Tiefeng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "铁锋区"
             }
         }
@@ -202,7 +202,7 @@
         "code": "依安县",
         "name": "Yi'an Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "依安县"
             }
         }

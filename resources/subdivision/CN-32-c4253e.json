@@ -7,7 +7,7 @@
         "code": "沭阳县",
         "name": "Shuyang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "沭阳县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "泗洪县",
         "name": "Sihong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "泗洪县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "泗阳县",
         "name": "Siyang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "泗阳县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "宿城区",
         "name": "Sucheng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "宿城区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "宿豫区",
         "name": "Suyu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "宿豫区"
             }
         }

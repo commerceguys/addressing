@@ -7,7 +7,7 @@
         "code": "城区",
         "name": "Cheng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "城区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "郊区",
         "name": "Jiao Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "郊区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "矿区",
         "name": "Kuang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "矿区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "平定县",
         "name": "Pingding Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "平定县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "盂县",
         "name": "Yu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "盂县"
             }
         }

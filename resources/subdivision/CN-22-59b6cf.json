@@ -7,7 +7,7 @@
         "code": "东丰县",
         "name": "Dongfeng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "东丰县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "东辽县",
         "name": "Dongliao Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "东辽县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "龙山区",
         "name": "Longshan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "龙山区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "西安区",
         "name": "Xi'an Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "西安区"
             }
         }

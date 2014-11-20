@@ -7,7 +7,7 @@
         "code": "楚州区",
         "name": "Chuzhou Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "楚州区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "洪泽县",
         "name": "Hongze Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "洪泽县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "淮阴区",
         "name": "Huaiyin Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "淮阴区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "金湖县",
         "name": "Jinhu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "金湖县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "涟水县",
         "name": "Lianshui Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "涟水县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "清河区",
         "name": "Qinghe Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "清河区"
             }
         }
@@ -85,7 +85,7 @@
         "code": "清浦区",
         "name": "Qingpu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "清浦区"
             }
         }
@@ -98,7 +98,7 @@
         "code": "盱眙县",
         "name": "Xuyi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "盱眙县"
             }
         }

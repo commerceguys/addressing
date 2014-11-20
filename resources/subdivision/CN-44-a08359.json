@@ -7,7 +7,7 @@
         "code": "潮安县",
         "name": "Chao'an Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "潮安县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "饶平县",
         "name": "Raoping Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "饶平县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "湘桥区",
         "name": "Xiangqiao Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "湘桥区"
             }
         }

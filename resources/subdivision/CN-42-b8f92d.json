@@ -7,7 +7,7 @@
         "code": "当阳市",
         "name": "Dangyang Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "当阳市"
             }
         }
@@ -20,7 +20,7 @@
         "code": "点军区",
         "name": "Dianjun Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "点军区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "五峰土家族自治县",
         "name": "Wufeng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "五峰县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "伍家岗区",
         "name": "Wujiagang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "伍家岗区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "西陵区",
         "name": "Xiling Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "西陵区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "猇亭区",
         "name": "Xiaoting Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "猇亭区"
             }
         }
@@ -85,7 +85,7 @@
         "code": "兴山县",
         "name": "Xingshan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "兴山县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "夷陵区",
         "name": "Yiling Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "夷陵区"
             }
         }
@@ -111,7 +111,7 @@
         "code": "宜都市",
         "name": "Yidu Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "宜都市"
             }
         }
@@ -124,7 +124,7 @@
         "code": "远安县",
         "name": "Yuan'an Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "远安县"
             }
         }
@@ -137,7 +137,7 @@
         "code": "长阳土家族自治县",
         "name": "Changyang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "长阳县"
             }
         }
@@ -150,7 +150,7 @@
         "code": "枝江市",
         "name": "Zhijiang Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "枝江市"
             }
         }
@@ -163,7 +163,7 @@
         "code": "秭归县",
         "name": "Zigui Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "秭归县"
             }
         }

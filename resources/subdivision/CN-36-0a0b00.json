@@ -7,7 +7,7 @@
         "code": "安远县",
         "name": "Anyuan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "安远县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "崇义县",
         "name": "Chongyi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "崇义县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "大余县",
         "name": "Dayu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "大余县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "定南县",
         "name": "Dingnan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "定南县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "赣县",
         "name": "Gan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "赣县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "会昌县",
         "name": "Huichang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "会昌县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "龙南县",
         "name": "Longnan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "龙南县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "南康市",
         "name": "Nankang Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "南康市"
             }
         }
@@ -111,7 +111,7 @@
         "code": "宁都县",
         "name": "Ningdu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "宁都县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "全南县",
         "name": "Quannan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "全南县"
             }
         }
@@ -137,7 +137,7 @@
         "code": "瑞金市",
         "name": "Ruijin Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "瑞金市"
             }
         }
@@ -150,7 +150,7 @@
         "code": "上犹县",
         "name": "Shangyou Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "上犹县"
             }
         }
@@ -163,7 +163,7 @@
         "code": "石城县",
         "name": "Shicheng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "石城县"
             }
         }
@@ -176,7 +176,7 @@
         "code": "信丰县",
         "name": "Xinfeng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "信丰县"
             }
         }
@@ -189,7 +189,7 @@
         "code": "兴国县",
         "name": "Xingguo Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "兴国县"
             }
         }
@@ -202,7 +202,7 @@
         "code": "寻乌县",
         "name": "Xunwu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "寻乌县"
             }
         }
@@ -215,7 +215,7 @@
         "code": "于都县",
         "name": "Yudu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "于都县"
             }
         }
@@ -228,7 +228,7 @@
         "code": "章贡区",
         "name": "Zhanggong Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "章贡区"
             }
         }

@@ -7,7 +7,7 @@
         "code": "安图县",
         "name": "Antu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "安图县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "敦化市",
         "name": "Dunhua Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "敦化市"
             }
         }
@@ -33,7 +33,7 @@
         "code": "和龙市",
         "name": "Helong Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "和龙市"
             }
         }
@@ -46,7 +46,7 @@
         "code": "珲春市",
         "name": "Hunchun Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "珲春市"
             }
         }
@@ -59,7 +59,7 @@
         "code": "龙井市",
         "name": "Longjing Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "龙井市"
             }
         }
@@ -72,7 +72,7 @@
         "code": "图们市",
         "name": "Tumen Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "图们市"
             }
         }
@@ -85,7 +85,7 @@
         "code": "汪清县",
         "name": "Wangqing Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "汪清县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "延吉市",
         "name": "Yanji Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "延吉市"
             }
         }

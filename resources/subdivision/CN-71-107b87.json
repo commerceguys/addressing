@@ -8,7 +8,7 @@
         "name": "Dahu Township",
         "postal_code_pattern": "364",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "大湖鄉"
             }
         }
@@ -22,7 +22,7 @@
         "name": "Gongguan Township",
         "postal_code_pattern": "363",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "公館鄉"
             }
         }
@@ -36,7 +36,7 @@
         "name": "Houlong Township",
         "postal_code_pattern": "356",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "後龍鎮"
             }
         }
@@ -50,7 +50,7 @@
         "name": "Miaoli City",
         "postal_code_pattern": "360",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "苗栗市"
             }
         }
@@ -64,7 +64,7 @@
         "name": "Nanjhuang Township",
         "postal_code_pattern": "353",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "南庄鄉"
             }
         }
@@ -78,7 +78,7 @@
         "name": "Sanwan Township",
         "postal_code_pattern": "352",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "三灣鄉"
             }
         }
@@ -92,7 +92,7 @@
         "name": "Sanyi Township",
         "postal_code_pattern": "367",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "三義鄉"
             }
         }
@@ -106,7 +106,7 @@
         "name": "Shihtan Township",
         "postal_code_pattern": "354",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "獅潭鄉"
             }
         }
@@ -120,7 +120,7 @@
         "name": "Tai-an Township",
         "postal_code_pattern": "365",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "泰安鄉"
             }
         }
@@ -134,7 +134,7 @@
         "name": "Tongsiao Township",
         "postal_code_pattern": "357",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "通霄鎮"
             }
         }
@@ -148,7 +148,7 @@
         "name": "Tongluo Township",
         "postal_code_pattern": "366",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "銅鑼鄉"
             }
         }
@@ -162,7 +162,7 @@
         "name": "Toufen Township",
         "postal_code_pattern": "351",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "頭份鎮"
             }
         }
@@ -176,7 +176,7 @@
         "name": "Touwu Township",
         "postal_code_pattern": "362",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "頭屋鄉"
             }
         }
@@ -190,7 +190,7 @@
         "name": "Sihu Township",
         "postal_code_pattern": "368",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "西湖鄉"
             }
         }
@@ -204,7 +204,7 @@
         "name": "Yuanli Township",
         "postal_code_pattern": "358",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "苑裡鎮"
             }
         }
@@ -218,7 +218,7 @@
         "name": "Zaociao Township",
         "postal_code_pattern": "361",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "造橋鄉"
             }
         }
@@ -232,7 +232,7 @@
         "name": "Jhunan Township",
         "postal_code_pattern": "350",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "竹南鎮"
             }
         }
@@ -246,7 +246,7 @@
         "name": "Jhuolan Township",
         "postal_code_pattern": "369",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "卓蘭鎮"
             }
         }

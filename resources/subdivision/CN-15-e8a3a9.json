@@ -7,7 +7,7 @@
         "code": "阿拉善右旗",
         "name": "Alxa Youqi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "阿拉善右旗"
             }
         }
@@ -20,7 +20,7 @@
         "code": "阿拉善左旗",
         "name": "Alxa Zuoqi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "阿拉善左旗"
             }
         }
@@ -33,7 +33,7 @@
         "code": "额济纳旗",
         "name": "Ejin Qi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "额济纳旗"
             }
         }

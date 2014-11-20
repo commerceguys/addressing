@@ -7,7 +7,7 @@
         "code": "福贡县",
         "name": "Fugong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "福贡县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "贡山独龙族怒族自治县",
         "name": "Gongshan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "贡山县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "兰坪白族普米族自治县",
         "name": "Lanping Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "兰坪县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "泸水县",
         "name": "Lushui Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "泸水县"
             }
         }

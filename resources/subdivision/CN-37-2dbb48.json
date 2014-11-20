@@ -7,7 +7,7 @@
         "code": "东营区",
         "name": "Dongying Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "东营区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "广饶县",
         "name": "Guangrao Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "广饶县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "河口区",
         "name": "Hekou Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "河口区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "垦利县",
         "name": "Kenli Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "垦利县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "利津县",
         "name": "Lijin Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "利津县"
             }
         }

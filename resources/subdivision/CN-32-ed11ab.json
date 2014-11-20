@@ -7,7 +7,7 @@
         "code": "北塘区",
         "name": "Beitang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "北塘区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "滨湖区",
         "name": "Binhu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "滨湖区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "崇安区",
         "name": "Chong'an Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "崇安区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "惠山区",
         "name": "Huishan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "惠山区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "江阴市",
         "name": "Jiangyin Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "江阴市"
             }
         }
@@ -72,7 +72,7 @@
         "code": "南长区",
         "name": "Nanchang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "南长区"
             }
         }
@@ -85,7 +85,7 @@
         "code": "锡山区",
         "name": "Xishan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "锡山区"
             }
         }
@@ -98,7 +98,7 @@
         "code": "宜兴市",
         "name": "Yixing Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "宜兴市"
             }
         }

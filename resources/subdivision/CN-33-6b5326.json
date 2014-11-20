@@ -7,7 +7,7 @@
         "code": "上虞市",
         "name": "Shangyu Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "上虞市"
             }
         }
@@ -20,7 +20,7 @@
         "code": "绍兴县",
         "name": "Shaoxing Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "绍兴县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "嵊州市",
         "name": "Shengzhou Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "嵊州市"
             }
         }
@@ -46,7 +46,7 @@
         "code": "新昌县",
         "name": "Xinchang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "新昌县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "越城区",
         "name": "Yuecheng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "越城区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "诸暨市",
         "name": "Zhuji Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "诸暨市"
             }
         }

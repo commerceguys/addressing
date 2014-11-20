@@ -251,7 +251,8 @@
             "zh-hant": {
                 "name": "新竹市"
             }
-        }
+        },
+        "has_children": true
     },
     "TW-HSQ": {
         "locale": "zh-Latn",
@@ -280,7 +281,8 @@
             "zh-hant": {
                 "name": "嘉義市"
             }
-        }
+        },
+        "has_children": true
     },
     "TW-CYQ": {
         "locale": "zh-Latn",

@@ -7,7 +7,7 @@
         "code": "东至县",
         "name": "Dongzhi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "东至县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "贵池区",
         "name": "Guichi Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "贵池区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "青阳县",
         "name": "Qingyang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "青阳县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "石台县",
         "name": "Shitai Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "石台县"
             }
         }

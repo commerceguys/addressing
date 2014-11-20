@@ -7,7 +7,7 @@
         "code": "昂仁县",
         "name": "Ngamring Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "昂仁县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "白朗县",
         "name": "Bainang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "白朗县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "定结县",
         "name": "Dinggyê Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "定结县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "定日县",
         "name": "Tingri Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "定日县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "岗巴县",
         "name": "Gamba Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "岗巴县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "吉隆县",
         "name": "Gyirong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "吉隆县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "江孜县",
         "name": "Gyangzê Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "江孜县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "康马县",
         "name": "Kangmar Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "康马县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "拉孜县",
         "name": "Lhazê Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "拉孜县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "南木林县",
         "name": "Namling Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "南木林县"
             }
         }
@@ -137,7 +137,7 @@
         "code": "聂拉木县",
         "name": "Nyalam Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "聂拉木县"
             }
         }
@@ -150,7 +150,7 @@
         "code": "仁布县",
         "name": "Rinbung Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "仁布县"
             }
         }
@@ -163,7 +163,7 @@
         "code": "日喀则市",
         "name": "Xigazê Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "日喀则市"
             }
         }
@@ -176,7 +176,7 @@
         "code": "萨嘎县",
         "name": "Saga Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "萨嘎县"
             }
         }
@@ -189,7 +189,7 @@
         "code": "萨迦县",
         "name": "Sa'gya Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "萨迦县"
             }
         }
@@ -202,7 +202,7 @@
         "code": "谢通门县",
         "name": "Xaitongmoin Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "谢通门县"
             }
         }
@@ -215,7 +215,7 @@
         "code": "亚东县",
         "name": "Yadong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "亚东县"
             }
         }
@@ -228,7 +228,7 @@
         "code": "仲巴县",
         "name": "Zhongba Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "仲巴县"
             }
         }

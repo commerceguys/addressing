@@ -7,7 +7,7 @@
         "code": "布拖县",
         "name": "Butuo Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "布拖县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "德昌县",
         "name": "Dechang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "德昌县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "甘洛县",
         "name": "Ganluo Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "甘洛县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "会东县",
         "name": "Huidong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "会东县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "会理县",
         "name": "Huili Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "会理县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "金阳县",
         "name": "Jinyang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "金阳县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "雷波县",
         "name": "Leibo Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "雷波县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "美姑县",
         "name": "Meigu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "美姑县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "冕宁县",
         "name": "Mianning Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "冕宁县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "木里藏族自治县",
         "name": "Muli Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "木里县"
             }
         }
@@ -137,7 +137,7 @@
         "code": "宁南县",
         "name": "Ningnan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "宁南县"
             }
         }
@@ -150,7 +150,7 @@
         "code": "普格县",
         "name": "Puge Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "普格县"
             }
         }
@@ -163,7 +163,7 @@
         "code": "喜德县",
         "name": "Xide Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "喜德县"
             }
         }
@@ -176,7 +176,7 @@
         "code": "西昌市",
         "name": "Xichang Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "西昌市"
             }
         }
@@ -189,7 +189,7 @@
         "code": "盐源县",
         "name": "Yanyuan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "盐源县"
             }
         }
@@ -202,7 +202,7 @@
         "code": "越西县",
         "name": "Yuexi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "越西县"
             }
         }
@@ -215,7 +215,7 @@
         "code": "昭觉县",
         "name": "Zhaojue Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "昭觉县"
             }
         }

@@ -5,7 +5,7 @@
         "parent_id": "TW-PEN",
         "id": "TW-PEN-745376",
         "code": "七美鄉",
-        "name": "Cimei Township",
+        "name": "Qimei Township",
         "postal_code_pattern": "883",
         "translations": {
             "zh-hant": {
@@ -33,7 +33,7 @@
         "parent_id": "TW-PEN",
         "id": "TW-PEN-598702",
         "code": "西嶼鄉",
-        "name": "Siyu Township",
+        "name": "Xiyu Township",
         "postal_code_pattern": "881",
         "translations": {
             "zh-hant": {
@@ -61,7 +61,7 @@
         "parent_id": "TW-PEN",
         "id": "TW-PEN-16b625",
         "code": "望安鄉",
-        "name": "Wang-an Township",
+        "name": "Wang'an Township",
         "postal_code_pattern": "882",
         "translations": {
             "zh-hant": {
@@ -75,7 +75,7 @@
         "parent_id": "TW-PEN",
         "id": "TW-PEN-18293c",
         "code": "湖西鄉",
-        "name": "Husi Township",
+        "name": "Huxi Township",
         "postal_code_pattern": "885",
         "translations": {
             "zh-hant": {

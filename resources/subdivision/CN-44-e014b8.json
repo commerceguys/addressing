@@ -7,7 +7,7 @@
         "code": "德庆县",
         "name": "Deqing Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "德庆县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "鼎湖区",
         "name": "Dinghu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "鼎湖区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "端州区",
         "name": "Duanzhou Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "端州区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "封开县",
         "name": "Fengkai Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "封开县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "高要市",
         "name": "Gaoyao Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "高要市"
             }
         }
@@ -72,7 +72,7 @@
         "code": "广宁县",
         "name": "Guangning Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "广宁县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "怀集县",
         "name": "Huaiji Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "怀集县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "四会市",
         "name": "Sihui Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "四会市"
             }
         }

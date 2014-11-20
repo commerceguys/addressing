@@ -8,7 +8,7 @@
         "name": "Beigan Township",
         "postal_code_pattern": "210",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "北竿鄉"
             }
         }
@@ -22,7 +22,7 @@
         "name": "Dongyin Township",
         "postal_code_pattern": "212",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "東引鄉"
             }
         }
@@ -36,7 +36,7 @@
         "name": "Jyuguang Township",
         "postal_code_pattern": "211",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "莒光鄉"
             }
         }
@@ -50,7 +50,7 @@
         "name": "Nangan Township",
         "postal_code_pattern": "209",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "南竿鄉"
             }
         }

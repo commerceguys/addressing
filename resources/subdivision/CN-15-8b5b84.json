@@ -7,7 +7,7 @@
         "code": "达拉特旗",
         "name": "Dalad Qi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "达拉特旗"
             }
         }
@@ -20,7 +20,7 @@
         "code": "东胜区",
         "name": "Dongsheng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "东胜区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "鄂托克旗",
         "name": "Otog Qi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "鄂托克旗"
             }
         }
@@ -46,7 +46,7 @@
         "code": "鄂托克前旗",
         "name": "Otog Qianqi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "鄂托克前旗"
             }
         }
@@ -59,7 +59,7 @@
         "code": "杭锦旗",
         "name": "Hanggin Qi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "杭锦旗"
             }
         }
@@ -72,7 +72,7 @@
         "code": "乌审旗",
         "name": "Uxin Qi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "乌审旗"
             }
         }
@@ -85,7 +85,7 @@
         "code": "伊金霍洛旗",
         "name": "Ejin Qi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "伊金霍洛旗"
             }
         }
@@ -98,7 +98,7 @@
         "code": "准格尔旗",
         "name": "Jungar Qi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "准格尔旗"
             }
         }

@@ -7,7 +7,7 @@
         "code": "宝应县",
         "name": "Baoying Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "宝应县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "高邮市",
         "name": "Gaoyou Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "高邮市"
             }
         }
@@ -33,7 +33,7 @@
         "code": "广陵区",
         "name": "Guangling Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "广陵区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "邗江区",
         "name": "Hanjiang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "邗江区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "江都市",
         "name": "Jiangdu Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "江都市"
             }
         }
@@ -72,7 +72,7 @@
         "code": "维扬区",
         "name": "Weiyang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "维扬区"
             }
         }
@@ -85,7 +85,7 @@
         "code": "仪征市",
         "name": "Yizheng Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "仪征市"
             }
         }

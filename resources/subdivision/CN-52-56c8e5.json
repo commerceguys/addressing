@@ -7,7 +7,7 @@
         "code": "赤水市",
         "name": "Chishui Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "赤水市"
             }
         }
@@ -20,7 +20,7 @@
         "code": "道真仡佬族苗族自治县",
         "name": "Daozhen Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "道真县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "凤冈县",
         "name": "Fenggang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "凤冈县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "红花岗区",
         "name": "Honghuagang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "红花岗区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "汇川区",
         "name": "Huichuan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "汇川区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "湄潭县",
         "name": "Meitan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "湄潭县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "仁怀市",
         "name": "Renhuai Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "仁怀市"
             }
         }
@@ -98,7 +98,7 @@
         "code": "绥阳县",
         "name": "Suiyang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "绥阳县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "桐梓县",
         "name": "Tongzi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "桐梓县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "务川仡佬族苗族自治县",
         "name": "Wuchuan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "务川县"
             }
         }
@@ -137,7 +137,7 @@
         "code": "习水县",
         "name": "Xishui Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "习水县"
             }
         }
@@ -150,7 +150,7 @@
         "code": "余庆县",
         "name": "Yuqing Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "余庆县"
             }
         }
@@ -163,7 +163,7 @@
         "code": "正安县",
         "name": "Zheng'an Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "正安县"
             }
         }
@@ -176,7 +176,7 @@
         "code": "遵义县",
         "name": "Zunyi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "遵义县"
             }
         }

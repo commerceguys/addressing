@@ -7,7 +7,7 @@
         "code": "利辛县",
         "name": "Lixin Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "利辛县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "蒙城县",
         "name": "Mengcheng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "蒙城县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "谯城区",
         "name": "Qiaocheng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "谯城区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "涡阳县",
         "name": "Guoyang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "涡阳县"
             }
         }

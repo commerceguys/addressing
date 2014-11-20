@@ -61,7 +61,7 @@
         "parent_id": "TW-KHH",
         "id": "TW-KHH-9795a4",
         "code": "小港區",
-        "name": "Siaogang District",
+        "name": "Xiaogang District",
         "postal_code_pattern": "812",
         "translations": {
             "zh-hant": {
@@ -103,7 +103,7 @@
         "parent_id": "TW-KHH",
         "id": "TW-KHH-92acef",
         "code": "六龜區",
-        "name": "Liouguei District",
+        "name": "Liugui District",
         "postal_code_pattern": "844",
         "translations": {
             "zh-hant": {
@@ -131,7 +131,7 @@
         "parent_id": "TW-KHH",
         "id": "TW-KHH-3777b5",
         "code": "永安區",
-        "name": "Yong-an District",
+        "name": "Yong'an District",
         "postal_code_pattern": "828",
         "translations": {
             "zh-hant": {
@@ -159,7 +159,7 @@
         "parent_id": "TW-KHH",
         "id": "TW-KHH-3bd926",
         "code": "甲仙區",
-        "name": "Jiasian District",
+        "name": "Jiaxian District",
         "postal_code_pattern": "847",
         "translations": {
             "zh-hant": {
@@ -257,7 +257,7 @@
         "parent_id": "TW-KHH",
         "id": "TW-KHH-f83bdb",
         "code": "前金區",
-        "name": "Cianjin District",
+        "name": "Qianjin District",
         "postal_code_pattern": "801",
         "translations": {
             "zh-hant": {
@@ -271,7 +271,7 @@
         "parent_id": "TW-KHH",
         "id": "TW-KHH-d75852",
         "code": "前鎮區",
-        "name": "Cianjhen District",
+        "name": "Qianzhen District",
         "postal_code_pattern": "806",
         "translations": {
             "zh-hant": {
@@ -369,7 +369,7 @@
         "parent_id": "TW-KHH",
         "id": "TW-KHH-4c856e",
         "code": "梓官區",
-        "name": "Zihguan District",
+        "name": "Ziguan District",
         "postal_code_pattern": "826",
         "translations": {
             "zh-hant": {
@@ -411,7 +411,7 @@
         "parent_id": "TW-KHH",
         "id": "TW-KHH-a634f2",
         "code": "新興區",
-        "name": "Sinsing District",
+        "name": "Xinxing District",
         "postal_code_pattern": "800",
         "translations": {
             "zh-hant": {
@@ -425,7 +425,7 @@
         "parent_id": "TW-KHH",
         "id": "TW-KHH-f26745",
         "code": "楠梓區",
-        "name": "Nanzih District",
+        "name": "Nanzi District",
         "postal_code_pattern": "811",
         "translations": {
             "zh-hant": {
@@ -439,7 +439,7 @@
         "parent_id": "TW-KHH",
         "id": "TW-KHH-1f67e0",
         "code": "路竹區",
-        "name": "Lujhu District",
+        "name": "Luzhu District",
         "postal_code_pattern": "821",
         "translations": {
             "zh-hant": {
@@ -467,7 +467,7 @@
         "parent_id": "TW-KHH",
         "id": "TW-KHH-6edb8b",
         "code": "旗山區",
-        "name": "Cishan District",
+        "name": "Qishan District",
         "postal_code_pattern": "842",
         "translations": {
             "zh-hant": {
@@ -481,7 +481,7 @@
         "parent_id": "TW-KHH",
         "id": "TW-KHH-59b4d6",
         "code": "旗津區",
-        "name": "Cijin District",
+        "name": "Qijin District",
         "postal_code_pattern": "805",
         "translations": {
             "zh-hant": {
@@ -495,7 +495,7 @@
         "parent_id": "TW-KHH",
         "id": "TW-KHH-ae2767",
         "code": "鳳山區",
-        "name": "Fongshan District",
+        "name": "Fengshan District",
         "postal_code_pattern": "830",
         "translations": {
             "zh-hant": {
@@ -509,7 +509,7 @@
         "parent_id": "TW-KHH",
         "id": "TW-KHH-75eb1e",
         "code": "橋頭區",
-        "name": "Ciaotou District",
+        "name": "Qiaotou District",
         "postal_code_pattern": "825",
         "translations": {
             "zh-hant": {

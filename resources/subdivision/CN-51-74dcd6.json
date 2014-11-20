@@ -7,7 +7,7 @@
         "code": "安县",
         "name": "An Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "安县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "北川羌族自治县",
         "name": "Beichuan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "北川县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "涪城区",
         "name": "Fucheng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "涪城区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "江油市",
         "name": "Jiangyou Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "江油市"
             }
         }
@@ -59,7 +59,7 @@
         "code": "平武县",
         "name": "Pingwu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "平武县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "三台县",
         "name": "Santai Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "三台县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "盐亭县",
         "name": "Yanting Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "盐亭县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "游仙区",
         "name": "Youxian Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "游仙区"
             }
         }
@@ -111,7 +111,7 @@
         "code": "梓潼县",
         "name": "Zitong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "梓潼县"
             }
         }

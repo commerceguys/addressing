@@ -7,7 +7,7 @@
         "code": "东区",
         "name": "Dong Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "东区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "米易县",
         "name": "Miyi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "米易县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "仁和区",
         "name": "Renhe Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "仁和区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "西区",
         "name": "Xi Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "西区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "盐边县",
         "name": "Yanbian Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "盐边县"
             }
         }

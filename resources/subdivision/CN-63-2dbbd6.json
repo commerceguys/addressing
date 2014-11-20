@@ -7,7 +7,7 @@
         "code": "德令哈市",
         "name": "Delhi Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "德令哈市"
             }
         }
@@ -20,7 +20,7 @@
         "code": "都兰县",
         "name": "Dulan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "都兰县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "格尔木市",
         "name": "Golmud Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "格尔木市"
             }
         }
@@ -46,7 +46,7 @@
         "code": "天峻县",
         "name": "Tianjun Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "天峻县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "乌兰县",
         "name": "Ulan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "乌兰县"
             }
         }

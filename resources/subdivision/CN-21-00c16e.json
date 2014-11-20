@@ -7,7 +7,7 @@
         "code": "建昌县",
         "name": "Jianchang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "建昌县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "连山区",
         "name": "Lianshan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "连山区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "龙港区",
         "name": "Longgang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "龙港区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "南票区",
         "name": "Nanpiao Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "南票区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "绥中县",
         "name": "Suizhong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "绥中县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "兴城市",
         "name": "Xingcheng Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "兴城市"
             }
         }

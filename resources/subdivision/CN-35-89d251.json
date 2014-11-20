@@ -7,7 +7,7 @@
         "code": "城厢区",
         "name": "Chengxiang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "城厢区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "涵江区",
         "name": "Hanjiang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "涵江区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "荔城区",
         "name": "Licheng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "荔城区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "仙游县",
         "name": "Xianyou Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "仙游县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "秀屿区",
         "name": "Xiuyu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "秀屿区"
             }
         }

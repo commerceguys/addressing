@@ -7,7 +7,7 @@
         "code": "槐荫区",
         "name": "Huaiyin Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "槐荫区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "济阳县",
         "name": "Jiyang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "济阳县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "历城区",
         "name": "Licheng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "历城区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "历下区",
         "name": "Lixia Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "历下区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "平阴县",
         "name": "Pingyin Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "平阴县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "商河县",
         "name": "Shanghe Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "商河县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "市中区",
         "name": "Shizhong Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "市中区"
             }
         }
@@ -98,7 +98,7 @@
         "code": "天桥区",
         "name": "Tianqiao Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "天桥区"
             }
         }
@@ -111,7 +111,7 @@
         "code": "章丘市",
         "name": "Zhangqiu Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "章丘市"
             }
         }
@@ -124,7 +124,7 @@
         "code": "长清区",
         "name": "Changqing Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "长清区"
             }
         }

@@ -7,7 +7,7 @@
         "code": "大安市",
         "name": "Da'an Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "大安市"
             }
         }
@@ -20,7 +20,7 @@
         "code": "洮北区",
         "name": "Taobei Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "洮北区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "洮南市",
         "name": "Taonan Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "洮南市"
             }
         }
@@ -46,7 +46,7 @@
         "code": "通榆县",
         "name": "Tongyu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "通榆县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "镇赉县",
         "name": "Zhenlai Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "镇赉县"
             }
         }

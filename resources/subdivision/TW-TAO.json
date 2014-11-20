@@ -33,7 +33,7 @@
         "parent_id": "TW-TAO",
         "id": "TW-TAO-375024",
         "code": "大溪鎮",
-        "name": "Dasi Township",
+        "name": "Daxi Township",
         "postal_code_pattern": "335",
         "translations": {
             "zh-hant": {
@@ -47,7 +47,7 @@
         "parent_id": "TW-TAO",
         "id": "TW-TAO-97bcbf",
         "code": "中壢市",
-        "name": "Jhongli City",
+        "name": "Zhongli City",
         "postal_code_pattern": "320",
         "translations": {
             "zh-hant": {
@@ -89,7 +89,7 @@
         "parent_id": "TW-TAO",
         "id": "TW-TAO-439ebe",
         "code": "復興鄉",
-        "name": "Fusing Township",
+        "name": "Fuxing Township",
         "postal_code_pattern": "336",
         "translations": {
             "zh-hant": {
@@ -103,7 +103,7 @@
         "parent_id": "TW-TAO",
         "id": "TW-TAO-db874e",
         "code": "新屋鄉",
-        "name": "Sinwu Township",
+        "name": "Xinwu Township",
         "postal_code_pattern": "327",
         "translations": {
             "zh-hant": {
@@ -145,7 +145,7 @@
         "parent_id": "TW-TAO",
         "id": "TW-TAO-999975",
         "code": "龜山鄉",
-        "name": "Gueishan Township",
+        "name": "Guishan Township",
         "postal_code_pattern": "333",
         "translations": {
             "zh-hant": {
@@ -159,7 +159,7 @@
         "parent_id": "TW-TAO",
         "id": "TW-TAO-380887",
         "code": "蘆竹鄉",
-        "name": "Lujhu Township",
+        "name": "Luzhu Township",
         "postal_code_pattern": "338",
         "translations": {
             "zh-hant": {

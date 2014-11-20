@@ -7,7 +7,7 @@
         "code": "佛冈县",
         "name": "Fogang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "佛冈县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "连南瑶族自治县",
         "name": "Liannan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "连南县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "连山壮族瑶族自治县",
         "name": "Lianshan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "连山县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "连州市",
         "name": "Lianzhou Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "连州市"
             }
         }
@@ -59,7 +59,7 @@
         "code": "清城区",
         "name": "Qingcheng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "清城区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "清新县",
         "name": "Qingxin Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "清新县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "阳山县",
         "name": "Yangshan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "阳山县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "英德市",
         "name": "Yingde Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "英德市"
             }
         }

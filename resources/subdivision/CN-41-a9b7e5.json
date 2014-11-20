@@ -7,7 +7,7 @@
         "code": "沈丘县",
         "name": "Shenqiu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "沈丘县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "川汇区",
         "name": "Chuanhui Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "川汇区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "郸城县",
         "name": "Dancheng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "郸城县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "扶沟县",
         "name": "Fugou Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "扶沟县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "淮阳县",
         "name": "Huaiyang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "淮阳县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "鹿邑县",
         "name": "Luyi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "鹿邑县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "商水县",
         "name": "Shangshui Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "商水县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "太康县",
         "name": "Taikang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "太康县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "西华县",
         "name": "Xihua Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "西华县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "项城市",
         "name": "Xiangcheng Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "项城市"
             }
         }

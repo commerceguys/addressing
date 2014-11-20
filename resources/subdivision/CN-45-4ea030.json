@@ -7,7 +7,7 @@
         "code": "北流市",
         "name": "Beiliu Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "北流市"
             }
         }
@@ -20,7 +20,7 @@
         "code": "博白县",
         "name": "Bobai Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "博白县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "陆川县",
         "name": "Luchuan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "陆川县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "容县",
         "name": "Rong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "容县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "兴业县",
         "name": "Xingye Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "兴业县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "玉州区",
         "name": "Yuzhou Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "玉州区"
             }
         }

@@ -7,7 +7,7 @@
         "code": "成华区",
         "name": "Chenghua Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "成华区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "崇州市",
         "name": "Chongzhou Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "崇州市"
             }
         }
@@ -33,7 +33,7 @@
         "code": "大邑县",
         "name": "Dayi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "大邑县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "都江堰市",
         "name": "Dujiangyan Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "都江堰市"
             }
         }
@@ -59,7 +59,7 @@
         "code": "金牛区",
         "name": "Jinniu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "金牛区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "金堂县",
         "name": "Jintang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "金堂县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "锦江区",
         "name": "Jinjiang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "锦江区"
             }
         }
@@ -98,7 +98,7 @@
         "code": "龙泉驿区",
         "name": "Longquanyi Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "龙泉驿区"
             }
         }
@@ -111,7 +111,7 @@
         "code": "彭州市",
         "name": "Pengzhou Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "彭州市"
             }
         }
@@ -124,7 +124,7 @@
         "code": "郫县",
         "name": "Pi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "郫县"
             }
         }
@@ -137,7 +137,7 @@
         "code": "蒲江县",
         "name": "Pujiang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "蒲江县"
             }
         }
@@ -150,7 +150,7 @@
         "code": "青白江区",
         "name": "Qingbaijiang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "青白江区"
             }
         }
@@ -163,7 +163,7 @@
         "code": "青羊区",
         "name": "Qingyang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "青羊区"
             }
         }
@@ -176,7 +176,7 @@
         "code": "邛崃市",
         "name": "Qionglai Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "邛崃市"
             }
         }
@@ -189,7 +189,7 @@
         "code": "双流县",
         "name": "Shuangliu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "双流县"
             }
         }
@@ -202,7 +202,7 @@
         "code": "温江区",
         "name": "Wenjiang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "温江区"
             }
         }
@@ -215,7 +215,7 @@
         "code": "武侯区",
         "name": "Wuhou Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "武侯区"
             }
         }
@@ -228,7 +228,7 @@
         "code": "新都区",
         "name": "Xindu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "新都区"
             }
         }
@@ -241,7 +241,7 @@
         "code": "新津县",
         "name": "Xinjin Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "新津县"
             }
         }

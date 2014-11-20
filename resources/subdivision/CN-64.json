@@ -7,7 +7,7 @@
         "code": "固原市",
         "name": "Guyuan Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "固原市"
             }
         },
@@ -21,7 +21,7 @@
         "code": "石嘴山市",
         "name": "Shizuishan Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "石嘴山市"
             }
         },
@@ -35,7 +35,7 @@
         "code": "吴忠市",
         "name": "Wuzhong Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "吴忠市"
             }
         },
@@ -49,7 +49,7 @@
         "code": "银川市",
         "name": "Yinchuan Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "银川市"
             }
         },
@@ -63,7 +63,7 @@
         "code": "中卫市",
         "name": "Zhongwei Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "中卫市"
             }
         },

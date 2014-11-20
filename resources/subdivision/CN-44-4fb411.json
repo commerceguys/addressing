@@ -7,7 +7,7 @@
         "code": "电白县",
         "name": "Dianbai Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "电白县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "高州市",
         "name": "Gaozhou Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "高州市"
             }
         }
@@ -33,7 +33,7 @@
         "code": "化州市",
         "name": "Huazhou Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "化州市"
             }
         }
@@ -46,7 +46,7 @@
         "code": "茂港区",
         "name": "Maogang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "茂港区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "茂南区",
         "name": "Maonan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "茂南区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "信宜市",
         "name": "Xinyi Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "信宜市"
             }
         }

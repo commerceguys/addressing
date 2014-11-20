@@ -7,7 +7,7 @@
         "code": "安龙县",
         "name": "Anlong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "安龙县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "册亨县",
         "name": "Ceheng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "册亨县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "普安县",
         "name": "Pu'an Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "普安县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "晴隆县",
         "name": "Qinglong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "晴隆县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "望谟县",
         "name": "Wangmo Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "望谟县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "兴仁县",
         "name": "Xingren Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "兴仁县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "兴义市",
         "name": "Xingyi Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "兴义市"
             }
         }
@@ -98,7 +98,7 @@
         "code": "贞丰县",
         "name": "Zhenfeng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "贞丰县"
             }
         }

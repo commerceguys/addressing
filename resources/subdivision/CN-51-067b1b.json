@@ -7,7 +7,7 @@
         "code": "翠屏区",
         "name": "Cuiping Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "翠屏区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "高县",
         "name": "Gao Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "高县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "珙县",
         "name": "Gong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "珙县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "江安县",
         "name": "Jiang'an Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "江安县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "南溪县",
         "name": "Nanxi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "南溪县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "屏山县",
         "name": "Pingshan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "屏山县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "兴文县",
         "name": "Xingwen Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "兴文县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "宜宾县",
         "name": "Yibin Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "宜宾县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "筠连县",
         "name": "Junlian Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "筠连县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "长宁县",
         "name": "Changning Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "长宁县"
             }
         }

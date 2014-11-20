@@ -7,7 +7,7 @@
         "code": "鄂城区",
         "name": "Echeng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "鄂城区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "华容区",
         "name": "Huarong Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "华容区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "梁子湖区",
         "name": "Liangzihu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "梁子湖区"
             }
         }

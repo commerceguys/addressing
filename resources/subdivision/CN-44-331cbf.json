@@ -7,7 +7,7 @@
         "code": "大埔县",
         "name": "Dabu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "大埔县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "丰顺县",
         "name": "Fengshun Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "丰顺县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "蕉岭县",
         "name": "Jiaoling Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "蕉岭县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "梅江区",
         "name": "Meijiang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "梅江区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "梅县",
         "name": "Mei Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "梅县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "平远县",
         "name": "Pingyuan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "平远县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "五华县",
         "name": "Wuhua Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "五华县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "兴宁市",
         "name": "Xingning Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "兴宁市"
             }
         }

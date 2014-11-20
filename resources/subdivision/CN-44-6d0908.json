@@ -7,7 +7,7 @@
         "code": "白云区",
         "name": "Baiyun Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "白云区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "从化区",
         "name": "Conghua Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "从化区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "番禺区",
         "name": "Panyu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "番禺区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "海珠区",
         "name": "Haizhu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "海珠区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "花都区",
         "name": "Huadu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "花都区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "黄埔区",
         "name": "Huangpu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "黄埔区"
             }
         }
@@ -85,7 +85,7 @@
         "code": "荔湾区",
         "name": "Liwan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "荔湾区"
             }
         }
@@ -98,7 +98,7 @@
         "code": "南沙区",
         "name": "Nansha Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "南沙区"
             }
         }
@@ -111,7 +111,7 @@
         "code": "天河区",
         "name": "Tianhe Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "天河区"
             }
         }
@@ -124,7 +124,7 @@
         "code": "越秀区",
         "name": "Yuexiu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "越秀区"
             }
         }
@@ -137,7 +137,7 @@
         "code": "增城区",
         "name": "Zengcheng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "增城区"
             }
         }

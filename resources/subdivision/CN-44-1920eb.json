@@ -7,7 +7,7 @@
         "code": "博罗县",
         "name": "Boluo Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "博罗县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "惠城区",
         "name": "Huicheng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "惠城区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "惠东县",
         "name": "Huidong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "惠东县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "惠阳区",
         "name": "Huiyang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "惠阳区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "龙门县",
         "name": "Longmen Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "龙门县"
             }
         }

@@ -7,7 +7,7 @@
         "code": "福山区",
         "name": "Fushan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "福山区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "海阳市",
         "name": "Haiyang Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "海阳市"
             }
         }
@@ -33,7 +33,7 @@
         "code": "莱山区",
         "name": "Laishan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "莱山区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "莱阳市",
         "name": "Laiyang Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "莱阳市"
             }
         }
@@ -59,7 +59,7 @@
         "code": "莱州市",
         "name": "Laizhou Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "莱州市"
             }
         }
@@ -72,7 +72,7 @@
         "code": "龙口市",
         "name": "Longkou Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "龙口市"
             }
         }
@@ -85,7 +85,7 @@
         "code": "牟平区",
         "name": "Muping Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "牟平区"
             }
         }
@@ -98,7 +98,7 @@
         "code": "蓬莱市",
         "name": "Penglai Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "蓬莱市"
             }
         }
@@ -111,7 +111,7 @@
         "code": "栖霞市",
         "name": "Qixia Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "栖霞市"
             }
         }
@@ -124,7 +124,7 @@
         "code": "长岛县",
         "name": "Changdao Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "长岛县"
             }
         }
@@ -137,7 +137,7 @@
         "code": "招远市",
         "name": "Zhaoyuan Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "招远市"
             }
         }
@@ -150,7 +150,7 @@
         "code": "芝罘区",
         "name": "Zhifu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "芝罘区"
             }
         }

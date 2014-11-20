@@ -7,7 +7,7 @@
         "code": "贵溪市",
         "name": "Guixi Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "贵溪市"
             }
         }
@@ -20,7 +20,7 @@
         "code": "余江县",
         "name": "Yujiang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "余江县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "月湖区",
         "name": "Yuehu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "月湖区"
             }
         }

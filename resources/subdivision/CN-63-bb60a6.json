@@ -7,7 +7,7 @@
         "code": "河南蒙古族自治县",
         "name": "Henan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "河南县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "尖扎县",
         "name": "Jianca Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "尖扎县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "同仁县",
         "name": "Tongren Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "同仁县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "泽库县",
         "name": "Zêkog Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "泽库县"
             }
         }

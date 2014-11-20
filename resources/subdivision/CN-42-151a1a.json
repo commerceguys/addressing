@@ -7,7 +7,7 @@
         "code": "公安县",
         "name": "Gong'an Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "公安县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "洪湖市",
         "name": "Honghu Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "洪湖市"
             }
         }
@@ -33,7 +33,7 @@
         "code": "监利县",
         "name": "Jianli Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "监利县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "江陵县",
         "name": "Jiangling Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "江陵县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "荆州区",
         "name": "Jingzhou Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "荆州区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "沙市区",
         "name": "Shashi Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "沙市区"
             }
         }
@@ -85,7 +85,7 @@
         "code": "石首市",
         "name": "Shishou Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "石首市"
             }
         }
@@ -98,7 +98,7 @@
         "code": "松滋市",
         "name": "Songzi Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "松滋市"
             }
         }

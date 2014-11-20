@@ -7,7 +7,7 @@
         "code": "巴楚县",
         "name": "Bachu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "巴楚县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "伽师县",
         "name": "Jiashi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "伽师县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "喀什市",
         "name": "Kashi Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "喀什市"
             }
         }
@@ -46,7 +46,7 @@
         "code": "麦盖提县",
         "name": "Markit Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "麦盖提县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "莎车县",
         "name": "Shache Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "莎车县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "疏附县",
         "name": "Shufu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "疏附县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "疏勒县",
         "name": "Shule Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "疏勒县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "塔什库尔干塔吉克自治县",
         "name": "Taxkorgan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "塔什库尔干县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "叶城县",
         "name": "Yecheng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "叶城县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "英吉沙县",
         "name": "Yengisar Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "英吉沙县"
             }
         }
@@ -137,7 +137,7 @@
         "code": "岳普湖县",
         "name": "Yopurga Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "岳普湖县"
             }
         }
@@ -150,7 +150,7 @@
         "code": "泽普县",
         "name": "Zepu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "泽普县"
             }
         }

@@ -7,7 +7,7 @@
         "code": "高港区",
         "name": "Gaogang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "高港区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "海陵区",
         "name": "Hailing Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "海陵区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "姜堰市",
         "name": "Jiangyan Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "姜堰市"
             }
         }
@@ -46,7 +46,7 @@
         "code": "靖江市",
         "name": "Jingjiang Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "靖江市"
             }
         }
@@ -59,7 +59,7 @@
         "code": "泰兴市",
         "name": "Taixing Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "泰兴市"
             }
         }
@@ -72,7 +72,7 @@
         "code": "兴化市",
         "name": "Xinghua Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "兴化市"
             }
         }

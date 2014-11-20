@@ -7,7 +7,7 @@
         "code": "八公山区",
         "name": "Bagongshan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "八公山区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "大通区",
         "name": "Datong Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "大通区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "凤台县",
         "name": "Fengtai Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "凤台县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "潘集区",
         "name": "Panji Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "潘集区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "田家庵区",
         "name": "Tianjia'an Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "田家庵区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "谢家集区",
         "name": "Xiejiaji Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "谢家集区"
             }
         }

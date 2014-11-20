@@ -7,7 +7,7 @@
         "code": "都匀市",
         "name": "Duyun Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "都匀市"
             }
         }
@@ -20,7 +20,7 @@
         "code": "独山县",
         "name": "Dushan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "独山县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "福泉市",
         "name": "Fuquan Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "福泉市"
             }
         }
@@ -46,7 +46,7 @@
         "code": "贵定县",
         "name": "Guiding Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "贵定县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "惠水县",
         "name": "Huishui Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "惠水县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "荔波县",
         "name": "Libo Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "荔波县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "龙里县",
         "name": "Longli Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "龙里县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "罗甸县",
         "name": "Luodian Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "罗甸县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "平塘县",
         "name": "Pingtang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "平塘县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "三都水族自治县",
         "name": "Sandu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "三都县"
             }
         }
@@ -137,7 +137,7 @@
         "code": "瓮安县",
         "name": "Weng'an Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "瓮安县"
             }
         }
@@ -150,7 +150,7 @@
         "code": "长顺县",
         "name": "Changshun Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "长顺县"
             }
         }

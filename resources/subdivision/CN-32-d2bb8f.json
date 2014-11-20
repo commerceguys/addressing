@@ -7,7 +7,7 @@
         "code": "高淳区",
         "name": "Gaochun Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "高淳区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "鼓楼区",
         "name": "Gulou Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "鼓楼区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "建邺区",
         "name": "Jianye Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "建邺区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "江宁区",
         "name": "Jiangning Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "江宁区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "溧水区",
         "name": "Lishui Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "溧水区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "六合区",
         "name": "Liuhe Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "六合区"
             }
         }
@@ -85,7 +85,7 @@
         "code": "浦口区",
         "name": "Pukou Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "浦口区"
             }
         }
@@ -98,7 +98,7 @@
         "code": "栖霞区",
         "name": "Qixia Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "栖霞区"
             }
         }
@@ -111,7 +111,7 @@
         "code": "秦淮区",
         "name": "Qinhuai Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "秦淮区"
             }
         }
@@ -124,7 +124,7 @@
         "code": "玄武区",
         "name": "Xuanwu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "玄武区"
             }
         }
@@ -137,7 +137,7 @@
         "code": "雨花台区",
         "name": "Yuhuatai Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "雨花台区"
             }
         }

@@ -7,7 +7,7 @@
         "code": "山亭区",
         "name": "Shanting Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "山亭区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "市中区",
         "name": "Shizhong Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "市中区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "台儿庄区",
         "name": "Tai'erzhuang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "台儿庄区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "滕州市",
         "name": "Tengzhou Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "滕州市"
             }
         }
@@ -59,7 +59,7 @@
         "code": "薛城区",
         "name": "Xuecheng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "薛城区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "峄城区",
         "name": "Yicheng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "峄城区"
             }
         }

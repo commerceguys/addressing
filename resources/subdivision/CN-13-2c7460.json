@@ -7,7 +7,7 @@
         "code": "承德县",
         "name": "Chengde Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "承德县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "丰宁满族自治县",
         "name": "Fengning Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "丰宁县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "宽城满族自治县",
         "name": "Kuancheng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "宽城县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "隆化县",
         "name": "Longhua Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "隆化县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "滦平县",
         "name": "Luanping Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "滦平县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "平泉县",
         "name": "Pingquan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "平泉县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "双滦区",
         "name": "Shuangluan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "双滦区"
             }
         }
@@ -98,7 +98,7 @@
         "code": "双桥区",
         "name": "Shuangqiao Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "双桥区"
             }
         }
@@ -111,7 +111,7 @@
         "code": "围场满族蒙古族自治县",
         "name": "Weichang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "围场县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "兴隆县",
         "name": "Xinglong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "兴隆县"
             }
         }
@@ -137,7 +137,7 @@
         "code": "鹰手营子矿区",
         "name": "Yingshouyingzi Kuangqu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "鹰手营子矿区"
             }
         }

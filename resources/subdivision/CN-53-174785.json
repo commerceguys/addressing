@@ -7,7 +7,7 @@
         "code": "德钦县",
         "name": "Dêqên Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "德钦县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "维西傈僳族自治县",
         "name": "Weixi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "维西县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "香格里拉县",
         "name": "Shangêlila Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "香格里拉县"
             }
         }

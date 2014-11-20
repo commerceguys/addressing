@@ -7,7 +7,7 @@
         "code": "古蔺县",
         "name": "Gulin Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "古蔺县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "合江县",
         "name": "Hejiang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "合江县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "江阳区",
         "name": "Jiangyang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "江阳区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "龙马潭区",
         "name": "Longmatan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "龙马潭区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "泸县",
         "name": "Lu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "泸县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "纳溪区",
         "name": "Naxi Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "纳溪区"
             }
         }
@@ -85,7 +85,7 @@
         "code": "叙永县",
         "name": "Xuyong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "叙永县"
             }
         }

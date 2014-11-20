@@ -7,7 +7,7 @@
         "code": "阿克苏地区",
         "name": "Aksu Diqu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "阿克苏地区"
             }
         },
@@ -21,7 +21,7 @@
         "code": "阿拉尔市",
         "name": "Ala'er Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "阿拉尔市"
             }
         }
@@ -34,7 +34,7 @@
         "code": "阿勒泰地区",
         "name": "Altay Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "阿勒泰地区"
             }
         },
@@ -48,7 +48,7 @@
         "code": "巴音郭楞蒙古自治州",
         "name": "Bayingolin Zhou",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "巴音郭楞州"
             }
         },
@@ -62,7 +62,7 @@
         "code": "博尔塔拉蒙古自治州",
         "name": "Bortala Zhou",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "博尔塔拉州"
             }
         },
@@ -76,7 +76,7 @@
         "code": "昌吉回族自治州",
         "name": "Changji Zhou",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "昌吉州"
             }
         },
@@ -90,7 +90,7 @@
         "code": "哈密地区",
         "name": "Hami Diqu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "哈密地区"
             }
         },
@@ -104,7 +104,7 @@
         "code": "和田地区",
         "name": "Hotan Diqu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "和田地区"
             }
         },
@@ -118,7 +118,7 @@
         "code": "喀什地区",
         "name": "Kashi Diqu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "喀什地区"
             }
         },
@@ -132,7 +132,7 @@
         "code": "克拉玛依市",
         "name": "Karamay Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "克拉玛依市"
             }
         },
@@ -146,7 +146,7 @@
         "code": "克孜勒苏柯尔克孜自治州",
         "name": "Kizilsu Zhou",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "克孜勒苏州"
             }
         },
@@ -160,7 +160,7 @@
         "code": "石河子市",
         "name": "Shihezi Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "石河子市"
             }
         }
@@ -173,7 +173,7 @@
         "code": "塔城地区",
         "name": "Tacheng Diqu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "塔城地区"
             }
         },
@@ -187,7 +187,7 @@
         "code": "图木舒克市",
         "name": "Tumushuke Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "图木舒克市"
             }
         }
@@ -200,7 +200,7 @@
         "code": "吐鲁番地区",
         "name": "Turpan Diqu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "吐鲁番地区"
             }
         },
@@ -214,7 +214,7 @@
         "code": "乌鲁木齐市",
         "name": "Ürümqi Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "乌鲁木齐市"
             }
         },
@@ -228,7 +228,7 @@
         "code": "五家渠市",
         "name": "Wujiaqu Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "五家渠市"
             }
         }
@@ -241,7 +241,7 @@
         "code": "伊犁哈萨克自治州",
         "name": "Ili Zhou",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "伊犁州"
             }
         },

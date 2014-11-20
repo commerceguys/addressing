@@ -7,7 +7,7 @@
         "code": "茶陵县",
         "name": "Chaling Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "茶陵县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "荷塘区",
         "name": "Hetang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "荷塘区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "醴陵市",
         "name": "Liling Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "醴陵市"
             }
         }
@@ -46,7 +46,7 @@
         "code": "芦淞区",
         "name": "Lusong Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "芦淞区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "石峰区",
         "name": "Shifeng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "石峰区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "天元区",
         "name": "Tianyuan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "天元区"
             }
         }
@@ -85,7 +85,7 @@
         "code": "炎陵县",
         "name": "Yanling Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "炎陵县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "攸县",
         "name": "You Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "攸县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "株洲县",
         "name": "Zhuzhou Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "株洲县"
             }
         }

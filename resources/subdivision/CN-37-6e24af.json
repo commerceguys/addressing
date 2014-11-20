@@ -7,7 +7,7 @@
         "code": "嘉祥县",
         "name": "Jiaxiang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "嘉祥县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "金乡县",
         "name": "Jinxiang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "金乡县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "梁山县",
         "name": "Liangshan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "梁山县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "曲阜市",
         "name": "Qufu Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "曲阜市"
             }
         }
@@ -59,7 +59,7 @@
         "code": "任城区",
         "name": "Rencheng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "任城区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "市中区",
         "name": "Shizhong Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "市中区"
             }
         }
@@ -85,7 +85,7 @@
         "code": "泗水县",
         "name": "Sishui Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "泗水县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "微山县",
         "name": "Weishan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "微山县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "汶上县",
         "name": "Wenshang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "汶上县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "兖州市",
         "name": "Yanzhou Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "兖州市"
             }
         }
@@ -137,7 +137,7 @@
         "code": "鱼台县",
         "name": "Yutai Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "鱼台县"
             }
         }
@@ -150,7 +150,7 @@
         "code": "邹城市",
         "name": "Zoucheng Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "邹城市"
             }
         }

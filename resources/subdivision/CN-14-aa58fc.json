@@ -7,7 +7,7 @@
         "code": "城区",
         "name": "Cheng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "城区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "大同县",
         "name": "Datong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "大同县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "广灵县",
         "name": "Guangling Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "广灵县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "浑源县",
         "name": "Hunyuan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "浑源县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "矿区",
         "name": "Kuang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "矿区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "灵丘县",
         "name": "Lingqiu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "灵丘县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "南郊区",
         "name": "Nanjiao Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "南郊区"
             }
         }
@@ -98,7 +98,7 @@
         "code": "天镇县",
         "name": "Tianzhen Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "天镇县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "新荣区",
         "name": "Xinrong Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "新荣区"
             }
         }
@@ -124,7 +124,7 @@
         "code": "阳高县",
         "name": "Yanggao Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "阳高县"
             }
         }
@@ -137,7 +137,7 @@
         "code": "左云县",
         "name": "Zuoyun Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "左云县"
             }
         }

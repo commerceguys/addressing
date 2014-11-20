@@ -7,7 +7,7 @@
         "code": "河津市",
         "name": "Hejin Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "河津市"
             }
         }
@@ -20,7 +20,7 @@
         "code": "稷山县",
         "name": "Jishan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "稷山县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "绛县",
         "name": "Jiang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "绛县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "临猗县",
         "name": "Linyi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "临猗县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "平陆县",
         "name": "Pinglu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "平陆县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "芮城县",
         "name": "Ruicheng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "芮城县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "万荣县",
         "name": "Wanrong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "万荣县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "闻喜县",
         "name": "Wenxi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "闻喜县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "夏县",
         "name": "Xia Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "夏县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "新绛县",
         "name": "Xinjiang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "新绛县"
             }
         }
@@ -137,7 +137,7 @@
         "code": "盐湖区",
         "name": "Yanhu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "盐湖区"
             }
         }
@@ -150,7 +150,7 @@
         "code": "永济市",
         "name": "Yongji Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "永济市"
             }
         }
@@ -163,7 +163,7 @@
         "code": "垣曲县",
         "name": "Yuanqu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "垣曲县"
             }
         }

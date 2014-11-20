@@ -7,7 +7,7 @@
         "code": "湖滨区",
         "name": "Hubin Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "湖滨区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "灵宝市",
         "name": "Lingbao Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "灵宝市"
             }
         }
@@ -33,7 +33,7 @@
         "code": "卢氏县",
         "name": "Lushi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "卢氏县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "渑池县",
         "name": "Mianchi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "渑池县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "陕县",
         "name": "Shan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "陕县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "义马市",
         "name": "Yima Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "义马市"
             }
         }

@@ -7,7 +7,7 @@
         "code": "城固县",
         "name": "Chenggu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "城固县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "略阳县",
         "name": "Lüeyang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "略阳县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "佛坪县",
         "name": "Foping Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "佛坪县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "汉台区",
         "name": "Hantai Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "汉台区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "留坝县",
         "name": "Liuba Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "留坝县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "勉县",
         "name": "Mian Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "勉县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "南郑县",
         "name": "Nanzheng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "南郑县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "宁强县",
         "name": "Ningqiang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "宁强县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "西乡县",
         "name": "Xixiang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "西乡县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "洋县",
         "name": "Yang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "洋县"
             }
         }
@@ -137,7 +137,7 @@
         "code": "镇巴县",
         "name": "Zhenba Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "镇巴县"
             }
         }

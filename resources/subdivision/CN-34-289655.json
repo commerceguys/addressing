@@ -7,7 +7,7 @@
         "code": "阜南县",
         "name": "Funan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "阜南县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "界首市",
         "name": "Jieshou Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "界首市"
             }
         }
@@ -33,7 +33,7 @@
         "code": "临泉县",
         "name": "Linquan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "临泉县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "太和县",
         "name": "Taihe Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "太和县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "颍东区",
         "name": "Yingdong Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "颍东区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "颍泉区",
         "name": "Yingquan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "颍泉区"
             }
         }
@@ -85,7 +85,7 @@
         "code": "颍上县",
         "name": "Yingshang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "颍上县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "颍州区",
         "name": "Yingzhou Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "颍州区"
             }
         }

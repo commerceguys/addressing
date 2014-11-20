@@ -7,7 +7,7 @@
         "code": "海城市",
         "name": "Haicheng Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "海城市"
             }
         }
@@ -20,7 +20,7 @@
         "code": "立山区",
         "name": "Lishan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "立山区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "千山区",
         "name": "Qianshan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "千山区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "台安县",
         "name": "Tai'an Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "台安县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "铁东区",
         "name": "Tiedong Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "铁东区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "铁西区",
         "name": "Tiexi Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "铁西区"
             }
         }
@@ -85,7 +85,7 @@
         "code": "岫岩满族自治县",
         "name": "Xiuyan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "岫岩县"
             }
         }

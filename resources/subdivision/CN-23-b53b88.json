@@ -7,7 +7,7 @@
         "code": "勃利县",
         "name": "Boli Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "勃利县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "茄子河区",
         "name": "Qiezihe Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "茄子河区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "桃山区",
         "name": "Taoshan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "桃山区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "新兴区",
         "name": "Xinxing Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "新兴区"
             }
         }

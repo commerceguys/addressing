@@ -7,7 +7,7 @@
         "code": "沈北新区",
         "name": "Chenbei Xinqu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "沈北新区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "沈河区",
         "name": "Shenhe Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "沈河区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "大东区",
         "name": "Dadong Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "大东区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "东陵区",
         "name": "Dongling Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "东陵区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "法库县",
         "name": "Faku Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "法库县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "和平区",
         "name": "Heping Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "和平区"
             }
         }
@@ -85,7 +85,7 @@
         "code": "皇姑区",
         "name": "Huanggu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "皇姑区"
             }
         }
@@ -98,7 +98,7 @@
         "code": "康平县",
         "name": "Kangping Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "康平县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "辽中县",
         "name": "Liaozhong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "辽中县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "苏家屯区",
         "name": "Sujiatun Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "苏家屯区"
             }
         }
@@ -137,7 +137,7 @@
         "code": "铁西区",
         "name": "Tiexi Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "铁西区"
             }
         }
@@ -150,7 +150,7 @@
         "code": "新民市",
         "name": "Xinmin Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "新民市"
             }
         }
@@ -163,7 +163,7 @@
         "code": "于洪区",
         "name": "Yuhong Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "于洪区"
             }
         }

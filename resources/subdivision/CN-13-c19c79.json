@@ -7,7 +7,7 @@
         "code": "安平县",
         "name": "Anping Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "安平县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "阜城县",
         "name": "Fucheng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "阜城县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "故城县",
         "name": "Gucheng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "故城县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "冀州市",
         "name": "Jizhou Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "冀州市"
             }
         }
@@ -59,7 +59,7 @@
         "code": "景县",
         "name": "Jing Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "景县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "饶阳县",
         "name": "Raoyang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "饶阳县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "深州市",
         "name": "Shenzhou Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "深州市"
             }
         }
@@ -98,7 +98,7 @@
         "code": "桃城区",
         "name": "Taocheng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "桃城区"
             }
         }
@@ -111,7 +111,7 @@
         "code": "武强县",
         "name": "Wuqiang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "武强县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "武邑县",
         "name": "Wuyi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "武邑县"
             }
         }
@@ -137,7 +137,7 @@
         "code": "枣强县",
         "name": "Zaoqiang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "枣强县"
             }
         }

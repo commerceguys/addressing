@@ -7,7 +7,7 @@
         "code": "阿合奇县",
         "name": "Akqi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "阿合奇县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "阿克陶县",
         "name": "Akto Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "阿克陶县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "阿图什市",
         "name": "Artux Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "阿图什市"
             }
         }
@@ -46,7 +46,7 @@
         "code": "乌恰县",
         "name": "Wuqia Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "乌恰县"
             }
         }

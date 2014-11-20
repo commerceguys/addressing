@@ -7,7 +7,7 @@
         "code": "道县",
         "name": "Dao Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "道县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "东安县",
         "name": "Dong'an Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "东安县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "江华瑶族自治县",
         "name": "Jianghua Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "江华县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "江永县",
         "name": "Jiangyong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "江永县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "蓝山县",
         "name": "Lanshan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "蓝山县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "冷水滩区",
         "name": "Lengshuitan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "冷水滩区"
             }
         }
@@ -85,7 +85,7 @@
         "code": "零陵区",
         "name": "Lingling Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "零陵区"
             }
         }
@@ -98,7 +98,7 @@
         "code": "宁远县",
         "name": "Ningyuan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "宁远县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "祁阳县",
         "name": "Qiyang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "祁阳县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "双牌县",
         "name": "Shuangpai Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "双牌县"
             }
         }
@@ -137,7 +137,7 @@
         "code": "新田县",
         "name": "Xintian Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "新田县"
             }
         }

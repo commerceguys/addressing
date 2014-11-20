@@ -7,7 +7,7 @@
         "code": "鄯善县",
         "name": "Shanshan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "鄯善县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "吐鲁番市",
         "name": "Turpan Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "吐鲁番市"
             }
         }
@@ -33,7 +33,7 @@
         "code": "托克逊县",
         "name": "Toksun Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "托克逊县"
             }
         }

@@ -7,7 +7,7 @@
         "code": "东山区",
         "name": "Dongshan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "东山区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "工农区",
         "name": "Gongnong Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "工农区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "萝北县",
         "name": "Luobei Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "萝北县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "南山区",
         "name": "Nanshan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "南山区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "绥滨县",
         "name": "Suibin Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "绥滨县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "向阳区",
         "name": "Xiangyang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "向阳区"
             }
         }
@@ -85,7 +85,7 @@
         "code": "兴安区",
         "name": "Xing'an Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "兴安区"
             }
         }
@@ -98,7 +98,7 @@
         "code": "兴山区",
         "name": "Xingshan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "兴山区"
             }
         }

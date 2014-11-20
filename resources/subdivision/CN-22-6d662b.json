@@ -7,7 +7,7 @@
         "code": "扶余县",
         "name": "Fuyu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "扶余县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "乾安县",
         "name": "Qian'an Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "乾安县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "宁江区",
         "name": "Ningjiang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "宁江区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "前郭尔罗斯蒙古族自治县",
         "name": "Qian Gorlos Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "前郭尔罗斯县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "长岭县",
         "name": "Changling Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "长岭县"
             }
         }

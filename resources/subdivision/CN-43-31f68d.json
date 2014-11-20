@@ -7,7 +7,7 @@
         "code": "辰溪县",
         "name": "Chenxi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "辰溪县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "鹤城区",
         "name": "Hecheng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "鹤城区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "洪江市",
         "name": "Hongjiang Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "洪江市"
             }
         }
@@ -46,7 +46,7 @@
         "code": "会同县",
         "name": "Huitong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "会同县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "靖州苗族侗族自治县",
         "name": "Jingzhou Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "靖州县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "麻阳苗族自治县",
         "name": "Mayang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "麻阳县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "通道侗族自治县",
         "name": "Tongdao Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "通道县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "新晃侗族自治县",
         "name": "Xinhuang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "新晃县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "溆浦县",
         "name": "Xupu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "溆浦县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "沅陵县",
         "name": "Yuanling Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "沅陵县"
             }
         }
@@ -137,7 +137,7 @@
         "code": "芷江侗族自治县",
         "name": "Zhijiang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "芷江县"
             }
         }
@@ -150,7 +150,7 @@
         "code": "中方县",
         "name": "Zhongfang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "中方县"
             }
         }

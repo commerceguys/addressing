@@ -7,7 +7,7 @@
         "code": "察哈尔右翼后旗",
         "name": "Qahar Youyi Houqi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "察哈尔右翼后旗"
             }
         }
@@ -20,7 +20,7 @@
         "code": "察哈尔右翼前旗",
         "name": "Qahar Youyi Qianqi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "察哈尔右翼前旗"
             }
         }
@@ -33,7 +33,7 @@
         "code": "察哈尔右翼中旗",
         "name": "Qahar Youyi Zhongqi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "察哈尔右翼中旗"
             }
         }
@@ -46,7 +46,7 @@
         "code": "丰镇市",
         "name": "Fengzhen Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "丰镇市"
             }
         }
@@ -59,7 +59,7 @@
         "code": "化德县",
         "name": "Huade Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "化德县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "集宁区",
         "name": "Jining Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "集宁区"
             }
         }
@@ -85,7 +85,7 @@
         "code": "凉城县",
         "name": "Liangcheng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "凉城县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "商都县",
         "name": "Shangdu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "商都县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "四子王旗",
         "name": "Dorbod Qi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "四子王旗"
             }
         }
@@ -124,7 +124,7 @@
         "code": "兴和县",
         "name": "Xinghe Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "兴和县"
             }
         }
@@ -137,7 +137,7 @@
         "code": "卓资县",
         "name": "Zhuozi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "卓资县"
             }
         }

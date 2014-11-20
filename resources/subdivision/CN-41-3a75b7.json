@@ -7,7 +7,7 @@
         "code": "博爱县",
         "name": "Bo'ai Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "博爱县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "济源市",
         "name": "Jiyuan Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "济源市"
             }
         }
@@ -33,7 +33,7 @@
         "code": "解放区",
         "name": "Jiefang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "解放区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "马村区",
         "name": "Macun Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "马村区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "孟州市",
         "name": "Mengzhou Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "孟州市"
             }
         }
@@ -72,7 +72,7 @@
         "code": "沁阳市",
         "name": "Qinyang Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "沁阳市"
             }
         }
@@ -85,7 +85,7 @@
         "code": "山阳区",
         "name": "Shanyang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "山阳区"
             }
         }
@@ -98,7 +98,7 @@
         "code": "温县",
         "name": "Wen Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "温县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "武陟县",
         "name": "Wuzhi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "武陟县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "修武县",
         "name": "Xiwu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "修武县"
             }
         }
@@ -137,7 +137,7 @@
         "code": "中站区",
         "name": "Zhongzhan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "中站区"
             }
         }

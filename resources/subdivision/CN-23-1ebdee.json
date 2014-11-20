@@ -7,7 +7,7 @@
         "code": "翠峦区",
         "name": "Cuiluan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "翠峦区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "带岭区",
         "name": "Dailing Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "带岭区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "红星区",
         "name": "Hongxing Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "红星区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "嘉荫县",
         "name": "Jiayin Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "嘉荫县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "金山屯区",
         "name": "Jinshantun Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "金山屯区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "美溪区",
         "name": "Meixi Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "美溪区"
             }
         }
@@ -85,7 +85,7 @@
         "code": "南岔区",
         "name": "Nancha Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "南岔区"
             }
         }
@@ -98,7 +98,7 @@
         "code": "上甘岭区",
         "name": "Shangganling Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "上甘岭区"
             }
         }
@@ -111,7 +111,7 @@
         "code": "汤旺河区",
         "name": "Tangwanghe Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "汤旺河区"
             }
         }
@@ -124,7 +124,7 @@
         "code": "铁力市",
         "name": "Tieli Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "铁力市"
             }
         }
@@ -137,7 +137,7 @@
         "code": "乌马河区",
         "name": "Wumahe Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "乌马河区"
             }
         }
@@ -150,7 +150,7 @@
         "code": "乌伊岭区",
         "name": "Wuyiling Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "乌伊岭区"
             }
         }
@@ -163,7 +163,7 @@
         "code": "五营区",
         "name": "Wuying Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "五营区"
             }
         }
@@ -176,7 +176,7 @@
         "code": "西林区",
         "name": "Xilin Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "西林区"
             }
         }
@@ -189,7 +189,7 @@
         "code": "新青区",
         "name": "Xinqing Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "新青区"
             }
         }
@@ -202,7 +202,7 @@
         "code": "伊春区",
         "name": "Yichun Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "伊春区"
             }
         }
@@ -215,7 +215,7 @@
         "code": "友好区",
         "name": "Youhao Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "友好区"
             }
         }

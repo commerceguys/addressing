@@ -7,7 +7,7 @@
         "code": "当涂县",
         "name": "Dangtu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "当涂县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "花山区",
         "name": "Huashan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "花山区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "金家庄区",
         "name": "Jinjiazhuang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "金家庄区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "雨山区",
         "name": "Yushan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "雨山区"
             }
         }

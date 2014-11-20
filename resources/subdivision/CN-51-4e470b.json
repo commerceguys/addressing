@@ -7,7 +7,7 @@
         "code": "峨边彝族自治县",
         "name": "Ebian Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "峨边县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "峨眉山市",
         "name": "Emeishan Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "峨眉山市"
             }
         }
@@ -33,7 +33,7 @@
         "code": "夹江县",
         "name": "Jiajiang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "夹江县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "犍为县",
         "name": "Qianwei Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "犍为县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "金口河区",
         "name": "Jinkouhe Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "金口河区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "井研县",
         "name": "Jingyan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "井研县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "马边彝族自治县",
         "name": "Mabian Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "马边县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "沐川县",
         "name": "Muchuan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "沐川县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "沙湾区",
         "name": "Shawan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "沙湾区"
             }
         }
@@ -124,7 +124,7 @@
         "code": "市中区",
         "name": "Shizhong Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "市中区"
             }
         }
@@ -137,7 +137,7 @@
         "code": "五通桥区",
         "name": "Wutongqiao Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "五通桥区"
             }
         }

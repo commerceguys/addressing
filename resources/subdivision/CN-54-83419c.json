@@ -7,7 +7,7 @@
         "code": "措勤县",
         "name": "Coqên Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "措勤县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "噶尔县",
         "name": "Gar Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "噶尔县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "改则县",
         "name": "Gêrzê Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "改则县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "革吉县",
         "name": "Gê'gyai Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "革吉县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "普兰县",
         "name": "Burang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "普兰县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "日土县",
         "name": "Rutog Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "日土县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "札达县",
         "name": "Zanda Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "札达县"
             }
         }

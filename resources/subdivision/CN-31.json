@@ -7,7 +7,7 @@
         "code": "宝山区",
         "name": "Baoshan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "宝山区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "崇明县",
         "name": "Chongming Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "崇明县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "奉贤区",
         "name": "Fengxian Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "奉贤区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "虹口区",
         "name": "Hongkou Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "虹口区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "黄浦区",
         "name": "Huangpu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "黄浦区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "嘉定区",
         "name": "Jiading Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "嘉定区"
             }
         }
@@ -85,7 +85,7 @@
         "code": "金山区",
         "name": "Jinshan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "金山区"
             }
         }
@@ -98,7 +98,7 @@
         "code": "静安区",
         "name": "Jing'an Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "静安区"
             }
         }
@@ -111,7 +111,7 @@
         "code": "闵行区",
         "name": "Minhang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "闵行区"
             }
         }
@@ -124,7 +124,7 @@
         "code": "浦东新区",
         "name": "Pudong Xinqu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "浦东新区"
             }
         }
@@ -137,7 +137,7 @@
         "code": "普陀区",
         "name": "Putuo Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "普陀区"
             }
         }
@@ -150,7 +150,7 @@
         "code": "青浦区",
         "name": "Qingpu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "青浦区"
             }
         }
@@ -163,7 +163,7 @@
         "code": "松江区",
         "name": "Songjiang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "松江区"
             }
         }
@@ -176,7 +176,7 @@
         "code": "徐汇区",
         "name": "Xuhui Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "徐汇区"
             }
         }
@@ -189,7 +189,7 @@
         "code": "杨浦区",
         "name": "Yangpu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "杨浦区"
             }
         }
@@ -202,7 +202,7 @@
         "code": "闸北区",
         "name": "Zhabei Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "闸北区"
             }
         }
@@ -215,7 +215,7 @@
         "code": "长宁区",
         "name": "Changning Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "长宁区"
             }
         }

@@ -7,7 +7,7 @@
         "code": "八宿县",
         "name": "Baxoi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "八宿县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "边坝县",
         "name": "Banbar Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "边坝县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "察雅县",
         "name": "Chagyab Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "察雅县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "昌都县",
         "name": "Qamdo Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "昌都县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "丁青县",
         "name": "Dêngqên Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "丁青县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "贡觉县",
         "name": "Konjo Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "贡觉县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "江达县",
         "name": "Jomda Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "江达县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "类乌齐县",
         "name": "Riwoq Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "类乌齐县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "洛隆县",
         "name": "Lhorong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "洛隆县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "芒康县",
         "name": "Mangkam Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "芒康县"
             }
         }
@@ -137,7 +137,7 @@
         "code": "左贡县",
         "name": "Zogang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "左贡县"
             }
         }

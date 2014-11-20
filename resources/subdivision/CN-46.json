@@ -7,7 +7,7 @@
         "code": "白沙黎族自治县",
         "name": "Baisha Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "白沙县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "保亭黎族苗族自治县",
         "name": "Baoting Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "保亭县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "昌江黎族自治县",
         "name": "Changjiang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "昌江县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "澄迈县",
         "name": "Chengmai Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "澄迈县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "儋州市",
         "name": "Danzhou Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "儋州市"
             }
         }
@@ -72,7 +72,7 @@
         "code": "定安县",
         "name": "Ding'an Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "定安县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "东方市",
         "name": "Dongfang Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "东方市"
             }
         }
@@ -98,7 +98,7 @@
         "code": "海口市",
         "name": "Haikou Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "海口市"
             }
         },
@@ -112,7 +112,7 @@
         "code": "乐东黎族自治县",
         "name": "Ledong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "乐东县"
             }
         }
@@ -125,7 +125,7 @@
         "code": "临高县",
         "name": "Lingao Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "临高县"
             }
         }
@@ -138,7 +138,7 @@
         "code": "陵水黎族自治县",
         "name": "Lingshui Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "陵水县"
             }
         }
@@ -151,7 +151,7 @@
         "code": "南沙群岛",
         "name": "Nansha Qundao",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "南沙群岛"
             }
         }
@@ -164,7 +164,7 @@
         "code": "琼海市",
         "name": "Qionghai Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "琼海市"
             }
         }
@@ -177,7 +177,7 @@
         "code": "琼中黎族苗族自治县",
         "name": "Qiongzhong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "琼中县"
             }
         }
@@ -190,7 +190,7 @@
         "code": "三亚市",
         "name": "Sanya Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "三亚市"
             }
         }
@@ -203,7 +203,7 @@
         "code": "屯昌县",
         "name": "Tunchang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "屯昌县"
             }
         }
@@ -216,7 +216,7 @@
         "code": "万宁市",
         "name": "Wanning Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "万宁市"
             }
         }
@@ -229,7 +229,7 @@
         "code": "文昌市",
         "name": "Qiongshan Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "文昌市"
             }
         }
@@ -242,7 +242,7 @@
         "code": "五指山市",
         "name": "Wuzhishan Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "五指山市"
             }
         }
@@ -255,7 +255,7 @@
         "code": "西沙群岛",
         "name": "Xisha Qundao",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "西沙群岛"
             }
         }
@@ -268,7 +268,7 @@
         "code": "中沙群岛的岛礁及其海域",
         "name": "Zhongsha Qundao",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "中沙群岛"
             }
         }

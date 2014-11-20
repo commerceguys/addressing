@@ -7,7 +7,7 @@
         "code": "称多县",
         "name": "Chindu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "称多县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "囊谦县",
         "name": "Nangqên Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "囊谦县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "曲麻莱县",
         "name": "Qumarlêb Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "曲麻莱县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "玉树县",
         "name": "Yushu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "玉树县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "杂多县",
         "name": "Zadoi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "杂多县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "治多县",
         "name": "Zhidoi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "治多县"
             }
         }

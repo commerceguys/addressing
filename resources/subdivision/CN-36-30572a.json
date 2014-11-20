@@ -7,7 +7,7 @@
         "code": "崇仁县",
         "name": "Chongren Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "崇仁县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "东乡县",
         "name": "Dongxiang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "东乡县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "广昌县",
         "name": "Guangchang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "广昌县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "金溪县",
         "name": "Jinxi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "金溪县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "乐安县",
         "name": "Le'an Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "乐安县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "黎川县",
         "name": "Lichuan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "黎川县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "临川区",
         "name": "Linchuan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "临川区"
             }
         }
@@ -98,7 +98,7 @@
         "code": "南城县",
         "name": "Nancheng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "南城县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "南丰县",
         "name": "Nanfeng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "南丰县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "宜黄县",
         "name": "Yihuang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "宜黄县"
             }
         }
@@ -137,7 +137,7 @@
         "code": "资溪县",
         "name": "Zixi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "资溪县"
             }
         }

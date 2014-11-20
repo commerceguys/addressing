@@ -7,7 +7,7 @@
         "code": "高坪区",
         "name": "Gaoping Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "高坪区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "嘉陵区",
         "name": "Jialing Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "嘉陵区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "阆中市",
         "name": "Langzhong Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "阆中市"
             }
         }
@@ -46,7 +46,7 @@
         "code": "南部县",
         "name": "Nanbu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "南部县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "蓬安县",
         "name": "Peng'an Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "蓬安县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "顺庆区",
         "name": "Shunqing Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "顺庆区"
             }
         }
@@ -85,7 +85,7 @@
         "code": "西充县",
         "name": "Xichong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "西充县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "仪陇县",
         "name": "Yilong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "仪陇县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "营山县",
         "name": "Yingshan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "营山县"
             }
         }

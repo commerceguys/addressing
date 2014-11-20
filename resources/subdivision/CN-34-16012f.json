@@ -7,7 +7,7 @@
         "code": "黄山区",
         "name": "Huangshan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "黄山区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "徽州区",
         "name": "Huizhou Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "徽州区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "祁门县",
         "name": "Qimen Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "祁门县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "歙县",
         "name": "She Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "歙县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "屯溪区",
         "name": "Tunxi Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "屯溪区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "休宁县",
         "name": "Xiuning Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "休宁县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "黟县",
         "name": "Yi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "黟县"
             }
         }

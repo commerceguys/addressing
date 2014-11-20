@@ -7,7 +7,7 @@
         "code": "霍林郭勒市",
         "name": "Holingol Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "霍林郭勒市"
             }
         }
@@ -20,7 +20,7 @@
         "code": "开鲁县",
         "name": "Kailu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "开鲁县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "科尔沁区",
         "name": "Horqin Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "科尔沁区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "科尔沁左翼后旗",
         "name": "Horqin Zuoyi Houqi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "科尔沁左翼后旗"
             }
         }
@@ -59,7 +59,7 @@
         "code": "科尔沁左翼中旗",
         "name": "Horqin Zuoyi Zhongqi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "科尔沁左翼中旗"
             }
         }
@@ -72,7 +72,7 @@
         "code": "库伦旗",
         "name": "Hure Qi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "库伦旗"
             }
         }
@@ -85,7 +85,7 @@
         "code": "奈曼旗",
         "name": "Naiman Qi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "奈曼旗"
             }
         }
@@ -98,7 +98,7 @@
         "code": "扎鲁特旗",
         "name": "Jarud Qi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "扎鲁特旗"
             }
         }

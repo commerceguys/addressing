@@ -8,7 +8,7 @@
         "name": "Bade City",
         "postal_code_pattern": "334",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "八德市"
             }
         }
@@ -22,7 +22,7 @@
         "name": "Dasi Township",
         "postal_code_pattern": "335",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "大溪鎮"
             }
         }
@@ -36,7 +36,7 @@
         "name": "Dayuan Township",
         "postal_code_pattern": "337",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "大園鄉"
             }
         }
@@ -50,7 +50,7 @@
         "name": "Fusing Township",
         "postal_code_pattern": "336",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "復興鄉"
             }
         }
@@ -64,7 +64,7 @@
         "name": "Guanyin Township",
         "postal_code_pattern": "328",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "觀音鄉"
             }
         }
@@ -78,7 +78,7 @@
         "name": "Gueishan Township",
         "postal_code_pattern": "333",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "龜山鄉"
             }
         }
@@ -92,7 +92,7 @@
         "name": "Longtan Township",
         "postal_code_pattern": "325",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "龍潭鄉"
             }
         }
@@ -106,7 +106,7 @@
         "name": "Lujhu Township",
         "postal_code_pattern": "338",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "蘆竹鄉"
             }
         }
@@ -120,7 +120,7 @@
         "name": "Pingjhen City",
         "postal_code_pattern": "324",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "平鎮市"
             }
         }
@@ -134,7 +134,7 @@
         "name": "Taoyuan City",
         "postal_code_pattern": "330",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "桃園市"
             }
         }
@@ -148,7 +148,7 @@
         "name": "Sinwu Township",
         "postal_code_pattern": "327",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "新屋鄉"
             }
         }
@@ -162,7 +162,7 @@
         "name": "Yangmei Township",
         "postal_code_pattern": "326",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "楊梅鎮"
             }
         }
@@ -176,7 +176,7 @@
         "name": "Jhongli City",
         "postal_code_pattern": "320",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "中壢市"
             }
         }

@@ -7,7 +7,7 @@
         "code": "大冶市",
         "name": "Daye Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "大冶市"
             }
         }
@@ -20,7 +20,7 @@
         "code": "黄石港区",
         "name": "Huangshigang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "黄石港区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "铁山区",
         "name": "Tieshan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "铁山区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "西塞山区",
         "name": "Xisaishan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "西塞山区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "下陆区",
         "name": "Xialu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "下陆区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "阳新县",
         "name": "Yangxin Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "阳新县"
             }
         }

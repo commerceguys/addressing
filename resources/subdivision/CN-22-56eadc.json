@@ -7,7 +7,7 @@
         "code": "昌邑区",
         "name": "Changyi Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "昌邑区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "船营区",
         "name": "Chuanying Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "船营区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "丰满区",
         "name": "Fengman Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "丰满区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "桦甸市",
         "name": "Huadian Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "桦甸市"
             }
         }
@@ -59,7 +59,7 @@
         "code": "蛟河市",
         "name": "Jiaohe Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "蛟河市"
             }
         }
@@ -72,7 +72,7 @@
         "code": "龙潭区",
         "name": "Longtan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "龙潭区"
             }
         }
@@ -85,7 +85,7 @@
         "code": "磐石市",
         "name": "Panshi Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "磐石市"
             }
         }
@@ -98,7 +98,7 @@
         "code": "舒兰市",
         "name": "Shulan Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "舒兰市"
             }
         }
@@ -111,7 +111,7 @@
         "code": "永吉县",
         "name": "Yongji Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "永吉县"
             }
         }

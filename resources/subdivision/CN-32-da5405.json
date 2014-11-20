@@ -7,7 +7,7 @@
         "code": "滨海县",
         "name": "Binhai Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "滨海县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "大丰市",
         "name": "Dafeng Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "大丰市"
             }
         }
@@ -33,7 +33,7 @@
         "code": "东台市",
         "name": "Dongtai Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "东台市"
             }
         }
@@ -46,7 +46,7 @@
         "code": "阜宁县",
         "name": "Funing Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "阜宁县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "建湖县",
         "name": "Jianhu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "建湖县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "射阳县",
         "name": "Sheyang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "射阳县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "亭湖区",
         "name": "Tinghu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "亭湖区"
             }
         }
@@ -98,7 +98,7 @@
         "code": "响水县",
         "name": "Xiangshui Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "响水县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "盐都区",
         "name": "Yandu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "盐都区"
             }
         }

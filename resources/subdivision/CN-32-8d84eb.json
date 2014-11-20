@@ -7,7 +7,7 @@
         "code": "崇川区",
         "name": "Chongchuan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "崇川区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "港闸区",
         "name": "Gangzha Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "港闸区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "海安县",
         "name": "Hai'an Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "海安县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "海门市",
         "name": "Haimen Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "海门市"
             }
         }
@@ -59,7 +59,7 @@
         "code": "启东市",
         "name": "Qidong Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "启东市"
             }
         }
@@ -72,7 +72,7 @@
         "code": "如东县",
         "name": "Rudong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "如东县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "如皋市",
         "name": "Rugao Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "如皋市"
             }
         }
@@ -98,7 +98,7 @@
         "code": "通州市",
         "name": "Tongzhou Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "通州市"
             }
         }

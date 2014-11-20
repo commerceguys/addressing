@@ -8,7 +8,7 @@
         "name": "Beitou District",
         "postal_code_pattern": "112",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "北投區"
             }
         }
@@ -22,7 +22,7 @@
         "name": "Da-an District",
         "postal_code_pattern": "106",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "大安區"
             }
         }
@@ -36,7 +36,7 @@
         "name": "Datong District",
         "postal_code_pattern": "103",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "大同區"
             }
         }
@@ -50,7 +50,7 @@
         "name": "Nangang District",
         "postal_code_pattern": "115",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "南港區"
             }
         }
@@ -64,7 +64,7 @@
         "name": "Neihu District",
         "postal_code_pattern": "114",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "內湖區"
             }
         }
@@ -78,7 +78,7 @@
         "name": "Shihlin District",
         "postal_code_pattern": "111",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "士林區"
             }
         }
@@ -92,7 +92,7 @@
         "name": "Songshan District",
         "postal_code_pattern": "105",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "松山區"
             }
         }
@@ -106,7 +106,7 @@
         "name": "Wanhua District",
         "postal_code_pattern": "108",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "萬華區"
             }
         }
@@ -120,7 +120,7 @@
         "name": "Wunshan District",
         "postal_code_pattern": "116",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "文山區"
             }
         }
@@ -134,7 +134,7 @@
         "name": "Sinyi District",
         "postal_code_pattern": "110",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "信義區"
             }
         }
@@ -148,7 +148,7 @@
         "name": "Jhongshan District",
         "postal_code_pattern": "104",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "中山區"
             }
         }
@@ -162,7 +162,7 @@
         "name": "Jhongjheng District",
         "postal_code_pattern": "100",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "中正區"
             }
         }

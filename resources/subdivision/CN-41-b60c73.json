@@ -7,7 +7,7 @@
         "code": "临颍县",
         "name": "Linying Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "临颍县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "舞阳县",
         "name": "Wuyang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "舞阳县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "郾城区",
         "name": "Yancheng Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "郾城区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "源汇区",
         "name": "Yuanhui Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "源汇区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "召陵区",
         "name": "Zhaoling Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "召陵区"
             }
         }

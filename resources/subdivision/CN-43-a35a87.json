@@ -7,7 +7,7 @@
         "code": "冷水江市",
         "name": "Lengshuijiang Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "冷水江市"
             }
         }
@@ -20,7 +20,7 @@
         "code": "涟源市",
         "name": "Lianyuan Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "涟源市"
             }
         }
@@ -33,7 +33,7 @@
         "code": "娄星区",
         "name": "Louxing Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "娄星区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "双峰县",
         "name": "Shuangfeng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "双峰县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "新化县",
         "name": "Xinhua Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "新化县"
             }
         }

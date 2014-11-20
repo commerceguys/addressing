@@ -8,7 +8,7 @@
         "name": "Anle District",
         "postal_code_pattern": "204",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "安樂區"
             }
         }
@@ -22,7 +22,7 @@
         "name": "Nuannuan District",
         "postal_code_pattern": "205",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "暖暖區"
             }
         }
@@ -36,7 +36,7 @@
         "name": "Cidu District",
         "postal_code_pattern": "206",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "七堵區"
             }
         }
@@ -50,7 +50,7 @@
         "name": "Ren-ai District",
         "postal_code_pattern": "200",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "仁愛區"
             }
         }
@@ -64,7 +64,7 @@
         "name": "Sinyi District",
         "postal_code_pattern": "201",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "信義區"
             }
         }
@@ -78,7 +78,7 @@
         "name": "Jhongshan District",
         "postal_code_pattern": "203",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "中山區"
             }
         }
@@ -92,7 +92,7 @@
         "name": "Jhongjheng District",
         "postal_code_pattern": "202",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "中正區"
             }
         }

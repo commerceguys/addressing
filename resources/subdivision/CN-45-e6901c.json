@@ -7,7 +7,7 @@
         "code": "宾阳县",
         "name": "Binyang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "宾阳县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "横县",
         "name": "Heng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "横县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "江南区",
         "name": "Jiangnan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "江南区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "良庆区",
         "name": "Liangqing Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "良庆区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "隆安县",
         "name": "Long'an Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "隆安县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "马山县",
         "name": "Mashan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "马山县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "青秀区",
         "name": "Qingxiu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "青秀区"
             }
         }
@@ -98,7 +98,7 @@
         "code": "上林县",
         "name": "Shanglin Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "上林县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "武鸣县",
         "name": "Wuming Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "武鸣县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "西乡塘区",
         "name": "Xixiangtang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "西乡塘区"
             }
         }
@@ -137,7 +137,7 @@
         "code": "兴宁区",
         "name": "Xingning Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "兴宁区"
             }
         }
@@ -150,7 +150,7 @@
         "code": "邕宁区",
         "name": "Yongning Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "邕宁区"
             }
         }

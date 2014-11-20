@@ -7,7 +7,7 @@
         "code": "沧源佤族自治县",
         "name": "Cangyuan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "沧源县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "凤庆县",
         "name": "Fengqing Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "凤庆县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "耿马傣族佤族自治县",
         "name": "Gengma Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "耿马县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "临翔区",
         "name": "Linxiang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "临翔区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "双江拉祜族佤族布朗族傣族自治县",
         "name": "Shuangjiang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "双江县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "永德县",
         "name": "Yongde Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "永德县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "云县",
         "name": "Yun Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "云县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "镇康县",
         "name": "Zhenkang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "镇康县"
             }
         }

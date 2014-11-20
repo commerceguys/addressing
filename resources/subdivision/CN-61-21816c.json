@@ -7,7 +7,7 @@
         "code": "陈仓区",
         "name": "Chencang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "陈仓区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "凤县",
         "name": "Feng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "凤县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "凤翔县",
         "name": "Fengxiang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "凤翔县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "扶风县",
         "name": "Fufeng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "扶风县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "金台区",
         "name": "Jintai Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "金台区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "麟游县",
         "name": "Linyou Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "麟游县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "陇县",
         "name": "Long Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "陇县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "眉县",
         "name": "Mei Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "眉县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "岐山县",
         "name": "Qishan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "岐山县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "千阳县",
         "name": "Qianyang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "千阳县"
             }
         }
@@ -137,7 +137,7 @@
         "code": "太白县",
         "name": "Taibai Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "太白县"
             }
         }
@@ -150,7 +150,7 @@
         "code": "渭滨区",
         "name": "Weibin Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "渭滨区"
             }
         }

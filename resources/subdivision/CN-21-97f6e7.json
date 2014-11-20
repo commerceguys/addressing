@@ -7,7 +7,7 @@
         "code": "昌图县",
         "name": "Changtu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "昌图县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "调兵山市",
         "name": "Diaobingshan Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "调兵山市"
             }
         }
@@ -33,7 +33,7 @@
         "code": "开原市",
         "name": "Kaiyuan Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "开原市"
             }
         }
@@ -46,7 +46,7 @@
         "code": "清河区",
         "name": "Qinghe Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "清河区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "铁岭县",
         "name": "Tieling Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "铁岭县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "西丰县",
         "name": "Xifeng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "西丰县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "银州区",
         "name": "Yinzhou Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "银州区"
             }
         }

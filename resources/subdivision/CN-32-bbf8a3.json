@@ -7,7 +7,7 @@
         "code": "金坛市",
         "name": "Jintan Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "金坛市"
             }
         }
@@ -20,7 +20,7 @@
         "code": "溧阳市",
         "name": "Liyang Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "溧阳市"
             }
         }
@@ -33,7 +33,7 @@
         "code": "戚墅堰区",
         "name": "Qishuyan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "戚墅堰区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "天宁区",
         "name": "Tianning Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "天宁区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "武进区",
         "name": "Wujin Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "武进区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "新北区",
         "name": "Xinbei Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "新北区"
             }
         }
@@ -85,7 +85,7 @@
         "code": "钟楼区",
         "name": "Zhonglou Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "钟楼区"
             }
         }

@@ -7,7 +7,7 @@
         "code": "包河区",
         "name": "Baohe Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "包河区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "肥东县",
         "name": "Feidong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "肥东县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "肥西县",
         "name": "Feixi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "肥西县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "庐阳区",
         "name": "Luyang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "庐阳区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "蜀山区",
         "name": "Shushan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "蜀山区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "瑶海区",
         "name": "Yaohai Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "瑶海区"
             }
         }
@@ -85,7 +85,7 @@
         "code": "长丰县",
         "name": "Changfeng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "长丰县"
             }
         }

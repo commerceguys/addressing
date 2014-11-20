@@ -7,7 +7,7 @@
         "code": "城子河区",
         "name": "Chengzihe Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "城子河区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "滴道区",
         "name": "Keyao Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "滴道区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "恒山区",
         "name": "Hengshan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "恒山区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "虎林市",
         "name": "Hulin Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "虎林市"
             }
         }
@@ -59,7 +59,7 @@
         "code": "鸡东县",
         "name": "Jidong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "鸡东县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "鸡冠区",
         "name": "Jiguan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "鸡冠区"
             }
         }
@@ -85,7 +85,7 @@
         "code": "梨树区",
         "name": "Lishu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "梨树区"
             }
         }
@@ -98,7 +98,7 @@
         "code": "麻山区",
         "name": "Mashan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "麻山区"
             }
         }
@@ -111,7 +111,7 @@
         "code": "密山市",
         "name": "Mishan Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "密山市"
             }
         }

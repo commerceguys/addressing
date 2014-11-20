@@ -7,7 +7,7 @@
         "code": "慈利县",
         "name": "Cili Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "慈利县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "桑植县",
         "name": "Sangzhi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "桑植县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "武陵源区",
         "name": "Wulingyuan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "武陵源区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "永定区",
         "name": "Yongding Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "永定区"
             }
         }

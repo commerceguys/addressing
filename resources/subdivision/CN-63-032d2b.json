@@ -7,7 +7,7 @@
         "code": "共和县",
         "name": "Gonghe Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "共和县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "贵德县",
         "name": "Guide Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "贵德县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "贵南县",
         "name": "Guinan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "贵南县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "同德县",
         "name": "Tongde Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "同德县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "兴海县",
         "name": "Xinghai Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "兴海县"
             }
         }

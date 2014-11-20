@@ -19,7 +19,7 @@
         "parent_id": "TW-TPQ",
         "id": "TW-TPQ-8cbabb",
         "code": "三芝區",
-        "name": "Sanjhih District",
+        "name": "Sanzhi District",
         "postal_code_pattern": "252",
         "translations": {
             "zh-hant": {
@@ -47,7 +47,7 @@
         "parent_id": "TW-TPQ",
         "id": "TW-TPQ-abe144",
         "code": "三峽區",
-        "name": "Sansia District",
+        "name": "Sanxia District",
         "postal_code_pattern": "237",
         "translations": {
             "zh-hant": {
@@ -75,7 +75,7 @@
         "parent_id": "TW-TPQ",
         "id": "TW-TPQ-c773a1",
         "code": "中和區",
-        "name": "Jhonghe District",
+        "name": "Zhonghe District",
         "postal_code_pattern": "235",
         "translations": {
             "zh-hant": {
@@ -103,7 +103,7 @@
         "parent_id": "TW-TPQ",
         "id": "TW-TPQ-573328",
         "code": "平溪區",
-        "name": "Pingsi District",
+        "name": "Pingxi District",
         "postal_code_pattern": "226",
         "translations": {
             "zh-hant": {
@@ -131,7 +131,7 @@
         "parent_id": "TW-TPQ",
         "id": "TW-TPQ-3ab94e",
         "code": "石門區",
-        "name": "Shihmen District",
+        "name": "Shimen District",
         "postal_code_pattern": "253",
         "translations": {
             "zh-hant": {
@@ -145,7 +145,7 @@
         "parent_id": "TW-TPQ",
         "id": "TW-TPQ-c9b07c",
         "code": "石碇區",
-        "name": "Shihding District",
+        "name": "Shiding District",
         "postal_code_pattern": "223",
         "translations": {
             "zh-hant": {
@@ -159,7 +159,7 @@
         "parent_id": "TW-TPQ",
         "id": "TW-TPQ-328039",
         "code": "汐止區",
-        "name": "Sijhih District",
+        "name": "Xizhi District",
         "postal_code_pattern": "221",
         "translations": {
             "zh-hant": {
@@ -187,7 +187,7 @@
         "parent_id": "TW-TPQ",
         "id": "TW-TPQ-33f17b",
         "code": "板橋區",
-        "name": "Banciao District",
+        "name": "Banqiao District",
         "postal_code_pattern": "220",
         "translations": {
             "zh-hant": {
@@ -271,7 +271,7 @@
         "parent_id": "TW-TPQ",
         "id": "TW-TPQ-db70e6",
         "code": "淡水區",
-        "name": "Danshuei District",
+        "name": "Tamsui District",
         "postal_code_pattern": "251",
         "translations": {
             "zh-hant": {
@@ -299,7 +299,7 @@
         "parent_id": "TW-TPQ",
         "id": "TW-TPQ-894c9c",
         "code": "新店區",
-        "name": "Sindian District",
+        "name": "Xindian District",
         "postal_code_pattern": "231",
         "translations": {
             "zh-hant": {
@@ -313,7 +313,7 @@
         "parent_id": "TW-TPQ",
         "id": "TW-TPQ-6b02ea",
         "code": "新莊區",
-        "name": "Sinjhuang District",
+        "name": "Xinzhuang District",
         "postal_code_pattern": "242",
         "translations": {
             "zh-hant": {
@@ -327,7 +327,7 @@
         "parent_id": "TW-TPQ",
         "id": "TW-TPQ-c45205",
         "code": "瑞芳區",
-        "name": "Rueifang District",
+        "name": "Ruifang District",
         "postal_code_pattern": "224",
         "translations": {
             "zh-hant": {
@@ -369,7 +369,7 @@
         "parent_id": "TW-TPQ",
         "id": "TW-TPQ-3d6efc",
         "code": "雙溪區",
-        "name": "Shuangsi District",
+        "name": "Shuangxi District",
         "postal_code_pattern": "227",
         "translations": {
             "zh-hant": {
@@ -383,7 +383,7 @@
         "parent_id": "TW-TPQ",
         "id": "TW-TPQ-ae5301",
         "code": "蘆洲區",
-        "name": "Lujhou District",
+        "name": "Luzhou District",
         "postal_code_pattern": "247",
         "translations": {
             "zh-hant": {

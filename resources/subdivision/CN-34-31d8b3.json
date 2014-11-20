@@ -7,7 +7,7 @@
         "code": "广德县",
         "name": "Guangde Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "广德县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "绩溪县",
         "name": "Jixi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "绩溪县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "泾县",
         "name": "Jing Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "泾县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "旌德县",
         "name": "Jingde Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "旌德县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "郎溪县",
         "name": "Langxi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "郎溪县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "宁国市",
         "name": "Ningguo Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "宁国市"
             }
         }
@@ -85,7 +85,7 @@
         "code": "宣州区",
         "name": "Xuanzhou Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "宣州区"
             }
         }

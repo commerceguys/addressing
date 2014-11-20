@@ -7,7 +7,7 @@
         "code": "保靖县",
         "name": "Baojing Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "保靖县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "凤凰县",
         "name": "Fenghuang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "凤凰县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "古丈县",
         "name": "Guzhang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "古丈县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "花垣县",
         "name": "Huayuan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "花垣县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "吉首市",
         "name": "Jishou Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "吉首市"
             }
         }
@@ -72,7 +72,7 @@
         "code": "龙山县",
         "name": "Longshan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "龙山县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "泸溪县",
         "name": "Luxi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "泸溪县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "永顺县",
         "name": "Yongshun Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "永顺县"
             }
         }

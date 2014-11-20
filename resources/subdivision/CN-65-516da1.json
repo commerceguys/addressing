@@ -7,7 +7,7 @@
         "code": "博乐市",
         "name": "Bole Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "博乐市"
             }
         }
@@ -20,7 +20,7 @@
         "code": "精河县",
         "name": "Jinghe Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "精河县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "温泉县",
         "name": "Wenquan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "温泉县"
             }
         }

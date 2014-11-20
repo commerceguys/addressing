@@ -7,7 +7,7 @@
         "code": "关岭布依族苗族自治县",
         "name": "Guanling Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "关岭县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "平坝县",
         "name": "Pingba Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "平坝县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "普定县",
         "name": "Puding Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "普定县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "西秀区",
         "name": "Xixiu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "西秀区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "镇宁布依族苗族自治县",
         "name": "Zhenning Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "镇宁县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "紫云苗族布依族自治县",
         "name": "Ziyun Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "紫云县"
             }
         }

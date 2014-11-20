@@ -7,7 +7,7 @@
         "code": "潮州市",
         "name": "Chaozhou Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "潮州市"
             }
         },
@@ -21,7 +21,7 @@
         "code": "东莞市",
         "name": "Dongguan Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "东莞市"
             }
         }
@@ -34,7 +34,7 @@
         "code": "佛山市",
         "name": "Foshan Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "佛山市"
             }
         },
@@ -48,7 +48,7 @@
         "code": "广州市",
         "name": "Guangzhou Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "广州市"
             }
         },
@@ -62,7 +62,7 @@
         "code": "河源市",
         "name": "Heyuan Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "河源市"
             }
         },
@@ -76,7 +76,7 @@
         "code": "惠州市",
         "name": "Huizhou Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "惠州市"
             }
         },
@@ -90,7 +90,7 @@
         "code": "江门市",
         "name": "Jiangmen Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "江门市"
             }
         },
@@ -104,7 +104,7 @@
         "code": "揭阳市",
         "name": "Jieyang Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "揭阳市"
             }
         },
@@ -118,7 +118,7 @@
         "code": "茂名市",
         "name": "Maoming Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "茂名市"
             }
         },
@@ -132,7 +132,7 @@
         "code": "梅州市",
         "name": "Meizhou Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "梅州市"
             }
         },
@@ -146,7 +146,7 @@
         "code": "清远市",
         "name": "Qingyuan Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "清远市"
             }
         },
@@ -160,7 +160,7 @@
         "code": "汕头市",
         "name": "Shantou Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "汕头市"
             }
         },
@@ -174,7 +174,7 @@
         "code": "汕尾市",
         "name": "Shanwei Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "汕尾市"
             }
         },
@@ -188,7 +188,7 @@
         "code": "韶关市",
         "name": "Shaoguan Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "韶关市"
             }
         },
@@ -202,7 +202,7 @@
         "code": "深圳市",
         "name": "Shenzhen Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "深圳市"
             }
         },
@@ -216,7 +216,7 @@
         "code": "阳江市",
         "name": "Yangjiang Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "阳江市"
             }
         },
@@ -230,7 +230,7 @@
         "code": "云浮市",
         "name": "Yunfu Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "云浮市"
             }
         },
@@ -244,7 +244,7 @@
         "code": "湛江市",
         "name": "Zhanjiang Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "湛江市"
             }
         },
@@ -258,7 +258,7 @@
         "code": "肇庆市",
         "name": "Zhaoqing Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "肇庆市"
             }
         },
@@ -272,7 +272,7 @@
         "code": "中山市",
         "name": "Zhongshan Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "中山市"
             }
         }
@@ -285,7 +285,7 @@
         "code": "珠海市",
         "name": "Zhuhai Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "珠海市"
             }
         },

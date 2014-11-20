@@ -7,7 +7,7 @@
         "code": "巴东县",
         "name": "Badong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "巴东县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "恩施市",
         "name": "Enshi Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "恩施市"
             }
         }
@@ -33,7 +33,7 @@
         "code": "鹤峰县",
         "name": "Hefeng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "鹤峰县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "建始县",
         "name": "Jianshi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "建始县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "来凤县",
         "name": "Laifeng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "来凤县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "利川市",
         "name": "Lichuan Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "利川市"
             }
         }
@@ -85,7 +85,7 @@
         "code": "咸丰县",
         "name": "Xianfeng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "咸丰县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "宣恩县",
         "name": "Xuan'en Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "宣恩县"
             }
         }

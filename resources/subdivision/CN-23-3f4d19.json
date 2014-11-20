@@ -7,7 +7,7 @@
         "code": "爱辉区",
         "name": "Aihui Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "爱辉区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "北安市",
         "name": "Bei'an Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "北安市"
             }
         }
@@ -33,7 +33,7 @@
         "code": "嫩江县",
         "name": "Nenjiang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "嫩江县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "孙吴县",
         "name": "Sunwu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "孙吴县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "五大连池市",
         "name": "Wudalianchi Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "五大连池市"
             }
         }
@@ -72,7 +72,7 @@
         "code": "逊克县",
         "name": "Xunke Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "逊克县"
             }
         }

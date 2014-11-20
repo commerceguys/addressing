@@ -7,7 +7,7 @@
         "code": "魏都区",
         "name": "Weidu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "魏都区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "襄城县",
         "name": "Xiangcheng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "襄城县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "许昌县",
         "name": "Xuchang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "许昌县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "鄢陵县",
         "name": "Yanling Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "鄢陵县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "禹州市",
         "name": "Yuzhou Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "禹州市"
             }
         }
@@ -72,7 +72,7 @@
         "code": "长葛市",
         "name": "Changge Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "长葛市"
             }
         }

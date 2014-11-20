@@ -7,7 +7,7 @@
         "code": "定远县",
         "name": "Dingyuan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "定远县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "凤阳县",
         "name": "Fengyang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "凤阳县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "来安县",
         "name": "Lai'an Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "来安县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "琅琊区",
         "name": "Liangya Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "琅琊区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "明光市",
         "name": "Mingguang Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "明光市"
             }
         }
@@ -72,7 +72,7 @@
         "code": "南谯区",
         "name": "Nanqiao Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "南谯区"
             }
         }
@@ -85,7 +85,7 @@
         "code": "全椒县",
         "name": "Quanjiao Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "全椒县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "天长市",
         "name": "Tianchang Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "天长市"
             }
         }

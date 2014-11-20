@@ -7,7 +7,7 @@
         "code": "本溪满族自治县",
         "name": "Benxi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "本溪县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "桓仁满族自治县",
         "name": "Huanren Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "桓仁县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "明山区",
         "name": "Mingshan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "明山区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "南芬区",
         "name": "Nanfen Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "南芬区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "平山区",
         "name": "Pingshan Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "平山区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "溪湖区",
         "name": "Xihu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "溪湖区"
             }
         }

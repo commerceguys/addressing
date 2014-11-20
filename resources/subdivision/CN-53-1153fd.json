@@ -7,7 +7,7 @@
         "code": "景洪市",
         "name": "Jinghong Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "景洪市"
             }
         }
@@ -20,7 +20,7 @@
         "code": "勐海县",
         "name": "Menghai Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "勐海县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "勐腊县",
         "name": "Mengla Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "勐腊县"
             }
         }

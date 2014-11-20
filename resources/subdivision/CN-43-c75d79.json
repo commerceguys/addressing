@@ -7,7 +7,7 @@
         "code": "韶山市",
         "name": "Shaoshan Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "韶山市"
             }
         }
@@ -20,7 +20,7 @@
         "code": "湘潭县",
         "name": "Xiangtan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "湘潭县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "湘乡市",
         "name": "Xiangxiang Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "湘乡市"
             }
         }
@@ -46,7 +46,7 @@
         "code": "雨湖区",
         "name": "Yuhu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "雨湖区"
             }
         }
@@ -59,7 +59,7 @@
         "code": "岳塘区",
         "name": "Yuetang Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "岳塘区"
             }
         }

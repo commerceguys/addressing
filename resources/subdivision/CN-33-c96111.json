@@ -7,7 +7,7 @@
         "code": "缙云县",
         "name": "Jinyun Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "缙云县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "景宁畲族自治县",
         "name": "Jingning Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "景宁县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "莲都区",
         "name": "Liandu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "莲都区"
             }
         }
@@ -46,7 +46,7 @@
         "code": "龙泉市",
         "name": "Longquan Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "龙泉市"
             }
         }
@@ -59,7 +59,7 @@
         "code": "青田县",
         "name": "Qingtian Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "青田县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "庆元县",
         "name": "Qingyuan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "庆元县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "松阳县",
         "name": "Songyang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "松阳县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "遂昌县",
         "name": "Suichang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "遂昌县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "云和县",
         "name": "Yunhe Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "云和县"
             }
         }

@@ -7,7 +7,7 @@
         "code": "利通区",
         "name": "Litong Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "利通区"
             }
         }
@@ -20,7 +20,7 @@
         "code": "青铜峡市",
         "name": "Qingtongxia Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "青铜峡市"
             }
         }
@@ -33,7 +33,7 @@
         "code": "同心县",
         "name": "Tongxin Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "同心县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "盐池县",
         "name": "Yanchi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "盐池县"
             }
         }

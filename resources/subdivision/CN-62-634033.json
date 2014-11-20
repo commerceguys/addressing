@@ -7,7 +7,7 @@
         "code": "成县",
         "name": "Cheng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "成县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "宕昌县",
         "name": "Tanchang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "宕昌县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "徽县",
         "name": "Hui Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "徽县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "康县",
         "name": "Kang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "康县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "礼县",
         "name": "Li Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "礼县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "两当县",
         "name": "Liangdang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "两当县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "文县",
         "name": "Wen Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "文县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "武都区",
         "name": "Wudu Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "武都区"
             }
         }
@@ -111,7 +111,7 @@
         "code": "西和县",
         "name": "Xihe Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "西和县"
             }
         }

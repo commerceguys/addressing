@@ -7,7 +7,7 @@
         "code": "沧县",
         "name": "Cang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "沧县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "东光县",
         "name": "Dongguang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "东光县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "海兴县",
         "name": "Haixing Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "海兴县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "河间市",
         "name": "Hejian Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "河间市"
             }
         }
@@ -59,7 +59,7 @@
         "code": "黄骅市",
         "name": "Huanghua Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "黄骅市"
             }
         }
@@ -72,7 +72,7 @@
         "code": "孟村回族自治县",
         "name": "Mengcun Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "孟村县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "南皮县",
         "name": "Nanpi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "南皮县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "泊头市",
         "name": "Botou Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "泊头市"
             }
         }
@@ -111,7 +111,7 @@
         "code": "青县",
         "name": "Qing Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "青县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "任丘市",
         "name": "Renqiu Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "任丘市"
             }
         }
@@ -137,7 +137,7 @@
         "code": "肃宁县",
         "name": "Suning Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "肃宁县"
             }
         }
@@ -150,7 +150,7 @@
         "code": "吴桥县",
         "name": "Wuqiao Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "吴桥县"
             }
         }
@@ -163,7 +163,7 @@
         "code": "献县",
         "name": "Xian Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "献县"
             }
         }
@@ -176,7 +176,7 @@
         "code": "新华区",
         "name": "Xinhua Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "新华区"
             }
         }
@@ -189,7 +189,7 @@
         "code": "盐山县",
         "name": "Yanshan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "盐山县"
             }
         }
@@ -202,7 +202,7 @@
         "code": "运河区",
         "name": "Yunhe Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "运河区"
             }
         }

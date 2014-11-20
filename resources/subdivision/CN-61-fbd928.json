@@ -7,7 +7,7 @@
         "code": "安塞县",
         "name": "Ansai Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "安塞县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "宝塔区",
         "name": "Baota Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "宝塔区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "富县",
         "name": "Fu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "富县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "甘泉县",
         "name": "Ganquan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "甘泉县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "黄陵县",
         "name": "Huangling Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "黄陵县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "黄龙县",
         "name": "Huanglong Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "黄龙县"
             }
         }
@@ -85,7 +85,7 @@
         "code": "洛川县",
         "name": "Luochuan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "洛川县"
             }
         }
@@ -98,7 +98,7 @@
         "code": "吴起县",
         "name": "Wuqi Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "吴起县"
             }
         }
@@ -111,7 +111,7 @@
         "code": "延川县",
         "name": "Yanchuan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "延川县"
             }
         }
@@ -124,7 +124,7 @@
         "code": "延长县",
         "name": "Yanzhang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "延长县"
             }
         }
@@ -137,7 +137,7 @@
         "code": "宜川县",
         "name": "Yichuan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "宜川县"
             }
         }
@@ -150,7 +150,7 @@
         "code": "志丹县",
         "name": "Zhidan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "志丹县"
             }
         }
@@ -163,7 +163,7 @@
         "code": "子长县",
         "name": "Zichang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "子长县"
             }
         }

@@ -7,7 +7,7 @@
         "code": "范县",
         "name": "Fan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "范县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "华龙区",
         "name": "Hualong Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "华龙区"
             }
         }
@@ -33,7 +33,7 @@
         "code": "南乐县",
         "name": "Nanle Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "南乐县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "濮阳县",
         "name": "Puyang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "濮阳县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "清丰县",
         "name": "Qingfeng Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "清丰县"
             }
         }
@@ -72,7 +72,7 @@
         "code": "台前县",
         "name": "Taiqian Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "台前县"
             }
         }

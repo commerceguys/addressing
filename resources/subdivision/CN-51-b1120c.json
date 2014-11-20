@@ -7,7 +7,7 @@
         "code": "达县",
         "name": "Da Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "达县"
             }
         }
@@ -20,7 +20,7 @@
         "code": "大竹县",
         "name": "Dazhu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "大竹县"
             }
         }
@@ -33,7 +33,7 @@
         "code": "开江县",
         "name": "Kaijiang Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "开江县"
             }
         }
@@ -46,7 +46,7 @@
         "code": "渠县",
         "name": "Qu Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "渠县"
             }
         }
@@ -59,7 +59,7 @@
         "code": "通川区",
         "name": "Tongzhou Qu",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "通川区"
             }
         }
@@ -72,7 +72,7 @@
         "code": "万源市",
         "name": "Wanyuan Shi",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "万源市"
             }
         }
@@ -85,7 +85,7 @@
         "code": "宣汉县",
         "name": "Xuanhan Xian",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "宣汉县"
             }
         }

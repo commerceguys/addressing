@@ -8,7 +8,7 @@
         "name": "Dongsha Island",
         "postal_code_pattern": "817",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "東沙島"
             }
         }
@@ -22,7 +22,7 @@
         "name": "Gushan District",
         "postal_code_pattern": "804",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "鼓山區"
             }
         }
@@ -36,7 +36,7 @@
         "name": "Lingya District",
         "postal_code_pattern": "802",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "苓雅區"
             }
         }
@@ -50,7 +50,7 @@
         "name": "Nansha Island",
         "postal_code_pattern": "819",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "南沙島"
             }
         }
@@ -64,7 +64,7 @@
         "name": "Nanzih District",
         "postal_code_pattern": "811",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "楠梓區"
             }
         }
@@ -78,7 +78,7 @@
         "name": "Cijin District",
         "postal_code_pattern": "805",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "旗津區"
             }
         }
@@ -92,7 +92,7 @@
         "name": "Cianjin District",
         "postal_code_pattern": "801",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "前金區"
             }
         }
@@ -106,7 +106,7 @@
         "name": "Cianjhen District",
         "postal_code_pattern": "806",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "前鎮區"
             }
         }
@@ -120,7 +120,7 @@
         "name": "Sanmin District",
         "postal_code_pattern": "807",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "三民區"
             }
         }
@@ -134,7 +134,7 @@
         "name": "Siaogang District",
         "postal_code_pattern": "812",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "小港區"
             }
         }
@@ -148,7 +148,7 @@
         "name": "Sinsing District",
         "postal_code_pattern": "800",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "新興區"
             }
         }
@@ -162,7 +162,7 @@
         "name": "Yancheng District",
         "postal_code_pattern": "803",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "鹽埕區"
             }
         }
@@ -176,7 +176,7 @@
         "name": "Zuoying District",
         "postal_code_pattern": "813",
         "translations": {
-            "zh-hans": {
+            "zh": {
                 "name": "左營區"
             }
         }
