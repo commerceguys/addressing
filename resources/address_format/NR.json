@@ -8,6 +8,5 @@
     "uppercase_fields": [
         "locality"
     ],
-    "administrative_area_type": "district",
-    "postal_code_type": "postal"
+    "administrative_area_type": "district"
 }

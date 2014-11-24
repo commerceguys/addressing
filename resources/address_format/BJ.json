@@ -9,6 +9,5 @@
         "address",
         "locality"
     ],
-    "locality_type": "city",
-    "postal_code_type": "postal"
+    "locality_type": "city"
 }

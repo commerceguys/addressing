@@ -168,25 +168,40 @@ function create_address_format_definition($rawDefinition)
         'format' => null,
         'required_fields' => convert_fields($rawDefinition['require']),
         'uppercase_fields' => convert_fields($rawDefinition['upper']),
-        'administrative_area_type' => $rawDefinition['state_name_type'],
-        'locality_type' => $rawDefinition['locality_name_type'],
-        'dependent_locality_type' => $rawDefinition['sublocality_name_type'],
-        'postal_code_type' => $rawDefinition['zip_name_type'],
     );
-    if (isset($rawDefinition['zip'])) {
-        $addressFormat['postal_code_pattern'] = $rawDefinition['zip'];
-    }
-    if (isset($rawDefinition['postprefix'])) {
-        $addressFormat['postal_code_prefix'] = $rawDefinition['postprefix'];
-    }
 
-    if (isset($rawDefinition['lfmt'])) {
-        // Handle the China/Korea/Japan dual formats via translation.
+    $translations = array();
+    if (isset($rawDefinition['lfmt']) && $rawDefinition['lfmt'] != $rawDefinition['fmt']) {
+        // Handle the China/Korea/Japan dual formats via translations.
         $language = $rawDefinition['lang'];
-        $addressFormat['translations'][$language]['format'] = convert_format($rawDefinition['fmt']);
+        $translations[$language]['format'] = convert_format($rawDefinition['fmt']);
         $addressFormat['format'] = convert_format($rawDefinition['lfmt']);
     } else {
         $addressFormat['format'] = convert_format($rawDefinition['fmt']);
+    }
+
+    if (strpos($addressFormat['format'], '%' . AddressFormat::FIELD_ADMINISTRATIVE_AREA) !== false) {
+        $addressFormat['administrative_area_type'] = $rawDefinition['state_name_type'];
+    }
+    if (strpos($addressFormat['format'], '%' . AddressFormat::FIELD_LOCALITY) !== false) {
+        $addressFormat['locality_type'] = $rawDefinition['locality_name_type'];
+    }
+    if (strpos($addressFormat['format'], '%' . AddressFormat::FIELD_DEPENDENT_LOCALITY) !== false) {
+        $addressFormat['dependent_locality_type'] = $rawDefinition['sublocality_name_type'];
+    }
+    if (strpos($addressFormat['format'], '%' . AddressFormat::FIELD_POSTAL_CODE) !== false) {
+        $addressFormat['postal_code_type'] = $rawDefinition['zip_name_type'];
+        if (isset($rawDefinition['zip'])) {
+            $addressFormat['postal_code_pattern'] = $rawDefinition['zip'];
+        }
+        if (isset($rawDefinition['postprefix'])) {
+            $addressFormat['postal_code_prefix'] = $rawDefinition['postprefix'];
+        }
+    }
+
+    // Add translations as the last key.
+    if ($translations) {
+        $addressFormat['translations'] = $translations;
     }
 
     return $addressFormat;

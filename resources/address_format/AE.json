@@ -1,13 +1,11 @@
 {
-    "locale": "und",
-    "format": "%recipient\n%organization\n%address\n%locality",
+    "locale": "ar-Latn",
+    "format": "%recipient\n%organization\n%address\n%administrative_area",
     "required_fields": [
-        "address",
-        "locality"
+        "address"
     ],
     "uppercase_fields": [
         "locality"
     ],
-    "locality_type": "city",
-    "postal_code_type": "postal"
+    "administrative_area_type": "emirate"
 }

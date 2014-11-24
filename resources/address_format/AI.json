@@ -8,7 +8,5 @@
     "uppercase_fields": [
         "locality"
     ],
-    "locality_type": "city",
-    "postal_code_type": "postal",
-    "postal_code_pattern": "2640"
+    "locality_type": "city"
 }

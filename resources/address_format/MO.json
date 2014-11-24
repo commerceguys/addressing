@@ -7,7 +7,6 @@
     "uppercase_fields": [
         "locality"
     ],
-    "postal_code_type": "postal",
     "translations": {
         "zh": {
             "format": "%address\n%organization\n%recipient"

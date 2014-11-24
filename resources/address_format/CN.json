@@ -16,7 +16,7 @@
     "postal_code_type": "postal",
     "postal_code_pattern": "\\d{6}",
     "translations": {
-        "zh-hans": {
+        "zh": {
             "format": "%postal_code\n%administrative_area%locality%dependent_locality\n%address\n%organization\n%recipient"
         }
     }

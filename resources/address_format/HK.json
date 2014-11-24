@@ -10,7 +10,6 @@
     ],
     "administrative_area_type": "area",
     "locality_type": "district",
-    "postal_code_type": "postal",
     "translations": {
         "zh-hant": {
             "format": "%administrative_area\n%locality\n%address\n%organization\n%recipient"
