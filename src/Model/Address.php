@@ -3,7 +3,7 @@
 namespace CommerceGuys\Addressing\Model;
 
 use CommerceGuys\Addressing\Validator\Constraints\AddressFormat as AddressFormatConstraint;
-use Symfony\Component\Validator\Constraints\Country as CountryConstraint;
+use CommerceGuys\Addressing\Validator\Constraints\Country as CountryConstraint;
 use Symfony\Component\Validator\Constraints\NotBlank as NotBlankConstraint;
 use Symfony\Component\Validator\Mapping\ClassMetadata;
 
