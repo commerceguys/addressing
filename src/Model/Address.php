@@ -2,11 +2,6 @@
 
 namespace CommerceGuys\Addressing\Model;
 
-use CommerceGuys\Addressing\Validator\Constraints\AddressFormat as AddressFormatConstraint;
-use CommerceGuys\Addressing\Validator\Constraints\Country as CountryConstraint;
-use Symfony\Component\Validator\Constraints\NotBlank as NotBlankConstraint;
-use Symfony\Component\Validator\Mapping\ClassMetadata;
-
 class Address implements AddressInterface
 {
     /**
@@ -282,20 +277,5 @@ class Address implements AddressInterface
         $this->recipient = $recipient;
 
         return $this;
-    }
-
-    /**
-     * @codeCoverageIgnore
-     */
-    public static function loadValidatorMetadata(ClassMetadata $metadata)
-    {
-        $metadata->addPropertyConstraint('countryCode', new NotBlankConstraint());
-        $metadata->addPropertyConstraint('countryCode', new CountryConstraint());
-        $metadata->addConstraint(new AddressFormatConstraint(array(
-            'groups' => array('AddressFormat'),
-        )));
-
-        // Validate the address format only if the country is valid.
-        $metadata->setGroupSequence(array('Address', 'AddressFormat'));
     }
 }
