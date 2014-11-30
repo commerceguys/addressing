@@ -8,11 +8,12 @@ use CommerceGuys\Addressing\Validator\Constraints\AddressFormat as AddressFormat
 use CommerceGuys\Addressing\Validator\Constraints\AddressFormatValidator;
 use Symfony\Component\Validator\Validation;
 use Symfony\Component\Validator\ValidatorInterface;
+use Symfony\Component\Validator\Tests\Constraints\AbstractConstraintValidatorTest;
 
 /**
  * @coversDefaultClass \CommerceGuys\Addressing\Validator\Constraints\AddressFormatValidator
  */
-class AddressFormatValidatorTest extends \PHPUnit_Framework_TestCase
+class AddressFormatValidatorTest extends AbstractConstraintValidatorTest
 {
     /**
      * @var Address;
@@ -20,14 +21,9 @@ class AddressFormatValidatorTest extends \PHPUnit_Framework_TestCase
     protected $address;
 
     /**
-     * @var AddressFormat
+     * @var AddressFormatConstraint
      */
     protected $constraint;
-
-    /**
-     * @var ValidatorInterface
-     */
-    protected $validator;
 
     /**
      * {@inheritdoc}
@@ -36,7 +32,31 @@ class AddressFormatValidatorTest extends \PHPUnit_Framework_TestCase
     {
         $this->address = new Address();
         $this->constraint = new AddressFormatConstraint();
-        $this->validator = Validation::createValidator();
+
+        // The following code is copied from the parent setUp(), which isn't
+        // called to avoid the call to \Locale, which introduces a dependency
+        // on the intl extension (or symfony/intl).
+        $this->group = 'MyGroup';
+        $this->metadata = null;
+        $this->object = null;
+        $this->value = 'InvalidValue';
+        $this->root = 'root';
+        $this->propertyPath = '';
+        $this->context = $this->createContext();
+        $this->validator = $this->createValidator();
+        $this->validator->initialize($this->context);
+    }
+
+    protected function getApiVersion()
+    {
+        // The equivalent of Validation::API_VERSION_2_5_BC, needed to trigger
+        // BC mode in symfony/validator >= 2.5.
+        return 3;
+    }
+
+    protected function createValidator()
+    {
+        return new AddressFormatValidator();
     }
 
     /**
@@ -57,7 +77,9 @@ class AddressFormatValidatorTest extends \PHPUnit_Framework_TestCase
           ->setLocality('Mountain View')
           ->setAddressLine1('1234 Somewhere')
           ->setPostalCode('94025');
-        $this->assertNoViolations($this->address);
+
+        $this->validator->validate($this->address, $this->constraint);
+        $this->assertNoViolation();
     }
 
     /**
@@ -76,11 +98,15 @@ class AddressFormatValidatorTest extends \PHPUnit_Framework_TestCase
           ->setCountryCode('US')
           ->setAdministrativeArea('US-CA')
           ->setPostalCode('90961');
-        $violations = $this->validator->validate($this->address, $this->constraint);
 
-        $this->assertCount(2, $violations);
-        $this->assertViolation('addressLine1', $this->constraint->notBlankMessage, $violations[0]);
-        $this->assertViolation('locality', $this->constraint->notBlankMessage, $violations[1]);
+        $this->validator->validate($this->address, $this->constraint);
+        $this->buildViolation($this->constraint->notBlankMessage)
+            ->atPath('[addressLine1]')
+            ->setInvalidValue(null)
+            ->buildNextViolation($this->constraint->notBlankMessage)
+            ->atPath('[locality]')
+            ->setInvalidValue(null)
+            ->assertRaised();
     }
 
     /**
@@ -101,7 +127,9 @@ class AddressFormatValidatorTest extends \PHPUnit_Framework_TestCase
             ->setLocality('CN-11-30524e')
             ->setAddressLine1('Yitiao Lu')
             ->setPostalCode('123456');
-        $this->assertNoViolations($this->address);
+
+        $this->validator->validate($this->address, $this->constraint);
+        $this->assertNoViolation();
     }
 
     /**
@@ -123,14 +151,18 @@ class AddressFormatValidatorTest extends \PHPUnit_Framework_TestCase
             ->setPostalCode('10553')
             ->setOrganization('BMW AG Niederkassung Berlin')
             ->setRecipient('Herr Diefendorf');
-        $this->assertNoViolations($this->address);
+
+        $this->validator->validate($this->address, $this->constraint);
+        $this->assertNoViolation();
 
         // Testing with a empty city should fail.
         $this->address->setLocality(null);
-        $violations = $this->validator->validate($this->address, $this->constraint);
 
-        $this->assertCount(1, $violations);
-        $this->assertViolation('locality', $this->constraint->notBlankMessage, $violations[0]);
+        $this->validator->validate($this->address, $this->constraint);
+        $this->buildViolation($this->constraint->notBlankMessage)
+            ->atPath('[locality]')
+            ->setInvalidValue(null)
+            ->assertRaised();
     }
 
     /**
@@ -151,14 +183,16 @@ class AddressFormatValidatorTest extends \PHPUnit_Framework_TestCase
             ->setAdministrativeArea('IE-D')
             ->setAddressLine1('7424 118 Avenue NW')
             ->setRecipient("Conan O'Brien");
-        $this->assertNoViolations($this->address);
+
+        $this->validator->validate($this->address, $this->constraint);
+        $this->assertNoViolation();
 
         // Test the same address but leave the county empty. This address should be valid
         // since county is not required.
         $this->address->setAdministrativeArea(null);
-        $violations = $this->validator->validate($this->address, $this->constraint);
 
-        $this->assertCount(0, $violations);
+        $this->validator->validate($this->address, $this->constraint);
+        $this->assertNoViolation();
     }
 
     /**
@@ -177,12 +211,15 @@ class AddressFormatValidatorTest extends \PHPUnit_Framework_TestCase
             ->setCountryCode('CN')
             ->setAdministrativeArea('CN-11')
             ->setLocality('CN-11-30524e')
-            ->setPostalCode('1');
-        $violations = $this->validator->validate($this->address, $this->constraint);
+            ->setPostalCode('InvalidValue');
 
-        $this->assertCount(2, $violations);
-        $this->assertViolation('addressLine1', $this->constraint->notBlankMessage, $violations[0]);
-        $this->assertViolation('postalCode', $this->constraint->invalidMessage, $violations[1]);
+        $this->validator->validate($this->address, $this->constraint);
+        $this->buildViolation($this->constraint->notBlankMessage)
+            ->atPath('[addressLine1]')
+            ->setInvalidValue(null)
+            ->buildNextViolation($this->constraint->invalidMessage)
+            ->atPath('[postalCode]')
+            ->assertRaised();
     }
 
     /**
@@ -203,7 +240,9 @@ class AddressFormatValidatorTest extends \PHPUnit_Framework_TestCase
             ->setAdministrativeArea('CL-AN')
             ->setLocality('CL-AN-2bb729')
             ->setPostalCode('');
-        $this->assertNoViolations($this->address);
+
+        $this->validator->validate($this->address, $this->constraint);
+        $this->assertNoViolation();
 
         // Now check for US addresses, which require a postal code. The following
         // address's postal code is wrong because it is missing a required field, not
@@ -212,10 +251,12 @@ class AddressFormatValidatorTest extends \PHPUnit_Framework_TestCase
           ->setCountryCode('US')
           ->setAdministrativeArea('US-CA')
           ->setLocality('California');
-        $violations = $this->validator->validate($this->address, $this->constraint);
 
-        $this->assertCount(1, $violations);
-        $this->assertViolation('postalCode', $this->constraint->notBlankMessage, $violations[0]);
+        $this->validator->validate($this->address, $this->constraint);
+        $this->buildViolation($this->constraint->notBlankMessage)
+            ->atPath('[postalCode]')
+            ->setInvalidValue(null)
+            ->assertRaised();
     }
 
     /**
@@ -238,7 +279,8 @@ class AddressFormatValidatorTest extends \PHPUnit_Framework_TestCase
             ->setAddressLine1('12345 Yitiao Lu"')
             ->setPostalCode('407');
 
-        $this->assertNoViolations($this->address);
+        $this->validator->validate($this->address, $this->constraint);
+        $this->assertNoViolation();
     }
 
     /**
@@ -257,13 +299,14 @@ class AddressFormatValidatorTest extends \PHPUnit_Framework_TestCase
           ->setCountryCode('CN')
           ->setAdministrativeArea('CN-71')
           ->setLocality('CN-71-dfbf10')
-          ->setDependentLocality('Foo Bar')
+          ->setDependentLocality('InvalidValue')
           ->setAddressLine1('12345 Yitiao Lu"')
           ->setPostalCode('407');
-        $violations = $this->validator->validate($this->address, $this->constraint);
 
-        $this->assertCount(1, $violations);
-        $this->assertViolation('dependentLocality', $this->constraint->invalidMessage, $violations[0]);
+        $this->validator->validate($this->address, $this->constraint);
+        $this->buildViolation($this->constraint->invalidMessage)
+            ->atPath('[dependentLocality]')
+            ->assertRaised();
     }
 
     /**
@@ -283,12 +326,12 @@ class AddressFormatValidatorTest extends \PHPUnit_Framework_TestCase
           ->setAdministrativeArea('US-CA')
           ->setLocality('Mountain View')
           ->setPostalCode('94025');
-        $violations = $this->validator->validate($this->address, $this->constraint);
 
-        $this->assertCount(1, $violations);
-        $this->assertNull($this->address->getAddressLine1());
-        $this->assertNull($this->address->getAddressLine2());
-        $this->assertViolation('addressLine1', $this->constraint->notBlankMessage, $violations[0]);
+        $violations = $this->validator->validate($this->address, $this->constraint);
+        $this->buildViolation($this->constraint->notBlankMessage)
+            ->atPath('[addressLine1]')
+            ->setInvalidValue(null)
+            ->assertRaised();
     }
 
     /**
@@ -310,14 +353,17 @@ class AddressFormatValidatorTest extends \PHPUnit_Framework_TestCase
           ->setAddressLine1('1234 Somewhere')
           ->setLocality('Mountain View')
           ->setPostalCode('94025');
-        $this->assertNoViolations($this->address);
+
+        $this->validator->validate($this->address, $this->constraint);
+        $this->assertNoViolation();
 
         // When a invalid postal code is used for a subdivision it should fail.
-        $this->address->setPostalCode('Foo Bar');
-        $violations = $this->validator->validate($this->address, $this->constraint);
+        $this->address->setPostalCode('InvalidValue');
 
-        $this->assertCount(1, $violations);
-        $this->assertViolation('postalCode', $this->constraint->invalidMessage, $violations[0]);
+        $this->validator->validate($this->address, $this->constraint);
+        $this->buildViolation($this->constraint->invalidMessage)
+            ->atPath('[postalCode]')
+            ->assertRaised();
     }
 
     /**
@@ -339,7 +385,8 @@ class AddressFormatValidatorTest extends \PHPUnit_Framework_TestCase
             ->setAddressLine1('11-1 Kamitoba-hokotate-cho')
             ->setPostalCode('601-8501');
 
-        $this->assertNoViolations($this->address);
+        $this->validator->validate($this->address, $this->constraint);
+        $this->assertNoViolation();
     }
 
     /**
@@ -362,7 +409,8 @@ class AddressFormatValidatorTest extends \PHPUnit_Framework_TestCase
             ->setAdministrativeArea('CA-QC')
             ->setPostalCode('H2b 2y5');
 
-        $this->assertNoViolations($this->address);
+        $this->validator->validate($this->address, $this->constraint);
+        $this->assertNoViolation();
     }
 
     /**
@@ -379,15 +427,17 @@ class AddressFormatValidatorTest extends \PHPUnit_Framework_TestCase
     {
         $this->address
           ->setCountryCode('CA')
-          ->setSortingCode('Foo Bar')
+          ->setSortingCode('InvalidValue')
           ->setRecipient('Joe Bloggs')
           ->setAddressLine1('11 East St')
           ->setLocality('Montreal')
           ->setAdministrativeArea('CA-QC')
           ->setPostalCode('H2b 2y5');
-        $violations = $this->validator->validate($this->address, $this->constraint);
 
-        $this->assertViolation('sortingCode', $this->constraint->blankMessage, $violations[0]);
+        $this->validator->validate($this->address, $this->constraint);
+        $this->buildViolation($this->constraint->blankMessage)
+            ->atPath('[sortingCode]')
+            ->assertRaised();
     }
 
     /**
@@ -409,29 +459,5 @@ class AddressFormatValidatorTest extends \PHPUnit_Framework_TestCase
             ->getMock();
         $addressFormatValidator->setDataProvider($dataProvider);
         $this->assertEquals($dataProvider, $addressFormatValidator->getDataProvider());
-    }
-
-    /**
-     * Helper function to assert an address that should be valid.
-     *
-     * @param \CommerceGuys\Addressing\Model\Address $address
-     */
-    protected function assertNoViolations(Address $address)
-    {
-        $violations = $this->validator->validate($address, $this->constraint);
-        $this->assertCount(0, $violations);
-    }
-
-    /**
-     * Helper function to assert an expected violation.
-     *
-     * @param string                                           $fieldName
-     * @param string                                           $expectedMessage
-     * @param \Symfony\Component\Validator\ConstraintViolation $violation
-     */
-    protected function assertViolation($fieldName, $expectedMessage, $violation)
-    {
-        $this->assertEquals('[' . $fieldName . ']', $violation->getPropertyPath());
-        $this->assertEquals($expectedMessage, $violation->getMessage());
     }
 }
