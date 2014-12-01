@@ -5,15 +5,17 @@
     "keywords": ["postal", "address", "internationalization", "localization"],
     "license": "MIT",
     "require": {
-        "php": ">=5.4.0",
-        "commerceguys/intl": "dev-master"
+        "php": ">=5.4.0"
     },
     "require-dev": {
         "symfony/validator": ">=2.3",
+        "symfony/intl": ">=2.3",
         "phpunit/phpunit": "~4.0",
         "mikey179/vfsStream": "1.*"
     },
     "suggest": {
+        "commerceguys/intl": "to use it as the source of country data",
+        "symfony/intl": "to use it as the source of country data",
         "symfony/form": "to generate Symfony address forms",
         "symfony/validator": "to validate addresses"
     },

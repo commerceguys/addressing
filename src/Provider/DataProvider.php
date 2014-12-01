@@ -2,22 +2,16 @@
 
 namespace CommerceGuys\Addressing\Provider;
 
-use CommerceGuys\Intl\Country\CountryRepositoryInterface;
-use CommerceGuys\Intl\Country\CountryRepository;
 use CommerceGuys\Addressing\Repository\AddressFormatRepositoryInterface;
 use CommerceGuys\Addressing\Repository\AddressFormatRepository;
 use CommerceGuys\Addressing\Repository\SubdivisionRepositoryInterface;
 use CommerceGuys\Addressing\Repository\SubdivisionRepository;
 
+/**
+ * @codeCoverageIgnore
+ */
 class DataProvider implements DataProviderInterface
 {
-    /**
-     * The country repository.
-     *
-     * @var CountryRepositoryInterface
-     */
-    protected $countryRepository;
-
     /**
      * The address format repository.
      *
@@ -33,20 +27,42 @@ class DataProvider implements DataProviderInterface
     protected $subdivisionRepository;
 
     /**
+     * The country repository, if commerceguys/intl is used.
+     *
+     * @var \CommerceGuys\Intl\Country\CountryRepository
+     */
+    protected $countryRepository;
+
+    /**
+     * The region bundle, if symfony/intl is used.
+     *
+     * @var \Symfony\Component\Intl\ResourceBundle\RegionBundle
+     */
+    protected $regionBundle;
+
+    /**
      * Creates a DataProvider instance.
      *
-     * @param CountryRepositoryInterface       $countryRepository
      * @param AddressFormatRepositoryInterface $addressFormatRepository
      * @param SubdivisionRepositoryInterface   $subdivisionRepository
      */
     public function __construct(
-        CountryRepositoryInterface $countryRepository = null,
         AddressFormatRepositoryInterface $addressFormatRepository = null,
         SubdivisionRepositoryInterface $subdivisionRepository = null)
     {
-        $this->countryRepository = $countryRepository ?: new CountryRepository();
         $this->addressFormatRepository = $addressFormatRepository ?: new AddressFormatRepository();
         $this->subdivisionRepository = $subdivisionRepository ?: new SubdivisionRepository();
+
+        // Allow both commerceguys/intl and symfony/intl to be used as the
+        // source of country data. To be removed once commerceguys/intl is
+        // deprecated in favor of the still unreleased symfony/intl 2.7.
+        if (class_exists('\CommerceGuys\Intl\Country\CountryRepository')) {
+            $this->countryRepository = new \CommerceGuys\Intl\Country\CountryRepository();
+        } elseif (class_exists('\Symfony\Component\Intl\Intl')) {
+            $this->regionBundle = \Symfony\Component\Intl\Intl::getRegionBundle();
+        } else {
+            throw new \Exception('No source of country data found: symfony/intl or commerceguys/intl must be installed.');
+        }
     }
 
     /**
@@ -54,11 +70,16 @@ class DataProvider implements DataProviderInterface
      */
     public function getCountryName($countryCode, $locale = null)
     {
-        // The CountryRepository doesn't accept a null locale.
-        $locale = $locale ?: 'en';
-        $country = $this->countryRepository->get($countryCode, $locale);
+        if ($this->countryRepository) {
+            // The CountryRepository doesn't accept a null locale.
+            $locale = $locale ?: 'en';
+            $country = $this->countryRepository->get($countryCode, $locale);
+            $countryName = $country->getName();
+        } else {
+            $countryName = $this->regionBundle->getCountryName($countryCode, $locale);
+        }
 
-        return $country->getName();
+        return $countryName;
     }
 
     /**
@@ -66,12 +87,16 @@ class DataProvider implements DataProviderInterface
      */
     public function getCountryNames($locale = null)
     {
-        // The CountryRepository doesn't accept a null locale.
-        $locale = $locale ?: 'en';
-        $countries = $this->countryRepository->getAll($locale);
-        $countryNames = array();
-        foreach ($countries as $countryCode => $country) {
-            $countryNames[$countryCode] = $country->getName();
+        if ($this->countryRepository) {
+            // The CountryRepository doesn't accept a null locale.
+            $locale = $locale ?: 'en';
+            $countries = $this->countryRepository->getAll($locale);
+            $countryNames = array();
+            foreach ($countries as $countryCode => $country) {
+                $countryNames[$countryCode] = $country->getName();
+            }
+        } else {
+            $countryNames = $this->regionBundle->getCountryNames($locale);
         }
 
         return $countryNames;
