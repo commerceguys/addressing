@@ -5,7 +5,6 @@ namespace CommerceGuys\Addressing\Tests\Formatter;
 use CommerceGuys\Addressing\Model\Address;
 use CommerceGuys\Addressing\Formatter\PostalFormatter;
 use CommerceGuys\Addressing\Provider\DataProvider;
-use CommerceGuys\Addressing\Provider\DataProviderInterface;
 
 /**
  * @coversDefaultClass \CommerceGuys\Addressing\Formatter\PostalFormatter
@@ -15,7 +14,7 @@ class PostalFormatterTest extends \PHPUnit_Framework_TestCase
     /**
      * The data provider.
      *
-     * @var DataProviderInterface
+     * @var DataProvider
      */
     protected $dataProvider;
 
