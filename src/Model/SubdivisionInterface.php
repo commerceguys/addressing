@@ -20,9 +20,9 @@ interface SubdivisionInterface
     /**
      * Sets the subdivision parent.
      *
-     * @param SubdivisionInterface $parent The subdivision parent.
+     * @param SubdivisionInterface|null $parent The subdivision parent.
      */
-    public function setParent(SubdivisionInterface $parent);
+    public function setParent(SubdivisionInterface $parent = null);
 
     /**
      * Gets the two-letter country code.
@@ -125,4 +125,27 @@ interface SubdivisionInterface
      * @return bool TRUE if the subdivision has children, FALSE otherwise.
      */
     public function hasChildren();
+
+    /**
+     * Adds a child.
+     *
+     * @param SubdivisionInterface $child The child.
+     */
+    public function addChild(SubdivisionInterface $child);
+
+    /**
+     * Removes a child.
+     *
+     * @param SubdivisionInterface $child The child.
+     */
+    public function removeChild(SubdivisionInterface $child);
+
+    /**
+     * Checks whether the subdivision has a child.
+     *
+     * @param SubdivisionInterface $child The child.
+     *
+     * @return bool True if the child was found, false otherwise.
+     */
+    public function hasChild(SubdivisionInterface $child);
 }

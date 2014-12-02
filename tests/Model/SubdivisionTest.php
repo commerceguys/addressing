@@ -15,12 +15,8 @@ class SubdivisionTest extends \PHPUnit_Framework_TestCase
     protected $subdivision;
 
     /**
-     * The US state of Texas.
-     *
-     * @var Subdivision
+     * {@inheritdoc}
      */
-    protected $texas;
-
     public function setUp()
     {
         $this->subdivision = new Subdivision();
@@ -48,52 +44,50 @@ class SubdivisionTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::getParent
      * @covers ::setParent
+     */
+    public function testParent()
+    {
+        $parent = $this
+            ->getMockBuilder('CommerceGuys\Addressing\Model\Subdivision')
+            ->getMock();
+        // Return something from ->getCode() to avoid calling the repository.
+        $parent
+            ->expects($this->any())
+            ->method('getCode')
+            ->will($this->returnValue('anything'));
+
+        $this->subdivision->setParent($parent);
+        $this->assertEquals($parent, $this->subdivision->getParent());
+    }
+
+    /**
      * @covers ::getChildren
      * @covers ::setChildren
      * @covers ::hasChildren
-     * @uses \CommerceGuys\Addressing\Model\Subdivision::getId
-     * @uses \CommerceGuys\Addressing\Model\Subdivision::setId
-     * @uses \CommerceGuys\Addressing\Model\Subdivision::setCountryCode
-     * @uses \CommerceGuys\Addressing\Model\Subdivision::getCode
-     * @uses \CommerceGuys\Addressing\Model\Subdivision::setCode
-     * @uses \CommerceGuys\Addressing\Model\Subdivision::getRepository
-     * @uses \CommerceGuys\Addressing\Model\Subdivision::setRepository
+     * @covers ::addChild
+     * @covers ::removeChild
+     * @covers ::hasChild
      */
-    public function testHierarchy()
+    public function testChildren()
     {
-        // Create a mock repository.
-        $subdivisionRepository = $this
-            ->getMockBuilder('CommerceGuys\Addressing\Repository\SubdivisionRepository')
-            ->disableOriginalConstructor()
+        $firstChild = $this
+            ->getMockBuilder('CommerceGuys\Addressing\Model\Subdivision')
             ->getMock();
-        $subdivisionRepository->expects($this->any())
-          ->method('get')
-          ->with('US-TX')
-          ->will($this->returnValue($this->texas));
-        // The US only has one level of subdivisions. For testing purposes,
-        // make the repository return Texas as Califoria's child.
-        $subdivisionRepository->expects($this->any())
-          ->method('getAll')
-          ->with($this->equalTo('US'), $this->equalTo('US-CA'))
-          ->will($this->returnValue(array($this->texas)));
-        $this->subdivision->setRepository($subdivisionRepository);
+        $secondChild = $this
+            ->getMockBuilder('CommerceGuys\Addressing\Model\Subdivision')
+            ->getMock();
 
-        $this->assertEquals(null, $this->subdivision->getParent());
-        $texasStub = new Subdivision();
-        $texasStub->setCountryCode('US');
-        $texasStub->setId('US-TX');
-        // getParent() should detect the stub and load the full subdivision.
-        $this->subdivision->setParent($texasStub);
-        $this->assertEquals($this->texas, $this->subdivision->getParent());
-
-        // Test lazy-loading of children.
-        // This requires the subdivision id and country code to be set.
         $this->assertEquals(false, $this->subdivision->hasChildren());
-        $this->subdivision->setCountryCode('US');
-        $this->subdivision->setId('US-CA');
-        $this->subdivision->setChildren(array('load'));
-        $this->assertEquals(array($this->texas), $this->subdivision->getChildren());
+        $children = array($firstChild, $secondChild);
+        $this->subdivision->setChildren($children);
+        $this->assertEquals($children, $this->subdivision->getChildren());
         $this->assertEquals(true, $this->subdivision->hasChildren());
+        $this->subdivision->removeChild($secondChild);
+        $this->assertEquals(array($firstChild), $this->subdivision->getChildren());
+        $this->assertEquals(false, $this->subdivision->hasChild($secondChild));
+        $this->assertEquals(true, $this->subdivision->hasChild($firstChild));
+        $this->subdivision->addChild($secondChild);
+        $this->assertEquals($children, $this->subdivision->getChildren());
     }
 
     /**

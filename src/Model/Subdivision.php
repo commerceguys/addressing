@@ -87,7 +87,7 @@ class Subdivision implements SubdivisionInterface
     /**
      * {@inheritdoc}
      */
-    public function setParent(SubdivisionInterface $parent)
+    public function setParent(SubdivisionInterface $parent = null)
     {
         $this->parent = $parent;
 
@@ -215,6 +215,43 @@ class Subdivision implements SubdivisionInterface
     public function hasChildren()
     {
         return !empty($this->children);
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function addChild(SubdivisionInterface $child)
+    {
+        if (!$this->hasChild($child)) {
+            $child->setParent($this);
+            $this->children[] = $child;
+        }
+
+        return $this;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function removeChild(SubdivisionInterface $child)
+    {
+        if ($this->hasChild($child)) {
+            $child->setParent(null);
+            // Remove the child and rekey the array.
+            $index = array_search($child, $this->children);
+            unset($this->children[$index]);
+            $this->children = array_values($this->children);
+        }
+
+        return $this;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function hasChild(SubdivisionInterface $child)
+    {
+        return in_array($child, $this->children);
     }
 
     /**
