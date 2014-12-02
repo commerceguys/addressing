@@ -23,6 +23,18 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
     protected $definitions = array();
 
     /**
+     * Parent subdivisions.
+     *
+     * Used as a cache to speed up instantiating subdivisions with the same
+     * parent. Contains only parents instead of all instantiated subdivisions
+     * to minimize duplicating the data in $this->definitions, thus reducing
+     * memory usage.
+     *
+     * @var array
+     */
+    protected $parents = array();
+
+    /**
      * Creates a SubdivisionRepository instance.
      *
      * @param string $definitionPath Path to the subdivision definitions.
@@ -111,7 +123,17 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
      */
     protected function createSubdivisionFromDefinition(array $definition)
     {
+        $parent = null;
+        if (isset($definition['parent_id'])) {
+            $parentId = $definition['parent_id'];
+            if (!isset($this->parents[$parentId])) {
+                $this->parents[$parentId] = $this->get($definition['parent_id']);
+            }
+            $parent = $this->parents[$parentId];
+        }
+
         $subdivision = new Subdivision();
+        $subdivision->setParent($parent);
         $subdivision->setCountryCode($definition['country_code']);
         $subdivision->setId($definition['id']);
         $subdivision->setCode($definition['code']);
@@ -119,12 +141,6 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
         $subdivision->setLocale($definition['locale']);
         if (isset($definition['postal_code_pattern'])) {
             $subdivision->setPostalCodePattern($definition['postal_code_pattern']);
-        }
-        if (isset($definition['parent_id'])) {
-            // The full parent will be lazy-loaded by Subdivision::getParent().
-            $parent = new Subdivision();
-            $parent->setId($definition['parent_id']);
-            $subdivision->setParent($parent);
         }
         if (!empty($definition['has_children'])) {
             // Signals that there are children and that they can be lazy-loaded.

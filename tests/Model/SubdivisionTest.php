@@ -50,12 +50,6 @@ class SubdivisionTest extends \PHPUnit_Framework_TestCase
         $parent = $this
             ->getMockBuilder('CommerceGuys\Addressing\Model\Subdivision')
             ->getMock();
-        // Return something from ->getCode() to avoid calling the repository.
-        $parent
-            ->expects($this->any())
-            ->method('getCode')
-            ->will($this->returnValue('anything'));
-
         $this->subdivision->setParent($parent);
         $this->assertEquals($parent, $this->subdivision->getParent());
     }
