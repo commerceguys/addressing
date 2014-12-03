@@ -3,6 +3,7 @@
 namespace CommerceGuys\Addressing\Tests\Model;
 
 use CommerceGuys\Addressing\Model\Subdivision;
+use Doctrine\Common\Collections\ArrayCollection;
 
 /**
  * @coversDefaultClass \CommerceGuys\Addressing\Model\Subdivision
@@ -23,27 +24,9 @@ class SubdivisionTest extends \PHPUnit_Framework_TestCase
     }
 
     /**
-     * @covers ::getRepository
-     * @covers ::setRepository
-     * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
-     */
-    public function testRepository()
-    {
-        $realRepository = $this->subdivision->getRepository();
-        $this->assertInstanceOf('CommerceGuys\Addressing\Repository\SubdivisionRepository', $realRepository);
-
-        // Replace the repository with a mock.
-        $subdivisionRepository = $this
-            ->getMockBuilder('CommerceGuys\Addressing\Repository\SubdivisionRepository')
-            ->disableOriginalConstructor()
-            ->getMock();
-        $this->subdivision->setRepository($subdivisionRepository);
-        $this->assertEquals($subdivisionRepository, $this->subdivision->getRepository());
-    }
-
-    /**
      * @covers ::getParent
      * @covers ::setParent
+     * @uses \CommerceGuys\Addressing\Model\Subdivision::__construct
      */
     public function testParent()
     {
@@ -55,12 +38,25 @@ class SubdivisionTest extends \PHPUnit_Framework_TestCase
     }
 
     /**
+     * @covers ::setChildren
+     * @uses \CommerceGuys\Addressing\Model\Subdivision::__construct
+     * @expectedException \CommerceGuys\Addressing\Exception\UnexpectedTypeException
+     */
+    public function testSetInvalidChildren()
+    {
+        $this->subdivision->setChildren(array(1, 2));
+    }
+
+    /**
+     * @covers ::__construct
      * @covers ::getChildren
      * @covers ::setChildren
      * @covers ::hasChildren
      * @covers ::addChild
      * @covers ::removeChild
      * @covers ::hasChild
+     * @uses \CommerceGuys\Addressing\Model\Subdivision::__construct
+     * @uses \Doctrine\Common\Collections\ArrayCollection
      */
     public function testChildren()
     {
@@ -70,14 +66,15 @@ class SubdivisionTest extends \PHPUnit_Framework_TestCase
         $secondChild = $this
             ->getMockBuilder('CommerceGuys\Addressing\Model\Subdivision')
             ->getMock();
+        $empty = new ArrayCollection();
+        $children = new ArrayCollection(array($firstChild, $secondChild));
 
         $this->assertEquals(false, $this->subdivision->hasChildren());
-        $children = array($firstChild, $secondChild);
+        $this->assertEquals($empty, $this->subdivision->getChildren());
         $this->subdivision->setChildren($children);
         $this->assertEquals($children, $this->subdivision->getChildren());
         $this->assertEquals(true, $this->subdivision->hasChildren());
         $this->subdivision->removeChild($secondChild);
-        $this->assertEquals(array($firstChild), $this->subdivision->getChildren());
         $this->assertEquals(false, $this->subdivision->hasChild($secondChild));
         $this->assertEquals(true, $this->subdivision->hasChild($firstChild));
         $this->subdivision->addChild($secondChild);
@@ -87,6 +84,7 @@ class SubdivisionTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::getCountryCode
      * @covers ::setCountryCode
+     * @uses \CommerceGuys\Addressing\Model\Subdivision::__construct
      */
     public function testCountryCode()
     {
@@ -97,6 +95,7 @@ class SubdivisionTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::getId
      * @covers ::setId
+     * @uses \CommerceGuys\Addressing\Model\Subdivision::__construct
      */
     public function testId()
     {
@@ -107,6 +106,7 @@ class SubdivisionTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::getCode
      * @covers ::setCode
+     * @uses \CommerceGuys\Addressing\Model\Subdivision::__construct
      */
     public function testCode()
     {
@@ -117,6 +117,7 @@ class SubdivisionTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::getName
      * @covers ::setName
+     * @uses \CommerceGuys\Addressing\Model\Subdivision::__construct
      */
     public function testName()
     {
@@ -127,6 +128,7 @@ class SubdivisionTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::getPostalCodePattern
      * @covers ::setPostalCodePattern
+     * @uses \CommerceGuys\Addressing\Model\Subdivision::__construct
      */
     public function testPostalCodePattern()
     {
@@ -137,6 +139,7 @@ class SubdivisionTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::getLocale
      * @covers ::setLocale
+     * @uses \CommerceGuys\Addressing\Model\Subdivision::__construct
      */
     public function testLocale()
     {

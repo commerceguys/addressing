@@ -2,8 +2,9 @@
 
 namespace CommerceGuys\Addressing\Model;
 
-use CommerceGuys\Addressing\Repository\SubdivisionRepositoryInterface;
-use CommerceGuys\Addressing\Repository\SubdivisionRepository;
+use CommerceGuys\Addressing\Exception\UnexpectedTypeException;
+use Doctrine\Common\Collections\ArrayCollection;
+use Doctrine\Common\Collections\Collection;
 
 class Subdivision implements SubdivisionInterface
 {
@@ -64,11 +65,12 @@ class Subdivision implements SubdivisionInterface
     protected $locale;
 
     /**
-     * The subdivision repository.
-     *
-     * @var SubdivisionRepositoryInterface
+     * Creates a Subdivision instance.
      */
-    protected static $repository;
+    public function __construct()
+    {
+        $this->children = new ArrayCollection();
+    }
 
     /**
      * {@inheritdoc}
@@ -183,13 +185,6 @@ class Subdivision implements SubdivisionInterface
      */
     public function getChildren()
     {
-        // When a subdivision has children the metadata repository sets $children
-        // to array('load'), to indicate that they should be lazy loaded.
-        if (!isset($this->children) || $this->children === array('load')) {
-            $repository = self::getRepository();
-            $this->children = $repository->getAll($this->countryCode, $this->id, $this->locale);
-        }
-
         return $this->children;
     }
 
@@ -198,6 +193,12 @@ class Subdivision implements SubdivisionInterface
      */
     public function setChildren($children)
     {
+        // The interface doesn't typehint $children to allow other
+        // implementations to avoid using Doctrine Collections if desired.
+        if (!($children instanceof Collection)) {
+            throw new UnexpectedTypeException($children, 'Collection');
+        }
+
         $this->children = $children;
 
         return $this;
@@ -208,7 +209,7 @@ class Subdivision implements SubdivisionInterface
      */
     public function hasChildren()
     {
-        return !empty($this->children);
+        return !$this->children->isEmpty();
     }
 
     /**
@@ -218,7 +219,7 @@ class Subdivision implements SubdivisionInterface
     {
         if (!$this->hasChild($child)) {
             $child->setParent($this);
-            $this->children[] = $child;
+            $this->children->add($child);
         }
 
         return $this;
@@ -231,10 +232,7 @@ class Subdivision implements SubdivisionInterface
     {
         if ($this->hasChild($child)) {
             $child->setParent(null);
-            // Remove the child and rekey the array.
-            $index = array_search($child, $this->children);
-            unset($this->children[$index]);
-            $this->children = array_values($this->children);
+            $this->children->removeElement($child);
         }
 
         return $this;
@@ -245,7 +243,7 @@ class Subdivision implements SubdivisionInterface
      */
     public function hasChild(SubdivisionInterface $child)
     {
-        return in_array($child, $this->children);
+        return $this->children->contains($child);
     }
 
     /**
@@ -268,29 +266,5 @@ class Subdivision implements SubdivisionInterface
         $this->locale = $locale;
 
         return $this;
-    }
-
-    /**
-     * Gets the subdivision repository.
-     *
-     * @return SubdivisionRepositoryInterface The subdivision repository.
-     */
-    public static function getRepository()
-    {
-        if (!isset(self::$repository)) {
-            self::setRepository(new SubdivisionRepository());
-        }
-
-        return self::$repository;
-    }
-
-    /**
-     * Sets the subdivision repository.
-     *
-     * @param SubdivisionRepositoryInterface $repository The subdivision repository.
-     */
-    public static function setRepository(SubdivisionRepositoryInterface $repository)
-    {
-        self::$repository = $repository;
     }
 }

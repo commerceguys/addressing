@@ -63,7 +63,6 @@ class SubdivisionRepositoryTest extends \PHPUnit_Framework_TestCase
 
     /**
      * @covers ::__construct
-     * @uses \CommerceGuys\Addressing\Model\Subdivision::setRepository
      */
     public function testConstructor()
     {
@@ -81,10 +80,6 @@ class SubdivisionRepositoryTest extends \PHPUnit_Framework_TestCase
         $definitionPath = $this->getObjectAttribute($subdivisionRepository, 'definitionPath');
         $this->assertEquals('vfs://resources/subdivision/', $definitionPath);
 
-        // An earlier test might have swaped the repository with a mock, so
-        // switch it back to a known object.
-        Subdivision::setRepository($subdivisionRepository);
-
         return $subdivisionRepository;
     }
 
@@ -96,6 +91,7 @@ class SubdivisionRepositoryTest extends \PHPUnit_Framework_TestCase
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository::getAll
      * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      * @uses \CommerceGuys\Addressing\Model\Subdivision
+     * @uses \CommerceGuys\Addressing\Collection\LazySubdivisionCollection
      * @depends testConstructor
      */
     public function testGet($subdivisionRepository)
@@ -145,6 +141,7 @@ class SubdivisionRepositoryTest extends \PHPUnit_Framework_TestCase
      * @covers ::createSubdivisionFromDefinition
      * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      * @uses \CommerceGuys\Addressing\Model\Subdivision
+     * @uses \CommerceGuys\Addressing\Collection\LazySubdivisionCollection
      * @depends testConstructor
      */
     public function testGetAll($subdivisionRepository)

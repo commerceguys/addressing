@@ -118,6 +118,7 @@ class AddressFormatValidatorTest extends AbstractConstraintValidatorTest
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
      * @uses \CommerceGuys\Addressing\Model\Subdivision
+     * @uses \CommerceGuys\Addressing\Collection\LazySubdivisionCollection
      */
     public function testChinaOK()
     {
@@ -204,6 +205,7 @@ class AddressFormatValidatorTest extends AbstractConstraintValidatorTest
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
      * @uses \CommerceGuys\Addressing\Model\Subdivision
+     * @uses \CommerceGuys\Addressing\Collection\LazySubdivisionCollection
      */
     public function testChinaPostalCodeBadFormat()
     {
@@ -231,6 +233,7 @@ class AddressFormatValidatorTest extends AbstractConstraintValidatorTest
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
      * @uses \CommerceGuys\Addressing\Model\Subdivision
+     * @uses \CommerceGuys\Addressing\Collection\LazySubdivisionCollection
      */
     public function testEmptyPostalCodeReportedAsGoodFormat()
     {
@@ -268,6 +271,7 @@ class AddressFormatValidatorTest extends AbstractConstraintValidatorTest
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
      * @uses \CommerceGuys\Addressing\Model\Subdivision
+     * @uses \CommerceGuys\Addressing\Collection\LazySubdivisionCollection
      */
     public function testChinaTaiwanOk()
     {
@@ -292,6 +296,7 @@ class AddressFormatValidatorTest extends AbstractConstraintValidatorTest
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
      * @uses \CommerceGuys\Addressing\Model\Subdivision
+     * @uses \CommerceGuys\Addressing\Collection\LazySubdivisionCollection
      */
     public function testChinaTaiwanUnknownDistrict()
     {

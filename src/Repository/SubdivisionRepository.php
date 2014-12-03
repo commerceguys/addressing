@@ -2,6 +2,7 @@
 
 namespace CommerceGuys\Addressing\Repository;
 
+use CommerceGuys\Addressing\Collection\LazySubdivisionCollection;
 use CommerceGuys\Addressing\Model\Subdivision;
 
 class SubdivisionRepository implements SubdivisionRepositoryInterface
@@ -143,8 +144,9 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
             $subdivision->setPostalCodePattern($definition['postal_code_pattern']);
         }
         if (!empty($definition['has_children'])) {
-            // Signals that there are children and that they can be lazy-loaded.
-            $subdivision->setChildren(array('load'));
+            $children = new LazySubdivisionCollection($definition['country_code'], $definition['id'], $definition['locale']);
+            $children->setRepository($this);
+            $subdivision->setChildren($children);
         }
 
         return $subdivision;
