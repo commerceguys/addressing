@@ -23,7 +23,7 @@ class PostalFormatter
     public function __construct(DataProviderInterface $dataProvider)
     {
         if (!function_exists('mb_strtoupper')) {
-            throw new \Exception('The "mbstring" extension is required by this class.');
+            throw new \RuntimeException('The "mbstring" extension is required by this class.');
         }
 
         $this->dataProvider = $dataProvider;

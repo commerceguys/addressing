@@ -61,7 +61,7 @@ class DataProvider implements DataProviderInterface
         } elseif (class_exists('\Symfony\Component\Intl\Intl')) {
             $this->regionBundle = \Symfony\Component\Intl\Intl::getRegionBundle();
         } else {
-            throw new \Exception('No source of country data found: symfony/intl or commerceguys/intl must be installed.');
+            throw new \RuntimeException('No source of country data found: symfony/intl or commerceguys/intl must be installed.');
         }
     }
 
