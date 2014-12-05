@@ -8,11 +8,11 @@ set_time_limit(0);
 
 include '../vendor/autoload.php';
 
-use CommerceGuys\Intl\Country\CountryRepository;
 use CommerceGuys\Addressing\Model\AddressFormat;
+use CommerceGuys\Addressing\Provider\DataProvider;
 
-$countryRepository = new CountryRepository();
-$countries = $countryRepository->getAll();
+$dataProvider = new DataProvider();
+$countries = $dataProvider->getCountryNames();
 $service_url = 'http://i18napis.appspot.com/address';
 if (!is_dir('address_format')) {
     die('Could not find the empty address_format/ folder, please create it.');
@@ -24,8 +24,7 @@ if (!is_dir('subdivision')) {
 // Create a list of countries for which Google has definitions.
 $foundCountries = array('ZZ');
 $index = file_get_contents($service_url);
-foreach ($countries as $country) {
-    $countryCode = $country->getCountryCode();
+foreach ($countries as $countryCode => $countryName) {
     $link = "<a href='/address/data/{$countryCode}'>";
     if (strpos($index, $link) !== FALSE) {
         $foundCountries[] = $countryCode;
