@@ -18,7 +18,7 @@ Features:
 
 The dataset is [stored locally](https://github.com/commerceguys/addressing/tree/master/resources) in JSON format, [generated](https://github.com/commerceguys/addressing/blob/master/scripts/generate.php) from Google's [Address Data Service](https://i18napis.appspot.com/address).
 
-The CLDR country list is used (via [commerceguys/intl](https://github.com/commerceguys/intl)), because it includes additional countries for addressing purposes, such as Canary Islands (IC).
+The CLDR country list is used (via [symfony/intl](https://github.com/symfony/intl) or [commerceguys/intl](https://github.com/commerceguys/intl)), because it includes additional countries for addressing purposes, such as Canary Islands (IC).
 
 Further backstory can be found in [this blog post](https://drupalcommerce.org/blog/16864/commerce-2x-stories-addressing).
 
