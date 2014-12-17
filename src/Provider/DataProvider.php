@@ -71,8 +71,6 @@ class DataProvider implements DataProviderInterface
     public function getCountryName($countryCode, $locale = null)
     {
         if ($this->countryRepository) {
-            // The CountryRepository doesn't accept a null locale.
-            $locale = $locale ?: 'en';
             $country = $this->countryRepository->get($countryCode, $locale);
             $countryName = $country->getName();
         } else {
@@ -88,8 +86,6 @@ class DataProvider implements DataProviderInterface
     public function getCountryNames($locale = null)
     {
         if ($this->countryRepository) {
-            // The CountryRepository doesn't accept a null locale.
-            $locale = $locale ?: 'en';
             $countries = $this->countryRepository->getAll($locale);
             $countryNames = array();
             foreach ($countries as $countryCode => $country) {
