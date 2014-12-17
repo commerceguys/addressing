@@ -48,8 +48,8 @@ class DataProvider implements DataProviderInterface
      */
     public function __construct(
         AddressFormatRepositoryInterface $addressFormatRepository = null,
-        SubdivisionRepositoryInterface $subdivisionRepository = null)
-    {
+        SubdivisionRepositoryInterface $subdivisionRepository = null
+    ) {
         $this->addressFormatRepository = $addressFormatRepository ?: new AddressFormatRepository();
         $this->subdivisionRepository = $subdivisionRepository ?: new SubdivisionRepository();
 
