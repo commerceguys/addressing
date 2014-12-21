@@ -61,6 +61,25 @@ class AddressFormatValidatorTest extends AbstractConstraintValidatorTest
 
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatValidator
+     * @expectedException \Symfony\Component\Validator\Exception\UnexpectedTypeException
+     */
+    public function testInvalidValueType()
+    {
+        $this->validator->validate(new \stdClass(), $this->constraint);
+    }
+
+    /**
+     * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatValidator
+     * @uses \CommerceGuys\Addressing\Model\Address
+     */
+    public function testEmptyIsValid()
+    {
+        $this->validator->validate($this->address, $this->constraint);
+        $this->assertNoViolation();
+    }
+
+    /**
+     * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatValidator
      * @uses \CommerceGuys\Addressing\Provider\DataProvider
      * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository

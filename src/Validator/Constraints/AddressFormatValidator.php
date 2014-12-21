@@ -8,6 +8,7 @@ use CommerceGuys\Addressing\Provider\DataProvider;
 use CommerceGuys\Addressing\Provider\DataProviderInterface;
 use Symfony\Component\Validator\Constraint;
 use Symfony\Component\Validator\ConstraintValidator;
+use Symfony\Component\Validator\Exception\UnexpectedTypeException;
 
 class AddressFormatValidator extends ConstraintValidator
 {
@@ -39,7 +40,16 @@ class AddressFormatValidator extends ConstraintValidator
      */
     public function validate($value, Constraint $constraint)
     {
+        if (!($value instanceof AddressInterface)) {
+            throw new UnexpectedTypeException($value, 'AddressInterface');
+        }
+
         $address = $value;
+        $countryCode = $address->getCountryCode();
+        if ($countryCode === null || $countryCode === '') {
+            return;
+        }
+
         $values = $this->extractAddressValues($address);
         $dataProvider = $this->getDataProvider();
         $addressFormat = $dataProvider->getAddressFormat($address->getCountryCode());
