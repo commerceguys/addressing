@@ -12,32 +12,53 @@ include '../vendor/autoload.php';
 use CommerceGuys\Addressing\Model\AddressFormat;
 use CommerceGuys\Addressing\Provider\DataProvider;
 
+// Make sure aria2 is installed.
+exec('aria2c --version', $ariaVersion);
+if (empty($ariaVersion) || strpos($ariaVersion[0], 'aria2 version') === false) {
+    die('aria2 must be installed.');
+}
+
+// Prepare the filesystem.
+$neededDirectories = array('address_format', 'subdivision', 'raw');
+foreach ($neededDirectories as $neededDirectory) {
+    if (!is_dir($neededDirectory)) {
+        mkdir($neededDirectory);
+    }
+}
+
 $dataProvider = new DataProvider();
 $countries = $dataProvider->getCountryNames();
-$service_url = 'http://i18napis.appspot.com/address';
-if (!is_dir('address_format')) {
-    die('Could not find the empty address_format/ folder, please create it.');
-}
-if (!is_dir('subdivision')) {
-    die('Could not find the empty subdivision/ folder, please create it.');
-}
+$serviceUrl = 'http://i18napis.appspot.com/address';
+
+echo "Generating the url list.\n";
+
+// Generate the url list for aria2.
+$url_list = generate_url_list();
+file_put_contents('raw/url_list.txt', $url_list);
+
+// Invoke aria2 and fetch the data.
+echo "Downloading the raw data from Google's endpoint.\n";
+exec('cd raw && aria2c -u 16 -i url_list.txt');
 
 // Create a list of countries for which Google has definitions.
 $foundCountries = array('ZZ');
-$index = file_get_contents($service_url);
+$index = file_get_contents($serviceUrl);
 foreach ($countries as $countryCode => $countryName) {
     $link = "<a href='/address/data/{$countryCode}'>";
+    // This is still faster than running a file_exists() for each country code.
     if (strpos($index, $link) !== FALSE) {
         $foundCountries[] = $countryCode;
     }
 }
 
-// Fetch the raw definitions and convert them into the expected format.
+echo "Converting the raw definitions into the expected format.\n";
+
+// Process the raw definitions and convert them into the expected format.
 $genericDefinition = null;
 $addressFormats = array();
 $groupedSubdivisions = array();
 foreach ($foundCountries as $countryCode) {
-    $definition = file_get_contents($service_url . '/data/' . $countryCode);
+    $definition = file_get_contents('raw/' . $countryCode . '.json');
     $definition = json_decode($definition, true);
     $extraKeys = array_diff(array_keys($definition), array('id', 'key', 'name'));
     if (empty($extraKeys)) {
@@ -72,7 +93,7 @@ foreach ($foundCountries as $countryCode) {
         $subdivisionPaths = array();
         $subdivisionKeys = explode('~', $definition['sub_keys']);
         foreach ($subdivisionKeys as $subdivisionKey) {
-            $subdivisionPaths[] = $countryCode . '/' . rawurlencode($subdivisionKey);
+            $subdivisionPaths[] = $countryCode . '_' . $subdivisionKey;
         }
 
         $groupedSubdivisions += generate_subdivisions($countryCode, $countryCode, $subdivisionPaths, $languages);
@@ -80,6 +101,8 @@ foreach ($foundCountries as $countryCode) {
 
     $addressFormats[$countryCode] = $addressFormat;
 }
+
+echo "Generating a list of changes.\n";
 
 // Create a list of changes between the new and the old definitions.
 $previousAddressFormats = load_definitions('address_format');
@@ -91,6 +114,8 @@ $previousSubdivisions = load_definitions('subdivision');
 $subdivisionChanges = load_change_listing('subdivision');
 $subdivisionChanges[] = generate_subdivision_changes($previousSubdivisions, $groupedSubdivisions);
 file_put_json('subdivision_changes.json', $subdivisionChanges);
+
+echo "Writing the final definitions to disk.\n";
 
 // Write the new definitions to disk.
 foreach ($addressFormats as $countryCode => $addressFormat) {
@@ -110,18 +135,44 @@ function file_put_json($filename, $data)
 }
 
 /**
+ * Generates a list of all urls that need to be downloaded using aria2.
+ */
+function generate_url_list()
+{
+    global $serviceUrl;
+
+    $index = file_get_contents($serviceUrl);
+    // Get all links that start with /address/data.
+    // This avoids the /address/examples urls which aren't needed.
+    preg_match_all("/<a\shref=\'\/address\/data\/([^\"]*)\'>/siU", $index, $matches);
+    // Assemble the urls
+    $list = array_map(function($href) use ($serviceUrl) {
+        // Replace the url encoded single slash with a real one.
+        $href = str_replace('&#39;', "'", $href);
+        // Convert 'US/CA' into 'US_CA.json'.
+        $filename = str_replace('/', '_', $href) . '.json';
+        $url = $serviceUrl . '/data/' . $href;
+        // aria2 expects the out= parameter to be in the next row,
+        // indented by two spaces.
+        $url .= "\n  out=$filename";
+
+        return $url;
+    }, $matches[1]);
+
+    return implode("\n", $list);
+}
+
+/**
  * Recursively generates subdivision definitions.
  */
 function generate_subdivisions($countryCode, $parentId, $subdivisionPaths, $languages)
 {
-    global $service_url;
-
     $subdivisions = array();
     // Start by retrieving all json definitions.
     $definitions = array();
     $definitionKeys = array();
     foreach ($subdivisionPaths as $subdivisionPath) {
-        $definition = file_get_contents($service_url . '/data/' . $subdivisionPath);
+        $definition = file_get_contents('raw/' . $subdivisionPath . '.json');
         $definition = json_decode($definition, true);
 
         $definitions[$subdivisionPath] = $definition;
@@ -164,7 +215,7 @@ function generate_subdivisions($countryCode, $parentId, $subdivisionPaths, $lang
         // It is unknown whether the current way of assembling the url would
         // work with several levels of translated subdivisions.
         foreach ($languages as $language) {
-            $translation = file_get_contents($service_url . '/data/' . $subdivisionPath . '--' . $language);
+            $translation = file_get_contents('raw/' . $subdivisionPath . '--' . $language . '.json');
             $translation = json_decode($translation, true);
             $subdivisions[$parentId][$subdivisionId]['translations'][$language]['name'] = $translation['name'];
         }
@@ -175,7 +226,7 @@ function generate_subdivisions($countryCode, $parentId, $subdivisionPaths, $lang
             $subdivisionChildrenPaths = array();
             $subdivisionChildrenKeys = explode('~', $definition['sub_keys']);
             foreach ($subdivisionChildrenKeys as $subdivisionChildrenKey) {
-                $subdivisionChildrenPaths[] = $subdivisionPath . '/' . rawurlencode($subdivisionChildrenKey);
+                $subdivisionChildrenPaths[] = $subdivisionPath . '_' . $subdivisionChildrenKey;
             }
 
             $subdivisions += generate_subdivisions($countryCode, $subdivisionId, $subdivisionChildrenPaths, $languages);
