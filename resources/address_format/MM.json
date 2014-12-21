@@ -1,6 +1,6 @@
 {
-    "locale": "ar-Latn",
-    "format": "%recipient\n%organization\n%address\n%locality\n%administrative_area\n%postal_code",
+    "locale": "und",
+    "format": "%recipient\n%organization\n%address\n%locality, %postal_code",
     "required_fields": [
         "address",
         "locality"
@@ -8,7 +8,6 @@
     "uppercase_fields": [
         "locality"
     ],
-    "administrative_area_type": "province",
     "locality_type": "city",
     "postal_code_type": "postal",
     "postal_code_pattern": "\\d{5}"

@@ -1,5 +1,5 @@
 {
-    "locale": "und",
+    "locale": "uk-Latn",
     "format": "%recipient\n%organization\n%address\n%locality\n%administrative_area\n%postal_code",
     "required_fields": [
         "address",

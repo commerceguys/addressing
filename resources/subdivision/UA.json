@@ -1,0 +1,353 @@
+{
+    "UA-1cfb62": {
+        "locale": "uk-Latn",
+        "country_code": "UA",
+        "parent_id": null,
+        "id": "UA-1cfb62",
+        "code": "Автономна Республіка Крим",
+        "name": "Crimea",
+        "translations": {
+            "uk": {
+                "name": "Автономна Республіка Крим"
+            }
+        }
+    },
+    "UA-7d79b7": {
+        "locale": "uk-Latn",
+        "country_code": "UA",
+        "parent_id": null,
+        "id": "UA-7d79b7",
+        "code": "Вінницька область",
+        "name": "Vinnyts'ka oblast",
+        "translations": {
+            "uk": {
+                "name": "Вінницька область"
+            }
+        }
+    },
+    "UA-37f6dd": {
+        "locale": "uk-Latn",
+        "country_code": "UA",
+        "parent_id": null,
+        "id": "UA-37f6dd",
+        "code": "Волинська область",
+        "name": "Volyns'ka oblast",
+        "translations": {
+            "uk": {
+                "name": "Волинська область"
+            }
+        }
+    },
+    "UA-0bab38": {
+        "locale": "uk-Latn",
+        "country_code": "UA",
+        "parent_id": null,
+        "id": "UA-0bab38",
+        "code": "Дніпропетровська область",
+        "name": "Dnipropetrovsk Oblast",
+        "translations": {
+            "uk": {
+                "name": "Дніпропетровська область"
+            }
+        }
+    },
+    "UA-8b2af4": {
+        "locale": "uk-Latn",
+        "country_code": "UA",
+        "parent_id": null,
+        "id": "UA-8b2af4",
+        "code": "Донецька область",
+        "name": "Donetsk Oblast",
+        "translations": {
+            "uk": {
+                "name": "Донецька область"
+            }
+        }
+    },
+    "UA-836aef": {
+        "locale": "uk-Latn",
+        "country_code": "UA",
+        "parent_id": null,
+        "id": "UA-836aef",
+        "code": "Житомирська область",
+        "name": "Zhytomyrs'ka oblast",
+        "translations": {
+            "uk": {
+                "name": "Житомирська область"
+            }
+        }
+    },
+    "UA-60eada": {
+        "locale": "uk-Latn",
+        "country_code": "UA",
+        "parent_id": null,
+        "id": "UA-60eada",
+        "code": "Закарпатська область",
+        "name": "Zakarpats'ka oblast",
+        "translations": {
+            "uk": {
+                "name": "Закарпатська область"
+            }
+        }
+    },
+    "UA-05dc7c": {
+        "locale": "uk-Latn",
+        "country_code": "UA",
+        "parent_id": null,
+        "id": "UA-05dc7c",
+        "code": "Запорізька область",
+        "name": "Zaporiz'ka oblast",
+        "translations": {
+            "uk": {
+                "name": "Запорізька область"
+            }
+        }
+    },
+    "UA-501c01": {
+        "locale": "uk-Latn",
+        "country_code": "UA",
+        "parent_id": null,
+        "id": "UA-501c01",
+        "code": "Івано-Франківська область",
+        "name": "Ivano-Frankivs'ka oblast",
+        "translations": {
+            "uk": {
+                "name": "Івано-Франківська область"
+            }
+        }
+    },
+    "UA-d4ff4f": {
+        "locale": "uk-Latn",
+        "country_code": "UA",
+        "parent_id": null,
+        "id": "UA-d4ff4f",
+        "code": "місто Київ",
+        "name": "Kyiv city",
+        "translations": {
+            "uk": {
+                "name": "Київ"
+            }
+        }
+    },
+    "UA-73f3f6": {
+        "locale": "uk-Latn",
+        "country_code": "UA",
+        "parent_id": null,
+        "id": "UA-73f3f6",
+        "code": "Київська область",
+        "name": "Kiev Oblast",
+        "translations": {
+            "uk": {
+                "name": "Київська область"
+            }
+        }
+    },
+    "UA-37cf15": {
+        "locale": "uk-Latn",
+        "country_code": "UA",
+        "parent_id": null,
+        "id": "UA-37cf15",
+        "code": "Кіровоградська область",
+        "name": "Kirovohrads'ka oblast",
+        "translations": {
+            "uk": {
+                "name": "Кіровоградська область"
+            }
+        }
+    },
+    "UA-7d2e49": {
+        "locale": "uk-Latn",
+        "country_code": "UA",
+        "parent_id": null,
+        "id": "UA-7d2e49",
+        "code": "Луганська область",
+        "name": "Luhans'ka oblast",
+        "translations": {
+            "uk": {
+                "name": "Луганська область"
+            }
+        }
+    },
+    "UA-f0c54f": {
+        "locale": "uk-Latn",
+        "country_code": "UA",
+        "parent_id": null,
+        "id": "UA-f0c54f",
+        "code": "Львівська область",
+        "name": "Lviv Oblast",
+        "translations": {
+            "uk": {
+                "name": "Львівська область"
+            }
+        }
+    },
+    "UA-f70829": {
+        "locale": "uk-Latn",
+        "country_code": "UA",
+        "parent_id": null,
+        "id": "UA-f70829",
+        "code": "Миколаївська область",
+        "name": "Mykolaivs'ka oblast",
+        "translations": {
+            "uk": {
+                "name": "Миколаївська область"
+            }
+        }
+    },
+    "UA-7e462e": {
+        "locale": "uk-Latn",
+        "country_code": "UA",
+        "parent_id": null,
+        "id": "UA-7e462e",
+        "code": "Одеська область",
+        "name": "Odessa Oblast",
+        "translations": {
+            "uk": {
+                "name": "Одеська область"
+            }
+        }
+    },
+    "UA-64566a": {
+        "locale": "uk-Latn",
+        "country_code": "UA",
+        "parent_id": null,
+        "id": "UA-64566a",
+        "code": "Полтавська область",
+        "name": "Poltavs'ka oblast",
+        "translations": {
+            "uk": {
+                "name": "Полтавська область"
+            }
+        }
+    },
+    "UA-390dc3": {
+        "locale": "uk-Latn",
+        "country_code": "UA",
+        "parent_id": null,
+        "id": "UA-390dc3",
+        "code": "Рівненська область",
+        "name": "Rivnens'ka oblast",
+        "translations": {
+            "uk": {
+                "name": "Рівненська область"
+            }
+        }
+    },
+    "UA-d241cb": {
+        "locale": "uk-Latn",
+        "country_code": "UA",
+        "parent_id": null,
+        "id": "UA-d241cb",
+        "code": "місто Севастополь",
+        "name": "Sevastopol' city",
+        "translations": {
+            "uk": {
+                "name": "Севастополь"
+            }
+        }
+    },
+    "UA-3283e1": {
+        "locale": "uk-Latn",
+        "country_code": "UA",
+        "parent_id": null,
+        "id": "UA-3283e1",
+        "code": "Сумська область",
+        "name": "Sums'ka oblast",
+        "translations": {
+            "uk": {
+                "name": "Сумська область"
+            }
+        }
+    },
+    "UA-5ff998": {
+        "locale": "uk-Latn",
+        "country_code": "UA",
+        "parent_id": null,
+        "id": "UA-5ff998",
+        "code": "Тернопільська область",
+        "name": "Ternopil's'ka oblast",
+        "translations": {
+            "uk": {
+                "name": "Тернопільська область"
+            }
+        }
+    },
+    "UA-a35df4": {
+        "locale": "uk-Latn",
+        "country_code": "UA",
+        "parent_id": null,
+        "id": "UA-a35df4",
+        "code": "Харківська область",
+        "name": "Kharkiv Oblast",
+        "translations": {
+            "uk": {
+                "name": "Харківська область"
+            }
+        }
+    },
+    "UA-355e6b": {
+        "locale": "uk-Latn",
+        "country_code": "UA",
+        "parent_id": null,
+        "id": "UA-355e6b",
+        "code": "Херсонська область",
+        "name": "Khersons'ka oblast",
+        "translations": {
+            "uk": {
+                "name": "Херсонська область"
+            }
+        }
+    },
+    "UA-feacf5": {
+        "locale": "uk-Latn",
+        "country_code": "UA",
+        "parent_id": null,
+        "id": "UA-feacf5",
+        "code": "Хмельницька область",
+        "name": "Khmel'nyts'ka oblast",
+        "translations": {
+            "uk": {
+                "name": "Хмельницька область"
+            }
+        }
+    },
+    "UA-6b1024": {
+        "locale": "uk-Latn",
+        "country_code": "UA",
+        "parent_id": null,
+        "id": "UA-6b1024",
+        "code": "Черкаська область",
+        "name": "Cherkas'ka oblast",
+        "translations": {
+            "uk": {
+                "name": "Черкаська область"
+            }
+        }
+    },
+    "UA-b99c4f": {
+        "locale": "uk-Latn",
+        "country_code": "UA",
+        "parent_id": null,
+        "id": "UA-b99c4f",
+        "code": "Чернівецька область",
+        "name": "Chernivets'ka oblast",
+        "translations": {
+            "uk": {
+                "name": "Чернівецька область"
+            }
+        }
+    },
+    "UA-917395": {
+        "locale": "uk-Latn",
+        "country_code": "UA",
+        "parent_id": null,
+        "id": "UA-917395",
+        "code": "Чернігівська область",
+        "name": "Chernihivs'ka oblast",
+        "translations": {
+            "uk": {
+                "name": "Чернігівська область"
+            }
+        }
+    }
+}

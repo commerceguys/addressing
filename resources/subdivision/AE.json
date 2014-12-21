@@ -12,6 +12,32 @@
             }
         }
     },
+    "AE-FU": {
+        "locale": "ar-Latn",
+        "country_code": "AE",
+        "parent_id": null,
+        "id": "AE-FU",
+        "code": "الفجيرة",
+        "name": "Fujairah",
+        "translations": {
+            "ar": {
+                "name": "الفجيرة"
+            }
+        }
+    },
+    "AE-UQ": {
+        "locale": "ar-Latn",
+        "country_code": "AE",
+        "parent_id": null,
+        "id": "AE-UQ",
+        "code": "ام القيوين",
+        "name": "Umm Al Quwain",
+        "translations": {
+            "ar": {
+                "name": "ام القيوين"
+            }
+        }
+    },
     "AE-SH": {
         "locale": "ar-Latn",
         "country_code": "AE",
@@ -48,32 +74,6 @@
         "translations": {
             "ar": {
                 "name": "إمارة رأس الخيمة"
-            }
-        }
-    },
-    "AE-FU": {
-        "locale": "ar-Latn",
-        "country_code": "AE",
-        "parent_id": null,
-        "id": "AE-FU",
-        "code": "الفجيرة",
-        "name": "Fujairah",
-        "translations": {
-            "ar": {
-                "name": "الفجيرة"
-            }
-        }
-    },
-    "AE-UQ": {
-        "locale": "ar-Latn",
-        "country_code": "AE",
-        "parent_id": null,
-        "id": "AE-UQ",
-        "code": "ام القيوين",
-        "name": "Umm Al Quwain",
-        "translations": {
-            "ar": {
-                "name": "ام القيوين"
             }
         }
     },

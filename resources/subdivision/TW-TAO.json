@@ -111,17 +111,17 @@
             }
         }
     },
-    "TW-TAO-34b2f8": {
+    "TW-TAO-b04951": {
         "locale": "zh-Latn",
         "country_code": "TW",
         "parent_id": "TW-TAO",
-        "id": "TW-TAO-34b2f8",
-        "code": "楊梅鎮",
-        "name": "Yangmei Township",
+        "id": "TW-TAO-b04951",
+        "code": "楊梅市",
+        "name": "Yangmei City",
         "postal_code_pattern": "326",
         "translations": {
             "zh-hant": {
-                "name": "楊梅鎮"
+                "name": "楊梅市"
             }
         }
     },

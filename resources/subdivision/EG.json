@@ -27,20 +27,6 @@
             }
         }
     },
-    "EG-LX": {
-        "locale": "ar-Latn",
-        "country_code": "EG",
-        "parent_id": null,
-        "id": "EG-LX",
-        "code": "الأقصر",
-        "name": "Luxor",
-        "postal_code_pattern": "85",
-        "translations": {
-            "ar": {
-                "name": "الأقصر"
-            }
-        }
-    },
     "EG-ALX": {
         "locale": "ar-Latn",
         "country_code": "EG",
@@ -66,6 +52,20 @@
         "translations": {
             "ar": {
                 "name": "الإسماعيلية"
+            }
+        }
+    },
+    "EG-LX": {
+        "locale": "ar-Latn",
+        "country_code": "EG",
+        "parent_id": null,
+        "id": "EG-LX",
+        "code": "الأقصر",
+        "name": "Luxor",
+        "postal_code_pattern": "85",
+        "translations": {
+            "ar": {
+                "name": "الأقصر"
             }
         }
     },

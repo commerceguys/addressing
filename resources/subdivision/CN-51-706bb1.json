@@ -38,6 +38,19 @@
             }
         }
     },
+    "CN-51-706bb1-a9d34e": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-51-706bb1",
+        "id": "CN-51-706bb1-a9d34e",
+        "code": "利州区",
+        "name": "Lizhou Qu",
+        "translations": {
+            "zh": {
+                "name": "利州区"
+            }
+        }
+    },
     "CN-51-706bb1-4c8a93": {
         "locale": "zh-Latn",
         "country_code": "CN",
