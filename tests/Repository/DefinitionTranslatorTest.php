@@ -31,6 +31,7 @@ class DefinitionTranslatorTest extends \PHPUnit_Framework_TestCase
 
     /**
      * @covers ::translateDefinition
+     * @covers ::getLocaleVariants
      */
     public function testTranslation()
     {
@@ -45,6 +46,7 @@ class DefinitionTranslatorTest extends \PHPUnit_Framework_TestCase
 
     /**
      * @covers ::translateDefinition
+     * @covers ::getLocaleVariants
      */
     public function testInvalidLocale()
     {
@@ -53,5 +55,20 @@ class DefinitionTranslatorTest extends \PHPUnit_Framework_TestCase
             $definition = $this->repository->runTranslateDefinition($this->definition, $locale);
             $this->assertEquals($this->definition, $definition);
         }
+    }
+
+    /**
+     * @covers ::translateDefinition
+     * @covers ::getLocaleVariants
+     */
+    public function testLocaleFallback()
+    {
+        $definition = $this->repository->runTranslateDefinition($this->definition, 'fr_CA');
+        $expectedDefinition = array(
+            'locale' => 'fr',
+            'title' => 'French title',
+            'description' => 'French description',
+        );
+        $this->assertEquals($expectedDefinition, $definition);
     }
 }

@@ -17,23 +17,53 @@ trait DefinitionTranslatorTrait
      */
     protected function translateDefinition(array $definition, $locale = null)
     {
-        if (is_null($locale)) {
-            // No locale specified, nothing to do.
+        if (is_null($locale) || empty($definition['translations'])) {
+            // No locale specified, or no translations found.
             return $definition;
         }
 
         // Normalize the locale. Allows en_US to work the same as en-US, etc.
         $locale = str_replace('_', '-', $locale);
+        $localeVariants = $this->getLocaleVariants($locale);
         $translation = array();
-        // Try to find a translation for the specified locale in the definition.
-        if (isset($locale, $definition['translations'], $definition['translations'][$locale])) {
-            $translation = $definition['translations'][$locale];
-            $definition['locale'] = $locale;
-            unset($definition['translations']);
+        // Try to find a translation for one of the locale variants.
+        foreach ($localeVariants as $localeVariant) {
+            if (isset($definition['translations'][$localeVariant])) {
+                $translation = $definition['translations'][$localeVariant];
+                $definition['locale'] = $localeVariant;
+                unset($definition['translations']);
+                break;
+            }
         }
         // Apply the translation.
         $definition = $translation + $definition;
 
         return $definition;
+    }
+
+    /**
+     * Returns all variants of a locale.
+     *
+     * For example, "bs-Cyrl-BA" has the following variants:
+     * 1) bs-Cyrl-BA
+     * 2) bs-Cyrl
+     * 3) bs
+     *
+     * @todo Remove this method once the symfony/intl dependency is introduced.
+     *
+     * @param string $locale The locale (i.e. fr-FR).
+     *
+     * @return array An array of all variants of a locale.
+     */
+    protected function getLocaleVariants($locale)
+    {
+        $localeVariants = array();
+        $localeParts = explode('-', $locale);
+        while (!empty($localeParts)) {
+            $localeVariants[] = implode('-', $localeParts);
+            array_pop($localeParts);
+        }
+
+        return $localeVariants;
     }
 }
