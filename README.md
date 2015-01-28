@@ -93,10 +93,10 @@ increasing the chances of the address being interpreted correctly.
 
 ```php
 use CommerceGuys\Addressing\Formatter\PostalFormatter;
-use CommerceGuys\Addressing\Metadata\AddressMetadataRepository;
+use CommerceGuys\Addressing\Provider\DataProvider;
 
-$repository = new AddressMetadataRepository();
-$formatter = new PostalFormatter($repository);
+$dataProvider = new DataProvider();
+$formatter = new PostalFormatter($dataProvider);
 
 // Format an address for sending from Switzerland, in French.
 // If the address destination is not Switzerland, the country name will be
@@ -109,8 +109,24 @@ echo $formatter->format($address, 'CH', 'fr');
 Address validation relies on the [Symfony Validator](https://github.com/symfony/validator) library.
 
 Checks performed:
-- Country code is valid.
 - All required fields are filled in.
 - All fields unused by the country's format are empty.
 - All subdivisions are valid (values matched against predefined subdivisions).
 - The postal code is valid (country and subdivision-level patterns).
+
+```php
+use CommerceGuys\Addressing\Model\Address;
+use CommerceGuys\Addressing\Validator\Constraints\AddressFormat;
+use CommerceGuys\Addressing\Validator\Constraints\Country;
+use Symfony\Component\Validator\Validation;
+
+$address = new Address();
+$address->setCountryCode('FR');
+
+$validator = Validation::createValidator();
+// Validate the country code, then validate the rest of the address.
+$violations = $validator->validateValue($address->getCountryCode(), new Country());
+if (!$violations->count()) {
+  $violations = $validator->validateValue($address, new AddressFormat());
+}
+```
