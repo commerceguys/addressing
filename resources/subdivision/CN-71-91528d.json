@@ -33,7 +33,7 @@
         "parent_id": "CN-71-91528d",
         "id": "CN-71-91528d-bb76e1",
         "code": "七堵區",
-        "name": "Cidu District",
+        "name": "Qidu District",
         "postal_code_pattern": "206",
         "translations": {
             "zh": {
@@ -47,7 +47,7 @@
         "parent_id": "CN-71-91528d",
         "id": "CN-71-91528d-5ccfd9",
         "code": "仁愛區",
-        "name": "Ren-ai District",
+        "name": "Ren'ai District",
         "postal_code_pattern": "200",
         "translations": {
             "zh": {
@@ -61,7 +61,7 @@
         "parent_id": "CN-71-91528d",
         "id": "CN-71-91528d-0cbec7",
         "code": "信義區",
-        "name": "Sinyi District",
+        "name": "Xinyi District",
         "postal_code_pattern": "201",
         "translations": {
             "zh": {
@@ -75,7 +75,7 @@
         "parent_id": "CN-71-91528d",
         "id": "CN-71-91528d-6ca022",
         "code": "中山區",
-        "name": "Jhongshan District",
+        "name": "Zhongshan District",
         "postal_code_pattern": "203",
         "translations": {
             "zh": {
@@ -89,7 +89,7 @@
         "parent_id": "CN-71-91528d",
         "id": "CN-71-91528d-3f41b2",
         "code": "中正區",
-        "name": "Jhongjheng District",
+        "name": "Zhongzheng District",
         "postal_code_pattern": "202",
         "translations": {
             "zh": {

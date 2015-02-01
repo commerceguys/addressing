@@ -146,7 +146,7 @@
         "id": "KR-43-d36b35",
         "code": "청주시",
         "name": "Cheongju-si",
-        "postal_code_pattern": "36[01]",
+        "postal_code_pattern": "36[0-3]",
         "translations": {
             "ko": {
                 "name": "청주시"

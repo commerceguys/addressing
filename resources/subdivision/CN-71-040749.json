@@ -5,7 +5,7 @@
         "parent_id": "CN-71-040749",
         "id": "CN-71-040749-1d154a",
         "code": "潮州鎮",
-        "name": "Chaojhou Township",
+        "name": "Chaozhou Township",
         "postal_code_pattern": "920",
         "translations": {
             "zh": {
@@ -33,7 +33,7 @@
         "parent_id": "CN-71-040749",
         "id": "CN-71-040749-fa2226",
         "code": "春日鄉",
-        "name": "Chunrih Township",
+        "name": "Chunri Township",
         "postal_code_pattern": "942",
         "translations": {
             "zh": {
@@ -131,7 +131,7 @@
         "parent_id": "CN-71-040749",
         "id": "CN-71-040749-20f54d",
         "code": "九如鄉",
-        "name": "Jiouru Township",
+        "name": "Jiuru Township",
         "postal_code_pattern": "904",
         "translations": {
             "zh": {
@@ -215,7 +215,7 @@
         "parent_id": "CN-71-040749",
         "id": "CN-71-040749-3886ec",
         "code": "琉球鄉",
-        "name": "Liouciou Township",
+        "name": "Liuqiu Township",
         "postal_code_pattern": "929",
         "translations": {
             "zh": {
@@ -243,7 +243,7 @@
         "parent_id": "CN-71-040749",
         "id": "CN-71-040749-0846c6",
         "code": "滿洲鄉",
-        "name": "Manjhou Township",
+        "name": "Manzhou Township",
         "postal_code_pattern": "947",
         "translations": {
             "zh": {
@@ -271,7 +271,7 @@
         "parent_id": "CN-71-040749",
         "id": "CN-71-040749-a39ca6",
         "code": "南州鄉",
-        "name": "Nanjhou Township",
+        "name": "Nanzhou Township",
         "postal_code_pattern": "926",
         "translations": {
             "zh": {
@@ -327,7 +327,7 @@
         "parent_id": "CN-71-040749",
         "id": "CN-71-040749-877423",
         "code": "獅子鄉",
-        "name": "Shihzih Township",
+        "name": "Shizi Township",
         "postal_code_pattern": "943",
         "translations": {
             "zh": {
@@ -397,7 +397,7 @@
         "parent_id": "CN-71-040749",
         "id": "CN-71-040749-7a4134",
         "code": "新埤鄉",
-        "name": "Sinpi Township",
+        "name": "Xinpi Township",
         "postal_code_pattern": "925",
         "translations": {
             "zh": {
@@ -411,7 +411,7 @@
         "parent_id": "CN-71-040749",
         "id": "CN-71-040749-639df1",
         "code": "新園鄉",
-        "name": "Sinyuan Township",
+        "name": "Xinyuan Township",
         "postal_code_pattern": "932",
         "translations": {
             "zh": {
@@ -439,7 +439,7 @@
         "parent_id": "CN-71-040749",
         "id": "CN-71-040749-da925b",
         "code": "長治鄉",
-        "name": "Changjhih Township",
+        "name": "Changzhi Township",
         "postal_code_pattern": "908",
         "translations": {
             "zh": {
@@ -453,7 +453,7 @@
         "parent_id": "CN-71-040749",
         "id": "CN-71-040749-8e245a",
         "code": "竹田鄉",
-        "name": "Jhutian Township",
+        "name": "Zhutian Township",
         "postal_code_pattern": "911",
         "translations": {
             "zh": {

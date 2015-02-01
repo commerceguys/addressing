@@ -38,16 +38,16 @@
             }
         }
     },
-    "CN-51-51d2b2-dc9f28": {
+    "CN-51-51d2b2-14be34": {
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-51d2b2",
-        "id": "CN-51-51d2b2-dc9f28",
-        "code": "名山县",
-        "name": "Mingshan Xian",
+        "id": "CN-51-51d2b2-14be34",
+        "code": "名山区",
+        "name": "Mingshan Qu",
         "translations": {
             "zh": {
-                "name": "名山县"
+                "name": "名山区"
             }
         }
     },

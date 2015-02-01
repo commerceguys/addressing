@@ -5,7 +5,7 @@
         "parent_id": "CN-71-7beaa2",
         "id": "CN-71-7beaa2-02f96f",
         "code": "褒忠鄉",
-        "name": "Baojhong Township",
+        "name": "Baozhong Township",
         "postal_code_pattern": "634",
         "translations": {
             "zh": {
@@ -33,7 +33,7 @@
         "parent_id": "CN-71-7beaa2",
         "id": "CN-71-7beaa2-78c4fe",
         "code": "莿桐鄉",
-        "name": "Cihtong Township",
+        "name": "Citong Township",
         "postal_code_pattern": "647",
         "translations": {
             "zh": {
@@ -61,7 +61,7 @@
         "parent_id": "CN-71-7beaa2",
         "id": "CN-71-7beaa2-0fa957",
         "code": "東勢鄉",
-        "name": "Dongshih Township",
+        "name": "Dongshi Township",
         "postal_code_pattern": "635",
         "translations": {
             "zh": {
@@ -75,7 +75,7 @@
         "parent_id": "CN-71-7beaa2",
         "id": "CN-71-7beaa2-9d6bdb",
         "code": "斗六市",
-        "name": "Douliou City",
+        "name": "Douliu City",
         "postal_code_pattern": "640",
         "translations": {
             "zh": {
@@ -201,7 +201,7 @@
         "parent_id": "CN-71-7beaa2",
         "id": "CN-71-7beaa2-bdeb82",
         "code": "水林鄉",
-        "name": "Shueilin Township",
+        "name": "Shuilin Township",
         "postal_code_pattern": "652",
         "translations": {
             "zh": {
@@ -215,7 +215,7 @@
         "parent_id": "CN-71-7beaa2",
         "id": "CN-71-7beaa2-ddc299",
         "code": "四湖鄉",
-        "name": "Sihhu Township",
+        "name": "Sihu Township",
         "postal_code_pattern": "654",
         "translations": {
             "zh": {
@@ -229,7 +229,7 @@
         "parent_id": "CN-71-7beaa2",
         "id": "CN-71-7beaa2-61a5a3",
         "code": "台西鄉",
-        "name": "Taisi Township",
+        "name": "Taixi Township",
         "postal_code_pattern": "636",
         "translations": {
             "zh": {
@@ -257,7 +257,7 @@
         "parent_id": "CN-71-7beaa2",
         "id": "CN-71-7beaa2-f11779",
         "code": "西螺鎮",
-        "name": "Siluo Township",
+        "name": "Xiluo Township",
         "postal_code_pattern": "648",
         "translations": {
             "zh": {

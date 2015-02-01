@@ -33,7 +33,7 @@
         "parent_id": "CN-71-644bf9",
         "id": "CN-71-644bf9-5dfb7f",
         "code": "國姓鄉",
-        "name": "Guosing Township",
+        "name": "Guoxing Township",
         "postal_code_pattern": "544",
         "translations": {
             "zh": {
@@ -103,7 +103,7 @@
         "parent_id": "CN-71-644bf9",
         "id": "CN-71-644bf9-dcf367",
         "code": "仁愛鄉",
-        "name": "Ren-ai Township",
+        "name": "Ren'ai Township",
         "postal_code_pattern": "546",
         "translations": {
             "zh": {
@@ -117,7 +117,7 @@
         "parent_id": "CN-71-644bf9",
         "id": "CN-71-644bf9-f3517f",
         "code": "水里鄉",
-        "name": "Shueili Township",
+        "name": "Shuili Township",
         "postal_code_pattern": "553",
         "translations": {
             "zh": {
@@ -131,7 +131,7 @@
         "parent_id": "CN-71-644bf9",
         "id": "CN-71-644bf9-a6a9b6",
         "code": "信義鄉",
-        "name": "Sinyi Township",
+        "name": "Xinyi Township",
         "postal_code_pattern": "556",
         "translations": {
             "zh": {
@@ -145,7 +145,7 @@
         "parent_id": "CN-71-644bf9",
         "id": "CN-71-644bf9-41548a",
         "code": "魚池鄉",
-        "name": "Yuchih Township",
+        "name": "Yuchi Township",
         "postal_code_pattern": "555",
         "translations": {
             "zh": {
@@ -159,7 +159,7 @@
         "parent_id": "CN-71-644bf9",
         "id": "CN-71-644bf9-29207f",
         "code": "中寮鄉",
-        "name": "Jhongliao Township",
+        "name": "Zhongliao Township",
         "postal_code_pattern": "541",
         "translations": {
             "zh": {
@@ -173,7 +173,7 @@
         "parent_id": "CN-71-644bf9",
         "id": "CN-71-644bf9-61d923",
         "code": "竹山鎮",
-        "name": "Jhushan Township",
+        "name": "Zhushan Township",
         "postal_code_pattern": "557",
         "translations": {
             "zh": {

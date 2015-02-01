@@ -61,7 +61,7 @@
         "parent_id": "CN-71-78cc11",
         "id": "CN-71-78cc11-37c1ca",
         "code": "東石鄉",
-        "name": "Dongshih Township",
+        "name": "Dongshi Township",
         "postal_code_pattern": "614",
         "translations": {
             "zh": {
@@ -89,7 +89,7 @@
         "parent_id": "CN-71-78cc11",
         "id": "CN-71-78cc11-eb81b2",
         "code": "六腳鄉",
-        "name": "Lioujiao Township",
+        "name": "Liujiao Township",
         "postal_code_pattern": "615",
         "translations": {
             "zh": {
@@ -131,7 +131,7 @@
         "parent_id": "CN-71-78cc11",
         "id": "CN-71-78cc11-c6cabe",
         "code": "民雄鄉",
-        "name": "Minsyong Township",
+        "name": "Minxiong Township",
         "postal_code_pattern": "621",
         "translations": {
             "zh": {
@@ -145,7 +145,7 @@
         "parent_id": "CN-71-78cc11",
         "id": "CN-71-78cc11-f5b48f",
         "code": "朴子市",
-        "name": "Puzih City",
+        "name": "Puzi City",
         "postal_code_pattern": "613",
         "translations": {
             "zh": {
@@ -159,7 +159,7 @@
         "parent_id": "CN-71-78cc11",
         "id": "CN-71-78cc11-ca2d7b",
         "code": "水上鄉",
-        "name": "Shueishang Township",
+        "name": "Shuishang Township",
         "postal_code_pattern": "608",
         "translations": {
             "zh": {
@@ -187,7 +187,7 @@
         "parent_id": "CN-71-78cc11",
         "id": "CN-71-78cc11-df03bc",
         "code": "溪口鄉",
-        "name": "Sikou Township",
+        "name": "Xikou Township",
         "postal_code_pattern": "623",
         "translations": {
             "zh": {
@@ -201,7 +201,7 @@
         "parent_id": "CN-71-78cc11",
         "id": "CN-71-78cc11-eb95e4",
         "code": "新港鄉",
-        "name": "Singang Township",
+        "name": "Xingang Township",
         "postal_code_pattern": "616",
         "translations": {
             "zh": {
@@ -215,7 +215,7 @@
         "parent_id": "CN-71-78cc11",
         "id": "CN-71-78cc11-cd54ad",
         "code": "義竹鄉",
-        "name": "Yijhu Township",
+        "name": "Yizhu Township",
         "postal_code_pattern": "624",
         "translations": {
             "zh": {
@@ -229,7 +229,7 @@
         "parent_id": "CN-71-78cc11",
         "id": "CN-71-78cc11-8f2ede",
         "code": "中埔鄉",
-        "name": "Jhongpu Township",
+        "name": "Zhongpu Township",
         "postal_code_pattern": "606",
         "translations": {
             "zh": {
@@ -243,7 +243,7 @@
         "parent_id": "CN-71-78cc11",
         "id": "CN-71-78cc11-00c21c",
         "code": "竹崎鄉",
-        "name": "Jhuci Township",
+        "name": "Zhuqi Township",
         "postal_code_pattern": "604",
         "translations": {
             "zh": {

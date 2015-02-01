@@ -33,7 +33,7 @@
         "parent_id": "CN-71-7ec23f",
         "id": "CN-71-7ec23f-05679a",
         "code": "池上鄉",
-        "name": "Chihshang Township",
+        "name": "Chishang Township",
         "postal_code_pattern": "958",
         "translations": {
             "zh": {
@@ -117,7 +117,7 @@
         "parent_id": "CN-71-7ec23f",
         "id": "CN-71-7ec23f-16e1eb",
         "code": "金峰鄉",
-        "name": "Jinfong Township",
+        "name": "Jinfeng Township",
         "postal_code_pattern": "964",
         "translations": {
             "zh": {
@@ -159,7 +159,7 @@
         "parent_id": "CN-71-7ec23f",
         "id": "CN-71-7ec23f-7a444e",
         "code": "綠島鄉",
-        "name": "Lyudao Township",
+        "name": "Lüdao Township",
         "postal_code_pattern": "951",
         "translations": {
             "zh": {

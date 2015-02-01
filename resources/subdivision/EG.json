@@ -5,7 +5,7 @@
         "parent_id": null,
         "id": "EG-ASN",
         "code": "أسوان",
-        "name": "Aswan",
+        "name": "Aswan Governorate",
         "postal_code_pattern": "81",
         "translations": {
             "ar": {
@@ -19,7 +19,7 @@
         "parent_id": null,
         "id": "EG-AST",
         "code": "أسيوط",
-        "name": "Asyut",
+        "name": "Asyut Governorate",
         "postal_code_pattern": "71",
         "translations": {
             "ar": {
@@ -33,7 +33,7 @@
         "parent_id": null,
         "id": "EG-ALX",
         "code": "الإسكندرية",
-        "name": "Alexandria",
+        "name": "Alexandria Governorate",
         "postal_code_pattern": "2[13]",
         "translations": {
             "ar": {
@@ -47,7 +47,7 @@
         "parent_id": null,
         "id": "EG-IS",
         "code": "الإسماعيلية",
-        "name": "Ismailia",
+        "name": "Ismailia Governorate",
         "postal_code_pattern": "41",
         "translations": {
             "ar": {
@@ -61,7 +61,7 @@
         "parent_id": null,
         "id": "EG-LX",
         "code": "الأقصر",
-        "name": "Luxor",
+        "name": "Luxor Governorate",
         "postal_code_pattern": "85",
         "translations": {
             "ar": {
@@ -75,7 +75,7 @@
         "parent_id": null,
         "id": "EG-BA",
         "code": "البحر الأحمر",
-        "name": "Red Sea",
+        "name": "Red Sea Governorate",
         "postal_code_pattern": "84",
         "translations": {
             "ar": {
@@ -89,7 +89,7 @@
         "parent_id": null,
         "id": "EG-BH",
         "code": "البحيرة",
-        "name": "Beheira",
+        "name": "El Beheira Governorate",
         "postal_code_pattern": "22",
         "translations": {
             "ar": {
@@ -103,7 +103,7 @@
         "parent_id": null,
         "id": "EG-GZ",
         "code": "الجيزة",
-        "name": "Giza",
+        "name": "Giza Governorate",
         "postal_code_pattern": "12",
         "translations": {
             "ar": {
@@ -117,7 +117,7 @@
         "parent_id": null,
         "id": "EG-DK",
         "code": "الدقهلية",
-        "name": "Dakahlia",
+        "name": "Dakahlia Governorate",
         "postal_code_pattern": "35",
         "translations": {
             "ar": {
@@ -131,7 +131,7 @@
         "parent_id": null,
         "id": "EG-SUZ",
         "code": "السويس",
-        "name": "Suez",
+        "name": "Suez Governorate",
         "postal_code_pattern": "43",
         "translations": {
             "ar": {
@@ -145,7 +145,7 @@
         "parent_id": null,
         "id": "EG-SHR",
         "code": "الشرقية",
-        "name": "Al Sharqia",
+        "name": "Ash Sharqia Governorate",
         "postal_code_pattern": "44",
         "translations": {
             "ar": {
@@ -159,7 +159,7 @@
         "parent_id": null,
         "id": "EG-GH",
         "code": "الغربية",
-        "name": "Gharbia",
+        "name": "Gharbia Governorate",
         "postal_code_pattern": "31",
         "translations": {
             "ar": {
@@ -173,7 +173,7 @@
         "parent_id": null,
         "id": "EG-FYM",
         "code": "الفيوم",
-        "name": "Faiyum",
+        "name": "Faiyum Governorate",
         "postal_code_pattern": "63",
         "translations": {
             "ar": {
@@ -187,7 +187,7 @@
         "parent_id": null,
         "id": "EG-C",
         "code": "القاهرة",
-        "name": "Cairo",
+        "name": "Cairo Governorate",
         "postal_code_pattern": "11",
         "translations": {
             "ar": {
@@ -201,7 +201,7 @@
         "parent_id": null,
         "id": "EG-KB",
         "code": "القليوبية",
-        "name": "Qalyubia",
+        "name": "Qalyubia Governorate",
         "postal_code_pattern": "13",
         "translations": {
             "ar": {
@@ -215,7 +215,7 @@
         "parent_id": null,
         "id": "EG-MNF",
         "code": "المنوفية",
-        "name": "Monufia",
+        "name": "Menofia Governorate",
         "postal_code_pattern": "32",
         "translations": {
             "ar": {
@@ -229,7 +229,7 @@
         "parent_id": null,
         "id": "EG-MN",
         "code": "المنيا",
-        "name": "Minya",
+        "name": "Menia Governorate",
         "postal_code_pattern": "61",
         "translations": {
             "ar": {
@@ -243,7 +243,7 @@
         "parent_id": null,
         "id": "EG-WAD",
         "code": "الوادي الجديد",
-        "name": "New Valley",
+        "name": "New Valley Governorate",
         "postal_code_pattern": "72",
         "translations": {
             "ar": {
@@ -257,7 +257,7 @@
         "parent_id": null,
         "id": "EG-BNS",
         "code": "بني سويف",
-        "name": "Beni Suef",
+        "name": "Beni Suef Governorate",
         "postal_code_pattern": "62",
         "translations": {
             "ar": {
@@ -271,7 +271,7 @@
         "parent_id": null,
         "id": "EG-PTS",
         "code": "بورسعيد",
-        "name": "Port Said",
+        "name": "Port Said Governorate",
         "postal_code_pattern": "42",
         "translations": {
             "ar": {
@@ -285,7 +285,7 @@
         "parent_id": null,
         "id": "EG-JS",
         "code": "جنوب سيناء",
-        "name": "South Sinai",
+        "name": "South Sinai Governorate",
         "postal_code_pattern": "46",
         "translations": {
             "ar": {
@@ -299,7 +299,7 @@
         "parent_id": null,
         "id": "EG-DT",
         "code": "دمياط",
-        "name": "Damietta",
+        "name": "Damietta Governorate",
         "postal_code_pattern": "34",
         "translations": {
             "ar": {
@@ -313,7 +313,7 @@
         "parent_id": null,
         "id": "EG-SHG",
         "code": "سوهاج",
-        "name": "Sohag",
+        "name": "Sohag Governorate",
         "postal_code_pattern": "82",
         "translations": {
             "ar": {
@@ -327,7 +327,7 @@
         "parent_id": null,
         "id": "EG-SIN",
         "code": "شمال سيناء",
-        "name": "North Sinai",
+        "name": "North Sinai Governorate",
         "postal_code_pattern": "45",
         "translations": {
             "ar": {
@@ -341,7 +341,7 @@
         "parent_id": null,
         "id": "EG-KN",
         "code": "قنا",
-        "name": "Qena",
+        "name": "Qena Governorate",
         "postal_code_pattern": "83",
         "translations": {
             "ar": {
@@ -355,7 +355,7 @@
         "parent_id": null,
         "id": "EG-KFS",
         "code": "كفر الشيخ",
-        "name": "Kafr el-Sheikh",
+        "name": "Kafr El Sheikh Governorate",
         "postal_code_pattern": "33",
         "translations": {
             "ar": {
@@ -369,7 +369,7 @@
         "parent_id": null,
         "id": "EG-MT",
         "code": "مطروح",
-        "name": "Matruh",
+        "name": "Matruh Governorate",
         "postal_code_pattern": "51",
         "translations": {
             "ar": {

@@ -77,16 +77,16 @@
             }
         }
     },
-    "CN-42-778f4e-923c0a": {
+    "CN-42-778f4e-b544fd": {
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42-778f4e",
-        "id": "CN-42-778f4e-923c0a",
-        "code": "襄阳区",
-        "name": "Xiangyang Qu",
+        "id": "CN-42-778f4e-b544fd",
+        "code": "襄州区",
+        "name": "Xiangzhou Qu",
         "translations": {
             "zh": {
-                "name": "襄阳区"
+                "name": "襄州区"
             }
         }
     },

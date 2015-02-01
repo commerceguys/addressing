@@ -19,7 +19,7 @@
         "parent_id": "CN-71-64185a",
         "id": "CN-71-64185a-376ed6",
         "code": "湖西鄉",
-        "name": "Husi Township",
+        "name": "Huxi Township",
         "postal_code_pattern": "885",
         "translations": {
             "zh": {
@@ -47,7 +47,7 @@
         "parent_id": "CN-71-64185a",
         "id": "CN-71-64185a-d1d69b",
         "code": "七美鄉",
-        "name": "Cimei Township",
+        "name": "Qimei Township",
         "postal_code_pattern": "883",
         "translations": {
             "zh": {
@@ -61,7 +61,7 @@
         "parent_id": "CN-71-64185a",
         "id": "CN-71-64185a-356bde",
         "code": "望安鄉",
-        "name": "Wang-an Township",
+        "name": "Wang'an Township",
         "postal_code_pattern": "882",
         "translations": {
             "zh": {
@@ -75,7 +75,7 @@
         "parent_id": "CN-71-64185a",
         "id": "CN-71-64185a-d84c92",
         "code": "西嶼鄉",
-        "name": "Siyu Township",
+        "name": "Xiyu Township",
         "postal_code_pattern": "881",
         "translations": {
             "zh": {

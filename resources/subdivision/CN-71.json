@@ -6,25 +6,10 @@
         "id": "CN-71-847868",
         "code": "高雄市",
         "name": "Kaohsiung City",
-        "postal_code_pattern": "80|81[1-379]",
+        "postal_code_pattern": "8[02-5]|81[1-579]",
         "translations": {
             "zh": {
                 "name": "高雄市"
-            }
-        },
-        "has_children": true
-    },
-    "CN-71-e3309a": {
-        "locale": "zh-Latn",
-        "country_code": "CN",
-        "parent_id": "CN-71",
-        "id": "CN-71-e3309a",
-        "code": "高雄縣",
-        "name": "Kaohsiung County",
-        "postal_code_pattern": "8[2-5]|81[45]",
-        "translations": {
-            "zh": {
-                "name": "高雄縣"
             }
         },
         "has_children": true
@@ -71,7 +56,8 @@
             "zh": {
                 "name": "嘉義市"
             }
-        }
+        },
+        "has_children": true
     },
     "CN-71-78cc11": {
         "locale": "zh-Latn",
@@ -193,21 +179,6 @@
         },
         "has_children": true
     },
-    "CN-71-498cb5": {
-        "locale": "zh-Latn",
-        "country_code": "CN",
-        "parent_id": "CN-71",
-        "id": "CN-71-498cb5",
-        "code": "台北縣",
-        "name": "Taipei County",
-        "postal_code_pattern": "20[78]|2[2345]",
-        "translations": {
-            "zh": {
-                "name": "台北縣"
-            }
-        },
-        "has_children": true
-    },
     "CN-71-7ec23f": {
         "locale": "zh-Latn",
         "country_code": "CN",
@@ -230,25 +201,10 @@
         "id": "CN-71-9dde59",
         "code": "台南市",
         "name": "Tainan City",
-        "postal_code_pattern": "70",
+        "postal_code_pattern": "7[0-4]",
         "translations": {
             "zh": {
                 "name": "台南市"
-            }
-        },
-        "has_children": true
-    },
-    "CN-71-bd06b0": {
-        "locale": "zh-Latn",
-        "country_code": "CN",
-        "parent_id": "CN-71",
-        "id": "CN-71-bd06b0",
-        "code": "台南縣",
-        "name": "Tainan County",
-        "postal_code_pattern": "7[1-4]",
-        "translations": {
-            "zh": {
-                "name": "台南縣"
             }
         },
         "has_children": true
@@ -260,25 +216,10 @@
         "id": "CN-71-dfbf10",
         "code": "台中市",
         "name": "Taichung City",
-        "postal_code_pattern": "40",
+        "postal_code_pattern": "4[0-3]",
         "translations": {
             "zh": {
                 "name": "台中市"
-            }
-        },
-        "has_children": true
-    },
-    "CN-71-818d20": {
-        "locale": "zh-Latn",
-        "country_code": "CN",
-        "parent_id": "CN-71",
-        "id": "CN-71-818d20",
-        "code": "台中縣",
-        "name": "Taichung County",
-        "postal_code_pattern": "4[123]",
-        "translations": {
-            "zh": {
-                "name": "台中縣"
             }
         },
         "has_children": true
@@ -298,6 +239,21 @@
         },
         "has_children": true
     },
+    "CN-71-584472": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-71",
+        "id": "CN-71-584472",
+        "code": "新北市",
+        "name": "New Taipei City",
+        "postal_code_pattern": "20[78]|2[2345]",
+        "translations": {
+            "zh": {
+                "name": "新北市"
+            }
+        },
+        "has_children": true
+    },
     "CN-71-5472a5": {
         "locale": "zh-Latn",
         "country_code": "CN",
@@ -310,7 +266,8 @@
             "zh": {
                 "name": "新竹市"
             }
-        }
+        },
+        "has_children": true
     },
     "CN-71-0fb9cc": {
         "locale": "zh-Latn",
@@ -319,7 +276,7 @@
         "id": "CN-71-0fb9cc",
         "code": "新竹縣",
         "name": "Hsinchu County",
-        "postal_code_pattern": "30[2-9]|31",
+        "postal_code_pattern": "30[2-8]|31",
         "translations": {
             "zh": {
                 "name": "新竹縣"

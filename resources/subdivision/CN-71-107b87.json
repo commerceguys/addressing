@@ -61,7 +61,7 @@
         "parent_id": "CN-71-107b87",
         "id": "CN-71-107b87-8b8f71",
         "code": "南庄鄉",
-        "name": "Nanjhuang Township",
+        "name": "Nanzhuang Township",
         "postal_code_pattern": "353",
         "translations": {
             "zh": {
@@ -103,7 +103,7 @@
         "parent_id": "CN-71-107b87",
         "id": "CN-71-107b87-48cf1b",
         "code": "獅潭鄉",
-        "name": "Shihtan Township",
+        "name": "Shitan Township",
         "postal_code_pattern": "354",
         "translations": {
             "zh": {
@@ -117,7 +117,7 @@
         "parent_id": "CN-71-107b87",
         "id": "CN-71-107b87-0653d4",
         "code": "泰安鄉",
-        "name": "Tai-an Township",
+        "name": "Tai'an Township",
         "postal_code_pattern": "365",
         "translations": {
             "zh": {
@@ -131,7 +131,7 @@
         "parent_id": "CN-71-107b87",
         "id": "CN-71-107b87-9430ff",
         "code": "通霄鎮",
-        "name": "Tongsiao Township",
+        "name": "Tongxiao Township",
         "postal_code_pattern": "357",
         "translations": {
             "zh": {
@@ -187,7 +187,7 @@
         "parent_id": "CN-71-107b87",
         "id": "CN-71-107b87-22498f",
         "code": "西湖鄉",
-        "name": "Sihu Township",
+        "name": "Xihu Township",
         "postal_code_pattern": "368",
         "translations": {
             "zh": {
@@ -215,7 +215,7 @@
         "parent_id": "CN-71-107b87",
         "id": "CN-71-107b87-7aae83",
         "code": "造橋鄉",
-        "name": "Zaociao Township",
+        "name": "Zaoqiao Township",
         "postal_code_pattern": "361",
         "translations": {
             "zh": {
@@ -229,7 +229,7 @@
         "parent_id": "CN-71-107b87",
         "id": "CN-71-107b87-4fe7c6",
         "code": "竹南鎮",
-        "name": "Jhunan Township",
+        "name": "Zhunan Township",
         "postal_code_pattern": "350",
         "translations": {
             "zh": {
@@ -243,7 +243,7 @@
         "parent_id": "CN-71-107b87",
         "id": "CN-71-107b87-758d9f",
         "code": "卓蘭鎮",
-        "name": "Jhuolan Township",
+        "name": "Zhuolan Township",
         "postal_code_pattern": "369",
         "translations": {
             "zh": {

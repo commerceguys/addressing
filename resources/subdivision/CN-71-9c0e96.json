@@ -19,7 +19,7 @@
         "parent_id": "CN-71-9c0e96",
         "id": "CN-71-9c0e96-86d58f",
         "code": "大安區",
-        "name": "Da-an District",
+        "name": "Da'an District",
         "postal_code_pattern": "106",
         "translations": {
             "zh": {
@@ -75,7 +75,7 @@
         "parent_id": "CN-71-9c0e96",
         "id": "CN-71-9c0e96-52d867",
         "code": "士林區",
-        "name": "Shihlin District",
+        "name": "Shilin District",
         "postal_code_pattern": "111",
         "translations": {
             "zh": {
@@ -117,7 +117,7 @@
         "parent_id": "CN-71-9c0e96",
         "id": "CN-71-9c0e96-199ad0",
         "code": "文山區",
-        "name": "Wunshan District",
+        "name": "Wenshan District",
         "postal_code_pattern": "116",
         "translations": {
             "zh": {
@@ -131,7 +131,7 @@
         "parent_id": "CN-71-9c0e96",
         "id": "CN-71-9c0e96-2c85fa",
         "code": "信義區",
-        "name": "Sinyi District",
+        "name": "Xinyi District",
         "postal_code_pattern": "110",
         "translations": {
             "zh": {
@@ -145,7 +145,7 @@
         "parent_id": "CN-71-9c0e96",
         "id": "CN-71-9c0e96-d651c3",
         "code": "中山區",
-        "name": "Jhongshan District",
+        "name": "Zhongshan District",
         "postal_code_pattern": "104",
         "translations": {
             "zh": {
@@ -159,7 +159,7 @@
         "parent_id": "CN-71-9c0e96",
         "id": "CN-71-9c0e96-852bab",
         "code": "中正區",
-        "name": "Jhongjheng District",
+        "name": "Zhongzheng District",
         "postal_code_pattern": "100",
         "translations": {
             "zh": {

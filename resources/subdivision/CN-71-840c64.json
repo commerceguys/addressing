@@ -19,7 +19,7 @@
         "parent_id": "CN-71-840c64",
         "id": "CN-71-840c64-889910",
         "code": "大溪鎮",
-        "name": "Dasi Township",
+        "name": "Daxi Township",
         "postal_code_pattern": "335",
         "translations": {
             "zh": {
@@ -47,7 +47,7 @@
         "parent_id": "CN-71-840c64",
         "id": "CN-71-840c64-ff5b9b",
         "code": "復興鄉",
-        "name": "Fusing Township",
+        "name": "Fuxing Township",
         "postal_code_pattern": "336",
         "translations": {
             "zh": {
@@ -75,7 +75,7 @@
         "parent_id": "CN-71-840c64",
         "id": "CN-71-840c64-811efe",
         "code": "龜山鄉",
-        "name": "Gueishan Township",
+        "name": "Guishan Township",
         "postal_code_pattern": "333",
         "translations": {
             "zh": {
@@ -103,7 +103,7 @@
         "parent_id": "CN-71-840c64",
         "id": "CN-71-840c64-4dd30d",
         "code": "蘆竹鄉",
-        "name": "Lujhu Township",
+        "name": "Luzhu Township",
         "postal_code_pattern": "338",
         "translations": {
             "zh": {
@@ -117,7 +117,7 @@
         "parent_id": "CN-71-840c64",
         "id": "CN-71-840c64-92a63c",
         "code": "平鎮市",
-        "name": "Pingjhen City",
+        "name": "Pingzhen City",
         "postal_code_pattern": "324",
         "translations": {
             "zh": {
@@ -145,7 +145,7 @@
         "parent_id": "CN-71-840c64",
         "id": "CN-71-840c64-3792b2",
         "code": "新屋鄉",
-        "name": "Sinwu Township",
+        "name": "Xinwu Township",
         "postal_code_pattern": "327",
         "translations": {
             "zh": {
@@ -153,17 +153,17 @@
             }
         }
     },
-    "CN-71-840c64-00921a": {
+    "CN-71-840c64-e5785a": {
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-71-840c64",
-        "id": "CN-71-840c64-00921a",
-        "code": "楊梅鎮",
-        "name": "Yangmei Township",
+        "id": "CN-71-840c64-e5785a",
+        "code": "楊梅市",
+        "name": "Yangmei City",
         "postal_code_pattern": "326",
         "translations": {
             "zh": {
-                "name": "楊梅鎮"
+                "name": "楊梅市"
             }
         }
     },
@@ -173,7 +173,7 @@
         "parent_id": "CN-71-840c64",
         "id": "CN-71-840c64-7db215",
         "code": "中壢市",
-        "name": "Jhongli City",
+        "name": "Zhongli City",
         "postal_code_pattern": "320",
         "translations": {
             "zh": {

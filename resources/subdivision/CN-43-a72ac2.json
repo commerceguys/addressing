@@ -64,16 +64,16 @@
             }
         }
     },
-    "CN-43-a72ac2-0db2cd": {
+    "CN-43-a72ac2-b21db2": {
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-a72ac2",
-        "id": "CN-43-a72ac2-0db2cd",
-        "code": "望城县",
-        "name": "Wangcheng Xian",
+        "id": "CN-43-a72ac2-b21db2",
+        "code": "望城区",
+        "name": "Wangcheng Qu",
         "translations": {
             "zh": {
-                "name": "望城县"
+                "name": "望城区"
             }
         }
     },

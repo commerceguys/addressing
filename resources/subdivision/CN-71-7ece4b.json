@@ -19,7 +19,7 @@
         "parent_id": "CN-71-7ece4b",
         "id": "CN-71-7ece4b-59704c",
         "code": "埔心鄉",
-        "name": "Pusin Township",
+        "name": "Puxin Township",
         "postal_code_pattern": "513",
         "translations": {
             "zh": {
@@ -89,7 +89,7 @@
         "parent_id": "CN-71-7ece4b",
         "id": "CN-71-7ece4b-a0753a",
         "code": "二水鄉",
-        "name": "Ershuei Township",
+        "name": "Ershui Township",
         "postal_code_pattern": "530",
         "translations": {
             "zh": {
@@ -131,7 +131,7 @@
         "parent_id": "CN-71-7ece4b",
         "id": "CN-71-7ece4b-797de6",
         "code": "福興鄉",
-        "name": "Fusing Township",
+        "name": "Fuxing Township",
         "postal_code_pattern": "506",
         "translations": {
             "zh": {
@@ -173,7 +173,7 @@
         "parent_id": "CN-71-7ece4b",
         "id": "CN-71-7ece4b-4b0e8c",
         "code": "鹿港鎮",
-        "name": "Lugang Township",
+        "name": "Lukang Township",
         "postal_code_pattern": "505",
         "translations": {
             "zh": {
@@ -243,7 +243,7 @@
         "parent_id": "CN-71-7ece4b",
         "id": "CN-71-7ece4b-6aeaf9",
         "code": "田中鎮",
-        "name": "Tianjhong Township",
+        "name": "Tianzhong Township",
         "postal_code_pattern": "520",
         "translations": {
             "zh": {
@@ -257,7 +257,7 @@
         "parent_id": "CN-71-7ece4b",
         "id": "CN-71-7ece4b-0e55a0",
         "code": "溪湖鎮",
-        "name": "Sihu Township",
+        "name": "Xihu Township",
         "postal_code_pattern": "514",
         "translations": {
             "zh": {
@@ -271,7 +271,7 @@
         "parent_id": "CN-71-7ece4b",
         "id": "CN-71-7ece4b-efe304",
         "code": "溪州鄉",
-        "name": "Sijhou Township",
+        "name": "Xizhou Township",
         "postal_code_pattern": "524",
         "translations": {
             "zh": {
@@ -285,7 +285,7 @@
         "parent_id": "CN-71-7ece4b",
         "id": "CN-71-7ece4b-ecbb46",
         "code": "線西鄉",
-        "name": "Siansi Township",
+        "name": "Xianxi Township",
         "postal_code_pattern": "507",
         "translations": {
             "zh": {
@@ -299,7 +299,7 @@
         "parent_id": "CN-71-7ece4b",
         "id": "CN-71-7ece4b-54739b",
         "code": "秀水鄉",
-        "name": "Sioushuei Township",
+        "name": "Xiushui Township",
         "postal_code_pattern": "504",
         "translations": {
             "zh": {
@@ -355,7 +355,7 @@
         "parent_id": "CN-71-7ece4b",
         "id": "CN-71-7ece4b-b84249",
         "code": "竹塘鄉",
-        "name": "Jhutang Township",
+        "name": "Zhutang Township",
         "postal_code_pattern": "525",
         "translations": {
             "zh": {
