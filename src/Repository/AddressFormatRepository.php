@@ -105,29 +105,34 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
     protected function createAddressFormatFromDefinition(array $definition)
     {
         $addressFormat = new AddressFormat();
-        $addressFormat->setCountryCode($definition['country_code']);
-        $addressFormat->setFormat($definition['format']);
-        $addressFormat->setRequiredFields($definition['required_fields']);
-        $addressFormat->setUppercaseFields($definition['uppercase_fields']);
-        $addressFormat->setLocale($definition['locale']);
-        if (isset($definition['administrative_area_type'])) {
-            $addressFormat->setAdministrativeAreaType($definition['administrative_area_type']);
-        }
-        if (isset($definition['locality_type'])) {
-            $addressFormat->setLocalityType($definition['locality_type']);
-        }
-        if (isset($definition['dependent_locality_type'])) {
-            $addressFormat->setDependentLocalityType($definition['dependent_locality_type']);
-        }
-        if (isset($definition['postal_code_type'])) {
-            $addressFormat->setPostalCodeType($definition['postal_code_type']);
-        }
-        if (isset($definition['postal_code_pattern'])) {
-            $addressFormat->setPostalCodePattern($definition['postal_code_pattern']);
-        }
-        if (isset($definition['postal_code_prefix'])) {
-            $addressFormat->setPostalCodePrefix($definition['postal_code_prefix']);
-        }
+        // Bind the closure to the AddressFormat object, giving it access to
+        // its protected properties. Faster than both setters and reflection.
+        $setValues = \Closure::bind(function ($definition) {
+            $this->countryCode = $definition['country_code'];
+            $this->format = $definition['format'];
+            $this->requiredFields = $definition['required_fields'];
+            $this->uppercaseFields = $definition['uppercase_fields'];
+            $this->locale = $definition['locale'];
+            if (isset($definition['administrative_area_type'])) {
+                $this->administrativeAreaType = $definition['administrative_area_type'];
+            }
+            if (isset($definition['locality_type'])) {
+                $this->localityType = $definition['locality_type'];
+            }
+            if (isset($definition['dependent_locality_type'])) {
+                $this->dependentLocalityType = $definition['dependent_locality_type'];
+            }
+            if (isset($definition['postal_code_type'])) {
+                $this->postalCodeType = $definition['postal_code_type'];
+            }
+            if (isset($definition['postal_code_pattern'])) {
+                $this->postalCodePattern = $definition['postal_code_pattern'];
+            }
+            if (isset($definition['postal_code_prefix'])) {
+                $this->postalCodePrefix = $definition['postal_code_prefix'];
+            }
+        }, $addressFormat, '\CommerceGuys\Addressing\Model\AddressFormat');
+        $setValues($definition);
 
         return $addressFormat;
     }

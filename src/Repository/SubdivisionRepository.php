@@ -124,25 +124,31 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
      */
     protected function createSubdivisionFromDefinition(array $definition)
     {
-        $parent = null;
+        $definition['parent'] = null;
         if (isset($definition['parent_id'])) {
             $parentId = $definition['parent_id'];
             if (!isset($this->parents[$parentId])) {
                 $this->parents[$parentId] = $this->get($definition['parent_id']);
             }
-            $parent = $this->parents[$parentId];
+            $definition['parent'] = $this->parents[$parentId];
         }
 
         $subdivision = new Subdivision();
-        $subdivision->setParent($parent);
-        $subdivision->setCountryCode($definition['country_code']);
-        $subdivision->setId($definition['id']);
-        $subdivision->setCode($definition['code']);
-        $subdivision->setName($definition['name']);
-        $subdivision->setLocale($definition['locale']);
-        if (isset($definition['postal_code_pattern'])) {
-            $subdivision->setPostalCodePattern($definition['postal_code_pattern']);
-        }
+        // Bind the closure to the Subdivision object, giving it access to its
+        // protected properties. Faster than both setters and reflection.
+        $setValues = \Closure::bind(function ($definition) {
+            $this->parent = $definition['parent'];
+            $this->countryCode = $definition['country_code'];
+            $this->id = $definition['id'];
+            $this->code = $definition['code'];
+            $this->name = $definition['name'];
+            $this->locale = $definition['locale'];
+            if (isset($definition['postal_code_pattern'])) {
+                $this->postalCodePattern = $definition['postal_code_pattern'];
+            }
+        }, $subdivision, '\CommerceGuys\Addressing\Model\Subdivision');
+        $setValues($definition);
+
         if (!empty($definition['has_children'])) {
             $children = new LazySubdivisionCollection($definition['country_code'], $definition['id'], $definition['locale']);
             $children->setRepository($this);
