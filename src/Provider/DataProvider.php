@@ -125,7 +125,7 @@ class DataProvider implements DataProviderInterface
     /**
      * {@inheritdoc}
      */
-    public function getSubdivisions($countryCode, $parentId = 0, $locale = null)
+    public function getSubdivisions($countryCode, $parentId = null, $locale = null)
     {
         return $this->subdivisionRepository->getAll($countryCode, $parentId, $locale);
     }

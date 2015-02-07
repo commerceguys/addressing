@@ -64,7 +64,7 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
         $countryCode = $idParts[0];
         $parentId = implode('-', $idParts);
         if ($parentId == $countryCode) {
-            $parentId = 0;
+            $parentId = null;
         }
         $definitions = $this->loadDefinitions($countryCode, $parentId);
         if (!isset($definitions[$id])) {
@@ -79,7 +79,7 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
     /**
      * {@inheritdoc}
      */
-    public function getAll($countryCode, $parentId = 0, $locale = null)
+    public function getAll($countryCode, $parentId = null, $locale = null)
     {
         $definitions = $this->loadDefinitions($countryCode, $parentId);
         $subdivisions = array();
@@ -99,10 +99,10 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
      *
      * @return array The subdivision definitions.
      */
-    protected function loadDefinitions($countryCode, $parentId = 0)
+    protected function loadDefinitions($countryCode, $parentId = null)
     {
         if (!isset($this->definitions[$countryCode][$parentId])) {
-            $filename = ($parentId === 0) ? $countryCode . '.json' : $parentId . '.json';
+            $filename = $parentId ? $parentId . '.json' : $countryCode . '.json';
             $rawDefinition = @file_get_contents($this->definitionPath . $filename);
             if ($rawDefinition) {
                 $this->definitions[$countryCode][$parentId] = json_decode($rawDefinition, true);

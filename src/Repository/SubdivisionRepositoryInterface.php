@@ -28,5 +28,5 @@ interface SubdivisionRepositoryInterface
      *
      * @return Subdivision[] An array of subdivision instances.
      */
-    public function getAll($countryCode, $parentId = 0, $locale = null);
+    public function getAll($countryCode, $parentId = null, $locale = null);
 }

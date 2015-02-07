@@ -76,5 +76,5 @@ interface DataProviderInterface
      *
      * @return Subdivision[] An array of subdivision instances.
      */
-    public function getSubdivisions($countryCode, $parentId = 0, $locale = null);
+    public function getSubdivisions($countryCode, $parentId = null, $locale = null);
 }
