@@ -55,7 +55,7 @@ class LazySubdivisionCollectionTest extends \PHPUnit_Framework_TestCase
             ->expects($this->any())
             ->method('getAll')
             ->with('BR', 'BR-AC-6e6b33', 'pt')
-            ->will($this->returnValue(array($subdivision)));
+            ->will($this->returnValue([$subdivision]));
         $this->collection->setRepository($subdivisionRepository);
 
         $this->assertFalse($this->collection->isInitialized());

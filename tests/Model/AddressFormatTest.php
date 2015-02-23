@@ -46,12 +46,12 @@ class AddressFormatTest extends \PHPUnit_Framework_TestCase
      */
     public function testRequiredFields()
     {
-        $requiredFields = array(
+        $requiredFields = [
             AddressFormat::FIELD_ADMINISTRATIVE_AREA,
             AddressFormat::FIELD_LOCALITY,
             AddressFormat::FIELD_POSTAL_CODE,
             AddressFormat::FIELD_ADDRESS,
-        );
+        ];
         $this->addressFormat->setRequiredFields($requiredFields);
         $this->assertEquals($requiredFields, $this->addressFormat->getRequiredFields());
     }
@@ -62,10 +62,10 @@ class AddressFormatTest extends \PHPUnit_Framework_TestCase
      */
     public function testUppercaseFields()
     {
-        $uppercaseFields = array(
+        $uppercaseFields = [
             AddressFormat::FIELD_ADMINISTRATIVE_AREA,
             AddressFormat::FIELD_LOCALITY,
-        );
+        ];
         $this->addressFormat->setUppercaseFields($uppercaseFields);
         $this->assertEquals($uppercaseFields, $this->addressFormat->getUppercaseFields());
     }

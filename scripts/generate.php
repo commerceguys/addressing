@@ -19,7 +19,7 @@ if (empty($ariaVersion) || strpos($ariaVersion[0], 'aria2 version') === false) {
 }
 
 // Prepare the filesystem.
-$neededDirectories = array('address_format', 'subdivision', 'raw');
+$neededDirectories = ['address_format', 'subdivision', 'raw'];
 foreach ($neededDirectories as $neededDirectory) {
     if (!is_dir($neededDirectory)) {
         mkdir($neededDirectory);
@@ -41,7 +41,7 @@ echo "Downloading the raw data from Google's endpoint.\n";
 exec('cd raw && aria2c -u 16 -i url_list.txt');
 
 // Create a list of countries for which Google has definitions.
-$foundCountries = array('ZZ');
+$foundCountries = ['ZZ'];
 $index = file_get_contents($serviceUrl);
 foreach ($countries as $countryCode => $countryName) {
     $link = "<a href='/address/data/{$countryCode}'>";
@@ -55,12 +55,12 @@ echo "Converting the raw definitions into the expected format.\n";
 
 // Process the raw definitions and convert them into the expected format.
 $genericDefinition = null;
-$addressFormats = array();
-$groupedSubdivisions = array();
+$addressFormats = [];
+$groupedSubdivisions = [];
 foreach ($foundCountries as $countryCode) {
     $definition = file_get_contents('raw/' . $countryCode . '.json');
     $definition = json_decode($definition, true);
-    $extraKeys = array_diff(array_keys($definition), array('id', 'key', 'name'));
+    $extraKeys = array_diff(array_keys($definition), ['id', 'key', 'name']);
     if (empty($extraKeys)) {
         // This is an empty definition, skip it.
         continue;
@@ -83,14 +83,14 @@ foreach ($foundCountries as $countryCode) {
     // Create a list of available translations.
     // Ignore Hong Kong because the listed translation (English) is already
     // provided through the lname property.
-    $languages = array();
+    $languages = [];
     if (isset($definition['languages']) && $countryCode != 'HK') {
         $languages = explode('~', $definition['languages']);
         array_shift($languages);
     }
 
     if (isset($definition['sub_keys'])) {
-        $subdivisionPaths = array();
+        $subdivisionPaths = [];
         $subdivisionKeys = explode('~', $definition['sub_keys']);
         foreach ($subdivisionKeys as $subdivisionKey) {
             $subdivisionPaths[] = $countryCode . '_' . $subdivisionKey;
@@ -167,10 +167,10 @@ function generate_url_list()
  */
 function generate_subdivisions($countryCode, $parentId, $subdivisionPaths, $languages)
 {
-    $subdivisions = array();
+    $subdivisions = [];
     // Start by retrieving all json definitions.
-    $definitions = array();
-    $definitionKeys = array();
+    $definitions = [];
+    $definitionKeys = [];
     foreach ($subdivisionPaths as $subdivisionPath) {
         $definition = file_get_contents('raw/' . $subdivisionPath . '.json');
         $definition = json_decode($definition, true);
@@ -198,7 +198,7 @@ function generate_subdivisions($countryCode, $parentId, $subdivisionPaths, $lang
             // Many administrative areas have no isoid, but use a safe
             // two/three letter identifier as the key.
             $subdivisionId = $parentId . '-' . $definition['key'];
-        } elseif (in_array($countryCode, array('AU'))) {
+        } elseif (in_array($countryCode, ['AU'])) {
             // Special case countries which have different key lengths,
             // but which are known to be safe (for example, Australia).
             $subdivisionId = $parentId . '-' . $definition['key'];
@@ -223,7 +223,7 @@ function generate_subdivisions($countryCode, $parentId, $subdivisionPaths, $lang
         if (isset($definition['sub_keys'])) {
             $subdivisions[$parentId][$subdivisionId]['has_children'] = true;
 
-            $subdivisionChildrenPaths = array();
+            $subdivisionChildrenPaths = [];
             $subdivisionChildrenKeys = explode('~', $definition['sub_keys']);
             foreach ($subdivisionChildrenKeys as $subdivisionChildrenKey) {
                 $subdivisionChildrenPaths[] = $subdivisionPath . '_' . $subdivisionChildrenKey;
@@ -241,14 +241,14 @@ function generate_subdivisions($countryCode, $parentId, $subdivisionPaths, $lang
  */
 function create_address_format_definition($rawDefinition)
 {
-    $addressFormat = array(
+    $addressFormat = [
         'locale' => determine_locale($rawDefinition),
         'format' => null,
         'required_fields' => convert_fields($rawDefinition['require']),
         'uppercase_fields' => convert_fields($rawDefinition['upper']),
-    );
+    ];
 
-    $translations = array();
+    $translations = [];
     if (isset($rawDefinition['lfmt']) && $rawDefinition['lfmt'] != $rawDefinition['fmt']) {
         // Handle the China/Korea/Japan dual formats via translations.
         $language = $rawDefinition['lang'];
@@ -299,14 +299,14 @@ function create_subdivision_definition($countryCode, $parentId, $subdivisionId, 
         $parentId = null;
     }
 
-    $subdivision = array(
+    $subdivision = [
         'locale' => determine_locale($rawDefinition),
         'country_code' => $countryCode,
         'parent_id' => $parentId,
         'id' => $subdivisionId,
         'code' => $rawDefinition['key'],
         'name' => $rawDefinition['name'],
-    );
+    ];
     if (isset($rawDefinition['zip'])) {
         $subdivision['postal_code_pattern'] = $rawDefinition['zip'];
     }
@@ -345,7 +345,7 @@ function determine_locale($rawDefinition)
  */
 function convert_format($format)
 {
-    $replacements = array(
+    $replacements = [
         '%S' => '%' . AddressFormat::FIELD_ADMINISTRATIVE_AREA,
         '%C' => '%' . AddressFormat::FIELD_LOCALITY,
         '%D' => '%' . AddressFormat::FIELD_DEPENDENT_LOCALITY,
@@ -355,7 +355,7 @@ function convert_format($format)
         '%O' => '%' . AddressFormat::FIELD_ORGANIZATION,
         '%N' => '%' . AddressFormat::FIELD_RECIPIENT,
         '%n' => "\n",
-    );
+    ];
 
     return strtr($format, $replacements);
 }
@@ -365,7 +365,7 @@ function convert_format($format)
  */
 function convert_fields($fields)
 {
-    $mapping = array(
+    $mapping = [
         'S' => AddressFormat::FIELD_ADMINISTRATIVE_AREA,
         'C' => AddressFormat::FIELD_LOCALITY,
         'D' => AddressFormat::FIELD_DEPENDENT_LOCALITY,
@@ -374,7 +374,7 @@ function convert_fields($fields)
         'A' => AddressFormat::FIELD_ADDRESS,
         'O' => AddressFormat::FIELD_ORGANIZATION,
         'N' => AddressFormat::FIELD_RECIPIENT,
-    );
+    ];
 
     $fields = str_split($fields);
     foreach ($fields as $key => $field) {
@@ -391,7 +391,7 @@ function convert_fields($fields)
  */
 function load_definitions($type)
 {
-    $data = array();
+    $data = [];
     $path = '../resources/' . $type;
     if ($handle = opendir($path)) {
         while (false !== ($entry = readdir($handle))) {
@@ -415,7 +415,7 @@ function load_change_listing($type)
     if (!empty($changes)) {
         $changes = json_decode($changes, true);
     } else {
-        $changes = array();
+        $changes = [];
     }
 
     return $changes;
@@ -426,7 +426,7 @@ function load_change_listing($type)
  */
 function generate_address_format_changes($oldAddressFormats, $newAddressFormats)
 {
-    $changes = array(
+    $changes = [
         'date' => date('c'),
         'added' => array_keys(array_diff_key($newAddressFormats, $oldAddressFormats)),
         'removed' => array_keys(array_diff_key($oldAddressFormats, $newAddressFormats)),
@@ -436,7 +436,7 @@ function generate_address_format_changes($oldAddressFormats, $newAddressFormats)
             array_intersect_key($oldAddressFormats, $newAddressFormats),
             'compare_arrays'
         )),
-    );
+    ];
 
     return $changes;
 }
@@ -446,17 +446,17 @@ function generate_address_format_changes($oldAddressFormats, $newAddressFormats)
  */
 function generate_subdivision_changes($oldSubdivisions, $newSubdivisions)
 {
-    $changes = array(
+    $changes = [
         'date' => date('c'),
-        'added' => array(),
-        'removed' => array(),
-        'modified' => array(),
-    );
+        'added' => [],
+        'removed' => [],
+        'modified' => [],
+    ];
     foreach ($newSubdivisions as $parentId => $subdivisions) {
         if (!isset($oldSubdivisions[$parentId])) {
             $added = array_keys($subdivisions);
-            $removed = array();
-            $modified = array();
+            $removed = [];
+            $modified = [];
         }
         else {
             $added = array_keys(array_diff_key($subdivisions, $oldSubdivisions[$parentId]));

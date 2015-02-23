@@ -12,17 +12,17 @@ class DefinitionTranslatorTest extends \PHPUnit_Framework_TestCase
      */
     protected $repository;
 
-    protected $definition = array(
+    protected $definition = [
         'locale' => 'en',
         'title' => 'English title',
         'description' => 'English description',
-        'translations' => array(
-            'fr' => array(
+        'translations' => [
+            'fr' => [
                 'title' => 'French title',
                 'description' => 'French description',
-            ),
-        ),
-    );
+            ],
+        ],
+    ];
 
     public function setUp()
     {
@@ -36,11 +36,11 @@ class DefinitionTranslatorTest extends \PHPUnit_Framework_TestCase
     public function testTranslation()
     {
         $definition = $this->repository->runTranslateDefinition($this->definition, 'fr');
-        $expectedDefinition = array(
+        $expectedDefinition = [
             'locale' => 'fr',
             'title' => 'French title',
             'description' => 'French description',
-        );
+        ];
         $this->assertEquals($expectedDefinition, $definition);
     }
 
@@ -50,7 +50,7 @@ class DefinitionTranslatorTest extends \PHPUnit_Framework_TestCase
      */
     public function testInvalidLocale()
     {
-        $invalidLocales = array(null, 'de');
+        $invalidLocales = [null, 'de'];
         foreach ($invalidLocales as $locale) {
             $definition = $this->repository->runTranslateDefinition($this->definition, $locale);
             $this->assertEquals($this->definition, $definition);
@@ -64,11 +64,11 @@ class DefinitionTranslatorTest extends \PHPUnit_Framework_TestCase
     public function testLocaleFallback()
     {
         $definition = $this->repository->runTranslateDefinition($this->definition, 'fr_CA');
-        $expectedDefinition = array(
+        $expectedDefinition = [
             'locale' => 'fr',
             'title' => 'French title',
             'description' => 'French description',
-        );
+        ];
         $this->assertEquals($expectedDefinition, $definition);
     }
 }

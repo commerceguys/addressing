@@ -80,7 +80,7 @@ class CountryValidatorTest extends AbstractConstraintValidatorTest
     {
         $this->validator->validate('InvalidValue', $this->constraint);
         $this->buildViolation($this->constraint->message)
-            ->setParameters(array('{{ value }}' => '"InvalidValue"'))
+            ->setParameters(['{{ value }}' => '"InvalidValue"'])
             ->atPath('')
             ->assertRaised();
     }
@@ -100,11 +100,11 @@ class CountryValidatorTest extends AbstractConstraintValidatorTest
 
     public function getValidCountries()
     {
-        return array(
-            array('GB'),
-            array('AT'),
-            array('MY'),
-        );
+        return [
+            ['GB'],
+            ['AT'],
+            ['MY'],
+        ];
     }
 
     /**

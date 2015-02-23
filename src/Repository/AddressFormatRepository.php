@@ -20,7 +20,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
      *
      * @var array
      */
-    protected $definitions = array();
+    protected $definitions = [];
 
     /**
      * Creates an AddressFormatRepository instance.
@@ -56,7 +56,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
         // Gather available address formats.
         // This is slow, but survivable because the only use case for
         // fetching all address formats is mass import into another storage.
-        $addressFormats = array();
+        $addressFormats = [];
         if ($handle = opendir($this->definitionPath)) {
             while (false !== ($entry = readdir($handle))) {
                 if (substr($entry, 0, 1) != '.') {
@@ -88,7 +88,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 $this->definitions[$countryCode] = $rawDefinition;
             } else {
                 // Bypass further loading attempts.
-                $this->definitions[$countryCode] = array();
+                $this->definitions[$countryCode] = [];
             }
         }
 

@@ -24,7 +24,7 @@ class AddressFormatValidator extends ConstraintValidator
      *
      * @var array
      */
-    protected $fieldMapping = array(
+    protected $fieldMapping = [
         AddressFormatInterface::FIELD_ADMINISTRATIVE_AREA => 'administrativeArea',
         AddressFormatInterface::FIELD_LOCALITY => 'locality',
         AddressFormatInterface::FIELD_DEPENDENT_LOCALITY => 'dependentLocality',
@@ -33,7 +33,7 @@ class AddressFormatValidator extends ConstraintValidator
         AddressFormatInterface::FIELD_ADDRESS => 'addressLine1',
         AddressFormatInterface::FIELD_ORGANIZATION => 'organization',
         AddressFormatInterface::FIELD_RECIPIENT => 'recipient',
-    );
+    ];
 
     /**
      * {@inheritDoc}
@@ -73,7 +73,7 @@ class AddressFormatValidator extends ConstraintValidator
         foreach ($requiredFields as $fieldConstant) {
             if (empty($values[$fieldConstant])) {
                 $subPath = '[' . $this->fieldMapping[$fieldConstant] . ']';
-                $this->context->addViolationAt($subPath, $constraint->notBlankMessage, array(), $values[$fieldConstant]);
+                $this->context->addViolationAt($subPath, $constraint->notBlankMessage, [], $values[$fieldConstant]);
             }
         }
 
@@ -82,7 +82,7 @@ class AddressFormatValidator extends ConstraintValidator
         foreach ($unusedFields as $fieldConstant) {
             if (!empty($values[$fieldConstant])) {
                 $subPath = '[' . $this->fieldMapping[$fieldConstant] . ']';
-                $this->context->addViolationAt($subPath, $constraint->blankMessage, array(), $values[$fieldConstant]);
+                $this->context->addViolationAt($subPath, $constraint->blankMessage, [], $values[$fieldConstant]);
             }
         }
     }
@@ -100,13 +100,13 @@ class AddressFormatValidator extends ConstraintValidator
     {
         $dataProvider = $this->getDataProvider();
         $countryCode = $addressFormat->getCountryCode();
-        $subdivisionLevels = array(
+        $subdivisionLevels = [
             'root',
             AddressFormatInterface::FIELD_ADMINISTRATIVE_AREA,
             AddressFormatInterface::FIELD_LOCALITY,
             AddressFormatInterface::FIELD_DEPENDENT_LOCALITY,
-        );
-        $subdivisions = array();
+        ];
+        $subdivisions = [];
         foreach ($subdivisionLevels as $index => $fieldConstant) {
             $parentId = ($fieldConstant == 'root') ? 0 : $values[$fieldConstant];
             $children = $dataProvider->getSubdivisions($countryCode, $parentId);
@@ -133,7 +133,7 @@ class AddressFormatValidator extends ConstraintValidator
             if (!$found) {
                 $subPath = '[' . $this->fieldMapping[$nextFieldConstant] . ']';
                 $invalidValue = $values[$nextFieldConstant];
-                $this->context->addViolationAt($subPath, $constraint->invalidMessage, array(), $invalidValue);
+                $this->context->addViolationAt($subPath, $constraint->invalidMessage, [], $invalidValue);
                 break;
             }
         }
@@ -170,13 +170,13 @@ class AddressFormatValidator extends ConstraintValidator
             // The subdivision pattern must be a partial match, it only
             // confirms that the value starts with the expected characters.
             if (!preg_match($subdivisionPostalCodePattern, $postalCode)) {
-                $this->context->addViolationAt('[postalCode]', $constraint->invalidMessage, array(), $postalCode);
+                $this->context->addViolationAt('[postalCode]', $constraint->invalidMessage, [], $postalCode);
             }
         } else {
             preg_match('/' . $addressFormat->getPostalCodePattern() . '/', $postalCode, $matches);
             // The pattern must match the provided value completely.
             if (empty($matches[0]) || $matches[0] != $postalCode) {
-                $this->context->addViolationAt('[postalCode]', $constraint->invalidMessage, array(), $postalCode);
+                $this->context->addViolationAt('[postalCode]', $constraint->invalidMessage, [], $postalCode);
             }
         }
     }
@@ -190,7 +190,7 @@ class AddressFormatValidator extends ConstraintValidator
      */
     protected function extractAddressValues(AddressInterface $address)
     {
-        $values = array();
+        $values = [];
         foreach ($this->fieldMapping as $fieldConstant => $fieldName) {
             $getter = 'get' . ucfirst($fieldName);
             $values[$fieldConstant] = $address->$getter();
@@ -208,7 +208,7 @@ class AddressFormatValidator extends ConstraintValidator
      */
     protected function getUnusedFields($format)
     {
-        $unusedFields = array();
+        $unusedFields = [];
         foreach (array_keys($this->fieldMapping) as $fieldConstant) {
             if (strpos($format, $fieldConstant) === false) {
                 $unusedFields[] = $fieldConstant;

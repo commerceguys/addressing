@@ -22,7 +22,7 @@ class GenerateAddressFieldsSubscriber implements EventSubscriberInterface
      *
      * @var array
      */
-    protected $fieldMapping = array(
+    protected $fieldMapping = [
         AddressFormatInterface::FIELD_ADMINISTRATIVE_AREA => 'administrativeArea',
         AddressFormatInterface::FIELD_LOCALITY => 'locality',
         AddressFormatInterface::FIELD_DEPENDENT_LOCALITY => 'dependentLocality',
@@ -31,7 +31,7 @@ class GenerateAddressFieldsSubscriber implements EventSubscriberInterface
         AddressFormatInterface::FIELD_ADDRESS => 'addressLine1',
         AddressFormatInterface::FIELD_ORGANIZATION => 'organization',
         AddressFormatInterface::FIELD_RECIPIENT => 'recipient',
-    );
+    ];
 
     /**
      * Creates a GenerateAddressFieldsSubscriber instance.
@@ -48,10 +48,10 @@ class GenerateAddressFieldsSubscriber implements EventSubscriberInterface
      */
     public static function getSubscribedEvents()
     {
-        return array(
+        return [
             FormEvents::PRE_SET_DATA => 'preSetData',
             FormEvents::PRE_SUBMIT   => 'preSubmit'
-        );
+        ];
     }
 
     public function preSetData(FormEvent $event)
@@ -91,9 +91,9 @@ class GenerateAddressFieldsSubscriber implements EventSubscriberInterface
     {
         $addressFormat = $this->dataProvider->getAddressFormat($countryCode);
         // A list of needed subdivisions and their parent ids.
-        $subdivisions = array(
+        $subdivisions = [
             AddressFormatInterface::FIELD_ADMINISTRATIVE_AREA => 0,
-        );
+        ];
         if (!empty($administrativeArea)) {
             $subdivisions[AddressFormatInterface::FIELD_LOCALITY] = $administrativeArea;
         }
@@ -119,17 +119,17 @@ class GenerateAddressFieldsSubscriber implements EventSubscriberInterface
     protected function getFormFields(AddressFormatInterface $addressFormat, $subdivisions)
     {
         // @todo Add support for having multiple fields in the same line.
-        $fields = array();
+        $fields = [];
         $labels = $this->getFieldLabels($addressFormat);
         $requiredFields = $addressFormat->getRequiredFields();
         $parsedFormat = explode("\n", $addressFormat->getFormat());
         foreach ($parsedFormat as $formatLine) {
             foreach ($this->fieldMapping as $fieldConstant => $fieldName) {
                 if (strpos($formatLine, '%' . $fieldConstant) !== FALSE) {
-                    $fields[$fieldConstant] = array(
+                    $fields[$fieldConstant] = [
                         'label' => $labels[$fieldConstant],
                         'required' => in_array($fieldConstant, $requiredFields),
-                    );
+                    ];
                 }
             }
         }
@@ -139,7 +139,7 @@ class GenerateAddressFieldsSubscriber implements EventSubscriberInterface
             // @todo Pass the form locale to get the translated values.
             $children = $this->dataProvider->getSubdivisions($addressFormat->getCountryCode(), $parentId);
             if ($children) {
-                $fields[$fieldConstant]['choices'] = array();
+                $fields[$fieldConstant]['choices'] = [];
                 foreach ($children as $child) {
                     $fields[$fieldConstant]['choices'][$child->getId()] = $child->getName();
                 }
@@ -159,7 +159,7 @@ class GenerateAddressFieldsSubscriber implements EventSubscriberInterface
     protected function getFieldLabels($addressFormat)
     {
         // All possible subdivision labels.
-        $subdivisionLabels = array(
+        $subdivisionLabels = [
             AddressFormatInterface::ADMINISTRATIVE_AREA_TYPE_AREA => 'Area',
             AddressFormatInterface::ADMINISTRATIVE_AREA_TYPE_COUNTY => 'County',
             AddressFormatInterface::ADMINISTRATIVE_AREA_TYPE_DEPARTMENT => 'Department',
@@ -182,7 +182,7 @@ class GenerateAddressFieldsSubscriber implements EventSubscriberInterface
             AddressFormatInterface::POSTAL_CODE_TYPE_POSTAL => 'Postal Code',
             AddressFormatInterface::POSTAL_CODE_TYPE_ZIP => 'ZIP code',
             AddressFormatInterface::POSTAL_CODE_TYPE_PIN => 'PIN code',
-        );
+        ];
 
         // Determine the correct administrative area label.
         $administrativeAreaType = $addressFormat->getAdministrativeAreaType();
@@ -210,7 +210,7 @@ class GenerateAddressFieldsSubscriber implements EventSubscriberInterface
         }
 
         // Assemble the final set of labels.
-        $labels = array(
+        $labels = [
             AddressFormatInterface::FIELD_ADMINISTRATIVE_AREA => $administrativeAreaLabel,
             AddressFormatInterface::FIELD_LOCALITY => $localityLabel,
             AddressFormatInterface::FIELD_DEPENDENT_LOCALITY => $dependentLocalityLabel,
@@ -221,7 +221,7 @@ class GenerateAddressFieldsSubscriber implements EventSubscriberInterface
             // Google wallet calls it "CEDEX" for every country that uses it.
             AddressFormatInterface::FIELD_SORTING_CODE => 'Cedex',
             AddressFormatInterface::FIELD_POSTAL_CODE => $postalCodeLabel,
-        );
+        ];
 
         return $labels;
     }

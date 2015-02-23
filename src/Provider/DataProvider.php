@@ -87,7 +87,7 @@ class DataProvider implements DataProviderInterface
     {
         if ($this->countryRepository) {
             $countries = $this->countryRepository->getAll($locale);
-            $countryNames = array();
+            $countryNames = [];
             foreach ($countries as $countryCode => $country) {
                 $countryNames[$countryCode] = $country->getName();
             }

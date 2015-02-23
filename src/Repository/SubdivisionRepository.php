@@ -21,7 +21,7 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
      *
      * @var array
      */
-    protected $definitions = array();
+    protected $definitions = [];
 
     /**
      * Parent subdivisions.
@@ -33,7 +33,7 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
      *
      * @var array
      */
-    protected $parents = array();
+    protected $parents = [];
 
     /**
      * Creates a SubdivisionRepository instance.
@@ -82,7 +82,7 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
     public function getAll($countryCode, $parentId = null, $locale = null)
     {
         $definitions = $this->loadDefinitions($countryCode, $parentId);
-        $subdivisions = array();
+        $subdivisions = [];
         foreach ($definitions as $id => $definition) {
             $definition = $this->translateDefinition($definition, $locale);
             $subdivisions[$id] = $this->createSubdivisionFromDefinition($definition);
@@ -108,7 +108,7 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
                 $this->definitions[$countryCode][$parentId] = json_decode($rawDefinition, true);
             } else {
                 // Bypass further loading attempts.
-                $this->definitions[$countryCode][$parentId] = array();
+                $this->definitions[$countryCode][$parentId] = [];
             }
         }
 

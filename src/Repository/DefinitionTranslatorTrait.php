@@ -25,7 +25,7 @@ trait DefinitionTranslatorTrait
         // Normalize the locale. Allows en_US to work the same as en-US, etc.
         $locale = str_replace('_', '-', $locale);
         $localeVariants = $this->getLocaleVariants($locale);
-        $translation = array();
+        $translation = [];
         // Try to find a translation for one of the locale variants.
         foreach ($localeVariants as $localeVariant) {
             if (isset($definition['translations'][$localeVariant])) {
@@ -57,7 +57,7 @@ trait DefinitionTranslatorTrait
      */
     protected function getLocaleVariants($locale)
     {
-        $localeVariants = array();
+        $localeVariants = [];
         $localeParts = explode('-', $locale);
         while (!empty($localeParts)) {
             $localeVariants[] = implode('-', $localeParts);

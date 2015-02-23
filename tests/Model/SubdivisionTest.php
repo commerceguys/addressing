@@ -44,7 +44,7 @@ class SubdivisionTest extends \PHPUnit_Framework_TestCase
      */
     public function testSetInvalidChildren()
     {
-        $this->subdivision->setChildren(array(1, 2));
+        $this->subdivision->setChildren([1, 2]);
     }
 
     /**
@@ -67,7 +67,7 @@ class SubdivisionTest extends \PHPUnit_Framework_TestCase
             ->getMockBuilder('CommerceGuys\Addressing\Model\Subdivision')
             ->getMock();
         $empty = new ArrayCollection();
-        $children = new ArrayCollection(array($firstChild, $secondChild));
+        $children = new ArrayCollection([$firstChild, $secondChild]);
 
         $this->assertEquals(false, $this->subdivision->hasChildren());
         $this->assertEquals($empty, $this->subdivision->getChildren());

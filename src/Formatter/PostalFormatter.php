@@ -54,11 +54,11 @@ class PostalFormatter
         // address being interpreted correctly.
         $addressFormat = $this->dataProvider->getAddressFormat($countryCode, $originLocale);
 
-        $subdivisions = array(
+        $subdivisions = [
             'administrative_area' => $address->getAdministrativeArea(),
             'locality' => $address->getLocality(),
             'dependent_locality' => $address->getDependentLocality(),
-        );
+        ];
         // Replace the subdivision values with the codes of any predefined ones.
         foreach ($subdivisions as $type => $id) {
             if (empty($id)) {
@@ -80,7 +80,7 @@ class PostalFormatter
 
         $streetAddress = $address->getAddressLine1() . "\n" . $address->getAddressLine2();
         $format = $addressFormat->getFormat();
-        $replacements = array(
+        $replacements = [
             '%' . AddressFormat::FIELD_ADMINISTRATIVE_AREA => $subdivisions['administrative_area'],
             '%' . AddressFormat::FIELD_LOCALITY => $subdivisions['locality'],
             '%' . AddressFormat::FIELD_DEPENDENT_LOCALITY => $subdivisions['dependent_locality'],
@@ -89,7 +89,7 @@ class PostalFormatter
             '%' . AddressFormat::FIELD_ADDRESS => $streetAddress,
             '%' . AddressFormat::FIELD_ORGANIZATION => $address->getOrganization(),
             '%' . AddressFormat::FIELD_RECIPIENT => $address->getRecipient(),
-        );
+        ];
         // Uppercase fields that require it.
         $uppercaseFields = $addressFormat->getUppercaseFields();
         foreach ($uppercaseFields as $uppercaseField) {

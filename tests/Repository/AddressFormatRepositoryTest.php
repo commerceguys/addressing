@@ -16,47 +16,47 @@ class AddressFormatRepositoryTest extends \PHPUnit_Framework_TestCase
      *
      * @var array
      */
-    protected $addressFormatES = array(
+    protected $addressFormatES = [
         'locale' => 'es',
         'format' => '%recipient\n%organization\n%address\n%postal_code %locality %administrative_area',
-        'required_fields' => array(
+        'required_fields' => [
             'address',
             'locality',
             'administrative_area',
             'postal_code',
-        ),
-        'uppercase_fields' => array(
+        ],
+        'uppercase_fields' => [
             'locality',
             'administrative_area',
-        ),
+        ],
         'administrative_area_type' => 'province',
         'locality_type' => 'city',
         'dependent_locality_type' => 'suburb',
         'postal_code_type' => 'postal',
         'postal_code_pattern' => '\\d{5}',
         'postal_code_prefix' => 'A',
-    );
+    ];
 
     /**
      * Fallback address format.
      *
      * @var array
      */
-    protected $addressFormatZZ = array(
+    protected $addressFormatZZ = [
         'locale' => 'und',
         'format' => '%recipient\n%organization\n%address\n%locality',
-        'required_fields' => array(
+        'required_fields' => [
             'address',
             'locality',
-        ),
-        'uppercase_fields' => array(
+        ],
+        'uppercase_fields' => [
             'locality',
-        ),
+        ],
         'administrative_area_type' => 'province',
         'locality_type' => 'city',
         'dependent_locality_type' => 'suburb',
         'postal_code_type' => 'postal',
-    );
+    ];
 
     /**
      * @covers ::__construct
@@ -92,16 +92,16 @@ class AddressFormatRepositoryTest extends \PHPUnit_Framework_TestCase
      */
     public function testGet($addressFormatRepository)
     {
-        $expectedRequiredFields = array(
+        $expectedRequiredFields = [
             AddressFormat::FIELD_ADDRESS,
             AddressFormat::FIELD_LOCALITY,
             AddressFormat::FIELD_ADMINISTRATIVE_AREA,
             AddressFormat::FIELD_POSTAL_CODE,
-        );
-        $expectedUppercaseFields = array(
+        ];
+        $expectedUppercaseFields = [
             AddressFormat::FIELD_LOCALITY,
             AddressFormat::FIELD_ADMINISTRATIVE_AREA,
-        );
+        ];
         $expectedFormat = $this->addressFormatES['format'];
 
         $addressFormat = $addressFormatRepository->get('ES');

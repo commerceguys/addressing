@@ -70,19 +70,19 @@ class PostalFormatterTest extends \PHPUnit_Framework_TestCase
             ->setPostalCode('94043');
 
         // Test a US address formatted for sending from the US.
-        $expectedLines = array(
+        $expectedLines = [
             '1098 Alta Ave',
             'MT VIEW, CA 94043',
-        );
+        ];
         $formattedAddress = $this->postalFormatter->format($address, 'US');
         $this->assertFormattedAddress($expectedLines, $formattedAddress);
 
         // Test a US address formatted for sending from France.
-        $expectedLines = array(
+        $expectedLines = [
             '1098 Alta Ave',
             'MT VIEW, CA 94043',
             'ÉTATS-UNIS',
-        );
+        ];
         $formattedAddress = $this->postalFormatter->format($address, 'FR', 'fr');
         $this->assertFormattedAddress($expectedLines, $formattedAddress);
     }
@@ -104,13 +104,13 @@ class PostalFormatterTest extends \PHPUnit_Framework_TestCase
     {
         // Real addresses in the major-to-minor order would be completely in
         // Traditional Chinese. That's not the case here, for readability.
-        $expectedLines = array(
+        $expectedLines = [
             '106',
             '台北市大安區',
             'Sec. 3 Hsin-yi Rd.',
             'Giant Bike Store',
             'Mr. Liu',
-        );
+        ];
         $address = new Address();
         $address
             ->setCountryCode('TW')
@@ -139,11 +139,11 @@ class PostalFormatterTest extends \PHPUnit_Framework_TestCase
      */
     public function testElSalvadorAddress()
     {
-        $expectedLines = array(
+        $expectedLines = [
             'Some Street 12',
             'AHUACHAPÁN',
             'AHUACHAPÁN',
-        );
+        ];
         $address = new Address();
         $address
             ->setCountryCode('SV')
@@ -155,11 +155,11 @@ class PostalFormatterTest extends \PHPUnit_Framework_TestCase
         $this->assertFormattedAddress($expectedLines, $formattedAddress);
 
         $address->setPostalCode('CP 2101');
-        $expectedLines = array(
+        $expectedLines = [
             'Some Street 12',
             'CP 2101-AHUACHAPÁN',
             'AHUACHAPÁN',
-        );
+        ];
 
         $formattedAddress = $this->postalFormatter->format($address, 'SV');
         $this->assertFormattedAddress($expectedLines, $formattedAddress);
@@ -179,10 +179,10 @@ class PostalFormatterTest extends \PHPUnit_Framework_TestCase
      */
     public function testIncompleteAddress()
     {
-        $expectedLines = array(
+        $expectedLines = [
             '1098 Alta Ave',
             'CA 94043',
-        );
+        ];
         // Create a US address without a locality.
         $address = new Address();
         $address
@@ -209,7 +209,7 @@ class PostalFormatterTest extends \PHPUnit_Framework_TestCase
      */
     public function testEmptyAddress()
     {
-        $expectedLines = array();
+        $expectedLines = [];
         $address = new Address();
         $address->setCountryCode('US');
 
@@ -231,9 +231,9 @@ class PostalFormatterTest extends \PHPUnit_Framework_TestCase
      */
     public function testAddressLeadingPostPrefix()
     {
-        $expectedLines = array(
+        $expectedLines = [
             'CH-8047 Herrliberg',
-        );
+        ];
         $address = new Address();
         $address
             ->setCountryCode('CH')

@@ -29,18 +29,16 @@ class AddressType extends AbstractType
 
     public function buildForm(FormBuilderInterface $builder, array $options)
     {
-        $builder->add('countryCode', 'choice', array(
+        $builder->add('countryCode', 'choice', [
             'choices' => $this->dataProvider->getCountryNames(),
             'required' => true,
-        ));
+        ]);
         $builder->addEventSubscriber(new GenerateAddressFieldsSubscriber($this->dataProvider));
     }
 
     public function setDefaultOptions(OptionsResolverInterface $resolver)
     {
-        $resolver->setDefaults(array(
-            'data_class' => 'CommerceGuys\Addressing\Model\Address'
-        ));
+        $resolver->setDefaults(['data_class' => 'CommerceGuys\Addressing\Model\Address']);
     }
 
     public function getName()

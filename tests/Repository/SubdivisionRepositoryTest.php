@@ -16,9 +16,9 @@ class SubdivisionRepositoryTest extends \PHPUnit_Framework_TestCase
      *
      * @var array
      */
-    protected $subdivisions = array(
-        'BR' => array(
-            'BR-SC' => array(
+    protected $subdivisions = [
+        'BR' => [
+            'BR-SC' => [
                 'locale' => 'pt',
                 'country_code' => 'BR',
                 'parent_id' => null,
@@ -27,8 +27,8 @@ class SubdivisionRepositoryTest extends \PHPUnit_Framework_TestCase
                 'name' => 'Santa Catarina',
                 'postal_code_pattern' => '8[89]',
                 'has_children' => true,
-            ),
-            'BR-SP' => array(
+            ],
+            'BR-SP' => [
                 'locale' => 'pt',
                 'country_code' => 'BR',
                 'parent_id' => null,
@@ -37,29 +37,29 @@ class SubdivisionRepositoryTest extends \PHPUnit_Framework_TestCase
                 'name' => 'São Paulo',
                 'postal_code_pattern' => '[01][1-9]',
                 'has_children' => true,
-            ),
-        ),
-        'BR-SC' => array(
-            'BR-SC-9c7753' => array(
+            ],
+        ],
+        'BR-SC' => [
+            'BR-SC-9c7753' => [
                 'locale' => 'pt',
                 'country_code' => 'BR',
                 'parent_id' => 'BR-SC',
                 'id' => 'BR-SC-9c7753',
                 'code' => 'Abelardo Luz',
                 'name' => 'Abelardo Luz',
-            ),
-        ),
-        'BR-SP' => array(
-            'BR-SP-8e3f19' => array(
+            ],
+        ],
+        'BR-SP' => [
+            'BR-SP-8e3f19' => [
                 'locale' => 'pt',
                 'country_code' => 'BR',
                 'parent_id' => 'BR-SP',
                 'id' => 'BR-SP-8e3f19',
                 'code' => 'Anhumas',
                 'name' => 'Anhumas',
-            ),
-        ),
-    );
+            ],
+        ],
+    ];
 
     /**
      * @covers ::__construct
@@ -128,7 +128,7 @@ class SubdivisionRepositoryTest extends \PHPUnit_Framework_TestCase
      */
     public function testGetInvalidSubdivision($subdivisionRepository)
     {
-        $invalidIds = array('FAKE', 'ES-A', 'BR-SC-FAKE');
+        $invalidIds = ['FAKE', 'ES-A', 'BR-SC-FAKE'];
         foreach ($invalidIds as $invalidId) {
             $subdivision = $subdivisionRepository->get($invalidId);
             $this->assertNull($subdivision);
