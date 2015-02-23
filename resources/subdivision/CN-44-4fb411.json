@@ -1,14 +1,14 @@
 {
-    "CN-44-4fb411-d61187": {
+    "CN-44-4fb411-50d346": {
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44-4fb411",
-        "id": "CN-44-4fb411-d61187",
-        "code": "电白县",
-        "name": "Dianbai Xian",
+        "id": "CN-44-4fb411-50d346",
+        "code": "电白区",
+        "name": "Dianbai Qu",
         "translations": {
             "zh": {
-                "name": "电白县"
+                "name": "电白区"
             }
         }
     },
@@ -35,19 +35,6 @@
         "translations": {
             "zh": {
                 "name": "化州市"
-            }
-        }
-    },
-    "CN-44-4fb411-bb5896": {
-        "locale": "zh-Latn",
-        "country_code": "CN",
-        "parent_id": "CN-44-4fb411",
-        "id": "CN-44-4fb411-bb5896",
-        "code": "茂港区",
-        "name": "Maogang Qu",
-        "translations": {
-            "zh": {
-                "name": "茂港区"
             }
         }
     },

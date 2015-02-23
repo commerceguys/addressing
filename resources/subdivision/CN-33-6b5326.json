@@ -1,4 +1,17 @@
 {
+    "CN-33-6b5326-7f0ad8": {
+        "locale": "zh-Latn",
+        "country_code": "CN",
+        "parent_id": "CN-33-6b5326",
+        "id": "CN-33-6b5326-7f0ad8",
+        "code": "柯桥区",
+        "name": "Keqiao Qu",
+        "translations": {
+            "zh": {
+                "name": "柯桥区"
+            }
+        }
+    },
     "CN-33-6b5326-a139f5": {
         "locale": "zh-Latn",
         "country_code": "CN",
@@ -9,19 +22,6 @@
         "translations": {
             "zh": {
                 "name": "上虞市"
-            }
-        }
-    },
-    "CN-33-6b5326-b2f6e2": {
-        "locale": "zh-Latn",
-        "country_code": "CN",
-        "parent_id": "CN-33-6b5326",
-        "id": "CN-33-6b5326-b2f6e2",
-        "code": "绍兴县",
-        "name": "Shaoxing Xian",
-        "translations": {
-            "zh": {
-                "name": "绍兴县"
             }
         }
     },

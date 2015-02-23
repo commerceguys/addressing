@@ -273,7 +273,20 @@ function create_address_format_definition($rawDefinition)
             $addressFormat['postal_code_pattern'] = $rawDefinition['zip'];
         }
         if (isset($rawDefinition['postprefix'])) {
+            // Workaround for https://github.com/googlei18n/libaddressinput/issues/72.
+            if ($rawDefinition['postprefix'] == 'PR') {
+                $rawDefinition['postprefix'] = 'PR ';
+            } elseif ($rawDefinition['postprefix'] == 'SI-') {
+                $rawDefinition['postprefix'] = 'SI- ';
+            }
+
             $addressFormat['postal_code_prefix'] = $rawDefinition['postprefix'];
+            // Remove the prefix from the format strings.
+            // Workaround for https://github.com/googlei18n/libaddressinput/issues/71.
+            $addressFormat['format'] = str_replace($addressFormat['postal_code_prefix'], '', $addressFormat['format']);
+            foreach ($translations as $language => $translation) {
+                $translations[$language]['format'] = str_replace($addressFormat['postal_code_prefix'], '', $translation['format']);
+            }
         }
     }
 

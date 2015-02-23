@@ -1,6 +1,6 @@
 {
     "locale": "und",
-    "format": "%organization\n%recipient\n%address\nAX-%postal_code %locality\nÅLAND",
+    "format": "%organization\n%recipient\n%address\n%postal_code %locality\nÅLAND",
     "required_fields": [
         "address",
         "locality",

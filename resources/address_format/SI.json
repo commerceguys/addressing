@@ -1,6 +1,6 @@
 {
     "locale": "und",
-    "format": "%recipient\n%organization\n%address\nSI- %postal_code %locality",
+    "format": "%recipient\n%organization\n%address\n%postal_code %locality",
     "required_fields": [
         "address",
         "locality"
@@ -11,5 +11,5 @@
     "locality_type": "city",
     "postal_code_type": "postal",
     "postal_code_pattern": "\\d{4}",
-    "postal_code_prefix": "SI-"
+    "postal_code_prefix": "SI- "
 }

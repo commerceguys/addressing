@@ -62,7 +62,7 @@
         "id": "UA-8b2af4",
         "code": "Донецька область",
         "name": "Donetsk Oblast",
-        "postal_code_pattern": "8[3-8]",
+        "postal_code_pattern": "8[3-7]",
         "translations": {
             "uk": {
                 "name": "Донецька область"
@@ -90,7 +90,7 @@
         "id": "UA-60eada",
         "code": "Закарпатська область",
         "name": "Zakarpats'ka oblast",
-        "postal_code_pattern": "89|90",
+        "postal_code_pattern": "8[89]|90",
         "translations": {
             "uk": {
                 "name": "Закарпатська область"
@@ -216,7 +216,7 @@
         "id": "UA-7e462e",
         "code": "Одеська область",
         "name": "Odessa Oblast",
-        "postal_code_pattern": "6[5-9]",
+        "postal_code_pattern": "6[5-8]",
         "translations": {
             "uk": {
                 "name": "Одеська область"
@@ -286,7 +286,7 @@
         "id": "UA-5ff998",
         "code": "Тернопільська область",
         "name": "Ternopil's'ka oblast",
-        "postal_code_pattern": "4[6-9]",
+        "postal_code_pattern": "4[6-8]",
         "translations": {
             "uk": {
                 "name": "Тернопільська область"
