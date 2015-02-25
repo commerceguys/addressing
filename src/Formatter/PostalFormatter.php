@@ -32,11 +32,12 @@ class PostalFormatter
     /**
      * Formats an address for postal purposes.
      *
-     * The address is first formatted without the country code, according to
-     * the destination country format.
-     * If the parcel is being sent to another country (origin country code
-     * doesn't match the address country code), the country name is appended
-     * in the origin locale (so that the local post office can understand it).
+     * The address is formatted without the country code, according to the
+     * destination country format.
+     * If the parcel is being sent to another country:
+     * 1. The postal code is prefixed with the destination's postal code prefix.
+     * 2. The country name is appended to the formatted address in the origin
+     *    locale (so that the local post office can understand it).
      *
      * @param AddressInterface $address           The address.
      * @param string           $originCountryCode The country code of the origin country.
@@ -80,11 +81,19 @@ class PostalFormatter
 
         $streetAddress = $address->getAddressLine1() . "\n" . $address->getAddressLine2();
         $format = $addressFormat->getFormat();
+        $postalCode = $address->getPostalCode();
+        $destinationCountryCode = $address->getCountryCode();
+        if ($destinationCountryCode != $originCountryCode) {
+            // Postal services recommend prefixing postal codes only for
+            // international mail.
+            $postalCode = $addressFormat->getPostalCodePrefix() . $postalCode;
+        }
+
         $replacements = [
             '%' . AddressFormat::FIELD_ADMINISTRATIVE_AREA => $subdivisions['administrative_area'],
             '%' . AddressFormat::FIELD_LOCALITY => $subdivisions['locality'],
             '%' . AddressFormat::FIELD_DEPENDENT_LOCALITY => $subdivisions['dependent_locality'],
-            '%' . AddressFormat::FIELD_POSTAL_CODE => $address->getPostalCode(),
+            '%' . AddressFormat::FIELD_POSTAL_CODE => $postalCode,
             '%' . AddressFormat::FIELD_SORTING_CODE => $address->getSortingCode(),
             '%' . AddressFormat::FIELD_ADDRESS => $streetAddress,
             '%' . AddressFormat::FIELD_ORGANIZATION => $address->getOrganization(),
@@ -102,7 +111,6 @@ class PostalFormatter
 
         // Add the uppercase country name in the origin locale (to ensure
         // it's understood by the post office in the origin country).
-        $destinationCountryCode = $address->getCountryCode();
         if ($destinationCountryCode != $originCountryCode) {
             $country = $this->dataProvider->getCountryName($destinationCountryCode, $originLocale);
             $formattedAddress .= "\n" . mb_strtoupper($country, 'utf-8');

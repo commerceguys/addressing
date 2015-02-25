@@ -231,16 +231,25 @@ class PostalFormatterTest extends \PHPUnit_Framework_TestCase
      */
     public function testAddressLeadingPostPrefix()
     {
-        $expectedLines = [
-            'CH-8047 Herrliberg',
-        ];
         $address = new Address();
         $address
             ->setCountryCode('CH')
             ->setLocality('Herrliberg')
             ->setPostalCode('8047');
 
+        // Domestic mail shouldn't have the postal code prefix added.
+        $expectedLines = [
+            '8047 Herrliberg',
+        ];
         $formattedAddress = $this->postalFormatter->format($address, 'CH');
+        $this->assertFormattedAddress($expectedLines, $formattedAddress);
+
+        // International mail should have the postal code prefix added.
+        $expectedLines = [
+            'CH-8047 Herrliberg',
+            'SWITZERLAND',
+        ];
+        $formattedAddress = $this->postalFormatter->format($address, 'FR');
         $this->assertFormattedAddress($expectedLines, $formattedAddress);
     }
 

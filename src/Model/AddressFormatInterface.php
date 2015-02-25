@@ -205,7 +205,8 @@ interface AddressFormatInterface
     /**
      * Gets the postal code prefix.
      *
-     * Applied to each postal code during formatting.
+     * The prefix is optional and added to postal codes only when formatting
+     * an address for international mailing, as recommended by postal services.
      *
      * @return string|null The postal code prefix.
      */
