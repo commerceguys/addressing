@@ -55,50 +55,19 @@ class PostalFormatter
         // address being interpreted correctly.
         $addressFormat = $this->dataProvider->getAddressFormat($countryCode, $originLocale);
 
-        $subdivisions = [
-            'administrative_area' => $address->getAdministrativeArea(),
-            'locality' => $address->getLocality(),
-            'dependent_locality' => $address->getDependentLocality(),
-        ];
-        // Replace the subdivision values with the codes of any predefined ones.
-        foreach ($subdivisions as $type => $id) {
-            if (empty($id)) {
-                // This level is empty, so there can be no sublevels.
-                break;
-            }
-            $subdivision = $this->dataProvider->getSubdivision($id);
-            if (!$subdivision) {
-                // This level has no predefined subdivison, stop.
-                break;
-            }
-
-            $subdivisions[$type] = $subdivision->getCode();
-            if (!$subdivision->hasChildren()) {
-                // The current subdivision has no children, stop.
-                break;
-            }
-        }
-
-        $streetAddress = $address->getAddressLine1() . "\n" . $address->getAddressLine2();
-        $format = $addressFormat->getFormat();
-        $postalCode = $address->getPostalCode();
-        $destinationCountryCode = $address->getCountryCode();
-        if ($destinationCountryCode != $originCountryCode) {
-            // Postal services recommend prefixing postal codes only for
-            // international mail.
-            $postalCode = $addressFormat->getPostalCodePrefix() . $postalCode;
-        }
-
-        $replacements = [
-            '%' . AddressFormat::FIELD_ADMINISTRATIVE_AREA => $subdivisions['administrative_area'],
-            '%' . AddressFormat::FIELD_LOCALITY => $subdivisions['locality'],
-            '%' . AddressFormat::FIELD_DEPENDENT_LOCALITY => $subdivisions['dependent_locality'],
-            '%' . AddressFormat::FIELD_POSTAL_CODE => $postalCode,
+        $replacements = $this->getSubdivisionReplacements($address);
+        $replacements += [
+            '%' . AddressFormat::FIELD_POSTAL_CODE => $address->getPostalCode(),
             '%' . AddressFormat::FIELD_SORTING_CODE => $address->getSortingCode(),
-            '%' . AddressFormat::FIELD_ADDRESS => $streetAddress,
+            '%' . AddressFormat::FIELD_ADDRESS => $address->getAddressLine1() . "\n" . $address->getAddressLine2(),
             '%' . AddressFormat::FIELD_ORGANIZATION => $address->getOrganization(),
             '%' . AddressFormat::FIELD_RECIPIENT => $address->getRecipient(),
         ];
+        // Prefix the postal code for international mailing.
+        if ($countryCode != $originCountryCode) {
+            $token = '%' . AddressFormat::FIELD_POSTAL_CODE;
+            $replacements[$token] = $addressFormat->getPostalCodePrefix() . $replacements[$token];
+        }
         // Uppercase fields that require it.
         $uppercaseFields = $addressFormat->getUppercaseFields();
         foreach ($uppercaseFields as $uppercaseField) {
@@ -106,17 +75,57 @@ class PostalFormatter
                 $replacements['%' . $uppercaseField] = mb_strtoupper($replacements['%' . $uppercaseField], 'utf-8');
             }
         }
+        $format = $addressFormat->getFormat();
         $formattedAddress = strtr($format, $replacements);
         $formattedAddress = $this->cleanupFormattedAddress($formattedAddress);
 
         // Add the uppercase country name in the origin locale (to ensure
         // it's understood by the post office in the origin country).
-        if ($destinationCountryCode != $originCountryCode) {
-            $country = $this->dataProvider->getCountryName($destinationCountryCode, $originLocale);
+        if ($countryCode != $originCountryCode) {
+            $country = $this->dataProvider->getCountryName($countryCode, $originLocale);
             $formattedAddress .= "\n" . mb_strtoupper($country, 'utf-8');
         }
 
         return $formattedAddress;
+    }
+
+    /**
+     * Gets the replacements for subdivision field tokens.
+     *
+     * If the address value maps to a predefined subdivision, the subdivision
+     * code is used as a replacement. Otherwise, the original value is used.
+     *
+     * @param AddressInterface $address The address.
+     *
+     * @return array The replacements array keyed by token.
+     */
+    protected function getSubdivisionReplacements(AddressInterface $address)
+    {
+        $replacements = [
+            '%' . AddressFormat::FIELD_ADMINISTRATIVE_AREA => $address->getAdministrativeArea(),
+            '%' . AddressFormat::FIELD_LOCALITY => $address->getLocality(),
+            '%' . AddressFormat::FIELD_DEPENDENT_LOCALITY => $address->getDependentLocality(),
+        ];
+        // Replace the subdivision values with the codes of any predefined ones.
+        foreach ($replacements as $key => $id) {
+            if (empty($id)) {
+                // This level is empty, so there can be no sublevels.
+                break;
+            }
+            $subdivision = $this->dataProvider->getSubdivision($id);
+            if (!$subdivision) {
+                // This level has no predefined subdivisions, stop.
+                break;
+            }
+
+            $replacements[$key] = $subdivision->getCode();
+            if (!$subdivision->hasChildren()) {
+                // The current subdivision has no children, stop.
+                break;
+            }
+        }
+
+        return $replacements;
     }
 
     /**

@@ -48,9 +48,7 @@ class PostalFormatterTest extends \PHPUnit_Framework_TestCase
     }
 
     /**
-     * @covers ::__construct
-     * @covers ::format
-     * @covers ::cleanupFormattedAddress
+     * @covers \CommerceGuys\Addressing\Formatter\PostalFormatter
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
      * @uses \CommerceGuys\Addressing\Model\Subdivision
@@ -88,9 +86,7 @@ class PostalFormatterTest extends \PHPUnit_Framework_TestCase
     }
 
     /**
-     * @covers ::__construct
-     * @covers ::format
-     * @covers ::cleanupFormattedAddress
+     * @covers \CommerceGuys\Addressing\Formatter\PostalFormatter
      * @uses \CommerceGuys\Addressing\Collection\LazySubdivisionCollection
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
@@ -126,9 +122,7 @@ class PostalFormatterTest extends \PHPUnit_Framework_TestCase
     }
 
     /**
-     * @covers ::__construct
-     * @covers ::format
-     * @covers ::cleanupFormattedAddress
+     * @covers \CommerceGuys\Addressing\Formatter\PostalFormatter
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
      * @uses \CommerceGuys\Addressing\Model\Subdivision
@@ -166,9 +160,7 @@ class PostalFormatterTest extends \PHPUnit_Framework_TestCase
     }
 
     /**
-     * @covers ::__construct
-     * @covers ::format
-     * @covers ::cleanupFormattedAddress
+     * @covers \CommerceGuys\Addressing\Formatter\PostalFormatter
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
      * @uses \CommerceGuys\Addressing\Model\Subdivision
@@ -196,9 +188,7 @@ class PostalFormatterTest extends \PHPUnit_Framework_TestCase
     }
 
     /**
-     * @covers ::__construct
-     * @covers ::format
-     * @covers ::cleanupFormattedAddress
+     * @covers \CommerceGuys\Addressing\Formatter\PostalFormatter
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
      * @uses \CommerceGuys\Addressing\Model\Subdivision
@@ -218,9 +208,7 @@ class PostalFormatterTest extends \PHPUnit_Framework_TestCase
     }
 
     /**
-     * @covers ::__construct
-     * @covers ::format
-     * @covers ::cleanupFormattedAddress
+     * @covers \CommerceGuys\Addressing\Formatter\PostalFormatter
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
      * @uses \CommerceGuys\Addressing\Model\Subdivision
