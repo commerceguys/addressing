@@ -2,6 +2,11 @@
 
 namespace CommerceGuys\Addressing\Form\EventListener;
 
+use CommerceGuys\Addressing\Enum\AddressField;
+use CommerceGuys\Addressing\Enum\AdministrativeAreaType;
+use CommerceGuys\Addressing\Enum\DependentLocalityType;
+use CommerceGuys\Addressing\Enum\LocalityType;
+use CommerceGuys\Addressing\Enum\PostalCodeType;
 use CommerceGuys\Addressing\Model\AddressFormatInterface;
 use CommerceGuys\Addressing\Provider\DataProviderInterface;
 use Symfony\Component\Form\FormEvent;
@@ -23,14 +28,14 @@ class GenerateAddressFieldsSubscriber implements EventSubscriberInterface
      * @var array
      */
     protected $fieldMapping = [
-        AddressFormatInterface::FIELD_ADMINISTRATIVE_AREA => 'administrativeArea',
-        AddressFormatInterface::FIELD_LOCALITY => 'locality',
-        AddressFormatInterface::FIELD_DEPENDENT_LOCALITY => 'dependentLocality',
-        AddressFormatInterface::FIELD_POSTAL_CODE => 'postalCode',
-        AddressFormatInterface::FIELD_SORTING_CODE => 'sortingCode',
-        AddressFormatInterface::FIELD_ADDRESS => 'addressLine1',
-        AddressFormatInterface::FIELD_ORGANIZATION => 'organization',
-        AddressFormatInterface::FIELD_RECIPIENT => 'recipient',
+        AddressField::ADMINISTRATIVE_AREA => 'administrativeArea',
+        AddressField::LOCALITY => 'locality',
+        AddressField::DEPENDENT_LOCALITY => 'dependentLocality',
+        AddressField::POSTAL_CODE => 'postalCode',
+        AddressField::SORTING_CODE => 'sortingCode',
+        AddressField::ADDRESS => 'addressLine1',
+        AddressField::ORGANIZATION => 'organization',
+        AddressField::RECIPIENT => 'recipient',
     ];
 
     /**
@@ -92,13 +97,13 @@ class GenerateAddressFieldsSubscriber implements EventSubscriberInterface
         $addressFormat = $this->dataProvider->getAddressFormat($countryCode);
         // A list of needed subdivisions and their parent ids.
         $subdivisions = [
-            AddressFormatInterface::FIELD_ADMINISTRATIVE_AREA => 0,
+            AddressField::ADMINISTRATIVE_AREA => 0,
         ];
         if (!empty($administrativeArea)) {
-            $subdivisions[AddressFormatInterface::FIELD_LOCALITY] = $administrativeArea;
+            $subdivisions[AddressField::LOCALITY] = $administrativeArea;
         }
         if (!empty($locality)) {
-            $subdivisions[AddressFormatInterface::FIELD_DEPENDENT_LOCALITY] = $locality;
+            $subdivisions[AddressField::DEPENDENT_LOCALITY] = $locality;
         }
 
         $fields = $this->getFormFields($addressFormat, $subdivisions);
@@ -160,28 +165,28 @@ class GenerateAddressFieldsSubscriber implements EventSubscriberInterface
     {
         // All possible subdivision labels.
         $subdivisionLabels = [
-            AddressFormatInterface::ADMINISTRATIVE_AREA_TYPE_AREA => 'Area',
-            AddressFormatInterface::ADMINISTRATIVE_AREA_TYPE_COUNTY => 'County',
-            AddressFormatInterface::ADMINISTRATIVE_AREA_TYPE_DEPARTMENT => 'Department',
-            AddressFormatInterface::ADMINISTRATIVE_AREA_TYPE_DISTRICT => 'District',
-            AddressFormatInterface::ADMINISTRATIVE_AREA_TYPE_DO_SI => 'Do',
-            AddressFormatInterface::ADMINISTRATIVE_AREA_TYPE_EMIRATE => 'Emirate',
-            AddressFormatInterface::ADMINISTRATIVE_AREA_TYPE_ISLAND => 'Island',
-            AddressFormatInterface::ADMINISTRATIVE_AREA_TYPE_OBLAST => 'Oblast',
-            AddressFormatInterface::ADMINISTRATIVE_AREA_TYPE_PARISH => 'Parish',
-            AddressFormatInterface::ADMINISTRATIVE_AREA_TYPE_PREFECTURE => 'Prefecture',
-            AddressFormatInterface::ADMINISTRATIVE_AREA_TYPE_PROVINCE => 'Province',
-            AddressFormatInterface::ADMINISTRATIVE_AREA_TYPE_STATE => 'State',
-            AddressFormatInterface::LOCALITY_TYPE_CITY => 'City',
-            AddressFormatInterface::LOCALITY_TYPE_DISTRICT => 'District',
-            AddressFormatInterface::LOCALITY_TYPE_POST_TOWN => 'Post Town',
-            AddressFormatInterface::DEPENDENT_LOCALITY_TYPE_DISTRICT => 'District',
-            AddressFormatInterface::DEPENDENT_LOCALITY_TYPE_NEIGHBORHOOD => 'Neighborhood',
-            AddressFormatInterface::DEPENDENT_LOCALITY_TYPE_VILLAGE_TOWNSHIP => 'Village / Township',
-            AddressFormatInterface::DEPENDENT_LOCALITY_TYPE_SUBURB => 'Suburb',
-            AddressFormatInterface::POSTAL_CODE_TYPE_POSTAL => 'Postal Code',
-            AddressFormatInterface::POSTAL_CODE_TYPE_ZIP => 'ZIP code',
-            AddressFormatInterface::POSTAL_CODE_TYPE_PIN => 'PIN code',
+            AdministrativeAreaType::AREA => 'Area',
+            AdministrativeAreaType::COUNTY => 'County',
+            AdministrativeAreaType::DEPARTMENT => 'Department',
+            AdministrativeAreaType::DISTRICT => 'District',
+            AdministrativeAreaType::DO_SI => 'Do',
+            AdministrativeAreaType::EMIRATE => 'Emirate',
+            AdministrativeAreaType::ISLAND => 'Island',
+            AdministrativeAreaType::OBLAST => 'Oblast',
+            AdministrativeAreaType::PARISH => 'Parish',
+            AdministrativeAreaType::PREFECTURE => 'Prefecture',
+            AdministrativeAreaType::PROVINCE => 'Province',
+            AdministrativeAreaType::STATE => 'State',
+            LocalityType::CITY => 'City',
+            LocalityType::DISTRICT => 'District',
+            LocalityType::POST_TOWN => 'Post Town',
+            DependentLocalityType::DISTRICT => 'District',
+            DependentLocalityType::NEIGHBORHOOD => 'Neighborhood',
+            DependentLocalityType::VILLAGE_TOWNSHIP => 'Village / Township',
+            DependentLocalityType::SUBURB => 'Suburb',
+            PostalCodeType::POSTAL => 'Postal Code',
+            PostalCodeType::ZIP => 'ZIP code',
+            PostalCodeType::PIN => 'PIN code',
         ];
 
         // Determine the correct administrative area label.
@@ -204,23 +209,23 @@ class GenerateAddressFieldsSubscriber implements EventSubscriberInterface
         }
         // Determine the correct postal code label.
         $postalCodeType = $addressFormat->getPostalCodeType();
-        $postalCodeLabel = $subdivisionLabels[AddressFormatInterface::POSTAL_CODE_TYPE_POSTAL];
+        $postalCodeLabel = $subdivisionLabels[PostalCodeType::POSTAL];
         if (isset($subdivisionLabels[$postalCodeType])) {
             $postalCodeLabel = $subdivisionLabels[$postalCodeType];
         }
 
         // Assemble the final set of labels.
         $labels = [
-            AddressFormatInterface::FIELD_ADMINISTRATIVE_AREA => $administrativeAreaLabel,
-            AddressFormatInterface::FIELD_LOCALITY => $localityLabel,
-            AddressFormatInterface::FIELD_DEPENDENT_LOCALITY => $dependentLocalityLabel,
-            AddressFormatInterface::FIELD_ADDRESS => 'Street Address',
-            AddressFormatInterface::FIELD_ORGANIZATION => 'Company',
-            AddressFormatInterface::FIELD_RECIPIENT => 'Contact Name',
+            AddressField::ADMINISTRATIVE_AREA => $administrativeAreaLabel,
+            AddressField::LOCALITY => $localityLabel,
+            AddressField::DEPENDENT_LOCALITY => $dependentLocalityLabel,
+            AddressField::ADDRESS => 'Street Address',
+            AddressField::ORGANIZATION => 'Company',
+            AddressField::RECIPIENT => 'Contact Name',
             // Google's libaddressinput provides no label for this field type,
             // Google wallet calls it "CEDEX" for every country that uses it.
-            AddressFormatInterface::FIELD_SORTING_CODE => 'Cedex',
-            AddressFormatInterface::FIELD_POSTAL_CODE => $postalCodeLabel,
+            AddressField::SORTING_CODE => 'Cedex',
+            AddressField::POSTAL_CODE => $postalCodeLabel,
         ];
 
         return $labels;

@@ -2,6 +2,7 @@
 
 namespace CommerceGuys\Addressing\Validator\Constraints;
 
+use CommerceGuys\Addressing\Enum\AddressField;
 use CommerceGuys\Addressing\Model\AddressInterface;
 use CommerceGuys\Addressing\Model\AddressFormatInterface;
 use CommerceGuys\Addressing\Provider\DataProvider;
@@ -25,14 +26,14 @@ class AddressFormatValidator extends ConstraintValidator
      * @var array
      */
     protected $fieldMapping = [
-        AddressFormatInterface::FIELD_ADMINISTRATIVE_AREA => 'administrativeArea',
-        AddressFormatInterface::FIELD_LOCALITY => 'locality',
-        AddressFormatInterface::FIELD_DEPENDENT_LOCALITY => 'dependentLocality',
-        AddressFormatInterface::FIELD_POSTAL_CODE => 'postalCode',
-        AddressFormatInterface::FIELD_SORTING_CODE => 'sortingCode',
-        AddressFormatInterface::FIELD_ADDRESS => 'addressLine1',
-        AddressFormatInterface::FIELD_ORGANIZATION => 'organization',
-        AddressFormatInterface::FIELD_RECIPIENT => 'recipient',
+        AddressField::ADMINISTRATIVE_AREA => 'administrativeArea',
+        AddressField::LOCALITY => 'locality',
+        AddressField::DEPENDENT_LOCALITY => 'dependentLocality',
+        AddressField::POSTAL_CODE => 'postalCode',
+        AddressField::SORTING_CODE => 'sortingCode',
+        AddressField::ADDRESS => 'addressLine1',
+        AddressField::ORGANIZATION => 'organization',
+        AddressField::RECIPIENT => 'recipient',
     ];
 
     /**
@@ -102,9 +103,9 @@ class AddressFormatValidator extends ConstraintValidator
         $countryCode = $addressFormat->getCountryCode();
         $subdivisionLevels = [
             'root',
-            AddressFormatInterface::FIELD_ADMINISTRATIVE_AREA,
-            AddressFormatInterface::FIELD_LOCALITY,
-            AddressFormatInterface::FIELD_DEPENDENT_LOCALITY,
+            AddressField::ADMINISTRATIVE_AREA,
+            AddressField::LOCALITY,
+            AddressField::DEPENDENT_LOCALITY,
         ];
         $subdivisions = [];
         foreach ($subdivisionLevels as $index => $fieldConstant) {

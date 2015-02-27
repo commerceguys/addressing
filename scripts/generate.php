@@ -9,7 +9,7 @@ date_default_timezone_set('UTC');
 
 include '../vendor/autoload.php';
 
-use CommerceGuys\Addressing\Model\AddressFormat;
+use CommerceGuys\Addressing\Enum\AddressField;
 use CommerceGuys\Addressing\Provider\DataProvider;
 
 // Make sure aria2 is installed.
@@ -258,16 +258,16 @@ function create_address_format_definition($rawDefinition)
         $addressFormat['format'] = convert_format($rawDefinition['fmt']);
     }
 
-    if (strpos($addressFormat['format'], '%' . AddressFormat::FIELD_ADMINISTRATIVE_AREA) !== false) {
+    if (strpos($addressFormat['format'], '%' . AddressField::ADMINISTRATIVE_AREA) !== false) {
         $addressFormat['administrative_area_type'] = $rawDefinition['state_name_type'];
     }
-    if (strpos($addressFormat['format'], '%' . AddressFormat::FIELD_LOCALITY) !== false) {
+    if (strpos($addressFormat['format'], '%' . AddressField::LOCALITY) !== false) {
         $addressFormat['locality_type'] = $rawDefinition['locality_name_type'];
     }
-    if (strpos($addressFormat['format'], '%' . AddressFormat::FIELD_DEPENDENT_LOCALITY) !== false) {
+    if (strpos($addressFormat['format'], '%' . AddressField::DEPENDENT_LOCALITY) !== false) {
         $addressFormat['dependent_locality_type'] = $rawDefinition['sublocality_name_type'];
     }
-    if (strpos($addressFormat['format'], '%' . AddressFormat::FIELD_POSTAL_CODE) !== false) {
+    if (strpos($addressFormat['format'], '%' . AddressField::POSTAL_CODE) !== false) {
         $addressFormat['postal_code_type'] = $rawDefinition['zip_name_type'];
         if (isset($rawDefinition['zip'])) {
             $addressFormat['postal_code_pattern'] = $rawDefinition['zip'];
@@ -359,14 +359,14 @@ function determine_locale($rawDefinition)
 function convert_format($format)
 {
     $replacements = [
-        '%S' => '%' . AddressFormat::FIELD_ADMINISTRATIVE_AREA,
-        '%C' => '%' . AddressFormat::FIELD_LOCALITY,
-        '%D' => '%' . AddressFormat::FIELD_DEPENDENT_LOCALITY,
-        '%Z' => '%' . AddressFormat::FIELD_POSTAL_CODE,
-        '%X' => '%' . AddressFormat::FIELD_SORTING_CODE,
-        '%A' => '%' . AddressFormat::FIELD_ADDRESS,
-        '%O' => '%' . AddressFormat::FIELD_ORGANIZATION,
-        '%N' => '%' . AddressFormat::FIELD_RECIPIENT,
+        '%S' => '%' . AddressField::ADMINISTRATIVE_AREA,
+        '%C' => '%' . AddressField::LOCALITY,
+        '%D' => '%' . AddressField::DEPENDENT_LOCALITY,
+        '%Z' => '%' . AddressField::POSTAL_CODE,
+        '%X' => '%' . AddressField::SORTING_CODE,
+        '%A' => '%' . AddressField::ADDRESS,
+        '%O' => '%' . AddressField::ORGANIZATION,
+        '%N' => '%' . AddressField::RECIPIENT,
         '%n' => "\n",
     ];
 
@@ -379,14 +379,14 @@ function convert_format($format)
 function convert_fields($fields)
 {
     $mapping = [
-        'S' => AddressFormat::FIELD_ADMINISTRATIVE_AREA,
-        'C' => AddressFormat::FIELD_LOCALITY,
-        'D' => AddressFormat::FIELD_DEPENDENT_LOCALITY,
-        'Z' => AddressFormat::FIELD_POSTAL_CODE,
-        'X' => AddressFormat::FIELD_SORTING_CODE,
-        'A' => AddressFormat::FIELD_ADDRESS,
-        'O' => AddressFormat::FIELD_ORGANIZATION,
-        'N' => AddressFormat::FIELD_RECIPIENT,
+        'S' => AddressField::ADMINISTRATIVE_AREA,
+        'C' => AddressField::LOCALITY,
+        'D' => AddressField::DEPENDENT_LOCALITY,
+        'Z' => AddressField::POSTAL_CODE,
+        'X' => AddressField::SORTING_CODE,
+        'A' => AddressField::ADDRESS,
+        'O' => AddressField::ORGANIZATION,
+        'N' => AddressField::RECIPIENT,
     ];
 
     $fields = str_split($fields);

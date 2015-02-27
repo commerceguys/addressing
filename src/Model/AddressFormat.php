@@ -2,6 +2,12 @@
 
 namespace CommerceGuys\Addressing\Model;
 
+use CommerceGuys\Addressing\Enum\AddressField;
+use CommerceGuys\Addressing\Enum\AdministrativeAreaType;
+use CommerceGuys\Addressing\Enum\DependentLocalityType;
+use CommerceGuys\Addressing\Enum\LocalityType;
+use CommerceGuys\Addressing\Enum\PostalCodeType;
+
 class AddressFormat implements AddressFormatInterface
 {
     /**
@@ -130,6 +136,7 @@ class AddressFormat implements AddressFormatInterface
      */
     public function setRequiredFields(array $requiredFields)
     {
+        AddressField::assertAllExist($requiredFields);
         $this->requiredFields = $requiredFields;
 
         return $this;
@@ -148,6 +155,7 @@ class AddressFormat implements AddressFormatInterface
      */
     public function setUppercaseFields(array $uppercaseFields)
     {
+        AddressField::assertAllExist($uppercaseFields);
         $this->uppercaseFields = $uppercaseFields;
 
         return $this;
@@ -166,6 +174,7 @@ class AddressFormat implements AddressFormatInterface
      */
     public function setAdministrativeAreaType($administrativeAreaType)
     {
+        AdministrativeAreaType::assertExists($administrativeAreaType);
         $this->administrativeAreaType = $administrativeAreaType;
 
         return $this;
@@ -184,6 +193,7 @@ class AddressFormat implements AddressFormatInterface
      */
     public function setLocalityType($localityType)
     {
+        LocalityType::assertExists($localityType);
         $this->localityType = $localityType;
 
         return $this;
@@ -202,6 +212,7 @@ class AddressFormat implements AddressFormatInterface
      */
     public function setDependentLocalityType($dependentLocalityType)
     {
+        DependentLocalityType::assertExists($dependentLocalityType);
         $this->dependentLocalityType = $dependentLocalityType;
 
         return $this;
@@ -220,6 +231,7 @@ class AddressFormat implements AddressFormatInterface
      */
     public function setPostalCodeType($postalCodeType)
     {
+        PostalCodeType::assertExists($postalCodeType);
         $this->postalCodeType = $postalCodeType;
 
         return $this;

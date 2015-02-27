@@ -2,6 +2,11 @@
 
 namespace CommerceGuys\Addressing\Tests\Model;
 
+use CommerceGuys\Addressing\Enum\AddressField;
+use CommerceGuys\Addressing\Enum\AdministrativeAreaType;
+use CommerceGuys\Addressing\Enum\DependentLocalityType;
+use CommerceGuys\Addressing\Enum\LocalityType;
+use CommerceGuys\Addressing\Enum\PostalCodeType;
 use CommerceGuys\Addressing\Model\AddressFormat;
 
 /**
@@ -47,10 +52,10 @@ class AddressFormatTest extends \PHPUnit_Framework_TestCase
     public function testRequiredFields()
     {
         $requiredFields = [
-            AddressFormat::FIELD_ADMINISTRATIVE_AREA,
-            AddressFormat::FIELD_LOCALITY,
-            AddressFormat::FIELD_POSTAL_CODE,
-            AddressFormat::FIELD_ADDRESS,
+            AddressField::ADMINISTRATIVE_AREA,
+            AddressField::LOCALITY,
+            AddressField::POSTAL_CODE,
+            AddressField::ADDRESS,
         ];
         $this->addressFormat->setRequiredFields($requiredFields);
         $this->assertEquals($requiredFields, $this->addressFormat->getRequiredFields());
@@ -63,8 +68,8 @@ class AddressFormatTest extends \PHPUnit_Framework_TestCase
     public function testUppercaseFields()
     {
         $uppercaseFields = [
-            AddressFormat::FIELD_ADMINISTRATIVE_AREA,
-            AddressFormat::FIELD_LOCALITY,
+            AddressField::ADMINISTRATIVE_AREA,
+            AddressField::LOCALITY,
         ];
         $this->addressFormat->setUppercaseFields($uppercaseFields);
         $this->assertEquals($uppercaseFields, $this->addressFormat->getUppercaseFields());
@@ -76,7 +81,7 @@ class AddressFormatTest extends \PHPUnit_Framework_TestCase
      */
     public function testAdministrativeAreaType()
     {
-        $areaType = AddressFormat::ADMINISTRATIVE_AREA_TYPE_STATE;
+        $areaType = AdministrativeAreaType::STATE;
         $this->addressFormat->setAdministrativeAreaType($areaType);
         $this->assertEquals($areaType, $this->addressFormat->getAdministrativeAreaType());
     }
@@ -87,7 +92,7 @@ class AddressFormatTest extends \PHPUnit_Framework_TestCase
      */
     public function testLocalityType()
     {
-        $localityType = AddressFormat::LOCALITY_TYPE_CITY;
+        $localityType = LocalityType::CITY;
         $this->addressFormat->setLocalityType($localityType);
         $this->assertEquals($localityType, $this->addressFormat->getLocalityType());
     }
@@ -98,7 +103,7 @@ class AddressFormatTest extends \PHPUnit_Framework_TestCase
      */
     public function testDependentLocalityType()
     {
-        $dependentLocalityType = AddressFormat::DEPENDENT_LOCALITY_TYPE_DISTRICT;
+        $dependentLocalityType = DependentLocalityType::DISTRICT;
         $this->addressFormat->setDependentLocalityType($dependentLocalityType);
         $this->assertEquals($dependentLocalityType, $this->addressFormat->getDependentLocalityType());
     }
@@ -109,7 +114,7 @@ class AddressFormatTest extends \PHPUnit_Framework_TestCase
      */
     public function testPostalCodeType()
     {
-        $postalCodeType = AddressFormat::POSTAL_CODE_TYPE_ZIP;
+        $postalCodeType = PostalCodeType::ZIP;
         $this->addressFormat->setPostalCodeType($postalCodeType);
         $this->assertEquals($postalCodeType, $this->addressFormat->getPostalCodeType());
     }

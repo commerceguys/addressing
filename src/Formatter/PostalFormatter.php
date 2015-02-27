@@ -2,8 +2,8 @@
 
 namespace CommerceGuys\Addressing\Formatter;
 
+use CommerceGuys\Addressing\Enum\AddressField;
 use CommerceGuys\Addressing\Model\AddressInterface;
-use CommerceGuys\Addressing\Model\AddressFormat;
 use CommerceGuys\Addressing\Provider\DataProviderInterface;
 
 class PostalFormatter
@@ -57,15 +57,15 @@ class PostalFormatter
 
         $replacements = $this->getSubdivisionReplacements($address);
         $replacements += [
-            '%' . AddressFormat::FIELD_POSTAL_CODE => $address->getPostalCode(),
-            '%' . AddressFormat::FIELD_SORTING_CODE => $address->getSortingCode(),
-            '%' . AddressFormat::FIELD_ADDRESS => $address->getAddressLine1() . "\n" . $address->getAddressLine2(),
-            '%' . AddressFormat::FIELD_ORGANIZATION => $address->getOrganization(),
-            '%' . AddressFormat::FIELD_RECIPIENT => $address->getRecipient(),
+            '%' . AddressField::POSTAL_CODE => $address->getPostalCode(),
+            '%' . AddressField::SORTING_CODE => $address->getSortingCode(),
+            '%' . AddressField::ADDRESS => $address->getAddressLine1() . "\n" . $address->getAddressLine2(),
+            '%' . AddressField::ORGANIZATION => $address->getOrganization(),
+            '%' . AddressField::RECIPIENT => $address->getRecipient(),
         ];
         // Prefix the postal code for international mailing.
         if ($countryCode != $originCountryCode) {
-            $token = '%' . AddressFormat::FIELD_POSTAL_CODE;
+            $token = '%' . AddressField::POSTAL_CODE;
             $replacements[$token] = $addressFormat->getPostalCodePrefix() . $replacements[$token];
         }
         // Uppercase fields that require it.
@@ -102,9 +102,9 @@ class PostalFormatter
     protected function getSubdivisionReplacements(AddressInterface $address)
     {
         $replacements = [
-            '%' . AddressFormat::FIELD_ADMINISTRATIVE_AREA => $address->getAdministrativeArea(),
-            '%' . AddressFormat::FIELD_LOCALITY => $address->getLocality(),
-            '%' . AddressFormat::FIELD_DEPENDENT_LOCALITY => $address->getDependentLocality(),
+            '%' . AddressField::ADMINISTRATIVE_AREA => $address->getAdministrativeArea(),
+            '%' . AddressField::LOCALITY => $address->getLocality(),
+            '%' . AddressField::DEPENDENT_LOCALITY => $address->getDependentLocality(),
         ];
         // Replace the subdivision values with the codes of any predefined ones.
         foreach ($replacements as $key => $id) {
