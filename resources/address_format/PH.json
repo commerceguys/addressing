@@ -1,8 +1,8 @@
 {
     "locale": "en",
-    "format": "%recipient\n%organization\n%address\n%dependent_locality, %locality\n%postal_code %administrative_area",
+    "format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%dependentLocality, %locality\n%postalCode %administrativeArea",
     "required_fields": [
-        "address",
+        "addressLine1",
         "locality"
     ],
     "uppercase_fields": [

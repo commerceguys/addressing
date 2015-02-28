@@ -59,7 +59,8 @@ class PostalFormatter
         $replacements += [
             '%' . AddressField::POSTAL_CODE => $address->getPostalCode(),
             '%' . AddressField::SORTING_CODE => $address->getSortingCode(),
-            '%' . AddressField::ADDRESS => $address->getAddressLine1() . "\n" . $address->getAddressLine2(),
+            '%' . AddressField::ADDRESS_LINE1 => $address->getAddressLine1(),
+            '%' . AddressField::ADDRESS_LINE2 => $address->getAddressLine2(),
             '%' . AddressField::ORGANIZATION => $address->getOrganization(),
             '%' . AddressField::RECIPIENT => $address->getRecipient(),
         ];

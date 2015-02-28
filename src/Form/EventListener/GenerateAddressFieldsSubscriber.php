@@ -23,22 +23,6 @@ class GenerateAddressFieldsSubscriber implements EventSubscriberInterface
     protected $dataProvider;
 
     /**
-     * The mapping between field constants (format) and field names (address).
-     *
-     * @var array
-     */
-    protected $fieldMapping = [
-        AddressField::ADMINISTRATIVE_AREA => 'administrativeArea',
-        AddressField::LOCALITY => 'locality',
-        AddressField::DEPENDENT_LOCALITY => 'dependentLocality',
-        AddressField::POSTAL_CODE => 'postalCode',
-        AddressField::SORTING_CODE => 'sortingCode',
-        AddressField::ADDRESS => 'addressLine1',
-        AddressField::ORGANIZATION => 'organization',
-        AddressField::RECIPIENT => 'recipient',
-    ];
-
-    /**
      * Creates a GenerateAddressFieldsSubscriber instance.
      *
      * @param DataProviderInterface $dataProvider The data provider.
@@ -107,9 +91,9 @@ class GenerateAddressFieldsSubscriber implements EventSubscriberInterface
         }
 
         $fields = $this->getFormFields($addressFormat, $subdivisions);
-        foreach ($fields as $fieldConstant => $fieldOptions) {
+        foreach ($fields as $field => $fieldOptions) {
             $type = isset($fieldOptions['choices']) ? 'choice' : 'text';
-            $form->add($this->fieldMapping[$fieldConstant], $type, $fieldOptions);
+            $form->add($field, $type, $fieldOptions);
         }
     }
 
@@ -119,7 +103,7 @@ class GenerateAddressFieldsSubscriber implements EventSubscriberInterface
      * @param AddressFormatInterface $addressFormat
      * @param array                  $subdivisions  An array of needed subdivisions.
      *
-     * @return array An array in the $fieldConstant => $formOptions format.
+     * @return array An array in the $field => $formOptions format.
      */
     protected function getFormFields(AddressFormatInterface $addressFormat, $subdivisions)
     {
@@ -129,24 +113,24 @@ class GenerateAddressFieldsSubscriber implements EventSubscriberInterface
         $requiredFields = $addressFormat->getRequiredFields();
         $parsedFormat = explode("\n", $addressFormat->getFormat());
         foreach ($parsedFormat as $formatLine) {
-            foreach ($this->fieldMapping as $fieldConstant => $fieldName) {
-                if (strpos($formatLine, '%' . $fieldConstant) !== FALSE) {
-                    $fields[$fieldConstant] = [
-                        'label' => $labels[$fieldConstant],
-                        'required' => in_array($fieldConstant, $requiredFields),
+            foreach (AddressField::getAll() as $field) {
+                if (strpos($formatLine, '%' . $field) !== false) {
+                    $fields[$field] = [
+                        'label' => $labels[$field],
+                        'required' => in_array($field, $requiredFields),
                     ];
                 }
             }
         }
 
         // Add choices for predefined subdivisions.
-        foreach ($subdivisions as $fieldConstant => $parentId) {
+        foreach ($subdivisions as $field => $parentId) {
             // @todo Pass the form locale to get the translated values.
             $children = $this->dataProvider->getSubdivisions($addressFormat->getCountryCode(), $parentId);
             if ($children) {
-                $fields[$fieldConstant]['choices'] = [];
+                $fields[$field]['choices'] = [];
                 foreach ($children as $child) {
-                    $fields[$fieldConstant]['choices'][$child->getId()] = $child->getName();
+                    $fields[$field]['choices'][$child->getId()] = $child->getName();
                 }
             }
         }
@@ -202,7 +186,7 @@ class GenerateAddressFieldsSubscriber implements EventSubscriberInterface
             $localityLabel = $subdivisionLabels[$localityType];
         }
         // Determine the correct dependent locality label.
-        $dependentLocalityType = $addressFormat->getLocalityType();
+        $dependentLocalityType = $addressFormat->getDependentLocalityType();
         $dependentLocalityLabel = '';
         if (isset($subdivisionLabels[$dependentLocalityType])) {
             $dependentLocalityLabel = $subdivisionLabels[$dependentLocalityType];
@@ -219,7 +203,8 @@ class GenerateAddressFieldsSubscriber implements EventSubscriberInterface
             AddressField::ADMINISTRATIVE_AREA => $administrativeAreaLabel,
             AddressField::LOCALITY => $localityLabel,
             AddressField::DEPENDENT_LOCALITY => $dependentLocalityLabel,
-            AddressField::ADDRESS => 'Street Address',
+            AddressField::ADDRESS_LINE1 => 'Street Address',
+            AddressField::ADDRESS_LINE2 => false,
             AddressField::ORGANIZATION => 'Company',
             AddressField::RECIPIENT => 'Contact Name',
             // Google's libaddressinput provides no label for this field type,

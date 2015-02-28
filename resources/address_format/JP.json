@@ -1,14 +1,14 @@
 {
     "locale": "ja-Latn",
-    "format": "%recipient\n%organization\n%address\n%locality, %administrative_area\n%postal_code",
+    "format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%locality, %administrativeArea\n%postalCode",
     "required_fields": [
-        "address",
+        "addressLine1",
         "locality",
-        "administrative_area",
-        "postal_code"
+        "administrativeArea",
+        "postalCode"
     ],
     "uppercase_fields": [
-        "administrative_area"
+        "administrativeArea"
     ],
     "administrative_area_type": "prefecture",
     "locality_type": "city",
@@ -16,7 +16,7 @@
     "postal_code_pattern": "\\d{3}-?\\d{4}",
     "translations": {
         "ja": {
-            "format": "〒%postal_code\n%administrative_area%locality\n%address\n%organization\n%recipient"
+            "format": "〒%postalCode\n%administrativeArea%locality\n%addressLine2\n%addressLine1\n%organization\n%recipient"
         }
     }
 }

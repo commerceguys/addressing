@@ -1,15 +1,15 @@
 {
     "locale": "zh-Latn",
-    "format": "%recipient\n%organization\n%address",
+    "format": "%recipient\n%organization\n%addressLine1\n%addressLine2",
     "required_fields": [
-        "address"
+        "addressLine1"
     ],
     "uppercase_fields": [
         "locality"
     ],
     "translations": {
         "zh": {
-            "format": "%address\n%organization\n%recipient"
+            "format": "%addressLine2\n%addressLine1\n%organization\n%recipient"
         }
     }
 }

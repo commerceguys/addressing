@@ -1,9 +1,9 @@
 {
     "locale": "und",
-    "format": "%recipient\n%organization\n%address\nSINGAPORE %postal_code",
+    "format": "%recipient\n%organization\n%addressLine1\n%addressLine2\nSINGAPORE %postalCode",
     "required_fields": [
-        "address",
-        "postal_code"
+        "addressLine1",
+        "postalCode"
     ],
     "uppercase_fields": [
         "locality"

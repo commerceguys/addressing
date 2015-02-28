@@ -11,12 +11,14 @@ use CommerceGuys\Enum\AbstractEnum;
  */
 final class AddressField extends AbstractEnum
 {
-    const ADMINISTRATIVE_AREA = 'administrative_area';
+    // The values match the address property names.
+    const ADMINISTRATIVE_AREA = 'administrativeArea';
     const LOCALITY = 'locality';
-    const DEPENDENT_LOCALITY = 'dependent_locality';
-    const POSTAL_CODE = 'postal_code';
-    const SORTING_CODE = 'sorting_code';
-    const ADDRESS = 'address';
+    const DEPENDENT_LOCALITY = 'dependentLocality';
+    const POSTAL_CODE = 'postalCode';
+    const SORTING_CODE = 'sortingCode';
+    const ADDRESS_LINE1 = 'addressLine1';
+    const ADDRESS_LINE2 = 'addressLine2';
     const ORGANIZATION = 'organization';
     const RECIPIENT = 'recipient';
 }

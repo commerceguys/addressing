@@ -1,13 +1,14 @@
 {
     "locale": "ru-Latn",
-    "format": "%recipient\n%organization\n%address\n%locality\n%administrative_area\n%postal_code",
+    "format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%locality\n%administrativeArea\n%postalCode",
     "required_fields": [
-        "address",
+        "addressLine1",
         "locality",
-        "postal_code"
+        "postalCode"
     ],
     "uppercase_fields": [
-        "address",
+        "addressLine1",
+        "addressLine2",
         "locality"
     ],
     "administrative_area_type": "oblast",

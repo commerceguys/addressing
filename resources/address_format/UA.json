@@ -1,10 +1,10 @@
 {
     "locale": "uk-Latn",
-    "format": "%recipient\n%organization\n%address\n%locality\n%administrative_area\n%postal_code",
+    "format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%locality\n%administrativeArea\n%postalCode",
     "required_fields": [
-        "address",
+        "addressLine1",
         "locality",
-        "postal_code"
+        "postalCode"
     ],
     "uppercase_fields": [
         "locality"

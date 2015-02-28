@@ -1,18 +1,18 @@
 {
     "locale": "zh-Latn",
-    "format": "%recipient\n%organization\n%address\n%locality\n%administrative_area",
+    "format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%locality\n%administrativeArea",
     "required_fields": [
-        "address",
-        "administrative_area"
+        "addressLine1",
+        "administrativeArea"
     ],
     "uppercase_fields": [
-        "administrative_area"
+        "administrativeArea"
     ],
     "administrative_area_type": "area",
     "locality_type": "district",
     "translations": {
         "zh-hant": {
-            "format": "%administrative_area\n%locality\n%address\n%organization\n%recipient"
+            "format": "%administrativeArea\n%locality\n%addressLine2\n%addressLine1\n%organization\n%recipient"
         }
     }
 }

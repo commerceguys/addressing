@@ -1,13 +1,13 @@
 {
     "locale": "en",
-    "format": "%recipient\n%organization\n%address\n%locality %postal_code\n%administrative_area",
+    "format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%locality %postalCode\n%administrativeArea",
     "required_fields": [
-        "address",
+        "addressLine1",
         "locality"
     ],
     "uppercase_fields": [
         "locality",
-        "administrative_area"
+        "administrativeArea"
     ],
     "administrative_area_type": "state",
     "locality_type": "city",

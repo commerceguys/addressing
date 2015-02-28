@@ -1,14 +1,15 @@
 {
     "locale": "tyv",
-    "format": "%recipient\n%organization\n%address\n%sorting_code\n%locality\n%administrative_area",
+    "format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%sortingCode\n%locality\n%administrativeArea",
     "required_fields": [
-        "address",
+        "addressLine1",
         "locality"
     ],
     "uppercase_fields": [
-        "address",
+        "addressLine1",
+        "addressLine2",
         "locality",
-        "administrative_area"
+        "administrativeArea"
     ],
     "administrative_area_type": "island",
     "locality_type": "city"

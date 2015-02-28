@@ -146,7 +146,7 @@ function generate_url_list()
     // This avoids the /address/examples urls which aren't needed.
     preg_match_all("/<a\shref=\'\/address\/data\/([^\"]*)\'>/siU", $index, $matches);
     // Assemble the urls
-    $list = array_map(function($href) use ($serviceUrl) {
+    $list = array_map(function ($href) use ($serviceUrl) {
         // Replace the url encoded single slash with a real one.
         $href = str_replace('&#39;', "'", $href);
         // Convert 'US/CA' into 'US_CA.json'.
@@ -244,8 +244,8 @@ function create_address_format_definition($rawDefinition)
     $addressFormat = [
         'locale' => determine_locale($rawDefinition),
         'format' => null,
-        'required_fields' => convert_fields($rawDefinition['require']),
-        'uppercase_fields' => convert_fields($rawDefinition['upper']),
+        'required_fields' => convert_fields($rawDefinition['require'], 'required'),
+        'uppercase_fields' => convert_fields($rawDefinition['upper'], 'uppercase'),
     ];
 
     $translations = [];
@@ -358,13 +358,22 @@ function determine_locale($rawDefinition)
  */
 function convert_format($format)
 {
+    // Expand the address token into separate tokens for address lines 1 and 2.
+    // Follow the direction of the fields.
+    if (strpos($format, '%N') < strpos($format, '%A')) {
+        $format = str_replace('%A', '%1%n%2', $format);
+    } else {
+        $format = str_replace('%A', '%2%n%1', $format);
+    }
+
     $replacements = [
         '%S' => '%' . AddressField::ADMINISTRATIVE_AREA,
         '%C' => '%' . AddressField::LOCALITY,
         '%D' => '%' . AddressField::DEPENDENT_LOCALITY,
         '%Z' => '%' . AddressField::POSTAL_CODE,
         '%X' => '%' . AddressField::SORTING_CODE,
-        '%A' => '%' . AddressField::ADDRESS,
+        '%1' => '%' . AddressField::ADDRESS_LINE1,
+        '%2' => '%' . AddressField::ADDRESS_LINE2,
         '%O' => '%' . AddressField::ORGANIZATION,
         '%N' => '%' . AddressField::RECIPIENT,
         '%n' => "\n",
@@ -376,15 +385,24 @@ function convert_format($format)
 /**
  * Converts google's field symbols to the expected values.
  */
-function convert_fields($fields)
+function convert_fields($fields, $type)
 {
+    // Expand the address token into separate tokens for address lines 1 and 2.
+    // For required fields it's enough to require the first line.
+    if ($type == 'required') {
+        $fields = str_replace('A', '1', $fields);
+    } else {
+        $fields = str_replace('A', '12', $fields);
+    }
+
     $mapping = [
         'S' => AddressField::ADMINISTRATIVE_AREA,
         'C' => AddressField::LOCALITY,
         'D' => AddressField::DEPENDENT_LOCALITY,
         'Z' => AddressField::POSTAL_CODE,
         'X' => AddressField::SORTING_CODE,
-        'A' => AddressField::ADDRESS,
+        '1' => AddressField::ADDRESS_LINE1,
+        '2' => AddressField::ADDRESS_LINE2,
         'O' => AddressField::ORGANIZATION,
         'N' => AddressField::RECIPIENT,
     ];
@@ -470,8 +488,7 @@ function generate_subdivision_changes($oldSubdivisions, $newSubdivisions)
             $added = array_keys($subdivisions);
             $removed = [];
             $modified = [];
-        }
-        else {
+        } else {
             $added = array_keys(array_diff_key($subdivisions, $oldSubdivisions[$parentId]));
             $removed = array_keys(array_diff_key($oldSubdivisions[$parentId], $subdivisions));
             $modified = array_keys(array_udiff_assoc(

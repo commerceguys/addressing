@@ -22,16 +22,16 @@ class AddressFormatRepositoryTest extends \PHPUnit_Framework_TestCase
      */
     protected $addressFormatES = [
         'locale' => 'es',
-        'format' => '%recipient\n%organization\n%address\n%postal_code %locality %administrative_area',
+        'format' => '%recipient\n%organization\n%addressLine1\n%addressLine2\n%postalCode %locality %administrativeArea',
         'required_fields' => [
-            'address',
+            'addressLine1',
             'locality',
-            'administrative_area',
-            'postal_code',
+            'administrativeArea',
+            'postalCode',
         ],
         'uppercase_fields' => [
             'locality',
-            'administrative_area',
+            'administrativeArea',
         ],
         'administrative_area_type' => 'province',
         'locality_type' => 'city',
@@ -97,7 +97,7 @@ class AddressFormatRepositoryTest extends \PHPUnit_Framework_TestCase
     public function testGet($addressFormatRepository)
     {
         $expectedRequiredFields = [
-            AddressField::ADDRESS,
+            AddressField::ADDRESS_LINE1,
             AddressField::LOCALITY,
             AddressField::ADMINISTRATIVE_AREA,
             AddressField::POSTAL_CODE,

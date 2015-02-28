@@ -1,8 +1,8 @@
 {
     "locale": "und",
-    "format": "%organization\n%recipient\n%administrative_area\n%locality, %dependent_locality\n%address\n%postal_code",
+    "format": "%organization\n%recipient\n%administrativeArea\n%locality, %dependentLocality\n%addressLine1\n%addressLine2\n%postalCode",
     "required_fields": [
-        "address",
+        "addressLine1",
         "locality"
     ],
     "uppercase_fields": [

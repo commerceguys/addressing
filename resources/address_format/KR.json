@@ -1,14 +1,14 @@
 {
     "locale": "ko-Latn",
-    "format": "%recipient\n%organization\n%address\n%dependent_locality\n%locality\n%administrative_area\n%postal_code",
+    "format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%dependentLocality\n%locality\n%administrativeArea\n%postalCode",
     "required_fields": [
-        "address",
+        "addressLine1",
         "locality",
-        "administrative_area",
-        "postal_code"
+        "administrativeArea",
+        "postalCode"
     ],
     "uppercase_fields": [
-        "postal_code"
+        "postalCode"
     ],
     "administrative_area_type": "do_si",
     "locality_type": "city",
@@ -17,7 +17,7 @@
     "postal_code_pattern": "\\d{3}[\\-]\\d{3}",
     "translations": {
         "ko": {
-            "format": "%administrative_area %locality%dependent_locality\n%address\n%organization\n%recipient\n%postal_code"
+            "format": "%administrativeArea %locality%dependentLocality\n%addressLine2\n%addressLine1\n%organization\n%recipient\n%postalCode"
         }
     }
 }

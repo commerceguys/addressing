@@ -1,12 +1,12 @@
 {
     "locale": "und",
-    "format": "%recipient\n%organization\n%address\n%locality\n%administrative_area",
+    "format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%locality\n%administrativeArea",
     "required_fields": [
-        "address",
+        "addressLine1",
         "locality"
     ],
     "uppercase_fields": [
-        "administrative_area"
+        "administrativeArea"
     ],
     "administrative_area_type": "island",
     "locality_type": "city"

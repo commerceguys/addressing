@@ -40,7 +40,7 @@ class AddressFormatTest extends \PHPUnit_Framework_TestCase
      */
     public function testFormat()
     {
-        $format = "%recipient\n%organization\n%address\n%locality, %administrative_area %postal_code";
+        $format = "%recipient\n%organization\n%addressLine1\n%addressLine2\n%locality, %administrativeArea %postalCode";
         $this->addressFormat->setFormat($format);
         $this->assertEquals($format, $this->addressFormat->getFormat());
     }
@@ -55,7 +55,7 @@ class AddressFormatTest extends \PHPUnit_Framework_TestCase
             AddressField::ADMINISTRATIVE_AREA,
             AddressField::LOCALITY,
             AddressField::POSTAL_CODE,
-            AddressField::ADDRESS,
+            AddressField::ADDRESS_LINE1,
         ];
         $this->addressFormat->setRequiredFields($requiredFields);
         $this->assertEquals($requiredFields, $this->addressFormat->getRequiredFields());

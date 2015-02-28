@@ -1,10 +1,10 @@
 {
     "locale": "de",
-    "format": "%organization\n%recipient\n%address\n%postal_code %locality",
+    "format": "%organization\n%recipient\n%addressLine1\n%addressLine2\n%postalCode %locality",
     "required_fields": [
-        "address",
+        "addressLine1",
         "locality",
-        "postal_code"
+        "postalCode"
     ],
     "uppercase_fields": [
         ""

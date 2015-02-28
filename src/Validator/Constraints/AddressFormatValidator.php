@@ -21,22 +21,6 @@ class AddressFormatValidator extends ConstraintValidator
     protected $dataProvider;
 
     /**
-     * The mapping between field constants (format) and field names (address).
-     *
-     * @var array
-     */
-    protected $fieldMapping = [
-        AddressField::ADMINISTRATIVE_AREA => 'administrativeArea',
-        AddressField::LOCALITY => 'locality',
-        AddressField::DEPENDENT_LOCALITY => 'dependentLocality',
-        AddressField::POSTAL_CODE => 'postalCode',
-        AddressField::SORTING_CODE => 'sortingCode',
-        AddressField::ADDRESS => 'addressLine1',
-        AddressField::ORGANIZATION => 'organization',
-        AddressField::RECIPIENT => 'recipient',
-    ];
-
-    /**
      * {@inheritDoc}
      */
     public function validate($value, Constraint $constraint)
@@ -71,19 +55,17 @@ class AddressFormatValidator extends ConstraintValidator
     {
         // Validate the presence of required fields.
         $requiredFields = $addressFormat->getRequiredFields();
-        foreach ($requiredFields as $fieldConstant) {
-            if (empty($values[$fieldConstant])) {
-                $subPath = '[' . $this->fieldMapping[$fieldConstant] . ']';
-                $this->context->addViolationAt($subPath, $constraint->notBlankMessage, [], $values[$fieldConstant]);
+        foreach ($requiredFields as $field) {
+            if (empty($values[$field])) {
+                $this->context->addViolationAt('[' . $field . ']', $constraint->notBlankMessage, [], $values[$field]);
             }
         }
 
         // Validate the absence of unused fields.
         $unusedFields = $this->getUnusedFields($addressFormat->getFormat());
-        foreach ($unusedFields as $fieldConstant) {
-            if (!empty($values[$fieldConstant])) {
-                $subPath = '[' . $this->fieldMapping[$fieldConstant] . ']';
-                $this->context->addViolationAt($subPath, $constraint->blankMessage, [], $values[$fieldConstant]);
+        foreach ($unusedFields as $field) {
+            if (!empty($values[$field])) {
+                $this->context->addViolationAt('[' . $field . ']', $constraint->blankMessage, [], $values[$field]);
             }
         }
     }
@@ -108,23 +90,23 @@ class AddressFormatValidator extends ConstraintValidator
             AddressField::DEPENDENT_LOCALITY,
         ];
         $subdivisions = [];
-        foreach ($subdivisionLevels as $index => $fieldConstant) {
-            $parentId = ($fieldConstant == 'root') ? 0 : $values[$fieldConstant];
+        foreach ($subdivisionLevels as $index => $field) {
+            $parentId = ($field == 'root') ? 0 : $values[$field];
             $children = $dataProvider->getSubdivisions($countryCode, $parentId);
             $nextIndex = $index + 1;
             if (!$children || !isset($subdivisionLevels[$nextIndex])) {
                 // This level has no children, stop.
                 break;
             }
-            $nextFieldConstant = $subdivisionLevels[$nextIndex];
-            if (empty($values[$nextFieldConstant])) {
+            $nextField = $subdivisionLevels[$nextIndex];
+            if (empty($values[$nextField])) {
                 // The child value is empty, stop.
                 break;
             }
 
             $found = false;
             foreach ($children as $child) {
-                if ($child->getId() == $values[$nextFieldConstant]) {
+                if ($child->getId() == $values[$nextField]) {
                     $found = true;
                     $subdivisions[] = $child;
                     break;
@@ -132,9 +114,7 @@ class AddressFormatValidator extends ConstraintValidator
             }
 
             if (!$found) {
-                $subPath = '[' . $this->fieldMapping[$nextFieldConstant] . ']';
-                $invalidValue = $values[$nextFieldConstant];
-                $this->context->addViolationAt($subPath, $constraint->invalidMessage, [], $invalidValue);
+                $this->context->addViolationAt('[' . $nextField . ']', $constraint->invalidMessage, [], $values[$nextField]);
                 break;
             }
         }
@@ -192,9 +172,9 @@ class AddressFormatValidator extends ConstraintValidator
     protected function extractAddressValues(AddressInterface $address)
     {
         $values = [];
-        foreach ($this->fieldMapping as $fieldConstant => $fieldName) {
-            $getter = 'get' . ucfirst($fieldName);
-            $values[$fieldConstant] = $address->$getter();
+        foreach (AddressField::getAll() as $field) {
+            $getter = 'get' . ucfirst($field);
+            $values[$field] = $address->$getter();
         }
 
         return $values;
@@ -210,9 +190,9 @@ class AddressFormatValidator extends ConstraintValidator
     protected function getUnusedFields($format)
     {
         $unusedFields = [];
-        foreach (array_keys($this->fieldMapping) as $fieldConstant) {
-            if (strpos($format, $fieldConstant) === false) {
-                $unusedFields[] = $fieldConstant;
+        foreach (AddressField::getAll() as $field) {
+            if (strpos($format, $field) === false) {
+                $unusedFields[] = $field;
             }
         }
 

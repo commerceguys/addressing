@@ -36,8 +36,9 @@ interface AddressFormatInterface
      * <code>
      * %recipient
      * %organization
-     * %address
-     * %locality %administrative_area %postal_code
+     * %addressLine1
+     * %addressLine2
+     * %locality %administrativeArea %postalCode
      * </code>
      *
      * @return string The format string.
