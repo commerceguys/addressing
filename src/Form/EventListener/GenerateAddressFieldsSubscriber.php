@@ -111,15 +111,13 @@ class GenerateAddressFieldsSubscriber implements EventSubscriberInterface
         $fields = [];
         $labels = $this->getFieldLabels($addressFormat);
         $requiredFields = $addressFormat->getRequiredFields();
-        $parsedFormat = explode("\n", $addressFormat->getFormat());
-        foreach ($parsedFormat as $formatLine) {
-            foreach (AddressField::getAll() as $field) {
-                if (strpos($formatLine, '%' . $field) !== false) {
-                    $fields[$field] = [
-                        'label' => $labels[$field],
-                        'required' => in_array($field, $requiredFields),
-                    ];
-                }
+        $groupedFields = $addressFormat->getGroupedFields();
+        foreach ($groupedFields as $lineFields) {
+            foreach ($lineFields as $field) {
+                $fields[$field] = [
+                    'label' => $labels[$field],
+                    'required' => in_array($field, $requiredFields),
+                ];
             }
         }
 

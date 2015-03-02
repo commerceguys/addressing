@@ -10,19 +10,14 @@ use CommerceGuys\Addressing\Enum\PostalCodeType;
 
 class AddressFormat implements AddressFormatInterface
 {
+    use FormatStringTrait;
+
     /**
      * The country code.
      *
      * @var string
      */
     protected $countryCode;
-
-    /**
-     * The format.
-     *
-     * @var string
-     */
-    protected $format;
 
     /**
      * The required fields.
@@ -101,24 +96,6 @@ class AddressFormat implements AddressFormatInterface
     public function setCountryCode($countryCode)
     {
         $this->countryCode = $countryCode;
-
-        return $this;
-    }
-
-    /**
-     * {@inheritdoc}
-     */
-    public function getFormat()
-    {
-        return $this->format;
-    }
-
-    /**
-     * {@inheritdoc}
-     */
-    public function setFormat($format)
-    {
-        $this->format = $format;
 
         return $this;
     }

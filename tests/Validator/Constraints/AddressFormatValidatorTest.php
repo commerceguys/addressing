@@ -86,6 +86,7 @@ class AddressFormatValidatorTest extends AbstractConstraintValidatorTest
      * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
+     * @uses \CommerceGuys\Addressing\Model\FormatStringTrait
      * @uses \CommerceGuys\Addressing\Model\Subdivision
      */
     public function testUnitedStatesOK()
@@ -109,6 +110,7 @@ class AddressFormatValidatorTest extends AbstractConstraintValidatorTest
      * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
+     * @uses \CommerceGuys\Addressing\Model\FormatStringTrait
      * @uses \CommerceGuys\Addressing\Model\Subdivision
      */
     public function testUnitedStatesNotOK()
@@ -136,6 +138,7 @@ class AddressFormatValidatorTest extends AbstractConstraintValidatorTest
      * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
+     * @uses \CommerceGuys\Addressing\Model\FormatStringTrait
      * @uses \CommerceGuys\Addressing\Model\Subdivision
      * @uses \CommerceGuys\Addressing\Collection\LazySubdivisionCollection
      */
@@ -160,6 +163,7 @@ class AddressFormatValidatorTest extends AbstractConstraintValidatorTest
      * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
+     * @uses \CommerceGuys\Addressing\Model\FormatStringTrait
      * @uses \CommerceGuys\Addressing\Model\Subdivision
      */
     public function testGermanAddress()
@@ -193,6 +197,7 @@ class AddressFormatValidatorTest extends AbstractConstraintValidatorTest
      * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
+     * @uses \CommerceGuys\Addressing\Model\FormatStringTrait
      * @uses \CommerceGuys\Addressing\Model\Subdivision
      */
     public function testIrishAddress()
@@ -223,6 +228,7 @@ class AddressFormatValidatorTest extends AbstractConstraintValidatorTest
      * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
+     * @uses \CommerceGuys\Addressing\Model\FormatStringTrait
      * @uses \CommerceGuys\Addressing\Model\Subdivision
      * @uses \CommerceGuys\Addressing\Collection\LazySubdivisionCollection
      */
@@ -251,6 +257,7 @@ class AddressFormatValidatorTest extends AbstractConstraintValidatorTest
      * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
+     * @uses \CommerceGuys\Addressing\Model\FormatStringTrait
      * @uses \CommerceGuys\Addressing\Model\Subdivision
      * @uses \CommerceGuys\Addressing\Collection\LazySubdivisionCollection
      */
@@ -289,6 +296,7 @@ class AddressFormatValidatorTest extends AbstractConstraintValidatorTest
      * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
+     * @uses \CommerceGuys\Addressing\Model\FormatStringTrait
      * @uses \CommerceGuys\Addressing\Model\Subdivision
      * @uses \CommerceGuys\Addressing\Collection\LazySubdivisionCollection
      */
@@ -314,6 +322,7 @@ class AddressFormatValidatorTest extends AbstractConstraintValidatorTest
      * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
+     * @uses \CommerceGuys\Addressing\Model\FormatStringTrait
      * @uses \CommerceGuys\Addressing\Model\Subdivision
      * @uses \CommerceGuys\Addressing\Collection\LazySubdivisionCollection
      */
@@ -341,6 +350,7 @@ class AddressFormatValidatorTest extends AbstractConstraintValidatorTest
      * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
+     * @uses \CommerceGuys\Addressing\Model\FormatStringTrait
      * @uses \CommerceGuys\Addressing\Model\Subdivision
      */
     public function testStreetVerification()
@@ -366,6 +376,7 @@ class AddressFormatValidatorTest extends AbstractConstraintValidatorTest
      * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
+     * @uses \CommerceGuys\Addressing\Model\FormatStringTrait
      * @uses \CommerceGuys\Addressing\Model\Subdivision
      */
     public function testSubdivisionPostcodePattern()
@@ -398,6 +409,7 @@ class AddressFormatValidatorTest extends AbstractConstraintValidatorTest
      * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
+     * @uses \CommerceGuys\Addressing\Model\FormatStringTrait
      * @uses \CommerceGuys\Addressing\Model\Subdivision
      */
     public function testJapan()
@@ -421,6 +433,7 @@ class AddressFormatValidatorTest extends AbstractConstraintValidatorTest
      * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
+     * @uses \CommerceGuys\Addressing\Model\FormatStringTrait
      * @uses \CommerceGuys\Addressing\Model\Subdivision
      */
     public function testCanadaMixedCasePostcode()
@@ -445,6 +458,7 @@ class AddressFormatValidatorTest extends AbstractConstraintValidatorTest
      * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
+     * @uses \CommerceGuys\Addressing\Model\FormatStringTrait
      * @uses \CommerceGuys\Addressing\Model\Subdivision
      */
     public function testCanadaUnusedFields()

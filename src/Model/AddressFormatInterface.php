@@ -53,6 +53,28 @@ interface AddressFormatInterface
     public function setFormat($format);
 
     /**
+     * Gets the list of used fields.
+     *
+     * @return array An array of address fields.
+     */
+    public function getUsedFields();
+
+    /**
+     * Gets the list of used fields, grouped by line.
+     *
+     * @return array An array of address fields grouped by line, in the same
+     *               order as they appear in the format string. For example:
+     *               [
+     *                 ['recipient'],
+     *                 ['organization'],
+     *                 [addressLine1],
+     *                 [addressLine2],
+     *                 [locality, administrativeArea, postalCode]
+     *               ]
+     */
+    public function getGroupedFields();
+
+    /**
      * Gets the list of required fields.
      *
      * @return array An array of address fields.

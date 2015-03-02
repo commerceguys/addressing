@@ -51,6 +51,7 @@ class PostalFormatterTest extends \PHPUnit_Framework_TestCase
      * @covers \CommerceGuys\Addressing\Formatter\PostalFormatter
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
+     * @uses \CommerceGuys\Addressing\Model\FormatStringTrait
      * @uses \CommerceGuys\Addressing\Model\Subdivision
      * @uses \CommerceGuys\Addressing\Provider\DataProvider
      * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
@@ -90,6 +91,7 @@ class PostalFormatterTest extends \PHPUnit_Framework_TestCase
      * @uses \CommerceGuys\Addressing\Collection\LazySubdivisionCollection
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
+     * @uses \CommerceGuys\Addressing\Model\FormatStringTrait
      * @uses \CommerceGuys\Addressing\Model\Subdivision
      * @uses \CommerceGuys\Addressing\Provider\DataProvider
      * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
@@ -125,6 +127,7 @@ class PostalFormatterTest extends \PHPUnit_Framework_TestCase
      * @covers \CommerceGuys\Addressing\Formatter\PostalFormatter
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
+     * @uses \CommerceGuys\Addressing\Model\FormatStringTrait
      * @uses \CommerceGuys\Addressing\Model\Subdivision
      * @uses \CommerceGuys\Addressing\Provider\DataProvider
      * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
@@ -163,6 +166,7 @@ class PostalFormatterTest extends \PHPUnit_Framework_TestCase
      * @covers \CommerceGuys\Addressing\Formatter\PostalFormatter
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
+     * @uses \CommerceGuys\Addressing\Model\FormatStringTrait
      * @uses \CommerceGuys\Addressing\Model\Subdivision
      * @uses \CommerceGuys\Addressing\Provider\DataProvider
      * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
@@ -191,6 +195,7 @@ class PostalFormatterTest extends \PHPUnit_Framework_TestCase
      * @covers \CommerceGuys\Addressing\Formatter\PostalFormatter
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
+     * @uses \CommerceGuys\Addressing\Model\FormatStringTrait
      * @uses \CommerceGuys\Addressing\Model\Subdivision
      * @uses \CommerceGuys\Addressing\Provider\DataProvider
      * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
@@ -211,6 +216,7 @@ class PostalFormatterTest extends \PHPUnit_Framework_TestCase
      * @covers \CommerceGuys\Addressing\Formatter\PostalFormatter
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
+     * @uses \CommerceGuys\Addressing\Model\FormatStringTrait
      * @uses \CommerceGuys\Addressing\Model\Subdivision
      * @uses \CommerceGuys\Addressing\Provider\DataProvider
      * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository

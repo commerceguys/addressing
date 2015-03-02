@@ -37,12 +37,34 @@ class AddressFormatTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::getFormat
      * @covers ::setFormat
+     * @covers ::getUsedFields
+     * @covers ::getGroupedFields
      */
     public function testFormat()
     {
         $format = "%recipient\n%organization\n%addressLine1\n%addressLine2\n%locality, %administrativeArea %postalCode";
         $this->addressFormat->setFormat($format);
         $this->assertEquals($format, $this->addressFormat->getFormat());
+
+        $expectedUsedFields = [
+            AddressField::ADMINISTRATIVE_AREA,
+            AddressField::LOCALITY,
+            AddressField::POSTAL_CODE,
+            AddressField::ADDRESS_LINE1,
+            AddressField::ADDRESS_LINE2,
+            AddressField::ORGANIZATION,
+            AddressField::RECIPIENT,
+        ];
+        $this->assertEquals($expectedUsedFields, $this->addressFormat->getUsedFields());
+
+        $expectedGroupedFields = [
+            [AddressField::RECIPIENT],
+            [AddressField::ORGANIZATION],
+            [AddressField::ADDRESS_LINE1],
+            [AddressField::ADDRESS_LINE2],
+            [AddressField::LOCALITY, AddressField::ADMINISTRATIVE_AREA, AddressField::POSTAL_CODE],
+        ];
+        $this->assertEquals($expectedGroupedFields, $this->addressFormat->getGroupedFields());
     }
 
     /**

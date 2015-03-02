@@ -62,7 +62,7 @@ class AddressFormatValidator extends ConstraintValidator
         }
 
         // Validate the absence of unused fields.
-        $unusedFields = $this->getUnusedFields($addressFormat->getFormat());
+        $unusedFields = array_diff(AddressField::getAll(), $addressFormat->getUsedFields());
         foreach ($unusedFields as $field) {
             if (!empty($values[$field])) {
                 $this->context->addViolationAt('[' . $field . ']', $constraint->blankMessage, [], $values[$field]);
@@ -178,25 +178,6 @@ class AddressFormatValidator extends ConstraintValidator
         }
 
         return $values;
-    }
-
-    /**
-     * Gets the list of unused fields.
-     *
-     * @param string $format The format string to analyze.
-     *
-     * @return array An array of field constants.
-     */
-    protected function getUnusedFields($format)
-    {
-        $unusedFields = [];
-        foreach (AddressField::getAll() as $field) {
-            if (strpos($format, $field) === false) {
-                $unusedFields[] = $field;
-            }
-        }
-
-        return $unusedFields;
     }
 
     /**
