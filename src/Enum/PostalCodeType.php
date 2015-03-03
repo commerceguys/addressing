@@ -5,7 +5,7 @@ namespace CommerceGuys\Addressing\Enum;
 use CommerceGuys\Enum\AbstractEnum;
 
 /**
- * Enumerates available locality types.
+ * Enumerates available postal code types.
  *
  * @codeCoverageIgnore
  */
@@ -16,7 +16,9 @@ final class PostalCodeType extends AbstractEnum
     const PIN = 'pin';
 
     /**
-     * Returns the default value.
+     * Gets the default value.
+     *
+     * @return string The default value.
      */
     public static function getDefault()
     {

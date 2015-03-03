@@ -25,7 +25,9 @@ final class AdministrativeAreaType extends AbstractEnum
     const STATE = 'state';
 
     /**
-     * Returns the default value.
+     * Gets the default value.
+     *
+     * @return string The default value.
      */
     public static function getDefault()
     {
