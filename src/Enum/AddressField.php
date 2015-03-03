@@ -21,4 +21,18 @@ final class AddressField extends AbstractEnum
     const ADDRESS_LINE2 = 'addressLine2';
     const ORGANIZATION = 'organization';
     const RECIPIENT = 'recipient';
+
+    /**
+     * Gets the tokens (values prefixed with %).
+     *
+     * @return array An array of tokens, keyed by constant.
+     */
+    public static function getTokens()
+    {
+        $tokens = array_map(function ($field) {
+            return '%' . $field;
+        }, static::getAll());
+
+        return $tokens;
+    }
 }
