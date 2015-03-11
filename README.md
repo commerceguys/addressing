@@ -79,29 +79,75 @@ foreach ($states as $state) {
 }
 ```
 
-# Postal formatter
+# Formatters
 
-The address is formatted according to the destination country format.
-If the parcel is being sent to a different country, the country name is appended
-in the local language (so that the local post office can understand it).
+Addresses are formatted according to the address format, in HTML or text.
 
-If a country (e.g. China/Japan/Korea) uses both major-to-minor (country first) and
-minor-to-major (recipient first) address formats, the right one is selected based on the origin address.
-For example, if the parcel is being sent from China to China, the local major-to-minor format is used.
-But if the parcel is being sent from France to China, then the minor-to-major format is used,
-increasing the chances of the address being interpreted correctly.
+## DefaultFormatter
+
+Formats an address for display, always adds the localized country name.
 
 ```php
-use CommerceGuys\Addressing\Formatter\PostalFormatter;
+use CommerceGuys\Addressing\Formatter\DefaultFormatter;
 use CommerceGuys\Addressing\Provider\DataProvider;
 
 $dataProvider = new DataProvider();
-$formatter = new PostalFormatter($dataProvider);
+$formatter = new DefaultFormatter($dataProvider);
+// Options passed to the constructor or setOption / setOptions allow turning
+// off html rendering, customizing the wrapper element and its attributes.
 
-// Format an address for sending from Switzerland, in French.
-// If the address destination is not Switzerland, the country name will be
-// appended in French, uppercase.
-echo $formatter->format($address, 'CH', 'fr');
+$address = new Address();
+$address
+    ->setCountryCode('US')
+    ->setAdministrativeArea('US-CA')
+    ->setAddressLine1('1098 Alta Ave')
+    ->setLocality('Mountain View');
+
+echo $formatter->format($address);
+
+/** Output:
+<p translate="no">
+<span class="address-line1">1098 Alta Ave</span><br>
+<span class="locality">Mountain View</span>, <span class="administrative-area">CA</span><br>
+<span class="country">United States</span>
+</p>
+**/
+```
+
+## PostalLabelFormatter
+
+Takes care of uppercasing fields where required by the format (to faciliate automated mail sorting).
+
+Requires specifying the origin country code, allowing it to differentiate between domestic and international mail.
+In case of domestic mail, the country name is not displayed at all.
+In case of international mail:
+
+1. The postal code is prefixed with the destination's postal code prefix.
+2. The country name is added to the formatted address, in both the current locale and English.
+This matches the recommandation given by the Universal Postal Union, to avoid difficulties in countries of transit.
+
+```php
+use CommerceGuys\Addressing\Formatter\PostalLabelFormatter;
+use CommerceGuys\Addressing\Provider\DataProvider;
+
+$dataProvider = new DataProvider();
+// Defaults to text rendering. Requires passing the origin country code (e.g. 'FR').
+$formatter = new PostalLabelFormatter($provider, 'FR', 'fr');
+
+$address = new Address();
+$address
+    ->setCountryCode('US')
+    ->setAdministrativeArea('US-CA')
+    ->setAddressLine1('1098 Alta Ave')
+    ->setLocality('Mountain View');
+
+echo $formatter->format($address);
+
+/** Output:
+1098 Alta Ave
+MOUNTAIN VIEW, CA 94043
+ÉTATS-UNIS - UNITED STATES
+**/
 ```
 
 # Validator

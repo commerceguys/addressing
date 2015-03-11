@@ -58,7 +58,7 @@ interface SubdivisionInterface
     /**
      * Gets the subdivision code.
      *
-     * Represents the subdivision on the envelope.
+     * Represents the subdivision on the formatted address.
      * For example: "CA" for California.
      *
      * The code will be in the local (non-latin) script if the country uses one.

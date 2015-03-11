@@ -74,6 +74,10 @@ class DataProvider implements DataProviderInterface
             $country = $this->countryRepository->get($countryCode, $locale);
             $countryName = $country->getName();
         } else {
+            if (!is_null($locale)) {
+                // symfony/intl doesn't normalize the passed $locale.
+                $locale = str_replace('-', '_', $locale);
+            }
             $countryName = $this->regionBundle->getCountryName($countryCode, $locale);
         }
 
@@ -92,6 +96,10 @@ class DataProvider implements DataProviderInterface
                 $countryNames[$countryCode] = $country->getName();
             }
         } else {
+            if (!is_null($locale)) {
+                // symfony/intl doesn't normalize the passed $locale.
+                $locale = str_replace('-', '_', $locale);
+            }
             $countryNames = $this->regionBundle->getCountryNames($locale);
         }
 
