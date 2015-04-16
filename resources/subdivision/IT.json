@@ -26,6 +26,15 @@
         "name": "Ancona",
         "postal_code_pattern": "60"
     },
+    "IT-AO": {
+        "locale": "it",
+        "country_code": "IT",
+        "parent_id": null,
+        "id": "IT-AO",
+        "code": "AO",
+        "name": "Aosta",
+        "postal_code_pattern": "11"
+    },
     "IT-AR": {
         "locale": "it",
         "country_code": "IT",
@@ -527,7 +536,7 @@
         "parent_id": null,
         "id": "IT-MB",
         "code": "MB",
-        "name": "Monza e della Brianza",
+        "name": "Monza e Brianza",
         "postal_code_pattern": "208|20900"
     },
     "IT-NA": {
@@ -734,7 +743,7 @@
         "parent_id": null,
         "id": "IT-RE",
         "code": "RE",
-        "name": "Reggio nell'Emilia",
+        "name": "Reggio Emilia",
         "postal_code_pattern": "42"
     },
     "IT-RI": {
@@ -907,15 +916,6 @@
         "code": "UD",
         "name": "Udine",
         "postal_code_pattern": "330[1-5]|33100"
-    },
-    "IT-AO": {
-        "locale": "it",
-        "country_code": "IT",
-        "parent_id": null,
-        "id": "IT-AO",
-        "code": "AO",
-        "name": "Valle d'Aosta",
-        "postal_code_pattern": "11"
     },
     "IT-VA": {
         "locale": "it",

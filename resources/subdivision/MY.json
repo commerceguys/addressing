@@ -6,7 +6,7 @@
         "id": "MY-01",
         "code": "JOHOR",
         "name": "JOHOR",
-        "postal_code_pattern": "8[0-6]"
+        "postal_code_pattern": "79|8[0-6]"
     },
     "MY-02": {
         "locale": "ms",
@@ -51,7 +51,7 @@
         "id": "MY-04",
         "code": "MELAKA",
         "name": "MELAKA",
-        "postal_code_pattern": "7[5-9]"
+        "postal_code_pattern": "7[5-8]"
     },
     "MY-05": {
         "locale": "ms",
@@ -69,7 +69,7 @@
         "id": "MY-06",
         "code": "PAHANG",
         "name": "PAHANG",
-        "postal_code_pattern": "2[5-8]|39|49|69"
+        "postal_code_pattern": "2[5-8]|[346]9"
     },
     "MY-08": {
         "locale": "ms",

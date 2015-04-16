@@ -370,7 +370,7 @@
         "id": "UA-917395",
         "code": "Чернігівська область",
         "name": "Chernihivs'ka oblast",
-        "postal_code_pattern": "14",
+        "postal_code_pattern": "1[4-7]",
         "translations": {
             "uk": {
                 "name": "Чернігівська область"

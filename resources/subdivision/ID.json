@@ -119,6 +119,14 @@
         "code": "Kalimantan Timur",
         "name": "Kalimantan Timur"
     },
+    "ID-KU": {
+        "locale": "id",
+        "country_code": "ID",
+        "parent_id": null,
+        "id": "ID-KU",
+        "code": "Kalimantan Utara",
+        "name": "Kalimantan Utara"
+    },
     "ID-BB": {
         "locale": "id",
         "country_code": "ID",
