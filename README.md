@@ -132,7 +132,7 @@ use CommerceGuys\Addressing\Provider\DataProvider;
 
 $dataProvider = new DataProvider();
 // Defaults to text rendering. Requires passing the origin country code (e.g. 'FR').
-$formatter = new PostalLabelFormatter($provider, 'FR', 'fr');
+$formatter = new PostalLabelFormatter($dataProvider, 'FR', 'fr');
 
 $address = new Address();
 $address
