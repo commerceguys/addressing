@@ -135,6 +135,44 @@ class PostalLabelFormatterTest extends \PHPUnit_Framework_TestCase
 
     /**
      * @covers \CommerceGuys\Addressing\Formatter\PostalLabelFormatter
+     * @uses   \CommerceGuys\Addressing\Formatter\DefaultFormatter
+     * @uses   \CommerceGuys\Addressing\Model\Address
+     * @uses   \CommerceGuys\Addressing\Model\AddressFormat
+     * @uses   \CommerceGuys\Addressing\Model\FormatStringTrait
+     * @uses   \CommerceGuys\Addressing\Model\Subdivision
+     * @uses   \CommerceGuys\Addressing\Provider\DataProvider
+     * @uses   \CommerceGuys\Addressing\Repository\AddressFormatRepository
+     * @uses   \CommerceGuys\Addressing\Repository\SubdivisionRepository
+     * @uses   \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
+     */
+    public function testJapanAddressShippedFromFrance()
+    {
+        $address = new Address();
+        $address
+            ->setLocale('ja')
+            ->setCountryCode('JP')
+            ->setAdministrativeArea('JP-01')
+            ->setLocality('Some City')
+            ->setAddressLine1('Address Line 1')
+            ->setAddressLine2('Address Line 2')
+            ->setPostalCode('04');
+
+        // Test a JP address formatted for sending from France.
+        $expectedLines = [
+            'JAPON - JAPAN',
+            '〒04',
+            '北海道Some City',
+            'Address Line 2',
+            'Address Line 1'
+        ];
+        $this->formatter->setOriginCountryCode('FR');
+        $this->formatter->setLocale('fr');
+        $formattedAddress = $this->formatter->format($address);
+        $this->assertFormattedAddress($expectedLines, $formattedAddress);
+    }
+
+    /**
+     * @covers \CommerceGuys\Addressing\Formatter\PostalLabelFormatter
      * @uses \CommerceGuys\Addressing\Formatter\DefaultFormatter
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat

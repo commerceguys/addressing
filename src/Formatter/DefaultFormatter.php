@@ -127,7 +127,7 @@ class DefaultFormatter implements FormatterInterface
     public function format(AddressInterface $address)
     {
         $countryCode = $address->getCountryCode();
-        $addressFormat = $this->dataProvider->getAddressFormat($countryCode, $this->locale);
+        $addressFormat = $this->dataProvider->getAddressFormat($countryCode, $address->getLocale());
         $formatString = $addressFormat->getFormat();
 
         $view = $this->buildView($address, $addressFormat);
