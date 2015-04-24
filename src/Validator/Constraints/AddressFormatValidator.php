@@ -142,7 +142,7 @@ class AddressFormatValidator extends ConstraintValidator
         if ($subdivisions) {
             foreach ($subdivisions as $subdivision) {
                 if ($subdivision->getPostalCodePattern()) {
-                    $subdivisionPostalCodePattern = '/' . $subdivision->getPostalCodePattern() . '/';
+                    $subdivisionPostalCodePattern = '/' . $subdivision->getPostalCodePattern() . '/i';
                 }
             }
         }
@@ -154,7 +154,7 @@ class AddressFormatValidator extends ConstraintValidator
                 $this->context->addViolationAt('[postalCode]', $constraint->invalidMessage, [], $postalCode);
             }
         } else {
-            preg_match('/' . $addressFormat->getPostalCodePattern() . '/', $postalCode, $matches);
+            preg_match('/' . $addressFormat->getPostalCodePattern() . '/i', $postalCode, $matches);
             // The pattern must match the provided value completely.
             if (empty($matches[0]) || $matches[0] != $postalCode) {
                 $this->context->addViolationAt('[postalCode]', $constraint->invalidMessage, [], $postalCode);
