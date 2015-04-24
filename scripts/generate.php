@@ -387,6 +387,10 @@ function convert_format($format)
  */
 function convert_fields($fields, $type)
 {
+    if (empty($fields)) {
+        return [];
+    }
+
     // Expand the address token into separate tokens for address lines 1 and 2.
     // For required fields it's enough to require the first line.
     if ($type == 'required') {

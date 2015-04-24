@@ -6,9 +6,7 @@
         "locality",
         "postalCode"
     ],
-    "uppercase_fields": [
-        ""
-    ],
+    "uppercase_fields": [],
     "locality_type": "city",
     "postal_code_type": "postal",
     "postal_code_pattern": "\\d{4}",
