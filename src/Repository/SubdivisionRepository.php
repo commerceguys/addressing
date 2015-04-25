@@ -3,6 +3,7 @@
 namespace CommerceGuys\Addressing\Repository;
 
 use CommerceGuys\Addressing\Collection\LazySubdivisionCollection;
+use CommerceGuys\Addressing\Enum\PatternType;
 use CommerceGuys\Addressing\Model\Subdivision;
 
 class SubdivisionRepository implements SubdivisionRepositoryInterface
@@ -145,6 +146,11 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
             $this->locale = $definition['locale'];
             if (isset($definition['postal_code_pattern'])) {
                 $this->postalCodePattern = $definition['postal_code_pattern'];
+                if (isset($definition['postal_code_pattern_type'])) {
+                    $this->postalCodePatternType = $definition['postal_code_pattern_type'];
+                } else {
+                    $this->postalCodePatternType = PatternType::getDefault();
+                }
             }
         }, $subdivision, '\CommerceGuys\Addressing\Model\Subdivision');
         $setValues($definition);

@@ -320,8 +320,14 @@ function create_subdivision_definition($countryCode, $parentId, $subdivisionId, 
         'code' => $rawDefinition['key'],
         'name' => $rawDefinition['name'],
     ];
-    if (isset($rawDefinition['zip'])) {
+    if (isset($rawDefinition['xzip'])) {
+        $subdivision['postal_code_pattern'] = $rawDefinition['xzip'];
+        $subdivision['postal_code_pattern_type'] = 'full';
+    } elseif (isset($rawDefinition['zip'])) {
         $subdivision['postal_code_pattern'] = $rawDefinition['zip'];
+        // There are more than 12 000 subdivisions, but only a few Chinese
+        // ones specify a full pattern. Therefore, the postal_code_pattern_type
+        // value is the same for most subdivisions, and omitted to save space.
     }
     if (isset($rawDefinition['lname'])) {
         // Handle the China/Korea/Japan dual names via translation.

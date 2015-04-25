@@ -118,7 +118,8 @@ class AddressFormatValidatorTest extends AbstractConstraintValidatorTest
         $this->address
           ->setCountryCode('US')
           ->setAdministrativeArea('US-CA')
-          ->setPostalCode('90961');
+          // Fails the format-level check.
+          ->setPostalCode('909');
 
         $this->validator->validate($this->address, $this->constraint);
         $this->buildViolation($this->constraint->notBlankMessage)
@@ -127,6 +128,37 @@ class AddressFormatValidatorTest extends AbstractConstraintValidatorTest
             ->buildNextViolation($this->constraint->notBlankMessage)
             ->atPath('[locality]')
             ->setInvalidValue(null)
+            ->buildNextViolation($this->constraint->invalidMessage)
+            ->atPath('[postalCode]')
+            ->setInvalidValue('909')
+            ->assertRaised();
+    }
+
+    /**
+     * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatValidator
+     * @uses \CommerceGuys\Addressing\Provider\DataProvider
+     * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
+     * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
+     * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
+     * @uses \CommerceGuys\Addressing\Model\Address
+     * @uses \CommerceGuys\Addressing\Model\AddressFormat
+     * @uses \CommerceGuys\Addressing\Model\FormatStringTrait
+     * @uses \CommerceGuys\Addressing\Model\Subdivision
+     */
+    public function testUnitedStatesSubdivisionPostcodePattern()
+    {
+        $this->address
+          ->setCountryCode('US')
+          ->setAdministrativeArea('US-CA')
+          ->setAddressLine1('1234 Somewhere')
+          ->setLocality('Mountain View')
+          // Satisfies the format-level check, fails the subdivision-level one.
+          ->setPostalCode('84025');
+
+        $this->validator->validate($this->address, $this->constraint);
+        $this->buildViolation($this->constraint->invalidMessage)
+            ->atPath('[postalCode]')
+            ->setInvalidValue('84025')
             ->assertRaised();
     }
 
@@ -365,39 +397,6 @@ class AddressFormatValidatorTest extends AbstractConstraintValidatorTest
         $this->buildViolation($this->constraint->notBlankMessage)
             ->atPath('[addressLine1]')
             ->setInvalidValue(null)
-            ->assertRaised();
-    }
-
-    /**
-     * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatValidator
-     * @uses \CommerceGuys\Addressing\Provider\DataProvider
-     * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
-     * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
-     * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
-     * @uses \CommerceGuys\Addressing\Model\Address
-     * @uses \CommerceGuys\Addressing\Model\AddressFormat
-     * @uses \CommerceGuys\Addressing\Model\FormatStringTrait
-     * @uses \CommerceGuys\Addressing\Model\Subdivision
-     */
-    public function testSubdivisionPostcodePattern()
-    {
-        // The correct postal code patters is used for a subdivision.
-        $this->address
-          ->setCountryCode('US')
-          ->setAdministrativeArea('US-CA')
-          ->setAddressLine1('1234 Somewhere')
-          ->setLocality('Mountain View')
-          ->setPostalCode('94025');
-
-        $this->validator->validate($this->address, $this->constraint);
-        $this->assertNoViolation();
-
-        // When a invalid postal code is used for a subdivision it should fail.
-        $this->address->setPostalCode('InvalidValue');
-
-        $this->validator->validate($this->address, $this->constraint);
-        $this->buildViolation($this->constraint->invalidMessage)
-            ->atPath('[postalCode]')
             ->assertRaised();
     }
 

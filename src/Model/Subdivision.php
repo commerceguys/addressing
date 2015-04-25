@@ -2,6 +2,7 @@
 
 namespace CommerceGuys\Addressing\Model;
 
+use CommerceGuys\Addressing\Enum\PatternType;
 use CommerceGuys\Addressing\Exception\UnexpectedTypeException;
 use Doctrine\Common\Collections\ArrayCollection;
 use Doctrine\Common\Collections\Collection;
@@ -49,6 +50,13 @@ class Subdivision implements SubdivisionInterface
      * @var string
      */
     protected $postalCodePattern;
+
+    /**
+     * The postal code pattern type.
+     *
+     * @var string
+     */
+    protected $postalCodePatternType;
 
     /**
      * The children.
@@ -176,6 +184,25 @@ class Subdivision implements SubdivisionInterface
     public function setPostalCodePattern($postalCodePattern)
     {
         $this->postalCodePattern = $postalCodePattern;
+
+        return $this;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function getPostalCodePatternType()
+    {
+        return $this->postalCodePatternType;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function setPostalCodePatternType($postalCodePatternType)
+    {
+        PatternType::assertExists($postalCodePatternType);
+        $this->postalCodePatternType = $postalCodePatternType;
 
         return $this;
     }

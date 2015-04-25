@@ -91,8 +91,7 @@ interface SubdivisionInterface
     /**
      * Gets the postal code pattern.
      *
-     * This is a regular expression pattern used to validate postal codes,
-     * ensuring that a postal code begins with the expected characters.
+     * This is a regular expression pattern used to validate postal codes.
      *
      * @return string|null The postal code pattern.
      */
@@ -104,6 +103,20 @@ interface SubdivisionInterface
      * @param string $postalCodePattern The postal code pattern.
      */
     public function setPostalCodePattern($postalCodePattern);
+
+    /**
+     * Gets the postal code pattern type.
+     *
+     * @return string|null The postal code pattern type.
+     */
+    public function getPostalCodePatternType();
+
+    /**
+     * Sets the postal code pattern type.
+     *
+     * @param string $postalCodePatternType The postal code pattern type.
+     */
+    public function setPostalCodePatternType($postalCodePatternType);
 
     /**
      * Gets the subdivision children.

@@ -3,6 +3,7 @@
 namespace CommerceGuys\Addressing\Validator\Constraints;
 
 use CommerceGuys\Addressing\Enum\AddressField;
+use CommerceGuys\Addressing\Enum\PatternType;
 use CommerceGuys\Addressing\Model\AddressInterface;
 use CommerceGuys\Addressing\Model\AddressFormatInterface;
 use CommerceGuys\Addressing\Provider\DataProvider;
@@ -137,27 +138,38 @@ class AddressFormatValidator extends ConstraintValidator
             return;
         }
 
-        // Try to find a postal code pattern.
-        $subdivisionPostalCodePattern = null;
-        if ($subdivisions) {
-            foreach ($subdivisions as $subdivision) {
-                if ($subdivision->getPostalCodePattern()) {
-                    $subdivisionPostalCodePattern = '/' . $subdivision->getPostalCodePattern() . '/i';
-                }
+        // Resolve the available patterns.
+        $fullPattern = $addressFormat->getPostalCodePattern();
+        $startPattern = null;
+        foreach ($subdivisions as $subdivision) {
+            $pattern = $subdivision->getPostalCodePattern();
+            if (empty($pattern)) {
+                continue;
+            }
+
+            if ($subdivision->getPostalCodePatternType() == PatternType::FULL) {
+                $fullPattern = $pattern;
+            } else {
+                $startPattern = $pattern;
             }
         }
 
-        if ($subdivisionPostalCodePattern) {
-            // The subdivision pattern must be a partial match, it only
-            // confirms that the value starts with the expected characters.
-            if (!preg_match($subdivisionPostalCodePattern, $postalCode)) {
-                $this->context->addViolationAt('[postalCode]', $constraint->invalidMessage, [], $postalCode);
-            }
-        } else {
-            preg_match('/' . $addressFormat->getPostalCodePattern() . '/i', $postalCode, $matches);
+        if ($fullPattern) {
             // The pattern must match the provided value completely.
+            preg_match('/' . $fullPattern . '/i', $postalCode, $matches);
             if (empty($matches[0]) || $matches[0] != $postalCode) {
                 $this->context->addViolationAt('[postalCode]', $constraint->invalidMessage, [], $postalCode);
+
+                return;
+            }
+        }
+        if ($startPattern) {
+            // The pattern must match the start of the provided value.
+            preg_match('/' . $startPattern . '/i', $postalCode, $matches);
+            if (empty($matches[0]) || strpos($postalCode, $matches[0]) !== 0) {
+                $this->context->addViolationAt('[postalCode]', $constraint->invalidMessage, [], $postalCode);
+
+                return;
             }
         }
     }
