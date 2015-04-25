@@ -2,6 +2,7 @@
 
 namespace CommerceGuys\Addressing\Tests\Model;
 
+use CommerceGuys\Addressing\Enum\PatternType;
 use CommerceGuys\Addressing\Model\Subdivision;
 use Doctrine\Common\Collections\ArrayCollection;
 
@@ -134,6 +135,17 @@ class SubdivisionTest extends \PHPUnit_Framework_TestCase
     {
         $this->subdivision->setPostalCodePattern('9[0-5]|96[01]');
         $this->assertEquals('9[0-5]|96[01]', $this->subdivision->getPostalCodePattern());
+    }
+
+    /**
+     * @covers ::getPostalCodePatternType
+     * @covers ::setPostalCodePatternType
+     * @uses \CommerceGuys\Addressing\Model\Subdivision::__construct
+     */
+    public function testPostalCodePatternType()
+    {
+        $this->subdivision->setPostalCodePatternType(PatternType::START);
+        $this->assertEquals(PatternType::START, $this->subdivision->getPostalCodePatternType());
     }
 
     /**

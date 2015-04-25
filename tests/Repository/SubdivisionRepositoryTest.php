@@ -26,6 +26,7 @@ class SubdivisionRepositoryTest extends \PHPUnit_Framework_TestCase
                 'code' => 'SC',
                 'name' => 'Santa Catarina',
                 'postal_code_pattern' => '8[89]',
+                'postal_code_pattern_type' => 'full',
                 'has_children' => true,
             ],
             'BR-SP' => [
@@ -106,6 +107,7 @@ class SubdivisionRepositoryTest extends \PHPUnit_Framework_TestCase
         $this->assertEquals('SC', $subdivision->getCode());
         $this->assertEquals('Santa Catarina', $subdivision->getName());
         $this->assertEquals('8[89]', $subdivision->getPostalCodePattern());
+        $this->assertEquals('full', $subdivision->getPostalCodePatternType());
         $this->assertEquals('pt', $subdivision->getLocale());
         $children = $subdivision->getChildren();
         $this->assertEquals($subdivisionChild, $children['BR-SC-9c7753']);
