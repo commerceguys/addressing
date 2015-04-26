@@ -195,6 +195,7 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
         // Traditional Chinese. That's not the case here, for readability.
         $address = new Address();
         $address
+            -> setLocale('zh-hant')
             ->setCountryCode('TW')
             ->setAdministrativeArea('TW-TPE')  // Taipei city
             ->setLocality('TW-TPE-e3cc33')  // Da-an district
