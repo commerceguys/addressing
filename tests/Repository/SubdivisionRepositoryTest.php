@@ -160,4 +160,21 @@ class SubdivisionRepositoryTest extends \PHPUnit_Framework_TestCase
         $this->assertArrayHasKey('BR-SC-9c7753', $subdivisions);
         $this->assertEquals($subdivisions['BR-SC-9c7753']->getId(), 'BR-SC-9c7753');
     }
+
+    /**
+     * @covers ::getList
+     * @covers ::loadDefinitions
+     * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
+     * @depends testConstructor
+     */
+    public function testGetList($subdivisionRepository)
+    {
+        $list = $subdivisionRepository->getList('BR');
+        $expectedList = ['BR-SC' => 'Santa Catarina', 'BR-SP' => 'São Paulo'];
+        $this->assertEquals($expectedList, $list);
+
+        $list = $subdivisionRepository->getList('BR', 'BR-SC');
+        $expectedList = ['BR-SC-9c7753' => 'Abelardo Luz'];
+        $this->assertEquals($expectedList, $list);
+    }
 }

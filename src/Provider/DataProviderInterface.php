@@ -49,7 +49,7 @@ interface DataProviderInterface
     public function getAddressFormat($countryCode, $locale = null);
 
     /**
-     * Returns all available address format instances.
+     * Returns all address format instances.
      *
      * @param string $locale The locale (e.g. fr-FR).
      *
@@ -68,7 +68,7 @@ interface DataProviderInterface
     public function getSubdivision($id, $locale = null);
 
     /**
-     * Returns all available subdivision instances for the provided country code.
+     * Returns all subdivision instances for the provided country code.
      *
      * @param string $countryCode The country code.
      * @param int    $parentId    The parent id.
@@ -77,4 +77,15 @@ interface DataProviderInterface
      * @return Subdivision[] An array of subdivision instances.
      */
     public function getSubdivisions($countryCode, $parentId = null, $locale = null);
+
+    /**
+     * Returns a list of subdivisions.
+     *
+     * @param string $countryCode The country code.
+     * @param int    $parentId    The parent id.
+     * @param string $locale      The locale (e.g. fr-FR).
+     *
+     * @return array An array of subdivision names, keyed by id.
+     */
+    public function getSubdivisionList($countryCode, $parentId = null, $locale = null);
 }

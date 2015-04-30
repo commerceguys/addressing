@@ -93,6 +93,21 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
     }
 
     /**
+     * {@inheritdoc}
+     */
+    public function getList($countryCode, $parentId = null, $locale = null)
+    {
+        $definitions = $this->loadDefinitions($countryCode, $parentId);
+        $list = [];
+        foreach ($definitions as $id => $definition) {
+            $definition = $this->translateDefinition($definition, $locale);
+            $list[$id] = $definition['name'];
+        }
+
+        return $list;
+    }
+
+    /**
      * Loads the subdivision definitions for the provided country code.
      *
      * @param string $countryCode The country code.

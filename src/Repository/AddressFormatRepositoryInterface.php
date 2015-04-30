@@ -23,7 +23,7 @@ interface AddressFormatRepositoryInterface
     public function get($countryCode, $locale = null);
 
     /**
-     * Returns all available address format instances.
+     * Returns all address format instances.
      *
      * @param string $locale The locale (e.g. fr-FR).
      *

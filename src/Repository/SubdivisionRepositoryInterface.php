@@ -20,7 +20,7 @@ interface SubdivisionRepositoryInterface
     public function get($id, $locale = null);
 
     /**
-     * Returns all available subdivision instances for the provided country code.
+     * Returns all subdivision instances for the provided country code.
      *
      * @param string $countryCode The country code.
      * @param int    $parentId    The parent id.
@@ -29,4 +29,15 @@ interface SubdivisionRepositoryInterface
      * @return Subdivision[] An array of subdivision instances.
      */
     public function getAll($countryCode, $parentId = null, $locale = null);
+
+    /**
+     * Returns a list of subdivisions.
+     *
+     * @param string $countryCode The country code.
+     * @param int    $parentId    The parent id.
+     * @param string $locale      The locale (e.g. fr-FR).
+     *
+     * @return array An array of subdivision names, keyed by id.
+     */
+    public function getList($countryCode, $parentId = null, $locale = null);
 }
