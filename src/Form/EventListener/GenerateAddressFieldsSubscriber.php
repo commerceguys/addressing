@@ -124,12 +124,9 @@ class GenerateAddressFieldsSubscriber implements EventSubscriberInterface
         // Add choices for predefined subdivisions.
         foreach ($subdivisions as $field => $parentId) {
             // @todo Pass the form locale to get the translated values.
-            $children = $this->dataProvider->getSubdivisions($addressFormat->getCountryCode(), $parentId);
+            $children = $this->dataProvider->getSubdivisionList($addressFormat->getCountryCode(), $parentId);
             if ($children) {
-                $fields[$field]['choices'] = [];
-                foreach ($children as $child) {
-                    $fields[$field]['choices'][$child->getId()] = $child->getName();
-                }
+                $fields[$field]['choices'] = $children;
             }
         }
 

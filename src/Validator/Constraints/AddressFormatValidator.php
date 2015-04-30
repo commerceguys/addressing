@@ -90,10 +90,10 @@ class AddressFormatValidator extends ConstraintValidator
             AddressField::LOCALITY,
             AddressField::DEPENDENT_LOCALITY,
         ];
-        $subdivisions = [];
+        $foundIds = [];
         foreach ($subdivisionLevels as $index => $field) {
             $parentId = ($field == 'root') ? 0 : $values[$field];
-            $children = $dataProvider->getSubdivisions($countryCode, $parentId);
+            $children = $dataProvider->getSubdivisionList($countryCode, $parentId);
             $nextIndex = $index + 1;
             if (!$children || !isset($subdivisionLevels[$nextIndex])) {
                 // This level has no children, stop.
@@ -106,18 +106,22 @@ class AddressFormatValidator extends ConstraintValidator
             }
 
             $found = false;
-            foreach ($children as $child) {
-                if ($child->getId() == $values[$nextField]) {
-                    $found = true;
-                    $subdivisions[] = $child;
-                    break;
-                }
+            $nextValue = $values[$nextField];
+            if (isset($children[$nextValue])) {
+                $found = true;
+                $foundIds[] = $nextValue;
             }
 
             if (!$found) {
                 $this->context->addViolationAt('[' . $nextField . ']', $constraint->invalidMessage, [], $values[$nextField]);
                 break;
             }
+        }
+
+        // Load the found subdivision ids.
+        $subdivisions = [];
+        foreach ($foundIds as $id) {
+            $subdivisions[] = $dataProvider->getSubdivision($id);
         }
 
         return $subdivisions;
