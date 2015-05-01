@@ -18,6 +18,16 @@ class CountryValidator extends ConstraintValidator
     protected $dataProvider;
 
     /**
+     * Creates a CountryValidator instance.
+     *
+     * @param DataProviderInterface $dataProvider
+     */
+    public function __construct(DataProviderInterface $dataProvider = null)
+    {
+        $this->dataProvider = $dataProvider ? $dataProvider : new DataProvider();
+    }
+
+    /**
      * {@inheritdoc}
      */
     public function validate($value, Constraint $constraint)
@@ -30,8 +40,7 @@ class CountryValidator extends ConstraintValidator
             throw new UnexpectedTypeException($value, 'string');
         }
 
-        $dataProvider = $this->getDataProvider();
-        $countries = $dataProvider->getCountryNames();
+        $countries = $this->dataProvider->getCountryNames();
         $value = (string) $value;
 
         if (!isset($countries[$value])) {
@@ -39,29 +48,5 @@ class CountryValidator extends ConstraintValidator
                 '{{ value }}' => $this->formatValue($value),
             ]);
         }
-    }
-
-    /**
-     * Gets the data provider.
-     *
-     * @return DataProviderInterface The data provider.
-     */
-    public function getDataProvider()
-    {
-        if (!$this->dataProvider) {
-            $this->dataProvider = new DataProvider();
-        }
-
-        return $this->dataProvider;
-    }
-
-    /**
-     * Sets the data provider.
-     *
-     * @param DataProviderInterface $dataProvider The data provider.
-     */
-    public function setDataProvider(DataProviderInterface $dataProvider)
-    {
-        $this->dataProvider = $dataProvider;
     }
 }

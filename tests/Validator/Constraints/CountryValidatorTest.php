@@ -51,6 +51,8 @@ class CountryValidatorTest extends AbstractConstraintValidatorTest
 
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\CountryValidator
+     * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
+     * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
      */
     public function testEmptyIsValid()
     {
@@ -63,6 +65,8 @@ class CountryValidatorTest extends AbstractConstraintValidatorTest
 
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\CountryValidator
+     * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
+     * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
      * @expectedException \Symfony\Component\Validator\Exception\UnexpectedTypeException
      */
     public function testInvalidValueType()
@@ -105,25 +109,5 @@ class CountryValidatorTest extends AbstractConstraintValidatorTest
             ['AT'],
             ['MY'],
         ];
-    }
-
-    /**
-     * @covers ::getDataProvider
-     * @covers ::setDataProvider
-     * @uses \CommerceGuys\Addressing\Provider\DataProvider
-     * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
-     * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
-     */
-    public function testDataProvider()
-    {
-        $this->assertInstanceOf('CommerceGuys\Addressing\Provider\DataProvider', $this->validator->getDataProvider());
-
-        // Replace the data provider with a mock.
-        $dataProvider = $this
-            ->getMockBuilder('CommerceGuys\Addressing\Provider\DataProvider')
-            ->disableOriginalConstructor()
-            ->getMock();
-        $this->validator->setDataProvider($dataProvider);
-        $this->assertEquals($dataProvider, $this->validator->getDataProvider());
     }
 }

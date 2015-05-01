@@ -61,6 +61,8 @@ class AddressFormatValidatorTest extends AbstractConstraintValidatorTest
 
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatValidator
+     * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
+     * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
      * @expectedException \Symfony\Component\Validator\Exception\UnexpectedTypeException
      */
     public function testInvalidValueType()
@@ -70,6 +72,8 @@ class AddressFormatValidatorTest extends AbstractConstraintValidatorTest
 
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatValidator
+     * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
+     * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
      * @uses \CommerceGuys\Addressing\Model\Address
      */
     public function testEmptyIsValid()
@@ -475,26 +479,5 @@ class AddressFormatValidatorTest extends AbstractConstraintValidatorTest
         $this->buildViolation($this->constraint->blankMessage)
             ->atPath('[sortingCode]')
             ->assertRaised();
-    }
-
-    /**
-     * @covers ::getDataProvider
-     * @covers ::setDataProvider
-     * @uses \CommerceGuys\Addressing\Provider\DataProvider
-     * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
-     * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
-     */
-    public function testDataProvider()
-    {
-        $addressFormatValidator = new AddressFormatValidator();
-        $this->assertInstanceOf('CommerceGuys\Addressing\Provider\DataProvider', $addressFormatValidator->getDataProvider());
-
-        // Replace the data provider with a mock.
-        $dataProvider = $this
-            ->getMockBuilder('CommerceGuys\Addressing\Provider\DataProvider')
-            ->disableOriginalConstructor()
-            ->getMock();
-        $addressFormatValidator->setDataProvider($dataProvider);
-        $this->assertEquals($dataProvider, $addressFormatValidator->getDataProvider());
     }
 }

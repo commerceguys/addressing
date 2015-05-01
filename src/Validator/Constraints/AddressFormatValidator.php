@@ -22,6 +22,16 @@ class AddressFormatValidator extends ConstraintValidator
     protected $dataProvider;
 
     /**
+     * Creates an AddressFormatValidator instance.
+     *
+     * @param DataProviderInterface $dataProvider
+     */
+    public function __construct(DataProviderInterface $dataProvider = null)
+    {
+        $this->dataProvider = $dataProvider ? $dataProvider : new DataProvider();
+    }
+
+    /**
      * {@inheritDoc}
      */
     public function validate($value, Constraint $constraint)
@@ -37,8 +47,7 @@ class AddressFormatValidator extends ConstraintValidator
         }
 
         $values = $this->extractAddressValues($address);
-        $dataProvider = $this->getDataProvider();
-        $addressFormat = $dataProvider->getAddressFormat($address->getCountryCode());
+        $addressFormat = $this->dataProvider->getAddressFormat($address->getCountryCode());
 
         $this->validateFields($values, $addressFormat, $constraint);
         $subdivisions = $this->validateSubdivisions($values, $addressFormat, $constraint);
@@ -82,7 +91,6 @@ class AddressFormatValidator extends ConstraintValidator
      */
     protected function validateSubdivisions($values, AddressFormatInterface $addressFormat, $constraint)
     {
-        $dataProvider = $this->getDataProvider();
         $countryCode = $addressFormat->getCountryCode();
         $subdivisionLevels = [
             'root',
@@ -93,7 +101,7 @@ class AddressFormatValidator extends ConstraintValidator
         $foundIds = [];
         foreach ($subdivisionLevels as $index => $field) {
             $parentId = ($field == 'root') ? 0 : $values[$field];
-            $children = $dataProvider->getSubdivisionList($countryCode, $parentId);
+            $children = $this->dataProvider->getSubdivisionList($countryCode, $parentId);
             $nextIndex = $index + 1;
             if (!$children || !isset($subdivisionLevels[$nextIndex])) {
                 // This level has no children, stop.
@@ -121,7 +129,7 @@ class AddressFormatValidator extends ConstraintValidator
         // Load the found subdivision ids.
         $subdivisions = [];
         foreach ($foundIds as $id) {
-            $subdivisions[] = $dataProvider->getSubdivision($id);
+            $subdivisions[] = $this->dataProvider->getSubdivision($id);
         }
 
         return $subdivisions;
@@ -194,29 +202,5 @@ class AddressFormatValidator extends ConstraintValidator
         }
 
         return $values;
-    }
-
-    /**
-     * Gets the data provider.
-     *
-     * @return DataProviderInterface The data provider.
-     */
-    public function getDataProvider()
-    {
-        if (!$this->dataProvider) {
-            $this->dataProvider = new DataProvider();
-        }
-
-        return $this->dataProvider;
-    }
-
-    /**
-     * Sets the data provider.
-     *
-     * @param DataProviderInterface $dataProvider The data provider.
-     */
-    public function setDataProvider(DataProviderInterface $dataProvider)
-    {
-        $this->dataProvider = $dataProvider;
     }
 }
