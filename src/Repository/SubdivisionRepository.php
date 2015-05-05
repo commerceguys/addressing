@@ -117,18 +117,20 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
      */
     protected function loadDefinitions($countryCode, $parentId = null)
     {
-        if (!isset($this->definitions[$countryCode][$parentId])) {
-            $filename = $parentId ? $parentId . '.json' : $countryCode . '.json';
-            $rawDefinition = @file_get_contents($this->definitionPath . $filename);
-            if ($rawDefinition) {
-                $this->definitions[$countryCode][$parentId] = json_decode($rawDefinition, true);
+        // Treat the country code as the parent id on the top level.
+        $parentId = $parentId ?: $countryCode;
+
+        if (!isset($this->definitions[$parentId])) {
+            $filename = $this->definitionPath . $parentId . '.json';
+            if ($rawDefinition = @file_get_contents($filename)) {
+                $this->definitions[$parentId] = json_decode($rawDefinition, true);
             } else {
                 // Bypass further loading attempts.
-                $this->definitions[$countryCode][$parentId] = [];
+                $this->definitions[$parentId] = [];
             }
         }
 
-        return $this->definitions[$countryCode][$parentId];
+        return $this->definitions[$parentId];
     }
 
     /**
