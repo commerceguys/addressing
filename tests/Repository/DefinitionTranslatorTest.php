@@ -46,6 +46,7 @@ class DefinitionTranslatorTest extends \PHPUnit_Framework_TestCase
 
     /**
      * @covers ::translateDefinition
+     * @covers ::getDefaultLocale
      * @covers ::getLocaleVariants
      */
     public function testInvalidLocale()

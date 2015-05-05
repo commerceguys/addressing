@@ -17,8 +17,10 @@ trait DefinitionTranslatorTrait
      */
     protected function translateDefinition(array $definition, $locale = null)
     {
+        // Use the default locale if none was provided.
+        $locale = $locale ?: $this->getDefaultLocale();
         if (is_null($locale) || empty($definition['translations'])) {
-            // No locale specified, or no translations found.
+            // No locale or no translations found.
             return $definition;
         }
 
@@ -42,7 +44,17 @@ trait DefinitionTranslatorTrait
     }
 
     /**
-     * Returns all variants of a locale.
+     * Gets the defaut locale.
+     *
+     * @return string The default locale.
+     */
+    protected function getDefaultLocale()
+    {
+        return null;
+    }
+
+    /**
+     * Gets all variants of a locale.
      *
      * For example, "bs-Cyrl-BA" has the following variants:
      * 1) bs-Cyrl-BA
