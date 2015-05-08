@@ -94,14 +94,14 @@ class PostalLabelFormatter extends DefaultFormatter implements PostalLabelFormat
         // Uppercase fields where required by the format.
         $uppercaseFields = $addressFormat->getUppercaseFields();
         foreach ($uppercaseFields as $uppercaseField) {
-            if (isset($view['%' . $uppercaseField])) {
-                $view['%' . $uppercaseField]['value'] = mb_strtoupper($view['%' . $uppercaseField]['value'], 'utf-8');
+            if (isset($view[$uppercaseField])) {
+                $view[$uppercaseField]['value'] = mb_strtoupper($view[$uppercaseField]['value'], 'utf-8');
             }
         }
         // Handle international mailing.
         if ($address->getCountryCode() != $this->originCountryCode) {
             // Prefix the postal code.
-            $field = '%' . AddressField::POSTAL_CODE;
+            $field = AddressField::POSTAL_CODE;
             if (isset($view[$field])) {
                 $view[$field]['value'] = $addressFormat->getPostalCodePrefix() . $view[$field]['value'];
             }

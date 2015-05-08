@@ -129,20 +129,22 @@ class DefaultFormatter implements FormatterInterface
         $countryCode = $address->getCountryCode();
         $addressFormat = $this->dataProvider->getAddressFormat($countryCode, $address->getLocale());
         $formatString = $addressFormat->getFormat();
+        // Add the country to the bottom or the top of the format string,
+        // depending on whether the format is minor-to-major or major-to-minor.
+        if (strpos($formatString, AddressField::ADDRESS_LINE1) < strpos($formatString, AddressField::ADDRESS_LINE2)) {
+            $formatString .= "\n" . '%country';
+        } else {
+            $formatString = '%country' . "\n" . $formatString;
+        }
 
         $view = $this->buildView($address, $addressFormat);
         $view = $this->renderView($view);
-        // Remove the rendered replacements from the view and place them
-        // into the format string.
+        // Insert the rendered elements into the format string.
         $replacements = [];
         foreach ($view as $key => $element) {
-            if (substr($key, 0, 1) == '%') {
-                $replacements[$key] = $element;
-                unset($view[$key]);
-            }
+            $replacements['%' . $key] = $element;
         }
-        $view['address'] = strtr($formatString, $replacements);
-        $output = implode("\n", $view);
+        $output = strtr($formatString, $replacements);
         $output = $this->cleanupOutput($output);
 
         if (!empty($this->options['html'])) {
@@ -168,42 +170,21 @@ class DefaultFormatter implements FormatterInterface
     protected function buildView(AddressInterface $address, AddressFormatInterface $addressFormat)
     {
         $values = $this->getValues($address);
-        // Filter out unused fields.
-        $usedFields = $addressFormat->getUsedFields();
-        $values = array_intersect_key($values, array_combine($usedFields, $usedFields));
-
-        $weight = 1;
-        $view = [
-            // Placeholder that receives the format string with the tokens
-            // replaced by the rendered '%' elements.
-            'address' => [
-                'value' => '',
-                'weight' => $weight++,
-            ],
-        ];
-        foreach ($values as $field => $value) {
-            // The constant is more suitable as a class than the value since
-            // it's snake_case and not camelCase.
-            $class = str_replace('_', '-', strtolower(AddressField::getKey($field)));
-            $view['%' . $field] = [
-                'html_tag' => 'span',
-                'html_attributes' => ['class' => $class],
-                'value' => $value,
-                'weight' => $weight++,
-            ];
-        }
-        // The localized country name.
+        $view = [];
         $view['country'] = [
             'html_tag' => 'span',
             'html_attributes' => ['class' => 'country'],
             'value' => $this->dataProvider->getCountryName($address->getCountryCode(), $this->locale),
-            'weight' => 50,
         ];
-        // Move the country element to the beginning of the array if the
-        // address format is major-to-minor.
-        $formatString = $addressFormat->getFormat();
-        if (strpos($formatString, AddressField::ADDRESS_LINE2) < strpos($formatString, AddressField::ADDRESS_LINE1)) {
-            $view['country']['weight'] = -50;
+        foreach ($addressFormat->getUsedFields() as $field) {
+            // The constant is more suitable as a class than the value since
+            // it's snake_case and not camelCase.
+            $class = str_replace('_', '-', strtolower(AddressField::getKey($field)));
+            $view[$field] = [
+                'html_tag' => 'span',
+                'html_attributes' => ['class' => $class],
+                'value' => $values[$field],
+            ];
         }
 
         return $view;
@@ -218,9 +199,6 @@ class DefaultFormatter implements FormatterInterface
      */
     protected function renderView(array $view)
     {
-        // Sort the elements by weight.
-        uasort($view, array(get_class($this), 'sortByWeight'));
-
         foreach ($view as $key => $element) {
             if (empty($element['value'])) {
                 $view[$key] = '';
@@ -258,21 +236,6 @@ class DefaultFormatter implements FormatterInterface
         }
 
         return implode(' ', $attributes);
-    }
-
-    /**
-     * uasort callback: Sorts the elements by the weight property.
-     */
-    public static function sortByWeight($a, $b)
-    {
-        $a_weight = (is_array($a) && isset($a['weight'])) ? $a['weight'] : 0;
-        $b_weight = (is_array($b) && isset($b['weight'])) ? $b['weight'] : 0;
-
-        if ($a_weight == $b_weight) {
-          return 0;
-        }
-
-        return ($a_weight < $b_weight) ? -1 : 1;
     }
 
     /**
