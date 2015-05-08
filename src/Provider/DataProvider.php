@@ -71,8 +71,8 @@ class DataProvider implements DataProviderInterface
     public function getCountryName($countryCode, $locale = null)
     {
         if ($this->countryRepository) {
-            $country = $this->countryRepository->get($countryCode, $locale);
-            $countryName = $country->getName();
+            $countryNames = $this->countryRepository->getList($locale);
+            $countryName = $countryNames[$countryCode];
         } else {
             $locale = $this->canonicalizeLocale($locale);
             $countryName = $this->regionBundle->getCountryName($countryCode, $locale);
@@ -87,11 +87,7 @@ class DataProvider implements DataProviderInterface
     public function getCountryNames($locale = null)
     {
         if ($this->countryRepository) {
-            $countries = $this->countryRepository->getAll($locale);
-            $countryNames = [];
-            foreach ($countries as $countryCode => $country) {
-                $countryNames[$countryCode] = $country->getName();
-            }
+            $countryNames = $this->countryRepository->getList($locale);
         } else {
             $locale = $this->canonicalizeLocale($locale);
             $countryNames = $this->regionBundle->getCountryNames($locale);
