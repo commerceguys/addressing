@@ -110,11 +110,6 @@ $addressFormatChanges = load_change_listing('address_format');
 $addressFormatChanges[] = generate_address_format_changes($previousAddressFormats, $addressFormats);
 file_put_json('address_format_changes.json', $addressFormatChanges);
 
-$previousSubdivisions = load_definitions('subdivision');
-$subdivisionChanges = load_change_listing('subdivision');
-$subdivisionChanges[] = generate_subdivision_changes($previousSubdivisions, $groupedSubdivisions);
-file_put_json('subdivision_changes.json', $subdivisionChanges);
-
 echo "Writing the final definitions to disk.\n";
 
 // Write the new definitions to disk.
@@ -478,42 +473,6 @@ function generate_address_format_changes($oldAddressFormats, $newAddressFormats)
             'compare_arrays'
         )),
     ];
-
-    return $changes;
-}
-
-/**
- * Generates the changes between two subdivision collections.
- */
-function generate_subdivision_changes($oldSubdivisions, $newSubdivisions)
-{
-    $changes = [
-        'date' => date('c'),
-        'added' => [],
-        'removed' => [],
-        'modified' => [],
-    ];
-    foreach ($newSubdivisions as $parentId => $subdivisions) {
-        if (!isset($oldSubdivisions[$parentId])) {
-            $added = array_keys($subdivisions);
-            $removed = [];
-            $modified = [];
-        } else {
-            $added = array_keys(array_diff_key($subdivisions, $oldSubdivisions[$parentId]));
-            $removed = array_keys(array_diff_key($oldSubdivisions[$parentId], $subdivisions));
-            $modified = array_keys(array_udiff_assoc(
-                // Compare only the values of common keys.
-                array_intersect_key($subdivisions, $oldSubdivisions[$parentId]),
-                array_intersect_key($oldSubdivisions[$parentId], $subdivisions),
-                'compare_arrays')
-            );
-        }
-
-        // Merge in the newest changes.
-        $changes['added'] = array_merge($changes['added'], $added);
-        $changes['removed'] = array_merge($changes['removed'], $removed);
-        $changes['modified'] = array_merge($changes['modified'], $modified);
-    }
 
     return $changes;
 }
