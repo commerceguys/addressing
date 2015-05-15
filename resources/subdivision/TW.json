@@ -154,12 +154,12 @@
         "country_code": "TW",
         "parent_id": null,
         "id": "TW-TAO",
-        "code": "桃園縣",
-        "name": "Taoyuan County",
+        "code": "桃園市",
+        "name": "Taoyuan City",
         "postal_code_pattern": "3[23]",
         "translations": {
             "zh-hant": {
-                "name": "桃園縣"
+                "name": "桃園市"
             }
         },
         "has_children": true

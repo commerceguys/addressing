@@ -224,17 +224,17 @@
         },
         "has_children": true
     },
-    "CN-71-840c64": {
+    "CN-71-a53a0e": {
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-71",
-        "id": "CN-71-840c64",
-        "code": "桃園縣",
-        "name": "Taoyuan County",
+        "id": "CN-71-a53a0e",
+        "code": "桃園市",
+        "name": "Taoyuan City",
         "postal_code_pattern": "3[23]",
         "translations": {
             "zh": {
-                "name": "桃園縣"
+                "name": "桃園市"
             }
         },
         "has_children": true

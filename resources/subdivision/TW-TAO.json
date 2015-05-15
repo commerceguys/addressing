@@ -1,183 +1,183 @@
 {
-    "TW-TAO-a404be": {
+    "TW-TAO-870149": {
         "locale": "zh-Latn",
         "country_code": "TW",
         "parent_id": "TW-TAO",
-        "id": "TW-TAO-a404be",
-        "code": "八德市",
-        "name": "Bade City",
+        "id": "TW-TAO-870149",
+        "code": "八德區",
+        "name": "Bade District",
         "postal_code_pattern": "334",
         "translations": {
             "zh-hant": {
-                "name": "八德市"
+                "name": "八德區"
             }
         }
     },
-    "TW-TAO-9904fe": {
+    "TW-TAO-9af3a1": {
         "locale": "zh-Latn",
         "country_code": "TW",
         "parent_id": "TW-TAO",
-        "id": "TW-TAO-9904fe",
-        "code": "大園鄉",
-        "name": "Dayuan Township",
+        "id": "TW-TAO-9af3a1",
+        "code": "大園區",
+        "name": "Dayuan District",
         "postal_code_pattern": "337",
         "translations": {
             "zh-hant": {
-                "name": "大園鄉"
+                "name": "大園區"
             }
         }
     },
-    "TW-TAO-375024": {
+    "TW-TAO-d6f211": {
         "locale": "zh-Latn",
         "country_code": "TW",
         "parent_id": "TW-TAO",
-        "id": "TW-TAO-375024",
-        "code": "大溪鎮",
-        "name": "Daxi Township",
+        "id": "TW-TAO-d6f211",
+        "code": "大溪區",
+        "name": "Daxi District",
         "postal_code_pattern": "335",
         "translations": {
             "zh-hant": {
-                "name": "大溪鎮"
+                "name": "大溪區"
             }
         }
     },
-    "TW-TAO-97bcbf": {
+    "TW-TAO-da1847": {
         "locale": "zh-Latn",
         "country_code": "TW",
         "parent_id": "TW-TAO",
-        "id": "TW-TAO-97bcbf",
-        "code": "中壢市",
-        "name": "Zhongli City",
+        "id": "TW-TAO-da1847",
+        "code": "中壢區",
+        "name": "Zhongli District",
         "postal_code_pattern": "320",
         "translations": {
             "zh-hant": {
-                "name": "中壢市"
+                "name": "中壢區"
             }
         }
     },
-    "TW-TAO-b053e4": {
+    "TW-TAO-9919b5": {
         "locale": "zh-Latn",
         "country_code": "TW",
         "parent_id": "TW-TAO",
-        "id": "TW-TAO-b053e4",
-        "code": "平鎮市",
-        "name": "Pingzhen City",
+        "id": "TW-TAO-9919b5",
+        "code": "平鎮區",
+        "name": "Pingzhen District",
         "postal_code_pattern": "324",
         "translations": {
             "zh-hant": {
-                "name": "平鎮市"
+                "name": "平鎮區"
             }
         }
     },
-    "TW-TAO-8b7c60": {
+    "TW-TAO-73bd19": {
         "locale": "zh-Latn",
         "country_code": "TW",
         "parent_id": "TW-TAO",
-        "id": "TW-TAO-8b7c60",
-        "code": "桃園市",
-        "name": "Taoyuan City",
+        "id": "TW-TAO-73bd19",
+        "code": "桃園區",
+        "name": "Taoyuan District",
         "postal_code_pattern": "330",
         "translations": {
             "zh-hant": {
-                "name": "桃園市"
+                "name": "桃園區"
             }
         }
     },
-    "TW-TAO-439ebe": {
+    "TW-TAO-189ffe": {
         "locale": "zh-Latn",
         "country_code": "TW",
         "parent_id": "TW-TAO",
-        "id": "TW-TAO-439ebe",
-        "code": "復興鄉",
-        "name": "Fuxing Township",
+        "id": "TW-TAO-189ffe",
+        "code": "復興區",
+        "name": "Fuxing District",
         "postal_code_pattern": "336",
         "translations": {
             "zh-hant": {
-                "name": "復興鄉"
+                "name": "復興區"
             }
         }
     },
-    "TW-TAO-db874e": {
+    "TW-TAO-e617b9": {
         "locale": "zh-Latn",
         "country_code": "TW",
         "parent_id": "TW-TAO",
-        "id": "TW-TAO-db874e",
-        "code": "新屋鄉",
-        "name": "Xinwu Township",
+        "id": "TW-TAO-e617b9",
+        "code": "新屋區",
+        "name": "Xinwu District",
         "postal_code_pattern": "327",
         "translations": {
             "zh-hant": {
-                "name": "新屋鄉"
+                "name": "新屋區"
             }
         }
     },
-    "TW-TAO-b04951": {
+    "TW-TAO-9ceae1": {
         "locale": "zh-Latn",
         "country_code": "TW",
         "parent_id": "TW-TAO",
-        "id": "TW-TAO-b04951",
-        "code": "楊梅市",
-        "name": "Yangmei City",
+        "id": "TW-TAO-9ceae1",
+        "code": "楊梅區",
+        "name": "Yangmei District",
         "postal_code_pattern": "326",
         "translations": {
             "zh-hant": {
-                "name": "楊梅市"
+                "name": "楊梅區"
             }
         }
     },
-    "TW-TAO-a67ee9": {
+    "TW-TAO-c7d8b4": {
         "locale": "zh-Latn",
         "country_code": "TW",
         "parent_id": "TW-TAO",
-        "id": "TW-TAO-a67ee9",
-        "code": "龍潭鄉",
-        "name": "Longtan Township",
+        "id": "TW-TAO-c7d8b4",
+        "code": "龍潭區",
+        "name": "Longtan District",
         "postal_code_pattern": "325",
         "translations": {
             "zh-hant": {
-                "name": "龍潭鄉"
+                "name": "龍潭區"
             }
         }
     },
-    "TW-TAO-999975": {
+    "TW-TAO-04e2d0": {
         "locale": "zh-Latn",
         "country_code": "TW",
         "parent_id": "TW-TAO",
-        "id": "TW-TAO-999975",
-        "code": "龜山鄉",
-        "name": "Guishan Township",
+        "id": "TW-TAO-04e2d0",
+        "code": "龜山區",
+        "name": "Guishan District",
         "postal_code_pattern": "333",
         "translations": {
             "zh-hant": {
-                "name": "龜山鄉"
+                "name": "龜山區"
             }
         }
     },
-    "TW-TAO-380887": {
+    "TW-TAO-6e135d": {
         "locale": "zh-Latn",
         "country_code": "TW",
         "parent_id": "TW-TAO",
-        "id": "TW-TAO-380887",
-        "code": "蘆竹鄉",
-        "name": "Luzhu Township",
+        "id": "TW-TAO-6e135d",
+        "code": "蘆竹區",
+        "name": "Luzhu District",
         "postal_code_pattern": "338",
         "translations": {
             "zh-hant": {
-                "name": "蘆竹鄉"
+                "name": "蘆竹區"
             }
         }
     },
-    "TW-TAO-621f64": {
+    "TW-TAO-aa0316": {
         "locale": "zh-Latn",
         "country_code": "TW",
         "parent_id": "TW-TAO",
-        "id": "TW-TAO-621f64",
-        "code": "觀音鄉",
-        "name": "Guanyin Township",
+        "id": "TW-TAO-aa0316",
+        "code": "觀音區",
+        "name": "Guanyin District",
         "postal_code_pattern": "328",
         "translations": {
             "zh-hant": {
-                "name": "觀音鄉"
+                "name": "觀音區"
             }
         }
     }
