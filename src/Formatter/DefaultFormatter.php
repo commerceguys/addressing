@@ -5,7 +5,9 @@ namespace CommerceGuys\Addressing\Formatter;
 use CommerceGuys\Addressing\Enum\AddressField;
 use CommerceGuys\Addressing\Model\AddressInterface;
 use CommerceGuys\Addressing\Model\AddressFormatInterface;
-use CommerceGuys\Addressing\Provider\DataProviderInterface;
+use CommerceGuys\Addressing\Repository\AddressFormatRepositoryInterface;
+use CommerceGuys\Addressing\Repository\CountryRepositoryInterface;
+use CommerceGuys\Addressing\Repository\SubdivisionRepositoryInterface;
 
 /**
  * Formats an address for display.
@@ -15,6 +17,27 @@ use CommerceGuys\Addressing\Provider\DataProviderInterface;
  */
 class DefaultFormatter implements FormatterInterface
 {
+    /**
+     * The address format repository.
+     *
+     * @var AddressFormatRepositoryInterface
+     */
+    protected $addressFormatRepository;
+
+    /**
+     * The country repository.
+     *
+     * @var CountryRepositoryInterface
+     */
+    protected $countryRepository;
+
+    /**
+     * The subdivision repository.
+     *
+     * @var SubdivisionRepositoryInterface
+     */
+    protected $subdivisionRepository;
+
     /**
      * The locale.
      *
@@ -30,22 +53,19 @@ class DefaultFormatter implements FormatterInterface
     protected $options = [];
 
     /**
-     * The data provider.
+     * Creates a DefaultFormatter instance.
      *
-     * @var DataProviderInterface
+     * @param AddressFormatRepositoryInterface $addressFormatRepository
+     * @param CountryRepositoryInterface       $countryRepository
+     * @param SubdivisionRepositoryInterface   $subdivisionRepository
+     * @param string                           $locale
+     * @param array                            $options
      */
-    protected $dataProvider;
-
-    /**
-     * Creates a FormatterBase instance.
-     *
-     * @param DataProviderInterface $dataProvider The data provider.
-     * @param string                $locale       The current locale.
-     * @param array                 $options      The options.
-     */
-    public function __construct(DataProviderInterface $dataProvider, $locale = null, array $options = [])
+    public function __construct(AddressFormatRepositoryInterface $addressFormatRepository, CountryRepositoryInterface $countryRepository, SubdivisionRepositoryInterface $subdivisionRepository, $locale = null, array $options = [])
     {
-        $this->dataProvider = $dataProvider;
+        $this->addressFormatRepository = $addressFormatRepository;
+        $this->countryRepository = $countryRepository;
+        $this->subdivisionRepository = $subdivisionRepository;
         $this->locale = $locale;
         $this->setOptions($options);
     }
@@ -127,7 +147,7 @@ class DefaultFormatter implements FormatterInterface
     public function format(AddressInterface $address)
     {
         $countryCode = $address->getCountryCode();
-        $addressFormat = $this->dataProvider->getAddressFormat($countryCode, $address->getLocale());
+        $addressFormat = $this->addressFormatRepository->get($countryCode, $address->getLocale());
         $formatString = $addressFormat->getFormat();
         // Add the country to the bottom or the top of the format string,
         // depending on whether the format is minor-to-major or major-to-minor.
@@ -169,12 +189,13 @@ class DefaultFormatter implements FormatterInterface
      */
     protected function buildView(AddressInterface $address, AddressFormatInterface $addressFormat)
     {
+        $countries = $this->countryRepository->getList($this->locale);
         $values = $this->getValues($address);
         $view = [];
         $view['country'] = [
             'html_tag' => 'span',
             'html_attributes' => ['class' => 'country'],
-            'value' => $this->dataProvider->getCountryName($address->getCountryCode(), $this->locale),
+            'value' => $countries[$address->getCountryCode()],
         ];
         foreach ($addressFormat->getUsedFields() as $field) {
             // The constant is more suitable as a class than the value since
@@ -285,7 +306,7 @@ class DefaultFormatter implements FormatterInterface
                 // This level is empty, so there can be no sublevels.
                 break;
             }
-            $subdivision = $this->dataProvider->getSubdivision($values[$field], $address->getLocale());
+            $subdivision = $this->subdivisionRepository->get($values[$field], $address->getLocale());
             if (!$subdivision) {
                 // This level has no predefined subdivisions, stop.
                 break;

@@ -8,7 +8,8 @@ use CommerceGuys\Addressing\Enum\DependentLocalityType;
 use CommerceGuys\Addressing\Enum\LocalityType;
 use CommerceGuys\Addressing\Enum\PostalCodeType;
 use CommerceGuys\Addressing\Model\AddressFormatInterface;
-use CommerceGuys\Addressing\Provider\DataProviderInterface;
+use CommerceGuys\Addressing\Repository\AddressFormatRepositoryInterface;
+use CommerceGuys\Addressing\Repository\SubdivisionRepositoryInterface;
 use Symfony\Component\Form\FormEvent;
 use Symfony\Component\Form\FormEvents;
 use Symfony\Component\EventDispatcher\EventSubscriberInterface;
@@ -16,20 +17,29 @@ use Symfony\Component\EventDispatcher\EventSubscriberInterface;
 class GenerateAddressFieldsSubscriber implements EventSubscriberInterface
 {
     /**
-     * The data provider.
+     * The address format repository.
      *
-     * @var DataProviderInterface
+     * @var AddressFormatRepositoryInterface
      */
-    protected $dataProvider;
+    protected $addressFormatRepository;
+
+    /**
+     * The subdivision repository.
+     *
+     * @var SubdivisionRepositoryInterface
+     */
+    protected $subdivisionRepository;
 
     /**
      * Creates a GenerateAddressFieldsSubscriber instance.
      *
-     * @param DataProviderInterface $dataProvider The data provider.
+     * @param AddressFormatRepositoryInterface $addressFormatRepository
+     * @param SubdivisionRepositoryInterface   $subdivisionRepository
      */
-    public function __construct(DataProviderInterface $dataProvider)
+    public function __construct(AddressFormatRepositoryInterface $addressFormatRepository, SubdivisionRepositoryInterface $subdivisionRepository)
     {
-        $this->dataProvider = $dataProvider;
+        $this->addressFormatRepository = $addressFormatRepository;
+        $this->subdivisionRepository = $subdivisionRepository;
     }
 
     /**
@@ -78,7 +88,7 @@ class GenerateAddressFieldsSubscriber implements EventSubscriberInterface
      */
     protected function buildForm($form, $countryCode, $administrativeArea, $locality)
     {
-        $addressFormat = $this->dataProvider->getAddressFormat($countryCode);
+        $addressFormat = $this->addressFormatRepository->get($countryCode);
         // A list of needed subdivisions and their parent ids.
         $subdivisions = [
             AddressField::ADMINISTRATIVE_AREA => 0,
@@ -124,7 +134,7 @@ class GenerateAddressFieldsSubscriber implements EventSubscriberInterface
         // Add choices for predefined subdivisions.
         foreach ($subdivisions as $field => $parentId) {
             // @todo Pass the form locale to get the translated values.
-            $children = $this->dataProvider->getSubdivisionList($addressFormat->getCountryCode(), $parentId);
+            $children = $this->subdivisionRepository->getList($addressFormat->getCountryCode(), $parentId);
             if ($children) {
                 $fields[$field]['choices'] = $children;
             }

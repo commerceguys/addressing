@@ -6,8 +6,10 @@ use CommerceGuys\Addressing\Enum\AddressField;
 use CommerceGuys\Addressing\Enum\PatternType;
 use CommerceGuys\Addressing\Model\AddressInterface;
 use CommerceGuys\Addressing\Model\AddressFormatInterface;
-use CommerceGuys\Addressing\Provider\DataProvider;
-use CommerceGuys\Addressing\Provider\DataProviderInterface;
+use CommerceGuys\Addressing\Repository\AddressFormatRepository;
+use CommerceGuys\Addressing\Repository\AddressFormatRepositoryInterface;
+use CommerceGuys\Addressing\Repository\SubdivisionRepository;
+use CommerceGuys\Addressing\Repository\SubdivisionRepositoryInterface;
 use Symfony\Component\Validator\Constraint;
 use Symfony\Component\Validator\ConstraintValidator;
 use Symfony\Component\Validator\Exception\UnexpectedTypeException;
@@ -15,20 +17,29 @@ use Symfony\Component\Validator\Exception\UnexpectedTypeException;
 class AddressFormatValidator extends ConstraintValidator
 {
     /**
-     * The data provider.
+     * The address format repository.
      *
-     * @var DataProviderInterface
+     * @var AddressFormatRepositoryInterface
      */
-    protected $dataProvider;
+    protected $addressFormatRepository;
+
+    /**
+     * The subdivision repository.
+     *
+     * @var SubdivisionRepositoryInterface
+     */
+    protected $subdivisionRepository;
 
     /**
      * Creates an AddressFormatValidator instance.
      *
-     * @param DataProviderInterface $dataProvider
+     * @param AddressFormatRepositoryInterface $addressFormatRepository
+     * @param SubdivisionRepositoryInterface   $subdivisionRepository
      */
-    public function __construct(DataProviderInterface $dataProvider = null)
+    public function __construct(AddressFormatRepositoryInterface $addressFormatRepository = null, SubdivisionRepositoryInterface $subdivisionRepository = null)
     {
-        $this->dataProvider = $dataProvider ? $dataProvider : new DataProvider();
+        $this->addressFormatRepository = $addressFormatRepository ?: new AddressFormatRepository();
+        $this->subdivisionRepository = $subdivisionRepository ?: new SubdivisionRepository();
     }
 
     /**
@@ -47,7 +58,7 @@ class AddressFormatValidator extends ConstraintValidator
         }
 
         $values = $this->extractAddressValues($address);
-        $addressFormat = $this->dataProvider->getAddressFormat($address->getCountryCode());
+        $addressFormat = $this->addressFormatRepository->get($address->getCountryCode());
 
         $this->validateFields($values, $addressFormat, $constraint);
         $subdivisions = $this->validateSubdivisions($values, $addressFormat, $constraint);
@@ -101,7 +112,7 @@ class AddressFormatValidator extends ConstraintValidator
         $foundIds = [];
         foreach ($subdivisionLevels as $index => $field) {
             $parentId = ($field == 'root') ? 0 : $values[$field];
-            $children = $this->dataProvider->getSubdivisionList($countryCode, $parentId);
+            $children = $this->subdivisionRepository->getList($countryCode, $parentId);
             $nextIndex = $index + 1;
             if (!$children || !isset($subdivisionLevels[$nextIndex])) {
                 // This level has no children, stop.
@@ -129,7 +140,7 @@ class AddressFormatValidator extends ConstraintValidator
         // Load the found subdivision ids.
         $subdivisions = [];
         foreach ($foundIds as $id) {
-            $subdivisions[] = $this->dataProvider->getSubdivision($id);
+            $subdivisions[] = $this->subdivisionRepository->get($id);
         }
 
         return $subdivisions;

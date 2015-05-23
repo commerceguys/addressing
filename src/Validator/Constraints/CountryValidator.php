@@ -2,8 +2,8 @@
 
 namespace CommerceGuys\Addressing\Validator\Constraints;
 
-use CommerceGuys\Addressing\Provider\DataProvider;
-use CommerceGuys\Addressing\Provider\DataProviderInterface;
+use CommerceGuys\Addressing\Repository\CountryRepository;
+use CommerceGuys\Addressing\Repository\CountryRepositoryInterface;
 use Symfony\Component\Validator\Constraint;
 use Symfony\Component\Validator\ConstraintValidator;
 use Symfony\Component\Validator\Exception\UnexpectedTypeException;
@@ -11,20 +11,20 @@ use Symfony\Component\Validator\Exception\UnexpectedTypeException;
 class CountryValidator extends ConstraintValidator
 {
     /**
-     * The data provider.
+     * The country repository.
      *
-     * @var DataProviderInterface
+     * @var CountryRepositoryInterface
      */
-    protected $dataProvider;
+    protected $countryRepository;
 
     /**
      * Creates a CountryValidator instance.
      *
-     * @param DataProviderInterface $dataProvider
+     * @param CountryRepositoryInterface $countryRepository
      */
-    public function __construct(DataProviderInterface $dataProvider = null)
+    public function __construct(CountryRepositoryInterface $countryRepository = null)
     {
-        $this->dataProvider = $dataProvider ? $dataProvider : new DataProvider();
+        $this->countryRepository = $countryRepository ?: new CountryRepository();
     }
 
     /**
@@ -40,7 +40,7 @@ class CountryValidator extends ConstraintValidator
             throw new UnexpectedTypeException($value, 'string');
         }
 
-        $countries = $this->dataProvider->getCountryNames();
+        $countries = $this->countryRepository->getList();
         $value = (string) $value;
 
         if (!isset($countries[$value])) {

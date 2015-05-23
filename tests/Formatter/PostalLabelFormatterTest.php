@@ -4,7 +4,9 @@ namespace CommerceGuys\Addressing\Tests\Formatter;
 
 use CommerceGuys\Addressing\Model\Address;
 use CommerceGuys\Addressing\Formatter\PostalLabelFormatter;
-use CommerceGuys\Addressing\Provider\DataProvider;
+use CommerceGuys\Addressing\Repository\AddressFormatRepository;
+use CommerceGuys\Addressing\Repository\CountryRepository;
+use CommerceGuys\Addressing\Repository\SubdivisionRepository;
 
 /**
  * @coversDefaultClass \CommerceGuys\Addressing\Formatter\PostalLabelFormatter
@@ -12,11 +14,25 @@ use CommerceGuys\Addressing\Provider\DataProvider;
 class PostalLabelFormatterTest extends \PHPUnit_Framework_TestCase
 {
     /**
-     * The data provider.
+     * The address format repository.
      *
-     * @var DataProvider
+     * @var AddressFormatRepositoryInterface
      */
-    protected $dataProvider;
+    protected $addressFormatRepository;
+
+    /**
+     * The country repository.
+     *
+     * @var CountryRepositoryInterface
+     */
+    protected $countryRepository;
+
+    /**
+     * The subdivision repository.
+     *
+     * @var SubdivisionRepositoryInterface
+     */
+    protected $subdivisionRepository;
 
     /**
      * The formatter.
@@ -30,8 +46,10 @@ class PostalLabelFormatterTest extends \PHPUnit_Framework_TestCase
      */
     public function setUp()
     {
-        $this->dataProvider = new DataProvider();
-        $this->formatter = new PostalLabelFormatter($this->dataProvider);
+        $this->addressFormatRepository = new AddressFormatRepository();
+        $this->countryRepository = new CountryRepository();
+        $this->subdivisionRepository = new SubdivisionRepository();
+        $this->formatter = new PostalLabelFormatter($this->addressFormatRepository, $this->countryRepository, $this->subdivisionRepository);
     }
 
     /**
@@ -41,8 +59,8 @@ class PostalLabelFormatterTest extends \PHPUnit_Framework_TestCase
      * @uses \CommerceGuys\Addressing\Formatter\PostalLabelFormatter::getDefaultOptions
      * @uses \CommerceGuys\Addressing\Formatter\DefaultFormatter
      * @uses \CommerceGuys\Addressing\Model\Address
-     * @uses \CommerceGuys\Addressing\Provider\DataProvider
      * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
+     * @uses \CommerceGuys\Addressing\Repository\CountryRepository
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
      * @expectedException \RuntimeException
      */
@@ -59,8 +77,8 @@ class PostalLabelFormatterTest extends \PHPUnit_Framework_TestCase
      * @uses \CommerceGuys\Addressing\Formatter\PostalLabelFormatter::__construct
      * @uses \CommerceGuys\Addressing\Formatter\PostalLabelFormatter::getDefaultOptions
      * @uses \CommerceGuys\Addressing\Formatter\DefaultFormatter
-     * @uses \CommerceGuys\Addressing\Provider\DataProvider
      * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
+     * @uses \CommerceGuys\Addressing\Repository\CountryRepository
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
      */
     public function testOriginCountryCode()
@@ -77,8 +95,8 @@ class PostalLabelFormatterTest extends \PHPUnit_Framework_TestCase
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
      * @uses \CommerceGuys\Addressing\Model\FormatStringTrait
      * @uses \CommerceGuys\Addressing\Model\Subdivision
-     * @uses \CommerceGuys\Addressing\Provider\DataProvider
      * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
+     * @uses \CommerceGuys\Addressing\Repository\CountryRepository
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
      * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      */
@@ -101,8 +119,8 @@ class PostalLabelFormatterTest extends \PHPUnit_Framework_TestCase
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
      * @uses \CommerceGuys\Addressing\Model\FormatStringTrait
      * @uses \CommerceGuys\Addressing\Model\Subdivision
-     * @uses \CommerceGuys\Addressing\Provider\DataProvider
      * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
+     * @uses \CommerceGuys\Addressing\Repository\CountryRepository
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
      * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      */
@@ -140,15 +158,15 @@ class PostalLabelFormatterTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers \CommerceGuys\Addressing\Formatter\PostalLabelFormatter
      *
-     * @uses   \CommerceGuys\Addressing\Formatter\DefaultFormatter
-     * @uses   \CommerceGuys\Addressing\Model\Address
-     * @uses   \CommerceGuys\Addressing\Model\AddressFormat
-     * @uses   \CommerceGuys\Addressing\Model\FormatStringTrait
-     * @uses   \CommerceGuys\Addressing\Model\Subdivision
-     * @uses   \CommerceGuys\Addressing\Provider\DataProvider
-     * @uses   \CommerceGuys\Addressing\Repository\AddressFormatRepository
-     * @uses   \CommerceGuys\Addressing\Repository\SubdivisionRepository
-     * @uses   \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
+     * @uses \CommerceGuys\Addressing\Formatter\DefaultFormatter
+     * @uses \CommerceGuys\Addressing\Model\Address
+     * @uses \CommerceGuys\Addressing\Model\AddressFormat
+     * @uses \CommerceGuys\Addressing\Model\FormatStringTrait
+     * @uses \CommerceGuys\Addressing\Model\Subdivision
+     * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
+     * @uses \CommerceGuys\Addressing\Repository\CountryRepository
+     * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
+     * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      */
     public function testJapanAddressShippedFromFrance()
     {
@@ -184,8 +202,8 @@ class PostalLabelFormatterTest extends \PHPUnit_Framework_TestCase
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
      * @uses \CommerceGuys\Addressing\Model\FormatStringTrait
      * @uses \CommerceGuys\Addressing\Model\Subdivision
-     * @uses \CommerceGuys\Addressing\Provider\DataProvider
      * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
+     * @uses \CommerceGuys\Addressing\Repository\CountryRepository
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
      * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      */

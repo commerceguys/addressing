@@ -52,8 +52,7 @@ class CountryValidatorTest extends AbstractConstraintValidatorTest
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\CountryValidator
      *
-     * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
-     * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
+     * @uses \CommerceGuys\Addressing\Repository\CountryRepository
      */
     public function testEmptyIsValid()
     {
@@ -67,8 +66,7 @@ class CountryValidatorTest extends AbstractConstraintValidatorTest
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\CountryValidator
      *
-     * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
-     * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
+     * @uses \CommerceGuys\Addressing\Repository\CountryRepository
      * @expectedException \Symfony\Component\Validator\Exception\UnexpectedTypeException
      */
     public function testInvalidValueType()
@@ -79,9 +77,7 @@ class CountryValidatorTest extends AbstractConstraintValidatorTest
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\CountryValidator
      *
-     * @uses \CommerceGuys\Addressing\Provider\DataProvider
-     * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
-     * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
+     * @uses \CommerceGuys\Addressing\Repository\CountryRepository
      */
     public function testInvalidCountry()
     {
@@ -95,9 +91,7 @@ class CountryValidatorTest extends AbstractConstraintValidatorTest
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\CountryValidator
      *
-     * @uses \CommerceGuys\Addressing\Provider\DataProvider
-     * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
-     * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
+     * @uses \CommerceGuys\Addressing\Repository\CountryRepository
      * @dataProvider getValidCountries
      */
     public function testValidCountries($country)

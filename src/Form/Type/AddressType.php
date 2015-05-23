@@ -3,7 +3,9 @@
 namespace CommerceGuys\Addressing\Form\Type;
 
 use CommerceGuys\Addressing\Form\EventListener\GenerateAddressFieldsSubscriber;
-use CommerceGuys\Addressing\Provider\DataProviderInterface;
+use CommerceGuys\Addressing\Repository\AddressFormatRepositoryInterface;
+use CommerceGuys\Addressing\Repository\CountryRepositoryInterface;
+use CommerceGuys\Addressing\Repository\SubdivisionRepositoryInterface;
 use Symfony\Component\Form\AbstractType;
 use Symfony\Component\Form\FormBuilderInterface;
 use Symfony\Component\OptionsResolver\OptionsResolverInterface;
@@ -11,29 +13,47 @@ use Symfony\Component\OptionsResolver\OptionsResolverInterface;
 class AddressType extends AbstractType
 {
     /**
-     * The data provider.
+     * The address format repository.
      *
-     * @var DataProviderInterface
+     * @var AddressFormatRepositoryInterface
      */
-    protected $dataProvider;
+    protected $addressFormatRepository;
+
+    /**
+     * The country repository.
+     *
+     * @var CountryRepositoryInterface
+     */
+    protected $countryRepository;
+
+    /**
+     * The subdivision repository.
+     *
+     * @var SubdivisionRepositoryInterface
+     */
+    protected $subdivisionRepository;
 
     /**
      * Creates an AddressType instance.
      *
-     * @param DataProviderInterface $dataProvider The data provider.
+     * @param AddressFormatRepositoryInterface $addressFormatRepository
+     * @param CountryRepositoryInterface       $countryRepository
+     * @param SubdivisionRepositoryInterface   $subdivisionRepository
      */
-    public function __construct(DataProviderInterface $dataProvider)
+    public function __construct(AddressFormatRepositoryInterface $addressFormatRepository, CountryRepositoryInterface $countryRepository, SubdivisionRepositoryInterface $subdivisionRepository)
     {
-        $this->dataProvider = $dataProvider;
+        $this->addressFormatRepository = $addressFormatRepository;
+        $this->countryRepository = $countryRepository;
+        $this->subdivisionRepository = $subdivisionRepository;
     }
 
     public function buildForm(FormBuilderInterface $builder, array $options)
     {
         $builder->add('countryCode', 'choice', [
-            'choices' => $this->dataProvider->getCountryNames(),
+            'choices' => $this->countryRepository->getList(),
             'required' => true,
         ]);
-        $builder->addEventSubscriber(new GenerateAddressFieldsSubscriber($this->dataProvider));
+        $builder->addEventSubscriber(new GenerateAddressFieldsSubscriber($this->addressFormatRepository, $this->subdivisionRepository));
     }
 
     public function setDefaultOptions(OptionsResolverInterface $resolver)

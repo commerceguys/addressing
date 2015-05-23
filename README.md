@@ -89,10 +89,14 @@ Formats an address for display, always adds the localized country name.
 
 ```php
 use CommerceGuys\Addressing\Formatter\DefaultFormatter;
-use CommerceGuys\Addressing\Provider\DataProvider;
+use CommerceGuys\Addressing\Repository\AddressFormatRepository;
+use CommerceGuys\Addressing\Repository\CountryRepository;
+use CommerceGuys\Addressing\Repository\SubdivisionRepository;
 
-$dataProvider = new DataProvider();
-$formatter = new DefaultFormatter($dataProvider);
+$addressFormatRepository = new AddressFormatRepository();
+$countryRepository = new CountryRepository();
+$subdivisionRepository = new SubdivisionRepository();
+$formatter = new DefaultFormatter($addressFormatRepository, $countryRepository, $subdivisionRepository);
 // Options passed to the constructor or setOption / setOptions allow turning
 // off html rendering, customizing the wrapper element and its attributes.
 
@@ -128,11 +132,16 @@ This matches the recommandation given by the Universal Postal Union, to avoid di
 
 ```php
 use CommerceGuys\Addressing\Formatter\PostalLabelFormatter;
-use CommerceGuys\Addressing\Provider\DataProvider;
+use CommerceGuys\Addressing\Repository\AddressFormatRepository;
+use CommerceGuys\Addressing\Repository\CountryRepository;
+use CommerceGuys\Addressing\Repository\SubdivisionRepository;
 
-$dataProvider = new DataProvider();
-// Defaults to text rendering. Requires passing the origin country code (e.g. 'FR').
-$formatter = new PostalLabelFormatter($dataProvider, 'FR', 'fr');
+$addressFormatRepository = new AddressFormatRepository();
+$countryRepository = new CountryRepository();
+$subdivisionRepository = new SubdivisionRepository();
+// Defaults to text rendering. Requires setting the origin country code
+// (e.g. 'FR') through the constructor or the setter, before calling format().
+$formatter = new PostalLabelFormatter($addressFormatRepository, $countryRepository, $subdivisionRepository, 'FR', 'fr');
 
 $address = new Address();
 $address

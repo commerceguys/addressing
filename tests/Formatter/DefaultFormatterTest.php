@@ -4,7 +4,9 @@ namespace CommerceGuys\Addressing\Tests\Formatter;
 
 use CommerceGuys\Addressing\Model\Address;
 use CommerceGuys\Addressing\Formatter\DefaultFormatter;
-use CommerceGuys\Addressing\Provider\DataProvider;
+use CommerceGuys\Addressing\Repository\AddressFormatRepository;
+use CommerceGuys\Addressing\Repository\CountryRepository;
+use CommerceGuys\Addressing\Repository\SubdivisionRepository;
 
 /**
  * @coversDefaultClass \CommerceGuys\Addressing\Formatter\DefaultFormatter
@@ -12,11 +14,25 @@ use CommerceGuys\Addressing\Provider\DataProvider;
 class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
 {
     /**
-     * The data provider.
+     * The address format repository.
      *
-     * @var DataProvider
+     * @var AddressFormatRepositoryInterface
      */
-    protected $dataProvider;
+    protected $addressFormatRepository;
+
+    /**
+     * The country repository.
+     *
+     * @var CountryRepositoryInterface
+     */
+    protected $countryRepository;
+
+    /**
+     * The subdivision repository.
+     *
+     * @var SubdivisionRepositoryInterface
+     */
+    protected $subdivisionRepository;
 
     /**
      * The formatter.
@@ -30,8 +46,10 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
      */
     public function setUp()
     {
-        $this->dataProvider = new DataProvider();
-        $this->formatter = new DefaultFormatter($this->dataProvider);
+        $this->addressFormatRepository = new AddressFormatRepository();
+        $this->countryRepository = new CountryRepository();
+        $this->subdivisionRepository = new SubdivisionRepository();
+        $this->formatter = new DefaultFormatter($this->addressFormatRepository, $this->countryRepository, $this->subdivisionRepository);
     }
 
     /**
@@ -39,15 +57,16 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
      *
      * @uses \CommerceGuys\Addressing\Formatter\DefaultFormatter::setOptions
      * @uses \CommerceGuys\Addressing\Formatter\DefaultFormatter::getDefaultOptions
-     * @uses \CommerceGuys\Addressing\Provider\DataProvider
      * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
+     * @uses \CommerceGuys\Addressing\Repository\CountryRepository
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
      */
     public function testConstructor()
     {
-        $this->dataProvider = new DataProvider();
-        $formatter = new DefaultFormatter($this->dataProvider);
-        $this->assertEquals($this->dataProvider, $this->getObjectAttribute($formatter, 'dataProvider'));
+        $formatter = new DefaultFormatter($this->addressFormatRepository, $this->countryRepository, $this->subdivisionRepository);
+        $this->assertEquals($this->addressFormatRepository, $this->getObjectAttribute($formatter, 'addressFormatRepository'));
+        $this->assertEquals($this->countryRepository, $this->getObjectAttribute($formatter, 'countryRepository'));
+        $this->assertEquals($this->subdivisionRepository, $this->getObjectAttribute($formatter, 'subdivisionRepository'));
     }
 
     /**
@@ -57,14 +76,13 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
      * @uses \CommerceGuys\Addressing\Formatter\DefaultFormatter::__construct
      * @uses \CommerceGuys\Addressing\Formatter\DefaultFormatter::setOptions
      * @uses \CommerceGuys\Addressing\Formatter\DefaultFormatter::getDefaultOptions
-     * @uses \CommerceGuys\Addressing\Provider\DataProvider
      * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
+     * @uses \CommerceGuys\Addressing\Repository\CountryRepository
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
      */
     public function testLocale()
     {
-        $this->dataProvider = new DataProvider();
-        $formatter = new DefaultFormatter($this->dataProvider, 'en');
+        $formatter = new DefaultFormatter($this->addressFormatRepository, $this->countryRepository, $this->subdivisionRepository, 'en');
         $this->assertEquals('en', $formatter->getLocale());
         $formatter->setLocale('fr');
         $this->assertEquals('fr', $formatter->getLocale());
@@ -76,8 +94,8 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
      * @uses \CommerceGuys\Addressing\Formatter\DefaultFormatter::__construct
      * @uses \CommerceGuys\Addressing\Formatter\DefaultFormatter::setOptions
      * @uses \CommerceGuys\Addressing\Formatter\DefaultFormatter::getDefaultOptions
-     * @uses \CommerceGuys\Addressing\Provider\DataProvider
      * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
+     * @uses \CommerceGuys\Addressing\Repository\CountryRepository
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
      * @expectedException \InvalidArgumentException
      */
@@ -96,14 +114,13 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
      * @uses \CommerceGuys\Addressing\Formatter\DefaultFormatter::__construct
      * @uses \CommerceGuys\Addressing\Formatter\DefaultFormatter::setOptions
      * @uses \CommerceGuys\Addressing\Formatter\DefaultFormatter::getDefaultOptions
-     * @uses \CommerceGuys\Addressing\Provider\DataProvider
      * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
+     * @uses \CommerceGuys\Addressing\Repository\CountryRepository
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
      */
     public function testOptions()
     {
-        $this->dataProvider = new DataProvider();
-        $formatter = new DefaultFormatter($this->dataProvider, 'en', ['html' => false]);
+        $formatter = new DefaultFormatter($this->addressFormatRepository, $this->countryRepository, $this->subdivisionRepository, 'en', ['html' => false]);
 
         $expectedOptions = [
             'html' => false,
@@ -123,8 +140,8 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
      * @uses \CommerceGuys\Addressing\Model\FormatStringTrait
      * @uses \CommerceGuys\Addressing\Model\Subdivision
-     * @uses \CommerceGuys\Addressing\Provider\DataProvider
      * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
+     * @uses \CommerceGuys\Addressing\Repository\CountryRepository
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
      * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      */
@@ -190,8 +207,8 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
      * @uses \CommerceGuys\Addressing\Model\FormatStringTrait
      * @uses \CommerceGuys\Addressing\Model\Subdivision
-     * @uses \CommerceGuys\Addressing\Provider\DataProvider
      * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
+     * @uses \CommerceGuys\Addressing\Repository\CountryRepository
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
      * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      */
@@ -249,8 +266,8 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
      * @uses \CommerceGuys\Addressing\Model\FormatStringTrait
      * @uses \CommerceGuys\Addressing\Model\Subdivision
-     * @uses \CommerceGuys\Addressing\Provider\DataProvider
      * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
+     * @uses \CommerceGuys\Addressing\Repository\CountryRepository
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
      * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      */

@@ -10,7 +10,7 @@ date_default_timezone_set('UTC');
 include '../vendor/autoload.php';
 
 use CommerceGuys\Addressing\Enum\AddressField;
-use CommerceGuys\Addressing\Provider\DataProvider;
+use CommerceGuys\Addressing\Repository\CountryRepository;
 
 // Make sure aria2 is installed.
 exec('aria2c --version', $ariaVersion);
@@ -26,8 +26,8 @@ foreach ($neededDirectories as $neededDirectory) {
     }
 }
 
-$dataProvider = new DataProvider();
-$countries = $dataProvider->getCountryNames();
+$countryRepository = new CountryRepository();
+$countries = $countryRepository->getList();
 $serviceUrl = 'http://i18napis.appspot.com/address';
 
 echo "Generating the url list.\n";

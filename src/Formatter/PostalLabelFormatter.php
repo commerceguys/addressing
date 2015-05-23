@@ -5,7 +5,9 @@ namespace CommerceGuys\Addressing\Formatter;
 use CommerceGuys\Addressing\Enum\AddressField;
 use CommerceGuys\Addressing\Model\AddressInterface;
 use CommerceGuys\Addressing\Model\AddressFormatInterface;
-use CommerceGuys\Addressing\Provider\DataProviderInterface;
+use CommerceGuys\Addressing\Repository\AddressFormatRepositoryInterface;
+use CommerceGuys\Addressing\Repository\CountryRepositoryInterface;
+use CommerceGuys\Addressing\Repository\SubdivisionRepositoryInterface;
 
 /**
  * Formats an address for a postal/shipping label.
@@ -34,16 +36,21 @@ class PostalLabelFormatter extends DefaultFormatter implements PostalLabelFormat
     /**
      * Creates a PostalFormatter instance.
      *
-     * @param DataProviderInterface $dataProvider The data provider.
+     * @param AddressFormatRepositoryInterface $addressFormatRepository
+     * @param CountryRepositoryInterface       $countryRepository
+     * @param SubdivisionRepositoryInterface   $subdivisionRepository
+     * @param string                           $originCountryCode
+     * @param string                           $locale
+     * @param array                            $options
      */
-    public function __construct(DataProviderInterface $dataProvider, $originCountryCode = null, $locale = null, array $options = [])
+    public function __construct(AddressFormatRepositoryInterface $addressFormatRepository, CountryRepositoryInterface $countryRepository, SubdivisionRepositoryInterface $subdivisionRepository, $originCountryCode = null, $locale = null, array $options = [])
     {
         if (!function_exists('mb_strtoupper')) {
             throw new \RuntimeException('The "mbstring" extension is required by this class.');
         }
 
         $this->originCountryCode = $originCountryCode;
-        parent::__construct($dataProvider, $locale, $options);
+        parent::__construct($addressFormatRepository, $countryRepository, $subdivisionRepository, $locale, $options);
     }
 
     /**
@@ -112,7 +119,8 @@ class PostalLabelFormatter extends DefaultFormatter implements PostalLabelFormat
             // transit, it is desirable for the name of the country of
             // destination to be added in an internationally known language.
             $country = $view['country']['value'];
-            $englishCountry = $this->dataProvider->getCountryName($address->getCountryCode(), 'en');
+            $englishCountries = $this->countryRepository->getList('en');
+            $englishCountry = $englishCountries[$address->getCountryCode()];
             if ($country != $englishCountry) {
                 $country .= ' - ' . $englishCountry;
             }
