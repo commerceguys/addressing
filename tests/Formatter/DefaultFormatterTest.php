@@ -36,6 +36,7 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
 
     /**
      * @covers ::__construct
+     *
      * @uses \CommerceGuys\Addressing\Formatter\DefaultFormatter::setOptions
      * @uses \CommerceGuys\Addressing\Formatter\DefaultFormatter::getDefaultOptions
      * @uses \CommerceGuys\Addressing\Provider\DataProvider
@@ -52,6 +53,7 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::getLocale
      * @covers ::setLocale
+     *
      * @uses \CommerceGuys\Addressing\Formatter\DefaultFormatter::__construct
      * @uses \CommerceGuys\Addressing\Formatter\DefaultFormatter::setOptions
      * @uses \CommerceGuys\Addressing\Formatter\DefaultFormatter::getDefaultOptions
@@ -70,6 +72,7 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
 
     /**
      * @covers ::setOption
+     *
      * @uses \CommerceGuys\Addressing\Formatter\DefaultFormatter::__construct
      * @uses \CommerceGuys\Addressing\Formatter\DefaultFormatter::setOptions
      * @uses \CommerceGuys\Addressing\Formatter\DefaultFormatter::getDefaultOptions
@@ -89,6 +92,7 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
      * @covers ::getOption
      * @covers ::setOption
      * @covers ::getDefaultOptions
+     *
      * @uses \CommerceGuys\Addressing\Formatter\DefaultFormatter::__construct
      * @uses \CommerceGuys\Addressing\Formatter\DefaultFormatter::setOptions
      * @uses \CommerceGuys\Addressing\Formatter\DefaultFormatter::getDefaultOptions
@@ -114,6 +118,7 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
 
     /**
      * @covers \CommerceGuys\Addressing\Formatter\DefaultFormatter
+     *
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
      * @uses \CommerceGuys\Addressing\Model\FormatStringTrait
@@ -138,7 +143,7 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
             '<span class="locality">Ahuachapán</span><br>',
             '<span class="administrative-area">Ahuachapán</span><br>',
             '<span class="country">El Salvador</span>',
-            '</p>'
+            '</p>',
         ];
         $htmlAddress = $this->formatter->format($address);
         $this->assertFormattedAddress($expectedHtmlLines, $htmlAddress);
@@ -160,7 +165,7 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
             '<span class="postal-code">CP 2101</span>-<span class="locality">Ahuachapán</span><br>',
             '<span class="administrative-area">Ahuachapán</span><br>',
             '<span class="country">El Salvador</span>',
-            '</p>'
+            '</p>',
         ];
         $this->formatter->setOption('html', true);
         $htmlAddress = $this->formatter->format($address);
@@ -177,8 +182,9 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
         $this->assertFormattedAddress($expectedTextLines, $textAddress);
     }
 
-     /**
+    /**
      * @covers \CommerceGuys\Addressing\Formatter\DefaultFormatter
+     *
      * @uses \CommerceGuys\Addressing\Collection\LazySubdivisionCollection
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
@@ -218,7 +224,7 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
             '<span class="address-line1">Sec. 3 Hsin-yi Rd.</span><br>',
             '<span class="organization">Giant &lt;h2&gt;Bike&lt;/h2&gt; Store</span><br>',
             '<span class="recipient">Mr. Liu</span>',
-            '</p>'
+            '</p>',
         ];
         $htmlAddress = $this->formatter->format($address);
         $this->assertFormattedAddress($expectedHtmlLines, $htmlAddress);
@@ -238,6 +244,7 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
 
     /**
      * @covers \CommerceGuys\Addressing\Formatter\DefaultFormatter
+     *
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
      * @uses \CommerceGuys\Addressing\Model\FormatStringTrait
@@ -262,7 +269,7 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
             '<span class="address-line1">1098 Alta Ave</span><br>',
             '<span class="administrative-area">CA</span> <span class="postal-code">94043</span><br>',
             '<span class="country">United States</span>',
-            '</p>'
+            '</p>',
         ];
         $htmlAddress = $this->formatter->format($address);
         $this->assertFormattedAddress($expectedHtmlLines, $htmlAddress);
@@ -270,7 +277,7 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
         $expectedTextLines = [
             '1098 Alta Ave',
             'CA 94043',
-            'United States'
+            'United States',
         ];
         $this->formatter->setOption('html', false);
         $textAddress = $this->formatter->format($address);
@@ -286,7 +293,7 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
             '<span class="address-line1">1098 Alta Ave</span><br>',
             '<span class="locality">Mountain View</span>, <span class="postal-code">94043</span><br>',
             '<span class="country">United States</span>',
-            '</p>'
+            '</p>',
         ];
         $this->formatter->setOption('html', true);
         $htmlAddress = $this->formatter->format($address);
@@ -295,7 +302,7 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
         $expectedTextLines = [
             '1098 Alta Ave',
             'Mountain View, 94043',
-            'United States'
+            'United States',
         ];
         $this->formatter->setOption('html', false);
         $textAddress = $this->formatter->format($address);

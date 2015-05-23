@@ -68,7 +68,7 @@ class Address implements AddressInterface
     protected $addressLine2;
 
     /**
-     * The organization
+     * The organization.
      *
      * @var string
      */

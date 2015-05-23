@@ -3,8 +3,6 @@
 namespace CommerceGuys\Addressing\Tests\Collection;
 
 use CommerceGuys\Addressing\Collection\LazySubdivisionCollection;
-use CommerceGuys\Addressing\Model\Subdivision;
-use Doctrine\Common\Collections\ArrayCollection;
 
 /**
  * @coversDefaultClass \CommerceGuys\Addressing\Collection\LazySubdivisionCollection
@@ -37,6 +35,7 @@ class LazySubdivisionCollectionTest extends \PHPUnit_Framework_TestCase
 
     /**
      * @covers ::doInitialize
+     *
      * @uses \CommerceGuys\Addressing\Collection\LazySubdivisionCollection::__construct
      * @uses \CommerceGuys\Addressing\Collection\LazySubdivisionCollection::getRepository
      * @uses \CommerceGuys\Addressing\Collection\LazySubdivisionCollection::setRepository
@@ -66,6 +65,7 @@ class LazySubdivisionCollectionTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::getRepository
      * @covers ::setRepository
+     *
      * @uses \CommerceGuys\Addressing\Collection\LazySubdivisionCollection::__construct
      */
     public function testRepository()

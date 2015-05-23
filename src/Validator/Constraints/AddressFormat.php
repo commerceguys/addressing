@@ -15,6 +15,7 @@ class AddressFormat extends Constraint
 
     /**
      * {@inheritDoc}
+     *
      * @codeCoverageIgnore
      */
     public function getTargets()

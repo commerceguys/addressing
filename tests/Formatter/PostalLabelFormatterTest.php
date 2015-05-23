@@ -36,6 +36,7 @@ class PostalLabelFormatterTest extends \PHPUnit_Framework_TestCase
 
     /**
      * @covers ::format
+     *
      * @uses \CommerceGuys\Addressing\Formatter\PostalLabelFormatter::__construct
      * @uses \CommerceGuys\Addressing\Formatter\PostalLabelFormatter::getDefaultOptions
      * @uses \CommerceGuys\Addressing\Formatter\DefaultFormatter
@@ -54,6 +55,7 @@ class PostalLabelFormatterTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::getOriginCountryCode
      * @covers ::setOriginCountryCode
+     *
      * @uses \CommerceGuys\Addressing\Formatter\PostalLabelFormatter::__construct
      * @uses \CommerceGuys\Addressing\Formatter\PostalLabelFormatter::getDefaultOptions
      * @uses \CommerceGuys\Addressing\Formatter\DefaultFormatter
@@ -69,6 +71,7 @@ class PostalLabelFormatterTest extends \PHPUnit_Framework_TestCase
 
     /**
      * @covers \CommerceGuys\Addressing\Formatter\PostalLabelFormatter
+     *
      * @uses \CommerceGuys\Addressing\Formatter\DefaultFormatter
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
@@ -92,6 +95,7 @@ class PostalLabelFormatterTest extends \PHPUnit_Framework_TestCase
 
     /**
      * @covers \CommerceGuys\Addressing\Formatter\PostalLabelFormatter
+     *
      * @uses \CommerceGuys\Addressing\Formatter\DefaultFormatter
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat
@@ -135,6 +139,7 @@ class PostalLabelFormatterTest extends \PHPUnit_Framework_TestCase
 
     /**
      * @covers \CommerceGuys\Addressing\Formatter\PostalLabelFormatter
+     *
      * @uses   \CommerceGuys\Addressing\Formatter\DefaultFormatter
      * @uses   \CommerceGuys\Addressing\Model\Address
      * @uses   \CommerceGuys\Addressing\Model\AddressFormat
@@ -163,7 +168,7 @@ class PostalLabelFormatterTest extends \PHPUnit_Framework_TestCase
             '〒04',
             '北海道Some City',
             'Address Line 2',
-            'Address Line 1'
+            'Address Line 1',
         ];
         $this->formatter->setOriginCountryCode('FR');
         $this->formatter->setLocale('fr');
@@ -173,6 +178,7 @@ class PostalLabelFormatterTest extends \PHPUnit_Framework_TestCase
 
     /**
      * @covers \CommerceGuys\Addressing\Formatter\PostalLabelFormatter
+     *
      * @uses \CommerceGuys\Addressing\Formatter\DefaultFormatter
      * @uses \CommerceGuys\Addressing\Model\Address
      * @uses \CommerceGuys\Addressing\Model\AddressFormat

@@ -3,11 +3,9 @@
 namespace CommerceGuys\Addressing\Tests\Validator\Constraints;
 
 use CommerceGuys\Addressing\Model\Address;
-use CommerceGuys\Addressing\Provider\DataProvider;
 use CommerceGuys\Addressing\Validator\Constraints\AddressFormat as AddressFormatConstraint;
 use CommerceGuys\Addressing\Validator\Constraints\AddressFormatValidator;
 use Symfony\Component\Validator\Validation;
-use Symfony\Component\Validator\ValidatorInterface;
 use Symfony\Component\Validator\Tests\Constraints\AbstractConstraintValidatorTest;
 
 /**
@@ -61,6 +59,7 @@ class AddressFormatValidatorTest extends AbstractConstraintValidatorTest
 
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatValidator
+     *
      * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
      * @expectedException \Symfony\Component\Validator\Exception\UnexpectedTypeException
@@ -72,6 +71,7 @@ class AddressFormatValidatorTest extends AbstractConstraintValidatorTest
 
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatValidator
+     *
      * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
      * @uses \CommerceGuys\Addressing\Model\Address
@@ -84,6 +84,7 @@ class AddressFormatValidatorTest extends AbstractConstraintValidatorTest
 
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatValidator
+     *
      * @uses \CommerceGuys\Addressing\Provider\DataProvider
      * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
@@ -108,6 +109,7 @@ class AddressFormatValidatorTest extends AbstractConstraintValidatorTest
 
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatValidator
+     *
      * @uses \CommerceGuys\Addressing\Provider\DataProvider
      * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
@@ -140,6 +142,7 @@ class AddressFormatValidatorTest extends AbstractConstraintValidatorTest
 
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatValidator
+     *
      * @uses \CommerceGuys\Addressing\Provider\DataProvider
      * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
@@ -168,6 +171,7 @@ class AddressFormatValidatorTest extends AbstractConstraintValidatorTest
 
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatValidator
+     *
      * @uses \CommerceGuys\Addressing\Provider\DataProvider
      * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
@@ -193,6 +197,7 @@ class AddressFormatValidatorTest extends AbstractConstraintValidatorTest
 
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatValidator
+     *
      * @uses \CommerceGuys\Addressing\Provider\DataProvider
      * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
@@ -227,6 +232,7 @@ class AddressFormatValidatorTest extends AbstractConstraintValidatorTest
 
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatValidator
+     *
      * @uses \CommerceGuys\Addressing\Provider\DataProvider
      * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
@@ -258,6 +264,7 @@ class AddressFormatValidatorTest extends AbstractConstraintValidatorTest
 
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatValidator
+     *
      * @uses \CommerceGuys\Addressing\Provider\DataProvider
      * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
@@ -287,6 +294,7 @@ class AddressFormatValidatorTest extends AbstractConstraintValidatorTest
 
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatValidator
+     *
      * @uses \CommerceGuys\Addressing\Provider\DataProvider
      * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
@@ -326,6 +334,7 @@ class AddressFormatValidatorTest extends AbstractConstraintValidatorTest
 
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatValidator
+     *
      * @uses \CommerceGuys\Addressing\Provider\DataProvider
      * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
@@ -352,6 +361,7 @@ class AddressFormatValidatorTest extends AbstractConstraintValidatorTest
 
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatValidator
+     *
      * @uses \CommerceGuys\Addressing\Provider\DataProvider
      * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
@@ -380,6 +390,7 @@ class AddressFormatValidatorTest extends AbstractConstraintValidatorTest
 
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatValidator
+     *
      * @uses \CommerceGuys\Addressing\Provider\DataProvider
      * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
@@ -406,6 +417,7 @@ class AddressFormatValidatorTest extends AbstractConstraintValidatorTest
 
     /**
      * @covers CommerceGuys\Addressing\Validator\Constraints\AddressFormatValidator
+     *
      * @uses \CommerceGuys\Addressing\Provider\DataProvider
      * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
@@ -430,6 +442,7 @@ class AddressFormatValidatorTest extends AbstractConstraintValidatorTest
 
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatValidator
+     *
      * @uses \CommerceGuys\Addressing\Provider\DataProvider
      * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
@@ -455,6 +468,7 @@ class AddressFormatValidatorTest extends AbstractConstraintValidatorTest
 
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatValidator
+     *
      * @uses \CommerceGuys\Addressing\Provider\DataProvider
      * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository

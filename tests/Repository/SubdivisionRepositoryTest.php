@@ -88,6 +88,7 @@ class SubdivisionRepositoryTest extends \PHPUnit_Framework_TestCase
      * @covers ::get
      * @covers ::loadDefinitions
      * @covers ::createSubdivisionFromDefinition
+     *
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository::__construct
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository::getAll
      * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
@@ -125,6 +126,7 @@ class SubdivisionRepositoryTest extends \PHPUnit_Framework_TestCase
      * @covers ::get
      * @covers ::loadDefinitions
      * @covers ::createSubdivisionFromDefinition
+     *
      * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      * @depends testConstructor
      */
@@ -141,6 +143,7 @@ class SubdivisionRepositoryTest extends \PHPUnit_Framework_TestCase
      * @covers ::getAll
      * @covers ::loadDefinitions
      * @covers ::createSubdivisionFromDefinition
+     *
      * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      * @uses \CommerceGuys\Addressing\Model\Subdivision
      * @uses \CommerceGuys\Addressing\Collection\LazySubdivisionCollection
@@ -164,6 +167,7 @@ class SubdivisionRepositoryTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::getList
      * @covers ::loadDefinitions
+     *
      * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      * @depends testConstructor
      */

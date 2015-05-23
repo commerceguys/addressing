@@ -51,6 +51,7 @@ class CountryValidatorTest extends AbstractConstraintValidatorTest
 
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\CountryValidator
+     *
      * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
      */
@@ -65,6 +66,7 @@ class CountryValidatorTest extends AbstractConstraintValidatorTest
 
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\CountryValidator
+     *
      * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
      * @expectedException \Symfony\Component\Validator\Exception\UnexpectedTypeException
@@ -76,6 +78,7 @@ class CountryValidatorTest extends AbstractConstraintValidatorTest
 
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\CountryValidator
+     *
      * @uses \CommerceGuys\Addressing\Provider\DataProvider
      * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
@@ -91,6 +94,7 @@ class CountryValidatorTest extends AbstractConstraintValidatorTest
 
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\CountryValidator
+     *
      * @uses \CommerceGuys\Addressing\Provider\DataProvider
      * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
