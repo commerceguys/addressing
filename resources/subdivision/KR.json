@@ -134,11 +134,11 @@
         },
         "has_children": true
     },
-    "KR-210873": {
+    "KR-50": {
         "locale": "ko-Latn",
         "country_code": "KR",
         "parent_id": null,
-        "id": "KR-210873",
+        "id": "KR-50",
         "code": "세종특별자치시",
         "name": "Sejong",
         "postal_code_pattern": "339",

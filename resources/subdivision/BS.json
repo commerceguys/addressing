@@ -5,7 +5,7 @@
         "parent_id": null,
         "id": "BS-06f3b3",
         "code": "ABACO",
-        "name": "Abaco Islands"
+        "name": "Abaco"
     },
     "BS-AK": {
         "locale": "en",
@@ -21,7 +21,7 @@
         "parent_id": null,
         "id": "BS-7708d4",
         "code": "ANDROS",
-        "name": "Andros Island"
+        "name": "Andros"
     },
     "BS-BY": {
         "locale": "en",
@@ -69,7 +69,7 @@
         "parent_id": null,
         "id": "BS-EX",
         "code": "EXUMA",
-        "name": "Exuma and Cays"
+        "name": "Exuma"
     },
     "BS-59d4c6": {
         "locale": "en",

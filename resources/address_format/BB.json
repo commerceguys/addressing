@@ -1,6 +1,6 @@
 {
     "locale": "und",
-    "format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%locality",
+    "format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%locality %postalCode",
     "required_fields": [
         "addressLine1",
         "locality"
@@ -8,5 +8,7 @@
     "uppercase_fields": [
         "locality"
     ],
-    "locality_type": "city"
+    "locality_type": "city",
+    "postal_code_type": "postal",
+    "postal_code_pattern": "BB\\d{5}"
 }
