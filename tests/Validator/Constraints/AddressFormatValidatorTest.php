@@ -45,13 +45,6 @@ class AddressFormatValidatorTest extends AbstractConstraintValidatorTest
         $this->validator->initialize($this->context);
     }
 
-    protected function getApiVersion()
-    {
-        // The equivalent of Validation::API_VERSION_2_5_BC, needed to trigger
-        // BC mode in symfony/validator >= 2.5.
-        return 3;
-    }
-
     protected function createValidator()
     {
         return new AddressFormatValidator();
