@@ -278,11 +278,11 @@
         "name": "Tamil Nadu",
         "postal_code_pattern": "6[0-6]|536"
     },
-    "IN-50c73a": {
+    "IN-TG": {
         "locale": "en",
         "country_code": "IN",
         "parent_id": null,
-        "id": "IN-50c73a",
+        "id": "IN-TG",
         "code": "Telangana",
         "name": "Telangana",
         "postal_code_pattern": "5[0-3]"
@@ -305,11 +305,11 @@
         "name": "Uttar Pradesh",
         "postal_code_pattern": "2[0-35-8]|24[0-7]|26[12]"
     },
-    "IN-UL": {
+    "IN-UT": {
         "locale": "en",
         "country_code": "IN",
         "parent_id": null,
-        "id": "IN-UL",
+        "id": "IN-UT",
         "code": "Uttarakhand",
         "name": "Uttarakhand",
         "postal_code_pattern": "24[46-9]|254|26[23]"

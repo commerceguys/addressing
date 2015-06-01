@@ -71,6 +71,15 @@
         "name": "Badajoz",
         "postal_code_pattern": "06"
     },
+    "ES-PM": {
+        "locale": "es",
+        "country_code": "ES",
+        "parent_id": null,
+        "id": "ES-PM",
+        "code": "Balears",
+        "name": "Balears",
+        "postal_code_pattern": "07"
+    },
     "ES-B": {
         "locale": "es",
         "country_code": "ES",
@@ -214,15 +223,6 @@
         "code": "Huesca",
         "name": "Huesca",
         "postal_code_pattern": "22"
-    },
-    "ES-PM": {
-        "locale": "es",
-        "country_code": "ES",
-        "parent_id": null,
-        "id": "ES-PM",
-        "code": "Islas Baleares",
-        "name": "Islas Baleares",
-        "postal_code_pattern": "07"
     },
     "ES-J": {
         "locale": "es",

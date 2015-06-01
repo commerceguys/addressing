@@ -112,7 +112,7 @@ foreach ($groupedSubdivisions as $parentId => $subdivisions) {
     file_put_json('subdivision/' . $parentId . '.json', $subdivisions);
 }
 
-echo "Done.\n";
+echo "Done. You can now apply the library customizations by running 'patch -p2 < ../resources/library_customizations.patch'.\n";
 
 /**
  * Converts the provided data into json and writes it to the disk.

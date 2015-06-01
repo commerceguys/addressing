@@ -3,7 +3,8 @@
     "format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%locality, %postalCode",
     "required_fields": [
         "addressLine1",
-        "locality"
+        "locality",
+        "postalCode"
     ],
     "uppercase_fields": [
         "locality"

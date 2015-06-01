@@ -1,0 +1,337 @@
+diff --git a/resources/address_format/AL.json b/resources/address_format/AL.json
+index 2bd9dbc..28a1f54 100644
+--- a/resources/address_format/AL.json
++++ b/resources/address_format/AL.json
+@@ -1,6 +1,6 @@
+ {
+     "locale": "und",
+-    "format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%locality",
++    "format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%postalCode\n%locality",
+     "required_fields": [
+         "addressLine1",
+         "locality"
+@@ -8,5 +8,7 @@
+     "uppercase_fields": [
+         "locality"
+     ],
+-    "locality_type": "city"
++    "locality_type": "city",
++    "postal_code_type": "postal",
++    "postal_code_pattern": "\\d{4}"
+ }
+\ No newline at end of file
+diff --git a/resources/address_format/BB.json b/resources/address_format/BB.json
+index 2bd9dbc..1548854 100644
+--- a/resources/address_format/BB.json
++++ b/resources/address_format/BB.json
+@@ -1,6 +1,6 @@
+ {
+     "locale": "und",
+-    "format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%locality",
++    "format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%locality %postalCode",
+     "required_fields": [
+         "addressLine1",
+         "locality"
+@@ -8,5 +8,7 @@
+     "uppercase_fields": [
+         "locality"
+     ],
+-    "locality_type": "city"
++    "locality_type": "city",
++    "postal_code_type": "postal",
++    "postal_code_pattern": "BB\\d{5}"
+ }
+\ No newline at end of file
+diff --git a/resources/address_format/BT.json b/resources/address_format/BT.json
+index 2bd9dbc..b763dd4 100644
+--- a/resources/address_format/BT.json
++++ b/resources/address_format/BT.json
+@@ -1,6 +1,6 @@
+ {
+     "locale": "und",
+-    "format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%locality",
++    "format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%locality %postalCode",
+     "required_fields": [
+         "addressLine1",
+         "locality"
+@@ -8,5 +8,7 @@
+     "uppercase_fields": [
+         "locality"
+     ],
+-    "locality_type": "city"
++    "locality_type": "city",
++    "postal_code_type": "postal",
++    "postal_code_pattern": "\\d{5}"
+ }
+\ No newline at end of file
+diff --git a/resources/address_format/DE.json b/resources/address_format/DE.json
+index 7887c93..5e7cbd5 100644
+--- a/resources/address_format/DE.json
++++ b/resources/address_format/DE.json
+@@ -1,6 +1,6 @@
+ {
+     "locale": "und",
+-    "format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%postalCode %locality",
++    "format": "%organization\n%recipient\n%addressLine1\n%addressLine2\n%postalCode %locality",
+     "required_fields": [
+         "addressLine1",
+         "locality",
+diff --git a/resources/address_format/EE.json b/resources/address_format/EE.json
+index 6bb72c1..9087291 100644
+--- a/resources/address_format/EE.json
++++ b/resources/address_format/EE.json
+@@ -1,9 +1,10 @@
+ {
+     "locale": "und",
+-    "format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%postalCode %locality",
++    "format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%postalCode %locality %administrativeArea",
+     "required_fields": [
+         "addressLine1",
+-        "locality"
++        "locality",
++        "postalCode"
+     ],
+     "uppercase_fields": [
+         "locality"
+diff --git a/resources/address_format/HU.json b/resources/address_format/HU.json
+index d98278a..97dad70 100644
+--- a/resources/address_format/HU.json
++++ b/resources/address_format/HU.json
+@@ -3,7 +3,8 @@
+     "format": "%recipient\n%organization\n%locality\n%addressLine1\n%addressLine2\n%postalCode",
+     "required_fields": [
+         "addressLine1",
+-        "locality"
++        "locality",
++        "postalCode"
+     ],
+     "uppercase_fields": [
+         "addressLine1",
+diff --git a/resources/address_format/LT.json b/resources/address_format/LT.json
+index b2964b3..c73a3e7 100644
+--- a/resources/address_format/LT.json
++++ b/resources/address_format/LT.json
+@@ -1,9 +1,10 @@
+ {
+     "locale": "und",
+-    "format": "%organization\n%recipient\n%addressLine1\n%addressLine2\n%postalCode %locality",
++    "format": "%organization\n%recipient\n%addressLine1\n%addressLine2\n%postalCode %locality %administrativeArea",
+     "required_fields": [
+         "addressLine1",
+-        "locality"
++        "locality",
++        "postalCode"
+     ],
+     "uppercase_fields": [
+         "locality"
+diff --git a/resources/address_format/LV.json b/resources/address_format/LV.json
+index eb74ace..748f547 100644
+--- a/resources/address_format/LV.json
++++ b/resources/address_format/LV.json
+@@ -3,7 +3,8 @@
+     "format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%locality, %postalCode",
+     "required_fields": [
+         "addressLine1",
+-        "locality"
++        "locality",
++        "postalCode"
+     ],
+     "uppercase_fields": [
+         "locality"
+diff --git a/resources/address_format/PE.json b/resources/address_format/PE.json
+index 2bd9dbc..352d70b 100644
+--- a/resources/address_format/PE.json
++++ b/resources/address_format/PE.json
+@@ -1,6 +1,6 @@
+ {
+     "locale": "und",
+-    "format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%locality",
++    "format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%postalCode\n%locality",
+     "required_fields": [
+         "addressLine1",
+         "locality"
+@@ -8,5 +8,7 @@
+     "uppercase_fields": [
+         "locality"
+     ],
+-    "locality_type": "city"
++    "locality_type": "city",
++    "postal_code_type": "postal",
++    "postal_code_pattern": "\\d{5}"
+ }
+\ No newline at end of file
+diff --git a/resources/address_format/VC.json b/resources/address_format/VC.json
+index 2bd9dbc..c8409fe 100644
+--- a/resources/address_format/VC.json
++++ b/resources/address_format/VC.json
+@@ -1,6 +1,6 @@
+ {
+     "locale": "und",
+-    "format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%locality",
++    "format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%locality %postalCode",
+     "required_fields": [
+         "addressLine1",
+         "locality"
+@@ -8,5 +8,7 @@
+     "uppercase_fields": [
+         "locality"
+     ],
+-    "locality_type": "city"
++    "locality_type": "city",
++    "postal_code_type": "postal",
++    "postal_code_pattern": "VC\\d{4}"
+ }
+\ No newline at end of file
+diff --git a/resources/subdivision/BS.json b/resources/subdivision/BS.json
+index 3d3a1ad..410d77a 100644
+--- a/resources/subdivision/BS.json
++++ b/resources/subdivision/BS.json
+@@ -5,7 +5,7 @@
+         "parent_id": null,
+         "id": "BS-06f3b3",
+         "code": "ABACO",
+-        "name": "Abaco Islands"
++        "name": "Abaco"
+     },
+     "BS-AK": {
+         "locale": "en",
+@@ -21,7 +21,7 @@
+         "parent_id": null,
+         "id": "BS-7708d4",
+         "code": "ANDROS",
+-        "name": "Andros Island"
++        "name": "Andros"
+     },
+     "BS-BY": {
+         "locale": "en",
+@@ -69,7 +69,7 @@
+         "parent_id": null,
+         "id": "BS-EX",
+         "code": "EXUMA",
+-        "name": "Exuma and Cays"
++        "name": "Exuma"
+     },
+     "BS-59d4c6": {
+         "locale": "en",
+diff --git a/resources/subdivision/ES.json b/resources/subdivision/ES.json
+index 67f89ca..9e631cc 100644
+--- a/resources/subdivision/ES.json
++++ b/resources/subdivision/ES.json
+@@ -71,6 +71,15 @@
+         "name": "Badajoz",
+         "postal_code_pattern": "06"
+     },
++    "ES-PM": {
++        "locale": "es",
++        "country_code": "ES",
++        "parent_id": null,
++        "id": "ES-PM",
++        "code": "Balears",
++        "name": "Balears",
++        "postal_code_pattern": "07"
++    },
+     "ES-B": {
+         "locale": "es",
+         "country_code": "ES",
+@@ -215,15 +224,6 @@
+         "name": "Huesca",
+         "postal_code_pattern": "22"
+     },
+-    "ES-PM": {
+-        "locale": "es",
+-        "country_code": "ES",
+-        "parent_id": null,
+-        "id": "ES-PM",
+-        "code": "Islas Baleares",
+-        "name": "Islas Baleares",
+-        "postal_code_pattern": "07"
+-    },
+     "ES-J": {
+         "locale": "es",
+         "country_code": "ES",
+diff --git a/resources/subdivision/IN.json b/resources/subdivision/IN.json
+index e65b2f5..5f572a3 100644
+--- a/resources/subdivision/IN.json
++++ b/resources/subdivision/IN.json
+@@ -278,11 +278,11 @@
+         "name": "Tamil Nadu",
+         "postal_code_pattern": "6[0-6]|536"
+     },
+-    "IN-50c73a": {
++    "IN-TG": {
+         "locale": "en",
+         "country_code": "IN",
+         "parent_id": null,
+-        "id": "IN-50c73a",
++        "id": "IN-TG",
+         "code": "Telangana",
+         "name": "Telangana",
+         "postal_code_pattern": "5[0-3]"
+@@ -305,11 +305,11 @@
+         "name": "Uttar Pradesh",
+         "postal_code_pattern": "2[0-35-8]|24[0-7]|26[12]"
+     },
+-    "IN-UL": {
++    "IN-UT": {
+         "locale": "en",
+         "country_code": "IN",
+         "parent_id": null,
+-        "id": "IN-UL",
++        "id": "IN-UT",
+         "code": "Uttarakhand",
+         "name": "Uttarakhand",
+         "postal_code_pattern": "24[46-9]|254|26[23]"
+diff --git a/resources/subdivision/KR.json b/resources/subdivision/KR.json
+index 672b914..7551a17 100644
+--- a/resources/subdivision/KR.json
++++ b/resources/subdivision/KR.json
+@@ -134,11 +134,11 @@
+         },
+         "has_children": true
+     },
+-    "KR-210873": {
++    "KR-50": {
+         "locale": "ko-Latn",
+         "country_code": "KR",
+         "parent_id": null,
+-        "id": "KR-210873",
++        "id": "KR-50",
+         "code": "세종특별자치시",
+         "name": "Sejong",
+         "postal_code_pattern": "339",
+diff --git a/resources/subdivision/MX.json b/resources/subdivision/MX.json
+index ddaad4b..b7d70a2 100644
+--- a/resources/subdivision/MX.json
++++ b/resources/subdivision/MX.json
+@@ -89,15 +89,6 @@
+         "name": "Durango",
+         "postal_code_pattern": "3[45]"
+     },
+-    "MX-MEX": {
+-        "locale": "es",
+-        "country_code": "MX",
+-        "parent_id": null,
+-        "id": "MX-MEX",
+-        "code": "MEX",
+-        "name": "Estado de México",
+-        "postal_code_pattern": "5[0-7]"
+-    },
+     "MX-GUA": {
+         "locale": "es",
+         "country_code": "MX",
+@@ -134,6 +125,15 @@
+         "name": "Jalisco",
+         "postal_code_pattern": "4[4-9]"
+     },
++    "MX-MEX": {
++        "locale": "es",
++        "country_code": "MX",
++        "parent_id": null,
++        "id": "MX-MEX",
++        "code": "MEX",
++        "name": "México",
++        "postal_code_pattern": "5[0-7]"
++    },
+     "MX-MIC": {
+         "locale": "es",
+         "country_code": "MX",

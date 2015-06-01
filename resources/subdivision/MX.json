@@ -89,15 +89,6 @@
         "name": "Durango",
         "postal_code_pattern": "3[45]"
     },
-    "MX-MEX": {
-        "locale": "es",
-        "country_code": "MX",
-        "parent_id": null,
-        "id": "MX-MEX",
-        "code": "MEX",
-        "name": "Estado de México",
-        "postal_code_pattern": "5[0-7]"
-    },
     "MX-GUA": {
         "locale": "es",
         "country_code": "MX",
@@ -133,6 +124,15 @@
         "code": "JAL",
         "name": "Jalisco",
         "postal_code_pattern": "4[4-9]"
+    },
+    "MX-MEX": {
+        "locale": "es",
+        "country_code": "MX",
+        "parent_id": null,
+        "id": "MX-MEX",
+        "code": "MEX",
+        "name": "México",
+        "postal_code_pattern": "5[0-7]"
     },
     "MX-MIC": {
         "locale": "es",
