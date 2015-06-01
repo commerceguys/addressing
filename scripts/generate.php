@@ -102,14 +102,6 @@ foreach ($foundCountries as $countryCode) {
     $addressFormats[$countryCode] = $addressFormat;
 }
 
-echo "Generating a list of changes.\n";
-
-// Create a list of changes between the new and the old definitions.
-$previousAddressFormats = load_definitions('address_format');
-$addressFormatChanges = load_change_listing('address_format');
-$addressFormatChanges[] = generate_address_format_changes($previousAddressFormats, $addressFormats);
-file_put_json('address_format_changes.json', $addressFormatChanges);
-
 echo "Writing the final definitions to disk.\n";
 
 // Write the new definitions to disk.
@@ -119,6 +111,8 @@ foreach ($addressFormats as $countryCode => $addressFormat) {
 foreach ($groupedSubdivisions as $parentId => $subdivisions) {
     file_put_json('subdivision/' . $parentId . '.json', $subdivisions);
 }
+
+echo "Done.\n";
 
 /**
  * Converts the provided data into json and writes it to the disk.
@@ -420,71 +414,4 @@ function convert_fields($fields, $type)
     }
 
     return $fields;
-}
-
-/**
- * Loads all definitions of the provided type (address_format or subdivision).
- */
-function load_definitions($type)
-{
-    $data = [];
-    $path = '../resources/' . $type;
-    if ($handle = opendir($path)) {
-        while (false !== ($entry = readdir($handle))) {
-            if (substr($entry, 0, 1) != '.') {
-                $id = strtok($entry, '.');
-                $data[$id] = json_decode(file_get_contents($path . '/' . $entry), true);
-            }
-        }
-        closedir($handle);
-    }
-
-    return $data;
-}
-
-/**
- * Loads the changes file for the provided type (address_format or subdivision).
- */
-function load_change_listing($type)
-{
-    $changes = @file_get_contents('../resources/' . $type . '_changes.json');
-    if (!empty($changes)) {
-        $changes = json_decode($changes, true);
-    } else {
-        $changes = [];
-    }
-
-    return $changes;
-}
-
-/**
- * Generates the changes between two address format collections.
- */
-function generate_address_format_changes($oldAddressFormats, $newAddressFormats)
-{
-    $changes = [
-        'date' => date('c'),
-        'added' => array_keys(array_diff_key($newAddressFormats, $oldAddressFormats)),
-        'removed' => array_keys(array_diff_key($oldAddressFormats, $newAddressFormats)),
-        'modified' => array_keys(array_udiff_assoc(
-            // Compare only the values of common keys.
-            array_intersect_key($newAddressFormats, $oldAddressFormats),
-            array_intersect_key($oldAddressFormats, $newAddressFormats),
-            'compare_arrays'
-        )),
-    ];
-
-    return $changes;
-}
-
-/**
- * Callback for array_udiff_assoc.
- */
-function compare_arrays($a, $b)
-{
-    // Sort the keys so that they don't influence the comparison.
-    ksort($a);
-    ksort($b);
-
-    return ($a === $b) ? 0 : -1;
 }
