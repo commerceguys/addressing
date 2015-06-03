@@ -33,8 +33,8 @@ $serviceUrl = 'http://i18napis.appspot.com/address';
 echo "Generating the url list.\n";
 
 // Generate the url list for aria2.
-$url_list = generate_url_list();
-file_put_contents('raw/url_list.txt', $url_list);
+$urlList = generate_url_list();
+file_put_contents('raw/url_list.txt', $urlList);
 
 // Invoke aria2 and fetch the data.
 echo "Downloading the raw data from Google's endpoint.\n";
@@ -46,7 +46,7 @@ $index = file_get_contents($serviceUrl);
 foreach ($countries as $countryCode => $countryName) {
     $link = "<a href='/address/data/{$countryCode}'>";
     // This is still faster than running a file_exists() for each country code.
-    if (strpos($index, $link) !== FALSE) {
+    if (strpos($index, $link) !== false) {
         $foundCountries[] = $countryCode;
     }
 }
