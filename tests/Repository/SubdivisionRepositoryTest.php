@@ -63,6 +63,15 @@ class SubdivisionRepositoryTest extends \PHPUnit_Framework_TestCase
     ];
 
     /**
+     * Subdivision depths.
+     *
+     * @var array
+     */
+    protected $depths = [
+        'BR' => 2,
+    ];
+
+    /**
      * @covers ::__construct
      */
     public function testConstructor()
@@ -70,6 +79,7 @@ class SubdivisionRepositoryTest extends \PHPUnit_Framework_TestCase
         // Mock the existence of JSON definitions on the filesystem.
         $root = vfsStream::setup('resources');
         $directory = vfsStream::newDirectory('subdivision')->at($root);
+        vfsStream::newFile('depths.json')->at($directory)->setContent(json_encode($this->depths));
         foreach ($this->subdivisions as $parent => $data) {
             $filename = $parent . '.json';
             vfsStream::newFile($filename)->at($directory)->setContent(json_encode($data));
@@ -180,5 +190,19 @@ class SubdivisionRepositoryTest extends \PHPUnit_Framework_TestCase
         $list = $subdivisionRepository->getList('BR', 'BR-SC');
         $expectedList = ['BR-SC-9c7753' => 'Abelardo Luz'];
         $this->assertEquals($expectedList, $list);
+    }
+
+    /**
+     * @covers ::getDepth
+     *
+     * @depends testConstructor
+     */
+    public function testGetDepth($subdivisionRepository)
+    {
+        $depth = $subdivisionRepository->getDepth('BR');
+        $this->assertEquals(2, $depth);
+
+        $depth = $subdivisionRepository->getDepth('RS');
+        $this->assertEquals(0, $depth);
     }
 }

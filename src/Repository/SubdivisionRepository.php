@@ -37,6 +37,13 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
     protected $parents = [];
 
     /**
+     * Subdivision depths.
+     *
+     * @var array
+     */
+    protected $depths = [];
+
+    /**
      * Creates a SubdivisionRepository instance.
      *
      * @param string $definitionPath Path to the subdivision definitions.
@@ -105,6 +112,19 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
         }
 
         return $list;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function getDepth($countryCode)
+    {
+        if (empty($this->depths)) {
+            $filename = $this->definitionPath . 'depths.json';
+            $this->depths = json_decode(file_get_contents($filename), true);
+        }
+
+        return isset($this->depths[$countryCode]) ? $this->depths[$countryCode] : 0;
     }
 
     /**

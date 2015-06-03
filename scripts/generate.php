@@ -112,6 +112,10 @@ foreach ($groupedSubdivisions as $parentId => $subdivisions) {
     file_put_json('subdivision/' . $parentId . '.json', $subdivisions);
 }
 
+// Generate the subdivision depths for each country.
+$depths = generate_subdivision_depths($foundCountries);
+file_put_json('subdivision/depths.json', $depths);
+
 echo "Done. You can now apply the library customizations by running 'patch -p2 < ../resources/library_customizations.patch'.\n";
 
 /**
@@ -223,6 +227,31 @@ function generate_subdivisions($countryCode, $parentId, $subdivisionPaths, $lang
     }
 
     return $subdivisions;
+}
+
+/**
+ * Generates the subdivision depths for each country.
+ */
+function generate_subdivision_depths($countries)
+{
+    $depths = [];
+    foreach ($countries as $countryCode) {
+        $patterns = [
+            'subdivision/' . $countryCode . '.json',
+            'subdivision/' . $countryCode . '-*.json',
+            'subdivision/' . $countryCode . '-*-*.json',
+        ];
+        foreach ($patterns as $pattern) {
+            if (glob($pattern)) {
+                $previous = isset($depths[$countryCode]) ? $depths[$countryCode] : 0;
+                $depths[$countryCode] = $previous + 1;
+            } else {
+                break;
+            }
+        }
+    }
+
+    return $depths;
 }
 
 /**
