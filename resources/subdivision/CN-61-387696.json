@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-61-387696",
-        "id": "CN-61-387696-37e5d2",
         "code": "城固县",
         "name": "Chenggu Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-61-387696",
-        "id": "CN-61-387696-6a1074",
         "code": "略阳县",
         "name": "Lüeyang Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-61-387696",
-        "id": "CN-61-387696-e00898",
         "code": "佛坪县",
         "name": "Foping Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-61-387696",
-        "id": "CN-61-387696-26a8ed",
         "code": "汉台区",
         "name": "Hantai Qu",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-61-387696",
-        "id": "CN-61-387696-6640fa",
         "code": "留坝县",
         "name": "Liuba Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-61-387696",
-        "id": "CN-61-387696-a676b5",
         "code": "勉县",
         "name": "Mian Xian",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-61-387696",
-        "id": "CN-61-387696-5840fd",
         "code": "南郑县",
         "name": "Nanzheng Xian",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-61-387696",
-        "id": "CN-61-387696-afab0b",
         "code": "宁强县",
         "name": "Ningqiang Xian",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-61-387696",
-        "id": "CN-61-387696-f25f56",
         "code": "西乡县",
         "name": "Xixiang Xian",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-61-387696",
-        "id": "CN-61-387696-26e308",
         "code": "洋县",
         "name": "Yang Xian",
         "translations": {
@@ -133,7 +123,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-61-387696",
-        "id": "CN-61-387696-a03404",
         "code": "镇巴县",
         "name": "Zhenba Xian",
         "translations": {

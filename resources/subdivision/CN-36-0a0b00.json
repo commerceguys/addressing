@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-0a0b00",
-        "id": "CN-36-0a0b00-49bf18",
         "code": "安远县",
         "name": "Anyuan Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-0a0b00",
-        "id": "CN-36-0a0b00-4eda90",
         "code": "崇义县",
         "name": "Chongyi Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-0a0b00",
-        "id": "CN-36-0a0b00-f7d065",
         "code": "大余县",
         "name": "Dayu Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-0a0b00",
-        "id": "CN-36-0a0b00-c58144",
         "code": "定南县",
         "name": "Dingnan Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-0a0b00",
-        "id": "CN-36-0a0b00-6e0462",
         "code": "赣县",
         "name": "Gan Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-0a0b00",
-        "id": "CN-36-0a0b00-50e649",
         "code": "会昌县",
         "name": "Huichang Xian",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-0a0b00",
-        "id": "CN-36-0a0b00-aa139d",
         "code": "龙南县",
         "name": "Longnan Xian",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-0a0b00",
-        "id": "CN-36-0a0b00-679d9c",
         "code": "南康市",
         "name": "Nankang Shi",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-0a0b00",
-        "id": "CN-36-0a0b00-92adbb",
         "code": "宁都县",
         "name": "Ningdu Xian",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-0a0b00",
-        "id": "CN-36-0a0b00-7a6313",
         "code": "全南县",
         "name": "Quannan Xian",
         "translations": {
@@ -133,7 +123,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-0a0b00",
-        "id": "CN-36-0a0b00-22f814",
         "code": "瑞金市",
         "name": "Ruijin Shi",
         "translations": {
@@ -146,7 +135,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-0a0b00",
-        "id": "CN-36-0a0b00-6c6985",
         "code": "上犹县",
         "name": "Shangyou Xian",
         "translations": {
@@ -159,7 +147,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-0a0b00",
-        "id": "CN-36-0a0b00-d50f37",
         "code": "石城县",
         "name": "Shicheng Xian",
         "translations": {
@@ -172,7 +159,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-0a0b00",
-        "id": "CN-36-0a0b00-e198b0",
         "code": "信丰县",
         "name": "Xinfeng Xian",
         "translations": {
@@ -185,7 +171,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-0a0b00",
-        "id": "CN-36-0a0b00-848035",
         "code": "兴国县",
         "name": "Xingguo Xian",
         "translations": {
@@ -198,7 +183,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-0a0b00",
-        "id": "CN-36-0a0b00-17447e",
         "code": "寻乌县",
         "name": "Xunwu Xian",
         "translations": {
@@ -211,7 +195,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-0a0b00",
-        "id": "CN-36-0a0b00-5f4405",
         "code": "于都县",
         "name": "Yudu Xian",
         "translations": {
@@ -224,7 +207,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-0a0b00",
-        "id": "CN-36-0a0b00-c7f0ed",
         "code": "章贡区",
         "name": "Zhanggong Qu",
         "translations": {

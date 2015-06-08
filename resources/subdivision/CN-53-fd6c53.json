@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-53-fd6c53",
-        "id": "CN-53-fd6c53-c6f854",
         "code": "古城区",
         "name": "Gucheng Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-53-fd6c53",
-        "id": "CN-53-fd6c53-d496e8",
         "code": "华坪县",
         "name": "Huaping Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-53-fd6c53",
-        "id": "CN-53-fd6c53-eca71c",
         "code": "宁蒗彝族自治县",
         "name": "Ninglang Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-53-fd6c53",
-        "id": "CN-53-fd6c53-39ca18",
         "code": "永胜县",
         "name": "Yongsheng Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-53-fd6c53",
-        "id": "CN-53-fd6c53-fef539",
         "code": "玉龙纳西族自治县",
         "name": "Yulong Xian",
         "translations": {

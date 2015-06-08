@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-54c31f",
-        "id": "CN-21-54c31f-07fa48",
         "code": "鲅鱼圈区",
         "name": "Bayuquan Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-54c31f",
-        "id": "CN-21-54c31f-0e0ba8",
         "code": "大石桥市",
         "name": "Dashiqiao Shi",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-54c31f",
-        "id": "CN-21-54c31f-c92c09",
         "code": "盖州市",
         "name": "Gaizhou Shi",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-54c31f",
-        "id": "CN-21-54c31f-bfaf36",
         "code": "老边区",
         "name": "Laobian Qu",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-54c31f",
-        "id": "CN-21-54c31f-5d1057",
         "code": "西市区",
         "name": "Xishi Qu",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-54c31f",
-        "id": "CN-21-54c31f-b69341",
         "code": "站前区",
         "name": "Zhanqian Qu",
         "translations": {

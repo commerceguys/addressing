@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-22",
-        "id": "CN-22-d30d9e",
         "code": "白城市",
         "name": "Baicheng Shi",
         "translations": {
@@ -17,7 +16,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-22",
-        "id": "CN-22-5e89f3",
         "code": "白山市",
         "name": "Baishan Shi",
         "translations": {
@@ -31,7 +29,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-22",
-        "id": "CN-22-56eadc",
         "code": "吉林市",
         "name": "Jilin Shi",
         "translations": {
@@ -45,7 +42,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-22",
-        "id": "CN-22-59b6cf",
         "code": "辽源市",
         "name": "Liaoyuan Shi",
         "translations": {
@@ -59,7 +55,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-22",
-        "id": "CN-22-3a965e",
         "code": "四平市",
         "name": "Siping Shi",
         "translations": {
@@ -73,7 +68,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-22",
-        "id": "CN-22-6d662b",
         "code": "松原市",
         "name": "Songyuan Shi",
         "translations": {
@@ -87,7 +81,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-22",
-        "id": "CN-22-c524c1",
         "code": "通化市",
         "name": "Tonghua Shi",
         "translations": {
@@ -101,7 +94,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-22",
-        "id": "CN-22-a7d206",
         "code": "延边朝鲜族自治州",
         "name": "Yanbian Zhou",
         "translations": {
@@ -115,7 +107,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-22",
-        "id": "CN-22-db5b2a",
         "code": "长春市",
         "name": "Changchun Shi",
         "translations": {

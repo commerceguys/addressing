@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23-5a303b",
-        "id": "CN-23-5a303b-4af9fb",
         "code": "东风区",
         "name": "Dongfeng Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23-5a303b",
-        "id": "CN-23-5a303b-9b5822",
         "code": "抚远县",
         "name": "Fuyuan Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23-5a303b",
-        "id": "CN-23-5a303b-ca1402",
         "code": "富锦市",
         "name": "Fujin Shi",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23-5a303b",
-        "id": "CN-23-5a303b-ff612d",
         "code": "桦川县",
         "name": "Huachuan Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23-5a303b",
-        "id": "CN-23-5a303b-10b313",
         "code": "桦南县",
         "name": "Huanan Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23-5a303b",
-        "id": "CN-23-5a303b-e4fb07",
         "code": "郊区",
         "name": "Jiao Qu",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23-5a303b",
-        "id": "CN-23-5a303b-e68d45",
         "code": "前进区",
         "name": "Qianjin Qu",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23-5a303b",
-        "id": "CN-23-5a303b-a8e83e",
         "code": "汤原县",
         "name": "Tangyuan Xian",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23-5a303b",
-        "id": "CN-23-5a303b-236009",
         "code": "同江市",
         "name": "Tongjiang Shi",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23-5a303b",
-        "id": "CN-23-5a303b-296437",
         "code": "向阳区",
         "name": "Xiangyang Qu",
         "translations": {

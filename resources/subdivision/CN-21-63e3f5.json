@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-63e3f5",
-        "id": "CN-21-63e3f5-bea5e3",
         "code": "海城市",
         "name": "Haicheng Shi",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-63e3f5",
-        "id": "CN-21-63e3f5-9b83dc",
         "code": "立山区",
         "name": "Lishan Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-63e3f5",
-        "id": "CN-21-63e3f5-c1846a",
         "code": "千山区",
         "name": "Qianshan Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-63e3f5",
-        "id": "CN-21-63e3f5-4323bb",
         "code": "台安县",
         "name": "Tai'an Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-63e3f5",
-        "id": "CN-21-63e3f5-0b95cc",
         "code": "铁东区",
         "name": "Tiedong Qu",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-63e3f5",
-        "id": "CN-21-63e3f5-e47bd6",
         "code": "铁西区",
         "name": "Tiexi Qu",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-63e3f5",
-        "id": "CN-21-63e3f5-103629",
         "code": "岫岩满族自治县",
         "name": "Xiuyan Xian",
         "translations": {

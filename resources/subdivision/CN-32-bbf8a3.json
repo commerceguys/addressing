@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-bbf8a3",
-        "id": "CN-32-bbf8a3-df57da",
         "code": "金坛市",
         "name": "Jintan Shi",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-bbf8a3",
-        "id": "CN-32-bbf8a3-73b9dd",
         "code": "溧阳市",
         "name": "Liyang Shi",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-bbf8a3",
-        "id": "CN-32-bbf8a3-bee864",
         "code": "戚墅堰区",
         "name": "Qishuyan Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-bbf8a3",
-        "id": "CN-32-bbf8a3-2624ed",
         "code": "天宁区",
         "name": "Tianning Qu",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-bbf8a3",
-        "id": "CN-32-bbf8a3-b155f7",
         "code": "武进区",
         "name": "Wujin Qu",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-bbf8a3",
-        "id": "CN-32-bbf8a3-ce7cb0",
         "code": "新北区",
         "name": "Xinbei Qu",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-bbf8a3",
-        "id": "CN-32-bbf8a3-929d55",
         "code": "钟楼区",
         "name": "Zhonglou Qu",
         "translations": {

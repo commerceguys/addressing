@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-7167ee",
-        "id": "CN-21-7167ee-a5ec64",
         "code": "沈北新区",
         "name": "Chenbei Xinqu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-7167ee",
-        "id": "CN-21-7167ee-a6eff8",
         "code": "沈河区",
         "name": "Shenhe Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-7167ee",
-        "id": "CN-21-7167ee-313821",
         "code": "大东区",
         "name": "Dadong Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-7167ee",
-        "id": "CN-21-7167ee-99b7ae",
         "code": "东陵区",
         "name": "Dongling Qu",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-7167ee",
-        "id": "CN-21-7167ee-58d8f3",
         "code": "法库县",
         "name": "Faku Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-7167ee",
-        "id": "CN-21-7167ee-7d683c",
         "code": "和平区",
         "name": "Heping Qu",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-7167ee",
-        "id": "CN-21-7167ee-25d239",
         "code": "皇姑区",
         "name": "Huanggu Qu",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-7167ee",
-        "id": "CN-21-7167ee-7e6d96",
         "code": "康平县",
         "name": "Kangping Xian",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-7167ee",
-        "id": "CN-21-7167ee-66f4bb",
         "code": "辽中县",
         "name": "Liaozhong Xian",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-7167ee",
-        "id": "CN-21-7167ee-681d89",
         "code": "苏家屯区",
         "name": "Sujiatun Qu",
         "translations": {
@@ -133,7 +123,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-7167ee",
-        "id": "CN-21-7167ee-63ce9c",
         "code": "铁西区",
         "name": "Tiexi Qu",
         "translations": {
@@ -146,7 +135,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-7167ee",
-        "id": "CN-21-7167ee-c27fa7",
         "code": "新民市",
         "name": "Xinmin Shi",
         "translations": {
@@ -159,7 +147,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-7167ee",
-        "id": "CN-21-7167ee-f01778",
         "code": "于洪区",
         "name": "Yuhong Qu",
         "translations": {

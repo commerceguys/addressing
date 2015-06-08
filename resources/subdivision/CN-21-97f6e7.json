@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-97f6e7",
-        "id": "CN-21-97f6e7-3665a7",
         "code": "昌图县",
         "name": "Changtu Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-97f6e7",
-        "id": "CN-21-97f6e7-84ed3f",
         "code": "调兵山市",
         "name": "Diaobingshan Shi",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-97f6e7",
-        "id": "CN-21-97f6e7-44d3ab",
         "code": "开原市",
         "name": "Kaiyuan Shi",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-97f6e7",
-        "id": "CN-21-97f6e7-a0f5a6",
         "code": "清河区",
         "name": "Qinghe Qu",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-97f6e7",
-        "id": "CN-21-97f6e7-c4edff",
         "code": "铁岭县",
         "name": "Tieling Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-97f6e7",
-        "id": "CN-21-97f6e7-87d618",
         "code": "西丰县",
         "name": "Xifeng Xian",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-97f6e7",
-        "id": "CN-21-97f6e7-06023e",
         "code": "银州区",
         "name": "Yinzhou Qu",
         "translations": {

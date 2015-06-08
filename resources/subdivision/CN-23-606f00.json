@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23-606f00",
-        "id": "CN-23-606f00-20da31",
         "code": "城子河区",
         "name": "Chengzihe Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23-606f00",
-        "id": "CN-23-606f00-0b1819",
         "code": "滴道区",
         "name": "Keyao Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23-606f00",
-        "id": "CN-23-606f00-2123a4",
         "code": "恒山区",
         "name": "Hengshan Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23-606f00",
-        "id": "CN-23-606f00-40c462",
         "code": "虎林市",
         "name": "Hulin Shi",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23-606f00",
-        "id": "CN-23-606f00-7a92aa",
         "code": "鸡东县",
         "name": "Jidong Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23-606f00",
-        "id": "CN-23-606f00-b42616",
         "code": "鸡冠区",
         "name": "Jiguan Qu",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23-606f00",
-        "id": "CN-23-606f00-d91a5b",
         "code": "梨树区",
         "name": "Lishu Qu",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23-606f00",
-        "id": "CN-23-606f00-49b550",
         "code": "麻山区",
         "name": "Mashan Qu",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23-606f00",
-        "id": "CN-23-606f00-69d16d",
         "code": "密山市",
         "name": "Mishan Shi",
         "translations": {

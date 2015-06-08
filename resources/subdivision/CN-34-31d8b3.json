@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-31d8b3",
-        "id": "CN-34-31d8b3-ac5fc1",
         "code": "广德县",
         "name": "Guangde Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-31d8b3",
-        "id": "CN-34-31d8b3-3112e7",
         "code": "绩溪县",
         "name": "Jixi Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-31d8b3",
-        "id": "CN-34-31d8b3-b996bf",
         "code": "泾县",
         "name": "Jing Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-31d8b3",
-        "id": "CN-34-31d8b3-9e977f",
         "code": "旌德县",
         "name": "Jingde Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-31d8b3",
-        "id": "CN-34-31d8b3-28cc59",
         "code": "郎溪县",
         "name": "Langxi Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-31d8b3",
-        "id": "CN-34-31d8b3-42b777",
         "code": "宁国市",
         "name": "Ningguo Shi",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-31d8b3",
-        "id": "CN-34-31d8b3-ebd798",
         "code": "宣州区",
         "name": "Xuanzhou Qu",
         "translations": {

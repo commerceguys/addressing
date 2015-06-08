@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-3a75b7",
-        "id": "CN-41-3a75b7-5d7c59",
         "code": "博爱县",
         "name": "Bo'ai Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-3a75b7",
-        "id": "CN-41-3a75b7-81cde8",
         "code": "济源市",
         "name": "Jiyuan Shi",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-3a75b7",
-        "id": "CN-41-3a75b7-414f29",
         "code": "解放区",
         "name": "Jiefang Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-3a75b7",
-        "id": "CN-41-3a75b7-7b5f91",
         "code": "马村区",
         "name": "Macun Qu",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-3a75b7",
-        "id": "CN-41-3a75b7-f8ae7d",
         "code": "孟州市",
         "name": "Mengzhou Shi",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-3a75b7",
-        "id": "CN-41-3a75b7-b3f855",
         "code": "沁阳市",
         "name": "Qinyang Shi",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-3a75b7",
-        "id": "CN-41-3a75b7-95487b",
         "code": "山阳区",
         "name": "Shanyang Qu",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-3a75b7",
-        "id": "CN-41-3a75b7-cc51e1",
         "code": "温县",
         "name": "Wen Xian",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-3a75b7",
-        "id": "CN-41-3a75b7-141de5",
         "code": "武陟县",
         "name": "Wuzhi Xian",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-3a75b7",
-        "id": "CN-41-3a75b7-e0f186",
         "code": "修武县",
         "name": "Xiwu Xian",
         "translations": {
@@ -133,7 +123,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-3a75b7",
-        "id": "CN-41-3a75b7-51c639",
         "code": "中站区",
         "name": "Zhongzhan Qu",
         "translations": {

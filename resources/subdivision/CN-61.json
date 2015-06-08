@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-61",
-        "id": "CN-61-cf0d91",
         "code": "安康市",
         "name": "Ankang Shi",
         "translations": {
@@ -17,7 +16,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-61",
-        "id": "CN-61-21816c",
         "code": "宝鸡市",
         "name": "Baoji Shi",
         "translations": {
@@ -31,7 +29,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-61",
-        "id": "CN-61-387696",
         "code": "汉中市",
         "name": "Hanzhong Shi",
         "translations": {
@@ -45,7 +42,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-61",
-        "id": "CN-61-97dca6",
         "code": "商洛市",
         "name": "Shangluo Shi",
         "translations": {
@@ -59,7 +55,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-61",
-        "id": "CN-61-75dae4",
         "code": "铜川市",
         "name": "Tongchuan Shi",
         "translations": {
@@ -73,7 +68,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-61",
-        "id": "CN-61-c83e91",
         "code": "渭南市",
         "name": "Weinan Shi",
         "translations": {
@@ -87,7 +81,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-61",
-        "id": "CN-61-af45c3",
         "code": "西安市",
         "name": "Xi'an Shi",
         "translations": {
@@ -101,7 +94,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-61",
-        "id": "CN-61-4d4123",
         "code": "咸阳市",
         "name": "Xianyang Shi",
         "translations": {
@@ -115,7 +107,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-61",
-        "id": "CN-61-fbd928",
         "code": "延安市",
         "name": "Yan'an Shi",
         "translations": {
@@ -129,7 +120,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-61",
-        "id": "CN-61-e32e48",
         "code": "榆林市",
         "name": "Yulin Shi",
         "translations": {

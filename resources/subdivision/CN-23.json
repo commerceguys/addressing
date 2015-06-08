@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23",
-        "id": "CN-23-073d53",
         "code": "大庆市",
         "name": "Daqing Shi",
         "translations": {
@@ -17,7 +16,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23",
-        "id": "CN-23-a59ec0",
         "code": "大兴安岭地区",
         "name": "Da Hinggan Ling Diqu",
         "translations": {
@@ -31,7 +29,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23",
-        "id": "CN-23-d1eee9",
         "code": "哈尔滨市",
         "name": "Harbin Shi",
         "translations": {
@@ -45,7 +42,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23",
-        "id": "CN-23-3062ba",
         "code": "鹤岗市",
         "name": "Hegang Shi",
         "translations": {
@@ -59,7 +55,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23",
-        "id": "CN-23-3f4d19",
         "code": "黑河市",
         "name": "Heihe Shi",
         "translations": {
@@ -73,7 +68,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23",
-        "id": "CN-23-606f00",
         "code": "鸡西市",
         "name": "Jixi Shi",
         "translations": {
@@ -87,7 +81,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23",
-        "id": "CN-23-5a303b",
         "code": "佳木斯市",
         "name": "Jiamusi Shi",
         "translations": {
@@ -101,7 +94,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23",
-        "id": "CN-23-4a932c",
         "code": "牡丹江市",
         "name": "Mudanjiang Shi",
         "translations": {
@@ -115,7 +107,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23",
-        "id": "CN-23-b53b88",
         "code": "七台河市",
         "name": "Qitaihe Shi",
         "translations": {
@@ -129,7 +120,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23",
-        "id": "CN-23-3af71d",
         "code": "齐齐哈尔市",
         "name": "Qiqihar Shi",
         "translations": {
@@ -143,7 +133,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23",
-        "id": "CN-23-fc791a",
         "code": "双鸭山市",
         "name": "Shuangyashan Shi",
         "translations": {
@@ -157,7 +146,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23",
-        "id": "CN-23-b54172",
         "code": "绥化市",
         "name": "Suihua Shi",
         "translations": {
@@ -171,7 +159,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23",
-        "id": "CN-23-1ebdee",
         "code": "伊春市",
         "name": "Yichun Shi",
         "translations": {

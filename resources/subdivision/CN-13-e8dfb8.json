@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-e8dfb8",
-        "id": "CN-13-e8dfb8-269b0a",
         "code": "成安县",
         "name": "Cheng'an Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-e8dfb8",
-        "id": "CN-13-e8dfb8-5aecf7",
         "code": "磁县",
         "name": "Ci Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-e8dfb8",
-        "id": "CN-13-e8dfb8-b9a1d9",
         "code": "丛台区",
         "name": "Congtai Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-e8dfb8",
-        "id": "CN-13-e8dfb8-adc416",
         "code": "大名县",
         "name": "Daming Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-e8dfb8",
-        "id": "CN-13-e8dfb8-9da1d7",
         "code": "肥乡县",
         "name": "Feixiang Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-e8dfb8",
-        "id": "CN-13-e8dfb8-ad442c",
         "code": "峰峰矿区",
         "name": "Fengfeng Kuangqu",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-e8dfb8",
-        "id": "CN-13-e8dfb8-f35545",
         "code": "复兴区",
         "name": "Fuxing Qu",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-e8dfb8",
-        "id": "CN-13-e8dfb8-7f950f",
         "code": "馆陶县",
         "name": "Guantao Xian",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-e8dfb8",
-        "id": "CN-13-e8dfb8-62e2ba",
         "code": "广平县",
         "name": "Guangping Xian",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-e8dfb8",
-        "id": "CN-13-e8dfb8-59080b",
         "code": "邯郸县",
         "name": "Handan Xian",
         "translations": {
@@ -133,7 +123,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-e8dfb8",
-        "id": "CN-13-e8dfb8-15afa6",
         "code": "邯山区",
         "name": "Hanshan Qu",
         "translations": {
@@ -146,7 +135,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-e8dfb8",
-        "id": "CN-13-e8dfb8-81aa2b",
         "code": "鸡泽县",
         "name": "Jize Xian",
         "translations": {
@@ -159,7 +147,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-e8dfb8",
-        "id": "CN-13-e8dfb8-9713a5",
         "code": "临漳县",
         "name": "Linzhang Xian",
         "translations": {
@@ -172,7 +159,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-e8dfb8",
-        "id": "CN-13-e8dfb8-97269c",
         "code": "邱县",
         "name": "Qiu Xian",
         "translations": {
@@ -185,7 +171,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-e8dfb8",
-        "id": "CN-13-e8dfb8-d1b92c",
         "code": "曲周县",
         "name": "Quzhou Xian",
         "translations": {
@@ -198,7 +183,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-e8dfb8",
-        "id": "CN-13-e8dfb8-5cbc84",
         "code": "涉县",
         "name": "She Xian",
         "translations": {
@@ -211,7 +195,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-e8dfb8",
-        "id": "CN-13-e8dfb8-004d7d",
         "code": "魏县",
         "name": "Wei Xian",
         "translations": {
@@ -224,7 +207,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-e8dfb8",
-        "id": "CN-13-e8dfb8-8d7036",
         "code": "武安市",
         "name": "Wu'an Shi",
         "translations": {
@@ -237,7 +219,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-e8dfb8",
-        "id": "CN-13-e8dfb8-dbce2e",
         "code": "永年县",
         "name": "Yongnian Xian",
         "translations": {

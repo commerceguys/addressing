@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44",
-        "id": "CN-44-a08359",
         "code": "潮州市",
         "name": "Chaozhou Shi",
         "translations": {
@@ -17,7 +16,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44",
-        "id": "CN-44-29e129",
         "code": "东莞市",
         "name": "Dongguan Shi",
         "translations": {
@@ -30,7 +28,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44",
-        "id": "CN-44-c25091",
         "code": "佛山市",
         "name": "Foshan Shi",
         "translations": {
@@ -44,7 +41,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44",
-        "id": "CN-44-6d0908",
         "code": "广州市",
         "name": "Guangzhou Shi",
         "translations": {
@@ -58,7 +54,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44",
-        "id": "CN-44-bba3e0",
         "code": "河源市",
         "name": "Heyuan Shi",
         "translations": {
@@ -72,7 +67,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44",
-        "id": "CN-44-1920eb",
         "code": "惠州市",
         "name": "Huizhou Shi",
         "translations": {
@@ -86,7 +80,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44",
-        "id": "CN-44-718806",
         "code": "江门市",
         "name": "Jiangmen Shi",
         "translations": {
@@ -100,7 +93,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44",
-        "id": "CN-44-6876bb",
         "code": "揭阳市",
         "name": "Jieyang Shi",
         "translations": {
@@ -114,7 +106,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44",
-        "id": "CN-44-4fb411",
         "code": "茂名市",
         "name": "Maoming Shi",
         "translations": {
@@ -128,7 +119,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44",
-        "id": "CN-44-331cbf",
         "code": "梅州市",
         "name": "Meizhou Shi",
         "translations": {
@@ -142,7 +132,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44",
-        "id": "CN-44-273b74",
         "code": "清远市",
         "name": "Qingyuan Shi",
         "translations": {
@@ -156,7 +145,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44",
-        "id": "CN-44-469dfd",
         "code": "汕头市",
         "name": "Shantou Shi",
         "translations": {
@@ -170,7 +158,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44",
-        "id": "CN-44-9ea1de",
         "code": "汕尾市",
         "name": "Shanwei Shi",
         "translations": {
@@ -184,7 +171,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44",
-        "id": "CN-44-9a7e30",
         "code": "韶关市",
         "name": "Shaoguan Shi",
         "translations": {
@@ -198,7 +184,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44",
-        "id": "CN-44-7789f3",
         "code": "深圳市",
         "name": "Shenzhen Shi",
         "translations": {
@@ -212,7 +197,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44",
-        "id": "CN-44-3c888c",
         "code": "阳江市",
         "name": "Yangjiang Shi",
         "translations": {
@@ -226,7 +210,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44",
-        "id": "CN-44-d7aa9d",
         "code": "云浮市",
         "name": "Yunfu Shi",
         "translations": {
@@ -240,7 +223,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44",
-        "id": "CN-44-53e6ab",
         "code": "湛江市",
         "name": "Zhanjiang Shi",
         "translations": {
@@ -254,7 +236,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44",
-        "id": "CN-44-e014b8",
         "code": "肇庆市",
         "name": "Zhaoqing Shi",
         "translations": {
@@ -268,7 +249,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44",
-        "id": "CN-44-c67295",
         "code": "中山市",
         "name": "Zhongshan Shi",
         "translations": {
@@ -281,7 +261,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44",
-        "id": "CN-44-b4e4be",
         "code": "珠海市",
         "name": "Zhuhai Shi",
         "translations": {

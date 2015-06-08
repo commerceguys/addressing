@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-dbdcca",
-        "id": "CN-41-dbdcca-320c20",
         "code": "泌阳县",
         "name": "Biyang Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-dbdcca",
-        "id": "CN-41-dbdcca-9e243c",
         "code": "平舆县",
         "name": "Pingyu Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-dbdcca",
-        "id": "CN-41-dbdcca-731548",
         "code": "确山县",
         "name": "Queshan Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-dbdcca",
-        "id": "CN-41-dbdcca-757640",
         "code": "汝南县",
         "name": "Runan Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-dbdcca",
-        "id": "CN-41-dbdcca-ff87cd",
         "code": "上蔡县",
         "name": "Shangcai Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-dbdcca",
-        "id": "CN-41-dbdcca-d6c52f",
         "code": "遂平县",
         "name": "Suiping Xian",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-dbdcca",
-        "id": "CN-41-dbdcca-43bd48",
         "code": "西平县",
         "name": "Xiping Xian",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-dbdcca",
-        "id": "CN-41-dbdcca-0a1019",
         "code": "新蔡县",
         "name": "Xincai Xian",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-dbdcca",
-        "id": "CN-41-dbdcca-75ff52",
         "code": "驿城区",
         "name": "Yicheng Qu",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-dbdcca",
-        "id": "CN-41-dbdcca-90cf20",
         "code": "正阳县",
         "name": "Zhengyang Xian",
         "translations": {

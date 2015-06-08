@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-e9b643",
-        "id": "CN-15-e9b643-6b7efb",
         "code": "和林格尔县",
         "name": "Horinger Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-e9b643",
-        "id": "CN-15-e9b643-639a70",
         "code": "回民区",
         "name": "Huimin Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-e9b643",
-        "id": "CN-15-e9b643-934b03",
         "code": "清水河县",
         "name": "Qingshuihe Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-e9b643",
-        "id": "CN-15-e9b643-97f338",
         "code": "赛罕区",
         "name": "Saihan Qu",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-e9b643",
-        "id": "CN-15-e9b643-9b0e61",
         "code": "土默特左旗",
         "name": "Tumd Zuoqi",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-e9b643",
-        "id": "CN-15-e9b643-da7651",
         "code": "托克托县",
         "name": "Togtoh Xian",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-e9b643",
-        "id": "CN-15-e9b643-c13ecf",
         "code": "武川县",
         "name": "Wuchuan Xian",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-e9b643",
-        "id": "CN-15-e9b643-ac7f98",
         "code": "新城区",
         "name": "Xincheng Qu",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-e9b643",
-        "id": "CN-15-e9b643-f198f7",
         "code": "玉泉区",
         "name": "Yuquan Qu",
         "translations": {

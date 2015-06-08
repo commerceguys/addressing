@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-fff0ba",
-        "id": "CN-37-fff0ba-d49408",
         "code": "城阳区",
         "name": "Chengyang Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-fff0ba",
-        "id": "CN-37-fff0ba-ea93bd",
         "code": "黄岛区",
         "name": "Huangdao Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-fff0ba",
-        "id": "CN-37-fff0ba-947899",
         "code": "即墨市",
         "name": "Jimo Shi",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-fff0ba",
-        "id": "CN-37-fff0ba-79de19",
         "code": "胶南市",
         "name": "Jiaonan Shi",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-fff0ba",
-        "id": "CN-37-fff0ba-f0766a",
         "code": "胶州市",
         "name": "Jiaozhou Shi",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-fff0ba",
-        "id": "CN-37-fff0ba-336780",
         "code": "莱西市",
         "name": "Laixi Shi",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-fff0ba",
-        "id": "CN-37-fff0ba-5c6f84",
         "code": "崂山区",
         "name": "Laoshan Qu",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-fff0ba",
-        "id": "CN-37-fff0ba-ea0f82",
         "code": "李沧区",
         "name": "Licang Qu",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-fff0ba",
-        "id": "CN-37-fff0ba-d4318d",
         "code": "平度市",
         "name": "Pingdu Shi",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-fff0ba",
-        "id": "CN-37-fff0ba-bf4bf3",
         "code": "市北区",
         "name": "Shibei Qu",
         "translations": {
@@ -133,7 +123,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-fff0ba",
-        "id": "CN-37-fff0ba-509be3",
         "code": "市南区",
         "name": "Shinan Qu",
         "translations": {
@@ -146,7 +135,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-fff0ba",
-        "id": "CN-37-fff0ba-f001aa",
         "code": "四方区",
         "name": "Sifang Qu",
         "translations": {

@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-7082f2",
-        "id": "CN-32-7082f2-226413",
         "code": "丰县",
         "name": "Feng Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-7082f2",
-        "id": "CN-32-7082f2-a4644d",
         "code": "鼓楼区",
         "name": "Gulou Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-7082f2",
-        "id": "CN-32-7082f2-87b0e3",
         "code": "贾汪区",
         "name": "Jiawang Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-7082f2",
-        "id": "CN-32-7082f2-d2c545",
         "code": "九里区",
         "name": "Jiuli Qu",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-7082f2",
-        "id": "CN-32-7082f2-a34954",
         "code": "沛县",
         "name": "Pei Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-7082f2",
-        "id": "CN-32-7082f2-cfb0cc",
         "code": "邳州市",
         "name": "Pizhou Shi",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-7082f2",
-        "id": "CN-32-7082f2-d3f5cb",
         "code": "泉山区",
         "name": "Quanshan Qu",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-7082f2",
-        "id": "CN-32-7082f2-ef5989",
         "code": "睢宁县",
         "name": "Suining Xian",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-7082f2",
-        "id": "CN-32-7082f2-93429c",
         "code": "铜山县",
         "name": "Tongshan Xian",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-7082f2",
-        "id": "CN-32-7082f2-8a8011",
         "code": "新沂市",
         "name": "Xinyi Shi",
         "translations": {
@@ -133,7 +123,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-7082f2",
-        "id": "CN-32-7082f2-74059e",
         "code": "云龙区",
         "name": "Yunlong Qu",
         "translations": {

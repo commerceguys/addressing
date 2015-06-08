@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-d61fc8",
-        "id": "CN-15-d61fc8-e978b7",
         "code": "白云矿区",
         "name": "Baiyun Kuangqu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-d61fc8",
-        "id": "CN-15-d61fc8-aac879",
         "code": "达尔罕茂明安联合旗",
         "name": "Darhan Mumingan Lianheqi",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-d61fc8",
-        "id": "CN-15-d61fc8-197c56",
         "code": "东河区",
         "name": "Donghe Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-d61fc8",
-        "id": "CN-15-d61fc8-063fd0",
         "code": "固阳县",
         "name": "Guyang Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-d61fc8",
-        "id": "CN-15-d61fc8-e9bd7f",
         "code": "九原区",
         "name": "Jiuyuan Qu",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-d61fc8",
-        "id": "CN-15-d61fc8-1c5aff",
         "code": "昆都仑区",
         "name": "Hondlon Qu",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-d61fc8",
-        "id": "CN-15-d61fc8-4bc0ca",
         "code": "青山区",
         "name": "Qingshan Qu",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-d61fc8",
-        "id": "CN-15-d61fc8-94c415",
         "code": "石拐区",
         "name": "Shiguai Qu",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-d61fc8",
-        "id": "CN-15-d61fc8-7529e3",
         "code": "土默特右旗",
         "name": "Tumd Youqi",
         "translations": {

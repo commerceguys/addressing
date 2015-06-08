@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-5a43c1",
-        "id": "CN-37-5a43c1-5702f0",
         "code": "茌平县",
         "name": "Chiping Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-5a43c1",
-        "id": "CN-37-5a43c1-71cf6a",
         "code": "东阿县",
         "name": "Dong'e Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-5a43c1",
-        "id": "CN-37-5a43c1-d6fd2e",
         "code": "东昌府区",
         "name": "Dongchangfu Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-5a43c1",
-        "id": "CN-37-5a43c1-2ac689",
         "code": "高唐县",
         "name": "Gaotang Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-5a43c1",
-        "id": "CN-37-5a43c1-1ba8d4",
         "code": "冠县",
         "name": "Guan Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-5a43c1",
-        "id": "CN-37-5a43c1-896244",
         "code": "临清市",
         "name": "Linqing Shi",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-5a43c1",
-        "id": "CN-37-5a43c1-62a7ce",
         "code": "莘县",
         "name": "Shen Xian",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-5a43c1",
-        "id": "CN-37-5a43c1-d9680b",
         "code": "阳谷县",
         "name": "Yanggu Xian",
         "translations": {

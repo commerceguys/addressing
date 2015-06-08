@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15",
-        "id": "CN-15-e8a3a9",
         "code": "阿拉善盟",
         "name": "Alxa Meng",
         "translations": {
@@ -17,7 +16,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15",
-        "id": "CN-15-9e2e16",
         "code": "巴彦淖尔市",
         "name": "Bayannur Shi",
         "translations": {
@@ -31,7 +29,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15",
-        "id": "CN-15-d61fc8",
         "code": "包头市",
         "name": "Baotou Shi",
         "translations": {
@@ -45,7 +42,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15",
-        "id": "CN-15-06fca8",
         "code": "赤峰市",
         "name": "Chifeng Shi",
         "translations": {
@@ -59,7 +55,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15",
-        "id": "CN-15-8b5b84",
         "code": "鄂尔多斯市",
         "name": "Ordos Shi",
         "translations": {
@@ -73,7 +68,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15",
-        "id": "CN-15-e9b643",
         "code": "呼和浩特市",
         "name": "Hohhot Shi",
         "translations": {
@@ -87,7 +81,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15",
-        "id": "CN-15-6e8523",
         "code": "呼伦贝尔市",
         "name": "Hulun Buir Shi",
         "translations": {
@@ -101,7 +94,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15",
-        "id": "CN-15-6fe6c3",
         "code": "通辽市",
         "name": "Tongliao Shi",
         "translations": {
@@ -115,7 +107,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15",
-        "id": "CN-15-70a92e",
         "code": "乌海市",
         "name": "Wuhai Shi",
         "translations": {
@@ -129,7 +120,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15",
-        "id": "CN-15-d163c2",
         "code": "乌兰察布市",
         "name": "Ulanqab Shi",
         "translations": {
@@ -143,7 +133,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15",
-        "id": "CN-15-f5c295",
         "code": "锡林郭勒盟",
         "name": "Xilin Gol Meng",
         "translations": {
@@ -157,7 +146,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15",
-        "id": "CN-15-c63e11",
         "code": "兴安盟",
         "name": "Hinggan Meng",
         "translations": {

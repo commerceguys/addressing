@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-62",
-        "id": "CN-62-86a3f7",
         "code": "白银市",
         "name": "Baiyin Shi",
         "translations": {
@@ -17,7 +16,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-62",
-        "id": "CN-62-67a810",
         "code": "定西市",
         "name": "Dingxi Shi",
         "translations": {
@@ -31,7 +29,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-62",
-        "id": "CN-62-3eff90",
         "code": "甘南藏族自治州",
         "name": "Gannan Zhou",
         "translations": {
@@ -45,7 +42,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-62",
-        "id": "CN-62-33cf68",
         "code": "嘉峪关市",
         "name": "Jiayuguan Shi",
         "translations": {
@@ -58,7 +54,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-62",
-        "id": "CN-62-1bed76",
         "code": "金昌市",
         "name": "Jinchang Shi",
         "translations": {
@@ -72,7 +67,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-62",
-        "id": "CN-62-670094",
         "code": "酒泉市",
         "name": "Jiuquan Shi",
         "translations": {
@@ -86,7 +80,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-62",
-        "id": "CN-62-2ef5ac",
         "code": "兰州市",
         "name": "Lanzhou Shi",
         "translations": {
@@ -100,7 +93,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-62",
-        "id": "CN-62-5cd643",
         "code": "临夏回族自治州",
         "name": "Linxia Zhou",
         "translations": {
@@ -114,7 +106,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-62",
-        "id": "CN-62-634033",
         "code": "陇南市",
         "name": "Longnan Shi",
         "translations": {
@@ -128,7 +119,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-62",
-        "id": "CN-62-f65236",
         "code": "平凉市",
         "name": "Pingliang Shi",
         "translations": {
@@ -142,7 +132,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-62",
-        "id": "CN-62-4b712c",
         "code": "庆阳市",
         "name": "Qingyang Shi",
         "translations": {
@@ -156,7 +145,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-62",
-        "id": "CN-62-a22c87",
         "code": "天水市",
         "name": "Tianshui Shi",
         "translations": {
@@ -170,7 +158,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-62",
-        "id": "CN-62-84ebf3",
         "code": "武威市",
         "name": "Wuwei Shi",
         "translations": {
@@ -184,7 +171,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-62",
-        "id": "CN-62-6947b0",
         "code": "张掖市",
         "name": "Zhangye Shi",
         "translations": {

@@ -3,8 +3,6 @@
         "locale": "ms",
         "country_code": "MY",
         "parent_id": null,
-        "id": "MY-01",
-        "code": "JOHOR",
         "name": "JOHOR",
         "postal_code_pattern": "79|8[0-6]"
     },
@@ -12,8 +10,6 @@
         "locale": "ms",
         "country_code": "MY",
         "parent_id": null,
-        "id": "MY-02",
-        "code": "KEDAH",
         "name": "KEDAH",
         "postal_code_pattern": "0[5-9]|34950"
     },
@@ -21,8 +17,6 @@
         "locale": "ms",
         "country_code": "MY",
         "parent_id": null,
-        "id": "MY-03",
-        "code": "KELANTAN",
         "name": "KELANTAN",
         "postal_code_pattern": "1[5-9]"
     },
@@ -30,8 +24,6 @@
         "locale": "ms",
         "country_code": "MY",
         "parent_id": null,
-        "id": "MY-14",
-        "code": "KUALA LUMPUR",
         "name": "KUALA LUMPUR",
         "postal_code_pattern": "5|60"
     },
@@ -39,8 +31,6 @@
         "locale": "ms",
         "country_code": "MY",
         "parent_id": null,
-        "id": "MY-15",
-        "code": "LABUAN",
         "name": "LABUAN",
         "postal_code_pattern": "87"
     },
@@ -48,8 +38,6 @@
         "locale": "ms",
         "country_code": "MY",
         "parent_id": null,
-        "id": "MY-04",
-        "code": "MELAKA",
         "name": "MELAKA",
         "postal_code_pattern": "7[5-8]"
     },
@@ -57,8 +45,6 @@
         "locale": "ms",
         "country_code": "MY",
         "parent_id": null,
-        "id": "MY-05",
-        "code": "NEGERI SEMBILAN",
         "name": "NEGERI SEMBILAN",
         "postal_code_pattern": "7[0-4]"
     },
@@ -66,8 +52,6 @@
         "locale": "ms",
         "country_code": "MY",
         "parent_id": null,
-        "id": "MY-06",
-        "code": "PAHANG",
         "name": "PAHANG",
         "postal_code_pattern": "2[5-8]|[346]9"
     },
@@ -75,8 +59,6 @@
         "locale": "ms",
         "country_code": "MY",
         "parent_id": null,
-        "id": "MY-08",
-        "code": "PERAK",
         "name": "PERAK",
         "postal_code_pattern": "3[0-6]|39000"
     },
@@ -84,8 +66,6 @@
         "locale": "ms",
         "country_code": "MY",
         "parent_id": null,
-        "id": "MY-09",
-        "code": "PERLIS",
         "name": "PERLIS",
         "postal_code_pattern": "0[12]"
     },
@@ -93,8 +73,6 @@
         "locale": "ms",
         "country_code": "MY",
         "parent_id": null,
-        "id": "MY-07",
-        "code": "PULAU PINANG",
         "name": "PULAU PINANG",
         "postal_code_pattern": "1[0-4]"
     },
@@ -102,8 +80,6 @@
         "locale": "ms",
         "country_code": "MY",
         "parent_id": null,
-        "id": "MY-16",
-        "code": "PUTRAJAYA",
         "name": "PUTRAJAYA",
         "postal_code_pattern": "62"
     },
@@ -111,8 +87,6 @@
         "locale": "ms",
         "country_code": "MY",
         "parent_id": null,
-        "id": "MY-12",
-        "code": "SABAH",
         "name": "SABAH",
         "postal_code_pattern": "8[89]|9[01]"
     },
@@ -120,8 +94,6 @@
         "locale": "ms",
         "country_code": "MY",
         "parent_id": null,
-        "id": "MY-13",
-        "code": "SARAWAK",
         "name": "SARAWAK",
         "postal_code_pattern": "9[3-8]"
     },
@@ -129,8 +101,6 @@
         "locale": "ms",
         "country_code": "MY",
         "parent_id": null,
-        "id": "MY-10",
-        "code": "SELANGOR",
         "name": "SELANGOR",
         "postal_code_pattern": "4[0-8]|6[3-8]"
     },
@@ -138,8 +108,6 @@
         "locale": "ms",
         "country_code": "MY",
         "parent_id": null,
-        "id": "MY-11",
-        "code": "TERENGGANU",
         "name": "TERENGGANU",
         "postal_code_pattern": "2[0-4]"
     }

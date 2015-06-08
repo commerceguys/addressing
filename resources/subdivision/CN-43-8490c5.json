@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-8490c5",
-        "id": "CN-43-8490c5-aa4710",
         "code": "常宁市",
         "name": "Changning Shi",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-8490c5",
-        "id": "CN-43-8490c5-cf97e3",
         "code": "衡东县",
         "name": "Hengdong Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-8490c5",
-        "id": "CN-43-8490c5-b31d50",
         "code": "衡南县",
         "name": "Hengnan Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-8490c5",
-        "id": "CN-43-8490c5-08b063",
         "code": "衡山县",
         "name": "Hengshan Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-8490c5",
-        "id": "CN-43-8490c5-5e4977",
         "code": "衡阳县",
         "name": "Hengyang Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-8490c5",
-        "id": "CN-43-8490c5-7edcc2",
         "code": "耒阳市",
         "name": "Leiyang Shi",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-8490c5",
-        "id": "CN-43-8490c5-8715e1",
         "code": "南岳区",
         "name": "Nanyue Qu",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-8490c5",
-        "id": "CN-43-8490c5-91fba6",
         "code": "祁东县",
         "name": "Qidong Xian",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-8490c5",
-        "id": "CN-43-8490c5-02522e",
         "code": "石鼓区",
         "name": "Shigu Qu",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-8490c5",
-        "id": "CN-43-8490c5-d0d8bf",
         "code": "雁峰区",
         "name": "Yanfeng Qu",
         "translations": {
@@ -133,7 +123,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-8490c5",
-        "id": "CN-43-8490c5-cab386",
         "code": "蒸湘区",
         "name": "Zhengxiang Qu",
         "translations": {
@@ -146,7 +135,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-8490c5",
-        "id": "CN-43-8490c5-98bda1",
         "code": "珠晖区",
         "name": "Zhuhui Qu",
         "translations": {

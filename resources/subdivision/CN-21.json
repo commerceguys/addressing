@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21",
-        "id": "CN-21-63e3f5",
         "code": "鞍山市",
         "name": "Anshan Shi",
         "translations": {
@@ -17,7 +16,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21",
-        "id": "CN-21-5a424e",
         "code": "本溪市",
         "name": "Benxi Shi",
         "translations": {
@@ -31,7 +29,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21",
-        "id": "CN-21-58a86b",
         "code": "朝阳市",
         "name": "Chaoyang Shi",
         "translations": {
@@ -45,7 +42,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21",
-        "id": "CN-21-94a4eb",
         "code": "大连市",
         "name": "Dalian Shi",
         "translations": {
@@ -59,7 +55,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21",
-        "id": "CN-21-09ba4e",
         "code": "丹东市",
         "name": "Dandong Shi",
         "translations": {
@@ -73,7 +68,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21",
-        "id": "CN-21-d00c79",
         "code": "抚顺市",
         "name": "Fushun Shi",
         "translations": {
@@ -87,7 +81,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21",
-        "id": "CN-21-3bb2a1",
         "code": "阜新市",
         "name": "Fuxin Shi",
         "translations": {
@@ -101,7 +94,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21",
-        "id": "CN-21-00c16e",
         "code": "葫芦岛市",
         "name": "Huludao Shi",
         "translations": {
@@ -115,7 +107,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21",
-        "id": "CN-21-147eb8",
         "code": "锦州市",
         "name": "Jinzhou Shi",
         "translations": {
@@ -129,7 +120,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21",
-        "id": "CN-21-add646",
         "code": "辽阳市",
         "name": "Liaoyang Shi",
         "translations": {
@@ -143,7 +133,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21",
-        "id": "CN-21-ab23b3",
         "code": "盘锦市",
         "name": "Panjin Shi",
         "translations": {
@@ -157,7 +146,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21",
-        "id": "CN-21-7167ee",
         "code": "沈阳市",
         "name": "Shenyang Shi",
         "translations": {
@@ -171,7 +159,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21",
-        "id": "CN-21-97f6e7",
         "code": "铁岭市",
         "name": "Tieling Shi",
         "translations": {
@@ -185,7 +172,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21",
-        "id": "CN-21-54c31f",
         "code": "营口市",
         "name": "Yingkou Shi",
         "translations": {

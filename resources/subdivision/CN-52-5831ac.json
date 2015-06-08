@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52-5831ac",
-        "id": "CN-52-5831ac-3ea5f1",
         "code": "白云区",
         "name": "Baiyun Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52-5831ac",
-        "id": "CN-52-5831ac-380044",
         "code": "花溪区",
         "name": "Huaxi Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52-5831ac",
-        "id": "CN-52-5831ac-88970b",
         "code": "开阳县",
         "name": "Kaiyang Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52-5831ac",
-        "id": "CN-52-5831ac-29af23",
         "code": "南明区",
         "name": "Nanming Qu",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52-5831ac",
-        "id": "CN-52-5831ac-8ee1a4",
         "code": "清镇市",
         "name": "Qingzhen Shi",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52-5831ac",
-        "id": "CN-52-5831ac-3cf5f1",
         "code": "乌当区",
         "name": "Wudang Qu",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52-5831ac",
-        "id": "CN-52-5831ac-1c46a3",
         "code": "息烽县",
         "name": "Xifeng Xian",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52-5831ac",
-        "id": "CN-52-5831ac-41a0cc",
         "code": "小河区",
         "name": "Xiaohe Qu",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52-5831ac",
-        "id": "CN-52-5831ac-2ea3f7",
         "code": "修文县",
         "name": "Xiuwen Xian",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52-5831ac",
-        "id": "CN-52-5831ac-badf4e",
         "code": "云岩区",
         "name": "Yunyan Qu",
         "translations": {

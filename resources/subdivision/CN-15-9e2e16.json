@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-9e2e16",
-        "id": "CN-15-9e2e16-2f64f8",
         "code": "磴口县",
         "name": "Dengkou Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-9e2e16",
-        "id": "CN-15-9e2e16-cf2a16",
         "code": "杭锦后旗",
         "name": "Hanggin Houqi",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-9e2e16",
-        "id": "CN-15-9e2e16-dc004f",
         "code": "临河区",
         "name": "Linhe Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-9e2e16",
-        "id": "CN-15-9e2e16-7197b4",
         "code": "乌拉特后旗",
         "name": "Urad Houqi",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-9e2e16",
-        "id": "CN-15-9e2e16-11318f",
         "code": "乌拉特前旗",
         "name": "Urad Qianqi",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-9e2e16",
-        "id": "CN-15-9e2e16-d4f7b6",
         "code": "乌拉特中旗",
         "name": "Urad Zhongqi",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-9e2e16",
-        "id": "CN-15-9e2e16-6f6c91",
         "code": "五原县",
         "name": "Wuyuan Xian",
         "translations": {

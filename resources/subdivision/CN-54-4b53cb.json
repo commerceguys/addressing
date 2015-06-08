@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-54-4b53cb",
-        "id": "CN-54-4b53cb-95c3e0",
         "code": "安多县",
         "name": "Amdo Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-54-4b53cb",
-        "id": "CN-54-4b53cb-82fb1c",
         "code": "巴青县",
         "name": "Baqên Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-54-4b53cb",
-        "id": "CN-54-4b53cb-66a6f6",
         "code": "班戈县",
         "name": "Bangoin Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-54-4b53cb",
-        "id": "CN-54-4b53cb-2797ae",
         "code": "比如县",
         "name": "Biru Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-54-4b53cb",
-        "id": "CN-54-4b53cb-24f837",
         "code": "嘉黎县",
         "name": "Lhari Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-54-4b53cb",
-        "id": "CN-54-4b53cb-60ba4b",
         "code": "那曲县",
         "name": "Nagqu Xian",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-54-4b53cb",
-        "id": "CN-54-4b53cb-c40713",
         "code": "尼玛县",
         "name": "Nyima Xian",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-54-4b53cb",
-        "id": "CN-54-4b53cb-d961f8",
         "code": "聂荣县",
         "name": "Nyainrong Xian",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-54-4b53cb",
-        "id": "CN-54-4b53cb-3e4e7b",
         "code": "申扎县",
         "name": "Xainza Xian",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-54-4b53cb",
-        "id": "CN-54-4b53cb-a5006a",
         "code": "索县",
         "name": "Sog Xian",
         "translations": {

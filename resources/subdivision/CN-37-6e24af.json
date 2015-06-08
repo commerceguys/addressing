@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-6e24af",
-        "id": "CN-37-6e24af-499589",
         "code": "嘉祥县",
         "name": "Jiaxiang Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-6e24af",
-        "id": "CN-37-6e24af-ebe9b1",
         "code": "金乡县",
         "name": "Jinxiang Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-6e24af",
-        "id": "CN-37-6e24af-c6cd7f",
         "code": "梁山县",
         "name": "Liangshan Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-6e24af",
-        "id": "CN-37-6e24af-6caceb",
         "code": "曲阜市",
         "name": "Qufu Shi",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-6e24af",
-        "id": "CN-37-6e24af-842c96",
         "code": "任城区",
         "name": "Rencheng Qu",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-6e24af",
-        "id": "CN-37-6e24af-1af473",
         "code": "市中区",
         "name": "Shizhong Qu",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-6e24af",
-        "id": "CN-37-6e24af-640223",
         "code": "泗水县",
         "name": "Sishui Xian",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-6e24af",
-        "id": "CN-37-6e24af-071171",
         "code": "微山县",
         "name": "Weishan Xian",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-6e24af",
-        "id": "CN-37-6e24af-d8e34c",
         "code": "汶上县",
         "name": "Wenshang Xian",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-6e24af",
-        "id": "CN-37-6e24af-53ff09",
         "code": "兖州市",
         "name": "Yanzhou Shi",
         "translations": {
@@ -133,7 +123,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-6e24af",
-        "id": "CN-37-6e24af-1be9c7",
         "code": "鱼台县",
         "name": "Yutai Xian",
         "translations": {
@@ -146,7 +135,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-6e24af",
-        "id": "CN-37-6e24af-4c3148",
         "code": "邹城市",
         "name": "Zoucheng Shi",
         "translations": {

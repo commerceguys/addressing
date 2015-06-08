@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-093161",
-        "id": "CN-41-093161-00a1a3",
         "code": "梁园区",
         "name": "Liangyuan Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-093161",
-        "id": "CN-41-093161-47e1ae",
         "code": "民权县",
         "name": "Minquan Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-093161",
-        "id": "CN-41-093161-2abf68",
         "code": "宁陵县",
         "name": "Ningling Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-093161",
-        "id": "CN-41-093161-450002",
         "code": "睢县",
         "name": "Sui Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-093161",
-        "id": "CN-41-093161-be5cf3",
         "code": "睢阳区",
         "name": "Suiyang Qu",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-093161",
-        "id": "CN-41-093161-12e546",
         "code": "夏邑县",
         "name": "Xiayi Xian",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-093161",
-        "id": "CN-41-093161-d32168",
         "code": "永城市",
         "name": "Yongcheng Shi",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-093161",
-        "id": "CN-41-093161-08a625",
         "code": "虞城县",
         "name": "Yucheng Xian",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-093161",
-        "id": "CN-41-093161-a36006",
         "code": "柘城县",
         "name": "Zhecheng Xian",
         "translations": {

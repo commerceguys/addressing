@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65",
-        "id": "CN-65-679c42",
         "code": "阿克苏地区",
         "name": "Aksu Diqu",
         "translations": {
@@ -17,7 +16,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65",
-        "id": "CN-65-78cff5",
         "code": "阿拉尔市",
         "name": "Ala'er Shi",
         "translations": {
@@ -30,7 +28,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65",
-        "id": "CN-65-f97a43",
         "code": "阿勒泰地区",
         "name": "Altay Shi",
         "translations": {
@@ -44,7 +41,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65",
-        "id": "CN-65-6e3e5d",
         "code": "巴音郭楞蒙古自治州",
         "name": "Bayingolin Zhou",
         "translations": {
@@ -58,7 +54,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65",
-        "id": "CN-65-516da1",
         "code": "博尔塔拉蒙古自治州",
         "name": "Bortala Zhou",
         "translations": {
@@ -72,7 +67,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65",
-        "id": "CN-65-2b64dc",
         "code": "昌吉回族自治州",
         "name": "Changji Zhou",
         "translations": {
@@ -86,7 +80,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65",
-        "id": "CN-65-0e98af",
         "code": "哈密地区",
         "name": "Hami Diqu",
         "translations": {
@@ -100,7 +93,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65",
-        "id": "CN-65-ddec44",
         "code": "和田地区",
         "name": "Hotan Diqu",
         "translations": {
@@ -114,7 +106,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65",
-        "id": "CN-65-58e925",
         "code": "喀什地区",
         "name": "Kashi Diqu",
         "translations": {
@@ -128,7 +119,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65",
-        "id": "CN-65-7fd04f",
         "code": "克拉玛依市",
         "name": "Karamay Shi",
         "translations": {
@@ -142,7 +132,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65",
-        "id": "CN-65-ad47d1",
         "code": "克孜勒苏柯尔克孜自治州",
         "name": "Kizilsu Zhou",
         "translations": {
@@ -156,7 +145,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65",
-        "id": "CN-65-1df970",
         "code": "石河子市",
         "name": "Shihezi Shi",
         "translations": {
@@ -169,7 +157,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65",
-        "id": "CN-65-5d6f99",
         "code": "塔城地区",
         "name": "Tacheng Diqu",
         "translations": {
@@ -183,7 +170,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65",
-        "id": "CN-65-ec2922",
         "code": "图木舒克市",
         "name": "Tumushuke Shi",
         "translations": {
@@ -196,7 +182,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65",
-        "id": "CN-65-746789",
         "code": "吐鲁番地区",
         "name": "Turpan Diqu",
         "translations": {
@@ -210,7 +195,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65",
-        "id": "CN-65-7bd0f0",
         "code": "乌鲁木齐市",
         "name": "Ürümqi Shi",
         "translations": {
@@ -224,7 +208,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65",
-        "id": "CN-65-4cc788",
         "code": "五家渠市",
         "name": "Wujiaqu Shi",
         "translations": {
@@ -237,7 +220,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65",
-        "id": "CN-65-9b2e52",
         "code": "伊犁哈萨克自治州",
         "name": "Ili Zhou",
         "translations": {

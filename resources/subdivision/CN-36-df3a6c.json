@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-df3a6c",
-        "id": "CN-36-df3a6c-c54da2",
         "code": "安福县",
         "name": "Anfu Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-df3a6c",
-        "id": "CN-36-df3a6c-6f7436",
         "code": "吉安县",
         "name": "Ji'an Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-df3a6c",
-        "id": "CN-36-df3a6c-bfd993",
         "code": "吉水县",
         "name": "Jishui Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-df3a6c",
-        "id": "CN-36-df3a6c-abd076",
         "code": "吉州区",
         "name": "Jizhou Qu",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-df3a6c",
-        "id": "CN-36-df3a6c-69a62b",
         "code": "井冈山市",
         "name": "Jinggangshan Shi",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-df3a6c",
-        "id": "CN-36-df3a6c-75122e",
         "code": "青原区",
         "name": "Qingyuan Qu",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-df3a6c",
-        "id": "CN-36-df3a6c-937fe4",
         "code": "遂川县",
         "name": "Suichuan Xian",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-df3a6c",
-        "id": "CN-36-df3a6c-29c483",
         "code": "泰和县",
         "name": "Taihe Xian",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-df3a6c",
-        "id": "CN-36-df3a6c-5e8183",
         "code": "万安县",
         "name": "Wan'an Xian",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-df3a6c",
-        "id": "CN-36-df3a6c-fc64b0",
         "code": "峡江县",
         "name": "Xiajiang Xian",
         "translations": {
@@ -133,7 +123,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-df3a6c",
-        "id": "CN-36-df3a6c-09d1b8",
         "code": "新干县",
         "name": "Xingan Xian",
         "translations": {
@@ -146,7 +135,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-df3a6c",
-        "id": "CN-36-df3a6c-01e6eb",
         "code": "永丰县",
         "name": "Yongfeng Xian",
         "translations": {
@@ -159,7 +147,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-df3a6c",
-        "id": "CN-36-df3a6c-43d5a8",
         "code": "永新县",
         "name": "Yongxin Xian",
         "translations": {

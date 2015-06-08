@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33-87a368",
-        "id": "CN-33-87a368-5ed30c",
         "code": "东阳市",
         "name": "Dongyang Shi",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33-87a368",
-        "id": "CN-33-87a368-b051f6",
         "code": "金东区",
         "name": "Jindong Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33-87a368",
-        "id": "CN-33-87a368-2a11c3",
         "code": "兰溪市",
         "name": "Lanxi Shi",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33-87a368",
-        "id": "CN-33-87a368-284312",
         "code": "磐安县",
         "name": "Pan'an Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33-87a368",
-        "id": "CN-33-87a368-e6b4a5",
         "code": "浦江县",
         "name": "Pujiang Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33-87a368",
-        "id": "CN-33-87a368-df5f16",
         "code": "武义县",
         "name": "Wuyi Xian",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33-87a368",
-        "id": "CN-33-87a368-4471a0",
         "code": "婺城区",
         "name": "Wucheng Qu",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33-87a368",
-        "id": "CN-33-87a368-2aaf5d",
         "code": "义乌市",
         "name": "Yiwu Shi",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33-87a368",
-        "id": "CN-33-87a368-2a437d",
         "code": "永康市",
         "name": "Yongkang Shi",
         "translations": {

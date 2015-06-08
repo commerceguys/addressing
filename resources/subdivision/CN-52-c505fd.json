@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52-c505fd",
-        "id": "CN-52-c505fd-1fca50",
         "code": "六枝特区",
         "name": "Liuzhi Tequ",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52-c505fd",
-        "id": "CN-52-c505fd-7f0401",
         "code": "盘县",
         "name": "Pan Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52-c505fd",
-        "id": "CN-52-c505fd-62953b",
         "code": "水城县",
         "name": "Shuicheng Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52-c505fd",
-        "id": "CN-52-c505fd-8aaf36",
         "code": "钟山区",
         "name": "Zhongshan Qu",
         "translations": {

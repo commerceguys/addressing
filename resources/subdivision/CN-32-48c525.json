@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-48c525",
-        "id": "CN-32-48c525-256b6a",
         "code": "丹徒区",
         "name": "Dantu Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-48c525",
-        "id": "CN-32-48c525-57a842",
         "code": "丹阳市",
         "name": "Danyang Shi",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-48c525",
-        "id": "CN-32-48c525-4b877f",
         "code": "京口区",
         "name": "Jingkou Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-48c525",
-        "id": "CN-32-48c525-147aa4",
         "code": "句容市",
         "name": "Jurong Shi",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-48c525",
-        "id": "CN-32-48c525-2ebb1a",
         "code": "润州区",
         "name": "Runzhou Qu",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-48c525",
-        "id": "CN-32-48c525-001570",
         "code": "扬中市",
         "name": "Yangzhong Shi",
         "translations": {

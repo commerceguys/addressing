@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42-5f84dd",
-        "id": "CN-42-5f84dd-6abe0a",
         "code": "鄂城区",
         "name": "Echeng Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42-5f84dd",
-        "id": "CN-42-5f84dd-338477",
         "code": "华容区",
         "name": "Huarong Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42-5f84dd",
-        "id": "CN-42-5f84dd-f61fbe",
         "code": "梁子湖区",
         "name": "Liangzihu Qu",
         "translations": {

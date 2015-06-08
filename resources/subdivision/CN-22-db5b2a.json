@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-22-db5b2a",
-        "id": "CN-22-db5b2a-b70aee",
         "code": "朝阳区",
         "name": "Chaoyang Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-22-db5b2a",
-        "id": "CN-22-db5b2a-d71752",
         "code": "德惠市",
         "name": "Dehui Shi",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-22-db5b2a",
-        "id": "CN-22-db5b2a-876c3d",
         "code": "二道区",
         "name": "Erdao Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-22-db5b2a",
-        "id": "CN-22-db5b2a-35a37f",
         "code": "九台市",
         "name": "Jiutai Shi",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-22-db5b2a",
-        "id": "CN-22-db5b2a-d70700",
         "code": "宽城区",
         "name": "Kuancheng Qu",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-22-db5b2a",
-        "id": "CN-22-db5b2a-a20235",
         "code": "绿园区",
         "name": "Lüyuan Qu",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-22-db5b2a",
-        "id": "CN-22-db5b2a-8e6dd8",
         "code": "南关区",
         "name": "Nanguan Qu",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-22-db5b2a",
-        "id": "CN-22-db5b2a-738979",
         "code": "农安县",
         "name": "Nong'an Xian",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-22-db5b2a",
-        "id": "CN-22-db5b2a-b40966",
         "code": "双阳区",
         "name": "Shuangyang Qu",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-22-db5b2a",
-        "id": "CN-22-db5b2a-866035",
         "code": "榆树市",
         "name": "Yushu Shi",
         "translations": {

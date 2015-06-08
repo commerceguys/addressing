@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-50aae5",
-        "id": "CN-34-50aae5-1f2a5b",
         "code": "包河区",
         "name": "Baohe Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-50aae5",
-        "id": "CN-34-50aae5-ecb9fb",
         "code": "肥东县",
         "name": "Feidong Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-50aae5",
-        "id": "CN-34-50aae5-b24cf5",
         "code": "肥西县",
         "name": "Feixi Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-50aae5",
-        "id": "CN-34-50aae5-6005cb",
         "code": "庐阳区",
         "name": "Luyang Qu",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-50aae5",
-        "id": "CN-34-50aae5-449c92",
         "code": "蜀山区",
         "name": "Shushan Qu",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-50aae5",
-        "id": "CN-34-50aae5-7d3122",
         "code": "瑶海区",
         "name": "Yaohai Qu",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-50aae5",
-        "id": "CN-34-50aae5-b4db3e",
         "code": "长丰县",
         "name": "Changfeng Xian",
         "translations": {

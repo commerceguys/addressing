@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-b5c2d5",
-        "id": "CN-32-b5c2d5-b96615",
         "code": "宝应县",
         "name": "Baoying Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-b5c2d5",
-        "id": "CN-32-b5c2d5-3d67bd",
         "code": "高邮市",
         "name": "Gaoyou Shi",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-b5c2d5",
-        "id": "CN-32-b5c2d5-3e2c3a",
         "code": "广陵区",
         "name": "Guangling Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-b5c2d5",
-        "id": "CN-32-b5c2d5-e330c8",
         "code": "邗江区",
         "name": "Hanjiang Qu",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-b5c2d5",
-        "id": "CN-32-b5c2d5-bafc2c",
         "code": "江都市",
         "name": "Jiangdu Shi",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-b5c2d5",
-        "id": "CN-32-b5c2d5-5c0683",
         "code": "维扬区",
         "name": "Weiyang Qu",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-b5c2d5",
-        "id": "CN-32-b5c2d5-c4694a",
         "code": "仪征市",
         "name": "Yizheng Shi",
         "translations": {

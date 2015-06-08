@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44-53e6ab",
-        "id": "CN-44-53e6ab-c4d5ac",
         "code": "赤坎区",
         "name": "Chikan Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44-53e6ab",
-        "id": "CN-44-53e6ab-793d2a",
         "code": "雷州市",
         "name": "Leizhou Shi",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44-53e6ab",
-        "id": "CN-44-53e6ab-0a8e90",
         "code": "廉江市",
         "name": "Lianjiang Shi",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44-53e6ab",
-        "id": "CN-44-53e6ab-65f038",
         "code": "麻章区",
         "name": "Mazhang Qu",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44-53e6ab",
-        "id": "CN-44-53e6ab-342081",
         "code": "坡头区",
         "name": "Potou Qu",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44-53e6ab",
-        "id": "CN-44-53e6ab-655e14",
         "code": "遂溪县",
         "name": "Suixi Xian",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44-53e6ab",
-        "id": "CN-44-53e6ab-a1e8ce",
         "code": "吴川市",
         "name": "Wuchuan Shi",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44-53e6ab",
-        "id": "CN-44-53e6ab-d92378",
         "code": "霞山区",
         "name": "Xiashan Qu",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44-53e6ab",
-        "id": "CN-44-53e6ab-21b000",
         "code": "徐闻县",
         "name": "Xuwen Xian",
         "translations": {

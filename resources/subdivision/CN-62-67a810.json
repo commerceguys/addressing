@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-62-67a810",
-        "id": "CN-62-67a810-bafc25",
         "code": "安定区",
         "name": "Anding Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-62-67a810",
-        "id": "CN-62-67a810-cd5cde",
         "code": "临洮县",
         "name": "Lintao Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-62-67a810",
-        "id": "CN-62-67a810-7e9bad",
         "code": "陇西县",
         "name": "Longxi Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-62-67a810",
-        "id": "CN-62-67a810-8a62d8",
         "code": "岷县",
         "name": "Min Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-62-67a810",
-        "id": "CN-62-67a810-55341a",
         "code": "通渭县",
         "name": "Tongwei Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-62-67a810",
-        "id": "CN-62-67a810-268faa",
         "code": "渭源县",
         "name": "Weiyuan Xian",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-62-67a810",
-        "id": "CN-62-67a810-8b9f87",
         "code": "漳县",
         "name": "Zhang Xian",
         "translations": {

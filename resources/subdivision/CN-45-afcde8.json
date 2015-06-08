@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-afcde8",
-        "id": "CN-45-afcde8-3636c4",
         "code": "大新县",
         "name": "Daxin Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-afcde8",
-        "id": "CN-45-afcde8-084322",
         "code": "扶绥县",
         "name": "Fusui Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-afcde8",
-        "id": "CN-45-afcde8-f49591",
         "code": "江洲区",
         "name": "Jiangzhou Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-afcde8",
-        "id": "CN-45-afcde8-85aa4e",
         "code": "龙州县",
         "name": "Longzhou Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-afcde8",
-        "id": "CN-45-afcde8-b66863",
         "code": "宁明县",
         "name": "Ningming Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-afcde8",
-        "id": "CN-45-afcde8-8ba002",
         "code": "凭祥市",
         "name": "Pingxiang Shi",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-afcde8",
-        "id": "CN-45-afcde8-cdd107",
         "code": "天等县",
         "name": "Tiandeng Xian",
         "translations": {

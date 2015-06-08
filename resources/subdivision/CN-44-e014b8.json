@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44-e014b8",
-        "id": "CN-44-e014b8-5a47e1",
         "code": "德庆县",
         "name": "Deqing Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44-e014b8",
-        "id": "CN-44-e014b8-7e03df",
         "code": "鼎湖区",
         "name": "Dinghu Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44-e014b8",
-        "id": "CN-44-e014b8-a8b2fe",
         "code": "端州区",
         "name": "Duanzhou Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44-e014b8",
-        "id": "CN-44-e014b8-21acf6",
         "code": "封开县",
         "name": "Fengkai Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44-e014b8",
-        "id": "CN-44-e014b8-48e048",
         "code": "高要市",
         "name": "Gaoyao Shi",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44-e014b8",
-        "id": "CN-44-e014b8-d7df6e",
         "code": "广宁县",
         "name": "Guangning Xian",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44-e014b8",
-        "id": "CN-44-e014b8-12a548",
         "code": "怀集县",
         "name": "Huaiji Xian",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44-e014b8",
-        "id": "CN-44-e014b8-021a22",
         "code": "四会市",
         "name": "Sihui Shi",
         "translations": {

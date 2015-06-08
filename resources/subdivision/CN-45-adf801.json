@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-adf801",
-        "id": "CN-45-adf801-228c18",
         "code": "叠彩区",
         "name": "Diecai Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-adf801",
-        "id": "CN-45-adf801-983b17",
         "code": "恭城瑶族自治县",
         "name": "Gongcheng Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-adf801",
-        "id": "CN-45-adf801-509794",
         "code": "灌阳县",
         "name": "Guanyang Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-adf801",
-        "id": "CN-45-adf801-544815",
         "code": "荔浦县",
         "name": "Lipu Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-adf801",
-        "id": "CN-45-adf801-0e1562",
         "code": "临桂区",
         "name": "Lingui Qu",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-adf801",
-        "id": "CN-45-adf801-da0674",
         "code": "灵川县",
         "name": "Lingchuan Xian",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-adf801",
-        "id": "CN-45-adf801-565820",
         "code": "龙胜各族自治县",
         "name": "Longsheng Xian",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-adf801",
-        "id": "CN-45-adf801-7c7a7a",
         "code": "平乐县",
         "name": "Pingle Xian",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-adf801",
-        "id": "CN-45-adf801-0d954d",
         "code": "七星区",
         "name": "Qixing Qu",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-adf801",
-        "id": "CN-45-adf801-e0ec05",
         "code": "全州县",
         "name": "Quanzhou Xian",
         "translations": {
@@ -133,7 +123,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-adf801",
-        "id": "CN-45-adf801-72032e",
         "code": "象山区",
         "name": "Xiangshan Qu",
         "translations": {
@@ -146,7 +135,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-adf801",
-        "id": "CN-45-adf801-0b728c",
         "code": "兴安县",
         "name": "Xing'an Xian",
         "translations": {
@@ -159,7 +147,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-adf801",
-        "id": "CN-45-adf801-5913ab",
         "code": "秀峰区",
         "name": "Xiufeng Qu",
         "translations": {
@@ -172,7 +159,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-adf801",
-        "id": "CN-45-adf801-6c25f2",
         "code": "雁山区",
         "name": "Yanshan Qu",
         "translations": {
@@ -185,7 +171,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-adf801",
-        "id": "CN-45-adf801-0aa9a4",
         "code": "阳朔县",
         "name": "Yangshuo Xian",
         "translations": {
@@ -198,7 +183,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-adf801",
-        "id": "CN-45-adf801-ee8718",
         "code": "永福县",
         "name": "Yongfu Xian",
         "translations": {
@@ -211,7 +195,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-adf801",
-        "id": "CN-45-adf801-895976",
         "code": "资源县",
         "name": "Ziyuan Xian",
         "translations": {

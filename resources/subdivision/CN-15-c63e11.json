@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-c63e11",
-        "id": "CN-15-c63e11-0df5ed",
         "code": "阿尔山市",
         "name": "Arxan Shi",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-c63e11",
-        "id": "CN-15-c63e11-aa9299",
         "code": "科尔沁右翼前旗",
         "name": "Horqin Youyi Qianqi",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-c63e11",
-        "id": "CN-15-c63e11-77f78a",
         "code": "科尔沁右翼中旗",
         "name": "Horqin Youyi Zhongqi",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-c63e11",
-        "id": "CN-15-c63e11-a79884",
         "code": "突泉县",
         "name": "Tuquan Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-c63e11",
-        "id": "CN-15-c63e11-1297e6",
         "code": "乌兰浩特市",
         "name": "Ulan Hot Shi",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-c63e11",
-        "id": "CN-15-c63e11-bf5895",
         "code": "扎赉特旗",
         "name": "Jalaid Qi",
         "translations": {

@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-8b5b84",
-        "id": "CN-15-8b5b84-0f2a78",
         "code": "达拉特旗",
         "name": "Dalad Qi",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-8b5b84",
-        "id": "CN-15-8b5b84-850867",
         "code": "东胜区",
         "name": "Dongsheng Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-8b5b84",
-        "id": "CN-15-8b5b84-ff5768",
         "code": "鄂托克旗",
         "name": "Otog Qi",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-8b5b84",
-        "id": "CN-15-8b5b84-23d9b6",
         "code": "鄂托克前旗",
         "name": "Otog Qianqi",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-8b5b84",
-        "id": "CN-15-8b5b84-b373e4",
         "code": "杭锦旗",
         "name": "Hanggin Qi",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-8b5b84",
-        "id": "CN-15-8b5b84-e982a8",
         "code": "乌审旗",
         "name": "Uxin Qi",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-8b5b84",
-        "id": "CN-15-8b5b84-2d2be8",
         "code": "伊金霍洛旗",
         "name": "Ejin Qi",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-8b5b84",
-        "id": "CN-15-8b5b84-22e432",
         "code": "准格尔旗",
         "name": "Jungar Qi",
         "translations": {

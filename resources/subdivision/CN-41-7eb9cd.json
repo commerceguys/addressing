@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-7eb9cd",
-        "id": "CN-41-7eb9cd-3c208d",
         "code": "瀍河回族区",
         "name": "Chanhe Huizu Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-7eb9cd",
-        "id": "CN-41-7eb9cd-ad5e25",
         "code": "吉利区",
         "name": "Jili Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-7eb9cd",
-        "id": "CN-41-7eb9cd-95f8e4",
         "code": "涧西区",
         "name": "Jianxi Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-7eb9cd",
-        "id": "CN-41-7eb9cd-7963dd",
         "code": "老城区",
         "name": "Laocheng Qu",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-7eb9cd",
-        "id": "CN-41-7eb9cd-c56df9",
         "code": "栾川县",
         "name": "Luanchuan Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-7eb9cd",
-        "id": "CN-41-7eb9cd-117bc4",
         "code": "洛龙区",
         "name": "Luolong Qu",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-7eb9cd",
-        "id": "CN-41-7eb9cd-8e1961",
         "code": "洛宁县",
         "name": "Luoning Xian",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-7eb9cd",
-        "id": "CN-41-7eb9cd-74b69f",
         "code": "孟津县",
         "name": "Mengjin Xian",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-7eb9cd",
-        "id": "CN-41-7eb9cd-a8d3b3",
         "code": "汝阳县",
         "name": "Ruyang Xian",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-7eb9cd",
-        "id": "CN-41-7eb9cd-4611f8",
         "code": "嵩县",
         "name": "Song Xian",
         "translations": {
@@ -133,7 +123,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-7eb9cd",
-        "id": "CN-41-7eb9cd-10586b",
         "code": "西工区",
         "name": "Xigong Qu",
         "translations": {
@@ -146,7 +135,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-7eb9cd",
-        "id": "CN-41-7eb9cd-55a2f9",
         "code": "新安县",
         "name": "Xin'an Xian",
         "translations": {
@@ -159,7 +147,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-7eb9cd",
-        "id": "CN-41-7eb9cd-64b1b5",
         "code": "偃师市",
         "name": "Yanshi Shi",
         "translations": {
@@ -172,7 +159,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-7eb9cd",
-        "id": "CN-41-7eb9cd-348c85",
         "code": "伊川县",
         "name": "Yichuan Xian",
         "translations": {
@@ -185,7 +171,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-7eb9cd",
-        "id": "CN-41-7eb9cd-c4aff5",
         "code": "宜阳县",
         "name": "Yiyang Xian",
         "translations": {

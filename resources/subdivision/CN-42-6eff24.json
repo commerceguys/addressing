@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42-6eff24",
-        "id": "CN-42-6eff24-199816",
         "code": "蔡甸区",
         "name": "Caidian Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42-6eff24",
-        "id": "CN-42-6eff24-6d4210",
         "code": "东西湖区",
         "name": "Dongxihu Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42-6eff24",
-        "id": "CN-42-6eff24-c61977",
         "code": "汉南区",
         "name": "Hannan Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42-6eff24",
-        "id": "CN-42-6eff24-f265fa",
         "code": "汉阳区",
         "name": "Hanyang Qu",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42-6eff24",
-        "id": "CN-42-6eff24-85489f",
         "code": "洪山区",
         "name": "Hongshan Qu",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42-6eff24",
-        "id": "CN-42-6eff24-a89eb4",
         "code": "黄陂区",
         "name": "Huangpi Qu",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42-6eff24",
-        "id": "CN-42-6eff24-a70d3f",
         "code": "江岸区",
         "name": "Jiang'an Qu",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42-6eff24",
-        "id": "CN-42-6eff24-6c48e6",
         "code": "江汉区",
         "name": "Jianghan Qu",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42-6eff24",
-        "id": "CN-42-6eff24-664dc6",
         "code": "江夏区",
         "name": "Jiangxia Qu",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42-6eff24",
-        "id": "CN-42-6eff24-fecd2d",
         "code": "硚口区",
         "name": "Qiaokou Qu",
         "translations": {
@@ -133,7 +123,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42-6eff24",
-        "id": "CN-42-6eff24-73d757",
         "code": "青山区",
         "name": "Qingshan Qu",
         "translations": {
@@ -146,7 +135,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42-6eff24",
-        "id": "CN-42-6eff24-ed5186",
         "code": "武昌区",
         "name": "Wuchang Qu",
         "translations": {
@@ -159,7 +147,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42-6eff24",
-        "id": "CN-42-6eff24-ad3957",
         "code": "新洲区",
         "name": "Xinzhou Qu",
         "translations": {

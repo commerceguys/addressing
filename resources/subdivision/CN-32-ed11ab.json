@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-ed11ab",
-        "id": "CN-32-ed11ab-3fce99",
         "code": "北塘区",
         "name": "Beitang Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-ed11ab",
-        "id": "CN-32-ed11ab-a86600",
         "code": "滨湖区",
         "name": "Binhu Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-ed11ab",
-        "id": "CN-32-ed11ab-6103d3",
         "code": "崇安区",
         "name": "Chong'an Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-ed11ab",
-        "id": "CN-32-ed11ab-fa7752",
         "code": "惠山区",
         "name": "Huishan Qu",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-ed11ab",
-        "id": "CN-32-ed11ab-738780",
         "code": "江阴市",
         "name": "Jiangyin Shi",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-ed11ab",
-        "id": "CN-32-ed11ab-75522c",
         "code": "南长区",
         "name": "Nanchang Qu",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-ed11ab",
-        "id": "CN-32-ed11ab-e9277e",
         "code": "锡山区",
         "name": "Xishan Qu",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-ed11ab",
-        "id": "CN-32-ed11ab-b405a7",
         "code": "宜兴市",
         "name": "Yixing Shi",
         "translations": {

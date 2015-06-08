@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23-1ebdee",
-        "id": "CN-23-1ebdee-59e896",
         "code": "翠峦区",
         "name": "Cuiluan Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23-1ebdee",
-        "id": "CN-23-1ebdee-96e760",
         "code": "带岭区",
         "name": "Dailing Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23-1ebdee",
-        "id": "CN-23-1ebdee-9fcfb9",
         "code": "红星区",
         "name": "Hongxing Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23-1ebdee",
-        "id": "CN-23-1ebdee-f41c3e",
         "code": "嘉荫县",
         "name": "Jiayin Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23-1ebdee",
-        "id": "CN-23-1ebdee-6ed939",
         "code": "金山屯区",
         "name": "Jinshantun Qu",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23-1ebdee",
-        "id": "CN-23-1ebdee-bd7141",
         "code": "美溪区",
         "name": "Meixi Qu",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23-1ebdee",
-        "id": "CN-23-1ebdee-b23ca1",
         "code": "南岔区",
         "name": "Nancha Qu",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23-1ebdee",
-        "id": "CN-23-1ebdee-5e2ff1",
         "code": "上甘岭区",
         "name": "Shangganling Qu",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23-1ebdee",
-        "id": "CN-23-1ebdee-a407a4",
         "code": "汤旺河区",
         "name": "Tangwanghe Qu",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23-1ebdee",
-        "id": "CN-23-1ebdee-05465c",
         "code": "铁力市",
         "name": "Tieli Shi",
         "translations": {
@@ -133,7 +123,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23-1ebdee",
-        "id": "CN-23-1ebdee-9207c5",
         "code": "乌马河区",
         "name": "Wumahe Qu",
         "translations": {
@@ -146,7 +135,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23-1ebdee",
-        "id": "CN-23-1ebdee-920ac5",
         "code": "乌伊岭区",
         "name": "Wuyiling Qu",
         "translations": {
@@ -159,7 +147,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23-1ebdee",
-        "id": "CN-23-1ebdee-aab8a2",
         "code": "五营区",
         "name": "Wuying Qu",
         "translations": {
@@ -172,7 +159,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23-1ebdee",
-        "id": "CN-23-1ebdee-d0cabd",
         "code": "西林区",
         "name": "Xilin Qu",
         "translations": {
@@ -185,7 +171,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23-1ebdee",
-        "id": "CN-23-1ebdee-21f233",
         "code": "新青区",
         "name": "Xinqing Qu",
         "translations": {
@@ -198,7 +183,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23-1ebdee",
-        "id": "CN-23-1ebdee-a4a3a1",
         "code": "伊春区",
         "name": "Yichun Qu",
         "translations": {
@@ -211,7 +195,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23-1ebdee",
-        "id": "CN-23-1ebdee-418411",
         "code": "友好区",
         "name": "Youhao Qu",
         "translations": {

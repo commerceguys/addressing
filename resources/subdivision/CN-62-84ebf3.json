@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-62-84ebf3",
-        "id": "CN-62-84ebf3-4c3477",
         "code": "古浪县",
         "name": "Gulang Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-62-84ebf3",
-        "id": "CN-62-84ebf3-e67020",
         "code": "凉州区",
         "name": "Liangzhou Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-62-84ebf3",
-        "id": "CN-62-84ebf3-c2afab",
         "code": "民勤县",
         "name": "Minqin Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-62-84ebf3",
-        "id": "CN-62-84ebf3-40acb9",
         "code": "天祝藏族自治县",
         "name": "Tianzhu Xian",
         "translations": {

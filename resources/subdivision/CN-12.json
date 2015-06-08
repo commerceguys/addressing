@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-12",
-        "id": "CN-12-7108c5",
         "code": "宝坻区",
         "name": "Baodi Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-12",
-        "id": "CN-12-563dc4",
         "code": "北辰区",
         "name": "Beichen Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-12",
-        "id": "CN-12-39a4a4",
         "code": "滨海新区",
         "name": "Binhai Xinqu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-12",
-        "id": "CN-12-af1831",
         "code": "东丽区",
         "name": "Dongli Qu",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-12",
-        "id": "CN-12-47c9ed",
         "code": "和平区",
         "name": "Heping Qu",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-12",
-        "id": "CN-12-528bcb",
         "code": "河北区",
         "name": "Hebei Qu",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-12",
-        "id": "CN-12-0a60c4",
         "code": "河东区",
         "name": "Hedong Qu",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-12",
-        "id": "CN-12-ffe037",
         "code": "河西区",
         "name": "Hexi Qu",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-12",
-        "id": "CN-12-5e2992",
         "code": "红桥区",
         "name": "Hongqiao Qu",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-12",
-        "id": "CN-12-01b4ad",
         "code": "蓟县",
         "name": "Ji Xian",
         "translations": {
@@ -133,7 +123,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-12",
-        "id": "CN-12-29dc58",
         "code": "津南区",
         "name": "Jinnan Qu",
         "translations": {
@@ -146,7 +135,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-12",
-        "id": "CN-12-24b4e8",
         "code": "静海县",
         "name": "Jinghai Xian",
         "translations": {
@@ -159,7 +147,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-12",
-        "id": "CN-12-c2682b",
         "code": "南开区",
         "name": "Nankai Qu",
         "translations": {
@@ -172,7 +159,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-12",
-        "id": "CN-12-313292",
         "code": "宁河县",
         "name": "Ninghe Xian",
         "translations": {
@@ -185,7 +171,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-12",
-        "id": "CN-12-42c2cb",
         "code": "武清区",
         "name": "Wuqing Qu",
         "translations": {
@@ -198,7 +183,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-12",
-        "id": "CN-12-e77c9d",
         "code": "西青区",
         "name": "Xiqing Qu",
         "translations": {

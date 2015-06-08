@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-61-21816c",
-        "id": "CN-61-21816c-ebb964",
         "code": "陈仓区",
         "name": "Chencang Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-61-21816c",
-        "id": "CN-61-21816c-16aa63",
         "code": "凤县",
         "name": "Feng Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-61-21816c",
-        "id": "CN-61-21816c-6e17a5",
         "code": "凤翔县",
         "name": "Fengxiang Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-61-21816c",
-        "id": "CN-61-21816c-4c4672",
         "code": "扶风县",
         "name": "Fufeng Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-61-21816c",
-        "id": "CN-61-21816c-be9605",
         "code": "金台区",
         "name": "Jintai Qu",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-61-21816c",
-        "id": "CN-61-21816c-f8202f",
         "code": "麟游县",
         "name": "Linyou Xian",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-61-21816c",
-        "id": "CN-61-21816c-859ea3",
         "code": "陇县",
         "name": "Long Xian",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-61-21816c",
-        "id": "CN-61-21816c-803986",
         "code": "眉县",
         "name": "Mei Xian",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-61-21816c",
-        "id": "CN-61-21816c-01e438",
         "code": "岐山县",
         "name": "Qishan Xian",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-61-21816c",
-        "id": "CN-61-21816c-6e972b",
         "code": "千阳县",
         "name": "Qianyang Xian",
         "translations": {
@@ -133,7 +123,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-61-21816c",
-        "id": "CN-61-21816c-3ed1ff",
         "code": "太白县",
         "name": "Taibai Xian",
         "translations": {
@@ -146,7 +135,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-61-21816c",
-        "id": "CN-61-21816c-16e271",
         "code": "渭滨区",
         "name": "Weibin Qu",
         "translations": {

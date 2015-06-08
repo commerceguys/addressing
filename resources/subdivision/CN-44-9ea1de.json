@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44-9ea1de",
-        "id": "CN-44-9ea1de-2dad48",
         "code": "城区",
         "name": "Cheng Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44-9ea1de",
-        "id": "CN-44-9ea1de-f1123a",
         "code": "海丰县",
         "name": "Haifeng Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44-9ea1de",
-        "id": "CN-44-9ea1de-bc76cc",
         "code": "陆丰市",
         "name": "Lufeng Shi",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44-9ea1de",
-        "id": "CN-44-9ea1de-2d7113",
         "code": "陆河县",
         "name": "Luhe Xian",
         "translations": {

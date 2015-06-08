@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65-9b2e52",
-        "id": "CN-65-9b2e52-7f15b7",
         "code": "察布查尔锡伯自治县",
         "name": "Qapqal Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65-9b2e52",
-        "id": "CN-65-9b2e52-e4a823",
         "code": "巩留县",
         "name": "Gongliu Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65-9b2e52",
-        "id": "CN-65-9b2e52-fee2b3",
         "code": "霍城县",
         "name": "Huocheng Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65-9b2e52",
-        "id": "CN-65-9b2e52-3e705d",
         "code": "奎屯市",
         "name": "Kuytun Shi",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65-9b2e52",
-        "id": "CN-65-9b2e52-10af4c",
         "code": "尼勒克县",
         "name": "Nilka Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65-9b2e52",
-        "id": "CN-65-9b2e52-a5e611",
         "code": "特克斯县",
         "name": "Tekes Xian",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65-9b2e52",
-        "id": "CN-65-9b2e52-49ec45",
         "code": "新源县",
         "name": "Xinyuan Xian",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65-9b2e52",
-        "id": "CN-65-9b2e52-246e68",
         "code": "伊宁市",
         "name": "Yining Shi",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65-9b2e52",
-        "id": "CN-65-9b2e52-6ef40f",
         "code": "伊宁县",
         "name": "Yining Xian",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65-9b2e52",
-        "id": "CN-65-9b2e52-5f432f",
         "code": "昭苏县",
         "name": "Zhaosu Xian",
         "translations": {

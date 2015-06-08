@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": null,
-        "id": "CN-34",
         "code": "安徽省",
         "name": "Anhui Sheng",
         "translations": {
@@ -17,7 +16,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": null,
-        "id": "CN-92",
         "code": "澳门",
         "name": "Macau",
         "postal_code_pattern": "999078",
@@ -33,7 +31,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": null,
-        "id": "CN-11",
         "code": "北京市",
         "name": "Beijing Shi",
         "translations": {
@@ -47,7 +44,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": null,
-        "id": "CN-50",
         "code": "重庆市",
         "name": "Chongqing Shi",
         "translations": {
@@ -61,7 +57,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": null,
-        "id": "CN-35",
         "code": "福建省",
         "name": "Fujian Sheng",
         "translations": {
@@ -75,7 +70,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": null,
-        "id": "CN-62",
         "code": "甘肃省",
         "name": "Gansu Sheng",
         "translations": {
@@ -89,7 +83,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": null,
-        "id": "CN-44",
         "code": "广东省",
         "name": "Guangdong Sheng",
         "translations": {
@@ -103,7 +96,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": null,
-        "id": "CN-45",
         "code": "广西壮族自治区",
         "name": "Guangxi Zhuangzuzizhiqu",
         "translations": {
@@ -117,7 +109,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": null,
-        "id": "CN-52",
         "code": "贵州省",
         "name": "Guizhou Sheng",
         "translations": {
@@ -131,7 +122,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": null,
-        "id": "CN-46",
         "code": "海南省",
         "name": "Hainan Sheng",
         "translations": {
@@ -145,7 +135,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": null,
-        "id": "CN-13",
         "code": "河北省",
         "name": "Hebei Sheng",
         "translations": {
@@ -159,7 +148,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": null,
-        "id": "CN-41",
         "code": "河南省",
         "name": "Henan Sheng",
         "translations": {
@@ -173,7 +161,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": null,
-        "id": "CN-23",
         "code": "黑龙江省",
         "name": "Heilongjiang Sheng",
         "translations": {
@@ -187,7 +174,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": null,
-        "id": "CN-42",
         "code": "湖北省",
         "name": "Hubei Sheng",
         "translations": {
@@ -201,7 +187,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": null,
-        "id": "CN-43",
         "code": "湖南省",
         "name": "Hunan Sheng",
         "translations": {
@@ -215,7 +200,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": null,
-        "id": "CN-22",
         "code": "吉林省",
         "name": "Jilin Sheng",
         "translations": {
@@ -229,7 +213,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": null,
-        "id": "CN-32",
         "code": "江苏省",
         "name": "Jiangsu Sheng",
         "translations": {
@@ -243,7 +226,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": null,
-        "id": "CN-36",
         "code": "江西省",
         "name": "Jiangxi Sheng",
         "translations": {
@@ -257,7 +239,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": null,
-        "id": "CN-21",
         "code": "辽宁省",
         "name": "Liaoning Sheng",
         "translations": {
@@ -271,7 +252,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": null,
-        "id": "CN-15",
         "code": "内蒙古自治区",
         "name": "Neimenggu Zizhiqu",
         "translations": {
@@ -285,7 +265,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": null,
-        "id": "CN-64",
         "code": "宁夏回族自治区",
         "name": "Ningxia Huizuzizhiqu",
         "translations": {
@@ -299,7 +278,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": null,
-        "id": "CN-63",
         "code": "青海省",
         "name": "Qinghai Sheng",
         "translations": {
@@ -313,7 +291,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": null,
-        "id": "CN-37",
         "code": "山东省",
         "name": "Shandong Sheng",
         "translations": {
@@ -327,7 +304,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": null,
-        "id": "CN-14",
         "code": "山西省",
         "name": "Shanxi Sheng",
         "translations": {
@@ -341,7 +317,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": null,
-        "id": "CN-61",
         "code": "陕西省",
         "name": "Shaanxi Sheng",
         "translations": {
@@ -355,7 +330,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": null,
-        "id": "CN-31",
         "code": "上海市",
         "name": "Shanghai Shi",
         "translations": {
@@ -369,7 +343,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": null,
-        "id": "CN-51",
         "code": "四川省",
         "name": "Sichuan Sheng",
         "translations": {
@@ -383,7 +356,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": null,
-        "id": "CN-71",
         "code": "台湾",
         "name": "Taiwan",
         "postal_code_pattern": "\\d{3}(\\d{2})?",
@@ -399,7 +371,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": null,
-        "id": "CN-12",
         "code": "天津市",
         "name": "Tianjin Shi",
         "translations": {
@@ -413,7 +384,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": null,
-        "id": "CN-54",
         "code": "西藏自治区",
         "name": "Xizang Zizhiqu",
         "translations": {
@@ -427,7 +397,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": null,
-        "id": "CN-91",
         "code": "香港",
         "name": "Hong Kong",
         "postal_code_pattern": "999077",
@@ -443,7 +412,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": null,
-        "id": "CN-65",
         "code": "新疆维吾尔自治区",
         "name": "Xinjiang Weiwuerzizhiqu",
         "translations": {
@@ -457,7 +425,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": null,
-        "id": "CN-53",
         "code": "云南省",
         "name": "Yunnan Sheng",
         "translations": {
@@ -471,7 +438,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": null,
-        "id": "CN-33",
         "code": "浙江省",
         "name": "Zhejiang Sheng",
         "translations": {

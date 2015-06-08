@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-e6f7d7",
-        "id": "CN-37-e6f7d7-cc2b4e",
         "code": "东港区",
         "name": "Donggang Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-e6f7d7",
-        "id": "CN-37-e6f7d7-c32fc8",
         "code": "莒县",
         "name": "Ju Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-e6f7d7",
-        "id": "CN-37-e6f7d7-1b9358",
         "code": "岚山区",
         "name": "Lanshan Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-e6f7d7",
-        "id": "CN-37-e6f7d7-9871a7",
         "code": "五莲县",
         "name": "Wulian Xian",
         "translations": {

@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-4a884b",
-        "id": "CN-41-4a884b-7726e1",
         "code": "宝丰县",
         "name": "Baofeng Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-4a884b",
-        "id": "CN-41-4a884b-880ab2",
         "code": "郏县",
         "name": "Jia Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-4a884b",
-        "id": "CN-41-4a884b-f5d4dc",
         "code": "鲁山县",
         "name": "Lushan Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-4a884b",
-        "id": "CN-41-4a884b-5cf14e",
         "code": "汝州市",
         "name": "Ruzhou Shi",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-4a884b",
-        "id": "CN-41-4a884b-382425",
         "code": "石龙区",
         "name": "Shilong Qu",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-4a884b",
-        "id": "CN-41-4a884b-579585",
         "code": "卫东区",
         "name": "Weidong Qu",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-4a884b",
-        "id": "CN-41-4a884b-c9cc3b",
         "code": "舞钢市",
         "name": "Wugang Shi",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-4a884b",
-        "id": "CN-41-4a884b-7c6700",
         "code": "新华区",
         "name": "Xinhua Qu",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-4a884b",
-        "id": "CN-41-4a884b-b0358f",
         "code": "叶县",
         "name": "Ye Xian",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-4a884b",
-        "id": "CN-41-4a884b-89fb38",
         "code": "湛河区",
         "name": "Zhanhe Qu",
         "translations": {

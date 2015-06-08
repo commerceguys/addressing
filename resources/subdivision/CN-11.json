@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-11",
-        "id": "CN-11-67c298",
         "code": "昌平区",
         "name": "Changping Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-11",
-        "id": "CN-11-93c7ac",
         "code": "朝阳区",
         "name": "Chaoyang Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-11",
-        "id": "CN-11-0eda12",
         "code": "大兴区",
         "name": "Daxing Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-11",
-        "id": "CN-11-e3de5c",
         "code": "东城区",
         "name": "Dongcheng Qu",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-11",
-        "id": "CN-11-251338",
         "code": "房山区",
         "name": "Fangshan Qu",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-11",
-        "id": "CN-11-acb844",
         "code": "丰台区",
         "name": "Fengtai Qu",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-11",
-        "id": "CN-11-4f9c85",
         "code": "海淀区",
         "name": "Haidian Qu",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-11",
-        "id": "CN-11-e1bbce",
         "code": "怀柔区",
         "name": "Huairou Qu",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-11",
-        "id": "CN-11-fa1b7f",
         "code": "门头沟区",
         "name": "Mentougou Qu",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-11",
-        "id": "CN-11-3db9b8",
         "code": "密云县",
         "name": "Miyun Xian",
         "translations": {
@@ -133,7 +123,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-11",
-        "id": "CN-11-9f44ee",
         "code": "平谷区",
         "name": "Pinggu Qu",
         "translations": {
@@ -146,7 +135,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-11",
-        "id": "CN-11-666e06",
         "code": "石景山区",
         "name": "Shijingshan Qu",
         "translations": {
@@ -159,7 +147,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-11",
-        "id": "CN-11-9ee9b2",
         "code": "顺义区",
         "name": "Shunyi Qu",
         "translations": {
@@ -172,7 +159,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-11",
-        "id": "CN-11-456eba",
         "code": "通州区",
         "name": "Tongzhou Qu",
         "translations": {
@@ -185,7 +171,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-11",
-        "id": "CN-11-30524e",
         "code": "西城区",
         "name": "Xicheng Qu",
         "translations": {
@@ -198,7 +183,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-11",
-        "id": "CN-11-b3546f",
         "code": "延庆县",
         "name": "Yanqing Xian",
         "translations": {

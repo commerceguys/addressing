@@ -200,7 +200,7 @@ function generate_subdivisions($countryCode, $parentId, $subdivisionPaths, $lang
             // not guaranteed to be in the local script, so we hash them.
             $subdivisionId = $parentId . '-' . substr(sha1($parentId . $definition['key']), 0, 6);
         }
-        $subdivisions[$parentId][$subdivisionId] = create_subdivision_definition($countryCode, $parentId, $subdivisionId, $definition);
+        $subdivisions[$parentId][$subdivisionId] = create_subdivision_definition($countryCode, $parentId, $definition);
 
         // If the subdivision has translations, retrieve them.
         // Note: At the moment, only Canada and Switzerland have translations,
@@ -319,7 +319,7 @@ function create_address_format_definition($rawDefinition)
 /**
  * Creates a subdivision definition from Google's raw definition.
  */
-function create_subdivision_definition($countryCode, $parentId, $subdivisionId, $rawDefinition)
+function create_subdivision_definition($countryCode, $parentId, $rawDefinition)
 {
     // The name property isn't set when it's the same as the key.
     if (!isset($rawDefinition['name'])) {
@@ -334,7 +334,6 @@ function create_subdivision_definition($countryCode, $parentId, $subdivisionId, 
         'locale' => determine_locale($rawDefinition),
         'country_code' => $countryCode,
         'parent_id' => $parentId,
-        'id' => $subdivisionId,
         'code' => $rawDefinition['key'],
         'name' => $rawDefinition['name'],
     ];
@@ -352,6 +351,10 @@ function create_subdivision_definition($countryCode, $parentId, $subdivisionId, 
         $language = $rawDefinition['lang'];
         $subdivision['translations'][$language]['name'] = $rawDefinition['name'];
         $subdivision['name'] = $rawDefinition['lname'];
+    }
+    if ($subdivision['code'] == $subdivision['name'] && empty($subdivision['translations'])) {
+        // Remove the code if it matches the name, to save space.
+        unset($subdivision['code']);
     }
 
     return $subdivision;

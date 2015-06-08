@@ -3,8 +3,6 @@
         "locale": "es",
         "country_code": "CL",
         "parent_id": null,
-        "id": "CL-AN",
-        "code": "Antofagasta",
         "name": "Antofagasta",
         "has_children": true
     },
@@ -12,8 +10,6 @@
         "locale": "es",
         "country_code": "CL",
         "parent_id": null,
-        "id": "CL-AR",
-        "code": "Araucanía",
         "name": "Araucanía",
         "has_children": true
     },
@@ -21,8 +17,6 @@
         "locale": "es",
         "country_code": "CL",
         "parent_id": null,
-        "id": "CL-AP",
-        "code": "Arica y Parinacota",
         "name": "Arica y Parinacota",
         "has_children": true
     },
@@ -30,8 +24,6 @@
         "locale": "es",
         "country_code": "CL",
         "parent_id": null,
-        "id": "CL-AT",
-        "code": "Atacama",
         "name": "Atacama",
         "has_children": true
     },
@@ -39,7 +31,6 @@
         "locale": "es",
         "country_code": "CL",
         "parent_id": null,
-        "id": "CL-AI",
         "code": "Aysén",
         "name": "Aysén del General Carlos Ibáñez del Campo",
         "has_children": true
@@ -48,8 +39,6 @@
         "locale": "es",
         "country_code": "CL",
         "parent_id": null,
-        "id": "CL-BI",
-        "code": "Biobío",
         "name": "Biobío",
         "has_children": true
     },
@@ -57,8 +46,6 @@
         "locale": "es",
         "country_code": "CL",
         "parent_id": null,
-        "id": "CL-CO",
-        "code": "Coquimbo",
         "name": "Coquimbo",
         "has_children": true
     },
@@ -66,7 +53,6 @@
         "locale": "es",
         "country_code": "CL",
         "parent_id": null,
-        "id": "CL-LI",
         "code": "O'Higgins",
         "name": "Libertador General Bernardo O'Higgins",
         "has_children": true
@@ -75,8 +61,6 @@
         "locale": "es",
         "country_code": "CL",
         "parent_id": null,
-        "id": "CL-LL",
-        "code": "Los Lagos",
         "name": "Los Lagos",
         "has_children": true
     },
@@ -84,8 +68,6 @@
         "locale": "es",
         "country_code": "CL",
         "parent_id": null,
-        "id": "CL-LR",
-        "code": "Los Ríos",
         "name": "Los Ríos",
         "has_children": true
     },
@@ -93,7 +75,6 @@
         "locale": "es",
         "country_code": "CL",
         "parent_id": null,
-        "id": "CL-MA",
         "code": "Magallanes",
         "name": "Magallanes y de la Antártica Chilena",
         "has_children": true
@@ -102,8 +83,6 @@
         "locale": "es",
         "country_code": "CL",
         "parent_id": null,
-        "id": "CL-ML",
-        "code": "Maule",
         "name": "Maule",
         "has_children": true
     },
@@ -111,7 +90,6 @@
         "locale": "es",
         "country_code": "CL",
         "parent_id": null,
-        "id": "CL-RM",
         "code": "Región Metropolitana",
         "name": "Metropolitana de Santiago",
         "has_children": true
@@ -120,8 +98,6 @@
         "locale": "es",
         "country_code": "CL",
         "parent_id": null,
-        "id": "CL-TA",
-        "code": "Tarapacá",
         "name": "Tarapacá",
         "has_children": true
     },
@@ -129,8 +105,6 @@
         "locale": "es",
         "country_code": "CL",
         "parent_id": null,
-        "id": "CL-VS",
-        "code": "Valparaíso",
         "name": "Valparaíso",
         "has_children": true
     }

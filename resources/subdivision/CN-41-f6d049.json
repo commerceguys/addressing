@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-f6d049",
-        "id": "CN-41-f6d049-873f2c",
         "code": "封丘县",
         "name": "Fengqiu Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-f6d049",
-        "id": "CN-41-f6d049-9cca92",
         "code": "凤泉区",
         "name": "Fengquan Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-f6d049",
-        "id": "CN-41-f6d049-c1869e",
         "code": "红旗区",
         "name": "Hongqi Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-f6d049",
-        "id": "CN-41-f6d049-56ef48",
         "code": "辉县市",
         "name": "Huixian Shi",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-f6d049",
-        "id": "CN-41-f6d049-1b2967",
         "code": "获嘉县",
         "name": "Huojia Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-f6d049",
-        "id": "CN-41-f6d049-6cd6a0",
         "code": "牧野区",
         "name": "Muye Qu",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-f6d049",
-        "id": "CN-41-f6d049-f13fb0",
         "code": "卫滨区",
         "name": "Weibin Qu",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-f6d049",
-        "id": "CN-41-f6d049-68e737",
         "code": "卫辉市",
         "name": "Weihui Shi",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-f6d049",
-        "id": "CN-41-f6d049-7dc7e3",
         "code": "新乡县",
         "name": "Xinxiang Xian",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-f6d049",
-        "id": "CN-41-f6d049-a1488e",
         "code": "延津县",
         "name": "Yanjin Xian",
         "translations": {
@@ -133,7 +123,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-f6d049",
-        "id": "CN-41-f6d049-3d7a5b",
         "code": "原阳县",
         "name": "Yuanyang Xian",
         "translations": {
@@ -146,7 +135,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-f6d049",
-        "id": "CN-41-f6d049-5d0eb2",
         "code": "长垣县",
         "name": "Changyuan Xian",
         "translations": {

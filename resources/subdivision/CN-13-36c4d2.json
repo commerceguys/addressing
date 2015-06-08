@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-36c4d2",
-        "id": "CN-13-36c4d2-b96c0a",
         "code": "北戴河区",
         "name": "Beidaihe Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-36c4d2",
-        "id": "CN-13-36c4d2-37a9e7",
         "code": "昌黎县",
         "name": "Changli Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-36c4d2",
-        "id": "CN-13-36c4d2-c33c48",
         "code": "抚宁县",
         "name": "Funing Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-36c4d2",
-        "id": "CN-13-36c4d2-7ccaeb",
         "code": "海港区",
         "name": "Haigang Qu",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-36c4d2",
-        "id": "CN-13-36c4d2-246037",
         "code": "卢龙县",
         "name": "Lulong Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-36c4d2",
-        "id": "CN-13-36c4d2-d9b500",
         "code": "青龙满族自治县",
         "name": "Qinglong Xian",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-36c4d2",
-        "id": "CN-13-36c4d2-e56f33",
         "code": "山海关区",
         "name": "Shanhaiguan Qu",
         "translations": {

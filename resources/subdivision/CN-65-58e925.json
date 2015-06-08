@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65-58e925",
-        "id": "CN-65-58e925-fe534f",
         "code": "巴楚县",
         "name": "Bachu Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65-58e925",
-        "id": "CN-65-58e925-d2bed7",
         "code": "伽师县",
         "name": "Jiashi Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65-58e925",
-        "id": "CN-65-58e925-32a41a",
         "code": "喀什市",
         "name": "Kashi Shi",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65-58e925",
-        "id": "CN-65-58e925-d67cd2",
         "code": "麦盖提县",
         "name": "Markit Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65-58e925",
-        "id": "CN-65-58e925-dfa671",
         "code": "莎车县",
         "name": "Shache Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65-58e925",
-        "id": "CN-65-58e925-8cf0d5",
         "code": "疏附县",
         "name": "Shufu Xian",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65-58e925",
-        "id": "CN-65-58e925-6cbc3d",
         "code": "疏勒县",
         "name": "Shule Xian",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65-58e925",
-        "id": "CN-65-58e925-f8fbcc",
         "code": "塔什库尔干塔吉克自治县",
         "name": "Taxkorgan Xian",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65-58e925",
-        "id": "CN-65-58e925-cff5b1",
         "code": "叶城县",
         "name": "Yecheng Xian",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65-58e925",
-        "id": "CN-65-58e925-62c8cf",
         "code": "英吉沙县",
         "name": "Yengisar Xian",
         "translations": {
@@ -133,7 +123,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65-58e925",
-        "id": "CN-65-58e925-8d09f0",
         "code": "岳普湖县",
         "name": "Yopurga Xian",
         "translations": {
@@ -146,7 +135,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65-58e925",
-        "id": "CN-65-58e925-1a20f2",
         "code": "泽普县",
         "name": "Zepu Xian",
         "translations": {

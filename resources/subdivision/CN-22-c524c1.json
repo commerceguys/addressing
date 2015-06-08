@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-22-c524c1",
-        "id": "CN-22-c524c1-b8770c",
         "code": "东昌区",
         "name": "Dongchang Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-22-c524c1",
-        "id": "CN-22-c524c1-4bed2b",
         "code": "二道江区",
         "name": "Erdaojiang Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-22-c524c1",
-        "id": "CN-22-c524c1-774b8a",
         "code": "辉南县",
         "name": "Huinan Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-22-c524c1",
-        "id": "CN-22-c524c1-009a46",
         "code": "集安市",
         "name": "Ji'an Shi",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-22-c524c1",
-        "id": "CN-22-c524c1-5a8e09",
         "code": "柳河县",
         "name": "Liuhe Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-22-c524c1",
-        "id": "CN-22-c524c1-f866b8",
         "code": "梅河口市",
         "name": "Meihekou Shi",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-22-c524c1",
-        "id": "CN-22-c524c1-656937",
         "code": "通化县",
         "name": "Tonghua Xian",
         "translations": {

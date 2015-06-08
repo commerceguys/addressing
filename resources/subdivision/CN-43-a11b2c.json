@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-a11b2c",
-        "id": "CN-43-a11b2c-7bd5c8",
         "code": "慈利县",
         "name": "Cili Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-a11b2c",
-        "id": "CN-43-a11b2c-d79055",
         "code": "桑植县",
         "name": "Sangzhi Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-a11b2c",
-        "id": "CN-43-a11b2c-87b60c",
         "code": "武陵源区",
         "name": "Wulingyuan Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-a11b2c",
-        "id": "CN-43-a11b2c-eef1a4",
         "code": "永定区",
         "name": "Yongding Qu",
         "translations": {

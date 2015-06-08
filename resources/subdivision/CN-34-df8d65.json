@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-df8d65",
-        "id": "CN-34-df8d65-5357cc",
         "code": "当涂县",
         "name": "Dangtu Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-df8d65",
-        "id": "CN-34-df8d65-bd8ef1",
         "code": "花山区",
         "name": "Huashan Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-df8d65",
-        "id": "CN-34-df8d65-8ff30f",
         "code": "金家庄区",
         "name": "Jinjiazhuang Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-df8d65",
-        "id": "CN-34-df8d65-220da7",
         "code": "雨山区",
         "name": "Yushan Qu",
         "translations": {

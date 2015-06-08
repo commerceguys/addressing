@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-61-75dae4",
-        "id": "CN-61-75dae4-77e0fb",
         "code": "王益区",
         "name": "Wangyi Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-61-75dae4",
-        "id": "CN-61-75dae4-fa0be3",
         "code": "耀州区",
         "name": "Yaozhou Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-61-75dae4",
-        "id": "CN-61-75dae4-48e488",
         "code": "宜君县",
         "name": "Yijun Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-61-75dae4",
-        "id": "CN-61-75dae4-b5a44b",
         "code": "印台区",
         "name": "Yintai Qu",
         "translations": {

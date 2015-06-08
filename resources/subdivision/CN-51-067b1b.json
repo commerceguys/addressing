@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-067b1b",
-        "id": "CN-51-067b1b-56f67e",
         "code": "翠屏区",
         "name": "Cuiping Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-067b1b",
-        "id": "CN-51-067b1b-45bfe5",
         "code": "高县",
         "name": "Gao Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-067b1b",
-        "id": "CN-51-067b1b-5e5368",
         "code": "珙县",
         "name": "Gong Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-067b1b",
-        "id": "CN-51-067b1b-dd009d",
         "code": "江安县",
         "name": "Jiang'an Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-067b1b",
-        "id": "CN-51-067b1b-973894",
         "code": "南溪县",
         "name": "Nanxi Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-067b1b",
-        "id": "CN-51-067b1b-be782f",
         "code": "屏山县",
         "name": "Pingshan Xian",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-067b1b",
-        "id": "CN-51-067b1b-e5db74",
         "code": "兴文县",
         "name": "Xingwen Xian",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-067b1b",
-        "id": "CN-51-067b1b-3e251e",
         "code": "宜宾县",
         "name": "Yibin Xian",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-067b1b",
-        "id": "CN-51-067b1b-3a99fb",
         "code": "筠连县",
         "name": "Junlian Xian",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-067b1b",
-        "id": "CN-51-067b1b-f4e0b1",
         "code": "长宁县",
         "name": "Changning Xian",
         "translations": {

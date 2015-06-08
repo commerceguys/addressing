@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33-08b6e6",
-        "id": "CN-33-08b6e6-43ee57",
         "code": "安吉县",
         "name": "Anji Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33-08b6e6",
-        "id": "CN-33-08b6e6-652958",
         "code": "德清县",
         "name": "Deqing Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33-08b6e6",
-        "id": "CN-33-08b6e6-546220",
         "code": "南浔区",
         "name": "Nanxun Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33-08b6e6",
-        "id": "CN-33-08b6e6-fa31a8",
         "code": "吴兴区",
         "name": "Wuxing Qu",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33-08b6e6",
-        "id": "CN-33-08b6e6-ee6749",
         "code": "长兴县",
         "name": "Changxing Xian",
         "translations": {

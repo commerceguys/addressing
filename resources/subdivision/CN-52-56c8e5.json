@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52-56c8e5",
-        "id": "CN-52-56c8e5-1acee8",
         "code": "赤水市",
         "name": "Chishui Shi",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52-56c8e5",
-        "id": "CN-52-56c8e5-adf62b",
         "code": "道真仡佬族苗族自治县",
         "name": "Daozhen Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52-56c8e5",
-        "id": "CN-52-56c8e5-88e906",
         "code": "凤冈县",
         "name": "Fenggang Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52-56c8e5",
-        "id": "CN-52-56c8e5-73d8b4",
         "code": "红花岗区",
         "name": "Honghuagang Qu",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52-56c8e5",
-        "id": "CN-52-56c8e5-303e62",
         "code": "汇川区",
         "name": "Huichuan Qu",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52-56c8e5",
-        "id": "CN-52-56c8e5-454636",
         "code": "湄潭县",
         "name": "Meitan Xian",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52-56c8e5",
-        "id": "CN-52-56c8e5-b741bd",
         "code": "仁怀市",
         "name": "Renhuai Shi",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52-56c8e5",
-        "id": "CN-52-56c8e5-ec971f",
         "code": "绥阳县",
         "name": "Suiyang Xian",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52-56c8e5",
-        "id": "CN-52-56c8e5-219f56",
         "code": "桐梓县",
         "name": "Tongzi Xian",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52-56c8e5",
-        "id": "CN-52-56c8e5-69b6b9",
         "code": "务川仡佬族苗族自治县",
         "name": "Wuchuan Xian",
         "translations": {
@@ -133,7 +123,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52-56c8e5",
-        "id": "CN-52-56c8e5-cb5333",
         "code": "习水县",
         "name": "Xishui Xian",
         "translations": {
@@ -146,7 +135,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52-56c8e5",
-        "id": "CN-52-56c8e5-feede0",
         "code": "余庆县",
         "name": "Yuqing Xian",
         "translations": {
@@ -159,7 +147,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52-56c8e5",
-        "id": "CN-52-56c8e5-0d16ff",
         "code": "正安县",
         "name": "Zheng'an Xian",
         "translations": {
@@ -172,7 +159,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52-56c8e5",
-        "id": "CN-52-56c8e5-af1aba",
         "code": "遵义县",
         "name": "Zunyi Xian",
         "translations": {

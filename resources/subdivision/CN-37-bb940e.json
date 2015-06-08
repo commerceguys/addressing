@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-bb940e",
-        "id": "CN-37-bb940e-5f3109",
         "code": "安丘市",
         "name": "Anqiu Shi",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-bb940e",
-        "id": "CN-37-bb940e-205e82",
         "code": "昌乐县",
         "name": "Changle Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-bb940e",
-        "id": "CN-37-bb940e-6a30c3",
         "code": "昌邑市",
         "name": "Changyi Shi",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-bb940e",
-        "id": "CN-37-bb940e-5d5771",
         "code": "坊子区",
         "name": "Fangzi Qu",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-bb940e",
-        "id": "CN-37-bb940e-5bc59f",
         "code": "高密市",
         "name": "Gaomi Shi",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-bb940e",
-        "id": "CN-37-bb940e-e89ae6",
         "code": "寒亭区",
         "name": "Hanting Qu",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-bb940e",
-        "id": "CN-37-bb940e-716ce4",
         "code": "奎文区",
         "name": "Kuiwen Qu",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-bb940e",
-        "id": "CN-37-bb940e-7b3747",
         "code": "临朐县",
         "name": "Linqu Xian",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-bb940e",
-        "id": "CN-37-bb940e-e29ba4",
         "code": "青州市",
         "name": "Qingzhou Shi",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-bb940e",
-        "id": "CN-37-bb940e-37f35f",
         "code": "寿光市",
         "name": "Shouguang Shi",
         "translations": {
@@ -133,7 +123,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-bb940e",
-        "id": "CN-37-bb940e-6435f2",
         "code": "潍城区",
         "name": "Weicheng Qu",
         "translations": {
@@ -146,7 +135,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-bb940e",
-        "id": "CN-37-bb940e-0e8b94",
         "code": "诸城市",
         "name": "Zhucheng Shi",
         "translations": {

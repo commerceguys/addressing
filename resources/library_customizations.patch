@@ -214,10 +214,10 @@ index 3d3a1ad..410d77a 100644
      "BS-59d4c6": {
          "locale": "en",
 diff --git a/resources/subdivision/ES.json b/resources/subdivision/ES.json
-index 67f89ca..9e631cc 100644
+index 890e316..25662a3 100644
 --- a/resources/subdivision/ES.json
 +++ b/resources/subdivision/ES.json
-@@ -71,6 +71,15 @@
+@@ -55,6 +55,13 @@
          "name": "Badajoz",
          "postal_code_pattern": "06"
      },
@@ -225,15 +225,13 @@ index 67f89ca..9e631cc 100644
 +        "locale": "es",
 +        "country_code": "ES",
 +        "parent_id": null,
-+        "id": "ES-PM",
-+        "code": "Balears",
 +        "name": "Balears",
 +        "postal_code_pattern": "07"
 +    },
      "ES-B": {
          "locale": "es",
          "country_code": "ES",
-@@ -215,15 +224,6 @@
+@@ -167,13 +174,6 @@
          "name": "Huesca",
          "postal_code_pattern": "22"
      },
@@ -241,8 +239,6 @@ index 67f89ca..9e631cc 100644
 -        "locale": "es",
 -        "country_code": "ES",
 -        "parent_id": null,
--        "id": "ES-PM",
--        "code": "Islas Baleares",
 -        "name": "Islas Baleares",
 -        "postal_code_pattern": "07"
 -    },
@@ -250,10 +246,10 @@ index 67f89ca..9e631cc 100644
          "locale": "es",
          "country_code": "ES",
 diff --git a/resources/subdivision/IN.json b/resources/subdivision/IN.json
-index e65b2f5..5f572a3 100644
+index e89ee59..011c334 100644
 --- a/resources/subdivision/IN.json
 +++ b/resources/subdivision/IN.json
-@@ -278,11 +278,11 @@
+@@ -220,7 +220,7 @@
          "name": "Tamil Nadu",
          "postal_code_pattern": "6[0-6]|536"
      },
@@ -262,12 +258,7 @@ index e65b2f5..5f572a3 100644
          "locale": "en",
          "country_code": "IN",
          "parent_id": null,
--        "id": "IN-50c73a",
-+        "id": "IN-TG",
-         "code": "Telangana",
-         "name": "Telangana",
-         "postal_code_pattern": "5[0-3]"
-@@ -305,11 +305,11 @@
+@@ -241,7 +241,7 @@
          "name": "Uttar Pradesh",
          "postal_code_pattern": "2[0-35-8]|24[0-7]|26[12]"
      },
@@ -276,16 +267,11 @@ index e65b2f5..5f572a3 100644
          "locale": "en",
          "country_code": "IN",
          "parent_id": null,
--        "id": "IN-UL",
-+        "id": "IN-UT",
-         "code": "Uttarakhand",
-         "name": "Uttarakhand",
-         "postal_code_pattern": "24[46-9]|254|26[23]"
 diff --git a/resources/subdivision/KR.json b/resources/subdivision/KR.json
-index 672b914..7551a17 100644
+index 8adf8a5..335496a 100644
 --- a/resources/subdivision/KR.json
 +++ b/resources/subdivision/KR.json
-@@ -134,11 +134,11 @@
+@@ -125,7 +125,7 @@
          },
          "has_children": true
      },
@@ -294,16 +280,11 @@ index 672b914..7551a17 100644
          "locale": "ko-Latn",
          "country_code": "KR",
          "parent_id": null,
--        "id": "KR-210873",
-+        "id": "KR-50",
-         "code": "세종특별자치시",
-         "name": "Sejong",
-         "postal_code_pattern": "339",
 diff --git a/resources/subdivision/MX.json b/resources/subdivision/MX.json
-index ddaad4b..b7d70a2 100644
+index 4b0e46d..a45af6f 100644
 --- a/resources/subdivision/MX.json
 +++ b/resources/subdivision/MX.json
-@@ -89,15 +89,6 @@
+@@ -79,14 +79,6 @@
          "name": "Durango",
          "postal_code_pattern": "3[45]"
      },
@@ -311,7 +292,6 @@ index ddaad4b..b7d70a2 100644
 -        "locale": "es",
 -        "country_code": "MX",
 -        "parent_id": null,
--        "id": "MX-MEX",
 -        "code": "MEX",
 -        "name": "Estado de México",
 -        "postal_code_pattern": "5[0-7]"
@@ -319,7 +299,7 @@ index ddaad4b..b7d70a2 100644
      "MX-GUA": {
          "locale": "es",
          "country_code": "MX",
-@@ -134,6 +125,15 @@
+@@ -119,6 +111,14 @@
          "name": "Jalisco",
          "postal_code_pattern": "4[4-9]"
      },
@@ -327,7 +307,6 @@ index ddaad4b..b7d70a2 100644
 +        "locale": "es",
 +        "country_code": "MX",
 +        "parent_id": null,
-+        "id": "MX-MEX",
 +        "code": "MEX",
 +        "name": "México",
 +        "postal_code_pattern": "5[0-7]"

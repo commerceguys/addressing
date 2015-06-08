@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-6cfbfc",
-        "id": "CN-34-6cfbfc-b4e518",
         "code": "东至县",
         "name": "Dongzhi Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-6cfbfc",
-        "id": "CN-34-6cfbfc-1a8e8d",
         "code": "贵池区",
         "name": "Guichi Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-6cfbfc",
-        "id": "CN-34-6cfbfc-f4c7b7",
         "code": "青阳县",
         "name": "Qingyang Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-6cfbfc",
-        "id": "CN-34-6cfbfc-ff2eb5",
         "code": "石台县",
         "name": "Shitai Xian",
         "translations": {

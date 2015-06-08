@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-b04a65",
-        "id": "CN-43-b04a65-c1eac5",
         "code": "华容县",
         "name": "Huarong Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-b04a65",
-        "id": "CN-43-b04a65-f7445e",
         "code": "君山区",
         "name": "Junshan Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-b04a65",
-        "id": "CN-43-b04a65-733cba",
         "code": "临湘市",
         "name": "Linxiang Shi",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-b04a65",
-        "id": "CN-43-b04a65-b2257d",
         "code": "汨罗市",
         "name": "Miluo Shi",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-b04a65",
-        "id": "CN-43-b04a65-567643",
         "code": "平江县",
         "name": "Pingjiang Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-b04a65",
-        "id": "CN-43-b04a65-b4ccff",
         "code": "湘阴县",
         "name": "Xiangyin Xian",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-b04a65",
-        "id": "CN-43-b04a65-4e98b5",
         "code": "岳阳楼区",
         "name": "Yueyanglou Qu",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-b04a65",
-        "id": "CN-43-b04a65-87f2a8",
         "code": "岳阳县",
         "name": "Yueyang Xian",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-b04a65",
-        "id": "CN-43-b04a65-047bcd",
         "code": "云溪区",
         "name": "Yunxi Qu",
         "translations": {

@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32",
-        "id": "CN-32-bbf8a3",
         "code": "常州市",
         "name": "Changzhou Shi",
         "translations": {
@@ -17,7 +16,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32",
-        "id": "CN-32-95ce90",
         "code": "淮安市",
         "name": "Huai'an Shi",
         "translations": {
@@ -31,7 +29,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32",
-        "id": "CN-32-7d9864",
         "code": "连云港市",
         "name": "Lianyungang Shi",
         "translations": {
@@ -45,7 +42,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32",
-        "id": "CN-32-d2bb8f",
         "code": "南京市",
         "name": "Nanjing Shi",
         "translations": {
@@ -59,7 +55,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32",
-        "id": "CN-32-8d84eb",
         "code": "南通市",
         "name": "Nantong Shi",
         "translations": {
@@ -73,7 +68,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32",
-        "id": "CN-32-c32846",
         "code": "苏州市",
         "name": "Suzhou Shi",
         "translations": {
@@ -87,7 +81,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32",
-        "id": "CN-32-c4253e",
         "code": "宿迁市",
         "name": "Suqian Shi",
         "translations": {
@@ -101,7 +94,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32",
-        "id": "CN-32-a4beec",
         "code": "泰州市",
         "name": "Taizhou Shi",
         "translations": {
@@ -115,7 +107,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32",
-        "id": "CN-32-ed11ab",
         "code": "无锡市",
         "name": "Wuxi Shi",
         "translations": {
@@ -129,7 +120,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32",
-        "id": "CN-32-7082f2",
         "code": "徐州市",
         "name": "Xuzhou Shi",
         "translations": {
@@ -143,7 +133,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32",
-        "id": "CN-32-da5405",
         "code": "盐城市",
         "name": "Yancheng Shi",
         "translations": {
@@ -157,7 +146,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32",
-        "id": "CN-32-b5c2d5",
         "code": "扬州市",
         "name": "Yangzhou Shi",
         "translations": {
@@ -171,7 +159,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32",
-        "id": "CN-32-48c525",
         "code": "镇江市",
         "name": "Zhenjiang Shi",
         "translations": {

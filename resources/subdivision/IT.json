@@ -3,7 +3,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-AG",
         "code": "AG",
         "name": "Agrigento",
         "postal_code_pattern": "92"
@@ -12,7 +11,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-AL",
         "code": "AL",
         "name": "Alessandria",
         "postal_code_pattern": "15"
@@ -21,7 +19,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-AN",
         "code": "AN",
         "name": "Ancona",
         "postal_code_pattern": "60"
@@ -30,7 +27,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-AO",
         "code": "AO",
         "name": "Aosta",
         "postal_code_pattern": "11"
@@ -39,7 +35,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-AR",
         "code": "AR",
         "name": "Arezzo",
         "postal_code_pattern": "52"
@@ -48,7 +43,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-AP",
         "code": "AP",
         "name": "Ascoli Piceno",
         "postal_code_pattern": "63"
@@ -57,7 +51,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-AT",
         "code": "AT",
         "name": "Asti",
         "postal_code_pattern": "14"
@@ -66,7 +59,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-AV",
         "code": "AV",
         "name": "Avellino",
         "postal_code_pattern": "83"
@@ -75,7 +67,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-BA",
         "code": "BA",
         "name": "Bari",
         "postal_code_pattern": "70"
@@ -84,7 +75,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-BT",
         "code": "BT",
         "name": "Barletta-Andria-Trani",
         "postal_code_pattern": "76[01]"
@@ -93,7 +83,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-BL",
         "code": "BL",
         "name": "Belluno",
         "postal_code_pattern": "32"
@@ -102,7 +91,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-BN",
         "code": "BN",
         "name": "Benevento",
         "postal_code_pattern": "82"
@@ -111,7 +99,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-BG",
         "code": "BG",
         "name": "Bergamo",
         "postal_code_pattern": "24"
@@ -120,7 +107,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-BI",
         "code": "BI",
         "name": "Biella",
         "postal_code_pattern": "13[89]"
@@ -129,7 +115,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-BO",
         "code": "BO",
         "name": "Bologna",
         "postal_code_pattern": "40"
@@ -138,7 +123,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-BZ",
         "code": "BZ",
         "name": "Bolzano",
         "postal_code_pattern": "39"
@@ -147,7 +131,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-BS",
         "code": "BS",
         "name": "Brescia",
         "postal_code_pattern": "25"
@@ -156,7 +139,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-BR",
         "code": "BR",
         "name": "Brindisi",
         "postal_code_pattern": "72"
@@ -165,7 +147,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-CA",
         "code": "CA",
         "name": "Cagliari",
         "postal_code_pattern": "0912[1-9]|0913[0-4]|0901[0289]|0902[03468]|0903[0234]|0904|0803[035]|08043"
@@ -174,7 +155,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-CL",
         "code": "CL",
         "name": "Caltanissetta",
         "postal_code_pattern": "93"
@@ -183,7 +163,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-CB",
         "code": "CB",
         "name": "Campobasso",
         "postal_code_pattern": "860[1-4]|86100"
@@ -192,7 +171,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-CI",
         "code": "CI",
         "name": "Carbonia-Iglesias",
         "postal_code_pattern": "0901[013-7]"
@@ -201,7 +179,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-CE",
         "code": "CE",
         "name": "Caserta",
         "postal_code_pattern": "81"
@@ -210,7 +187,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-CT",
         "code": "CT",
         "name": "Catania",
         "postal_code_pattern": "95"
@@ -219,7 +195,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-CZ",
         "code": "CZ",
         "name": "Catanzaro",
         "postal_code_pattern": "88[01]"
@@ -228,7 +203,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-CH",
         "code": "CH",
         "name": "Chieti",
         "postal_code_pattern": "66"
@@ -237,7 +211,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-CO",
         "code": "CO",
         "name": "Como",
         "postal_code_pattern": "22"
@@ -246,7 +219,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-CS",
         "code": "CS",
         "name": "Cosenza",
         "postal_code_pattern": "87"
@@ -255,7 +227,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-CR",
         "code": "CR",
         "name": "Cremona",
         "postal_code_pattern": "26[01]"
@@ -264,7 +235,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-KR",
         "code": "KR",
         "name": "Crotone",
         "postal_code_pattern": "88[89]"
@@ -273,7 +243,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-CN",
         "code": "CN",
         "name": "Cuneo",
         "postal_code_pattern": "12|18025"
@@ -282,7 +251,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-EN",
         "code": "EN",
         "name": "Enna",
         "postal_code_pattern": "94"
@@ -291,7 +259,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-FM",
         "code": "FM",
         "name": "Fermo",
         "postal_code_pattern": "638|63900"
@@ -300,7 +267,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-FE",
         "code": "FE",
         "name": "Ferrara",
         "postal_code_pattern": "44"
@@ -309,7 +275,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-FI",
         "code": "FI",
         "name": "Firenze",
         "postal_code_pattern": "50"
@@ -318,7 +283,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-FG",
         "code": "FG",
         "name": "Foggia",
         "postal_code_pattern": "71"
@@ -327,7 +291,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-FC",
         "code": "FC",
         "name": "Forlì-Cesena",
         "postal_code_pattern": "47[015]"
@@ -336,7 +299,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-FR",
         "code": "FR",
         "name": "Frosinone",
         "postal_code_pattern": "03"
@@ -345,7 +307,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-GE",
         "code": "GE",
         "name": "Genova",
         "postal_code_pattern": "16"
@@ -354,7 +315,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-GO",
         "code": "GO",
         "name": "Gorizia",
         "postal_code_pattern": "34[01]7"
@@ -363,7 +323,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-GR",
         "code": "GR",
         "name": "Grosseto",
         "postal_code_pattern": "58"
@@ -372,7 +331,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-IM",
         "code": "IM",
         "name": "Imperia",
         "postal_code_pattern": "18"
@@ -381,7 +339,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-IS",
         "code": "IS",
         "name": "Isernia",
         "postal_code_pattern": "860[7-9]|86170"
@@ -390,7 +347,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-AQ",
         "code": "AQ",
         "name": "L'Aquila",
         "postal_code_pattern": "67"
@@ -399,7 +355,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-SP",
         "code": "SP",
         "name": "La Spezia",
         "postal_code_pattern": "19"
@@ -408,7 +363,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-LT",
         "code": "LT",
         "name": "Latina",
         "postal_code_pattern": "04"
@@ -417,7 +371,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-LE",
         "code": "LE",
         "name": "Lecce",
         "postal_code_pattern": "73"
@@ -426,7 +379,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-LC",
         "code": "LC",
         "name": "Lecco",
         "postal_code_pattern": "23[89]"
@@ -435,7 +387,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-LI",
         "code": "LI",
         "name": "Livorno",
         "postal_code_pattern": "57"
@@ -444,7 +395,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-LO",
         "code": "LO",
         "name": "Lodi",
         "postal_code_pattern": "26[89]"
@@ -453,7 +403,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-LU",
         "code": "LU",
         "name": "Lucca",
         "postal_code_pattern": "55"
@@ -462,7 +411,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-MC",
         "code": "MC",
         "name": "Macerata",
         "postal_code_pattern": "62"
@@ -471,7 +419,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-MN",
         "code": "MN",
         "name": "Mantova",
         "postal_code_pattern": "46"
@@ -480,7 +427,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-MS",
         "code": "MS",
         "name": "Massa-Carrara",
         "postal_code_pattern": "54"
@@ -489,7 +435,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-MT",
         "code": "MT",
         "name": "Matera",
         "postal_code_pattern": "75"
@@ -498,7 +443,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-VS",
         "code": "VS",
         "name": "Medio Campidano",
         "postal_code_pattern": "0902[012579]|0903[015-9]|09040"
@@ -507,7 +451,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-ME",
         "code": "ME",
         "name": "Messina",
         "postal_code_pattern": "98"
@@ -516,7 +459,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-MI",
         "code": "MI",
         "name": "Milano",
         "postal_code_pattern": "20"
@@ -525,7 +467,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-MO",
         "code": "MO",
         "name": "Modena",
         "postal_code_pattern": "41"
@@ -534,7 +475,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-MB",
         "code": "MB",
         "name": "Monza e Brianza",
         "postal_code_pattern": "208|20900"
@@ -543,7 +483,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-NA",
         "code": "NA",
         "name": "Napoli",
         "postal_code_pattern": "80"
@@ -552,7 +491,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-NO",
         "code": "NO",
         "name": "Novara",
         "postal_code_pattern": "28[01]"
@@ -561,7 +499,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-NU",
         "code": "NU",
         "name": "Nuoro",
         "postal_code_pattern": "080[1-3]|08100"
@@ -570,7 +507,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-OG",
         "code": "OG",
         "name": "Ogliastra",
         "postal_code_pattern": "08037|0804[024-9]"
@@ -579,7 +515,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-OT",
         "code": "OT",
         "name": "Olbia-Tempio",
         "postal_code_pattern": "08020|0702|0703[08]"
@@ -588,7 +523,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-OR",
         "code": "OR",
         "name": "Oristano",
         "postal_code_pattern": "090[7-9]|09170|0801[039]|0803[04]"
@@ -597,7 +531,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-PD",
         "code": "PD",
         "name": "Padova",
         "postal_code_pattern": "35"
@@ -606,7 +539,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-PA",
         "code": "PA",
         "name": "Palermo",
         "postal_code_pattern": "90"
@@ -615,7 +547,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-PR",
         "code": "PR",
         "name": "Parma",
         "postal_code_pattern": "43"
@@ -624,7 +555,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-PV",
         "code": "PV",
         "name": "Pavia",
         "postal_code_pattern": "27"
@@ -633,7 +563,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-PG",
         "code": "PG",
         "name": "Perugia",
         "postal_code_pattern": "06"
@@ -642,7 +571,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-PU",
         "code": "PU",
         "name": "Pesaro e Urbino",
         "postal_code_pattern": "61"
@@ -651,7 +579,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-PE",
         "code": "PE",
         "name": "Pescara",
         "postal_code_pattern": "65"
@@ -660,7 +587,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-PC",
         "code": "PC",
         "name": "Piacenza",
         "postal_code_pattern": "29"
@@ -669,7 +595,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-PI",
         "code": "PI",
         "name": "Pisa",
         "postal_code_pattern": "56"
@@ -678,7 +603,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-PT",
         "code": "PT",
         "name": "Pistoia",
         "postal_code_pattern": "51"
@@ -687,7 +611,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-PN",
         "code": "PN",
         "name": "Pordenone",
         "postal_code_pattern": "330[7-9]|33170"
@@ -696,7 +619,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-PZ",
         "code": "PZ",
         "name": "Potenza",
         "postal_code_pattern": "85"
@@ -705,7 +627,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-PO",
         "code": "PO",
         "name": "Prato",
         "postal_code_pattern": "59"
@@ -714,7 +635,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-RG",
         "code": "RG",
         "name": "Ragusa",
         "postal_code_pattern": "97"
@@ -723,7 +643,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-RA",
         "code": "RA",
         "name": "Ravenna",
         "postal_code_pattern": "48"
@@ -732,7 +651,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-RC",
         "code": "RC",
         "name": "Reggio Calabria",
         "postal_code_pattern": "89[01]"
@@ -741,7 +659,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-RE",
         "code": "RE",
         "name": "Reggio Emilia",
         "postal_code_pattern": "42"
@@ -750,7 +667,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-RI",
         "code": "RI",
         "name": "Rieti",
         "postal_code_pattern": "02"
@@ -759,7 +675,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-RN",
         "code": "RN",
         "name": "Rimini",
         "postal_code_pattern": "47[89]"
@@ -768,7 +683,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-RM",
         "code": "RM",
         "name": "Roma",
         "postal_code_pattern": "00"
@@ -777,7 +691,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-RO",
         "code": "RO",
         "name": "Rovigo",
         "postal_code_pattern": "45"
@@ -786,7 +699,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-SA",
         "code": "SA",
         "name": "Salerno",
         "postal_code_pattern": "84"
@@ -795,7 +707,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-SS",
         "code": "SS",
         "name": "Sassari",
         "postal_code_pattern": "070[14]|0703[0-79]|07100"
@@ -804,7 +715,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-SV",
         "code": "SV",
         "name": "Savona",
         "postal_code_pattern": "17|12071"
@@ -813,7 +723,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-SI",
         "code": "SI",
         "name": "Siena",
         "postal_code_pattern": "53"
@@ -822,7 +731,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-SR",
         "code": "SR",
         "name": "Siracusa",
         "postal_code_pattern": "96"
@@ -831,7 +739,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-SO",
         "code": "SO",
         "name": "Sondrio",
         "postal_code_pattern": "23[01]"
@@ -840,7 +747,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-TA",
         "code": "TA",
         "name": "Taranto",
         "postal_code_pattern": "74"
@@ -849,7 +755,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-TE",
         "code": "TE",
         "name": "Teramo",
         "postal_code_pattern": "64"
@@ -858,7 +763,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-TR",
         "code": "TR",
         "name": "Terni",
         "postal_code_pattern": "05"
@@ -867,7 +771,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-TO",
         "code": "TO",
         "name": "Torino",
         "postal_code_pattern": "10"
@@ -876,7 +779,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-TP",
         "code": "TP",
         "name": "Trapani",
         "postal_code_pattern": "91"
@@ -885,7 +787,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-TN",
         "code": "TN",
         "name": "Trento",
         "postal_code_pattern": "38"
@@ -894,7 +795,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-TV",
         "code": "TV",
         "name": "Treviso",
         "postal_code_pattern": "31"
@@ -903,7 +803,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-TS",
         "code": "TS",
         "name": "Trieste",
         "postal_code_pattern": "3401|341[0-689]|34062"
@@ -912,7 +811,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-UD",
         "code": "UD",
         "name": "Udine",
         "postal_code_pattern": "330[1-5]|33100"
@@ -921,7 +819,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-VA",
         "code": "VA",
         "name": "Varese",
         "postal_code_pattern": "21"
@@ -930,7 +827,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-VE",
         "code": "VE",
         "name": "Venezia",
         "postal_code_pattern": "30"
@@ -939,7 +835,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-VB",
         "code": "VB",
         "name": "Verbano-Cusio-Ossola",
         "postal_code_pattern": "28[89]"
@@ -948,7 +843,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-VC",
         "code": "VC",
         "name": "Vercelli",
         "postal_code_pattern": "13[01]"
@@ -957,7 +851,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-VR",
         "code": "VR",
         "name": "Verona",
         "postal_code_pattern": "37"
@@ -966,7 +859,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-VV",
         "code": "VV",
         "name": "Vibo Valentia",
         "postal_code_pattern": "89[89]"
@@ -975,7 +867,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-VI",
         "code": "VI",
         "name": "Vicenza",
         "postal_code_pattern": "36"
@@ -984,7 +875,6 @@
         "locale": "it",
         "country_code": "IT",
         "parent_id": null,
-        "id": "IT-VT",
         "code": "VT",
         "name": "Viterbo",
         "postal_code_pattern": "01"

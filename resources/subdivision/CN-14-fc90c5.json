@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-14-fc90c5",
-        "id": "CN-14-fc90c5-c95206",
         "code": "怀仁县",
         "name": "Huairen Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-14-fc90c5",
-        "id": "CN-14-fc90c5-541117",
         "code": "平鲁区",
         "name": "Pinglu Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-14-fc90c5",
-        "id": "CN-14-fc90c5-d6cbd2",
         "code": "山阴县",
         "name": "Shanyin Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-14-fc90c5",
-        "id": "CN-14-fc90c5-639b07",
         "code": "朔城区",
         "name": "Shuocheng Qu",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-14-fc90c5",
-        "id": "CN-14-fc90c5-2dcdf0",
         "code": "应县",
         "name": "Ying Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-14-fc90c5",
-        "id": "CN-14-fc90c5-1f43e0",
         "code": "右玉县",
         "name": "Youyu Xian",
         "translations": {

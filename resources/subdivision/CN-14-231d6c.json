@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-14-231d6c",
-        "id": "CN-14-231d6c-97819b",
         "code": "城区",
         "name": "Cheng Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-14-231d6c",
-        "id": "CN-14-231d6c-947477",
         "code": "壶关县",
         "name": "Huguan Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-14-231d6c",
-        "id": "CN-14-231d6c-661c25",
         "code": "郊区",
         "name": "Jiao Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-14-231d6c",
-        "id": "CN-14-231d6c-692180",
         "code": "黎城县",
         "name": "Licheng Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-14-231d6c",
-        "id": "CN-14-231d6c-55a3be",
         "code": "潞城市",
         "name": "Lucheng Shi",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-14-231d6c",
-        "id": "CN-14-231d6c-1cc165",
         "code": "平顺县",
         "name": "Pingshun Xian",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-14-231d6c",
-        "id": "CN-14-231d6c-7865ef",
         "code": "沁县",
         "name": "Qin Xian",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-14-231d6c",
-        "id": "CN-14-231d6c-e7e46d",
         "code": "沁源县",
         "name": "Qinyuan Xian",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-14-231d6c",
-        "id": "CN-14-231d6c-8bcfbf",
         "code": "屯留县",
         "name": "Tunliu Xian",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-14-231d6c",
-        "id": "CN-14-231d6c-cb60de",
         "code": "武乡县",
         "name": "Wuxiang Xian",
         "translations": {
@@ -133,7 +123,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-14-231d6c",
-        "id": "CN-14-231d6c-cb6cb3",
         "code": "襄垣县",
         "name": "Xiangyuan Xian",
         "translations": {
@@ -146,7 +135,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-14-231d6c",
-        "id": "CN-14-231d6c-e17425",
         "code": "长治县",
         "name": "Changzhi Xian",
         "translations": {
@@ -159,7 +147,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-14-231d6c",
-        "id": "CN-14-231d6c-53ca7e",
         "code": "长子县",
         "name": "Zhangzi Xian",
         "translations": {

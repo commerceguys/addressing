@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-76f18f",
-        "id": "CN-45-76f18f-980989",
         "code": "城中区",
         "name": "Chengzhong Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-76f18f",
-        "id": "CN-45-76f18f-fcf5ae",
         "code": "柳北区",
         "name": "Liubei Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-76f18f",
-        "id": "CN-45-76f18f-ea3623",
         "code": "柳城县",
         "name": "Liucheng Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-76f18f",
-        "id": "CN-45-76f18f-11a60e",
         "code": "柳江县",
         "name": "Liujiang Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-76f18f",
-        "id": "CN-45-76f18f-8145ff",
         "code": "柳南区",
         "name": "Liunan Qu",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-76f18f",
-        "id": "CN-45-76f18f-feff5e",
         "code": "鹿寨县",
         "name": "Luzhai Xian",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-76f18f",
-        "id": "CN-45-76f18f-33cd10",
         "code": "融安县",
         "name": "Rong'an Xian",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-76f18f",
-        "id": "CN-45-76f18f-1050e6",
         "code": "融水苗族自治县",
         "name": "Rongshui Xian",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-76f18f",
-        "id": "CN-45-76f18f-e25872",
         "code": "三江侗族自治县",
         "name": "Sanjiang Xian",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-76f18f",
-        "id": "CN-45-76f18f-e3516c",
         "code": "鱼峰区",
         "name": "Yufeng Qu",
         "translations": {

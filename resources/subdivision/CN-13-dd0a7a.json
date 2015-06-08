@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-dd0a7a",
-        "id": "CN-13-dd0a7a-c61953",
         "code": "安次区",
         "name": "Anci Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-dd0a7a",
-        "id": "CN-13-dd0a7a-29f325",
         "code": "霸州市",
         "name": "Bazhou Shi",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-dd0a7a",
-        "id": "CN-13-dd0a7a-3f89a9",
         "code": "大厂回族自治县",
         "name": "Dachang Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-dd0a7a",
-        "id": "CN-13-dd0a7a-1775ac",
         "code": "大城县",
         "name": "Daicheng Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-dd0a7a",
-        "id": "CN-13-dd0a7a-1a42d3",
         "code": "固安县",
         "name": "Gu'an Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-dd0a7a",
-        "id": "CN-13-dd0a7a-dd8105",
         "code": "广阳区",
         "name": "Guangyang Qu",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-dd0a7a",
-        "id": "CN-13-dd0a7a-0ea29e",
         "code": "三河市",
         "name": "Sanhe Shi",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-dd0a7a",
-        "id": "CN-13-dd0a7a-839d4a",
         "code": "文安县",
         "name": "Wen'an Xian",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-dd0a7a",
-        "id": "CN-13-dd0a7a-82b67e",
         "code": "香河县",
         "name": "Xianghe Xian",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-dd0a7a",
-        "id": "CN-13-dd0a7a-da63f0",
         "code": "永清县",
         "name": "Yongqing Xian",
         "translations": {

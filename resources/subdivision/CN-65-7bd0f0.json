@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65-7bd0f0",
-        "id": "CN-65-7bd0f0-3d4073",
         "code": "达坂城区",
         "name": "Dabancheng Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65-7bd0f0",
-        "id": "CN-65-7bd0f0-60c3f9",
         "code": "米东区",
         "name": "Midong Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65-7bd0f0",
-        "id": "CN-65-7bd0f0-8d6c00",
         "code": "沙依巴克区",
         "name": "Saybagh Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65-7bd0f0",
-        "id": "CN-65-7bd0f0-8813fe",
         "code": "水磨沟区",
         "name": "Shuimogou Qu",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65-7bd0f0",
-        "id": "CN-65-7bd0f0-2d3ef3",
         "code": "天山区",
         "name": "Tianshan Qu",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65-7bd0f0",
-        "id": "CN-65-7bd0f0-fcf657",
         "code": "头屯河区",
         "name": "Toutunhe Qu",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65-7bd0f0",
-        "id": "CN-65-7bd0f0-1c23c9",
         "code": "乌鲁木齐县",
         "name": "Ürümqi Xian",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65-7bd0f0",
-        "id": "CN-65-7bd0f0-ac60d9",
         "code": "新市区",
         "name": "Xinshi Qu",
         "translations": {

@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44-c25091",
-        "id": "CN-44-c25091-7a682a",
         "code": "禅城区",
         "name": "Shancheng Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44-c25091",
-        "id": "CN-44-c25091-fb9d8c",
         "code": "高明区",
         "name": "Gaoming Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44-c25091",
-        "id": "CN-44-c25091-f39494",
         "code": "南海区",
         "name": "Nanhai Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44-c25091",
-        "id": "CN-44-c25091-6dee40",
         "code": "三水区",
         "name": "Sanshui Qu",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44-c25091",
-        "id": "CN-44-c25091-ac9d8d",
         "code": "顺德区",
         "name": "Shunde Qu",
         "translations": {

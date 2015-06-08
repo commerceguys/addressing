@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33-fcfd02",
-        "id": "CN-33-fcfd02-c5361e",
         "code": "北仑区",
         "name": "Beilun Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33-fcfd02",
-        "id": "CN-33-fcfd02-71252c",
         "code": "慈溪市",
         "name": "Cixi Shi",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33-fcfd02",
-        "id": "CN-33-fcfd02-ccaa2b",
         "code": "奉化市",
         "name": "Fenghua Shi",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33-fcfd02",
-        "id": "CN-33-fcfd02-29697f",
         "code": "海曙区",
         "name": "Haishu Qu",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33-fcfd02",
-        "id": "CN-33-fcfd02-78e782",
         "code": "江北区",
         "name": "Jiangbei Qu",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33-fcfd02",
-        "id": "CN-33-fcfd02-504676",
         "code": "江东区",
         "name": "Jiangdong Qu",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33-fcfd02",
-        "id": "CN-33-fcfd02-45972d",
         "code": "宁海县",
         "name": "Ninghai Xian",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33-fcfd02",
-        "id": "CN-33-fcfd02-98535c",
         "code": "象山县",
         "name": "Xiangshan Xian",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33-fcfd02",
-        "id": "CN-33-fcfd02-0d63b8",
         "code": "鄞州区",
         "name": "Yinzhou Qu",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33-fcfd02",
-        "id": "CN-33-fcfd02-5ab09b",
         "code": "余姚市",
         "name": "Yuyao Shi",
         "translations": {
@@ -133,7 +123,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33-fcfd02",
-        "id": "CN-33-fcfd02-5151d4",
         "code": "镇海区",
         "name": "Zhenhai Qu",
         "translations": {

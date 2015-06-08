@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": null,
-        "id": "HK-71f850",
         "code": "九龍",
         "name": "Kowloon",
         "translations": {
@@ -17,7 +16,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": null,
-        "id": "HK-9f4b5f",
         "code": "香港島",
         "name": "Hong Kong Island",
         "translations": {
@@ -31,7 +29,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": null,
-        "id": "HK-87ea5e",
         "code": "新界",
         "name": "New Territories",
         "translations": {

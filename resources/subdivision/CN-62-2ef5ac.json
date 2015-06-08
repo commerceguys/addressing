@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-62-2ef5ac",
-        "id": "CN-62-2ef5ac-d67d27",
         "code": "安宁区",
         "name": "Anning Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-62-2ef5ac",
-        "id": "CN-62-2ef5ac-0a4942",
         "code": "城关区",
         "name": "Chengguan Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-62-2ef5ac",
-        "id": "CN-62-2ef5ac-fad959",
         "code": "皋兰县",
         "name": "Gaolan Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-62-2ef5ac",
-        "id": "CN-62-2ef5ac-6da131",
         "code": "红古区",
         "name": "Honggu Qu",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-62-2ef5ac",
-        "id": "CN-62-2ef5ac-681fc2",
         "code": "七里河区",
         "name": "Qilihe Qu",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-62-2ef5ac",
-        "id": "CN-62-2ef5ac-f4c664",
         "code": "西固区",
         "name": "Xigu Qu",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-62-2ef5ac",
-        "id": "CN-62-2ef5ac-593d93",
         "code": "永登县",
         "name": "Yongdeng Xian",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-62-2ef5ac",
-        "id": "CN-62-2ef5ac-280101",
         "code": "榆中县",
         "name": "Yuzhong Xian",
         "translations": {

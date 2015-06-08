@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-22-59b6cf",
-        "id": "CN-22-59b6cf-0ef3c6",
         "code": "东丰县",
         "name": "Dongfeng Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-22-59b6cf",
-        "id": "CN-22-59b6cf-3fba39",
         "code": "东辽县",
         "name": "Dongliao Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-22-59b6cf",
-        "id": "CN-22-59b6cf-a520b8",
         "code": "龙山区",
         "name": "Longshan Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-22-59b6cf",
-        "id": "CN-22-59b6cf-5f7d0f",
         "code": "西安区",
         "name": "Xi'an Qu",
         "translations": {

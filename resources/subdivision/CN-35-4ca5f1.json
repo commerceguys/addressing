@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-35-4ca5f1",
-        "id": "CN-35-4ca5f1-9f8cd7",
         "code": "大田县",
         "name": "Datian Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-35-4ca5f1",
-        "id": "CN-35-4ca5f1-c4189f",
         "code": "建宁县",
         "name": "Jianning Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-35-4ca5f1",
-        "id": "CN-35-4ca5f1-e65044",
         "code": "将乐县",
         "name": "Jiangle Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-35-4ca5f1",
-        "id": "CN-35-4ca5f1-56f3e5",
         "code": "梅列区",
         "name": "Meilie Qu",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-35-4ca5f1",
-        "id": "CN-35-4ca5f1-5067bb",
         "code": "明溪县",
         "name": "Mingxi Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-35-4ca5f1",
-        "id": "CN-35-4ca5f1-74f18a",
         "code": "宁化县",
         "name": "Ninghua Xian",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-35-4ca5f1",
-        "id": "CN-35-4ca5f1-751321",
         "code": "清流县",
         "name": "Qingliu Xian",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-35-4ca5f1",
-        "id": "CN-35-4ca5f1-d5816e",
         "code": "三元区",
         "name": "Sanyuan Qu",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-35-4ca5f1",
-        "id": "CN-35-4ca5f1-cce324",
         "code": "沙县",
         "name": "Sha Xian",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-35-4ca5f1",
-        "id": "CN-35-4ca5f1-062c68",
         "code": "泰宁县",
         "name": "Taining Xian",
         "translations": {
@@ -133,7 +123,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-35-4ca5f1",
-        "id": "CN-35-4ca5f1-9c2550",
         "code": "永安市",
         "name": "Yong'an Shi",
         "translations": {
@@ -146,7 +135,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-35-4ca5f1",
-        "id": "CN-35-4ca5f1-b5481c",
         "code": "尤溪县",
         "name": "Youxi Xian",
         "translations": {

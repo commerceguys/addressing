@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-62-f65236",
-        "id": "CN-62-f65236-c52c90",
         "code": "崇信县",
         "name": "Chongxin Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-62-f65236",
-        "id": "CN-62-f65236-a81633",
         "code": "华亭县",
         "name": "Huating Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-62-f65236",
-        "id": "CN-62-f65236-9dfc83",
         "code": "泾川县",
         "name": "Jingchuan Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-62-f65236",
-        "id": "CN-62-f65236-337f33",
         "code": "静宁县",
         "name": "Jingning Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-62-f65236",
-        "id": "CN-62-f65236-36b7b4",
         "code": "崆峒区",
         "name": "Kongtong Qu",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-62-f65236",
-        "id": "CN-62-f65236-e08a6c",
         "code": "灵台县",
         "name": "Lingtai Xian",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-62-f65236",
-        "id": "CN-62-f65236-7eb39c",
         "code": "庄浪县",
         "name": "Zhuangliang Xian",
         "translations": {

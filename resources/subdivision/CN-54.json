@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-54",
-        "id": "CN-54-83419c",
         "code": "阿里地区",
         "name": "Ngari Diqu",
         "translations": {
@@ -17,7 +16,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-54",
-        "id": "CN-54-63c33e",
         "code": "昌都地区",
         "name": "Qamdo Diqu",
         "translations": {
@@ -31,7 +29,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-54",
-        "id": "CN-54-4e4db3",
         "code": "拉萨市",
         "name": "Lhasa Shi",
         "translations": {
@@ -45,7 +42,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-54",
-        "id": "CN-54-a2fca1",
         "code": "林芝地区",
         "name": "Nyingchi Diqu",
         "translations": {
@@ -59,7 +55,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-54",
-        "id": "CN-54-4b53cb",
         "code": "那曲地区",
         "name": "Nagqu Diqu",
         "translations": {
@@ -73,7 +68,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-54",
-        "id": "CN-54-465200",
         "code": "日喀则地区",
         "name": "Xigazê Diqu",
         "translations": {
@@ -87,7 +81,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-54",
-        "id": "CN-54-9cbdff",
         "code": "山南地区",
         "name": "Shannan Diqu",
         "translations": {

@@ -3,7 +3,6 @@
         "locale": "en",
         "country_code": "IN",
         "parent_id": null,
-        "id": "IN-AN",
         "code": "Andaman and Nicobar Islands",
         "name": "Andaman & Nicobar",
         "postal_code_pattern": "744"
@@ -12,8 +11,6 @@
         "locale": "en",
         "country_code": "IN",
         "parent_id": null,
-        "id": "IN-AP",
-        "code": "Andhra Pradesh",
         "name": "Andhra Pradesh",
         "postal_code_pattern": "5[0-3]"
     },
@@ -21,8 +18,6 @@
         "locale": "en",
         "country_code": "IN",
         "parent_id": null,
-        "id": "IN-AR",
-        "code": "Arunachal Pradesh",
         "name": "Arunachal Pradesh",
         "postal_code_pattern": "79[0-2]"
     },
@@ -30,8 +25,6 @@
         "locale": "en",
         "country_code": "IN",
         "parent_id": null,
-        "id": "IN-AS",
-        "code": "Assam",
         "name": "Assam",
         "postal_code_pattern": "78"
     },
@@ -39,8 +32,6 @@
         "locale": "en",
         "country_code": "IN",
         "parent_id": null,
-        "id": "IN-BR",
-        "code": "Bihar",
         "name": "Bihar",
         "postal_code_pattern": "8[0-5]"
     },
@@ -48,8 +39,6 @@
         "locale": "en",
         "country_code": "IN",
         "parent_id": null,
-        "id": "IN-CH",
-        "code": "Chandigarh",
         "name": "Chandigarh",
         "postal_code_pattern": "16|1440[3-9]"
     },
@@ -57,8 +46,6 @@
         "locale": "en",
         "country_code": "IN",
         "parent_id": null,
-        "id": "IN-CT",
-        "code": "Chhattisgarh",
         "name": "Chhattisgarh",
         "postal_code_pattern": "49"
     },
@@ -66,7 +53,6 @@
         "locale": "en",
         "country_code": "IN",
         "parent_id": null,
-        "id": "IN-DN",
         "code": "Dadra and Nagar Haveli",
         "name": "Dadra & Nagar Haveli",
         "postal_code_pattern": "396"
@@ -75,7 +61,6 @@
         "locale": "en",
         "country_code": "IN",
         "parent_id": null,
-        "id": "IN-DD",
         "code": "Daman and Diu",
         "name": "Daman & Diu",
         "postal_code_pattern": "396"
@@ -84,8 +69,6 @@
         "locale": "en",
         "country_code": "IN",
         "parent_id": null,
-        "id": "IN-DL",
-        "code": "Delhi",
         "name": "Delhi",
         "postal_code_pattern": "11"
     },
@@ -93,8 +76,6 @@
         "locale": "en",
         "country_code": "IN",
         "parent_id": null,
-        "id": "IN-GA",
-        "code": "Goa",
         "name": "Goa",
         "postal_code_pattern": "403"
     },
@@ -102,8 +83,6 @@
         "locale": "en",
         "country_code": "IN",
         "parent_id": null,
-        "id": "IN-GJ",
-        "code": "Gujarat",
         "name": "Gujarat",
         "postal_code_pattern": "3[6-9]"
     },
@@ -111,8 +90,6 @@
         "locale": "en",
         "country_code": "IN",
         "parent_id": null,
-        "id": "IN-HR",
-        "code": "Haryana",
         "name": "Haryana",
         "postal_code_pattern": "1[23]"
     },
@@ -120,8 +97,6 @@
         "locale": "en",
         "country_code": "IN",
         "parent_id": null,
-        "id": "IN-HP",
-        "code": "Himachal Pradesh",
         "name": "Himachal Pradesh",
         "postal_code_pattern": "17"
     },
@@ -129,7 +104,6 @@
         "locale": "en",
         "country_code": "IN",
         "parent_id": null,
-        "id": "IN-JK",
         "code": "Jammu and Kashmir",
         "name": "Jammu & Kashmir",
         "postal_code_pattern": "1[89]"
@@ -138,8 +112,6 @@
         "locale": "en",
         "country_code": "IN",
         "parent_id": null,
-        "id": "IN-JH",
-        "code": "Jharkhand",
         "name": "Jharkhand",
         "postal_code_pattern": "81[4-9]|82|83[0-5]"
     },
@@ -147,8 +119,6 @@
         "locale": "en",
         "country_code": "IN",
         "parent_id": null,
-        "id": "IN-KA",
-        "code": "Karnataka",
         "name": "Karnataka",
         "postal_code_pattern": "5[4-9]|53[7-9]"
     },
@@ -156,8 +126,6 @@
         "locale": "en",
         "country_code": "IN",
         "parent_id": null,
-        "id": "IN-KL",
-        "code": "Kerala",
         "name": "Kerala",
         "postal_code_pattern": "6[7-9]|6010|607008|777"
     },
@@ -165,8 +133,6 @@
         "locale": "en",
         "country_code": "IN",
         "parent_id": null,
-        "id": "IN-LD",
-        "code": "Lakshadweep",
         "name": "Lakshadweep",
         "postal_code_pattern": "673"
     },
@@ -174,8 +140,6 @@
         "locale": "en",
         "country_code": "IN",
         "parent_id": null,
-        "id": "IN-MP",
-        "code": "Madhya Pradesh",
         "name": "Madhya Pradesh",
         "postal_code_pattern": "4[5-8]|490"
     },
@@ -183,8 +147,6 @@
         "locale": "en",
         "country_code": "IN",
         "parent_id": null,
-        "id": "IN-MH",
-        "code": "Maharashtra",
         "name": "Maharashtra",
         "postal_code_pattern": "4[0-4]"
     },
@@ -192,8 +154,6 @@
         "locale": "en",
         "country_code": "IN",
         "parent_id": null,
-        "id": "IN-MN",
-        "code": "Manipur",
         "name": "Manipur",
         "postal_code_pattern": "79[56]"
     },
@@ -201,8 +161,6 @@
         "locale": "en",
         "country_code": "IN",
         "parent_id": null,
-        "id": "IN-ML",
-        "code": "Meghalaya",
         "name": "Meghalaya",
         "postal_code_pattern": "79[34]"
     },
@@ -210,8 +168,6 @@
         "locale": "en",
         "country_code": "IN",
         "parent_id": null,
-        "id": "IN-MZ",
-        "code": "Mizoram",
         "name": "Mizoram",
         "postal_code_pattern": "796"
     },
@@ -219,8 +175,6 @@
         "locale": "en",
         "country_code": "IN",
         "parent_id": null,
-        "id": "IN-NL",
-        "code": "Nagaland",
         "name": "Nagaland",
         "postal_code_pattern": "79[78]"
     },
@@ -228,8 +182,6 @@
         "locale": "en",
         "country_code": "IN",
         "parent_id": null,
-        "id": "IN-OR",
-        "code": "Odisha",
         "name": "Odisha",
         "postal_code_pattern": "7[5-7]"
     },
@@ -237,8 +189,6 @@
         "locale": "en",
         "country_code": "IN",
         "parent_id": null,
-        "id": "IN-PY",
-        "code": "Puducherry",
         "name": "Puducherry",
         "postal_code_pattern": "605"
     },
@@ -246,8 +196,6 @@
         "locale": "en",
         "country_code": "IN",
         "parent_id": null,
-        "id": "IN-PB",
-        "code": "Punjab",
         "name": "Punjab",
         "postal_code_pattern": "1[456]"
     },
@@ -255,8 +203,6 @@
         "locale": "en",
         "country_code": "IN",
         "parent_id": null,
-        "id": "IN-RJ",
-        "code": "Rajasthan",
         "name": "Rajasthan",
         "postal_code_pattern": "3[0-4]"
     },
@@ -264,8 +210,6 @@
         "locale": "en",
         "country_code": "IN",
         "parent_id": null,
-        "id": "IN-SK",
-        "code": "Sikkim",
         "name": "Sikkim",
         "postal_code_pattern": "737|750"
     },
@@ -273,8 +217,6 @@
         "locale": "en",
         "country_code": "IN",
         "parent_id": null,
-        "id": "IN-TN",
-        "code": "Tamil Nadu",
         "name": "Tamil Nadu",
         "postal_code_pattern": "6[0-6]|536"
     },
@@ -282,8 +224,6 @@
         "locale": "en",
         "country_code": "IN",
         "parent_id": null,
-        "id": "IN-TG",
-        "code": "Telangana",
         "name": "Telangana",
         "postal_code_pattern": "5[0-3]"
     },
@@ -291,8 +231,6 @@
         "locale": "en",
         "country_code": "IN",
         "parent_id": null,
-        "id": "IN-TR",
-        "code": "Tripura",
         "name": "Tripura",
         "postal_code_pattern": "799"
     },
@@ -300,8 +238,6 @@
         "locale": "en",
         "country_code": "IN",
         "parent_id": null,
-        "id": "IN-UP",
-        "code": "Uttar Pradesh",
         "name": "Uttar Pradesh",
         "postal_code_pattern": "2[0-35-8]|24[0-7]|26[12]"
     },
@@ -309,8 +245,6 @@
         "locale": "en",
         "country_code": "IN",
         "parent_id": null,
-        "id": "IN-UT",
-        "code": "Uttarakhand",
         "name": "Uttarakhand",
         "postal_code_pattern": "24[46-9]|254|26[23]"
     },
@@ -318,8 +252,6 @@
         "locale": "en",
         "country_code": "IN",
         "parent_id": null,
-        "id": "IN-WB",
-        "code": "West Bengal",
         "name": "West Bengal",
         "postal_code_pattern": "7[0-4]"
     }

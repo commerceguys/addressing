@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-787f03",
-        "id": "CN-36-787f03-750157",
         "code": "德兴市",
         "name": "Dexing Shi",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-787f03",
-        "id": "CN-36-787f03-23479d",
         "code": "广丰县",
         "name": "Guangfeng Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-787f03",
-        "id": "CN-36-787f03-e7324c",
         "code": "横峰县",
         "name": "Hengfeng Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-787f03",
-        "id": "CN-36-787f03-b5a728",
         "code": "鄱阳县",
         "name": "Poyang Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-787f03",
-        "id": "CN-36-787f03-0198f0",
         "code": "铅山县",
         "name": "Yanshan Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-787f03",
-        "id": "CN-36-787f03-659d96",
         "code": "上饶县",
         "name": "Shangrao Xian",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-787f03",
-        "id": "CN-36-787f03-b3dff4",
         "code": "万年县",
         "name": "Wannian Xian",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-787f03",
-        "id": "CN-36-787f03-64b657",
         "code": "婺源县",
         "name": "Wuyuan Xian",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-787f03",
-        "id": "CN-36-787f03-962fc6",
         "code": "信州区",
         "name": "Xinzhou Qu",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-787f03",
-        "id": "CN-36-787f03-95f5f2",
         "code": "弋阳县",
         "name": "Yiyang Xian",
         "translations": {
@@ -133,7 +123,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-787f03",
-        "id": "CN-36-787f03-310e1f",
         "code": "余干县",
         "name": "Yugan Xian",
         "translations": {
@@ -146,7 +135,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-787f03",
-        "id": "CN-36-787f03-a1b8a3",
         "code": "玉山县",
         "name": "Yushan Xian",
         "translations": {

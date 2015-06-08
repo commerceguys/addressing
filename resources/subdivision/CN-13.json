@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13",
-        "id": "CN-13-ba1799",
         "code": "保定市",
         "name": "Baoding Shi",
         "translations": {
@@ -17,7 +16,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13",
-        "id": "CN-13-e00f3d",
         "code": "沧州市",
         "name": "Cangzhou Shi",
         "translations": {
@@ -31,7 +29,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13",
-        "id": "CN-13-2c7460",
         "code": "承德市",
         "name": "Chengde Shi",
         "translations": {
@@ -45,7 +42,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13",
-        "id": "CN-13-e8dfb8",
         "code": "邯郸市",
         "name": "Handan Shi",
         "translations": {
@@ -59,7 +55,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13",
-        "id": "CN-13-c19c79",
         "code": "衡水市",
         "name": "Hengshui Shi",
         "translations": {
@@ -73,7 +68,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13",
-        "id": "CN-13-dd0a7a",
         "code": "廊坊市",
         "name": "Langfang Shi",
         "translations": {
@@ -87,7 +81,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13",
-        "id": "CN-13-36c4d2",
         "code": "秦皇岛市",
         "name": "Qinhuangdao Shi",
         "translations": {
@@ -101,7 +94,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13",
-        "id": "CN-13-15c68b",
         "code": "石家庄市",
         "name": "Shijiazhuang Shi",
         "translations": {
@@ -115,7 +107,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13",
-        "id": "CN-13-6e50e6",
         "code": "唐山市",
         "name": "Tangshan Shi",
         "translations": {
@@ -129,7 +120,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13",
-        "id": "CN-13-98631d",
         "code": "邢台市",
         "name": "Xingtai Shi",
         "translations": {
@@ -143,7 +133,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13",
-        "id": "CN-13-8fcbd0",
         "code": "张家口市",
         "name": "Zhangjiakou Shi",
         "translations": {

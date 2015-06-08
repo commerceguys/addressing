@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-95ce90",
-        "id": "CN-32-95ce90-36f2fa",
         "code": "楚州区",
         "name": "Chuzhou Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-95ce90",
-        "id": "CN-32-95ce90-484b5f",
         "code": "洪泽县",
         "name": "Hongze Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-95ce90",
-        "id": "CN-32-95ce90-5a17df",
         "code": "淮阴区",
         "name": "Huaiyin Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-95ce90",
-        "id": "CN-32-95ce90-86743f",
         "code": "金湖县",
         "name": "Jinhu Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-95ce90",
-        "id": "CN-32-95ce90-3079cd",
         "code": "涟水县",
         "name": "Lianshui Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-95ce90",
-        "id": "CN-32-95ce90-d6d7e9",
         "code": "清河区",
         "name": "Qinghe Qu",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-95ce90",
-        "id": "CN-32-95ce90-78d4ee",
         "code": "清浦区",
         "name": "Qingpu Qu",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-95ce90",
-        "id": "CN-32-95ce90-5d51d7",
         "code": "盱眙县",
         "name": "Xuyi Xian",
         "translations": {

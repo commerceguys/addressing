@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-b37816",
-        "id": "CN-43-b37816-771d10",
         "code": "北塔区",
         "name": "Beita Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-b37816",
-        "id": "CN-43-b37816-3e0a4a",
         "code": "城步苗族自治县",
         "name": "Chengbu Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-b37816",
-        "id": "CN-43-b37816-809f64",
         "code": "大祥区",
         "name": "Daxiang Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-b37816",
-        "id": "CN-43-b37816-a6ac30",
         "code": "洞口县",
         "name": "Dongkou Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-b37816",
-        "id": "CN-43-b37816-0ff273",
         "code": "隆回县",
         "name": "Longhui Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-b37816",
-        "id": "CN-43-b37816-867ccb",
         "code": "邵东县",
         "name": "Shaodong Xian",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-b37816",
-        "id": "CN-43-b37816-9e09da",
         "code": "邵阳县",
         "name": "Shaoyang Xian",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-b37816",
-        "id": "CN-43-b37816-914bb6",
         "code": "双清区",
         "name": "Shuangqing Qu",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-b37816",
-        "id": "CN-43-b37816-993273",
         "code": "绥宁县",
         "name": "Suining Xian",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-b37816",
-        "id": "CN-43-b37816-ebd1ad",
         "code": "武冈市",
         "name": "Wugang Shi",
         "translations": {
@@ -133,7 +123,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-b37816",
-        "id": "CN-43-b37816-a3a477",
         "code": "新宁县",
         "name": "Xinning Xian",
         "translations": {
@@ -146,7 +135,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-b37816",
-        "id": "CN-43-b37816-de742e",
         "code": "新邵县",
         "name": "Xinshao Xian",
         "translations": {

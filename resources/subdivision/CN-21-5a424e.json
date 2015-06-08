@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-5a424e",
-        "id": "CN-21-5a424e-d6fb71",
         "code": "本溪满族自治县",
         "name": "Benxi Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-5a424e",
-        "id": "CN-21-5a424e-0d8e4f",
         "code": "桓仁满族自治县",
         "name": "Huanren Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-5a424e",
-        "id": "CN-21-5a424e-668b80",
         "code": "明山区",
         "name": "Mingshan Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-5a424e",
-        "id": "CN-21-5a424e-b83103",
         "code": "南芬区",
         "name": "Nanfen Qu",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-5a424e",
-        "id": "CN-21-5a424e-de941b",
         "code": "平山区",
         "name": "Pingshan Qu",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-5a424e",
-        "id": "CN-21-5a424e-b05ea5",
         "code": "溪湖区",
         "name": "Xihu Qu",
         "translations": {

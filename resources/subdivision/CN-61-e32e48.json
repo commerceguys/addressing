@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-61-e32e48",
-        "id": "CN-61-e32e48-5cd3cd",
         "code": "定边县",
         "name": "Dingbian Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-61-e32e48",
-        "id": "CN-61-e32e48-0fb18a",
         "code": "府谷县",
         "name": "Fugu Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-61-e32e48",
-        "id": "CN-61-e32e48-eea027",
         "code": "横山县",
         "name": "Hengshan Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-61-e32e48",
-        "id": "CN-61-e32e48-e94166",
         "code": "佳县",
         "name": "Jia Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-61-e32e48",
-        "id": "CN-61-e32e48-22f6b3",
         "code": "靖边县",
         "name": "Jingbian Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-61-e32e48",
-        "id": "CN-61-e32e48-a915be",
         "code": "米脂县",
         "name": "Mizhi Xian",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-61-e32e48",
-        "id": "CN-61-e32e48-a56543",
         "code": "清涧县",
         "name": "Qingjian Xian",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-61-e32e48",
-        "id": "CN-61-e32e48-4631a5",
         "code": "神木县",
         "name": "Shenmu Xian",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-61-e32e48",
-        "id": "CN-61-e32e48-1e7311",
         "code": "绥德县",
         "name": "Suide Xian",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-61-e32e48",
-        "id": "CN-61-e32e48-aa1e97",
         "code": "吴堡县",
         "name": "Wubu Xian",
         "translations": {
@@ -133,7 +123,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-61-e32e48",
-        "id": "CN-61-e32e48-63bdfe",
         "code": "榆阳区",
         "name": "Yuyang Qu",
         "translations": {
@@ -146,7 +135,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-61-e32e48",
-        "id": "CN-61-e32e48-f1cb97",
         "code": "子洲县",
         "name": "Zizhou Xian",
         "translations": {

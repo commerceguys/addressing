@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-35-8d2153",
-        "id": "CN-35-8d2153-174b21",
         "code": "福安市",
         "name": "Fu'an Shi",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-35-8d2153",
-        "id": "CN-35-8d2153-da8911",
         "code": "福鼎市",
         "name": "Fuding Shi",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-35-8d2153",
-        "id": "CN-35-8d2153-b9acc8",
         "code": "古田县",
         "name": "Gutian Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-35-8d2153",
-        "id": "CN-35-8d2153-fd0a0d",
         "code": "蕉城区",
         "name": "Jiaocheng Qu",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-35-8d2153",
-        "id": "CN-35-8d2153-7b8880",
         "code": "屏南县",
         "name": "Pingnan Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-35-8d2153",
-        "id": "CN-35-8d2153-fa2b58",
         "code": "寿宁县",
         "name": "Shouning Xian",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-35-8d2153",
-        "id": "CN-35-8d2153-3de363",
         "code": "霞浦县",
         "name": "Xiapu Xian",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-35-8d2153",
-        "id": "CN-35-8d2153-28c152",
         "code": "柘荣县",
         "name": "Zherong Xian",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-35-8d2153",
-        "id": "CN-35-8d2153-02db5a",
         "code": "周宁县",
         "name": "Zhouning Xian",
         "translations": {

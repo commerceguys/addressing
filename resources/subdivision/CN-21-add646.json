@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-add646",
-        "id": "CN-21-add646-5ec8f8",
         "code": "白塔区",
         "name": "Baita Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-add646",
-        "id": "CN-21-add646-4d67e8",
         "code": "灯塔市",
         "name": "Dengta Shi",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-add646",
-        "id": "CN-21-add646-190a99",
         "code": "弓长岭区",
         "name": "Gongzhangling Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-add646",
-        "id": "CN-21-add646-1d4b2b",
         "code": "宏伟区",
         "name": "Hongwei Qu",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-add646",
-        "id": "CN-21-add646-c1646f",
         "code": "辽阳县",
         "name": "Liaoyang Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-add646",
-        "id": "CN-21-add646-92fb5e",
         "code": "太子河区",
         "name": "Taizihe Qu",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-add646",
-        "id": "CN-21-add646-fdf205",
         "code": "文圣区",
         "name": "Wensheng Qu",
         "translations": {

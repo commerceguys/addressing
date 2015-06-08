@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-d01b9f",
-        "id": "CN-34-d01b9f-04e903",
         "code": "砀山县",
         "name": "Dangshan Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-d01b9f",
-        "id": "CN-34-d01b9f-51f96b",
         "code": "灵璧县",
         "name": "Lingbi Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-d01b9f",
-        "id": "CN-34-d01b9f-99091d",
         "code": "泗县",
         "name": "Si Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-d01b9f",
-        "id": "CN-34-d01b9f-0393dd",
         "code": "萧县",
         "name": "Xiao Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-d01b9f",
-        "id": "CN-34-d01b9f-4ff770",
         "code": "埇桥区",
         "name": "Yongqiao Qu",
         "translations": {

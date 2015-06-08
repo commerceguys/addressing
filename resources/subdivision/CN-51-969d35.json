@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-969d35",
-        "id": "CN-51-969d35-badee7",
         "code": "丹棱县",
         "name": "Danling Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-969d35",
-        "id": "CN-51-969d35-b0a85b",
         "code": "东坡区",
         "name": "Dongpo Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-969d35",
-        "id": "CN-51-969d35-6ccc35",
         "code": "洪雅县",
         "name": "Hongya Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-969d35",
-        "id": "CN-51-969d35-5ad4a6",
         "code": "彭山县",
         "name": "Pengshan Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-969d35",
-        "id": "CN-51-969d35-5ba161",
         "code": "青神县",
         "name": "Qingshen Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-969d35",
-        "id": "CN-51-969d35-bb9d06",
         "code": "仁寿县",
         "name": "Renshou Xian",
         "translations": {

@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-94a4eb",
-        "id": "CN-21-94a4eb-b58cde",
         "code": "甘井子区",
         "name": "Ganjingzi Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-94a4eb",
-        "id": "CN-21-94a4eb-17b02d",
         "code": "金州区",
         "name": "Jinzhou Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-94a4eb",
-        "id": "CN-21-94a4eb-f1b621",
         "code": "旅顺口区",
         "name": "Lüshunkou Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-94a4eb",
-        "id": "CN-21-94a4eb-c86b67",
         "code": "普兰店市",
         "name": "Pulandian Shi",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-94a4eb",
-        "id": "CN-21-94a4eb-40391b",
         "code": "沙河口区",
         "name": "Shahekou Qu",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-94a4eb",
-        "id": "CN-21-94a4eb-012fbc",
         "code": "瓦房店市",
         "name": "Wafangdian Shi",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-94a4eb",
-        "id": "CN-21-94a4eb-9710c2",
         "code": "西岗区",
         "name": "Xigang Qu",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-94a4eb",
-        "id": "CN-21-94a4eb-4ce180",
         "code": "长海县",
         "name": "Changhai Xian",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-94a4eb",
-        "id": "CN-21-94a4eb-958e7b",
         "code": "中山区",
         "name": "Zhongshan Qu",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-94a4eb",
-        "id": "CN-21-94a4eb-128abe",
         "code": "庄河市",
         "name": "Zhuanghe Shi",
         "translations": {

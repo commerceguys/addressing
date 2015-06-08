@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44-bba3e0",
-        "id": "CN-44-bba3e0-a7b4a2",
         "code": "东源县",
         "name": "Dongyuan Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44-bba3e0",
-        "id": "CN-44-bba3e0-a89a76",
         "code": "和平县",
         "name": "Heping Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44-bba3e0",
-        "id": "CN-44-bba3e0-d61fa8",
         "code": "连平县",
         "name": "Lianping Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44-bba3e0",
-        "id": "CN-44-bba3e0-b22d70",
         "code": "龙川县",
         "name": "Longchuan Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44-bba3e0",
-        "id": "CN-44-bba3e0-b19ae0",
         "code": "源城区",
         "name": "Yuancheng Qu",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44-bba3e0",
-        "id": "CN-44-bba3e0-7dee84",
         "code": "紫金县",
         "name": "Zijin Xian",
         "translations": {

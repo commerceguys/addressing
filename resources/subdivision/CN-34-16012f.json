@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-16012f",
-        "id": "CN-34-16012f-643891",
         "code": "黄山区",
         "name": "Huangshan Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-16012f",
-        "id": "CN-34-16012f-54ed70",
         "code": "徽州区",
         "name": "Huizhou Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-16012f",
-        "id": "CN-34-16012f-859ecc",
         "code": "祁门县",
         "name": "Qimen Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-16012f",
-        "id": "CN-34-16012f-e8b2f4",
         "code": "歙县",
         "name": "She Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-16012f",
-        "id": "CN-34-16012f-b76197",
         "code": "屯溪区",
         "name": "Tunxi Qu",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-16012f",
-        "id": "CN-34-16012f-0d95ef",
         "code": "休宁县",
         "name": "Xiuning Xian",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-16012f",
-        "id": "CN-34-16012f-c5a919",
         "code": "黟县",
         "name": "Yi Xian",
         "translations": {

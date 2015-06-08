@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-7d9864",
-        "id": "CN-32-7d9864-f4bb14",
         "code": "东海县",
         "name": "Donghai Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-7d9864",
-        "id": "CN-32-7d9864-981c32",
         "code": "赣榆县",
         "name": "Ganyu Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-7d9864",
-        "id": "CN-32-7d9864-07de9f",
         "code": "灌南县",
         "name": "Guannan Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-7d9864",
-        "id": "CN-32-7d9864-26d6ad",
         "code": "灌云县",
         "name": "Guanyun Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-7d9864",
-        "id": "CN-32-7d9864-b13247",
         "code": "海州区",
         "name": "Haizhou Qu",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-7d9864",
-        "id": "CN-32-7d9864-a65c2b",
         "code": "连云区",
         "name": "Lianyun Qu",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-7d9864",
-        "id": "CN-32-7d9864-9f5f1d",
         "code": "新浦区",
         "name": "Xinpu Qu",
         "translations": {

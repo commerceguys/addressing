@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-64-8833b6",
-        "id": "CN-64-8833b6-8a3720",
         "code": "泾源县",
         "name": "Jingyuan Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-64-8833b6",
-        "id": "CN-64-8833b6-015e79",
         "code": "隆德县",
         "name": "Longde Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-64-8833b6",
-        "id": "CN-64-8833b6-7dd60b",
         "code": "彭阳县",
         "name": "Pengyang Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-64-8833b6",
-        "id": "CN-64-8833b6-6786eb",
         "code": "西吉县",
         "name": "Xiji Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-64-8833b6",
-        "id": "CN-64-8833b6-a5c6ad",
         "code": "原州区",
         "name": "Yuanzhou Qu",
         "translations": {

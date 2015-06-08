@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-368efb",
-        "id": "CN-45-368efb-f02b6b",
         "code": "德保县",
         "name": "Debao Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-368efb",
-        "id": "CN-45-368efb-ab5cdc",
         "code": "靖西县",
         "name": "Jingxi Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-368efb",
-        "id": "CN-45-368efb-434783",
         "code": "乐业县",
         "name": "Leye Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-368efb",
-        "id": "CN-45-368efb-5d821f",
         "code": "凌云县",
         "name": "Lingyun Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-368efb",
-        "id": "CN-45-368efb-36c637",
         "code": "隆林各族自治县",
         "name": "Longlin Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-368efb",
-        "id": "CN-45-368efb-fbbb4b",
         "code": "那坡县",
         "name": "Napo Xian",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-368efb",
-        "id": "CN-45-368efb-07c453",
         "code": "平果县",
         "name": "Pingguo Xian",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-368efb",
-        "id": "CN-45-368efb-a734c9",
         "code": "田东县",
         "name": "Tiandong Xian",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-368efb",
-        "id": "CN-45-368efb-cf4f28",
         "code": "田林县",
         "name": "Tianlin Xian",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-368efb",
-        "id": "CN-45-368efb-5e147d",
         "code": "田阳县",
         "name": "Tianyang Xian",
         "translations": {
@@ -133,7 +123,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-368efb",
-        "id": "CN-45-368efb-b13098",
         "code": "西林县",
         "name": "Xilin Xian",
         "translations": {
@@ -146,7 +135,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-368efb",
-        "id": "CN-45-368efb-73852a",
         "code": "右江区",
         "name": "Youjiang Qu",
         "translations": {

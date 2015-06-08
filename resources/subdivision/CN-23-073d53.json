@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23-073d53",
-        "id": "CN-23-073d53-502562",
         "code": "大同区",
         "name": "Datong Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23-073d53",
-        "id": "CN-23-073d53-5b03d1",
         "code": "杜尔伯特蒙古族自治县",
         "name": "Dorbod Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23-073d53",
-        "id": "CN-23-073d53-b11e3b",
         "code": "红岗区",
         "name": "Honggang Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23-073d53",
-        "id": "CN-23-073d53-6e5e05",
         "code": "林甸县",
         "name": "Lindian Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23-073d53",
-        "id": "CN-23-073d53-1b0749",
         "code": "龙凤区",
         "name": "Longfeng Qu",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23-073d53",
-        "id": "CN-23-073d53-e3b267",
         "code": "让胡路区",
         "name": "Ranghulu Qu",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23-073d53",
-        "id": "CN-23-073d53-70c503",
         "code": "萨尔图区",
         "name": "Sairt Qu",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23-073d53",
-        "id": "CN-23-073d53-da4478",
         "code": "肇源县",
         "name": "Zhaoyuan Xian",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23-073d53",
-        "id": "CN-23-073d53-aedbb9",
         "code": "肇州县",
         "name": "Zhaozhou Xian",
         "translations": {

@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33-6da6ea",
-        "id": "CN-33-6da6ea-95aa8f",
         "code": "常山县",
         "name": "Changshan Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33-6da6ea",
-        "id": "CN-33-6da6ea-d442e0",
         "code": "江山市",
         "name": "Jiangshan Shi",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33-6da6ea",
-        "id": "CN-33-6da6ea-b7ec46",
         "code": "开化县",
         "name": "Kaihua Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33-6da6ea",
-        "id": "CN-33-6da6ea-118d7e",
         "code": "柯城区",
         "name": "Kecheng Qu",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33-6da6ea",
-        "id": "CN-33-6da6ea-fd37d1",
         "code": "龙游县",
         "name": "Longyou Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33-6da6ea",
-        "id": "CN-33-6da6ea-74e3cf",
         "code": "衢江区",
         "name": "Qujiang Qu",
         "translations": {

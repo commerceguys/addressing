@@ -22,7 +22,6 @@ class SubdivisionRepositoryTest extends \PHPUnit_Framework_TestCase
                 'locale' => 'pt',
                 'country_code' => 'BR',
                 'parent_id' => null,
-                'id' => 'BR-SC',
                 'code' => 'SC',
                 'name' => 'Santa Catarina',
                 'postal_code_pattern' => '8[89]',
@@ -33,7 +32,6 @@ class SubdivisionRepositoryTest extends \PHPUnit_Framework_TestCase
                 'locale' => 'pt',
                 'country_code' => 'BR',
                 'parent_id' => null,
-                'id' => 'BR-SP',
                 'code' => 'SP',
                 'name' => 'São Paulo',
                 'postal_code_pattern' => '[01][1-9]',
@@ -45,8 +43,6 @@ class SubdivisionRepositoryTest extends \PHPUnit_Framework_TestCase
                 'locale' => 'pt',
                 'country_code' => 'BR',
                 'parent_id' => 'BR-SC',
-                'id' => 'BR-SC-9c7753',
-                'code' => 'Abelardo Luz',
                 'name' => 'Abelardo Luz',
             ],
         ],
@@ -55,8 +51,6 @@ class SubdivisionRepositoryTest extends \PHPUnit_Framework_TestCase
                 'locale' => 'pt',
                 'country_code' => 'BR',
                 'parent_id' => 'BR-SP',
-                'id' => 'BR-SP-8e3f19',
-                'code' => 'Anhumas',
                 'name' => 'Anhumas',
             ],
         ],
@@ -125,6 +119,7 @@ class SubdivisionRepositoryTest extends \PHPUnit_Framework_TestCase
 
         $this->assertInstanceOf('CommerceGuys\Addressing\Model\Subdivision', $subdivisionChild);
         $this->assertEquals('BR-SC-9c7753', $subdivisionChild->getId());
+        $this->assertEquals('Abelardo Luz', $subdivisionChild->getCode());
         // $subdivision contains the loaded children while $parent doesn't,
         // so they can't be compared directly.
         $parent = $subdivisionChild->getParent();

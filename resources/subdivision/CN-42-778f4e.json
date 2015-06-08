@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42-778f4e",
-        "id": "CN-42-778f4e-08fd12",
         "code": "保康县",
         "name": "Baokang Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42-778f4e",
-        "id": "CN-42-778f4e-30eaeb",
         "code": "樊城区",
         "name": "Fancheng Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42-778f4e",
-        "id": "CN-42-778f4e-ac27aa",
         "code": "谷城县",
         "name": "Gucheng Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42-778f4e",
-        "id": "CN-42-778f4e-abf9a7",
         "code": "老河口市",
         "name": "Laohekou Shi",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42-778f4e",
-        "id": "CN-42-778f4e-6a9e82",
         "code": "南漳县",
         "name": "Nanzhang Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42-778f4e",
-        "id": "CN-42-778f4e-7ab60c",
         "code": "襄城区",
         "name": "Xiangcheng Qu",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42-778f4e",
-        "id": "CN-42-778f4e-b544fd",
         "code": "襄州区",
         "name": "Xiangzhou Qu",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42-778f4e",
-        "id": "CN-42-778f4e-37f4e5",
         "code": "宜城市",
         "name": "Yicheng Shi",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42-778f4e",
-        "id": "CN-42-778f4e-450cbe",
         "code": "枣阳市",
         "name": "Zaoyang Shi",
         "translations": {

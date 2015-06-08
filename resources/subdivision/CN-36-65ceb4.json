@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-65ceb4",
-        "id": "CN-36-65ceb4-a723b7",
         "code": "安义县",
         "name": "Anyi Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-65ceb4",
-        "id": "CN-36-65ceb4-7eb489",
         "code": "东湖区",
         "name": "Donghu Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-65ceb4",
-        "id": "CN-36-65ceb4-361f26",
         "code": "进贤县",
         "name": "Jinxian Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-65ceb4",
-        "id": "CN-36-65ceb4-29c771",
         "code": "南昌县",
         "name": "Nanchang Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-65ceb4",
-        "id": "CN-36-65ceb4-e58d52",
         "code": "青山湖区",
         "name": "Qingshanhu Qu",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-65ceb4",
-        "id": "CN-36-65ceb4-ff4f10",
         "code": "青云谱区",
         "name": "Qingyunpu Qu",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-65ceb4",
-        "id": "CN-36-65ceb4-d3fe8d",
         "code": "湾里区",
         "name": "Wanli Qu",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-65ceb4",
-        "id": "CN-36-65ceb4-5d0637",
         "code": "西湖区",
         "name": "Xihu Qu",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-65ceb4",
-        "id": "CN-36-65ceb4-dfc16f",
         "code": "新建县",
         "name": "Xinjian Xian",
         "translations": {

@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-630502",
-        "id": "CN-51-630502-990d12",
         "code": "巴州区",
         "name": "Bazhou Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-630502",
-        "id": "CN-51-630502-68ee9e",
         "code": "南江县",
         "name": "Nanjiang Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-630502",
-        "id": "CN-51-630502-94d937",
         "code": "平昌县",
         "name": "Pingchang Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-630502",
-        "id": "CN-51-630502-4edc1f",
         "code": "通江县",
         "name": "Tongjiang Xian",
         "translations": {

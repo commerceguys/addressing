@@ -3,7 +3,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-44",
         "code": "An Giang",
         "name": "AN GIANG PROVINCE",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-43",
         "code": "Bà Rịa–Vũng Tàu",
         "name": "BA RIA-VUNG TAU PROVINCE",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-54",
         "code": "Bắc Giang",
         "name": "BAC GIANG PROVINCE",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-53",
         "code": "Bắc Kạn",
         "name": "BAC KAN PROVINCE",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-55",
         "code": "Bắc Lieu",
         "name": "BAC LIEU PROVINCE",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-56",
         "code": "Bắc Ninh",
         "name": "BAC NINH PROVINCE",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-50",
         "code": "Bến Tre",
         "name": "BEN TRE PROVINCE",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-57",
         "code": "Bình Dương",
         "name": "BINH DUONG PROVINCE",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-31",
         "code": "Bình Định",
         "name": "BINH DINH PROVINCE",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-58",
         "code": "Bình Phước",
         "name": "BINH PHUOC PROVINCE",
         "translations": {
@@ -133,7 +123,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-40",
         "code": "Bình Thuận",
         "name": "BINH THUAN PROVINCE",
         "translations": {
@@ -146,7 +135,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-59",
         "code": "Cà Mau",
         "name": "CA MAU PROVINCE",
         "translations": {
@@ -159,7 +147,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-04",
         "code": "Cao Bằng",
         "name": "CAO BANG PROVINCE",
         "translations": {
@@ -172,7 +159,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-48",
         "code": "Cần Thơ",
         "name": "CAN THO CITY",
         "translations": {
@@ -185,7 +171,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-60",
         "code": "Đà Nẵng",
         "name": "DA NANG CITY",
         "translations": {
@@ -198,7 +183,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-33",
         "code": "Đắk Lắk",
         "name": "DAK LAK PROVINCE",
         "translations": {
@@ -211,7 +195,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-72",
         "code": "Đăk Nông",
         "name": "DAK NONG PROVINCE",
         "translations": {
@@ -224,7 +207,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-71",
         "code": "Điện Biên",
         "name": "DIEN BIEN PROVINCE",
         "translations": {
@@ -237,7 +219,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-39",
         "code": "Đồng Nai",
         "name": "DONG NAI PROVINCE",
         "translations": {
@@ -250,7 +231,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-45",
         "code": "Đồng Tháp",
         "name": "DONG THAP PROVINCE",
         "translations": {
@@ -263,7 +243,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-30",
         "code": "Gia Lai",
         "name": "GIA LAI PROVINCE",
         "translations": {
@@ -276,7 +255,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-03",
         "code": "Hà Giang",
         "name": "HA GIANG PROVINCE",
         "translations": {
@@ -289,7 +267,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-63",
         "code": "Hà Nam",
         "name": "HA NAM PROVINCE",
         "translations": {
@@ -302,7 +279,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-64",
         "code": "Hà Nội",
         "name": "HANOI CITY",
         "translations": {
@@ -315,7 +291,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-15",
         "code": "Hà Tây",
         "name": "HA TAY PROVINCE",
         "translations": {
@@ -328,7 +303,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-23",
         "code": "Hà Tĩnh",
         "name": "HA TINH PROVINCE",
         "translations": {
@@ -341,7 +315,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-61",
         "code": "Hải Dương",
         "name": "HAI DUONG PROVINCE",
         "translations": {
@@ -354,7 +327,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-62",
         "code": "Hải Phòng",
         "name": "HAIPHONG CITY",
         "translations": {
@@ -367,7 +339,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-73",
         "code": "Hậu Giang",
         "name": "HAU GIANG PROVINCE",
         "translations": {
@@ -380,7 +351,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-14",
         "code": "Hòa Bình",
         "name": "HOA BINH PROVINCE",
         "translations": {
@@ -393,7 +363,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-66",
         "code": "Hưng Yên",
         "name": "HUNG YEN PROVINCE",
         "translations": {
@@ -406,7 +375,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-34",
         "code": "Khánh Hòa",
         "name": "KHANH HOA PROVINCE",
         "translations": {
@@ -419,7 +387,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-47",
         "code": "Kiên Giang",
         "name": "KIEN GIANG PROVINCE",
         "translations": {
@@ -432,7 +399,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-28",
         "code": "Kon Tum",
         "name": "KON TUM PROVINCE",
         "translations": {
@@ -445,7 +411,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-01",
         "code": "Lai Châu",
         "name": "LAI CHAU PROVINCE",
         "translations": {
@@ -458,7 +423,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-09",
         "code": "Lạng Sơn",
         "name": "LANG SONG PROVINCE",
         "translations": {
@@ -471,7 +435,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-02",
         "code": "Lào Cai",
         "name": "LAO CAI PROVINCE",
         "translations": {
@@ -484,7 +447,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-35",
         "code": "Lâm Đồng",
         "name": "LAM DONG PROVINCE",
         "translations": {
@@ -497,7 +459,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-41",
         "code": "Long An",
         "name": "LONG AN PROVINCE",
         "translations": {
@@ -510,7 +471,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-67",
         "code": "Nam Định",
         "name": "NAM DINH PROVINCE",
         "translations": {
@@ -523,7 +483,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-22",
         "code": "Nghệ An",
         "name": "NGHE AN PROVINCE",
         "translations": {
@@ -536,7 +495,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-18",
         "code": "Ninh Bình",
         "name": "NINH BINH PROVINCE",
         "translations": {
@@ -549,7 +507,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-36",
         "code": "Ninh Thuận",
         "name": "NINH THUAN PROVINCE",
         "translations": {
@@ -562,7 +519,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-68",
         "code": "Phú Thọ",
         "name": "PHU THO PROVINCE",
         "translations": {
@@ -575,7 +531,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-32",
         "code": "Phú Yên",
         "name": "PHU YEN PROVINCE",
         "translations": {
@@ -588,7 +543,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-24",
         "code": "Quảng Bình",
         "name": "QUANG BINH PROVINCE",
         "translations": {
@@ -601,7 +555,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-27",
         "code": "Quảng Nam",
         "name": "QUANG NAM PROVINCE",
         "translations": {
@@ -614,7 +567,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-29",
         "code": "Quảng Ngãi",
         "name": "QUANG NGAI PROVINCE",
         "translations": {
@@ -627,7 +579,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-13",
         "code": "Quảng Ninh",
         "name": "QUANG NINH PROVINCE",
         "translations": {
@@ -640,7 +591,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-25",
         "code": "Quảng Trị",
         "name": "QUANG TRI PROVINCE",
         "translations": {
@@ -653,7 +603,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-52",
         "code": "Sóc Trăng",
         "name": "SOC TRANG PROVINCE",
         "translations": {
@@ -666,7 +615,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-05",
         "code": "Sơn La",
         "name": "SON LA PROVINCE",
         "translations": {
@@ -679,7 +627,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-37",
         "code": "Tây Ninh",
         "name": "TAY NINH PROVINCE",
         "translations": {
@@ -692,7 +639,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-20",
         "code": "Thái Bình",
         "name": "THAI BINH PROVINCE",
         "translations": {
@@ -705,7 +651,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-69",
         "code": "Thái Nguyên",
         "name": "THAI NGUYEN PROVINCE",
         "translations": {
@@ -718,7 +663,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-21",
         "code": "Thanh Hóa",
         "name": "THANH HOA PROVINCE",
         "translations": {
@@ -731,7 +675,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-65",
         "code": "Thành phố Hồ Chí Minh",
         "name": "HO CHI MINH CITY",
         "translations": {
@@ -744,7 +687,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-26",
         "code": "Thừa Thiên–Huế",
         "name": "THUA THIEN-HUE PROVINCE",
         "translations": {
@@ -757,7 +699,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-46",
         "code": "Tiền Giang",
         "name": "TIEN GIANG PROVINCE",
         "translations": {
@@ -770,7 +711,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-51",
         "code": "Trà Vinh",
         "name": "TRA VINH PROVINCE",
         "translations": {
@@ -783,7 +723,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-07",
         "code": "Tuyên Quang",
         "name": "TUYEN QUANG PROVINCE",
         "translations": {
@@ -796,7 +735,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-49",
         "code": "Vĩnh Long",
         "name": "VINH LONG PROVINCE",
         "translations": {
@@ -809,7 +747,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-70",
         "code": "Vĩnh Phúc",
         "name": "VINH PHUC PROVINCE",
         "translations": {
@@ -822,7 +759,6 @@
         "locale": "vi-Latn",
         "country_code": "VN",
         "parent_id": null,
-        "id": "VN-06",
         "code": "Yên Bái",
         "name": "YEN BAI PROVINCE",
         "translations": {

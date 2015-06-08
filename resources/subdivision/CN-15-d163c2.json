@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-d163c2",
-        "id": "CN-15-d163c2-d9836f",
         "code": "察哈尔右翼后旗",
         "name": "Qahar Youyi Houqi",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-d163c2",
-        "id": "CN-15-d163c2-a6fa6b",
         "code": "察哈尔右翼前旗",
         "name": "Qahar Youyi Qianqi",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-d163c2",
-        "id": "CN-15-d163c2-95a405",
         "code": "察哈尔右翼中旗",
         "name": "Qahar Youyi Zhongqi",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-d163c2",
-        "id": "CN-15-d163c2-3f55b2",
         "code": "丰镇市",
         "name": "Fengzhen Shi",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-d163c2",
-        "id": "CN-15-d163c2-192964",
         "code": "化德县",
         "name": "Huade Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-d163c2",
-        "id": "CN-15-d163c2-897195",
         "code": "集宁区",
         "name": "Jining Qu",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-d163c2",
-        "id": "CN-15-d163c2-36120c",
         "code": "凉城县",
         "name": "Liangcheng Xian",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-d163c2",
-        "id": "CN-15-d163c2-b2b057",
         "code": "商都县",
         "name": "Shangdu Xian",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-d163c2",
-        "id": "CN-15-d163c2-43c22f",
         "code": "四子王旗",
         "name": "Dorbod Qi",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-d163c2",
-        "id": "CN-15-d163c2-310b1b",
         "code": "兴和县",
         "name": "Xinghe Xian",
         "translations": {
@@ -133,7 +123,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-d163c2",
-        "id": "CN-15-d163c2-fd16fe",
         "code": "卓资县",
         "name": "Zhuozi Xian",
         "translations": {

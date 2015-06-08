@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42-639ce4",
-        "id": "CN-42-639ce4-077c3b",
         "code": "红安县",
         "name": "Hong'an Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42-639ce4",
-        "id": "CN-42-639ce4-210f85",
         "code": "黄梅县",
         "name": "Huangmei Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42-639ce4",
-        "id": "CN-42-639ce4-caf651",
         "code": "黄州区",
         "name": "Huangzhou Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42-639ce4",
-        "id": "CN-42-639ce4-f192a1",
         "code": "罗田县",
         "name": "Luotian Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42-639ce4",
-        "id": "CN-42-639ce4-019112",
         "code": "麻城市",
         "name": "Macheng Shi",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42-639ce4",
-        "id": "CN-42-639ce4-ebad89",
         "code": "蕲春县",
         "name": "Qichun Xian",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42-639ce4",
-        "id": "CN-42-639ce4-efa673",
         "code": "团风县",
         "name": "Tuanfeng Xian",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42-639ce4",
-        "id": "CN-42-639ce4-219393",
         "code": "武穴市",
         "name": "Wuxue Shi",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42-639ce4",
-        "id": "CN-42-639ce4-c4b015",
         "code": "浠水县",
         "name": "Xishui Xian",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42-639ce4",
-        "id": "CN-42-639ce4-00c2eb",
         "code": "英山县",
         "name": "Yingshan Xian",
         "translations": {

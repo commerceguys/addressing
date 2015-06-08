@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-e6901c",
-        "id": "CN-45-e6901c-9286d1",
         "code": "宾阳县",
         "name": "Binyang Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-e6901c",
-        "id": "CN-45-e6901c-6efdc3",
         "code": "横县",
         "name": "Heng Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-e6901c",
-        "id": "CN-45-e6901c-c35c39",
         "code": "江南区",
         "name": "Jiangnan Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-e6901c",
-        "id": "CN-45-e6901c-430435",
         "code": "良庆区",
         "name": "Liangqing Qu",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-e6901c",
-        "id": "CN-45-e6901c-f8e53f",
         "code": "隆安县",
         "name": "Long'an Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-e6901c",
-        "id": "CN-45-e6901c-b02362",
         "code": "马山县",
         "name": "Mashan Xian",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-e6901c",
-        "id": "CN-45-e6901c-0172bf",
         "code": "青秀区",
         "name": "Qingxiu Qu",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-e6901c",
-        "id": "CN-45-e6901c-c3f21a",
         "code": "上林县",
         "name": "Shanglin Xian",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-e6901c",
-        "id": "CN-45-e6901c-4c49f9",
         "code": "武鸣县",
         "name": "Wuming Xian",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-e6901c",
-        "id": "CN-45-e6901c-0f88b3",
         "code": "西乡塘区",
         "name": "Xixiangtang Qu",
         "translations": {
@@ -133,7 +123,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-e6901c",
-        "id": "CN-45-e6901c-b9afa6",
         "code": "兴宁区",
         "name": "Xingning Qu",
         "translations": {
@@ -146,7 +135,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-e6901c",
-        "id": "CN-45-e6901c-57bb54",
         "code": "邕宁区",
         "name": "Yongning Qu",
         "translations": {

@@ -3,8 +3,6 @@
         "locale": "es",
         "country_code": "UY",
         "parent_id": null,
-        "id": "UY-AR",
-        "code": "ARTIGAS",
         "name": "ARTIGAS",
         "postal_code_pattern": "55"
     },
@@ -12,8 +10,6 @@
         "locale": "es",
         "country_code": "UY",
         "parent_id": null,
-        "id": "UY-CA",
-        "code": "CANELONES",
         "name": "CANELONES",
         "postal_code_pattern": "9[01]|1[456]"
     },
@@ -21,8 +17,6 @@
         "locale": "es",
         "country_code": "UY",
         "parent_id": null,
-        "id": "UY-CL",
-        "code": "CERRO LARGO",
         "name": "CERRO LARGO",
         "postal_code_pattern": "37"
     },
@@ -30,8 +24,6 @@
         "locale": "es",
         "country_code": "UY",
         "parent_id": null,
-        "id": "UY-CO",
-        "code": "COLONIA",
         "name": "COLONIA",
         "postal_code_pattern": "70|75204"
     },
@@ -39,8 +31,6 @@
         "locale": "es",
         "country_code": "UY",
         "parent_id": null,
-        "id": "UY-DU",
-        "code": "DURAZNO",
         "name": "DURAZNO",
         "postal_code_pattern": "97"
     },
@@ -48,8 +38,6 @@
         "locale": "es",
         "country_code": "UY",
         "parent_id": null,
-        "id": "UY-FS",
-        "code": "FLORES",
         "name": "FLORES",
         "postal_code_pattern": "85"
     },
@@ -57,8 +45,6 @@
         "locale": "es",
         "country_code": "UY",
         "parent_id": null,
-        "id": "UY-FD",
-        "code": "FLORIDA",
         "name": "FLORIDA",
         "postal_code_pattern": "94|9060|97005"
     },
@@ -66,8 +52,6 @@
         "locale": "es",
         "country_code": "UY",
         "parent_id": null,
-        "id": "UY-LA",
-        "code": "LAVALLEJA",
         "name": "LAVALLEJA",
         "postal_code_pattern": "30"
     },
@@ -75,8 +59,6 @@
         "locale": "es",
         "country_code": "UY",
         "parent_id": null,
-        "id": "UY-MA",
-        "code": "MALDONADO",
         "name": "MALDONADO",
         "postal_code_pattern": "20"
     },
@@ -84,8 +66,6 @@
         "locale": "es",
         "country_code": "UY",
         "parent_id": null,
-        "id": "UY-MO",
-        "code": "MONTEVIDEO",
         "name": "MONTEVIDEO",
         "postal_code_pattern": "1|91600"
     },
@@ -93,8 +73,6 @@
         "locale": "es",
         "country_code": "UY",
         "parent_id": null,
-        "id": "UY-PA",
-        "code": "PAYSANDÚ",
         "name": "PAYSANDÚ",
         "postal_code_pattern": "60"
     },
@@ -102,8 +80,6 @@
         "locale": "es",
         "country_code": "UY",
         "parent_id": null,
-        "id": "UY-RN",
-        "code": "RÍO NEGRO",
         "name": "RÍO NEGRO",
         "postal_code_pattern": "65|60002"
     },
@@ -111,8 +87,6 @@
         "locale": "es",
         "country_code": "UY",
         "parent_id": null,
-        "id": "UY-RV",
-        "code": "RIVERA",
         "name": "RIVERA",
         "postal_code_pattern": "40"
     },
@@ -120,8 +94,6 @@
         "locale": "es",
         "country_code": "UY",
         "parent_id": null,
-        "id": "UY-RO",
-        "code": "ROCHA",
         "name": "ROCHA",
         "postal_code_pattern": "27"
     },
@@ -129,8 +101,6 @@
         "locale": "es",
         "country_code": "UY",
         "parent_id": null,
-        "id": "UY-SA",
-        "code": "SALTO",
         "name": "SALTO",
         "postal_code_pattern": "50"
     },
@@ -138,8 +108,6 @@
         "locale": "es",
         "country_code": "UY",
         "parent_id": null,
-        "id": "UY-SJ",
-        "code": "SAN JOSÉ",
         "name": "SAN JOSÉ",
         "postal_code_pattern": "80"
     },
@@ -147,8 +115,6 @@
         "locale": "es",
         "country_code": "UY",
         "parent_id": null,
-        "id": "UY-SO",
-        "code": "SORIANO",
         "name": "SORIANO",
         "postal_code_pattern": "75|70003"
     },
@@ -156,8 +122,6 @@
         "locale": "es",
         "country_code": "UY",
         "parent_id": null,
-        "id": "UY-TA",
-        "code": "TACUAREMBÓ",
         "name": "TACUAREMBÓ",
         "postal_code_pattern": "45"
     },
@@ -165,8 +129,6 @@
         "locale": "es",
         "country_code": "UY",
         "parent_id": null,
-        "id": "UY-TT",
-        "code": "TREINTA Y TRES",
         "name": "TREINTA Y TRES",
         "postal_code_pattern": "33|30203|30204|30302|37007"
     }

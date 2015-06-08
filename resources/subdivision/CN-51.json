@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51",
-        "id": "CN-51-781f00",
         "code": "阿坝藏族羌族自治州",
         "name": "Aba Zangzuqiangzuzizhizhou",
         "translations": {
@@ -17,7 +16,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51",
-        "id": "CN-51-630502",
         "code": "巴中市",
         "name": "Bazhong Shi",
         "translations": {
@@ -31,7 +29,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51",
-        "id": "CN-51-d1aa72",
         "code": "成都市",
         "name": "Chengdu Shi",
         "translations": {
@@ -45,7 +42,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51",
-        "id": "CN-51-b1120c",
         "code": "达州市",
         "name": "Dazhou Shi",
         "translations": {
@@ -59,7 +55,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51",
-        "id": "CN-51-caf47c",
         "code": "德阳市",
         "name": "Deyang Shi",
         "translations": {
@@ -73,7 +68,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51",
-        "id": "CN-51-09ac26",
         "code": "甘孜藏族自治州",
         "name": "Garzê Zhou",
         "translations": {
@@ -87,7 +81,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51",
-        "id": "CN-51-525c22",
         "code": "广安市",
         "name": "Guang'an Shi",
         "translations": {
@@ -101,7 +94,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51",
-        "id": "CN-51-706bb1",
         "code": "广元市",
         "name": "Guangyuan Shi",
         "translations": {
@@ -115,7 +107,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51",
-        "id": "CN-51-4e470b",
         "code": "乐山市",
         "name": "Leshan Shi",
         "translations": {
@@ -129,7 +120,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51",
-        "id": "CN-51-2f3f1a",
         "code": "凉山彝族自治州",
         "name": "Liangshan Zhou",
         "translations": {
@@ -143,7 +133,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51",
-        "id": "CN-51-d4da7b",
         "code": "泸州市",
         "name": "Luzhou Shi",
         "translations": {
@@ -157,7 +146,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51",
-        "id": "CN-51-969d35",
         "code": "眉山市",
         "name": "Meishan Shi",
         "translations": {
@@ -171,7 +159,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51",
-        "id": "CN-51-74dcd6",
         "code": "绵阳市",
         "name": "Mianyang Shi",
         "translations": {
@@ -185,7 +172,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51",
-        "id": "CN-51-40479b",
         "code": "南充市",
         "name": "Nanchong Shi",
         "translations": {
@@ -199,7 +185,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51",
-        "id": "CN-51-e1d015",
         "code": "内江市",
         "name": "Neijiang Shi",
         "translations": {
@@ -213,7 +198,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51",
-        "id": "CN-51-183290",
         "code": "攀枝花市",
         "name": "Panzhihua Shi",
         "translations": {
@@ -227,7 +211,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51",
-        "id": "CN-51-185542",
         "code": "遂宁市",
         "name": "Suining Shi",
         "translations": {
@@ -241,7 +224,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51",
-        "id": "CN-51-51d2b2",
         "code": "雅安市",
         "name": "Ya'an Shi",
         "translations": {
@@ -255,7 +237,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51",
-        "id": "CN-51-067b1b",
         "code": "宜宾市",
         "name": "Yibin Shi",
         "translations": {
@@ -269,7 +250,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51",
-        "id": "CN-51-fc3cd2",
         "code": "资阳市",
         "name": "Ziyang Shi",
         "translations": {
@@ -283,7 +263,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51",
-        "id": "CN-51-1f1569",
         "code": "自贡市",
         "name": "Zigong Shi",
         "translations": {

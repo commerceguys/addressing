@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23-3062ba",
-        "id": "CN-23-3062ba-82413d",
         "code": "东山区",
         "name": "Dongshan Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23-3062ba",
-        "id": "CN-23-3062ba-66118e",
         "code": "工农区",
         "name": "Gongnong Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23-3062ba",
-        "id": "CN-23-3062ba-d0f288",
         "code": "萝北县",
         "name": "Luobei Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23-3062ba",
-        "id": "CN-23-3062ba-8c0c2b",
         "code": "南山区",
         "name": "Nanshan Qu",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23-3062ba",
-        "id": "CN-23-3062ba-c4f082",
         "code": "绥滨县",
         "name": "Suibin Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23-3062ba",
-        "id": "CN-23-3062ba-0e9890",
         "code": "向阳区",
         "name": "Xiangyang Qu",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23-3062ba",
-        "id": "CN-23-3062ba-9a55bf",
         "code": "兴安区",
         "name": "Xing'an Qu",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-23-3062ba",
-        "id": "CN-23-3062ba-ffc9bf",
         "code": "兴山区",
         "name": "Xingshan Qu",
         "translations": {

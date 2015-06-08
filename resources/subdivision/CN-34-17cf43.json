@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-17cf43",
-        "id": "CN-34-17cf43-727136",
         "code": "霍邱县",
         "name": "Huoqiu Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-17cf43",
-        "id": "CN-34-17cf43-dda604",
         "code": "霍山县",
         "name": "Huoshan Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-17cf43",
-        "id": "CN-34-17cf43-aedd46",
         "code": "金安区",
         "name": "Jin'an Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-17cf43",
-        "id": "CN-34-17cf43-15b269",
         "code": "金寨县",
         "name": "Jinzhai Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-17cf43",
-        "id": "CN-34-17cf43-22887b",
         "code": "寿县",
         "name": "Shou Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-17cf43",
-        "id": "CN-34-17cf43-394f6d",
         "code": "舒城县",
         "name": "Shucheng Xian",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-17cf43",
-        "id": "CN-34-17cf43-128c1c",
         "code": "裕安区",
         "name": "Yu'an Qu",
         "translations": {

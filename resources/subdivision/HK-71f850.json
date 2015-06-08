@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-71f850",
-        "id": "HK-71f850-000ade",
         "code": "九龍城",
         "name": "Kowloon City",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-71f850",
-        "id": "HK-71f850-22512a",
         "code": "九龍塘",
         "name": "Kowloon Tong",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-71f850",
-        "id": "HK-71f850-f7d8c9",
         "code": "九龍灣",
         "name": "Kowloon Bay",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-71f850",
-        "id": "HK-71f850-f45f92",
         "code": "又一村",
         "name": "Yau Yat Chuen",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-71f850",
-        "id": "HK-71f850-ae9511",
         "code": "土瓜灣",
         "name": "To Kwa Wan",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-71f850",
-        "id": "HK-71f850-1efa54",
         "code": "大角咀",
         "name": "Tai Kok Tsui",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-71f850",
-        "id": "HK-71f850-813e30",
         "code": "牛池灣",
         "name": "Ngau Chi Wan",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-71f850",
-        "id": "HK-71f850-dab7f4",
         "code": "牛頭角",
         "name": "Ngau Tau Kok",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-71f850",
-        "id": "HK-71f850-22be98",
         "code": "石硤尾",
         "name": "Shek Kip Mei",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-71f850",
-        "id": "HK-71f850-1169b8",
         "code": "尖沙咀",
         "name": "Tsim Sha Tsui",
         "translations": {
@@ -133,7 +123,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-71f850",
-        "id": "HK-71f850-ae9b18",
         "code": "佐敦",
         "name": "Jordan",
         "translations": {
@@ -146,7 +135,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-71f850",
-        "id": "HK-71f850-6b8019",
         "code": "何文田",
         "name": "Ho Man Tin",
         "translations": {
@@ -159,7 +147,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-71f850",
-        "id": "HK-71f850-b28b3f",
         "code": "秀茂坪",
         "name": "Sau Mau Ping",
         "translations": {
@@ -172,7 +159,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-71f850",
-        "id": "HK-71f850-1e56d1",
         "code": "旺角",
         "name": "Mong Kok",
         "translations": {
@@ -185,7 +171,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-71f850",
-        "id": "HK-71f850-213cc6",
         "code": "油麻地",
         "name": "Yau Ma Tei",
         "translations": {
@@ -198,7 +183,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-71f850",
-        "id": "HK-71f850-903786",
         "code": "油塘",
         "name": "Yau Tong",
         "translations": {
@@ -211,7 +195,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-71f850",
-        "id": "HK-71f850-f65d33",
         "code": "長沙灣",
         "name": "Cheung Sha Wan",
         "translations": {
@@ -224,7 +207,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-71f850",
-        "id": "HK-71f850-ff09eb",
         "code": "紅磡",
         "name": "Hung Hom",
         "translations": {
@@ -237,7 +219,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-71f850",
-        "id": "HK-71f850-f7a650",
         "code": "美孚",
         "name": "Mei Foo",
         "translations": {
@@ -250,7 +231,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-71f850",
-        "id": "HK-71f850-6b3e84",
         "code": "茶果嶺",
         "name": "Cha Kwo Ling",
         "translations": {
@@ -263,7 +243,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-71f850",
-        "id": "HK-71f850-e5f193",
         "code": "荔枝角",
         "name": "Lai Chi Kok",
         "translations": {
@@ -276,7 +255,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-71f850",
-        "id": "HK-71f850-46127a",
         "code": "馬頭圍",
         "name": "Ma Tau Wai",
         "translations": {
@@ -289,7 +267,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-71f850",
-        "id": "HK-71f850-4f4c31",
         "code": "彩虹",
         "name": "Choi Hung",
         "translations": {
@@ -302,7 +279,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-71f850",
-        "id": "HK-71f850-50516c",
         "code": "深水埗",
         "name": "Sham Shui Po",
         "translations": {
@@ -315,7 +291,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-71f850",
-        "id": "HK-71f850-26f74a",
         "code": "黃大仙",
         "name": "Wong Tai Sin",
         "translations": {
@@ -328,7 +303,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-71f850",
-        "id": "HK-71f850-64ddc4",
         "code": "新蒲崗",
         "name": "San Po Kong",
         "translations": {
@@ -341,7 +315,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-71f850",
-        "id": "HK-71f850-d07314",
         "code": "慈雲山",
         "name": "Tsz Wan Shan",
         "translations": {
@@ -354,7 +327,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-71f850",
-        "id": "HK-71f850-56553c",
         "code": "樂富",
         "name": "Lok Fu",
         "translations": {
@@ -367,7 +339,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-71f850",
-        "id": "HK-71f850-393979",
         "code": "橫頭磡",
         "name": "Wang Tau Hom",
         "translations": {
@@ -380,7 +351,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-71f850",
-        "id": "HK-71f850-6249d7",
         "code": "藍田",
         "name": "Lam Tin",
         "translations": {
@@ -393,7 +363,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-71f850",
-        "id": "HK-71f850-b0bbca",
         "code": "觀塘",
         "name": "Kwun Tong",
         "translations": {
@@ -406,7 +375,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-71f850",
-        "id": "HK-71f850-b1679b",
         "code": "鑽石山",
         "name": "Diamond Hill",
         "translations": {

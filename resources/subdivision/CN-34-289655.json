@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-289655",
-        "id": "CN-34-289655-f81397",
         "code": "阜南县",
         "name": "Funan Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-289655",
-        "id": "CN-34-289655-12365e",
         "code": "界首市",
         "name": "Jieshou Shi",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-289655",
-        "id": "CN-34-289655-ec1964",
         "code": "临泉县",
         "name": "Linquan Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-289655",
-        "id": "CN-34-289655-1880c2",
         "code": "太和县",
         "name": "Taihe Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-289655",
-        "id": "CN-34-289655-8a4341",
         "code": "颍东区",
         "name": "Yingdong Qu",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-289655",
-        "id": "CN-34-289655-48568c",
         "code": "颍泉区",
         "name": "Yingquan Qu",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-289655",
-        "id": "CN-34-289655-fc344a",
         "code": "颍上县",
         "name": "Yingshang Xian",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-289655",
-        "id": "CN-34-289655-26b22d",
         "code": "颍州区",
         "name": "Yingzhou Qu",
         "translations": {

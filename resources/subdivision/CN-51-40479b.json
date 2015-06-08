@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-40479b",
-        "id": "CN-51-40479b-dc87ba",
         "code": "高坪区",
         "name": "Gaoping Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-40479b",
-        "id": "CN-51-40479b-9f0be8",
         "code": "嘉陵区",
         "name": "Jialing Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-40479b",
-        "id": "CN-51-40479b-edca95",
         "code": "阆中市",
         "name": "Langzhong Shi",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-40479b",
-        "id": "CN-51-40479b-1710c8",
         "code": "南部县",
         "name": "Nanbu Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-40479b",
-        "id": "CN-51-40479b-57d6c0",
         "code": "蓬安县",
         "name": "Peng'an Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-40479b",
-        "id": "CN-51-40479b-bba360",
         "code": "顺庆区",
         "name": "Shunqing Qu",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-40479b",
-        "id": "CN-51-40479b-bdda3c",
         "code": "西充县",
         "name": "Xichong Xian",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-40479b",
-        "id": "CN-51-40479b-6f0b7a",
         "code": "仪陇县",
         "name": "Yilong Xian",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-40479b",
-        "id": "CN-51-40479b-3f56f1",
         "code": "营山县",
         "name": "Yingshan Xian",
         "translations": {

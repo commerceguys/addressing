@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-183290",
-        "id": "CN-51-183290-271690",
         "code": "东区",
         "name": "Dong Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-183290",
-        "id": "CN-51-183290-9df7f5",
         "code": "米易县",
         "name": "Miyi Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-183290",
-        "id": "CN-51-183290-0efa3d",
         "code": "仁和区",
         "name": "Renhe Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-183290",
-        "id": "CN-51-183290-4f015a",
         "code": "西区",
         "name": "Xi Qu",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-183290",
-        "id": "CN-51-183290-2d9aac",
         "code": "盐边县",
         "name": "Yanbian Xian",
         "translations": {

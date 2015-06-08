@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-8d84eb",
-        "id": "CN-32-8d84eb-ffea2e",
         "code": "崇川区",
         "name": "Chongchuan Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-8d84eb",
-        "id": "CN-32-8d84eb-8757da",
         "code": "港闸区",
         "name": "Gangzha Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-8d84eb",
-        "id": "CN-32-8d84eb-7b23de",
         "code": "海安县",
         "name": "Hai'an Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-8d84eb",
-        "id": "CN-32-8d84eb-547ba1",
         "code": "海门市",
         "name": "Haimen Shi",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-8d84eb",
-        "id": "CN-32-8d84eb-9adda7",
         "code": "启东市",
         "name": "Qidong Shi",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-8d84eb",
-        "id": "CN-32-8d84eb-8a724d",
         "code": "如东县",
         "name": "Rudong Xian",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-8d84eb",
-        "id": "CN-32-8d84eb-f03238",
         "code": "如皋市",
         "name": "Rugao Shi",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-8d84eb",
-        "id": "CN-32-8d84eb-d106e6",
         "code": "通州市",
         "name": "Tongzhou Shi",
         "translations": {

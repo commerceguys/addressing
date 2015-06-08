@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-46-bb15c1",
-        "id": "CN-46-bb15c1-0008ba",
         "code": "龙华区",
         "name": "Longhua Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-46-bb15c1",
-        "id": "CN-46-bb15c1-cdc20d",
         "code": "美兰区",
         "name": "Meilan Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-46-bb15c1",
-        "id": "CN-46-bb15c1-49226b",
         "code": "琼山区",
         "name": "Qiongshan Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-46-bb15c1",
-        "id": "CN-46-bb15c1-6b7371",
         "code": "秀英区",
         "name": "Xiuying Qu",
         "translations": {

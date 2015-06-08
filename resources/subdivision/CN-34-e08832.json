@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-e08832",
-        "id": "CN-34-e08832-613cba",
         "code": "八公山区",
         "name": "Bagongshan Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-e08832",
-        "id": "CN-34-e08832-5b1d87",
         "code": "大通区",
         "name": "Datong Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-e08832",
-        "id": "CN-34-e08832-c0fa49",
         "code": "凤台县",
         "name": "Fengtai Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-e08832",
-        "id": "CN-34-e08832-eaa42a",
         "code": "潘集区",
         "name": "Panji Qu",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-e08832",
-        "id": "CN-34-e08832-b3ee3d",
         "code": "田家庵区",
         "name": "Tianjia'an Qu",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-e08832",
-        "id": "CN-34-e08832-e07e69",
         "code": "谢家集区",
         "name": "Xiejiaji Qu",
         "translations": {

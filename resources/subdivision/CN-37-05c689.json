@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-05c689",
-        "id": "CN-37-05c689-ddfa23",
         "code": "博山区",
         "name": "Boshan Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-05c689",
-        "id": "CN-37-05c689-810976",
         "code": "高青县",
         "name": "Gaoqing Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-05c689",
-        "id": "CN-37-05c689-b6f9ff",
         "code": "桓台县",
         "name": "Huantai Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-05c689",
-        "id": "CN-37-05c689-763f0d",
         "code": "临淄区",
         "name": "Linzi Qu",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-05c689",
-        "id": "CN-37-05c689-71e173",
         "code": "沂源县",
         "name": "Yiyuan Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-05c689",
-        "id": "CN-37-05c689-6ead1d",
         "code": "张店区",
         "name": "Zhangdian Qu",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-05c689",
-        "id": "CN-37-05c689-1fde9d",
         "code": "周村区",
         "name": "Zhoucun Qu",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-05c689",
-        "id": "CN-37-05c689-8c112c",
         "code": "淄川区",
         "name": "Zichuan Qu",
         "translations": {

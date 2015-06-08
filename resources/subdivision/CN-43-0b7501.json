@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-0b7501",
-        "id": "CN-43-0b7501-8950d8",
         "code": "安仁县",
         "name": "Anren Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-0b7501",
-        "id": "CN-43-0b7501-0677a0",
         "code": "北湖区",
         "name": "Beihu Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-0b7501",
-        "id": "CN-43-0b7501-2493ef",
         "code": "桂东县",
         "name": "Guidong Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-0b7501",
-        "id": "CN-43-0b7501-0bb978",
         "code": "桂阳县",
         "name": "Guiyang Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-0b7501",
-        "id": "CN-43-0b7501-044121",
         "code": "嘉禾县",
         "name": "Jiahe Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-0b7501",
-        "id": "CN-43-0b7501-12490e",
         "code": "临武县",
         "name": "Linwu Xian",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-0b7501",
-        "id": "CN-43-0b7501-dcbd67",
         "code": "汝城县",
         "name": "Rucheng Xian",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-0b7501",
-        "id": "CN-43-0b7501-09b1dc",
         "code": "苏仙区",
         "name": "Suxian Qu",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-0b7501",
-        "id": "CN-43-0b7501-4b13b3",
         "code": "宜章县",
         "name": "Yizhang Xian",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-0b7501",
-        "id": "CN-43-0b7501-290983",
         "code": "永兴县",
         "name": "Yongxing Xian",
         "translations": {
@@ -133,7 +123,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-0b7501",
-        "id": "CN-43-0b7501-09961f",
         "code": "资兴市",
         "name": "Zixing Shi",
         "translations": {

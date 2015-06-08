@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-f3f836",
-        "id": "CN-41-f3f836-f45724",
         "code": "鹤山区",
         "name": "Heshan Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-f3f836",
-        "id": "CN-41-f3f836-86b69d",
         "code": "浚县",
         "name": "Xun Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-f3f836",
-        "id": "CN-41-f3f836-25e9fe",
         "code": "淇滨区",
         "name": "Qibin Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-f3f836",
-        "id": "CN-41-f3f836-b572fa",
         "code": "淇县",
         "name": "Qi Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-f3f836",
-        "id": "CN-41-f3f836-266b16",
         "code": "山城区",
         "name": "Shancheng Qu",
         "translations": {

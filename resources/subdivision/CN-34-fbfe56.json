@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-fbfe56",
-        "id": "CN-34-fbfe56-0f48b5",
         "code": "含山县",
         "name": "Hanshan Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-fbfe56",
-        "id": "CN-34-fbfe56-d16ef8",
         "code": "和县",
         "name": "He Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-fbfe56",
-        "id": "CN-34-fbfe56-e71384",
         "code": "居巢区",
         "name": "Juchao Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-fbfe56",
-        "id": "CN-34-fbfe56-e57d19",
         "code": "庐江县",
         "name": "Lujiang Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-fbfe56",
-        "id": "CN-34-fbfe56-fd14e8",
         "code": "无为县",
         "name": "Wuwei Xian",
         "translations": {

@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-9f4b5f",
-        "id": "HK-9f4b5f-6dfe32",
         "code": "上環",
         "name": "Sheung Wan",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-9f4b5f",
-        "id": "HK-9f4b5f-ba13a4",
         "code": "大坑",
         "name": "Tai Hang",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-9f4b5f",
-        "id": "HK-9f4b5f-029c46",
         "code": "大潭",
         "name": "Tai Tam",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-9f4b5f",
-        "id": "HK-9f4b5f-63924a",
         "code": "山頂",
         "name": "The Peak",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-9f4b5f",
-        "id": "HK-9f4b5f-f04120",
         "code": "中環",
         "name": "Central",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-9f4b5f",
-        "id": "HK-9f4b5f-460307",
         "code": "北角",
         "name": "North Point",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-9f4b5f",
-        "id": "HK-9f4b5f-14d652",
         "code": "半山",
         "name": "Mid-level",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-9f4b5f",
-        "id": "HK-9f4b5f-949011",
         "code": "石塘咀",
         "name": "Shek Tong Tsui",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-9f4b5f",
-        "id": "HK-9f4b5f-4f3fe3",
         "code": "石澳",
         "name": "Shek O",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-9f4b5f",
-        "id": "HK-9f4b5f-ebeeca",
         "code": "西營盤",
         "name": "Sai Ying Pun",
         "translations": {
@@ -133,7 +123,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-9f4b5f",
-        "id": "HK-9f4b5f-b4fd93",
         "code": "西灣河",
         "name": "Sai Wan Ho",
         "translations": {
@@ -146,7 +135,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-9f4b5f",
-        "id": "HK-9f4b5f-20b7f7",
         "code": "赤柱",
         "name": "Stanley",
         "translations": {
@@ -159,7 +147,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-9f4b5f",
-        "id": "HK-9f4b5f-e92207",
         "code": "金鐘",
         "name": "Admiralty",
         "translations": {
@@ -172,7 +159,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-9f4b5f",
-        "id": "HK-9f4b5f-cb4080",
         "code": "香港仔",
         "name": "Aberdeen",
         "translations": {
@@ -185,7 +171,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-9f4b5f",
-        "id": "HK-9f4b5f-f7892f",
         "code": "柴灣",
         "name": "Chai Wan",
         "translations": {
@@ -198,7 +183,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-9f4b5f",
-        "id": "HK-9f4b5f-53e184",
         "code": "堅尼地城",
         "name": "Kennedy Town",
         "translations": {
@@ -211,7 +195,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-9f4b5f",
-        "id": "HK-9f4b5f-dd0f50",
         "code": "深水灣",
         "name": "Deep Water Bay",
         "translations": {
@@ -224,7 +207,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-9f4b5f",
-        "id": "HK-9f4b5f-bc2918",
         "code": "淺水灣",
         "name": "Repulse Bay",
         "translations": {
@@ -237,7 +219,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-9f4b5f",
-        "id": "HK-9f4b5f-69ce0e",
         "code": "舂坎角",
         "name": "Chung Hom Kok",
         "translations": {
@@ -250,7 +231,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-9f4b5f",
-        "id": "HK-9f4b5f-12e2b7",
         "code": "跑馬地",
         "name": "Happy Valley",
         "translations": {
@@ -263,7 +243,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-9f4b5f",
-        "id": "HK-9f4b5f-7a3d23",
         "code": "黃竹坑",
         "name": "Wong Chuk Hang",
         "translations": {
@@ -276,7 +255,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-9f4b5f",
-        "id": "HK-9f4b5f-90ba66",
         "code": "筲箕灣",
         "name": "Shau Kei Wan",
         "translations": {
@@ -289,7 +267,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-9f4b5f",
-        "id": "HK-9f4b5f-9b16a6",
         "code": "銅鑼灣",
         "name": "Causeway Bay",
         "translations": {
@@ -302,7 +279,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-9f4b5f",
-        "id": "HK-9f4b5f-8d078a",
         "code": "鴨脷洲",
         "name": "Ap Lei Chau",
         "translations": {
@@ -315,7 +291,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-9f4b5f",
-        "id": "HK-9f4b5f-a2f082",
         "code": "薄扶林",
         "name": "Pok Fu Lam",
         "translations": {
@@ -328,7 +303,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-9f4b5f",
-        "id": "HK-9f4b5f-d9282d",
         "code": "鰂魚涌",
         "name": "Quarry Bay",
         "translations": {
@@ -341,7 +315,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-9f4b5f",
-        "id": "HK-9f4b5f-28668a",
         "code": "灣仔",
         "name": "Wan Chai",
         "translations": {

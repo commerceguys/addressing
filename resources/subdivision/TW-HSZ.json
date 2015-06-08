@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "TW",
         "parent_id": "TW-HSZ",
-        "id": "TW-HSZ-9bf0d9",
         "code": "北區",
         "name": "North District",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "TW",
         "parent_id": "TW-HSZ",
-        "id": "TW-HSZ-671bd9",
         "code": "東區",
         "name": "East District",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "TW",
         "parent_id": "TW-HSZ",
-        "id": "TW-HSZ-58cc6b",
         "code": "香山區",
         "name": "Xiangshan District",
         "translations": {

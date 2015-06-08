@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-de162c",
-        "id": "CN-45-de162c-1408db",
         "code": "东兴市",
         "name": "Dongxing Shi",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-de162c",
-        "id": "CN-45-de162c-18f282",
         "code": "防城区",
         "name": "Fangcheng Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-de162c",
-        "id": "CN-45-de162c-b09a1d",
         "code": "港口区",
         "name": "Gangkou Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-de162c",
-        "id": "CN-45-de162c-a9da05",
         "code": "上思县",
         "name": "Shangsi Xian",
         "translations": {

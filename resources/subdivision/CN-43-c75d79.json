@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-c75d79",
-        "id": "CN-43-c75d79-0430eb",
         "code": "韶山市",
         "name": "Shaoshan Shi",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-c75d79",
-        "id": "CN-43-c75d79-dc6437",
         "code": "湘潭县",
         "name": "Xiangtan Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-c75d79",
-        "id": "CN-43-c75d79-8765da",
         "code": "湘乡市",
         "name": "Xiangxiang Shi",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-c75d79",
-        "id": "CN-43-c75d79-c0c86f",
         "code": "雨湖区",
         "name": "Yuhu Qu",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-c75d79",
-        "id": "CN-43-c75d79-408ac3",
         "code": "岳塘区",
         "name": "Yuetang Qu",
         "translations": {

@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-00c16e",
-        "id": "CN-21-00c16e-85e6a1",
         "code": "建昌县",
         "name": "Jianchang Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-00c16e",
-        "id": "CN-21-00c16e-192a19",
         "code": "连山区",
         "name": "Lianshan Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-00c16e",
-        "id": "CN-21-00c16e-393a88",
         "code": "龙港区",
         "name": "Longgang Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-00c16e",
-        "id": "CN-21-00c16e-8d69b9",
         "code": "南票区",
         "name": "Nanpiao Qu",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-00c16e",
-        "id": "CN-21-00c16e-79a6e2",
         "code": "绥中县",
         "name": "Suizhong Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-21-00c16e",
-        "id": "CN-21-00c16e-e42b53",
         "code": "兴城市",
         "name": "Xingcheng Shi",
         "translations": {

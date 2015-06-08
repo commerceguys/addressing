@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-525c22",
-        "id": "CN-51-525c22-91c69e",
         "code": "广安区",
         "name": "Guang'an Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-525c22",
-        "id": "CN-51-525c22-6fcfa8",
         "code": "华蓥市",
         "name": "Huaying Shi",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-525c22",
-        "id": "CN-51-525c22-b65806",
         "code": "邻水县",
         "name": "Linshui Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-525c22",
-        "id": "CN-51-525c22-fa0c5c",
         "code": "武胜县",
         "name": "Wusheng Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-525c22",
-        "id": "CN-51-525c22-b7b843",
         "code": "岳池县",
         "name": "Yuechi Xian",
         "translations": {

@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-d2bb8f",
-        "id": "CN-32-d2bb8f-a6387c",
         "code": "高淳区",
         "name": "Gaochun Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-d2bb8f",
-        "id": "CN-32-d2bb8f-e29657",
         "code": "鼓楼区",
         "name": "Gulou Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-d2bb8f",
-        "id": "CN-32-d2bb8f-c24cba",
         "code": "建邺区",
         "name": "Jianye Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-d2bb8f",
-        "id": "CN-32-d2bb8f-8acd26",
         "code": "江宁区",
         "name": "Jiangning Qu",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-d2bb8f",
-        "id": "CN-32-d2bb8f-d8b6b7",
         "code": "溧水区",
         "name": "Lishui Qu",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-d2bb8f",
-        "id": "CN-32-d2bb8f-603764",
         "code": "六合区",
         "name": "Liuhe Qu",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-d2bb8f",
-        "id": "CN-32-d2bb8f-0ff395",
         "code": "浦口区",
         "name": "Pukou Qu",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-d2bb8f",
-        "id": "CN-32-d2bb8f-a563ab",
         "code": "栖霞区",
         "name": "Qixia Qu",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-d2bb8f",
-        "id": "CN-32-d2bb8f-dc31c0",
         "code": "秦淮区",
         "name": "Qinhuai Qu",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-d2bb8f",
-        "id": "CN-32-d2bb8f-6503e4",
         "code": "玄武区",
         "name": "Xuanwu Qu",
         "translations": {
@@ -133,7 +123,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-d2bb8f",
-        "id": "CN-32-d2bb8f-651314",
         "code": "雨花台区",
         "name": "Yuhuatai Qu",
         "translations": {

@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-98631d",
-        "id": "CN-13-98631d-96f665",
         "code": "柏乡县",
         "name": "Baixiang Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-98631d",
-        "id": "CN-13-98631d-b6c5da",
         "code": "广宗县",
         "name": "Guangzong Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-98631d",
-        "id": "CN-13-98631d-fd43e2",
         "code": "巨鹿县",
         "name": "Julu Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-98631d",
-        "id": "CN-13-98631d-73be29",
         "code": "临城县",
         "name": "Lincheng Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-98631d",
-        "id": "CN-13-98631d-579034",
         "code": "临西县",
         "name": "Linxi Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-98631d",
-        "id": "CN-13-98631d-f16b1d",
         "code": "隆尧县",
         "name": "Longyao Xian",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-98631d",
-        "id": "CN-13-98631d-7e0240",
         "code": "南宫市",
         "name": "Nangong Shi",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-98631d",
-        "id": "CN-13-98631d-3f81dd",
         "code": "南和县",
         "name": "Nanhe Xian",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-98631d",
-        "id": "CN-13-98631d-ee067d",
         "code": "内丘县",
         "name": "Neiqiu Xian",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-98631d",
-        "id": "CN-13-98631d-8ace94",
         "code": "宁晋县",
         "name": "Ningjin Xian",
         "translations": {
@@ -133,7 +123,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-98631d",
-        "id": "CN-13-98631d-08d06f",
         "code": "平乡县",
         "name": "Pingxiang Xian",
         "translations": {
@@ -146,7 +135,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-98631d",
-        "id": "CN-13-98631d-8b6d67",
         "code": "桥东区",
         "name": "Qiaodong Qu",
         "translations": {
@@ -159,7 +147,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-98631d",
-        "id": "CN-13-98631d-6a0cf9",
         "code": "桥西区",
         "name": "Qiaoxi Qu",
         "translations": {
@@ -172,7 +159,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-98631d",
-        "id": "CN-13-98631d-982727",
         "code": "清河县",
         "name": "Qinghe Xian",
         "translations": {
@@ -185,7 +171,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-98631d",
-        "id": "CN-13-98631d-a8b154",
         "code": "任县",
         "name": "Ren Xian",
         "translations": {
@@ -198,7 +183,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-98631d",
-        "id": "CN-13-98631d-4e334e",
         "code": "沙河市",
         "name": "Shahe Shi",
         "translations": {
@@ -211,7 +195,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-98631d",
-        "id": "CN-13-98631d-0dbcd7",
         "code": "威县",
         "name": "Wei Xian",
         "translations": {
@@ -224,7 +207,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-98631d",
-        "id": "CN-13-98631d-3b8cbd",
         "code": "新河县",
         "name": "Xinhe Xian",
         "translations": {
@@ -237,7 +219,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-98631d",
-        "id": "CN-13-98631d-659808",
         "code": "邢台县",
         "name": "Xingtai Xian",
         "translations": {

@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-d29d26",
-        "id": "CN-36-d29d26-d10f6c",
         "code": "昌江区",
         "name": "Changjiang Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-d29d26",
-        "id": "CN-36-d29d26-2b7234",
         "code": "浮梁县",
         "name": "Fuliang Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-d29d26",
-        "id": "CN-36-d29d26-716a01",
         "code": "乐平市",
         "name": "Leping Shi",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-d29d26",
-        "id": "CN-36-d29d26-9e5161",
         "code": "珠山区",
         "name": "Zhushan Qu",
         "translations": {

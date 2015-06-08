@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-a9b7e5",
-        "id": "CN-41-a9b7e5-8e95e6",
         "code": "沈丘县",
         "name": "Shenqiu Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-a9b7e5",
-        "id": "CN-41-a9b7e5-878f48",
         "code": "川汇区",
         "name": "Chuanhui Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-a9b7e5",
-        "id": "CN-41-a9b7e5-6560c3",
         "code": "郸城县",
         "name": "Dancheng Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-a9b7e5",
-        "id": "CN-41-a9b7e5-98a0cf",
         "code": "扶沟县",
         "name": "Fugou Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-a9b7e5",
-        "id": "CN-41-a9b7e5-368e12",
         "code": "淮阳县",
         "name": "Huaiyang Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-a9b7e5",
-        "id": "CN-41-a9b7e5-520410",
         "code": "鹿邑县",
         "name": "Luyi Xian",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-a9b7e5",
-        "id": "CN-41-a9b7e5-e035db",
         "code": "商水县",
         "name": "Shangshui Xian",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-a9b7e5",
-        "id": "CN-41-a9b7e5-6e28c6",
         "code": "太康县",
         "name": "Taikang Xian",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-a9b7e5",
-        "id": "CN-41-a9b7e5-524bca",
         "code": "西华县",
         "name": "Xihua Xian",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-a9b7e5",
-        "id": "CN-41-a9b7e5-b9a99a",
         "code": "项城市",
         "name": "Xiangcheng Shi",
         "translations": {

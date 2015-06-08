@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-31",
-        "id": "CN-31-ae613e",
         "code": "宝山区",
         "name": "Baoshan Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-31",
-        "id": "CN-31-f2da6c",
         "code": "崇明县",
         "name": "Chongming Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-31",
-        "id": "CN-31-9eeeb9",
         "code": "奉贤区",
         "name": "Fengxian Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-31",
-        "id": "CN-31-8b6675",
         "code": "虹口区",
         "name": "Hongkou Qu",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-31",
-        "id": "CN-31-003843",
         "code": "黄浦区",
         "name": "Huangpu Qu",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-31",
-        "id": "CN-31-b87b50",
         "code": "嘉定区",
         "name": "Jiading Qu",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-31",
-        "id": "CN-31-e57d8c",
         "code": "金山区",
         "name": "Jinshan Qu",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-31",
-        "id": "CN-31-559755",
         "code": "静安区",
         "name": "Jing'an Qu",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-31",
-        "id": "CN-31-5338e4",
         "code": "闵行区",
         "name": "Minhang Qu",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-31",
-        "id": "CN-31-205104",
         "code": "浦东新区",
         "name": "Pudong Xinqu",
         "translations": {
@@ -133,7 +123,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-31",
-        "id": "CN-31-4b45a1",
         "code": "普陀区",
         "name": "Putuo Qu",
         "translations": {
@@ -146,7 +135,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-31",
-        "id": "CN-31-26f648",
         "code": "青浦区",
         "name": "Qingpu Qu",
         "translations": {
@@ -159,7 +147,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-31",
-        "id": "CN-31-891156",
         "code": "松江区",
         "name": "Songjiang Qu",
         "translations": {
@@ -172,7 +159,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-31",
-        "id": "CN-31-cc06ad",
         "code": "徐汇区",
         "name": "Xuhui Qu",
         "translations": {
@@ -185,7 +171,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-31",
-        "id": "CN-31-633800",
         "code": "杨浦区",
         "name": "Yangpu Qu",
         "translations": {
@@ -198,7 +183,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-31",
-        "id": "CN-31-e822a5",
         "code": "闸北区",
         "name": "Zhabei Qu",
         "translations": {
@@ -211,7 +195,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-31",
-        "id": "CN-31-c93e6d",
         "code": "长宁区",
         "name": "Changning Qu",
         "translations": {

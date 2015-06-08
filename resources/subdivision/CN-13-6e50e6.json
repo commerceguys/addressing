@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-6e50e6",
-        "id": "CN-13-6e50e6-89e957",
         "code": "丰南区",
         "name": "Fengnan Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-6e50e6",
-        "id": "CN-13-6e50e6-bf6a7f",
         "code": "丰润区",
         "name": "Fengrun Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-6e50e6",
-        "id": "CN-13-6e50e6-fd9ca1",
         "code": "古冶区",
         "name": "Guye Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-6e50e6",
-        "id": "CN-13-6e50e6-13eb64",
         "code": "开平区",
         "name": "Kaiping Qu",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-6e50e6",
-        "id": "CN-13-6e50e6-7db38d",
         "code": "乐亭县",
         "name": "Leting Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-6e50e6",
-        "id": "CN-13-6e50e6-e381cf",
         "code": "路北区",
         "name": "Lubei Qu",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-6e50e6",
-        "id": "CN-13-6e50e6-c10275",
         "code": "路南区",
         "name": "Lunan Qu",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-6e50e6",
-        "id": "CN-13-6e50e6-6ee056",
         "code": "滦南县",
         "name": "Luannan Xian",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-6e50e6",
-        "id": "CN-13-6e50e6-326be5",
         "code": "滦县",
         "name": "Luan Xian",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-6e50e6",
-        "id": "CN-13-6e50e6-d189c0",
         "code": "迁安市",
         "name": "Qian'an Shi",
         "translations": {
@@ -133,7 +123,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-6e50e6",
-        "id": "CN-13-6e50e6-f71af7",
         "code": "迁西县",
         "name": "Qianxi Xian",
         "translations": {
@@ -146,7 +135,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-6e50e6",
-        "id": "CN-13-6e50e6-7521d6",
         "code": "唐海县",
         "name": "Tanghai Xian",
         "translations": {
@@ -159,7 +147,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-6e50e6",
-        "id": "CN-13-6e50e6-375aea",
         "code": "玉田县",
         "name": "Yutian Xian",
         "translations": {
@@ -172,7 +159,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-6e50e6",
-        "id": "CN-13-6e50e6-9bbb23",
         "code": "遵化市",
         "name": "Zunhua Shi",
         "translations": {

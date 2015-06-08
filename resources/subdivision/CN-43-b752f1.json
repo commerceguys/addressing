@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-b752f1",
-        "id": "CN-43-b752f1-7514ce",
         "code": "安化县",
         "name": "Anhua Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-b752f1",
-        "id": "CN-43-b752f1-6af0a4",
         "code": "赫山区",
         "name": "Heshan Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-b752f1",
-        "id": "CN-43-b752f1-7bc84d",
         "code": "南县",
         "name": "Nan Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-b752f1",
-        "id": "CN-43-b752f1-7507f1",
         "code": "桃江县",
         "name": "Taojiang Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-b752f1",
-        "id": "CN-43-b752f1-4c4deb",
         "code": "沅江市",
         "name": "Yuanjiang Shi",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-b752f1",
-        "id": "CN-43-b752f1-f740bd",
         "code": "资阳区",
         "name": "Ziyang Qu",
         "translations": {

@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-2dbb48",
-        "id": "CN-37-2dbb48-b81a43",
         "code": "东营区",
         "name": "Dongying Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-2dbb48",
-        "id": "CN-37-2dbb48-b82852",
         "code": "广饶县",
         "name": "Guangrao Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-2dbb48",
-        "id": "CN-37-2dbb48-bfff67",
         "code": "河口区",
         "name": "Hekou Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-2dbb48",
-        "id": "CN-37-2dbb48-47fa45",
         "code": "垦利县",
         "name": "Kenli Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-2dbb48",
-        "id": "CN-37-2dbb48-548ab1",
         "code": "利津县",
         "name": "Lijin Xian",
         "translations": {

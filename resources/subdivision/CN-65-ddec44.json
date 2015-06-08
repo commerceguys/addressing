@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65-ddec44",
-        "id": "CN-65-ddec44-2e5e60",
         "code": "策勒县",
         "name": "Qira Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65-ddec44",
-        "id": "CN-65-ddec44-62b421",
         "code": "和田市",
         "name": "Hotan Shi",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65-ddec44",
-        "id": "CN-65-ddec44-256f3f",
         "code": "和田县",
         "name": "Hotan Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65-ddec44",
-        "id": "CN-65-ddec44-2c6e19",
         "code": "洛浦县",
         "name": "Lop Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65-ddec44",
-        "id": "CN-65-ddec44-558162",
         "code": "民丰县",
         "name": "Minfeng Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65-ddec44",
-        "id": "CN-65-ddec44-d8f6e5",
         "code": "墨玉县",
         "name": "Moyu Xian",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65-ddec44",
-        "id": "CN-65-ddec44-c1a322",
         "code": "皮山县",
         "name": "Pishan Xian",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65-ddec44",
-        "id": "CN-65-ddec44-c45746",
         "code": "于田县",
         "name": "Yutian Xian",
         "translations": {

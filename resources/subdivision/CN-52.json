@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52",
-        "id": "CN-52-b748a0",
         "code": "安顺市",
         "name": "Anshun Shi",
         "translations": {
@@ -17,7 +16,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52",
-        "id": "CN-52-c79613",
         "code": "毕节地区",
         "name": "Bijie Diqu",
         "translations": {
@@ -31,7 +29,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52",
-        "id": "CN-52-5831ac",
         "code": "贵阳市",
         "name": "Guiyang Shi",
         "translations": {
@@ -45,9 +42,8 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52",
-        "id": "CN-52-c505fd",
         "code": "六盘水市",
-        "name": "Lupanshui Shi",
+        "name": "Liupanshui Shi",
         "translations": {
             "zh": {
                 "name": "六盘水市"
@@ -59,7 +55,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52",
-        "id": "CN-52-b4ee0d",
         "code": "黔东南苗族侗族自治州",
         "name": "Qiandongnan Zhou",
         "translations": {
@@ -73,7 +68,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52",
-        "id": "CN-52-a4d63b",
         "code": "黔南布依族苗族自治州",
         "name": "Qiannan Zhou",
         "translations": {
@@ -87,7 +81,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52",
-        "id": "CN-52-9ca5ff",
         "code": "黔西南布依族苗族自治州",
         "name": "Qianxinan Zhou",
         "translations": {
@@ -101,7 +94,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52",
-        "id": "CN-52-47e197",
         "code": "铜仁地区",
         "name": "Tongren Diqu",
         "translations": {
@@ -115,7 +107,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52",
-        "id": "CN-52-56c8e5",
         "code": "遵义市",
         "name": "Zunyi Shi",
         "translations": {

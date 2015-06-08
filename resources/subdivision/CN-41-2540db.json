@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-2540db",
-        "id": "CN-41-2540db-67f6c8",
         "code": "鼓楼区",
         "name": "Gulou Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-2540db",
-        "id": "CN-41-2540db-ee0de3",
         "code": "金明区",
         "name": "Jinming Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-2540db",
-        "id": "CN-41-2540db-5be499",
         "code": "开封县",
         "name": "Kaifeng Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-2540db",
-        "id": "CN-41-2540db-bff40b",
         "code": "兰考县",
         "name": "Lankao Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-2540db",
-        "id": "CN-41-2540db-e5c03c",
         "code": "龙亭区",
         "name": "Longting Qu",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-2540db",
-        "id": "CN-41-2540db-a53d6c",
         "code": "杞县",
         "name": "Qi Xian",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-2540db",
-        "id": "CN-41-2540db-9e0ffc",
         "code": "顺河回族区",
         "name": "Shunhe Huizu Qu",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-2540db",
-        "id": "CN-41-2540db-f4a8dd",
         "code": "通许县",
         "name": "Tongxu Xian",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-2540db",
-        "id": "CN-41-2540db-2b63f5",
         "code": "尉氏县",
         "name": "Weishi Xian",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-2540db",
-        "id": "CN-41-2540db-92bb7a",
         "code": "禹王台区",
         "name": "Yuwangtai Qu",
         "translations": {

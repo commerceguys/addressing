@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-1ebe30",
-        "id": "CN-34-1ebe30-92223c",
         "code": "繁昌县",
         "name": "Fanchang Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-1ebe30",
-        "id": "CN-34-1ebe30-bbcd2a",
         "code": "镜湖区",
         "name": "Jinghu Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-1ebe30",
-        "id": "CN-34-1ebe30-d0f7e4",
         "code": "鸠江区",
         "name": "Jiujiang Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-1ebe30",
-        "id": "CN-34-1ebe30-7d9157",
         "code": "南陵县",
         "name": "Nanling Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-1ebe30",
-        "id": "CN-34-1ebe30-7ab3c6",
         "code": "三山区",
         "name": "Sanshan Qu",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-1ebe30",
-        "id": "CN-34-1ebe30-357018",
         "code": "芜湖县",
         "name": "Wuhu Xian",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-1ebe30",
-        "id": "CN-34-1ebe30-5c3208",
         "code": "弋江区",
         "name": "Yijiang Qu",
         "translations": {

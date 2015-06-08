@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-16dc8e",
-        "id": "CN-37-16dc8e-20651d",
         "code": "槐荫区",
         "name": "Huaiyin Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-16dc8e",
-        "id": "CN-37-16dc8e-987668",
         "code": "济阳县",
         "name": "Jiyang Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-16dc8e",
-        "id": "CN-37-16dc8e-819c88",
         "code": "历城区",
         "name": "Licheng Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-16dc8e",
-        "id": "CN-37-16dc8e-c73abd",
         "code": "历下区",
         "name": "Lixia Qu",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-16dc8e",
-        "id": "CN-37-16dc8e-ca0ac1",
         "code": "平阴县",
         "name": "Pingyin Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-16dc8e",
-        "id": "CN-37-16dc8e-929065",
         "code": "商河县",
         "name": "Shanghe Xian",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-16dc8e",
-        "id": "CN-37-16dc8e-195666",
         "code": "市中区",
         "name": "Shizhong Qu",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-16dc8e",
-        "id": "CN-37-16dc8e-bee010",
         "code": "天桥区",
         "name": "Tianqiao Qu",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-16dc8e",
-        "id": "CN-37-16dc8e-fbee89",
         "code": "章丘市",
         "name": "Zhangqiu Shi",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-16dc8e",
-        "id": "CN-37-16dc8e-183acf",
         "code": "长清区",
         "name": "Changqing Qu",
         "translations": {

@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-6fc682",
-        "id": "CN-37-6fc682-e02cad",
         "code": "岱岳区",
         "name": "Daiyue Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-6fc682",
-        "id": "CN-37-6fc682-fc9ed6",
         "code": "东平县",
         "name": "Dongping Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-6fc682",
-        "id": "CN-37-6fc682-70ccf7",
         "code": "肥城市",
         "name": "Feicheng Shi",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-6fc682",
-        "id": "CN-37-6fc682-b47f0c",
         "code": "宁阳县",
         "name": "Ningyang Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-6fc682",
-        "id": "CN-37-6fc682-1fbc08",
         "code": "泰山区",
         "name": "Taishan Qu",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-6fc682",
-        "id": "CN-37-6fc682-0d0efc",
         "code": "新泰市",
         "name": "Xintai Shi",
         "translations": {

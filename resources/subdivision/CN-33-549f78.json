@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33-549f78",
-        "id": "CN-33-549f78-479f9d",
         "code": "海宁市",
         "name": "Haining Shi",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33-549f78",
-        "id": "CN-33-549f78-584e7a",
         "code": "海盐县",
         "name": "Haiyan Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33-549f78",
-        "id": "CN-33-549f78-8732cb",
         "code": "嘉善县",
         "name": "Jiashan Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33-549f78",
-        "id": "CN-33-549f78-364edd",
         "code": "南湖区",
         "name": "Nanhu Qu",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33-549f78",
-        "id": "CN-33-549f78-2efc7d",
         "code": "平湖市",
         "name": "Pinghu Shi",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33-549f78",
-        "id": "CN-33-549f78-6f23e2",
         "code": "桐乡市",
         "name": "Tongxiang Shi",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33-549f78",
-        "id": "CN-33-549f78-1c71ce",
         "code": "秀洲区",
         "name": "Xiuzhou Qu",
         "translations": {

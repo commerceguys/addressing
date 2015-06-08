@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-e1d015",
-        "id": "CN-51-e1d015-f3f647",
         "code": "东兴区",
         "name": "Dongxing Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-e1d015",
-        "id": "CN-51-e1d015-7123ac",
         "code": "隆昌县",
         "name": "Longchang Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-e1d015",
-        "id": "CN-51-e1d015-4887cb",
         "code": "市中区",
         "name": "Shizhong Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-e1d015",
-        "id": "CN-51-e1d015-b311a2",
         "code": "威远县",
         "name": "Weiyuan Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-e1d015",
-        "id": "CN-51-e1d015-96cde3",
         "code": "资中县",
         "name": "Zizhong Xian",
         "translations": {

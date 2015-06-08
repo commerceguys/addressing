@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-a4beec",
-        "id": "CN-32-a4beec-fa423f",
         "code": "高港区",
         "name": "Gaogang Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-a4beec",
-        "id": "CN-32-a4beec-f06747",
         "code": "海陵区",
         "name": "Hailing Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-a4beec",
-        "id": "CN-32-a4beec-b86be2",
         "code": "姜堰市",
         "name": "Jiangyan Shi",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-a4beec",
-        "id": "CN-32-a4beec-61e9e7",
         "code": "靖江市",
         "name": "Jingjiang Shi",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-a4beec",
-        "id": "CN-32-a4beec-af1965",
         "code": "泰兴市",
         "name": "Taixing Shi",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-a4beec",
-        "id": "CN-32-a4beec-db404a",
         "code": "兴化市",
         "name": "Xinghua Shi",
         "translations": {

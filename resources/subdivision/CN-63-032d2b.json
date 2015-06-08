@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-63-032d2b",
-        "id": "CN-63-032d2b-04c93d",
         "code": "共和县",
         "name": "Gonghe Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-63-032d2b",
-        "id": "CN-63-032d2b-904897",
         "code": "贵德县",
         "name": "Guide Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-63-032d2b",
-        "id": "CN-63-032d2b-30610e",
         "code": "贵南县",
         "name": "Guinan Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-63-032d2b",
-        "id": "CN-63-032d2b-4efd59",
         "code": "同德县",
         "name": "Tongde Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-63-032d2b",
-        "id": "CN-63-032d2b-36043c",
         "code": "兴海县",
         "name": "Xinghai Xian",
         "translations": {

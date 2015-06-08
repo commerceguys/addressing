@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-185542",
-        "id": "CN-51-185542-156892",
         "code": "安居区",
         "name": "Anju Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-185542",
-        "id": "CN-51-185542-1ab9dc",
         "code": "船山区",
         "name": "Chuanshan Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-185542",
-        "id": "CN-51-185542-214cd9",
         "code": "大英县",
         "name": "Daying Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-185542",
-        "id": "CN-51-185542-a777fe",
         "code": "蓬溪县",
         "name": "Pengxi Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-185542",
-        "id": "CN-51-185542-28763f",
         "code": "射洪县",
         "name": "Shehong Xian",
         "translations": {

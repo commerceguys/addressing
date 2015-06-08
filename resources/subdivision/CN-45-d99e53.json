@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-d99e53",
-        "id": "CN-45-d99e53-25fae2",
         "code": "八步区",
         "name": "Babu Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-d99e53",
-        "id": "CN-45-d99e53-9e6592",
         "code": "富川瑶族自治县",
         "name": "Fuchuan Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-d99e53",
-        "id": "CN-45-d99e53-b6cf15",
         "code": "昭平县",
         "name": "Zhaoping Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-45-d99e53",
-        "id": "CN-45-d99e53-31a3fa",
         "code": "钟山县",
         "name": "Zhongshan Xian",
         "translations": {

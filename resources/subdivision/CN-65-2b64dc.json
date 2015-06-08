@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65-2b64dc",
-        "id": "CN-65-2b64dc-4b6295",
         "code": "昌吉市",
         "name": "Changji Shi",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65-2b64dc",
-        "id": "CN-65-2b64dc-ea2c2d",
         "code": "阜康市",
         "name": "Fukang Shi",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65-2b64dc",
-        "id": "CN-65-2b64dc-373825",
         "code": "呼图壁县",
         "name": "Hutubi Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65-2b64dc",
-        "id": "CN-65-2b64dc-48eb71",
         "code": "吉木萨尔县",
         "name": "Jimsar Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65-2b64dc",
-        "id": "CN-65-2b64dc-c80117",
         "code": "玛纳斯县",
         "name": "Manas Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65-2b64dc",
-        "id": "CN-65-2b64dc-8a0562",
         "code": "木垒哈萨克自治县",
         "name": "Mori Xian",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65-2b64dc",
-        "id": "CN-65-2b64dc-0b2925",
         "code": "奇台县",
         "name": "Qitai Xian",
         "translations": {

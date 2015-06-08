@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37",
-        "id": "CN-37-27481f",
         "code": "滨州市",
         "name": "Binzhou shi",
         "translations": {
@@ -17,7 +16,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37",
-        "id": "CN-37-712117",
         "code": "德州市",
         "name": "Dezhou Shi",
         "translations": {
@@ -31,7 +29,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37",
-        "id": "CN-37-2dbb48",
         "code": "东营市",
         "name": "Dongying Shi",
         "translations": {
@@ -45,7 +42,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37",
-        "id": "CN-37-98ed18",
         "code": "菏泽市",
         "name": "Heze Shi",
         "translations": {
@@ -59,7 +55,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37",
-        "id": "CN-37-16dc8e",
         "code": "济南市",
         "name": "Jinan Shi",
         "translations": {
@@ -73,7 +68,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37",
-        "id": "CN-37-6e24af",
         "code": "济宁市",
         "name": "Jining Shi",
         "translations": {
@@ -87,7 +81,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37",
-        "id": "CN-37-a793c2",
         "code": "莱芜市",
         "name": "Laiwu Shi",
         "translations": {
@@ -101,7 +94,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37",
-        "id": "CN-37-5a43c1",
         "code": "聊城市",
         "name": "Liaocheng Shi",
         "translations": {
@@ -115,7 +107,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37",
-        "id": "CN-37-b315f8",
         "code": "临沂市",
         "name": "Linyi Shi",
         "translations": {
@@ -129,7 +120,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37",
-        "id": "CN-37-fff0ba",
         "code": "青岛市",
         "name": "Qingdao Shi",
         "translations": {
@@ -143,7 +133,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37",
-        "id": "CN-37-e6f7d7",
         "code": "日照市",
         "name": "Rizhao Shi",
         "translations": {
@@ -157,7 +146,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37",
-        "id": "CN-37-6fc682",
         "code": "泰安市",
         "name": "Tai'an Shi",
         "translations": {
@@ -171,7 +159,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37",
-        "id": "CN-37-29e5ef",
         "code": "威海市",
         "name": "Weihai Shi",
         "translations": {
@@ -185,7 +172,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37",
-        "id": "CN-37-bb940e",
         "code": "潍坊市",
         "name": "Weifang shi",
         "translations": {
@@ -199,7 +185,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37",
-        "id": "CN-37-843d99",
         "code": "烟台市",
         "name": "Yantai Shi",
         "translations": {
@@ -213,7 +198,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37",
-        "id": "CN-37-de7c60",
         "code": "枣庄市",
         "name": "Zaozhuang Shi",
         "translations": {
@@ -227,7 +211,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37",
-        "id": "CN-37-05c689",
         "code": "淄博市",
         "name": "Zibo Shi",
         "translations": {

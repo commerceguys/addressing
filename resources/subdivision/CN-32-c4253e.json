@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-c4253e",
-        "id": "CN-32-c4253e-5d5ee9",
         "code": "沭阳县",
         "name": "Shuyang Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-c4253e",
-        "id": "CN-32-c4253e-f275c6",
         "code": "泗洪县",
         "name": "Sihong Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-c4253e",
-        "id": "CN-32-c4253e-4b6a16",
         "code": "泗阳县",
         "name": "Siyang Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-c4253e",
-        "id": "CN-32-c4253e-cc964d",
         "code": "宿城区",
         "name": "Sucheng Qu",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-32-c4253e",
-        "id": "CN-32-c4253e-2d6307",
         "code": "宿豫区",
         "name": "Suyu Qu",
         "translations": {

@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42",
-        "id": "CN-42-5f84dd",
         "code": "鄂州市",
         "name": "Ezhou Shi",
         "translations": {
@@ -17,7 +16,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42",
-        "id": "CN-42-65c66d",
         "code": "恩施土家族苗族自治州",
         "name": "Enshi Zhou",
         "translations": {
@@ -31,7 +29,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42",
-        "id": "CN-42-639ce4",
         "code": "黄冈市",
         "name": "Huanggang Shi",
         "translations": {
@@ -45,7 +42,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42",
-        "id": "CN-42-7333a4",
         "code": "黄石市",
         "name": "Huangshi Shi",
         "translations": {
@@ -59,7 +55,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42",
-        "id": "CN-42-ec7ece",
         "code": "荆门市",
         "name": "Jingmen Shi",
         "translations": {
@@ -73,7 +68,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42",
-        "id": "CN-42-151a1a",
         "code": "荆州市",
         "name": "Jingzhou Shi",
         "translations": {
@@ -87,7 +81,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42",
-        "id": "CN-42-7f2419",
         "code": "潜江市",
         "name": "Qianjiang Shi",
         "translations": {
@@ -100,7 +93,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42",
-        "id": "CN-42-35bc15",
         "code": "神农架林区",
         "name": "Shennongjia Linqu",
         "translations": {
@@ -113,7 +105,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42",
-        "id": "CN-42-26b5bb",
         "code": "十堰市",
         "name": "Shiyan Shi",
         "translations": {
@@ -127,7 +118,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42",
-        "id": "CN-42-24bfe3",
         "code": "随州市",
         "name": "Suizhou Shi",
         "translations": {
@@ -141,7 +131,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42",
-        "id": "CN-42-c1178a",
         "code": "天门市",
         "name": "Tianmen Shi",
         "translations": {
@@ -154,7 +143,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42",
-        "id": "CN-42-6eff24",
         "code": "武汉市",
         "name": "Wuhan Shi",
         "translations": {
@@ -168,7 +156,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42",
-        "id": "CN-42-8a5bf0",
         "code": "咸宁市",
         "name": "Xianning Shi",
         "translations": {
@@ -182,7 +169,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42",
-        "id": "CN-42-348e0e",
         "code": "仙桃市",
         "name": "Xiantao Shi",
         "translations": {
@@ -195,7 +181,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42",
-        "id": "CN-42-778f4e",
         "code": "襄阳市",
         "name": "Xiangyang Shi",
         "translations": {
@@ -209,7 +194,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42",
-        "id": "CN-42-60c9fd",
         "code": "孝感市",
         "name": "Xiaogan Shi",
         "translations": {
@@ -223,7 +207,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42",
-        "id": "CN-42-b8f92d",
         "code": "宜昌市",
         "name": "Yichang Shi",
         "translations": {

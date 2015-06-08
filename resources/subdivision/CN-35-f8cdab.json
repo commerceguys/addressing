@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-35-f8cdab",
-        "id": "CN-35-f8cdab-b3cdc3",
         "code": "安溪县",
         "name": "Anxi Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-35-f8cdab",
-        "id": "CN-35-f8cdab-2b7e27",
         "code": "德化县",
         "name": "Dehua Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-35-f8cdab",
-        "id": "CN-35-f8cdab-af15f2",
         "code": "丰泽区",
         "name": "Fengze Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-35-f8cdab",
-        "id": "CN-35-f8cdab-c47329",
         "code": "惠安县",
         "name": "Hui'an Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-35-f8cdab",
-        "id": "CN-35-f8cdab-ae2fa0",
         "code": "金门县",
         "name": "Jinmen Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-35-f8cdab",
-        "id": "CN-35-f8cdab-984ca7",
         "code": "晋江市",
         "name": "Jinjiang Shi",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-35-f8cdab",
-        "id": "CN-35-f8cdab-08ccd9",
         "code": "鲤城区",
         "name": "Licheng Qu",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-35-f8cdab",
-        "id": "CN-35-f8cdab-0730bf",
         "code": "洛江区",
         "name": "Luojiang Qu",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-35-f8cdab",
-        "id": "CN-35-f8cdab-a32e84",
         "code": "南安市",
         "name": "Nan'an Shi",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-35-f8cdab",
-        "id": "CN-35-f8cdab-6e595e",
         "code": "泉港区",
         "name": "Quangang Qu",
         "translations": {
@@ -133,7 +123,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-35-f8cdab",
-        "id": "CN-35-f8cdab-6ec571",
         "code": "石狮市",
         "name": "Shishi Shi",
         "translations": {
@@ -146,7 +135,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-35-f8cdab",
-        "id": "CN-35-f8cdab-9da9ee",
         "code": "永春县",
         "name": "Yongchun Xian",
         "translations": {

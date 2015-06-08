@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-5f3b11",
-        "id": "CN-41-5f3b11-4a9aeb",
         "code": "邓州市",
         "name": "Dengzhou Shi",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-5f3b11",
-        "id": "CN-41-5f3b11-9eda6a",
         "code": "方城县",
         "name": "Fangcheng Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-5f3b11",
-        "id": "CN-41-5f3b11-e0760b",
         "code": "南召县",
         "name": "Nanzhao Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-5f3b11",
-        "id": "CN-41-5f3b11-650f9f",
         "code": "内乡县",
         "name": "Neixiang Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-5f3b11",
-        "id": "CN-41-5f3b11-6ce379",
         "code": "社旗县",
         "name": "Sheqi Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-5f3b11",
-        "id": "CN-41-5f3b11-1c9bca",
         "code": "唐河县",
         "name": "Tanghe Xian",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-5f3b11",
-        "id": "CN-41-5f3b11-8f5484",
         "code": "桐柏县",
         "name": "Tongbai Xian",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-5f3b11",
-        "id": "CN-41-5f3b11-e3f7c3",
         "code": "宛城区",
         "name": "Wancheng Qu",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-5f3b11",
-        "id": "CN-41-5f3b11-470e98",
         "code": "卧龙区",
         "name": "Wolong Qu",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-5f3b11",
-        "id": "CN-41-5f3b11-985d7b",
         "code": "淅川县",
         "name": "Xichuan Xian",
         "translations": {
@@ -133,7 +123,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-5f3b11",
-        "id": "CN-41-5f3b11-025368",
         "code": "西峡县",
         "name": "Xixia Xian",
         "translations": {
@@ -146,7 +135,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-5f3b11",
-        "id": "CN-41-5f3b11-a264b9",
         "code": "新野县",
         "name": "Xinye Xian",
         "translations": {
@@ -159,7 +147,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-41-5f3b11",
-        "id": "CN-41-5f3b11-450f2c",
         "code": "镇平县",
         "name": "Zhenping Xian",
         "translations": {

@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-d4da7b",
-        "id": "CN-51-d4da7b-758560",
         "code": "古蔺县",
         "name": "Gulin Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-d4da7b",
-        "id": "CN-51-d4da7b-383a79",
         "code": "合江县",
         "name": "Hejiang Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-d4da7b",
-        "id": "CN-51-d4da7b-730a55",
         "code": "江阳区",
         "name": "Jiangyang Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-d4da7b",
-        "id": "CN-51-d4da7b-1a5ec8",
         "code": "龙马潭区",
         "name": "Longmatan Qu",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-d4da7b",
-        "id": "CN-51-d4da7b-42e732",
         "code": "泸县",
         "name": "Lu Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-d4da7b",
-        "id": "CN-51-d4da7b-c59b0e",
         "code": "纳溪区",
         "name": "Naxi Qu",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-d4da7b",
-        "id": "CN-51-d4da7b-15cc9d",
         "code": "叙永县",
         "name": "Xuyong Xian",
         "translations": {

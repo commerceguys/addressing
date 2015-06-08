@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65-7fd04f",
-        "id": "CN-65-7fd04f-337da2",
         "code": "白碱滩区",
         "name": "Baijiantan Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65-7fd04f",
-        "id": "CN-65-7fd04f-c38562",
         "code": "独山子区",
         "name": "Dushanzi Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65-7fd04f",
-        "id": "CN-65-7fd04f-cdbdfa",
         "code": "克拉玛依区",
         "name": "Karamay Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-65-7fd04f",
-        "id": "CN-65-7fd04f-853518",
         "code": "乌尔禾区",
         "name": "Orku Qu",
         "translations": {

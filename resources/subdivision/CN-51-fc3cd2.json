@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-fc3cd2",
-        "id": "CN-51-fc3cd2-10e775",
         "code": "安岳县",
         "name": "Anyue Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-fc3cd2",
-        "id": "CN-51-fc3cd2-cb5709",
         "code": "简阳市",
         "name": "Jianyang Shi",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-fc3cd2",
-        "id": "CN-51-fc3cd2-d0874e",
         "code": "乐至县",
         "name": "Lezhi Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-51-fc3cd2",
-        "id": "CN-51-fc3cd2-c06f94",
         "code": "雁江区",
         "name": "Yanjiang Qu",
         "translations": {

@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52-9ca5ff",
-        "id": "CN-52-9ca5ff-8668d4",
         "code": "安龙县",
         "name": "Anlong Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52-9ca5ff",
-        "id": "CN-52-9ca5ff-d2f9bc",
         "code": "册亨县",
         "name": "Ceheng Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52-9ca5ff",
-        "id": "CN-52-9ca5ff-e9a44e",
         "code": "普安县",
         "name": "Pu'an Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52-9ca5ff",
-        "id": "CN-52-9ca5ff-830d9d",
         "code": "晴隆县",
         "name": "Qinglong Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52-9ca5ff",
-        "id": "CN-52-9ca5ff-aa7f67",
         "code": "望谟县",
         "name": "Wangmo Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52-9ca5ff",
-        "id": "CN-52-9ca5ff-5c4a33",
         "code": "兴仁县",
         "name": "Xingren Xian",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52-9ca5ff",
-        "id": "CN-52-9ca5ff-f4d525",
         "code": "兴义市",
         "name": "Xingyi Shi",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52-9ca5ff",
-        "id": "CN-52-9ca5ff-fc6454",
         "code": "贞丰县",
         "name": "Zhenfeng Xian",
         "translations": {

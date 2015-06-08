@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-6fe6c3",
-        "id": "CN-15-6fe6c3-e439d9",
         "code": "霍林郭勒市",
         "name": "Holingol Shi",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-6fe6c3",
-        "id": "CN-15-6fe6c3-bf2537",
         "code": "开鲁县",
         "name": "Kailu Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-6fe6c3",
-        "id": "CN-15-6fe6c3-b44d2c",
         "code": "科尔沁区",
         "name": "Horqin Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-6fe6c3",
-        "id": "CN-15-6fe6c3-10fef9",
         "code": "科尔沁左翼后旗",
         "name": "Horqin Zuoyi Houqi",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-6fe6c3",
-        "id": "CN-15-6fe6c3-d6fe7c",
         "code": "科尔沁左翼中旗",
         "name": "Horqin Zuoyi Zhongqi",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-6fe6c3",
-        "id": "CN-15-6fe6c3-0a713b",
         "code": "库伦旗",
         "name": "Hure Qi",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-6fe6c3",
-        "id": "CN-15-6fe6c3-31b381",
         "code": "奈曼旗",
         "name": "Naiman Qi",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-15-6fe6c3",
-        "id": "CN-15-6fe6c3-006cc6",
         "code": "扎鲁特旗",
         "name": "Jarud Qi",
         "translations": {

@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33",
-        "id": "CN-33-16b3bd",
         "code": "杭州市",
         "name": "Hangzhou Shi",
         "translations": {
@@ -17,7 +16,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33",
-        "id": "CN-33-08b6e6",
         "code": "湖州市",
         "name": "Huzhou Shi",
         "translations": {
@@ -31,7 +29,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33",
-        "id": "CN-33-549f78",
         "code": "嘉兴市",
         "name": "Jiaxing Shi",
         "translations": {
@@ -45,7 +42,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33",
-        "id": "CN-33-87a368",
         "code": "金华市",
         "name": "Jinhua Shi",
         "translations": {
@@ -59,7 +55,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33",
-        "id": "CN-33-c96111",
         "code": "丽水市",
         "name": "Lishui Shi",
         "translations": {
@@ -73,7 +68,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33",
-        "id": "CN-33-fcfd02",
         "code": "宁波市",
         "name": "Ningbo Shi",
         "translations": {
@@ -87,7 +81,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33",
-        "id": "CN-33-6da6ea",
         "code": "衢州市",
         "name": "Quzhou Shi",
         "translations": {
@@ -101,7 +94,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33",
-        "id": "CN-33-6b5326",
         "code": "绍兴市",
         "name": "Shaoxing Shi",
         "translations": {
@@ -115,7 +107,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33",
-        "id": "CN-33-476c70",
         "code": "台州市",
         "name": "Taizhou Shi",
         "translations": {
@@ -129,7 +120,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33",
-        "id": "CN-33-5263e8",
         "code": "温州市",
         "name": "Wenzhou Shi",
         "translations": {
@@ -143,7 +133,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33",
-        "id": "CN-33-2e1984",
         "code": "舟山市",
         "name": "Zhoushan Shi",
         "translations": {

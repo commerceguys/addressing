@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-14-aa58fc",
-        "id": "CN-14-aa58fc-45aa1f",
         "code": "城区",
         "name": "Cheng Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-14-aa58fc",
-        "id": "CN-14-aa58fc-b90d3a",
         "code": "大同县",
         "name": "Datong Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-14-aa58fc",
-        "id": "CN-14-aa58fc-bd5f22",
         "code": "广灵县",
         "name": "Guangling Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-14-aa58fc",
-        "id": "CN-14-aa58fc-3c0303",
         "code": "浑源县",
         "name": "Hunyuan Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-14-aa58fc",
-        "id": "CN-14-aa58fc-6bed79",
         "code": "矿区",
         "name": "Kuang Qu",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-14-aa58fc",
-        "id": "CN-14-aa58fc-96552d",
         "code": "灵丘县",
         "name": "Lingqiu Xian",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-14-aa58fc",
-        "id": "CN-14-aa58fc-fc9ff9",
         "code": "南郊区",
         "name": "Nanjiao Qu",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-14-aa58fc",
-        "id": "CN-14-aa58fc-5a93de",
         "code": "天镇县",
         "name": "Tianzhen Xian",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-14-aa58fc",
-        "id": "CN-14-aa58fc-224eea",
         "code": "新荣区",
         "name": "Xinrong Qu",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-14-aa58fc",
-        "id": "CN-14-aa58fc-c7ee88",
         "code": "阳高县",
         "name": "Yanggao Xian",
         "translations": {
@@ -133,7 +123,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-14-aa58fc",
-        "id": "CN-14-aa58fc-c241e7",
         "code": "左云县",
         "name": "Zuoyun Xian",
         "translations": {

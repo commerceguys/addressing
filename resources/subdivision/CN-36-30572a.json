@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-30572a",
-        "id": "CN-36-30572a-7034ff",
         "code": "崇仁县",
         "name": "Chongren Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-30572a",
-        "id": "CN-36-30572a-78efbd",
         "code": "东乡县",
         "name": "Dongxiang Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-30572a",
-        "id": "CN-36-30572a-7309d3",
         "code": "广昌县",
         "name": "Guangchang Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-30572a",
-        "id": "CN-36-30572a-d03094",
         "code": "金溪县",
         "name": "Jinxi Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-30572a",
-        "id": "CN-36-30572a-520c90",
         "code": "乐安县",
         "name": "Le'an Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-30572a",
-        "id": "CN-36-30572a-ee9088",
         "code": "黎川县",
         "name": "Lichuan Xian",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-30572a",
-        "id": "CN-36-30572a-02d79c",
         "code": "临川区",
         "name": "Linchuan Qu",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-30572a",
-        "id": "CN-36-30572a-053d8a",
         "code": "南城县",
         "name": "Nancheng Xian",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-30572a",
-        "id": "CN-36-30572a-c0ad3a",
         "code": "南丰县",
         "name": "Nanfeng Xian",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-30572a",
-        "id": "CN-36-30572a-d58f53",
         "code": "宜黄县",
         "name": "Yihuang Xian",
         "translations": {
@@ -133,7 +123,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-30572a",
-        "id": "CN-36-30572a-5258ec",
         "code": "资溪县",
         "name": "Zixi Xian",
         "translations": {

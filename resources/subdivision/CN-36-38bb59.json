@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-38bb59",
-        "id": "CN-36-38bb59-1f264a",
         "code": "德安县",
         "name": "De'an Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-38bb59",
-        "id": "CN-36-38bb59-f3b9e5",
         "code": "都昌县",
         "name": "Duchang Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-38bb59",
-        "id": "CN-36-38bb59-3fb935",
         "code": "湖口县",
         "name": "Hukou Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-38bb59",
-        "id": "CN-36-38bb59-c1aaeb",
         "code": "九江县",
         "name": "Jiujiang Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-38bb59",
-        "id": "CN-36-38bb59-fec32a",
         "code": "庐山区",
         "name": "Lushan Qu",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-38bb59",
-        "id": "CN-36-38bb59-68697f",
         "code": "彭泽县",
         "name": "Pengze Xian",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-38bb59",
-        "id": "CN-36-38bb59-53a7e0",
         "code": "瑞昌市",
         "name": "Ruichang Shi",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-38bb59",
-        "id": "CN-36-38bb59-2a19a8",
         "code": "武宁县",
         "name": "Wuning Xian",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-38bb59",
-        "id": "CN-36-38bb59-c31cc5",
         "code": "星子县",
         "name": "Xingzi Xian",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-38bb59",
-        "id": "CN-36-38bb59-b2b10d",
         "code": "修水县",
         "name": "Xiushui Xian",
         "translations": {
@@ -133,7 +123,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-38bb59",
-        "id": "CN-36-38bb59-68ceb2",
         "code": "浔阳区",
         "name": "Xunyang Qu",
         "translations": {
@@ -146,7 +135,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-38bb59",
-        "id": "CN-36-38bb59-c7d062",
         "code": "永修县",
         "name": "Yongxiu Xian",
         "translations": {

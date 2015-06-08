@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-14-127f83",
-        "id": "CN-14-127f83-152dbd",
         "code": "安泽县",
         "name": "Anze Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-14-127f83",
-        "id": "CN-14-127f83-8133d9",
         "code": "大宁县",
         "name": "Daning Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-14-127f83",
-        "id": "CN-14-127f83-b93a88",
         "code": "汾西县",
         "name": "Fenxi Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-14-127f83",
-        "id": "CN-14-127f83-965fde",
         "code": "浮山县",
         "name": "Fushan Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-14-127f83",
-        "id": "CN-14-127f83-5d005e",
         "code": "古县",
         "name": "Gu Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-14-127f83",
-        "id": "CN-14-127f83-d72db5",
         "code": "洪洞县",
         "name": "Hongtong Xian",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-14-127f83",
-        "id": "CN-14-127f83-2cea62",
         "code": "侯马市",
         "name": "Houma Shi",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-14-127f83",
-        "id": "CN-14-127f83-eafd7f",
         "code": "霍州市",
         "name": "Huozhou Shi",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-14-127f83",
-        "id": "CN-14-127f83-f43378",
         "code": "吉县",
         "name": "Ji Xian",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-14-127f83",
-        "id": "CN-14-127f83-1405d0",
         "code": "蒲县",
         "name": "Pu Xian",
         "translations": {
@@ -133,7 +123,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-14-127f83",
-        "id": "CN-14-127f83-4bdb11",
         "code": "曲沃县",
         "name": "Quwo Xian",
         "translations": {
@@ -146,7 +135,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-14-127f83",
-        "id": "CN-14-127f83-4e99db",
         "code": "隰县",
         "name": "Xi Xian",
         "translations": {
@@ -159,7 +147,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-14-127f83",
-        "id": "CN-14-127f83-712a9b",
         "code": "乡宁县",
         "name": "Xiangning Xian",
         "translations": {
@@ -172,7 +159,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-14-127f83",
-        "id": "CN-14-127f83-e78fab",
         "code": "襄汾县",
         "name": "Xiangfen Xian",
         "translations": {
@@ -185,7 +171,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-14-127f83",
-        "id": "CN-14-127f83-6439fd",
         "code": "尧都区",
         "name": "Yaodu Qu",
         "translations": {
@@ -198,7 +183,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-14-127f83",
-        "id": "CN-14-127f83-93a36d",
         "code": "翼城县",
         "name": "Yicheng Xian",
         "translations": {
@@ -211,7 +195,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-14-127f83",
-        "id": "CN-14-127f83-e232f5",
         "code": "永和县",
         "name": "Yonghe Xian",
         "translations": {

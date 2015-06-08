@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-4650f7",
-        "id": "CN-36-4650f7-5f7e04",
         "code": "安源区",
         "name": "Anyuan Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-4650f7",
-        "id": "CN-36-4650f7-68def2",
         "code": "莲花县",
         "name": "Lianhua Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-4650f7",
-        "id": "CN-36-4650f7-04846a",
         "code": "芦溪县",
         "name": "Luxi Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-4650f7",
-        "id": "CN-36-4650f7-4b37c4",
         "code": "上栗县",
         "name": "Shangli Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-36-4650f7",
-        "id": "CN-36-4650f7-8633fd",
         "code": "湘东区",
         "name": "Xiangdong Qu",
         "translations": {

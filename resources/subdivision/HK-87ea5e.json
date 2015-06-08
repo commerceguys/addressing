@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-9f514f",
         "code": "九肚山",
         "name": "Kau To Shan",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-8786fd",
         "code": "上水",
         "name": "Sheung Shui",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-c9a7b4",
         "code": "大埔",
         "name": "Tai Po",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-df35a0",
         "code": "大埔汀角",
         "name": "Ting Kok Tai Po",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-d04a20",
         "code": "大埔林村",
         "name": "Lam Tsuen Tai Po",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-0607c7",
         "code": "大埔船灣",
         "name": "Shuen Wan Tai Po",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-ae170e",
         "code": "大埔滘",
         "name": "Tai Po Kau",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-7515f4",
         "code": "大嶼山",
         "name": "Lantau Island",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-e86cdf",
         "code": "大嶼山大澳",
         "name": "Tai O Lantau Island",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-4e6be5",
         "code": "大嶼山石壁",
         "name": "Shek Pik Lantau Island",
         "translations": {
@@ -133,7 +123,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-91c2ae",
         "code": "大嶼山赤鱲角",
         "name": "Chek Lap Kok Lantau Island",
         "translations": {
@@ -146,7 +135,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-1d1781",
         "code": "大嶼山昂坪",
         "name": "Ngong Ping Lantau Island",
         "translations": {
@@ -159,7 +147,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-9f2307",
         "code": "大嶼山東涌",
         "name": "Tung Chung Lantau Island",
         "translations": {
@@ -172,7 +159,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-e93706",
         "code": "大嶼山芝麻灣",
         "name": "Chi Ma Wan Lantau Island",
         "translations": {
@@ -185,7 +171,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-2a0505",
         "code": "大嶼山長沙",
         "name": "Cheung Sha Lantau Island",
         "translations": {
@@ -198,7 +183,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-ae4c81",
         "code": "大嶼山梅窩",
         "name": "Mui Wo Lantau Island",
         "translations": {
@@ -211,7 +195,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-036a85",
         "code": "大嶼山愉景灣",
         "name": "Discovery Bay Lantau Island",
         "translations": {
@@ -224,7 +207,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-eb0487",
         "code": "大嶼山塘福",
         "name": "Tong Fuk Lantau Island",
         "translations": {
@@ -237,7 +219,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-9fc0f9",
         "code": "大欖",
         "name": "Tai Lam",
         "translations": {
@@ -250,7 +231,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-15a0f1",
         "code": "元朗",
         "name": "Yuen Long",
         "translations": {
@@ -263,7 +243,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-6da4f7",
         "code": "元朗八鄉",
         "name": "Pat Heung Yuen Long",
         "translations": {
@@ -276,7 +255,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-307f75",
         "code": "元朗大棠",
         "name": "Tai Tong Yuen Long",
         "translations": {
@@ -289,7 +267,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-25c0ce",
         "code": "元朗石崗",
         "name": "Shek Kong Yuen Long",
         "translations": {
@@ -302,7 +279,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-e7933a",
         "code": "元朗屏山",
         "name": "Ping Shan Yuen Long",
         "translations": {
@@ -315,7 +291,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-dc1b10",
         "code": "元朗廈村",
         "name": "Ha Tsuen Yuen Long",
         "translations": {
@@ -328,7 +303,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-dda3c5",
         "code": "元朗新田",
         "name": "San Tin Yuen Long",
         "translations": {
@@ -341,7 +315,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-ad4009",
         "code": "元朗潭尾",
         "name": "Tam Mei Yuen Long",
         "translations": {
@@ -354,7 +327,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-482e17",
         "code": "元朗錦田",
         "name": "Kam Tin Yuen Long",
         "translations": {
@@ -367,7 +339,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-b6004e",
         "code": "天水圍",
         "name": "Tin Shui Wai",
         "translations": {
@@ -380,7 +351,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-744d08",
         "code": "太和",
         "name": "Tai Wo",
         "translations": {
@@ -393,7 +363,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-430415",
         "code": "屯門",
         "name": "Tuen Mun",
         "translations": {
@@ -406,7 +375,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-e8c977",
         "code": "屯門小欖",
         "name": "Siu Lam Tuen Mun",
         "translations": {
@@ -419,7 +387,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-b45c7e",
         "code": "屯門虎地",
         "name": "Fu Tei Tuen Mun",
         "translations": {
@@ -432,7 +399,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-04d7f2",
         "code": "屯門新墟",
         "name": "San Hui Tuen Mun",
         "translations": {
@@ -445,7 +411,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-1381aa",
         "code": "屯門藍地",
         "name": "Lam Tei Tuen Mun",
         "translations": {
@@ -458,7 +423,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-507b9e",
         "code": "古洞",
         "name": "Kwu Tung",
         "translations": {
@@ -471,7 +435,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-497e97",
         "code": "打鼓嶺",
         "name": "Ta Kwu Ling",
         "translations": {
@@ -484,7 +447,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-bc6493",
         "code": "汀九",
         "name": "Ting Kau",
         "translations": {
@@ -497,7 +459,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-080f6c",
         "code": "西貢",
         "name": "Sai Kung",
         "translations": {
@@ -510,7 +471,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-335fb7",
         "code": "西貢坑口",
         "name": "Hang Hau Sai Kung",
         "translations": {
@@ -523,7 +483,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-71e7c1",
         "code": "沙田",
         "name": "Sha Tin",
         "translations": {
@@ -536,7 +495,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-310292",
         "code": "沙田大圍",
         "name": "Tai Wai Sha Tin",
         "translations": {
@@ -549,7 +507,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-720312",
         "code": "沙田小瀝源",
         "name": "Siu Lek Yuen Sha Tin",
         "translations": {
@@ -562,7 +519,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-b9b602",
         "code": "沙田火炭",
         "name": "Fo Tan Sha Tin",
         "translations": {
@@ -575,7 +531,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-8f67fb",
         "code": "沙頭角",
         "name": "Sha Tau Kok",
         "translations": {
@@ -588,7 +543,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-0bfd6b",
         "code": "坪洲",
         "name": "Peng Chau",
         "translations": {
@@ -601,7 +555,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-ec9c4f",
         "code": "坪輋",
         "name": "Ping Che",
         "translations": {
@@ -614,7 +567,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-316940",
         "code": "長洲",
         "name": "Cheung Chau",
         "translations": {
@@ -627,7 +579,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-c2613a",
         "code": "青衣",
         "name": "Tsing Yi",
         "translations": {
@@ -640,7 +591,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-e780bf",
         "code": "南丫島",
         "name": "Lamma Island",
         "translations": {
@@ -653,7 +603,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-eb8157",
         "code": "洪水橋",
         "name": "Hung Shui Kiu",
         "translations": {
@@ -666,7 +615,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-b8467a",
         "code": "流浮山",
         "name": "Lau Fau Shan",
         "translations": {
@@ -679,7 +627,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-3d73dc",
         "code": "粉嶺",
         "name": "Fanling",
         "translations": {
@@ -692,7 +639,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-9b462f",
         "code": "粉嶺軍地",
         "name": "Kwan Tei Fanling",
         "translations": {
@@ -705,7 +651,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-e2c02b",
         "code": "荃灣",
         "name": "Tsuen Wan",
         "translations": {
@@ -718,7 +663,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-895d39",
         "code": "荃灣老圍",
         "name": "Lo Wai Tsuen Wan",
         "translations": {
@@ -731,7 +675,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-e9cc45",
         "code": "馬料水",
         "name": "Ma Liu Shui",
         "translations": {
@@ -744,7 +687,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-909e34",
         "code": "馬鞍山",
         "name": "Ma On Shan",
         "translations": {
@@ -757,7 +699,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-70d1e8",
         "code": "馬灣",
         "name": "Ma Wan",
         "translations": {
@@ -770,7 +711,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-9b9f16",
         "code": "將軍澳",
         "name": "Tseung Kwan O",
         "translations": {
@@ -783,7 +723,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-6d2c7e",
         "code": "掃管笏",
         "name": "So Kwun Wat",
         "translations": {
@@ -796,7 +735,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-a7ae1a",
         "code": "深井",
         "name": "Sham Tseng",
         "translations": {
@@ -809,7 +747,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-507cef",
         "code": "清水灣",
         "name": "Clear Water Bay",
         "translations": {
@@ -822,7 +759,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-449e7a",
         "code": "喜靈洲",
         "name": "Hei Ling Chau",
         "translations": {
@@ -835,7 +771,6 @@
         "locale": "zh-Latn",
         "country_code": "HK",
         "parent_id": "HK-87ea5e",
-        "id": "HK-87ea5e-2d045f",
         "code": "葵涌",
         "name": "Kwai Chung",
         "translations": {

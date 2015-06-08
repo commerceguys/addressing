@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44-6d0908",
-        "id": "CN-44-6d0908-d42b3e",
         "code": "白云区",
         "name": "Baiyun Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44-6d0908",
-        "id": "CN-44-6d0908-aa4c83",
         "code": "从化区",
         "name": "Conghua Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44-6d0908",
-        "id": "CN-44-6d0908-694f66",
         "code": "番禺区",
         "name": "Panyu Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44-6d0908",
-        "id": "CN-44-6d0908-742adf",
         "code": "海珠区",
         "name": "Haizhu Qu",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44-6d0908",
-        "id": "CN-44-6d0908-922ea6",
         "code": "花都区",
         "name": "Huadu Qu",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44-6d0908",
-        "id": "CN-44-6d0908-737d80",
         "code": "黄埔区",
         "name": "Huangpu Qu",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44-6d0908",
-        "id": "CN-44-6d0908-e5e8f0",
         "code": "荔湾区",
         "name": "Liwan Qu",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44-6d0908",
-        "id": "CN-44-6d0908-fbe8ff",
         "code": "南沙区",
         "name": "Nansha Qu",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44-6d0908",
-        "id": "CN-44-6d0908-69daac",
         "code": "天河区",
         "name": "Tianhe Qu",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44-6d0908",
-        "id": "CN-44-6d0908-6de237",
         "code": "越秀区",
         "name": "Yuexiu Qu",
         "translations": {
@@ -133,7 +123,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44-6d0908",
-        "id": "CN-44-6d0908-eb1a19",
         "code": "增城区",
         "name": "Zengcheng Qu",
         "translations": {

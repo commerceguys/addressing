@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44-3c888c",
-        "id": "CN-44-3c888c-bc45bd",
         "code": "江城区",
         "name": "Jiangcheng Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44-3c888c",
-        "id": "CN-44-3c888c-2ec02d",
         "code": "阳春市",
         "name": "Yangchun Shi",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44-3c888c",
-        "id": "CN-44-3c888c-074748",
         "code": "阳东县",
         "name": "Yangdong Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-44-3c888c",
-        "id": "CN-44-3c888c-e4c47c",
         "code": "阳西县",
         "name": "Yangxi Xian",
         "translations": {

@@ -81,7 +81,7 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
         }
         $definition = $this->translateDefinition($definitions[$id], $locale);
 
-        return $this->createSubdivisionFromDefinition($definition);
+        return $this->createSubdivisionFromDefinition($id, $definition);
     }
 
     /**
@@ -93,7 +93,7 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
         $subdivisions = [];
         foreach ($definitions as $id => $definition) {
             $definition = $this->translateDefinition($definition, $locale);
-            $subdivisions[$id] = $this->createSubdivisionFromDefinition($definition);
+            $subdivisions[$id] = $this->createSubdivisionFromDefinition($id, $definition);
         }
 
         return $subdivisions;
@@ -156,12 +156,16 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
     /**
      * Creates a subdivision object from the provided definition.
      *
+     * @param int   $id         The subdivision id.
      * @param array $definition The subdivision definition.
      *
      * @return Subdivision
      */
-    protected function createSubdivisionFromDefinition(array $definition)
+    protected function createSubdivisionFromDefinition($id, array $definition)
     {
+        if (!isset($definition['code'])) {
+            $definition['code'] = $definition['name'];
+        }
         $definition['parent'] = null;
         if (isset($definition['parent_id'])) {
             $parentId = $definition['parent_id'];
@@ -174,10 +178,10 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
         $subdivision = new Subdivision();
         // Bind the closure to the Subdivision object, giving it access to its
         // protected properties. Faster than both setters and reflection.
-        $setValues = \Closure::bind(function ($definition) {
+        $setValues = \Closure::bind(function ($id, $definition) {
             $this->parent = $definition['parent'];
             $this->countryCode = $definition['country_code'];
-            $this->id = $definition['id'];
+            $this->id = $id;
             $this->code = $definition['code'];
             $this->name = $definition['name'];
             $this->locale = $definition['locale'];
@@ -190,10 +194,10 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
                 }
             }
         }, $subdivision, '\CommerceGuys\Addressing\Model\Subdivision');
-        $setValues($definition);
+        $setValues($id, $definition);
 
         if (!empty($definition['has_children'])) {
-            $children = new LazySubdivisionCollection($definition['country_code'], $definition['id'], $definition['locale']);
+            $children = new LazySubdivisionCollection($definition['country_code'], $id, $definition['locale']);
             $children->setRepository($this);
             $subdivision->setChildren($children);
         }

@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-b315f8",
-        "id": "CN-37-b315f8-60bc32",
         "code": "苍山县",
         "name": "Cangshan Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-b315f8",
-        "id": "CN-37-b315f8-827532",
         "code": "费县",
         "name": "Fei Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-b315f8",
-        "id": "CN-37-b315f8-485dc8",
         "code": "河东区",
         "name": "Hedong Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-b315f8",
-        "id": "CN-37-b315f8-4110b8",
         "code": "莒南县",
         "name": "Junan Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-b315f8",
-        "id": "CN-37-b315f8-67433e",
         "code": "兰山区",
         "name": "Lanshan Qu",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-b315f8",
-        "id": "CN-37-b315f8-6a0a39",
         "code": "临沭县",
         "name": "Linshu Xian",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-b315f8",
-        "id": "CN-37-b315f8-546e29",
         "code": "罗庄区",
         "name": "Luozhuang Qu",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-b315f8",
-        "id": "CN-37-b315f8-2f276d",
         "code": "蒙阴县",
         "name": "Mengyin Xian",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-b315f8",
-        "id": "CN-37-b315f8-38ad21",
         "code": "平邑县",
         "name": "Pingyi Xian",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-b315f8",
-        "id": "CN-37-b315f8-5a1142",
         "code": "郯城县",
         "name": "Tancheng Xian",
         "translations": {
@@ -133,7 +123,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-b315f8",
-        "id": "CN-37-b315f8-34ad00",
         "code": "沂南县",
         "name": "Yinan Xian",
         "translations": {
@@ -146,7 +135,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-b315f8",
-        "id": "CN-37-b315f8-ef32ef",
         "code": "沂水县",
         "name": "Yishui Xian",
         "translations": {

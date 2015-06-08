@@ -3,7 +3,6 @@
         "locale": "ca",
         "country_code": "AD",
         "parent_id": null,
-        "id": "AD-07",
         "code": "Parròquia d'Andorra la Vella",
         "name": "Andorra la Vella",
         "postal_code_pattern": "AD50[01]"
@@ -12,8 +11,6 @@
         "locale": "ca",
         "country_code": "AD",
         "parent_id": null,
-        "id": "AD-02",
-        "code": "Canillo",
         "name": "Canillo",
         "postal_code_pattern": "AD10[01]"
     },
@@ -21,8 +18,6 @@
         "locale": "ca",
         "country_code": "AD",
         "parent_id": null,
-        "id": "AD-03",
-        "code": "Encamp",
         "name": "Encamp",
         "postal_code_pattern": "AD20[01]"
     },
@@ -30,8 +25,6 @@
         "locale": "ca",
         "country_code": "AD",
         "parent_id": null,
-        "id": "AD-08",
-        "code": "Escaldes-Engordany",
         "name": "Escaldes-Engordany",
         "postal_code_pattern": "AD70[01]"
     },
@@ -39,8 +32,6 @@
         "locale": "ca",
         "country_code": "AD",
         "parent_id": null,
-        "id": "AD-04",
-        "code": "La Massana",
         "name": "La Massana",
         "postal_code_pattern": "AD40[01]"
     },
@@ -48,8 +39,6 @@
         "locale": "ca",
         "country_code": "AD",
         "parent_id": null,
-        "id": "AD-05",
-        "code": "Ordino",
         "name": "Ordino",
         "postal_code_pattern": "AD30[01]"
     },
@@ -57,8 +46,6 @@
         "locale": "ca",
         "country_code": "AD",
         "parent_id": null,
-        "id": "AD-06",
-        "code": "Sant Julià de Lòria",
         "name": "Sant Julià de Lòria",
         "postal_code_pattern": "AD60[01]"
     }

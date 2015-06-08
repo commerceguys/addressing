@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33-16b3bd",
-        "id": "CN-33-16b3bd-fc2b49",
         "code": "滨江区",
         "name": "Binjiang Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33-16b3bd",
-        "id": "CN-33-16b3bd-332bba",
         "code": "淳安县",
         "name": "Chun'an Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33-16b3bd",
-        "id": "CN-33-16b3bd-8bca7f",
         "code": "富阳市",
         "name": "Fuyang Shi",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33-16b3bd",
-        "id": "CN-33-16b3bd-724712",
         "code": "拱墅区",
         "name": "Gongshu Qu",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33-16b3bd",
-        "id": "CN-33-16b3bd-bda92a",
         "code": "建德市",
         "name": "Jiande Shi",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33-16b3bd",
-        "id": "CN-33-16b3bd-619934",
         "code": "江干区",
         "name": "Jianggan Qu",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33-16b3bd",
-        "id": "CN-33-16b3bd-38ed71",
         "code": "临安市",
         "name": "Lin'an Shi",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33-16b3bd",
-        "id": "CN-33-16b3bd-77cbaf",
         "code": "上城区",
         "name": "Shangcheng Qu",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33-16b3bd",
-        "id": "CN-33-16b3bd-b65098",
         "code": "桐庐县",
         "name": "Tonglu Xian",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33-16b3bd",
-        "id": "CN-33-16b3bd-30dffd",
         "code": "西湖区",
         "name": "Xihu Qu",
         "translations": {
@@ -133,7 +123,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33-16b3bd",
-        "id": "CN-33-16b3bd-7b3915",
         "code": "下城区",
         "name": "Xiacheng Qu",
         "translations": {
@@ -146,7 +135,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33-16b3bd",
-        "id": "CN-33-16b3bd-057f89",
         "code": "萧山区",
         "name": "Xiaoshan Qu",
         "translations": {
@@ -159,7 +147,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-33-16b3bd",
-        "id": "CN-33-16b3bd-9f6d44",
         "code": "余杭区",
         "name": "Yuhang Qu",
         "translations": {

@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52-b4ee0d",
-        "id": "CN-52-b4ee0d-58271a",
         "code": "岑巩县",
         "name": "Cengong Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52-b4ee0d",
-        "id": "CN-52-b4ee0d-ffa8ac",
         "code": "从江县",
         "name": "Congjiang Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52-b4ee0d",
-        "id": "CN-52-b4ee0d-a2c5d9",
         "code": "丹寨县",
         "name": "Danzhai Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52-b4ee0d",
-        "id": "CN-52-b4ee0d-bab93f",
         "code": "黄平县",
         "name": "Huangping Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52-b4ee0d",
-        "id": "CN-52-b4ee0d-449045",
         "code": "剑河县",
         "name": "Jianhe Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52-b4ee0d",
-        "id": "CN-52-b4ee0d-f55a9c",
         "code": "锦屏县",
         "name": "Jinping Xian",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52-b4ee0d",
-        "id": "CN-52-b4ee0d-4d200b",
         "code": "凯里市",
         "name": "Kaili Shi",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52-b4ee0d",
-        "id": "CN-52-b4ee0d-8c4f0c",
         "code": "雷山县",
         "name": "Leishan Xian",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52-b4ee0d",
-        "id": "CN-52-b4ee0d-5a95a3",
         "code": "黎平县",
         "name": "Liping Xian",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52-b4ee0d",
-        "id": "CN-52-b4ee0d-0ae3f4",
         "code": "麻江县",
         "name": "Majiang Xian",
         "translations": {
@@ -133,7 +123,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52-b4ee0d",
-        "id": "CN-52-b4ee0d-beae97",
         "code": "榕江县",
         "name": "Rongjiang Xian",
         "translations": {
@@ -146,7 +135,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52-b4ee0d",
-        "id": "CN-52-b4ee0d-e3b0ef",
         "code": "三穗县",
         "name": "Sansui Xian",
         "translations": {
@@ -159,7 +147,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52-b4ee0d",
-        "id": "CN-52-b4ee0d-9aeb32",
         "code": "施秉县",
         "name": "Shibing Xian",
         "translations": {
@@ -172,7 +159,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52-b4ee0d",
-        "id": "CN-52-b4ee0d-af6671",
         "code": "台江县",
         "name": "Taijiang Xian",
         "translations": {
@@ -185,7 +171,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52-b4ee0d",
-        "id": "CN-52-b4ee0d-211f5d",
         "code": "天柱县",
         "name": "Tianzhu Xian",
         "translations": {
@@ -198,7 +183,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-52-b4ee0d",
-        "id": "CN-52-b4ee0d-69ffac",
         "code": "镇远县",
         "name": "Zhenyuan Xian",
         "translations": {

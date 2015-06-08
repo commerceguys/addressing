@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-27481f",
-        "id": "CN-37-27481f-2134dd",
         "code": "滨城区",
         "name": "Bincheng Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-27481f",
-        "id": "CN-37-27481f-359827",
         "code": "博兴县",
         "name": "Boxing Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-27481f",
-        "id": "CN-37-27481f-a307ac",
         "code": "惠民县",
         "name": "Huimin Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-27481f",
-        "id": "CN-37-27481f-e48cd5",
         "code": "无棣县",
         "name": "Wudi Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-27481f",
-        "id": "CN-37-27481f-ff1a69",
         "code": "阳信县",
         "name": "Yangxin Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-27481f",
-        "id": "CN-37-27481f-3bb7a3",
         "code": "沾化县",
         "name": "Zhanhua Xian",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-27481f",
-        "id": "CN-37-27481f-b07c7f",
         "code": "邹平县",
         "name": "Zouping Xian",
         "translations": {

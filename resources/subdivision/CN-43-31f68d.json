@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-31f68d",
-        "id": "CN-43-31f68d-429620",
         "code": "辰溪县",
         "name": "Chenxi Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-31f68d",
-        "id": "CN-43-31f68d-722265",
         "code": "鹤城区",
         "name": "Hecheng Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-31f68d",
-        "id": "CN-43-31f68d-1d7d7a",
         "code": "洪江市",
         "name": "Hongjiang Shi",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-31f68d",
-        "id": "CN-43-31f68d-e75067",
         "code": "会同县",
         "name": "Huitong Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-31f68d",
-        "id": "CN-43-31f68d-6768c6",
         "code": "靖州苗族侗族自治县",
         "name": "Jingzhou Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-31f68d",
-        "id": "CN-43-31f68d-5300f4",
         "code": "麻阳苗族自治县",
         "name": "Mayang Xian",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-31f68d",
-        "id": "CN-43-31f68d-831c45",
         "code": "通道侗族自治县",
         "name": "Tongdao Xian",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-31f68d",
-        "id": "CN-43-31f68d-a6d205",
         "code": "新晃侗族自治县",
         "name": "Xinhuang Xian",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-31f68d",
-        "id": "CN-43-31f68d-d54427",
         "code": "溆浦县",
         "name": "Xupu Xian",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-31f68d",
-        "id": "CN-43-31f68d-69c8e0",
         "code": "沅陵县",
         "name": "Yuanling Xian",
         "translations": {
@@ -133,7 +123,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-31f68d",
-        "id": "CN-43-31f68d-ffd188",
         "code": "芷江侗族自治县",
         "name": "Zhijiang Xian",
         "translations": {
@@ -146,7 +135,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-43-31f68d",
-        "id": "CN-43-31f68d-79fe72",
         "code": "中方县",
         "name": "Zhongfang Xian",
         "translations": {

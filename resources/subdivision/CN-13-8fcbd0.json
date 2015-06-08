@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-8fcbd0",
-        "id": "CN-13-8fcbd0-19a42a",
         "code": "赤城县",
         "name": "Chicheng Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-8fcbd0",
-        "id": "CN-13-8fcbd0-372177",
         "code": "崇礼县",
         "name": "Chongli Xian",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-8fcbd0",
-        "id": "CN-13-8fcbd0-e6b1f2",
         "code": "沽源县",
         "name": "Guyuan Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-8fcbd0",
-        "id": "CN-13-8fcbd0-aba3a4",
         "code": "怀安县",
         "name": "Huai'an Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-8fcbd0",
-        "id": "CN-13-8fcbd0-26a256",
         "code": "怀来县",
         "name": "Huailai Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-8fcbd0",
-        "id": "CN-13-8fcbd0-28f75b",
         "code": "康保县",
         "name": "Kangbao Xian",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-8fcbd0",
-        "id": "CN-13-8fcbd0-1deb38",
         "code": "桥东区",
         "name": "Qiaodong Qu",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-8fcbd0",
-        "id": "CN-13-8fcbd0-fba8a0",
         "code": "桥西区",
         "name": "Qiaoxi Qu",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-8fcbd0",
-        "id": "CN-13-8fcbd0-0da64a",
         "code": "尚义县",
         "name": "Shangyi Xian",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-8fcbd0",
-        "id": "CN-13-8fcbd0-b39ab3",
         "code": "万全县",
         "name": "Wanquan Xian",
         "translations": {
@@ -133,7 +123,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-8fcbd0",
-        "id": "CN-13-8fcbd0-0e6917",
         "code": "蔚县",
         "name": "Yu Xian",
         "translations": {
@@ -146,7 +135,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-8fcbd0",
-        "id": "CN-13-8fcbd0-47f781",
         "code": "下花园区",
         "name": "Xiahuayuan Qu",
         "translations": {
@@ -159,7 +147,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-8fcbd0",
-        "id": "CN-13-8fcbd0-db9f4c",
         "code": "宣化区",
         "name": "Xuanhua Qu",
         "translations": {
@@ -172,7 +159,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-8fcbd0",
-        "id": "CN-13-8fcbd0-bc1e93",
         "code": "宣化县",
         "name": "Xuanhua Xian",
         "translations": {
@@ -185,7 +171,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-8fcbd0",
-        "id": "CN-13-8fcbd0-6bc23c",
         "code": "阳原县",
         "name": "Yangyuan Xian",
         "translations": {
@@ -198,7 +183,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-8fcbd0",
-        "id": "CN-13-8fcbd0-deade6",
         "code": "张北县",
         "name": "Zhangbei Xian",
         "translations": {
@@ -211,7 +195,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-13-8fcbd0",
-        "id": "CN-13-8fcbd0-c6cefe",
         "code": "涿鹿县",
         "name": "Zhuolu Xian",
         "translations": {

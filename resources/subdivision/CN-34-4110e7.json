@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-4110e7",
-        "id": "CN-34-4110e7-6b42b4",
         "code": "枞阳县",
         "name": "Zongyang Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-4110e7",
-        "id": "CN-34-4110e7-ab1764",
         "code": "大观区",
         "name": "Daguan Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-4110e7",
-        "id": "CN-34-4110e7-5821f9",
         "code": "怀宁县",
         "name": "Huaining Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-4110e7",
-        "id": "CN-34-4110e7-50881b",
         "code": "潜山县",
         "name": "Qianshan Xian",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-4110e7",
-        "id": "CN-34-4110e7-b83dda",
         "code": "宿松县",
         "name": "Susong Xian",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-4110e7",
-        "id": "CN-34-4110e7-212942",
         "code": "太湖县",
         "name": "Taihu Xian",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-4110e7",
-        "id": "CN-34-4110e7-1bc023",
         "code": "桐城市",
         "name": "Tongcheng Shi",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-4110e7",
-        "id": "CN-34-4110e7-2a5419",
         "code": "望江县",
         "name": "Wangjiang Xian",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-4110e7",
-        "id": "CN-34-4110e7-2c3d3a",
         "code": "宜秀区",
         "name": "Yixiu Qu",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-4110e7",
-        "id": "CN-34-4110e7-f87a52",
         "code": "迎江区",
         "name": "Yingjiang Qu",
         "translations": {
@@ -133,7 +123,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-34-4110e7",
-        "id": "CN-34-4110e7-0098f4",
         "code": "岳西县",
         "name": "Yuexi Xian",
         "translations": {

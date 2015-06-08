@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-843d99",
-        "id": "CN-37-843d99-368293",
         "code": "福山区",
         "name": "Fushan Qu",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-843d99",
-        "id": "CN-37-843d99-6a621a",
         "code": "海阳市",
         "name": "Haiyang Shi",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-843d99",
-        "id": "CN-37-843d99-1c33fe",
         "code": "莱山区",
         "name": "Laishan Qu",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-843d99",
-        "id": "CN-37-843d99-48941f",
         "code": "莱阳市",
         "name": "Laiyang Shi",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-843d99",
-        "id": "CN-37-843d99-cbb79d",
         "code": "莱州市",
         "name": "Laizhou Shi",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-843d99",
-        "id": "CN-37-843d99-cec199",
         "code": "龙口市",
         "name": "Longkou Shi",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-843d99",
-        "id": "CN-37-843d99-d6f619",
         "code": "牟平区",
         "name": "Muping Qu",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-843d99",
-        "id": "CN-37-843d99-05af7a",
         "code": "蓬莱市",
         "name": "Penglai Shi",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-843d99",
-        "id": "CN-37-843d99-24a9ea",
         "code": "栖霞市",
         "name": "Qixia Shi",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-843d99",
-        "id": "CN-37-843d99-176e1a",
         "code": "长岛县",
         "name": "Changdao Xian",
         "translations": {
@@ -133,7 +123,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-843d99",
-        "id": "CN-37-843d99-3da8d7",
         "code": "招远市",
         "name": "Zhaoyuan Shi",
         "translations": {
@@ -146,7 +135,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-37-843d99",
-        "id": "CN-37-843d99-c4a619",
         "code": "芝罘区",
         "name": "Zhifu Qu",
         "translations": {

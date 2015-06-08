@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42-b8f92d",
-        "id": "CN-42-b8f92d-556d1c",
         "code": "当阳市",
         "name": "Dangyang Shi",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42-b8f92d",
-        "id": "CN-42-b8f92d-648a13",
         "code": "点军区",
         "name": "Dianjun Qu",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42-b8f92d",
-        "id": "CN-42-b8f92d-f275bd",
         "code": "五峰土家族自治县",
         "name": "Wufeng Xian",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42-b8f92d",
-        "id": "CN-42-b8f92d-12148e",
         "code": "伍家岗区",
         "name": "Wujiagang Qu",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42-b8f92d",
-        "id": "CN-42-b8f92d-c18505",
         "code": "西陵区",
         "name": "Xiling Qu",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42-b8f92d",
-        "id": "CN-42-b8f92d-8e8286",
         "code": "猇亭区",
         "name": "Xiaoting Qu",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42-b8f92d",
-        "id": "CN-42-b8f92d-e54835",
         "code": "兴山县",
         "name": "Xingshan Xian",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42-b8f92d",
-        "id": "CN-42-b8f92d-f5ace5",
         "code": "夷陵区",
         "name": "Yiling Qu",
         "translations": {
@@ -107,7 +99,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42-b8f92d",
-        "id": "CN-42-b8f92d-ff0c3a",
         "code": "宜都市",
         "name": "Yidu Shi",
         "translations": {
@@ -120,7 +111,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42-b8f92d",
-        "id": "CN-42-b8f92d-b7413c",
         "code": "远安县",
         "name": "Yuan'an Xian",
         "translations": {
@@ -133,7 +123,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42-b8f92d",
-        "id": "CN-42-b8f92d-f64b26",
         "code": "长阳土家族自治县",
         "name": "Changyang Xian",
         "translations": {
@@ -146,7 +135,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42-b8f92d",
-        "id": "CN-42-b8f92d-821eb7",
         "code": "枝江市",
         "name": "Zhijiang Shi",
         "translations": {
@@ -159,7 +147,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-42-b8f92d",
-        "id": "CN-42-b8f92d-0870bc",
         "code": "秭归县",
         "name": "Zigui Xian",
         "translations": {

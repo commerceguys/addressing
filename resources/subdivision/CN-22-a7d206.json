@@ -3,7 +3,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-22-a7d206",
-        "id": "CN-22-a7d206-2cac0e",
         "code": "安图县",
         "name": "Antu Xian",
         "translations": {
@@ -16,7 +15,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-22-a7d206",
-        "id": "CN-22-a7d206-92caaa",
         "code": "敦化市",
         "name": "Dunhua Shi",
         "translations": {
@@ -29,7 +27,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-22-a7d206",
-        "id": "CN-22-a7d206-11c0cb",
         "code": "和龙市",
         "name": "Helong Shi",
         "translations": {
@@ -42,7 +39,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-22-a7d206",
-        "id": "CN-22-a7d206-bdcc6c",
         "code": "珲春市",
         "name": "Hunchun Shi",
         "translations": {
@@ -55,7 +51,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-22-a7d206",
-        "id": "CN-22-a7d206-eea5c2",
         "code": "龙井市",
         "name": "Longjing Shi",
         "translations": {
@@ -68,7 +63,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-22-a7d206",
-        "id": "CN-22-a7d206-841627",
         "code": "图们市",
         "name": "Tumen Shi",
         "translations": {
@@ -81,7 +75,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-22-a7d206",
-        "id": "CN-22-a7d206-cc605a",
         "code": "汪清县",
         "name": "Wangqing Xian",
         "translations": {
@@ -94,7 +87,6 @@
         "locale": "zh-Latn",
         "country_code": "CN",
         "parent_id": "CN-22-a7d206",
-        "id": "CN-22-a7d206-4b0316",
         "code": "延吉市",
         "name": "Yanji Shi",
         "translations": {
