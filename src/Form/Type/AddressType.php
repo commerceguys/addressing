@@ -8,7 +8,7 @@ use CommerceGuys\Addressing\Repository\CountryRepositoryInterface;
 use CommerceGuys\Addressing\Repository\SubdivisionRepositoryInterface;
 use Symfony\Component\Form\AbstractType;
 use Symfony\Component\Form\FormBuilderInterface;
-use Symfony\Component\OptionsResolver\OptionsResolver;
+use Symfony\Component\OptionsResolver\OptionsResolver; 
 
 class AddressType extends AbstractType
 {
@@ -56,7 +56,7 @@ class AddressType extends AbstractType
         $builder->addEventSubscriber(new GenerateAddressFieldsSubscriber($this->addressFormatRepository, $this->subdivisionRepository));
     }
 
-    public function configureOptions(OptionsResolver $resolver)
+    public function configureOptions(OptionsResolver $resolver)  
     {
         $resolver->setDefaults(['data_class' => 'CommerceGuys\Addressing\Model\Address']);
     }
