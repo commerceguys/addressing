@@ -1,353 +1,277 @@
 {
-    "UA-1cfb62": {
-        "locale": "uk-Latn",
-        "country_code": "UA",
-        "parent_id": null,
-        "code": "Автономна Республіка Крим",
-        "name": "Crimea",
-        "postal_code_pattern": "9[5-8]",
-        "translations": {
-            "uk": {
-                "name": "Автономна Республіка Крим"
-            }
-        }
-    },
-    "UA-7d79b7": {
-        "locale": "uk-Latn",
-        "country_code": "UA",
-        "parent_id": null,
-        "code": "Вінницька область",
-        "name": "Vinnyts'ka oblast",
-        "postal_code_pattern": "2[1-4]",
-        "translations": {
-            "uk": {
-                "name": "Вінницька область"
-            }
-        }
-    },
-    "UA-37f6dd": {
-        "locale": "uk-Latn",
-        "country_code": "UA",
-        "parent_id": null,
-        "code": "Волинська область",
-        "name": "Volyns'ka oblast",
-        "postal_code_pattern": "4[3-5]",
-        "translations": {
-            "uk": {
-                "name": "Волинська область"
-            }
-        }
-    },
-    "UA-0bab38": {
-        "locale": "uk-Latn",
-        "country_code": "UA",
-        "parent_id": null,
-        "code": "Дніпропетровська область",
-        "name": "Dnipropetrovsk Oblast",
-        "postal_code_pattern": "49|5[0-3]",
-        "translations": {
-            "uk": {
-                "name": "Дніпропетровська область"
-            }
-        }
-    },
-    "UA-8b2af4": {
-        "locale": "uk-Latn",
-        "country_code": "UA",
-        "parent_id": null,
-        "code": "Донецька область",
-        "name": "Donetsk Oblast",
-        "postal_code_pattern": "8[3-7]",
-        "translations": {
-            "uk": {
-                "name": "Донецька область"
-            }
-        }
-    },
-    "UA-836aef": {
-        "locale": "uk-Latn",
-        "country_code": "UA",
-        "parent_id": null,
-        "code": "Житомирська область",
-        "name": "Zhytomyrs'ka oblast",
-        "postal_code_pattern": "1[0-3]",
-        "translations": {
-            "uk": {
-                "name": "Житомирська область"
-            }
-        }
-    },
-    "UA-60eada": {
-        "locale": "uk-Latn",
-        "country_code": "UA",
-        "parent_id": null,
-        "code": "Закарпатська область",
-        "name": "Zakarpats'ka oblast",
-        "postal_code_pattern": "8[89]|90",
-        "translations": {
-            "uk": {
-                "name": "Закарпатська область"
-            }
-        }
-    },
-    "UA-05dc7c": {
-        "locale": "uk-Latn",
-        "country_code": "UA",
-        "parent_id": null,
-        "code": "Запорізька область",
-        "name": "Zaporiz'ka oblast",
-        "postal_code_pattern": "69|7[0-2]",
-        "translations": {
-            "uk": {
-                "name": "Запорізька область"
-            }
-        }
-    },
-    "UA-501c01": {
-        "locale": "uk-Latn",
-        "country_code": "UA",
-        "parent_id": null,
-        "code": "Івано-Франківська область",
-        "name": "Ivano-Frankivs'ka oblast",
-        "postal_code_pattern": "7[6-8]",
-        "translations": {
-            "uk": {
-                "name": "Івано-Франківська область"
-            }
-        }
-    },
-    "UA-d4ff4f": {
-        "locale": "uk-Latn",
-        "country_code": "UA",
-        "parent_id": null,
-        "code": "місто Київ",
-        "name": "Kyiv city",
-        "postal_code_pattern": "0[1-6]",
-        "translations": {
-            "uk": {
-                "name": "Київ"
-            }
-        }
-    },
-    "UA-73f3f6": {
-        "locale": "uk-Latn",
-        "country_code": "UA",
-        "parent_id": null,
-        "code": "Київська область",
-        "name": "Kiev Oblast",
-        "postal_code_pattern": "0[7-9]",
-        "translations": {
-            "uk": {
-                "name": "Київська область"
-            }
-        }
-    },
-    "UA-37cf15": {
-        "locale": "uk-Latn",
-        "country_code": "UA",
-        "parent_id": null,
-        "code": "Кіровоградська область",
-        "name": "Kirovohrads'ka oblast",
-        "postal_code_pattern": "2[5-8]",
-        "translations": {
-            "uk": {
-                "name": "Кіровоградська область"
-            }
-        }
-    },
-    "UA-7d2e49": {
-        "locale": "uk-Latn",
-        "country_code": "UA",
-        "parent_id": null,
-        "code": "Луганська область",
-        "name": "Luhans'ka oblast",
-        "postal_code_pattern": "9[1-4]",
-        "translations": {
-            "uk": {
-                "name": "Луганська область"
-            }
-        }
-    },
-    "UA-f0c54f": {
-        "locale": "uk-Latn",
-        "country_code": "UA",
-        "parent_id": null,
-        "code": "Львівська область",
-        "name": "Lviv Oblast",
-        "postal_code_pattern": "79|8[0-2]",
-        "translations": {
-            "uk": {
-                "name": "Львівська область"
-            }
-        }
-    },
-    "UA-f70829": {
-        "locale": "uk-Latn",
-        "country_code": "UA",
-        "parent_id": null,
-        "code": "Миколаївська область",
-        "name": "Mykolaivs'ka oblast",
-        "postal_code_pattern": "5[4-7]",
-        "translations": {
-            "uk": {
-                "name": "Миколаївська область"
-            }
-        }
-    },
-    "UA-7e462e": {
-        "locale": "uk-Latn",
-        "country_code": "UA",
-        "parent_id": null,
-        "code": "Одеська область",
-        "name": "Odessa Oblast",
-        "postal_code_pattern": "6[5-8]",
-        "translations": {
-            "uk": {
-                "name": "Одеська область"
-            }
-        }
-    },
-    "UA-64566a": {
-        "locale": "uk-Latn",
-        "country_code": "UA",
-        "parent_id": null,
-        "code": "Полтавська область",
-        "name": "Poltavs'ka oblast",
-        "postal_code_pattern": "3[6-9]",
-        "translations": {
-            "uk": {
-                "name": "Полтавська область"
-            }
-        }
-    },
-    "UA-390dc3": {
-        "locale": "uk-Latn",
-        "country_code": "UA",
-        "parent_id": null,
-        "code": "Рівненська область",
-        "name": "Rivnens'ka oblast",
-        "postal_code_pattern": "3[3-5]",
-        "translations": {
-            "uk": {
-                "name": "Рівненська область"
-            }
-        }
-    },
-    "UA-d241cb": {
-        "locale": "uk-Latn",
-        "country_code": "UA",
-        "parent_id": null,
-        "code": "місто Севастополь",
-        "name": "Sevastopol' city",
-        "postal_code_pattern": "99",
-        "translations": {
-            "uk": {
-                "name": "Севастополь"
-            }
-        }
-    },
-    "UA-3283e1": {
-        "locale": "uk-Latn",
-        "country_code": "UA",
-        "parent_id": null,
-        "code": "Сумська область",
-        "name": "Sums'ka oblast",
-        "postal_code_pattern": "4[0-2]",
-        "translations": {
-            "uk": {
-                "name": "Сумська область"
-            }
-        }
-    },
-    "UA-5ff998": {
-        "locale": "uk-Latn",
-        "country_code": "UA",
-        "parent_id": null,
-        "code": "Тернопільська область",
-        "name": "Ternopil's'ka oblast",
-        "postal_code_pattern": "4[6-8]",
-        "translations": {
-            "uk": {
-                "name": "Тернопільська область"
-            }
-        }
-    },
-    "UA-a35df4": {
-        "locale": "uk-Latn",
-        "country_code": "UA",
-        "parent_id": null,
-        "code": "Харківська область",
-        "name": "Kharkiv Oblast",
-        "postal_code_pattern": "6[1-4]",
-        "translations": {
-            "uk": {
-                "name": "Харківська область"
-            }
-        }
-    },
-    "UA-355e6b": {
-        "locale": "uk-Latn",
-        "country_code": "UA",
-        "parent_id": null,
-        "code": "Херсонська область",
-        "name": "Khersons'ka oblast",
-        "postal_code_pattern": "7[3-5]",
-        "translations": {
-            "uk": {
-                "name": "Херсонська область"
-            }
-        }
-    },
-    "UA-feacf5": {
-        "locale": "uk-Latn",
-        "country_code": "UA",
-        "parent_id": null,
-        "code": "Хмельницька область",
-        "name": "Khmel'nyts'ka oblast",
-        "postal_code_pattern": "29|3[0-2]",
-        "translations": {
-            "uk": {
-                "name": "Хмельницька область"
-            }
-        }
-    },
-    "UA-6b1024": {
-        "locale": "uk-Latn",
-        "country_code": "UA",
-        "parent_id": null,
-        "code": "Черкаська область",
-        "name": "Cherkas'ka oblast",
-        "postal_code_pattern": "1[89]|20",
-        "translations": {
-            "uk": {
-                "name": "Черкаська область"
-            }
-        }
-    },
-    "UA-b99c4f": {
-        "locale": "uk-Latn",
-        "country_code": "UA",
-        "parent_id": null,
-        "code": "Чернівецька область",
-        "name": "Chernivets'ka oblast",
-        "postal_code_pattern": "5[89]|60",
-        "translations": {
-            "uk": {
-                "name": "Чернівецька область"
-            }
-        }
-    },
-    "UA-917395": {
-        "locale": "uk-Latn",
-        "country_code": "UA",
-        "parent_id": null,
-        "code": "Чернігівська область",
-        "name": "Chernihivs'ka oblast",
-        "postal_code_pattern": "1[4-7]",
-        "translations": {
-            "uk": {
-                "name": "Чернігівська область"
-            }
-        }
-    }
+	"country_code": "UA",
+	"parent_id": null,
+	"locale": "uk-Latn",
+	"subdivisions": {
+		"UA-1cfb62": {
+			"code": "Автономна Республіка Крим",
+			"name": "Crimea",
+			"postal_code_pattern": "9[5-8]",
+			"translations": {
+				"uk": {
+					"name": "Автономна Республіка Крим"
+				}
+			}
+		},
+		"UA-7d79b7": {
+			"code": "Вінницька область",
+			"name": "Vinnyts'ka oblast",
+			"postal_code_pattern": "2[1-4]",
+			"translations": {
+				"uk": {
+					"name": "Вінницька область"
+				}
+			}
+		},
+		"UA-37f6dd": {
+			"code": "Волинська область",
+			"name": "Volyns'ka oblast",
+			"postal_code_pattern": "4[3-5]",
+			"translations": {
+				"uk": {
+					"name": "Волинська область"
+				}
+			}
+		},
+		"UA-0bab38": {
+			"code": "Дніпропетровська область",
+			"name": "Dnipropetrovsk Oblast",
+			"postal_code_pattern": "49|5[0-3]",
+			"translations": {
+				"uk": {
+					"name": "Дніпропетровська область"
+				}
+			}
+		},
+		"UA-8b2af4": {
+			"code": "Донецька область",
+			"name": "Donetsk Oblast",
+			"postal_code_pattern": "8[3-7]",
+			"translations": {
+				"uk": {
+					"name": "Донецька область"
+				}
+			}
+		},
+		"UA-836aef": {
+			"code": "Житомирська область",
+			"name": "Zhytomyrs'ka oblast",
+			"postal_code_pattern": "1[0-3]",
+			"translations": {
+				"uk": {
+					"name": "Житомирська область"
+				}
+			}
+		},
+		"UA-60eada": {
+			"code": "Закарпатська область",
+			"name": "Zakarpats'ka oblast",
+			"postal_code_pattern": "8[89]|90",
+			"translations": {
+				"uk": {
+					"name": "Закарпатська область"
+				}
+			}
+		},
+		"UA-05dc7c": {
+			"code": "Запорізька область",
+			"name": "Zaporiz'ka oblast",
+			"postal_code_pattern": "69|7[0-2]",
+			"translations": {
+				"uk": {
+					"name": "Запорізька область"
+				}
+			}
+		},
+		"UA-501c01": {
+			"code": "Івано-Франківська область",
+			"name": "Ivano-Frankivs'ka oblast",
+			"postal_code_pattern": "7[6-8]",
+			"translations": {
+				"uk": {
+					"name": "Івано-Франківська область"
+				}
+			}
+		},
+		"UA-d4ff4f": {
+			"code": "місто Київ",
+			"name": "Kyiv city",
+			"postal_code_pattern": "0[1-6]",
+			"translations": {
+				"uk": {
+					"name": "Київ"
+				}
+			}
+		},
+		"UA-73f3f6": {
+			"code": "Київська область",
+			"name": "Kiev Oblast",
+			"postal_code_pattern": "0[7-9]",
+			"translations": {
+				"uk": {
+					"name": "Київська область"
+				}
+			}
+		},
+		"UA-37cf15": {
+			"code": "Кіровоградська область",
+			"name": "Kirovohrads'ka oblast",
+			"postal_code_pattern": "2[5-8]",
+			"translations": {
+				"uk": {
+					"name": "Кіровоградська область"
+				}
+			}
+		},
+		"UA-7d2e49": {
+			"code": "Луганська область",
+			"name": "Luhans'ka oblast",
+			"postal_code_pattern": "9[1-4]",
+			"translations": {
+				"uk": {
+					"name": "Луганська область"
+				}
+			}
+		},
+		"UA-f0c54f": {
+			"code": "Львівська область",
+			"name": "Lviv Oblast",
+			"postal_code_pattern": "79|8[0-2]",
+			"translations": {
+				"uk": {
+					"name": "Львівська область"
+				}
+			}
+		},
+		"UA-f70829": {
+			"code": "Миколаївська область",
+			"name": "Mykolaivs'ka oblast",
+			"postal_code_pattern": "5[4-7]",
+			"translations": {
+				"uk": {
+					"name": "Миколаївська область"
+				}
+			}
+		},
+		"UA-7e462e": {
+			"code": "Одеська область",
+			"name": "Odessa Oblast",
+			"postal_code_pattern": "6[5-8]",
+			"translations": {
+				"uk": {
+					"name": "Одеська область"
+				}
+			}
+		},
+		"UA-64566a": {
+			"code": "Полтавська область",
+			"name": "Poltavs'ka oblast",
+			"postal_code_pattern": "3[6-9]",
+			"translations": {
+				"uk": {
+					"name": "Полтавська область"
+				}
+			}
+		},
+		"UA-390dc3": {
+			"code": "Рівненська область",
+			"name": "Rivnens'ka oblast",
+			"postal_code_pattern": "3[3-5]",
+			"translations": {
+				"uk": {
+					"name": "Рівненська область"
+				}
+			}
+		},
+		"UA-d241cb": {
+			"code": "місто Севастополь",
+			"name": "Sevastopol' city",
+			"postal_code_pattern": "99",
+			"translations": {
+				"uk": {
+					"name": "Севастополь"
+				}
+			}
+		},
+		"UA-3283e1": {
+			"code": "Сумська область",
+			"name": "Sums'ka oblast",
+			"postal_code_pattern": "4[0-2]",
+			"translations": {
+				"uk": {
+					"name": "Сумська область"
+				}
+			}
+		},
+		"UA-5ff998": {
+			"code": "Тернопільська область",
+			"name": "Ternopil's'ka oblast",
+			"postal_code_pattern": "4[6-8]",
+			"translations": {
+				"uk": {
+					"name": "Тернопільська область"
+				}
+			}
+		},
+		"UA-a35df4": {
+			"code": "Харківська область",
+			"name": "Kharkiv Oblast",
+			"postal_code_pattern": "6[1-4]",
+			"translations": {
+				"uk": {
+					"name": "Харківська область"
+				}
+			}
+		},
+		"UA-355e6b": {
+			"code": "Херсонська область",
+			"name": "Khersons'ka oblast",
+			"postal_code_pattern": "7[3-5]",
+			"translations": {
+				"uk": {
+					"name": "Херсонська область"
+				}
+			}
+		},
+		"UA-feacf5": {
+			"code": "Хмельницька область",
+			"name": "Khmel'nyts'ka oblast",
+			"postal_code_pattern": "29|3[0-2]",
+			"translations": {
+				"uk": {
+					"name": "Хмельницька область"
+				}
+			}
+		},
+		"UA-6b1024": {
+			"code": "Черкаська область",
+			"name": "Cherkas'ka oblast",
+			"postal_code_pattern": "1[89]|20",
+			"translations": {
+				"uk": {
+					"name": "Черкаська область"
+				}
+			}
+		},
+		"UA-b99c4f": {
+			"code": "Чернівецька область",
+			"name": "Chernivets'ka oblast",
+			"postal_code_pattern": "5[89]|60",
+			"translations": {
+				"uk": {
+					"name": "Чернівецька область"
+				}
+			}
+		},
+		"UA-917395": {
+			"code": "Чернігівська область",
+			"name": "Chernihivs'ka oblast",
+			"postal_code_pattern": "1[4-7]",
+			"translations": {
+				"uk": {
+					"name": "Чернігівська область"
+				}
+			}
+		}
+	}
 }

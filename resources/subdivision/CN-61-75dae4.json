@@ -1,50 +1,43 @@
 {
-    "CN-61-75dae4-77e0fb": {
-        "locale": "zh-Latn",
-        "country_code": "CN",
-        "parent_id": "CN-61-75dae4",
-        "code": "王益区",
-        "name": "Wangyi Qu",
-        "translations": {
-            "zh": {
-                "name": "王益区"
-            }
-        }
-    },
-    "CN-61-75dae4-fa0be3": {
-        "locale": "zh-Latn",
-        "country_code": "CN",
-        "parent_id": "CN-61-75dae4",
-        "code": "耀州区",
-        "name": "Yaozhou Qu",
-        "translations": {
-            "zh": {
-                "name": "耀州区"
-            }
-        }
-    },
-    "CN-61-75dae4-48e488": {
-        "locale": "zh-Latn",
-        "country_code": "CN",
-        "parent_id": "CN-61-75dae4",
-        "code": "宜君县",
-        "name": "Yijun Xian",
-        "translations": {
-            "zh": {
-                "name": "宜君县"
-            }
-        }
-    },
-    "CN-61-75dae4-b5a44b": {
-        "locale": "zh-Latn",
-        "country_code": "CN",
-        "parent_id": "CN-61-75dae4",
-        "code": "印台区",
-        "name": "Yintai Qu",
-        "translations": {
-            "zh": {
-                "name": "印台区"
-            }
-        }
-    }
+	"country_code": "CN",
+	"parent_id": "CN-61-75dae4",
+	"locale": "zh-Latn",
+	"subdivisions": {
+		"CN-61-75dae4-77e0fb": {
+			"code": "王益区",
+			"name": "Wangyi Qu",
+			"translations": {
+				"zh": {
+					"name": "王益区"
+				}
+			}
+		},
+		"CN-61-75dae4-fa0be3": {
+			"code": "耀州区",
+			"name": "Yaozhou Qu",
+			"translations": {
+				"zh": {
+					"name": "耀州区"
+				}
+			}
+		},
+		"CN-61-75dae4-48e488": {
+			"code": "宜君县",
+			"name": "Yijun Xian",
+			"translations": {
+				"zh": {
+					"name": "宜君县"
+				}
+			}
+		},
+		"CN-61-75dae4-b5a44b": {
+			"code": "印台区",
+			"name": "Yintai Qu",
+			"translations": {
+				"zh": {
+					"name": "印台区"
+				}
+			}
+		}
+	}
 }

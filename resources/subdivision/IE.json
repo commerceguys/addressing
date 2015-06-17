@@ -1,158 +1,85 @@
 {
-    "IE-CW": {
-        "locale": "en",
-        "country_code": "IE",
-        "parent_id": null,
-        "name": "Co. Carlow"
-    },
-    "IE-CN": {
-        "locale": "en",
-        "country_code": "IE",
-        "parent_id": null,
-        "name": "Co. Cavan"
-    },
-    "IE-CE": {
-        "locale": "en",
-        "country_code": "IE",
-        "parent_id": null,
-        "name": "Co. Clare"
-    },
-    "IE-C": {
-        "locale": "en",
-        "country_code": "IE",
-        "parent_id": null,
-        "name": "Co. Cork"
-    },
-    "IE-DL": {
-        "locale": "en",
-        "country_code": "IE",
-        "parent_id": null,
-        "name": "Co. Donegal"
-    },
-    "IE-D": {
-        "locale": "en",
-        "country_code": "IE",
-        "parent_id": null,
-        "name": "Co. Dublin"
-    },
-    "IE-G": {
-        "locale": "en",
-        "country_code": "IE",
-        "parent_id": null,
-        "name": "Co. Galway"
-    },
-    "IE-KY": {
-        "locale": "en",
-        "country_code": "IE",
-        "parent_id": null,
-        "name": "Co. Kerry"
-    },
-    "IE-KE": {
-        "locale": "en",
-        "country_code": "IE",
-        "parent_id": null,
-        "name": "Co. Kildare"
-    },
-    "IE-KK": {
-        "locale": "en",
-        "country_code": "IE",
-        "parent_id": null,
-        "name": "Co. Kilkenny"
-    },
-    "IE-LS": {
-        "locale": "en",
-        "country_code": "IE",
-        "parent_id": null,
-        "name": "Co. Laois"
-    },
-    "IE-LM": {
-        "locale": "en",
-        "country_code": "IE",
-        "parent_id": null,
-        "name": "Co. Leitrim"
-    },
-    "IE-LK": {
-        "locale": "en",
-        "country_code": "IE",
-        "parent_id": null,
-        "name": "Co. Limerick"
-    },
-    "IE-LD": {
-        "locale": "en",
-        "country_code": "IE",
-        "parent_id": null,
-        "name": "Co. Longford"
-    },
-    "IE-LH": {
-        "locale": "en",
-        "country_code": "IE",
-        "parent_id": null,
-        "name": "Co. Louth"
-    },
-    "IE-MO": {
-        "locale": "en",
-        "country_code": "IE",
-        "parent_id": null,
-        "name": "Co. Mayo"
-    },
-    "IE-MH": {
-        "locale": "en",
-        "country_code": "IE",
-        "parent_id": null,
-        "name": "Co. Meath"
-    },
-    "IE-MN": {
-        "locale": "en",
-        "country_code": "IE",
-        "parent_id": null,
-        "name": "Co. Monaghan"
-    },
-    "IE-OY": {
-        "locale": "en",
-        "country_code": "IE",
-        "parent_id": null,
-        "name": "Co. Offaly"
-    },
-    "IE-RN": {
-        "locale": "en",
-        "country_code": "IE",
-        "parent_id": null,
-        "name": "Co. Roscommon"
-    },
-    "IE-SO": {
-        "locale": "en",
-        "country_code": "IE",
-        "parent_id": null,
-        "name": "Co. Sligo"
-    },
-    "IE-TA": {
-        "locale": "en",
-        "country_code": "IE",
-        "parent_id": null,
-        "name": "Co. Tipperary"
-    },
-    "IE-WD": {
-        "locale": "en",
-        "country_code": "IE",
-        "parent_id": null,
-        "name": "Co. Waterford"
-    },
-    "IE-WH": {
-        "locale": "en",
-        "country_code": "IE",
-        "parent_id": null,
-        "name": "Co. Westmeath"
-    },
-    "IE-WX": {
-        "locale": "en",
-        "country_code": "IE",
-        "parent_id": null,
-        "name": "Co. Wexford"
-    },
-    "IE-WW": {
-        "locale": "en",
-        "country_code": "IE",
-        "parent_id": null,
-        "name": "Co. Wicklow"
-    }
+	"country_code": "IE",
+	"parent_id": null,
+	"locale": "en",
+	"subdivisions": {
+		"IE-CW": {
+			"name": "Co. Carlow"
+		},
+		"IE-CN": {
+			"name": "Co. Cavan"
+		},
+		"IE-CE": {
+			"name": "Co. Clare"
+		},
+		"IE-C": {
+			"name": "Co. Cork"
+		},
+		"IE-DL": {
+			"name": "Co. Donegal"
+		},
+		"IE-D": {
+			"name": "Co. Dublin"
+		},
+		"IE-G": {
+			"name": "Co. Galway"
+		},
+		"IE-KY": {
+			"name": "Co. Kerry"
+		},
+		"IE-KE": {
+			"name": "Co. Kildare"
+		},
+		"IE-KK": {
+			"name": "Co. Kilkenny"
+		},
+		"IE-LS": {
+			"name": "Co. Laois"
+		},
+		"IE-LM": {
+			"name": "Co. Leitrim"
+		},
+		"IE-LK": {
+			"name": "Co. Limerick"
+		},
+		"IE-LD": {
+			"name": "Co. Longford"
+		},
+		"IE-LH": {
+			"name": "Co. Louth"
+		},
+		"IE-MO": {
+			"name": "Co. Mayo"
+		},
+		"IE-MH": {
+			"name": "Co. Meath"
+		},
+		"IE-MN": {
+			"name": "Co. Monaghan"
+		},
+		"IE-OY": {
+			"name": "Co. Offaly"
+		},
+		"IE-RN": {
+			"name": "Co. Roscommon"
+		},
+		"IE-SO": {
+			"name": "Co. Sligo"
+		},
+		"IE-TA": {
+			"name": "Co. Tipperary"
+		},
+		"IE-WD": {
+			"name": "Co. Waterford"
+		},
+		"IE-WH": {
+			"name": "Co. Westmeath"
+		},
+		"IE-WX": {
+			"name": "Co. Wexford"
+		},
+		"IE-WW": {
+			"name": "Co. Wicklow"
+		}
+	}
 }

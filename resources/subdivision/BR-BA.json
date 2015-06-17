@@ -1,2504 +1,1258 @@
 {
-    "BR-BA-6a4710": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Abaíra"
-    },
-    "BR-BA-d6757e": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Abaré"
-    },
-    "BR-BA-9349bd": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Acajutiba"
-    },
-    "BR-BA-23c4d6": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Adustina"
-    },
-    "BR-BA-fefa3e": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Água Fria"
-    },
-    "BR-BA-6f7e01": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Aiquara"
-    },
-    "BR-BA-e7adb7": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Alagoinhas"
-    },
-    "BR-BA-b140e8": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Alcobaça"
-    },
-    "BR-BA-3a435f": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Almadina"
-    },
-    "BR-BA-dcf064": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Amargosa"
-    },
-    "BR-BA-9b4c45": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Amélia Rodrigues"
-    },
-    "BR-BA-4c5f4f": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "América Dourada"
-    },
-    "BR-BA-13eabe": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Anagé"
-    },
-    "BR-BA-eaa2ec": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Andaraí"
-    },
-    "BR-BA-30bdb0": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Andorinha"
-    },
-    "BR-BA-94638d": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Angical"
-    },
-    "BR-BA-c537af": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Anguera"
-    },
-    "BR-BA-c93d71": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Antas"
-    },
-    "BR-BA-b40900": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Antônio Cardoso"
-    },
-    "BR-BA-400b22": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Antônio Gonçalves"
-    },
-    "BR-BA-a8731b": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Aporá"
-    },
-    "BR-BA-9fd401": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Apuarema"
-    },
-    "BR-BA-253aac": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Araças"
-    },
-    "BR-BA-684330": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Aracatu"
-    },
-    "BR-BA-6f910d": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Araci"
-    },
-    "BR-BA-be7f88": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Aramari"
-    },
-    "BR-BA-cc75b8": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Arataca"
-    },
-    "BR-BA-c73358": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Aratuípe"
-    },
-    "BR-BA-33044d": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Aurelino Leal"
-    },
-    "BR-BA-4d09c7": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Baianópolis"
-    },
-    "BR-BA-5fc0cf": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Baixa Grande"
-    },
-    "BR-BA-aae0c9": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Banzaê"
-    },
-    "BR-BA-2efe07": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Barra"
-    },
-    "BR-BA-bb68b7": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Barra da Estiva"
-    },
-    "BR-BA-713795": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Barra do Choça"
-    },
-    "BR-BA-a983e4": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Barra do Mendes"
-    },
-    "BR-BA-7382b2": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Barra do Rocha"
-    },
-    "BR-BA-f14af0": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Barreiras"
-    },
-    "BR-BA-e113cf": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Barro Alto"
-    },
-    "BR-BA-805c33": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Barro Preto"
-    },
-    "BR-BA-c19c49": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Barrocas"
-    },
-    "BR-BA-532614": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Belmonte"
-    },
-    "BR-BA-8c28cd": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Belo Campo"
-    },
-    "BR-BA-ad625c": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Biritinga"
-    },
-    "BR-BA-7ca331": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Boa Nova"
-    },
-    "BR-BA-407262": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Boa Vista do Tupim"
-    },
-    "BR-BA-552e99": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Bom Jesus da Lapa"
-    },
-    "BR-BA-c75c8a": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Bom Jesus da Serra"
-    },
-    "BR-BA-acc3df": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Boninal"
-    },
-    "BR-BA-10ac0a": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Bonito"
-    },
-    "BR-BA-99d5af": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Boquira"
-    },
-    "BR-BA-2a1dbe": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Botuporã"
-    },
-    "BR-BA-706c27": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Brejões"
-    },
-    "BR-BA-612a2a": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Brejolândia"
-    },
-    "BR-BA-02141d": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Brotas de Macaúbas"
-    },
-    "BR-BA-3cde5a": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Brumado"
-    },
-    "BR-BA-bfcaea": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Buerarema"
-    },
-    "BR-BA-acdec6": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Buritirama"
-    },
-    "BR-BA-a238aa": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Caatiba"
-    },
-    "BR-BA-748727": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Cabaceiras do Paraguaçu"
-    },
-    "BR-BA-796b6d": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Cachoeira"
-    },
-    "BR-BA-9e3b9d": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Caculé"
-    },
-    "BR-BA-46f844": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Caém"
-    },
-    "BR-BA-398b0b": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Caetanos"
-    },
-    "BR-BA-a0ac52": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Caetité"
-    },
-    "BR-BA-57df53": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Cafarnaum"
-    },
-    "BR-BA-148635": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Cairu"
-    },
-    "BR-BA-270b9f": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Caldeirão Grande"
-    },
-    "BR-BA-8d7a2f": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Camacan"
-    },
-    "BR-BA-4bcf5d": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Camaçari"
-    },
-    "BR-BA-4fe7b6": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Camamu"
-    },
-    "BR-BA-7ffe1b": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Campo Alegre de Lourdes"
-    },
-    "BR-BA-76cccf": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Campo Formoso"
-    },
-    "BR-BA-06e858": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Canápolis"
-    },
-    "BR-BA-7ee5fb": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Canarana"
-    },
-    "BR-BA-2644b0": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Canavieiras"
-    },
-    "BR-BA-16a97b": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "CanDeal"
-    },
-    "BR-BA-d36de1": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Candeias"
-    },
-    "BR-BA-c926f8": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Candiba"
-    },
-    "BR-BA-ff9de4": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Cândido Sales"
-    },
-    "BR-BA-992e0c": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Cansanção"
-    },
-    "BR-BA-48112e": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Canudos"
-    },
-    "BR-BA-4a68ad": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Capela do Alto Alegre"
-    },
-    "BR-BA-4956c5": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Capim Grosso"
-    },
-    "BR-BA-9e4615": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Caraíbas"
-    },
-    "BR-BA-008a5a": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Caravelas"
-    },
-    "BR-BA-e4a949": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Cardeal da Silva"
-    },
-    "BR-BA-f48cb6": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Carinhanha"
-    },
-    "BR-BA-7ebdad": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Casa Nova"
-    },
-    "BR-BA-aecdd4": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Castro Alves"
-    },
-    "BR-BA-c49210": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Catolândia"
-    },
-    "BR-BA-30a296": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Catu"
-    },
-    "BR-BA-5aca5c": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Caturama"
-    },
-    "BR-BA-c2d94d": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Central"
-    },
-    "BR-BA-1cafb4": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Chorrochó"
-    },
-    "BR-BA-6bc727": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Cícero Dantas"
-    },
-    "BR-BA-ea10bc": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Cipó"
-    },
-    "BR-BA-27f155": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Coaraci"
-    },
-    "BR-BA-a1525e": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Cocos"
-    },
-    "BR-BA-359143": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Conceição da Feira"
-    },
-    "BR-BA-047bc9": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Conceição do Almeida"
-    },
-    "BR-BA-cf1d83": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Conceição do Coité"
-    },
-    "BR-BA-7865d5": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Conceição do Jacuípe"
-    },
-    "BR-BA-7cea13": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Conde"
-    },
-    "BR-BA-e470a4": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Condeúba"
-    },
-    "BR-BA-3fb74c": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Contendas do Sincorá"
-    },
-    "BR-BA-61a2a0": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Coração de Maria"
-    },
-    "BR-BA-e07680": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Cordeiros"
-    },
-    "BR-BA-46f211": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Coribe"
-    },
-    "BR-BA-308c7c": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Coronel João Sá"
-    },
-    "BR-BA-c97559": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Correntina"
-    },
-    "BR-BA-7c1e3f": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Cotegipe"
-    },
-    "BR-BA-8197c0": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Cravolândia"
-    },
-    "BR-BA-f75a3f": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Crisópolis"
-    },
-    "BR-BA-c519f9": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Cristópolis"
-    },
-    "BR-BA-75ce01": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Cruz das Almas"
-    },
-    "BR-BA-889ca8": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Curaçá"
-    },
-    "BR-BA-b888c1": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Dário Meira"
-    },
-    "BR-BA-c69e7c": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Dias d'Ávila"
-    },
-    "BR-BA-f2981d": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Dom Basílio"
-    },
-    "BR-BA-571d50": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Dom Macedo Costa"
-    },
-    "BR-BA-594aba": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Elísio Medrado"
-    },
-    "BR-BA-ea5b1d": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Encruzilhada"
-    },
-    "BR-BA-3b518a": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Entre Rios"
-    },
-    "BR-BA-3ce15b": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Érico Cardoso"
-    },
-    "BR-BA-b8b43c": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Esplanada"
-    },
-    "BR-BA-15656b": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Euclides da Cunha"
-    },
-    "BR-BA-dfcf93": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Eunápolis"
-    },
-    "BR-BA-e844ea": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Fatima"
-    },
-    "BR-BA-6755d6": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Feira da Mata"
-    },
-    "BR-BA-11091f": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Feira de Santana"
-    },
-    "BR-BA-0e06eb": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Filadelfia"
-    },
-    "BR-BA-441a40": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Firmino Alves"
-    },
-    "BR-BA-e9c8b3": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Floresta Azul"
-    },
-    "BR-BA-208216": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Formosa do Rio Preto"
-    },
-    "BR-BA-d0f2fb": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Gandu"
-    },
-    "BR-BA-fb4bd3": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Gavião"
-    },
-    "BR-BA-b79b48": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Gentio do Ouro"
-    },
-    "BR-BA-221ffb": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Glória"
-    },
-    "BR-BA-f362c4": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Gongogi"
-    },
-    "BR-BA-34680d": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Governador Mangabeira"
-    },
-    "BR-BA-369c83": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Guajeru"
-    },
-    "BR-BA-d2f615": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Guanambi"
-    },
-    "BR-BA-6b7279": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Guaratinga"
-    },
-    "BR-BA-dcc488": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Heliopolis"
-    },
-    "BR-BA-2c952d": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Iaçu"
-    },
-    "BR-BA-9b8bdb": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Ibiassucê"
-    },
-    "BR-BA-7f2c0b": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Ibicaraí"
-    },
-    "BR-BA-3e217c": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Ibicoara"
-    },
-    "BR-BA-577ada": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Ibicuí"
-    },
-    "BR-BA-c716de": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Ibipeba"
-    },
-    "BR-BA-0c3c3d": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Ibipitanga"
-    },
-    "BR-BA-a98217": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Ibiquera"
-    },
-    "BR-BA-1aeea6": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Ibirapitanga"
-    },
-    "BR-BA-cbf4a6": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Ibirapuã"
-    },
-    "BR-BA-5204e5": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Ibirataia"
-    },
-    "BR-BA-d7b699": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Ibitiara"
-    },
-    "BR-BA-01ecc0": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Ibititá"
-    },
-    "BR-BA-47f35d": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Ibotirama"
-    },
-    "BR-BA-4166ca": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Ichu"
-    },
-    "BR-BA-040859": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Igaporã"
-    },
-    "BR-BA-926e64": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Igrapiúna"
-    },
-    "BR-BA-a49a32": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Iguaí"
-    },
-    "BR-BA-184852": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Ilhéus"
-    },
-    "BR-BA-475a46": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Inhambupe"
-    },
-    "BR-BA-265522": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Ipecaetá"
-    },
-    "BR-BA-0d9f04": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Ipiaú"
-    },
-    "BR-BA-6a703e": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Ipirá"
-    },
-    "BR-BA-cd7496": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Ipupiara"
-    },
-    "BR-BA-4dfec2": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Irajuba"
-    },
-    "BR-BA-13e1d4": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Iramaia"
-    },
-    "BR-BA-452a85": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Iraquara"
-    },
-    "BR-BA-684ff5": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Irará"
-    },
-    "BR-BA-3e7000": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Irecê"
-    },
-    "BR-BA-91a27d": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Itabela"
-    },
-    "BR-BA-946a1c": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Itaberaba"
-    },
-    "BR-BA-7dfe9b": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Itabuna"
-    },
-    "BR-BA-7fa2f8": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Itacare"
-    },
-    "BR-BA-f350ae": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Itaeté"
-    },
-    "BR-BA-07ba86": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Itagi"
-    },
-    "BR-BA-ad0c2c": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Itagibá"
-    },
-    "BR-BA-d90522": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Itagimirim"
-    },
-    "BR-BA-52a417": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Itaguaçu da Bahia"
-    },
-    "BR-BA-bd4481": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Itaju do Colônia"
-    },
-    "BR-BA-ab9703": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Itajuípe"
-    },
-    "BR-BA-a881d7": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Itamaraju"
-    },
-    "BR-BA-13a3c3": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Itamari"
-    },
-    "BR-BA-83648e": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Itambé"
-    },
-    "BR-BA-22da8c": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Itanagra"
-    },
-    "BR-BA-ff25df": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Itanhém"
-    },
-    "BR-BA-280d59": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Itaparica"
-    },
-    "BR-BA-fdca05": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Itapé"
-    },
-    "BR-BA-de0a82": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Itapebi"
-    },
-    "BR-BA-281e82": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Itapetinga"
-    },
-    "BR-BA-0d4128": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Itapicuru"
-    },
-    "BR-BA-544004": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Itapitanga"
-    },
-    "BR-BA-e9f90a": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Itaquara"
-    },
-    "BR-BA-08e4e5": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Itarantim"
-    },
-    "BR-BA-de33b8": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Itatim"
-    },
-    "BR-BA-a047cd": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Itiruçu"
-    },
-    "BR-BA-624bbe": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Itiúba"
-    },
-    "BR-BA-cbe6b9": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Itororó"
-    },
-    "BR-BA-5e4b07": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Ituaçu"
-    },
-    "BR-BA-f274fa": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Ituberá"
-    },
-    "BR-BA-16054f": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Iuiú"
-    },
-    "BR-BA-b3aa8b": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Jaborandi"
-    },
-    "BR-BA-15d75e": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Jacaraci"
-    },
-    "BR-BA-068e5d": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Jacobina"
-    },
-    "BR-BA-aa71f2": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Jaguaquara"
-    },
-    "BR-BA-b09e58": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Jaguarari"
-    },
-    "BR-BA-fd1705": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Jaguaripe"
-    },
-    "BR-BA-5fa31f": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Jandaíra"
-    },
-    "BR-BA-60a30f": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Jequié"
-    },
-    "BR-BA-ccae50": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Jeremoabo"
-    },
-    "BR-BA-169a2e": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Jiquiriçá"
-    },
-    "BR-BA-8a3d89": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Jitaúna"
-    },
-    "BR-BA-88959e": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "João Dourado"
-    },
-    "BR-BA-d7d5aa": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Juazeiro"
-    },
-    "BR-BA-ea7973": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Jucuruçu"
-    },
-    "BR-BA-483d36": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Jussara"
-    },
-    "BR-BA-4e4ff8": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Jussari"
-    },
-    "BR-BA-bb67aa": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Jussiape"
-    },
-    "BR-BA-9efa25": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Lafaiete Coutinho"
-    },
-    "BR-BA-c8e904": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Lagoa Real"
-    },
-    "BR-BA-1dcfd4": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Laje"
-    },
-    "BR-BA-c4208c": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Lajedão"
-    },
-    "BR-BA-37d252": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Lajedinho"
-    },
-    "BR-BA-a6ca68": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Lajedo do Tabocal"
-    },
-    "BR-BA-4a0ee2": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Lamarão"
-    },
-    "BR-BA-92f1d6": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Lapão"
-    },
-    "BR-BA-c96f37": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Lauro de Freitas"
-    },
-    "BR-BA-f6aa7b": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Lençóis"
-    },
-    "BR-BA-d847e3": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Licínio de Almeida"
-    },
-    "BR-BA-fd7b14": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Livramento de Nossa Senhora"
-    },
-    "BR-BA-e2f088": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Luís Eduardo Magalhães"
-    },
-    "BR-BA-9e7176": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Macajuba"
-    },
-    "BR-BA-b658e6": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Macarani"
-    },
-    "BR-BA-0ee408": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Macaúbas"
-    },
-    "BR-BA-6dff4d": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Macururé"
-    },
-    "BR-BA-74380f": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Madre de Deus"
-    },
-    "BR-BA-baff16": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Maetinga"
-    },
-    "BR-BA-251de0": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Maiquinique"
-    },
-    "BR-BA-4a8036": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Mairi"
-    },
-    "BR-BA-3d9815": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Malhada"
-    },
-    "BR-BA-b6a071": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Malhada de Pedras"
-    },
-    "BR-BA-beb895": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Manoel Vitorino"
-    },
-    "BR-BA-bb5986": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Mansidão"
-    },
-    "BR-BA-ea4d29": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Maracas"
-    },
-    "BR-BA-f91081": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Maragogipe"
-    },
-    "BR-BA-443439": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Marau"
-    },
-    "BR-BA-9b00da": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Marcionílio Souza"
-    },
-    "BR-BA-3b9fa7": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Mascote"
-    },
-    "BR-BA-541649": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Mata de São João"
-    },
-    "BR-BA-c2daa2": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Matina"
-    },
-    "BR-BA-7b59a9": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Medeiros Neto"
-    },
-    "BR-BA-c60ce6": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Miguel Calmon"
-    },
-    "BR-BA-48c59c": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Milagres"
-    },
-    "BR-BA-6ae55a": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Mirangaba"
-    },
-    "BR-BA-264789": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Mirante"
-    },
-    "BR-BA-aec459": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Monte Santo"
-    },
-    "BR-BA-1c4756": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Morpará"
-    },
-    "BR-BA-18e72b": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Morro do Chapéu"
-    },
-    "BR-BA-677838": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Mortugaba"
-    },
-    "BR-BA-a405be": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Mucugê"
-    },
-    "BR-BA-98068f": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Mucuri"
-    },
-    "BR-BA-5da35f": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Mulungu do Morro"
-    },
-    "BR-BA-3a2aaa": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Mundo Novo"
-    },
-    "BR-BA-933dce": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Muniz Ferreira"
-    },
-    "BR-BA-d2cca4": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Muquém de São Francisco"
-    },
-    "BR-BA-7f6d93": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Muritiba"
-    },
-    "BR-BA-f8beef": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Mutuípe"
-    },
-    "BR-BA-8f00c4": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Nazaré"
-    },
-    "BR-BA-ff58c9": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Nilo Peçanha"
-    },
-    "BR-BA-471251": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Nordestina"
-    },
-    "BR-BA-7c85f8": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Nova Canaã"
-    },
-    "BR-BA-2b7996": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Nova Fátima"
-    },
-    "BR-BA-30da3a": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Nova Ibiá"
-    },
-    "BR-BA-c9a308": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Nova Itarana"
-    },
-    "BR-BA-655a08": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Nova Redenção"
-    },
-    "BR-BA-88bbd1": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Nova Soure"
-    },
-    "BR-BA-cec5ae": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Nova Viçosa"
-    },
-    "BR-BA-9405e1": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Novo Horizonte"
-    },
-    "BR-BA-0f3591": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Novo Triunfo"
-    },
-    "BR-BA-d0591e": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Olindina"
-    },
-    "BR-BA-543a96": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Oliveira dos Brejinhos"
-    },
-    "BR-BA-443327": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Ouriçangas"
-    },
-    "BR-BA-607b5d": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Ourolândia"
-    },
-    "BR-BA-88948d": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Palmas de Monte Alto"
-    },
-    "BR-BA-c6c0e2": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Palmeiras"
-    },
-    "BR-BA-ee4a02": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Paramirim"
-    },
-    "BR-BA-f13023": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Paratinga"
-    },
-    "BR-BA-10db18": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Paripiranga"
-    },
-    "BR-BA-69c584": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Pau Brasil"
-    },
-    "BR-BA-108882": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Paulo Afonso"
-    },
-    "BR-BA-da84d6": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Pé de Serra"
-    },
-    "BR-BA-1e7296": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Pedrão"
-    },
-    "BR-BA-2525e5": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Pedro Alexandre"
-    },
-    "BR-BA-8fc386": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Piatã"
-    },
-    "BR-BA-4f380c": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Pilão Arcado"
-    },
-    "BR-BA-e8c400": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Pindaí"
-    },
-    "BR-BA-e92a5c": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Pindobaçu"
-    },
-    "BR-BA-341de4": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Pintadas"
-    },
-    "BR-BA-a038de": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Piraí do Norte"
-    },
-    "BR-BA-31209b": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Piripá"
-    },
-    "BR-BA-940416": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Piritiba"
-    },
-    "BR-BA-c03ee7": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Planaltino"
-    },
-    "BR-BA-6755d8": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Planalto"
-    },
-    "BR-BA-414512": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Poções"
-    },
-    "BR-BA-dec310": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Pojuca"
-    },
-    "BR-BA-2e8560": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Ponto Novo"
-    },
-    "BR-BA-7793ae": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Porto Seguro"
-    },
-    "BR-BA-65760e": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Potiraguá"
-    },
-    "BR-BA-9edec1": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Prado"
-    },
-    "BR-BA-6dec6f": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Presidente Dutra"
-    },
-    "BR-BA-07fced": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Presidente Jânio Quadros"
-    },
-    "BR-BA-3ab5bc": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Presidente Tancredo Neves"
-    },
-    "BR-BA-0942c7": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Queimadas"
-    },
-    "BR-BA-81cac9": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Quijingue"
-    },
-    "BR-BA-685516": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Quixabeira"
-    },
-    "BR-BA-344e0f": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Rafael Jambeiro"
-    },
-    "BR-BA-75c632": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Remanso"
-    },
-    "BR-BA-0e472e": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Retirolândia"
-    },
-    "BR-BA-e81bcd": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Riachão das Neves"
-    },
-    "BR-BA-263b42": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Riachão do Jacuípe"
-    },
-    "BR-BA-e7cbbb": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Riacho de Santana"
-    },
-    "BR-BA-840171": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Ribeira do Amparo"
-    },
-    "BR-BA-e7ecd0": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Ribeira do Pombal"
-    },
-    "BR-BA-064165": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Ribeirão do Largo"
-    },
-    "BR-BA-c9cc1b": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Rio de Contas"
-    },
-    "BR-BA-268978": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Rio do Antônio"
-    },
-    "BR-BA-b6306f": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Rio do Pires"
-    },
-    "BR-BA-bd77cc": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Rio Real"
-    },
-    "BR-BA-4722e2": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Rodelas"
-    },
-    "BR-BA-7ea81c": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Ruy Barbosa"
-    },
-    "BR-BA-6fbbae": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Salinas da Margarida"
-    },
-    "BR-BA-e3e6a6": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Salvador"
-    },
-    "BR-BA-ed5588": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Santa Bárbara"
-    },
-    "BR-BA-a00dc7": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Santa Brigida"
-    },
-    "BR-BA-97685c": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Santa Cruz Cabrália"
-    },
-    "BR-BA-e0fdfd": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Santa Cruz da Vitória"
-    },
-    "BR-BA-50dad4": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Santa Inês"
-    },
-    "BR-BA-6ce53c": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Santa Luzia"
-    },
-    "BR-BA-3d4605": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Santa Maria da Vitória"
-    },
-    "BR-BA-42d90c": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Santa Rita de Cássia"
-    },
-    "BR-BA-9c1cd1": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Santa Teresinha"
-    },
-    "BR-BA-4d4c36": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Santaluz"
-    },
-    "BR-BA-f33627": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Santana"
-    },
-    "BR-BA-75d4af": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Santanópolis"
-    },
-    "BR-BA-3414c3": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Santo Amaro"
-    },
-    "BR-BA-6b03e7": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Santo Antônio de Jesus"
-    },
-    "BR-BA-dc03f9": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Santo Estêvão"
-    },
-    "BR-BA-1bc9b7": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "São Desidério"
-    },
-    "BR-BA-b5d841": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "São Domingos"
-    },
-    "BR-BA-ecc623": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "São Felipe"
-    },
-    "BR-BA-d59974": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "São Félix"
-    },
-    "BR-BA-a56185": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "São Félix do Coribe"
-    },
-    "BR-BA-323383": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "São Francisco do Conde"
-    },
-    "BR-BA-04abe3": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "São Gabriel"
-    },
-    "BR-BA-e63d11": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "São Gonçalo dos Campos"
-    },
-    "BR-BA-702eac": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "São José da Vitória"
-    },
-    "BR-BA-8e5188": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "São José do Jacuípe"
-    },
-    "BR-BA-c004c3": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "São Miguel das Matas"
-    },
-    "BR-BA-cfabce": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "São Sebastião do Passé"
-    },
-    "BR-BA-051659": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Sapeaçu"
-    },
-    "BR-BA-cf06b0": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Sátiro Dias"
-    },
-    "BR-BA-24ff8b": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Saubara"
-    },
-    "BR-BA-a7da2f": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Saúde"
-    },
-    "BR-BA-dabd0f": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Seabra"
-    },
-    "BR-BA-3740cb": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Sebastião Laranjeiras"
-    },
-    "BR-BA-cc1b71": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Senhor do Bonfim"
-    },
-    "BR-BA-0ba2bb": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Sento Sé"
-    },
-    "BR-BA-98bd3b": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Serra do Ramalho"
-    },
-    "BR-BA-221348": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Serra Dourada"
-    },
-    "BR-BA-dd7d88": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Serra preta"
-    },
-    "BR-BA-eae8db": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Serrinha"
-    },
-    "BR-BA-af67d3": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Serrolândia"
-    },
-    "BR-BA-bc2f04": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Simões Filho"
-    },
-    "BR-BA-0d7758": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Sítio do Mato"
-    },
-    "BR-BA-fa8c0f": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Sítio do Quinto"
-    },
-    "BR-BA-c5f1bf": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Sobradinho"
-    },
-    "BR-BA-001671": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Souto Soares"
-    },
-    "BR-BA-8e5a54": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Tabocas do Brejo Velho"
-    },
-    "BR-BA-f8e31e": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Tanhaçu"
-    },
-    "BR-BA-d33a48": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Tanque Novo"
-    },
-    "BR-BA-e4bb57": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Tanquinho"
-    },
-    "BR-BA-20aa82": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Taperoá"
-    },
-    "BR-BA-9ca404": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Tapiramutá"
-    },
-    "BR-BA-7030c8": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Teixeira de Freitas"
-    },
-    "BR-BA-9007a0": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Teodoro Sampaio"
-    },
-    "BR-BA-cb7f02": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Teofilândia"
-    },
-    "BR-BA-9b65da": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Teolândia"
-    },
-    "BR-BA-5d2e58": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Terra Nova"
-    },
-    "BR-BA-c99370": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Tremedal"
-    },
-    "BR-BA-cb8c92": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Tucano"
-    },
-    "BR-BA-cf3593": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Uauá"
-    },
-    "BR-BA-372628": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Ubaíra"
-    },
-    "BR-BA-4b8d2f": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Ubaitaba"
-    },
-    "BR-BA-26316d": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Ubatã"
-    },
-    "BR-BA-e56dda": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Uibaí"
-    },
-    "BR-BA-307614": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Umburanas"
-    },
-    "BR-BA-c82469": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Una"
-    },
-    "BR-BA-b3bf03": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Urandi"
-    },
-    "BR-BA-d652d3": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Uruçuca"
-    },
-    "BR-BA-9f27e2": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Utinga"
-    },
-    "BR-BA-9c33f9": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Valença"
-    },
-    "BR-BA-72f6cb": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Valente"
-    },
-    "BR-BA-faa33b": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Várzea da Roça"
-    },
-    "BR-BA-073081": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Várzea do Poço"
-    },
-    "BR-BA-a0c8af": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Várzea Nova"
-    },
-    "BR-BA-fe51f0": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Varzedo"
-    },
-    "BR-BA-bf4c9f": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Vera Cruz"
-    },
-    "BR-BA-858d01": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Vereda"
-    },
-    "BR-BA-39ba73": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Vitória da Conquista"
-    },
-    "BR-BA-85c040": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Wagner"
-    },
-    "BR-BA-25b404": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Wanderley"
-    },
-    "BR-BA-a12447": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Wenceslau Guimarães"
-    },
-    "BR-BA-05315a": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-BA",
-        "name": "Xique-Xique"
-    }
+	"country_code": "BR",
+	"parent_id": "BR-BA",
+	"locale": "pt",
+	"subdivisions": {
+		"BR-BA-6a4710": {
+			"name": "Abaíra"
+		},
+		"BR-BA-d6757e": {
+			"name": "Abaré"
+		},
+		"BR-BA-9349bd": {
+			"name": "Acajutiba"
+		},
+		"BR-BA-23c4d6": {
+			"name": "Adustina"
+		},
+		"BR-BA-fefa3e": {
+			"name": "Água Fria"
+		},
+		"BR-BA-6f7e01": {
+			"name": "Aiquara"
+		},
+		"BR-BA-e7adb7": {
+			"name": "Alagoinhas"
+		},
+		"BR-BA-b140e8": {
+			"name": "Alcobaça"
+		},
+		"BR-BA-3a435f": {
+			"name": "Almadina"
+		},
+		"BR-BA-dcf064": {
+			"name": "Amargosa"
+		},
+		"BR-BA-9b4c45": {
+			"name": "Amélia Rodrigues"
+		},
+		"BR-BA-4c5f4f": {
+			"name": "América Dourada"
+		},
+		"BR-BA-13eabe": {
+			"name": "Anagé"
+		},
+		"BR-BA-eaa2ec": {
+			"name": "Andaraí"
+		},
+		"BR-BA-30bdb0": {
+			"name": "Andorinha"
+		},
+		"BR-BA-94638d": {
+			"name": "Angical"
+		},
+		"BR-BA-c537af": {
+			"name": "Anguera"
+		},
+		"BR-BA-c93d71": {
+			"name": "Antas"
+		},
+		"BR-BA-b40900": {
+			"name": "Antônio Cardoso"
+		},
+		"BR-BA-400b22": {
+			"name": "Antônio Gonçalves"
+		},
+		"BR-BA-a8731b": {
+			"name": "Aporá"
+		},
+		"BR-BA-9fd401": {
+			"name": "Apuarema"
+		},
+		"BR-BA-253aac": {
+			"name": "Araças"
+		},
+		"BR-BA-684330": {
+			"name": "Aracatu"
+		},
+		"BR-BA-6f910d": {
+			"name": "Araci"
+		},
+		"BR-BA-be7f88": {
+			"name": "Aramari"
+		},
+		"BR-BA-cc75b8": {
+			"name": "Arataca"
+		},
+		"BR-BA-c73358": {
+			"name": "Aratuípe"
+		},
+		"BR-BA-33044d": {
+			"name": "Aurelino Leal"
+		},
+		"BR-BA-4d09c7": {
+			"name": "Baianópolis"
+		},
+		"BR-BA-5fc0cf": {
+			"name": "Baixa Grande"
+		},
+		"BR-BA-aae0c9": {
+			"name": "Banzaê"
+		},
+		"BR-BA-2efe07": {
+			"name": "Barra"
+		},
+		"BR-BA-bb68b7": {
+			"name": "Barra da Estiva"
+		},
+		"BR-BA-713795": {
+			"name": "Barra do Choça"
+		},
+		"BR-BA-a983e4": {
+			"name": "Barra do Mendes"
+		},
+		"BR-BA-7382b2": {
+			"name": "Barra do Rocha"
+		},
+		"BR-BA-f14af0": {
+			"name": "Barreiras"
+		},
+		"BR-BA-e113cf": {
+			"name": "Barro Alto"
+		},
+		"BR-BA-805c33": {
+			"name": "Barro Preto"
+		},
+		"BR-BA-c19c49": {
+			"name": "Barrocas"
+		},
+		"BR-BA-532614": {
+			"name": "Belmonte"
+		},
+		"BR-BA-8c28cd": {
+			"name": "Belo Campo"
+		},
+		"BR-BA-ad625c": {
+			"name": "Biritinga"
+		},
+		"BR-BA-7ca331": {
+			"name": "Boa Nova"
+		},
+		"BR-BA-407262": {
+			"name": "Boa Vista do Tupim"
+		},
+		"BR-BA-552e99": {
+			"name": "Bom Jesus da Lapa"
+		},
+		"BR-BA-c75c8a": {
+			"name": "Bom Jesus da Serra"
+		},
+		"BR-BA-acc3df": {
+			"name": "Boninal"
+		},
+		"BR-BA-10ac0a": {
+			"name": "Bonito"
+		},
+		"BR-BA-99d5af": {
+			"name": "Boquira"
+		},
+		"BR-BA-2a1dbe": {
+			"name": "Botuporã"
+		},
+		"BR-BA-706c27": {
+			"name": "Brejões"
+		},
+		"BR-BA-612a2a": {
+			"name": "Brejolândia"
+		},
+		"BR-BA-02141d": {
+			"name": "Brotas de Macaúbas"
+		},
+		"BR-BA-3cde5a": {
+			"name": "Brumado"
+		},
+		"BR-BA-bfcaea": {
+			"name": "Buerarema"
+		},
+		"BR-BA-acdec6": {
+			"name": "Buritirama"
+		},
+		"BR-BA-a238aa": {
+			"name": "Caatiba"
+		},
+		"BR-BA-748727": {
+			"name": "Cabaceiras do Paraguaçu"
+		},
+		"BR-BA-796b6d": {
+			"name": "Cachoeira"
+		},
+		"BR-BA-9e3b9d": {
+			"name": "Caculé"
+		},
+		"BR-BA-46f844": {
+			"name": "Caém"
+		},
+		"BR-BA-398b0b": {
+			"name": "Caetanos"
+		},
+		"BR-BA-a0ac52": {
+			"name": "Caetité"
+		},
+		"BR-BA-57df53": {
+			"name": "Cafarnaum"
+		},
+		"BR-BA-148635": {
+			"name": "Cairu"
+		},
+		"BR-BA-270b9f": {
+			"name": "Caldeirão Grande"
+		},
+		"BR-BA-8d7a2f": {
+			"name": "Camacan"
+		},
+		"BR-BA-4bcf5d": {
+			"name": "Camaçari"
+		},
+		"BR-BA-4fe7b6": {
+			"name": "Camamu"
+		},
+		"BR-BA-7ffe1b": {
+			"name": "Campo Alegre de Lourdes"
+		},
+		"BR-BA-76cccf": {
+			"name": "Campo Formoso"
+		},
+		"BR-BA-06e858": {
+			"name": "Canápolis"
+		},
+		"BR-BA-7ee5fb": {
+			"name": "Canarana"
+		},
+		"BR-BA-2644b0": {
+			"name": "Canavieiras"
+		},
+		"BR-BA-16a97b": {
+			"name": "CanDeal"
+		},
+		"BR-BA-d36de1": {
+			"name": "Candeias"
+		},
+		"BR-BA-c926f8": {
+			"name": "Candiba"
+		},
+		"BR-BA-ff9de4": {
+			"name": "Cândido Sales"
+		},
+		"BR-BA-992e0c": {
+			"name": "Cansanção"
+		},
+		"BR-BA-48112e": {
+			"name": "Canudos"
+		},
+		"BR-BA-4a68ad": {
+			"name": "Capela do Alto Alegre"
+		},
+		"BR-BA-4956c5": {
+			"name": "Capim Grosso"
+		},
+		"BR-BA-9e4615": {
+			"name": "Caraíbas"
+		},
+		"BR-BA-008a5a": {
+			"name": "Caravelas"
+		},
+		"BR-BA-e4a949": {
+			"name": "Cardeal da Silva"
+		},
+		"BR-BA-f48cb6": {
+			"name": "Carinhanha"
+		},
+		"BR-BA-7ebdad": {
+			"name": "Casa Nova"
+		},
+		"BR-BA-aecdd4": {
+			"name": "Castro Alves"
+		},
+		"BR-BA-c49210": {
+			"name": "Catolândia"
+		},
+		"BR-BA-30a296": {
+			"name": "Catu"
+		},
+		"BR-BA-5aca5c": {
+			"name": "Caturama"
+		},
+		"BR-BA-c2d94d": {
+			"name": "Central"
+		},
+		"BR-BA-1cafb4": {
+			"name": "Chorrochó"
+		},
+		"BR-BA-6bc727": {
+			"name": "Cícero Dantas"
+		},
+		"BR-BA-ea10bc": {
+			"name": "Cipó"
+		},
+		"BR-BA-27f155": {
+			"name": "Coaraci"
+		},
+		"BR-BA-a1525e": {
+			"name": "Cocos"
+		},
+		"BR-BA-359143": {
+			"name": "Conceição da Feira"
+		},
+		"BR-BA-047bc9": {
+			"name": "Conceição do Almeida"
+		},
+		"BR-BA-cf1d83": {
+			"name": "Conceição do Coité"
+		},
+		"BR-BA-7865d5": {
+			"name": "Conceição do Jacuípe"
+		},
+		"BR-BA-7cea13": {
+			"name": "Conde"
+		},
+		"BR-BA-e470a4": {
+			"name": "Condeúba"
+		},
+		"BR-BA-3fb74c": {
+			"name": "Contendas do Sincorá"
+		},
+		"BR-BA-61a2a0": {
+			"name": "Coração de Maria"
+		},
+		"BR-BA-e07680": {
+			"name": "Cordeiros"
+		},
+		"BR-BA-46f211": {
+			"name": "Coribe"
+		},
+		"BR-BA-308c7c": {
+			"name": "Coronel João Sá"
+		},
+		"BR-BA-c97559": {
+			"name": "Correntina"
+		},
+		"BR-BA-7c1e3f": {
+			"name": "Cotegipe"
+		},
+		"BR-BA-8197c0": {
+			"name": "Cravolândia"
+		},
+		"BR-BA-f75a3f": {
+			"name": "Crisópolis"
+		},
+		"BR-BA-c519f9": {
+			"name": "Cristópolis"
+		},
+		"BR-BA-75ce01": {
+			"name": "Cruz das Almas"
+		},
+		"BR-BA-889ca8": {
+			"name": "Curaçá"
+		},
+		"BR-BA-b888c1": {
+			"name": "Dário Meira"
+		},
+		"BR-BA-c69e7c": {
+			"name": "Dias d'Ávila"
+		},
+		"BR-BA-f2981d": {
+			"name": "Dom Basílio"
+		},
+		"BR-BA-571d50": {
+			"name": "Dom Macedo Costa"
+		},
+		"BR-BA-594aba": {
+			"name": "Elísio Medrado"
+		},
+		"BR-BA-ea5b1d": {
+			"name": "Encruzilhada"
+		},
+		"BR-BA-3b518a": {
+			"name": "Entre Rios"
+		},
+		"BR-BA-3ce15b": {
+			"name": "Érico Cardoso"
+		},
+		"BR-BA-b8b43c": {
+			"name": "Esplanada"
+		},
+		"BR-BA-15656b": {
+			"name": "Euclides da Cunha"
+		},
+		"BR-BA-dfcf93": {
+			"name": "Eunápolis"
+		},
+		"BR-BA-e844ea": {
+			"name": "Fatima"
+		},
+		"BR-BA-6755d6": {
+			"name": "Feira da Mata"
+		},
+		"BR-BA-11091f": {
+			"name": "Feira de Santana"
+		},
+		"BR-BA-0e06eb": {
+			"name": "Filadelfia"
+		},
+		"BR-BA-441a40": {
+			"name": "Firmino Alves"
+		},
+		"BR-BA-e9c8b3": {
+			"name": "Floresta Azul"
+		},
+		"BR-BA-208216": {
+			"name": "Formosa do Rio Preto"
+		},
+		"BR-BA-d0f2fb": {
+			"name": "Gandu"
+		},
+		"BR-BA-fb4bd3": {
+			"name": "Gavião"
+		},
+		"BR-BA-b79b48": {
+			"name": "Gentio do Ouro"
+		},
+		"BR-BA-221ffb": {
+			"name": "Glória"
+		},
+		"BR-BA-f362c4": {
+			"name": "Gongogi"
+		},
+		"BR-BA-34680d": {
+			"name": "Governador Mangabeira"
+		},
+		"BR-BA-369c83": {
+			"name": "Guajeru"
+		},
+		"BR-BA-d2f615": {
+			"name": "Guanambi"
+		},
+		"BR-BA-6b7279": {
+			"name": "Guaratinga"
+		},
+		"BR-BA-dcc488": {
+			"name": "Heliopolis"
+		},
+		"BR-BA-2c952d": {
+			"name": "Iaçu"
+		},
+		"BR-BA-9b8bdb": {
+			"name": "Ibiassucê"
+		},
+		"BR-BA-7f2c0b": {
+			"name": "Ibicaraí"
+		},
+		"BR-BA-3e217c": {
+			"name": "Ibicoara"
+		},
+		"BR-BA-577ada": {
+			"name": "Ibicuí"
+		},
+		"BR-BA-c716de": {
+			"name": "Ibipeba"
+		},
+		"BR-BA-0c3c3d": {
+			"name": "Ibipitanga"
+		},
+		"BR-BA-a98217": {
+			"name": "Ibiquera"
+		},
+		"BR-BA-1aeea6": {
+			"name": "Ibirapitanga"
+		},
+		"BR-BA-cbf4a6": {
+			"name": "Ibirapuã"
+		},
+		"BR-BA-5204e5": {
+			"name": "Ibirataia"
+		},
+		"BR-BA-d7b699": {
+			"name": "Ibitiara"
+		},
+		"BR-BA-01ecc0": {
+			"name": "Ibititá"
+		},
+		"BR-BA-47f35d": {
+			"name": "Ibotirama"
+		},
+		"BR-BA-4166ca": {
+			"name": "Ichu"
+		},
+		"BR-BA-040859": {
+			"name": "Igaporã"
+		},
+		"BR-BA-926e64": {
+			"name": "Igrapiúna"
+		},
+		"BR-BA-a49a32": {
+			"name": "Iguaí"
+		},
+		"BR-BA-184852": {
+			"name": "Ilhéus"
+		},
+		"BR-BA-475a46": {
+			"name": "Inhambupe"
+		},
+		"BR-BA-265522": {
+			"name": "Ipecaetá"
+		},
+		"BR-BA-0d9f04": {
+			"name": "Ipiaú"
+		},
+		"BR-BA-6a703e": {
+			"name": "Ipirá"
+		},
+		"BR-BA-cd7496": {
+			"name": "Ipupiara"
+		},
+		"BR-BA-4dfec2": {
+			"name": "Irajuba"
+		},
+		"BR-BA-13e1d4": {
+			"name": "Iramaia"
+		},
+		"BR-BA-452a85": {
+			"name": "Iraquara"
+		},
+		"BR-BA-684ff5": {
+			"name": "Irará"
+		},
+		"BR-BA-3e7000": {
+			"name": "Irecê"
+		},
+		"BR-BA-91a27d": {
+			"name": "Itabela"
+		},
+		"BR-BA-946a1c": {
+			"name": "Itaberaba"
+		},
+		"BR-BA-7dfe9b": {
+			"name": "Itabuna"
+		},
+		"BR-BA-7fa2f8": {
+			"name": "Itacare"
+		},
+		"BR-BA-f350ae": {
+			"name": "Itaeté"
+		},
+		"BR-BA-07ba86": {
+			"name": "Itagi"
+		},
+		"BR-BA-ad0c2c": {
+			"name": "Itagibá"
+		},
+		"BR-BA-d90522": {
+			"name": "Itagimirim"
+		},
+		"BR-BA-52a417": {
+			"name": "Itaguaçu da Bahia"
+		},
+		"BR-BA-bd4481": {
+			"name": "Itaju do Colônia"
+		},
+		"BR-BA-ab9703": {
+			"name": "Itajuípe"
+		},
+		"BR-BA-a881d7": {
+			"name": "Itamaraju"
+		},
+		"BR-BA-13a3c3": {
+			"name": "Itamari"
+		},
+		"BR-BA-83648e": {
+			"name": "Itambé"
+		},
+		"BR-BA-22da8c": {
+			"name": "Itanagra"
+		},
+		"BR-BA-ff25df": {
+			"name": "Itanhém"
+		},
+		"BR-BA-280d59": {
+			"name": "Itaparica"
+		},
+		"BR-BA-fdca05": {
+			"name": "Itapé"
+		},
+		"BR-BA-de0a82": {
+			"name": "Itapebi"
+		},
+		"BR-BA-281e82": {
+			"name": "Itapetinga"
+		},
+		"BR-BA-0d4128": {
+			"name": "Itapicuru"
+		},
+		"BR-BA-544004": {
+			"name": "Itapitanga"
+		},
+		"BR-BA-e9f90a": {
+			"name": "Itaquara"
+		},
+		"BR-BA-08e4e5": {
+			"name": "Itarantim"
+		},
+		"BR-BA-de33b8": {
+			"name": "Itatim"
+		},
+		"BR-BA-a047cd": {
+			"name": "Itiruçu"
+		},
+		"BR-BA-624bbe": {
+			"name": "Itiúba"
+		},
+		"BR-BA-cbe6b9": {
+			"name": "Itororó"
+		},
+		"BR-BA-5e4b07": {
+			"name": "Ituaçu"
+		},
+		"BR-BA-f274fa": {
+			"name": "Ituberá"
+		},
+		"BR-BA-16054f": {
+			"name": "Iuiú"
+		},
+		"BR-BA-b3aa8b": {
+			"name": "Jaborandi"
+		},
+		"BR-BA-15d75e": {
+			"name": "Jacaraci"
+		},
+		"BR-BA-068e5d": {
+			"name": "Jacobina"
+		},
+		"BR-BA-aa71f2": {
+			"name": "Jaguaquara"
+		},
+		"BR-BA-b09e58": {
+			"name": "Jaguarari"
+		},
+		"BR-BA-fd1705": {
+			"name": "Jaguaripe"
+		},
+		"BR-BA-5fa31f": {
+			"name": "Jandaíra"
+		},
+		"BR-BA-60a30f": {
+			"name": "Jequié"
+		},
+		"BR-BA-ccae50": {
+			"name": "Jeremoabo"
+		},
+		"BR-BA-169a2e": {
+			"name": "Jiquiriçá"
+		},
+		"BR-BA-8a3d89": {
+			"name": "Jitaúna"
+		},
+		"BR-BA-88959e": {
+			"name": "João Dourado"
+		},
+		"BR-BA-d7d5aa": {
+			"name": "Juazeiro"
+		},
+		"BR-BA-ea7973": {
+			"name": "Jucuruçu"
+		},
+		"BR-BA-483d36": {
+			"name": "Jussara"
+		},
+		"BR-BA-4e4ff8": {
+			"name": "Jussari"
+		},
+		"BR-BA-bb67aa": {
+			"name": "Jussiape"
+		},
+		"BR-BA-9efa25": {
+			"name": "Lafaiete Coutinho"
+		},
+		"BR-BA-c8e904": {
+			"name": "Lagoa Real"
+		},
+		"BR-BA-1dcfd4": {
+			"name": "Laje"
+		},
+		"BR-BA-c4208c": {
+			"name": "Lajedão"
+		},
+		"BR-BA-37d252": {
+			"name": "Lajedinho"
+		},
+		"BR-BA-a6ca68": {
+			"name": "Lajedo do Tabocal"
+		},
+		"BR-BA-4a0ee2": {
+			"name": "Lamarão"
+		},
+		"BR-BA-92f1d6": {
+			"name": "Lapão"
+		},
+		"BR-BA-c96f37": {
+			"name": "Lauro de Freitas"
+		},
+		"BR-BA-f6aa7b": {
+			"name": "Lençóis"
+		},
+		"BR-BA-d847e3": {
+			"name": "Licínio de Almeida"
+		},
+		"BR-BA-fd7b14": {
+			"name": "Livramento de Nossa Senhora"
+		},
+		"BR-BA-e2f088": {
+			"name": "Luís Eduardo Magalhães"
+		},
+		"BR-BA-9e7176": {
+			"name": "Macajuba"
+		},
+		"BR-BA-b658e6": {
+			"name": "Macarani"
+		},
+		"BR-BA-0ee408": {
+			"name": "Macaúbas"
+		},
+		"BR-BA-6dff4d": {
+			"name": "Macururé"
+		},
+		"BR-BA-74380f": {
+			"name": "Madre de Deus"
+		},
+		"BR-BA-baff16": {
+			"name": "Maetinga"
+		},
+		"BR-BA-251de0": {
+			"name": "Maiquinique"
+		},
+		"BR-BA-4a8036": {
+			"name": "Mairi"
+		},
+		"BR-BA-3d9815": {
+			"name": "Malhada"
+		},
+		"BR-BA-b6a071": {
+			"name": "Malhada de Pedras"
+		},
+		"BR-BA-beb895": {
+			"name": "Manoel Vitorino"
+		},
+		"BR-BA-bb5986": {
+			"name": "Mansidão"
+		},
+		"BR-BA-ea4d29": {
+			"name": "Maracas"
+		},
+		"BR-BA-f91081": {
+			"name": "Maragogipe"
+		},
+		"BR-BA-443439": {
+			"name": "Marau"
+		},
+		"BR-BA-9b00da": {
+			"name": "Marcionílio Souza"
+		},
+		"BR-BA-3b9fa7": {
+			"name": "Mascote"
+		},
+		"BR-BA-541649": {
+			"name": "Mata de São João"
+		},
+		"BR-BA-c2daa2": {
+			"name": "Matina"
+		},
+		"BR-BA-7b59a9": {
+			"name": "Medeiros Neto"
+		},
+		"BR-BA-c60ce6": {
+			"name": "Miguel Calmon"
+		},
+		"BR-BA-48c59c": {
+			"name": "Milagres"
+		},
+		"BR-BA-6ae55a": {
+			"name": "Mirangaba"
+		},
+		"BR-BA-264789": {
+			"name": "Mirante"
+		},
+		"BR-BA-aec459": {
+			"name": "Monte Santo"
+		},
+		"BR-BA-1c4756": {
+			"name": "Morpará"
+		},
+		"BR-BA-18e72b": {
+			"name": "Morro do Chapéu"
+		},
+		"BR-BA-677838": {
+			"name": "Mortugaba"
+		},
+		"BR-BA-a405be": {
+			"name": "Mucugê"
+		},
+		"BR-BA-98068f": {
+			"name": "Mucuri"
+		},
+		"BR-BA-5da35f": {
+			"name": "Mulungu do Morro"
+		},
+		"BR-BA-3a2aaa": {
+			"name": "Mundo Novo"
+		},
+		"BR-BA-933dce": {
+			"name": "Muniz Ferreira"
+		},
+		"BR-BA-d2cca4": {
+			"name": "Muquém de São Francisco"
+		},
+		"BR-BA-7f6d93": {
+			"name": "Muritiba"
+		},
+		"BR-BA-f8beef": {
+			"name": "Mutuípe"
+		},
+		"BR-BA-8f00c4": {
+			"name": "Nazaré"
+		},
+		"BR-BA-ff58c9": {
+			"name": "Nilo Peçanha"
+		},
+		"BR-BA-471251": {
+			"name": "Nordestina"
+		},
+		"BR-BA-7c85f8": {
+			"name": "Nova Canaã"
+		},
+		"BR-BA-2b7996": {
+			"name": "Nova Fátima"
+		},
+		"BR-BA-30da3a": {
+			"name": "Nova Ibiá"
+		},
+		"BR-BA-c9a308": {
+			"name": "Nova Itarana"
+		},
+		"BR-BA-655a08": {
+			"name": "Nova Redenção"
+		},
+		"BR-BA-88bbd1": {
+			"name": "Nova Soure"
+		},
+		"BR-BA-cec5ae": {
+			"name": "Nova Viçosa"
+		},
+		"BR-BA-9405e1": {
+			"name": "Novo Horizonte"
+		},
+		"BR-BA-0f3591": {
+			"name": "Novo Triunfo"
+		},
+		"BR-BA-d0591e": {
+			"name": "Olindina"
+		},
+		"BR-BA-543a96": {
+			"name": "Oliveira dos Brejinhos"
+		},
+		"BR-BA-443327": {
+			"name": "Ouriçangas"
+		},
+		"BR-BA-607b5d": {
+			"name": "Ourolândia"
+		},
+		"BR-BA-88948d": {
+			"name": "Palmas de Monte Alto"
+		},
+		"BR-BA-c6c0e2": {
+			"name": "Palmeiras"
+		},
+		"BR-BA-ee4a02": {
+			"name": "Paramirim"
+		},
+		"BR-BA-f13023": {
+			"name": "Paratinga"
+		},
+		"BR-BA-10db18": {
+			"name": "Paripiranga"
+		},
+		"BR-BA-69c584": {
+			"name": "Pau Brasil"
+		},
+		"BR-BA-108882": {
+			"name": "Paulo Afonso"
+		},
+		"BR-BA-da84d6": {
+			"name": "Pé de Serra"
+		},
+		"BR-BA-1e7296": {
+			"name": "Pedrão"
+		},
+		"BR-BA-2525e5": {
+			"name": "Pedro Alexandre"
+		},
+		"BR-BA-8fc386": {
+			"name": "Piatã"
+		},
+		"BR-BA-4f380c": {
+			"name": "Pilão Arcado"
+		},
+		"BR-BA-e8c400": {
+			"name": "Pindaí"
+		},
+		"BR-BA-e92a5c": {
+			"name": "Pindobaçu"
+		},
+		"BR-BA-341de4": {
+			"name": "Pintadas"
+		},
+		"BR-BA-a038de": {
+			"name": "Piraí do Norte"
+		},
+		"BR-BA-31209b": {
+			"name": "Piripá"
+		},
+		"BR-BA-940416": {
+			"name": "Piritiba"
+		},
+		"BR-BA-c03ee7": {
+			"name": "Planaltino"
+		},
+		"BR-BA-6755d8": {
+			"name": "Planalto"
+		},
+		"BR-BA-414512": {
+			"name": "Poções"
+		},
+		"BR-BA-dec310": {
+			"name": "Pojuca"
+		},
+		"BR-BA-2e8560": {
+			"name": "Ponto Novo"
+		},
+		"BR-BA-7793ae": {
+			"name": "Porto Seguro"
+		},
+		"BR-BA-65760e": {
+			"name": "Potiraguá"
+		},
+		"BR-BA-9edec1": {
+			"name": "Prado"
+		},
+		"BR-BA-6dec6f": {
+			"name": "Presidente Dutra"
+		},
+		"BR-BA-07fced": {
+			"name": "Presidente Jânio Quadros"
+		},
+		"BR-BA-3ab5bc": {
+			"name": "Presidente Tancredo Neves"
+		},
+		"BR-BA-0942c7": {
+			"name": "Queimadas"
+		},
+		"BR-BA-81cac9": {
+			"name": "Quijingue"
+		},
+		"BR-BA-685516": {
+			"name": "Quixabeira"
+		},
+		"BR-BA-344e0f": {
+			"name": "Rafael Jambeiro"
+		},
+		"BR-BA-75c632": {
+			"name": "Remanso"
+		},
+		"BR-BA-0e472e": {
+			"name": "Retirolândia"
+		},
+		"BR-BA-e81bcd": {
+			"name": "Riachão das Neves"
+		},
+		"BR-BA-263b42": {
+			"name": "Riachão do Jacuípe"
+		},
+		"BR-BA-e7cbbb": {
+			"name": "Riacho de Santana"
+		},
+		"BR-BA-840171": {
+			"name": "Ribeira do Amparo"
+		},
+		"BR-BA-e7ecd0": {
+			"name": "Ribeira do Pombal"
+		},
+		"BR-BA-064165": {
+			"name": "Ribeirão do Largo"
+		},
+		"BR-BA-c9cc1b": {
+			"name": "Rio de Contas"
+		},
+		"BR-BA-268978": {
+			"name": "Rio do Antônio"
+		},
+		"BR-BA-b6306f": {
+			"name": "Rio do Pires"
+		},
+		"BR-BA-bd77cc": {
+			"name": "Rio Real"
+		},
+		"BR-BA-4722e2": {
+			"name": "Rodelas"
+		},
+		"BR-BA-7ea81c": {
+			"name": "Ruy Barbosa"
+		},
+		"BR-BA-6fbbae": {
+			"name": "Salinas da Margarida"
+		},
+		"BR-BA-e3e6a6": {
+			"name": "Salvador"
+		},
+		"BR-BA-ed5588": {
+			"name": "Santa Bárbara"
+		},
+		"BR-BA-a00dc7": {
+			"name": "Santa Brigida"
+		},
+		"BR-BA-97685c": {
+			"name": "Santa Cruz Cabrália"
+		},
+		"BR-BA-e0fdfd": {
+			"name": "Santa Cruz da Vitória"
+		},
+		"BR-BA-50dad4": {
+			"name": "Santa Inês"
+		},
+		"BR-BA-6ce53c": {
+			"name": "Santa Luzia"
+		},
+		"BR-BA-3d4605": {
+			"name": "Santa Maria da Vitória"
+		},
+		"BR-BA-42d90c": {
+			"name": "Santa Rita de Cássia"
+		},
+		"BR-BA-9c1cd1": {
+			"name": "Santa Teresinha"
+		},
+		"BR-BA-4d4c36": {
+			"name": "Santaluz"
+		},
+		"BR-BA-f33627": {
+			"name": "Santana"
+		},
+		"BR-BA-75d4af": {
+			"name": "Santanópolis"
+		},
+		"BR-BA-3414c3": {
+			"name": "Santo Amaro"
+		},
+		"BR-BA-6b03e7": {
+			"name": "Santo Antônio de Jesus"
+		},
+		"BR-BA-dc03f9": {
+			"name": "Santo Estêvão"
+		},
+		"BR-BA-1bc9b7": {
+			"name": "São Desidério"
+		},
+		"BR-BA-b5d841": {
+			"name": "São Domingos"
+		},
+		"BR-BA-ecc623": {
+			"name": "São Felipe"
+		},
+		"BR-BA-d59974": {
+			"name": "São Félix"
+		},
+		"BR-BA-a56185": {
+			"name": "São Félix do Coribe"
+		},
+		"BR-BA-323383": {
+			"name": "São Francisco do Conde"
+		},
+		"BR-BA-04abe3": {
+			"name": "São Gabriel"
+		},
+		"BR-BA-e63d11": {
+			"name": "São Gonçalo dos Campos"
+		},
+		"BR-BA-702eac": {
+			"name": "São José da Vitória"
+		},
+		"BR-BA-8e5188": {
+			"name": "São José do Jacuípe"
+		},
+		"BR-BA-c004c3": {
+			"name": "São Miguel das Matas"
+		},
+		"BR-BA-cfabce": {
+			"name": "São Sebastião do Passé"
+		},
+		"BR-BA-051659": {
+			"name": "Sapeaçu"
+		},
+		"BR-BA-cf06b0": {
+			"name": "Sátiro Dias"
+		},
+		"BR-BA-24ff8b": {
+			"name": "Saubara"
+		},
+		"BR-BA-a7da2f": {
+			"name": "Saúde"
+		},
+		"BR-BA-dabd0f": {
+			"name": "Seabra"
+		},
+		"BR-BA-3740cb": {
+			"name": "Sebastião Laranjeiras"
+		},
+		"BR-BA-cc1b71": {
+			"name": "Senhor do Bonfim"
+		},
+		"BR-BA-0ba2bb": {
+			"name": "Sento Sé"
+		},
+		"BR-BA-98bd3b": {
+			"name": "Serra do Ramalho"
+		},
+		"BR-BA-221348": {
+			"name": "Serra Dourada"
+		},
+		"BR-BA-dd7d88": {
+			"name": "Serra preta"
+		},
+		"BR-BA-eae8db": {
+			"name": "Serrinha"
+		},
+		"BR-BA-af67d3": {
+			"name": "Serrolândia"
+		},
+		"BR-BA-bc2f04": {
+			"name": "Simões Filho"
+		},
+		"BR-BA-0d7758": {
+			"name": "Sítio do Mato"
+		},
+		"BR-BA-fa8c0f": {
+			"name": "Sítio do Quinto"
+		},
+		"BR-BA-c5f1bf": {
+			"name": "Sobradinho"
+		},
+		"BR-BA-001671": {
+			"name": "Souto Soares"
+		},
+		"BR-BA-8e5a54": {
+			"name": "Tabocas do Brejo Velho"
+		},
+		"BR-BA-f8e31e": {
+			"name": "Tanhaçu"
+		},
+		"BR-BA-d33a48": {
+			"name": "Tanque Novo"
+		},
+		"BR-BA-e4bb57": {
+			"name": "Tanquinho"
+		},
+		"BR-BA-20aa82": {
+			"name": "Taperoá"
+		},
+		"BR-BA-9ca404": {
+			"name": "Tapiramutá"
+		},
+		"BR-BA-7030c8": {
+			"name": "Teixeira de Freitas"
+		},
+		"BR-BA-9007a0": {
+			"name": "Teodoro Sampaio"
+		},
+		"BR-BA-cb7f02": {
+			"name": "Teofilândia"
+		},
+		"BR-BA-9b65da": {
+			"name": "Teolândia"
+		},
+		"BR-BA-5d2e58": {
+			"name": "Terra Nova"
+		},
+		"BR-BA-c99370": {
+			"name": "Tremedal"
+		},
+		"BR-BA-cb8c92": {
+			"name": "Tucano"
+		},
+		"BR-BA-cf3593": {
+			"name": "Uauá"
+		},
+		"BR-BA-372628": {
+			"name": "Ubaíra"
+		},
+		"BR-BA-4b8d2f": {
+			"name": "Ubaitaba"
+		},
+		"BR-BA-26316d": {
+			"name": "Ubatã"
+		},
+		"BR-BA-e56dda": {
+			"name": "Uibaí"
+		},
+		"BR-BA-307614": {
+			"name": "Umburanas"
+		},
+		"BR-BA-c82469": {
+			"name": "Una"
+		},
+		"BR-BA-b3bf03": {
+			"name": "Urandi"
+		},
+		"BR-BA-d652d3": {
+			"name": "Uruçuca"
+		},
+		"BR-BA-9f27e2": {
+			"name": "Utinga"
+		},
+		"BR-BA-9c33f9": {
+			"name": "Valença"
+		},
+		"BR-BA-72f6cb": {
+			"name": "Valente"
+		},
+		"BR-BA-faa33b": {
+			"name": "Várzea da Roça"
+		},
+		"BR-BA-073081": {
+			"name": "Várzea do Poço"
+		},
+		"BR-BA-a0c8af": {
+			"name": "Várzea Nova"
+		},
+		"BR-BA-fe51f0": {
+			"name": "Varzedo"
+		},
+		"BR-BA-bf4c9f": {
+			"name": "Vera Cruz"
+		},
+		"BR-BA-858d01": {
+			"name": "Vereda"
+		},
+		"BR-BA-39ba73": {
+			"name": "Vitória da Conquista"
+		},
+		"BR-BA-85c040": {
+			"name": "Wagner"
+		},
+		"BR-BA-25b404": {
+			"name": "Wanderley"
+		},
+		"BR-BA-a12447": {
+			"name": "Wenceslau Guimarães"
+		},
+		"BR-BA-05315a": {
+			"name": "Xique-Xique"
+		}
+	}
 }

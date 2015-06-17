@@ -1,92 +1,52 @@
 {
-    "CL-CO-693432": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-CO",
-        "name": "Andacollo"
-    },
-    "CL-CO-16fc39": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-CO",
-        "name": "Canela"
-    },
-    "CL-CO-44eafc": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-CO",
-        "name": "Combarbalá"
-    },
-    "CL-CO-a1f7c3": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-CO",
-        "name": "Coquimbo"
-    },
-    "CL-CO-5a572a": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-CO",
-        "name": "Illapel"
-    },
-    "CL-CO-ffc9cb": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-CO",
-        "name": "La Higuera"
-    },
-    "CL-CO-4f241e": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-CO",
-        "name": "La Serena"
-    },
-    "CL-CO-e42e90": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-CO",
-        "name": "Los Vilos"
-    },
-    "CL-CO-56a7ed": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-CO",
-        "name": "Monte Patria"
-    },
-    "CL-CO-e2d811": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-CO",
-        "name": "Ovalle"
-    },
-    "CL-CO-d8fba6": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-CO",
-        "name": "Paihuano"
-    },
-    "CL-CO-f634b2": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-CO",
-        "name": "Punitaqui"
-    },
-    "CL-CO-aed48b": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-CO",
-        "name": "Río Hurtado"
-    },
-    "CL-CO-acc8ee": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-CO",
-        "name": "Salamanca"
-    },
-    "CL-CO-6b9d8b": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-CO",
-        "name": "Vicuña"
-    }
+	"country_code": "CL",
+	"parent_id": "CL-CO",
+	"locale": "es",
+	"subdivisions": {
+		"CL-CO-693432": {
+			"name": "Andacollo"
+		},
+		"CL-CO-16fc39": {
+			"name": "Canela"
+		},
+		"CL-CO-44eafc": {
+			"name": "Combarbalá"
+		},
+		"CL-CO-a1f7c3": {
+			"name": "Coquimbo"
+		},
+		"CL-CO-5a572a": {
+			"name": "Illapel"
+		},
+		"CL-CO-ffc9cb": {
+			"name": "La Higuera"
+		},
+		"CL-CO-4f241e": {
+			"name": "La Serena"
+		},
+		"CL-CO-e42e90": {
+			"name": "Los Vilos"
+		},
+		"CL-CO-56a7ed": {
+			"name": "Monte Patria"
+		},
+		"CL-CO-e2d811": {
+			"name": "Ovalle"
+		},
+		"CL-CO-d8fba6": {
+			"name": "Paihuano"
+		},
+		"CL-CO-f634b2": {
+			"name": "Punitaqui"
+		},
+		"CL-CO-aed48b": {
+			"name": "Río Hurtado"
+		},
+		"CL-CO-acc8ee": {
+			"name": "Salamanca"
+		},
+		"CL-CO-6b9d8b": {
+			"name": "Vicuña"
+		}
+	}
 }

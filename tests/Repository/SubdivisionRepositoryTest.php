@@ -18,41 +18,44 @@ class SubdivisionRepositoryTest extends \PHPUnit_Framework_TestCase
      */
     protected $subdivisions = [
         'BR' => [
-            'BR-SC' => [
-                'locale' => 'pt',
-                'country_code' => 'BR',
-                'parent_id' => null,
-                'code' => 'SC',
-                'name' => 'Santa Catarina',
-                'postal_code_pattern' => '8[89]',
-                'postal_code_pattern_type' => 'full',
-                'has_children' => true,
-            ],
-            'BR-SP' => [
-                'locale' => 'pt',
-                'country_code' => 'BR',
-                'parent_id' => null,
-                'code' => 'SP',
-                'name' => 'São Paulo',
-                'postal_code_pattern' => '[01][1-9]',
-                'has_children' => true,
+            'country_code' => 'BR',
+            'parent_id' => null,
+            'locale' => 'pt',
+            'subdivisions' => [
+                'BR-SC' => [
+                    'code' => 'SC',
+                    'name' => 'Santa Catarina',
+                    'postal_code_pattern' => '8[89]',
+                    'postal_code_pattern_type' => 'full',
+                    'has_children' => true,
+                ],
+                'BR-SP' => [
+                    'code' => 'SP',
+                    'name' => 'São Paulo',
+                    'postal_code_pattern' => '[01][1-9]',
+                    'has_children' => true,
+                ],
             ],
         ],
         'BR-SC' => [
-            'BR-SC-9c7753' => [
-                'locale' => 'pt',
-                'country_code' => 'BR',
-                'parent_id' => 'BR-SC',
-                'name' => 'Abelardo Luz',
+            'country_code' => 'BR',
+            'parent_id' => 'BR-SC',
+            'locale' => 'pt',
+            'subdivisions' => [
+                'BR-SC-9c7753' => [
+                    'name' => 'Abelardo Luz',
+                ],
             ],
         ],
         'BR-SP' => [
-            'BR-SP-8e3f19' => [
-                'locale' => 'pt',
-                'country_code' => 'BR',
-                'parent_id' => 'BR-SP',
-                'name' => 'Anhumas',
-            ],
+            'locale' => 'pt',
+            'country_code' => 'BR',
+            'parent_id' => 'BR-SP',
+            'subdivisions' => [
+                'BR-SP-8e3f19' => [
+                    'name' => 'Anhumas',
+                ],
+            ]
         ],
     ];
 
@@ -91,7 +94,7 @@ class SubdivisionRepositoryTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::get
      * @covers ::loadDefinitions
-     * @covers ::createSubdivisionFromDefinition
+     * @covers ::createSubdivisionFromDefinitions
      *
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository::__construct
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository::getAll
@@ -130,7 +133,7 @@ class SubdivisionRepositoryTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::get
      * @covers ::loadDefinitions
-     * @covers ::createSubdivisionFromDefinition
+     * @covers ::createSubdivisionFromDefinitions
      *
      * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      * @depends testConstructor
@@ -147,7 +150,7 @@ class SubdivisionRepositoryTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::getAll
      * @covers ::loadDefinitions
-     * @covers ::createSubdivisionFromDefinition
+     * @covers ::createSubdivisionFromDefinitions
      *
      * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      * @uses \CommerceGuys\Addressing\Model\Subdivision
@@ -156,6 +159,9 @@ class SubdivisionRepositoryTest extends \PHPUnit_Framework_TestCase
      */
     public function testGetAll($subdivisionRepository)
     {
+        $subdivisions = $subdivisionRepository->getAll('RS');
+        $this->assertEquals([], $subdivisions);
+
         $subdivisions = $subdivisionRepository->getAll('BR');
         $this->assertCount(2, $subdivisions);
         $this->assertArrayHasKey('BR-SC', $subdivisions);
@@ -178,6 +184,9 @@ class SubdivisionRepositoryTest extends \PHPUnit_Framework_TestCase
      */
     public function testGetList($subdivisionRepository)
     {
+        $list = $subdivisionRepository->getList('RS');
+        $this->assertEquals([], $list);
+
         $list = $subdivisionRepository->getList('BR');
         $expectedList = ['BR-SC' => 'Santa Catarina', 'BR-SP' => 'São Paulo'];
         $this->assertEquals($expectedList, $list);

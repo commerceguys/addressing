@@ -1,314 +1,163 @@
 {
-    "CL-RM-4cff9a": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-RM",
-        "name": "Alhué"
-    },
-    "CL-RM-ab37eb": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-RM",
-        "name": "Buin"
-    },
-    "CL-RM-7e8de9": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-RM",
-        "name": "Calera de Tango"
-    },
-    "CL-RM-101dc1": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-RM",
-        "name": "Cerrillos"
-    },
-    "CL-RM-d4b995": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-RM",
-        "name": "Cerro Navia"
-    },
-    "CL-RM-0b6f6c": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-RM",
-        "name": "Colina"
-    },
-    "CL-RM-59646e": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-RM",
-        "name": "Conchalí"
-    },
-    "CL-RM-48382f": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-RM",
-        "name": "Curacaví"
-    },
-    "CL-RM-772b64": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-RM",
-        "name": "El Bosque"
-    },
-    "CL-RM-33e987": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-RM",
-        "name": "El Monte"
-    },
-    "CL-RM-744666": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-RM",
-        "name": "Estación Central"
-    },
-    "CL-RM-428f2f": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-RM",
-        "name": "Huechuraba"
-    },
-    "CL-RM-a07b13": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-RM",
-        "name": "Independencia"
-    },
-    "CL-RM-0c5944": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-RM",
-        "name": "Isla de Maipo"
-    },
-    "CL-RM-eae5e8": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-RM",
-        "name": "La Cisterna"
-    },
-    "CL-RM-2160de": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-RM",
-        "name": "La Florida"
-    },
-    "CL-RM-62201b": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-RM",
-        "name": "La Granja"
-    },
-    "CL-RM-187e1a": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-RM",
-        "name": "La Pintana"
-    },
-    "CL-RM-a3b3af": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-RM",
-        "name": "La Reina"
-    },
-    "CL-RM-c29403": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-RM",
-        "name": "Lampa"
-    },
-    "CL-RM-5b5cfc": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-RM",
-        "name": "Las Condes"
-    },
-    "CL-RM-75cb91": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-RM",
-        "name": "Lo Barnechea"
-    },
-    "CL-RM-19b4e7": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-RM",
-        "name": "Lo Espejo"
-    },
-    "CL-RM-e787ee": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-RM",
-        "name": "Lo Prado"
-    },
-    "CL-RM-a5027e": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-RM",
-        "name": "Macul"
-    },
-    "CL-RM-dff20e": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-RM",
-        "name": "Maipú"
-    },
-    "CL-RM-332a16": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-RM",
-        "name": "María Pinto"
-    },
-    "CL-RM-8a3ef0": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-RM",
-        "name": "Melipilla"
-    },
-    "CL-RM-d78a71": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-RM",
-        "name": "Ñuñoa"
-    },
-    "CL-RM-aeb344": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-RM",
-        "name": "Padre Hurtado"
-    },
-    "CL-RM-10c314": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-RM",
-        "name": "Paine"
-    },
-    "CL-RM-6155dc": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-RM",
-        "name": "Pedro Aguirre Cerda"
-    },
-    "CL-RM-4338c7": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-RM",
-        "name": "Peñaflor"
-    },
-    "CL-RM-8ebac6": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-RM",
-        "name": "Peñalolén"
-    },
-    "CL-RM-fa0f0d": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-RM",
-        "name": "Pirque"
-    },
-    "CL-RM-e745de": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-RM",
-        "name": "Providencia"
-    },
-    "CL-RM-241f99": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-RM",
-        "name": "Pudahuel"
-    },
-    "CL-RM-da73c4": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-RM",
-        "name": "Puente Alto"
-    },
-    "CL-RM-4eddec": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-RM",
-        "name": "Quilicura"
-    },
-    "CL-RM-418d54": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-RM",
-        "name": "Quinta Normal"
-    },
-    "CL-RM-261f9a": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-RM",
-        "name": "Recoleta"
-    },
-    "CL-RM-85cc49": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-RM",
-        "name": "Renca"
-    },
-    "CL-RM-58e19a": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-RM",
-        "name": "San Bernardo"
-    },
-    "CL-RM-1b571f": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-RM",
-        "name": "San Joaquín"
-    },
-    "CL-RM-9192d1": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-RM",
-        "name": "San José de Maipo"
-    },
-    "CL-RM-40e573": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-RM",
-        "name": "San Miguel"
-    },
-    "CL-RM-7b4226": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-RM",
-        "name": "San Pedro"
-    },
-    "CL-RM-cbf228": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-RM",
-        "name": "San Ramón"
-    },
-    "CL-RM-baab7f": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-RM",
-        "name": "Santiago"
-    },
-    "CL-RM-bf6d1e": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-RM",
-        "name": "Talagante"
-    },
-    "CL-RM-98e097": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-RM",
-        "name": "Tiltil"
-    },
-    "CL-RM-14bc6b": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-RM",
-        "name": "Vitacura"
-    }
+	"country_code": "CL",
+	"parent_id": "CL-RM",
+	"locale": "es",
+	"subdivisions": {
+		"CL-RM-4cff9a": {
+			"name": "Alhué"
+		},
+		"CL-RM-ab37eb": {
+			"name": "Buin"
+		},
+		"CL-RM-7e8de9": {
+			"name": "Calera de Tango"
+		},
+		"CL-RM-101dc1": {
+			"name": "Cerrillos"
+		},
+		"CL-RM-d4b995": {
+			"name": "Cerro Navia"
+		},
+		"CL-RM-0b6f6c": {
+			"name": "Colina"
+		},
+		"CL-RM-59646e": {
+			"name": "Conchalí"
+		},
+		"CL-RM-48382f": {
+			"name": "Curacaví"
+		},
+		"CL-RM-772b64": {
+			"name": "El Bosque"
+		},
+		"CL-RM-33e987": {
+			"name": "El Monte"
+		},
+		"CL-RM-744666": {
+			"name": "Estación Central"
+		},
+		"CL-RM-428f2f": {
+			"name": "Huechuraba"
+		},
+		"CL-RM-a07b13": {
+			"name": "Independencia"
+		},
+		"CL-RM-0c5944": {
+			"name": "Isla de Maipo"
+		},
+		"CL-RM-eae5e8": {
+			"name": "La Cisterna"
+		},
+		"CL-RM-2160de": {
+			"name": "La Florida"
+		},
+		"CL-RM-62201b": {
+			"name": "La Granja"
+		},
+		"CL-RM-187e1a": {
+			"name": "La Pintana"
+		},
+		"CL-RM-a3b3af": {
+			"name": "La Reina"
+		},
+		"CL-RM-c29403": {
+			"name": "Lampa"
+		},
+		"CL-RM-5b5cfc": {
+			"name": "Las Condes"
+		},
+		"CL-RM-75cb91": {
+			"name": "Lo Barnechea"
+		},
+		"CL-RM-19b4e7": {
+			"name": "Lo Espejo"
+		},
+		"CL-RM-e787ee": {
+			"name": "Lo Prado"
+		},
+		"CL-RM-a5027e": {
+			"name": "Macul"
+		},
+		"CL-RM-dff20e": {
+			"name": "Maipú"
+		},
+		"CL-RM-332a16": {
+			"name": "María Pinto"
+		},
+		"CL-RM-8a3ef0": {
+			"name": "Melipilla"
+		},
+		"CL-RM-d78a71": {
+			"name": "Ñuñoa"
+		},
+		"CL-RM-aeb344": {
+			"name": "Padre Hurtado"
+		},
+		"CL-RM-10c314": {
+			"name": "Paine"
+		},
+		"CL-RM-6155dc": {
+			"name": "Pedro Aguirre Cerda"
+		},
+		"CL-RM-4338c7": {
+			"name": "Peñaflor"
+		},
+		"CL-RM-8ebac6": {
+			"name": "Peñalolén"
+		},
+		"CL-RM-fa0f0d": {
+			"name": "Pirque"
+		},
+		"CL-RM-e745de": {
+			"name": "Providencia"
+		},
+		"CL-RM-241f99": {
+			"name": "Pudahuel"
+		},
+		"CL-RM-da73c4": {
+			"name": "Puente Alto"
+		},
+		"CL-RM-4eddec": {
+			"name": "Quilicura"
+		},
+		"CL-RM-418d54": {
+			"name": "Quinta Normal"
+		},
+		"CL-RM-261f9a": {
+			"name": "Recoleta"
+		},
+		"CL-RM-85cc49": {
+			"name": "Renca"
+		},
+		"CL-RM-58e19a": {
+			"name": "San Bernardo"
+		},
+		"CL-RM-1b571f": {
+			"name": "San Joaquín"
+		},
+		"CL-RM-9192d1": {
+			"name": "San José de Maipo"
+		},
+		"CL-RM-40e573": {
+			"name": "San Miguel"
+		},
+		"CL-RM-7b4226": {
+			"name": "San Pedro"
+		},
+		"CL-RM-cbf228": {
+			"name": "San Ramón"
+		},
+		"CL-RM-baab7f": {
+			"name": "Santiago"
+		},
+		"CL-RM-bf6d1e": {
+			"name": "Talagante"
+		},
+		"CL-RM-98e097": {
+			"name": "Tiltil"
+		},
+		"CL-RM-14bc6b": {
+			"name": "Vitacura"
+		}
+	}
 }

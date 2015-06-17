@@ -1,13 +1,13 @@
 {
-    "locale": "und",
-    "format": "%recipient\n%organization\n%addressLine1\n%addressLine2\nSINGAPORE %postalCode",
-    "required_fields": [
-        "addressLine1",
-        "postalCode"
-    ],
-    "uppercase_fields": [
-        "locality"
-    ],
-    "postal_code_type": "postal",
-    "postal_code_pattern": "\\d{6}"
+	"locale": "und",
+	"format": "%recipient\n%organization\n%addressLine1\n%addressLine2\nSINGAPORE %postalCode",
+	"required_fields": [
+		"addressLine1",
+		"postalCode"
+	],
+	"uppercase_fields": [
+		"locality"
+	],
+	"postal_code_type": "postal",
+	"postal_code_pattern": "\\d{6}"
 }

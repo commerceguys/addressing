@@ -1,50 +1,43 @@
 {
-    "CN-37-29e5ef-5865b5": {
-        "locale": "zh-Latn",
-        "country_code": "CN",
-        "parent_id": "CN-37-29e5ef",
-        "code": "环翠区",
-        "name": "Huancui Qu",
-        "translations": {
-            "zh": {
-                "name": "环翠区"
-            }
-        }
-    },
-    "CN-37-29e5ef-8e6cdc": {
-        "locale": "zh-Latn",
-        "country_code": "CN",
-        "parent_id": "CN-37-29e5ef",
-        "code": "荣成市",
-        "name": "Rongcheng Shi",
-        "translations": {
-            "zh": {
-                "name": "荣成市"
-            }
-        }
-    },
-    "CN-37-29e5ef-d85225": {
-        "locale": "zh-Latn",
-        "country_code": "CN",
-        "parent_id": "CN-37-29e5ef",
-        "code": "乳山市",
-        "name": "Rushan Shi",
-        "translations": {
-            "zh": {
-                "name": "乳山市"
-            }
-        }
-    },
-    "CN-37-29e5ef-6fb382": {
-        "locale": "zh-Latn",
-        "country_code": "CN",
-        "parent_id": "CN-37-29e5ef",
-        "code": "文登市",
-        "name": "Wendeng Shi",
-        "translations": {
-            "zh": {
-                "name": "文登市"
-            }
-        }
-    }
+	"country_code": "CN",
+	"parent_id": "CN-37-29e5ef",
+	"locale": "zh-Latn",
+	"subdivisions": {
+		"CN-37-29e5ef-5865b5": {
+			"code": "环翠区",
+			"name": "Huancui Qu",
+			"translations": {
+				"zh": {
+					"name": "环翠区"
+				}
+			}
+		},
+		"CN-37-29e5ef-8e6cdc": {
+			"code": "荣成市",
+			"name": "Rongcheng Shi",
+			"translations": {
+				"zh": {
+					"name": "荣成市"
+				}
+			}
+		},
+		"CN-37-29e5ef-d85225": {
+			"code": "乳山市",
+			"name": "Rushan Shi",
+			"translations": {
+				"zh": {
+					"name": "乳山市"
+				}
+			}
+		},
+		"CN-37-29e5ef-6fb382": {
+			"code": "文登市",
+			"name": "Wendeng Shi",
+			"translations": {
+				"zh": {
+					"name": "文登市"
+				}
+			}
+		}
+	}
 }

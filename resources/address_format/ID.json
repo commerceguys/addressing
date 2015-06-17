@@ -1,15 +1,15 @@
 {
-    "locale": "id",
-    "format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%locality\n%administrativeArea %postalCode",
-    "required_fields": [
-        "addressLine1",
-        "locality"
-    ],
-    "uppercase_fields": [
-        "locality"
-    ],
-    "administrative_area_type": "district",
-    "locality_type": "city",
-    "postal_code_type": "postal",
-    "postal_code_pattern": "\\d{5}"
+	"locale": "id",
+	"format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%locality\n%administrativeArea %postalCode",
+	"required_fields": [
+		"addressLine1",
+		"locality"
+	],
+	"uppercase_fields": [
+		"locality"
+	],
+	"administrative_area_type": "district",
+	"locality_type": "city",
+	"postal_code_type": "postal",
+	"postal_code_pattern": "\\d{5}"
 }

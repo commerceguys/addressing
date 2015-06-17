@@ -1,152 +1,82 @@
 {
-    "VE-Z": {
-        "locale": "es",
-        "country_code": "VE",
-        "parent_id": null,
-        "name": "Amazonas"
-    },
-    "VE-B": {
-        "locale": "es",
-        "country_code": "VE",
-        "parent_id": null,
-        "name": "Anzoátegui"
-    },
-    "VE-C": {
-        "locale": "es",
-        "country_code": "VE",
-        "parent_id": null,
-        "name": "Apure"
-    },
-    "VE-D": {
-        "locale": "es",
-        "country_code": "VE",
-        "parent_id": null,
-        "name": "Aragua"
-    },
-    "VE-E": {
-        "locale": "es",
-        "country_code": "VE",
-        "parent_id": null,
-        "name": "Barinas"
-    },
-    "VE-F": {
-        "locale": "es",
-        "country_code": "VE",
-        "parent_id": null,
-        "name": "Bolívar"
-    },
-    "VE-G": {
-        "locale": "es",
-        "country_code": "VE",
-        "parent_id": null,
-        "name": "Carabobo"
-    },
-    "VE-H": {
-        "locale": "es",
-        "country_code": "VE",
-        "parent_id": null,
-        "name": "Cojedes"
-    },
-    "VE-Y": {
-        "locale": "es",
-        "country_code": "VE",
-        "parent_id": null,
-        "name": "Delta Amacuro"
-    },
-    "VE-W": {
-        "locale": "es",
-        "country_code": "VE",
-        "parent_id": null,
-        "name": "Dependencias Federales"
-    },
-    "VE-A": {
-        "locale": "es",
-        "country_code": "VE",
-        "parent_id": null,
-        "name": "Distrito Federal"
-    },
-    "VE-I": {
-        "locale": "es",
-        "country_code": "VE",
-        "parent_id": null,
-        "name": "Falcón"
-    },
-    "VE-J": {
-        "locale": "es",
-        "country_code": "VE",
-        "parent_id": null,
-        "name": "Guárico"
-    },
-    "VE-K": {
-        "locale": "es",
-        "country_code": "VE",
-        "parent_id": null,
-        "name": "Lara"
-    },
-    "VE-L": {
-        "locale": "es",
-        "country_code": "VE",
-        "parent_id": null,
-        "name": "Mérida"
-    },
-    "VE-M": {
-        "locale": "es",
-        "country_code": "VE",
-        "parent_id": null,
-        "name": "Miranda"
-    },
-    "VE-N": {
-        "locale": "es",
-        "country_code": "VE",
-        "parent_id": null,
-        "name": "Monagas"
-    },
-    "VE-O": {
-        "locale": "es",
-        "country_code": "VE",
-        "parent_id": null,
-        "name": "Nueva Esparta"
-    },
-    "VE-P": {
-        "locale": "es",
-        "country_code": "VE",
-        "parent_id": null,
-        "name": "Portuguesa"
-    },
-    "VE-R": {
-        "locale": "es",
-        "country_code": "VE",
-        "parent_id": null,
-        "name": "Sucre"
-    },
-    "VE-S": {
-        "locale": "es",
-        "country_code": "VE",
-        "parent_id": null,
-        "name": "Táchira"
-    },
-    "VE-T": {
-        "locale": "es",
-        "country_code": "VE",
-        "parent_id": null,
-        "name": "Trujillo"
-    },
-    "VE-X": {
-        "locale": "es",
-        "country_code": "VE",
-        "parent_id": null,
-        "name": "Vargas"
-    },
-    "VE-U": {
-        "locale": "es",
-        "country_code": "VE",
-        "parent_id": null,
-        "name": "Yaracuy"
-    },
-    "VE-V": {
-        "locale": "es",
-        "country_code": "VE",
-        "parent_id": null,
-        "name": "Zulia"
-    }
+	"country_code": "VE",
+	"parent_id": null,
+	"locale": "es",
+	"subdivisions": {
+		"VE-Z": {
+			"name": "Amazonas"
+		},
+		"VE-B": {
+			"name": "Anzoátegui"
+		},
+		"VE-C": {
+			"name": "Apure"
+		},
+		"VE-D": {
+			"name": "Aragua"
+		},
+		"VE-E": {
+			"name": "Barinas"
+		},
+		"VE-F": {
+			"name": "Bolívar"
+		},
+		"VE-G": {
+			"name": "Carabobo"
+		},
+		"VE-H": {
+			"name": "Cojedes"
+		},
+		"VE-Y": {
+			"name": "Delta Amacuro"
+		},
+		"VE-W": {
+			"name": "Dependencias Federales"
+		},
+		"VE-A": {
+			"name": "Distrito Federal"
+		},
+		"VE-I": {
+			"name": "Falcón"
+		},
+		"VE-J": {
+			"name": "Guárico"
+		},
+		"VE-K": {
+			"name": "Lara"
+		},
+		"VE-L": {
+			"name": "Mérida"
+		},
+		"VE-M": {
+			"name": "Miranda"
+		},
+		"VE-N": {
+			"name": "Monagas"
+		},
+		"VE-O": {
+			"name": "Nueva Esparta"
+		},
+		"VE-P": {
+			"name": "Portuguesa"
+		},
+		"VE-R": {
+			"name": "Sucre"
+		},
+		"VE-S": {
+			"name": "Táchira"
+		},
+		"VE-T": {
+			"name": "Trujillo"
+		},
+		"VE-X": {
+			"name": "Vargas"
+		},
+		"VE-U": {
+			"name": "Yaracuy"
+		},
+		"VE-V": {
+			"name": "Zulia"
+		}
+	}
 }

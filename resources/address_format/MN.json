@@ -1,15 +1,15 @@
 {
-    "locale": "und",
-    "format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%administrativeArea %locality-%sortingCode\n%postalCode",
-    "required_fields": [
-        "addressLine1",
-        "locality"
-    ],
-    "uppercase_fields": [
-        "locality"
-    ],
-    "administrative_area_type": "province",
-    "locality_type": "city",
-    "postal_code_type": "postal",
-    "postal_code_pattern": "\\d{5}"
+	"locale": "und",
+	"format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%administrativeArea %locality-%sortingCode\n%postalCode",
+	"required_fields": [
+		"addressLine1",
+		"locality"
+	],
+	"uppercase_fields": [
+		"locality"
+	],
+	"administrative_area_type": "province",
+	"locality_type": "city",
+	"postal_code_type": "postal",
+	"postal_code_pattern": "\\d{5}"
 }

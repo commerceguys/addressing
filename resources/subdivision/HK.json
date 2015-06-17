@@ -1,41 +1,37 @@
 {
-    "HK-71f850": {
-        "locale": "zh-Latn",
-        "country_code": "HK",
-        "parent_id": null,
-        "code": "九龍",
-        "name": "Kowloon",
-        "translations": {
-            "zh-hant": {
-                "name": "九龍"
-            }
-        },
-        "has_children": true
-    },
-    "HK-9f4b5f": {
-        "locale": "zh-Latn",
-        "country_code": "HK",
-        "parent_id": null,
-        "code": "香港島",
-        "name": "Hong Kong Island",
-        "translations": {
-            "zh-hant": {
-                "name": "香港島"
-            }
-        },
-        "has_children": true
-    },
-    "HK-87ea5e": {
-        "locale": "zh-Latn",
-        "country_code": "HK",
-        "parent_id": null,
-        "code": "新界",
-        "name": "New Territories",
-        "translations": {
-            "zh-hant": {
-                "name": "新界"
-            }
-        },
-        "has_children": true
-    }
+	"country_code": "HK",
+	"parent_id": null,
+	"locale": "zh-Latn",
+	"subdivisions": {
+		"HK-71f850": {
+			"code": "九龍",
+			"name": "Kowloon",
+			"translations": {
+				"zh-hant": {
+					"name": "九龍"
+				}
+			},
+			"has_children": true
+		},
+		"HK-9f4b5f": {
+			"code": "香港島",
+			"name": "Hong Kong Island",
+			"translations": {
+				"zh-hant": {
+					"name": "香港島"
+				}
+			},
+			"has_children": true
+		},
+		"HK-87ea5e": {
+			"code": "新界",
+			"name": "New Territories",
+			"translations": {
+				"zh-hant": {
+					"name": "新界"
+				}
+			},
+			"has_children": true
+		}
+	}
 }

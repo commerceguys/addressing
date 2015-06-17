@@ -1,1340 +1,676 @@
 {
-    "BR-PI-bc89ea": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Acauã"
-    },
-    "BR-PI-3f57bd": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Agricolândia"
-    },
-    "BR-PI-900b4e": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Água Branca"
-    },
-    "BR-PI-40036a": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Alagoinha do Piauí"
-    },
-    "BR-PI-5c6e89": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Alegrete do Piauí"
-    },
-    "BR-PI-3c0002": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Alto Longá"
-    },
-    "BR-PI-22498d": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Altos"
-    },
-    "BR-PI-2a19df": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Alvorada do Gurguéia"
-    },
-    "BR-PI-e37740": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Amarante"
-    },
-    "BR-PI-7181e0": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Angical do Piauí"
-    },
-    "BR-PI-a83ff0": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Anísio de Abreu"
-    },
-    "BR-PI-9660de": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Antônio Almeida"
-    },
-    "BR-PI-94fd60": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Aroazes"
-    },
-    "BR-PI-afe7e5": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Aroeiras do Itaim"
-    },
-    "BR-PI-cf20d7": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Arraial"
-    },
-    "BR-PI-a091c0": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Assunção do Piauí"
-    },
-    "BR-PI-ae8e13": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Avelino Lopes"
-    },
-    "BR-PI-396770": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Baixa Grande do Ribeiro"
-    },
-    "BR-PI-b0e637": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Barra d'Alcântara"
-    },
-    "BR-PI-1613c0": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Barras"
-    },
-    "BR-PI-90289d": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Barreiras do Piauí"
-    },
-    "BR-PI-4bbb94": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Barro Duro"
-    },
-    "BR-PI-6b1175": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Batalha"
-    },
-    "BR-PI-6019af": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Bela Vista do Piauí"
-    },
-    "BR-PI-f19221": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Belém do Piauí"
-    },
-    "BR-PI-707fb4": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Beneditinos"
-    },
-    "BR-PI-dc2eca": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Bertolínia"
-    },
-    "BR-PI-82a3e4": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Betânia do Piauí"
-    },
-    "BR-PI-bc2a73": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Boa Hora"
-    },
-    "BR-PI-9c2a32": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Bocaina"
-    },
-    "BR-PI-8a8448": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Bom Jesus"
-    },
-    "BR-PI-cce43c": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Bom Princípio do Piauí"
-    },
-    "BR-PI-75a2c4": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Bonfim do Piauí"
-    },
-    "BR-PI-9a5974": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Boqueirão do Piauí"
-    },
-    "BR-PI-4c9aac": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Brasileira"
-    },
-    "BR-PI-b3261e": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Brejo do Piauí"
-    },
-    "BR-PI-0c876f": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Buriti dos Lopes"
-    },
-    "BR-PI-712ee5": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Buriti dos Montes"
-    },
-    "BR-PI-d95a4c": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Cabeceiras do Piauí"
-    },
-    "BR-PI-7a12f1": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Cajazeiras do Piauí"
-    },
-    "BR-PI-1a028c": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Cajueiro da Praia"
-    },
-    "BR-PI-7db5b9": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Caldeirão Grande do Piauí"
-    },
-    "BR-PI-439771": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Campinas do Piauí"
-    },
-    "BR-PI-b94bba": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Campo Alegre do Fidalgo"
-    },
-    "BR-PI-d5c7c4": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Campo Grande do Piauí"
-    },
-    "BR-PI-cda429": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Campo Largo do Piauí"
-    },
-    "BR-PI-b9c23b": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Campo Maior"
-    },
-    "BR-PI-c45da3": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Canavieira"
-    },
-    "BR-PI-0187ac": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Canto do Buriti"
-    },
-    "BR-PI-73f5c7": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Capitão de Campos"
-    },
-    "BR-PI-ae4523": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Capitão Gervásio Oliveira"
-    },
-    "BR-PI-19bb3d": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Caracol"
-    },
-    "BR-PI-54e9e3": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Caraúbas do Piauí"
-    },
-    "BR-PI-eeae5f": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Caridade do Piauí"
-    },
-    "BR-PI-fd2bd5": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Castelo do Piauí"
-    },
-    "BR-PI-d9ebf8": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Caxingó"
-    },
-    "BR-PI-07c8a3": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Cocal"
-    },
-    "BR-PI-542771": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Cocal de Telha"
-    },
-    "BR-PI-7873f6": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Cocal dos Alves"
-    },
-    "BR-PI-2ee339": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Coivaras"
-    },
-    "BR-PI-e0ee07": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Colônia do Gurguéia"
-    },
-    "BR-PI-75cc89": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Colônia do Piauí"
-    },
-    "BR-PI-40c693": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Conceição do Canindé"
-    },
-    "BR-PI-16aa3f": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Coronel José Dias"
-    },
-    "BR-PI-201e75": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Corrente"
-    },
-    "BR-PI-3ac701": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Cristalândia do Piauí"
-    },
-    "BR-PI-4e00a6": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Cristino Castro"
-    },
-    "BR-PI-02aa80": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Curimatá"
-    },
-    "BR-PI-b3671b": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Currais"
-    },
-    "BR-PI-41a7ac": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Curral Novo do Piauí"
-    },
-    "BR-PI-16f999": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Curralinhos"
-    },
-    "BR-PI-e9c182": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Demerval Lobão"
-    },
-    "BR-PI-55b195": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Dirceu Arcoverde"
-    },
-    "BR-PI-355e0e": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Dom Expedito Lopes"
-    },
-    "BR-PI-3f5892": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Dom Inocêncio"
-    },
-    "BR-PI-b94d51": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Domingos Mourão"
-    },
-    "BR-PI-5cfa37": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Elesbão Veloso"
-    },
-    "BR-PI-aea0cc": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Eliseu Martins"
-    },
-    "BR-PI-e3f625": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Esperantina"
-    },
-    "BR-PI-ad01c4": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Fartura do Piauí"
-    },
-    "BR-PI-ed2428": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Flores do Piauí"
-    },
-    "BR-PI-e73b83": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Floresta do Piauí"
-    },
-    "BR-PI-86f3ef": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Floriano"
-    },
-    "BR-PI-f5bbc4": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Francinópolis"
-    },
-    "BR-PI-634454": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Francisco Ayres"
-    },
-    "BR-PI-8e3d42": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Francisco Macedo"
-    },
-    "BR-PI-1481ca": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Francisco Santos"
-    },
-    "BR-PI-19e08d": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Fronteiras"
-    },
-    "BR-PI-af1f18": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Geminiano"
-    },
-    "BR-PI-a0f80b": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Gilbués"
-    },
-    "BR-PI-38bfdb": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Guadalupe"
-    },
-    "BR-PI-59e2b7": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Guaribas"
-    },
-    "BR-PI-a07047": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Hugo Napoleão"
-    },
-    "BR-PI-1097bf": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Ilha Grande"
-    },
-    "BR-PI-c32b6f": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Inhuma"
-    },
-    "BR-PI-afc245": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Ipiranga do Piauí"
-    },
-    "BR-PI-dc59c1": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Isaías Coelho"
-    },
-    "BR-PI-c4d0a3": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Itainópolis"
-    },
-    "BR-PI-40397f": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Itaueira"
-    },
-    "BR-PI-d48489": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Jacobina do Piauí"
-    },
-    "BR-PI-62d678": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Jaicós"
-    },
-    "BR-PI-381bf5": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Jardim do Mulato"
-    },
-    "BR-PI-2d7f50": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Jatobá do Piauí"
-    },
-    "BR-PI-ce9d46": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Jerumenha"
-    },
-    "BR-PI-e4c0e4": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "João Costa"
-    },
-    "BR-PI-b4e7fa": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Joaquim Pires"
-    },
-    "BR-PI-7f4aac": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Joca Marques"
-    },
-    "BR-PI-adb57e": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "José de Freitas"
-    },
-    "BR-PI-edbdf8": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Juazeiro do Piauí"
-    },
-    "BR-PI-b6f566": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Julio Borges"
-    },
-    "BR-PI-9b1a47": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Jurema"
-    },
-    "BR-PI-298015": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Lagoa Alegre"
-    },
-    "BR-PI-3915ee": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Lagoa de São Francisco"
-    },
-    "BR-PI-aa1a36": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Lagoa do Barro do Piauí"
-    },
-    "BR-PI-585f76": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Lagoa do Piauí"
-    },
-    "BR-PI-18facc": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Lagoa do Sítio"
-    },
-    "BR-PI-b510cb": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Lagoinha do Piauí"
-    },
-    "BR-PI-8290c0": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Landri Sales"
-    },
-    "BR-PI-ec9905": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Luís Correia"
-    },
-    "BR-PI-8b6aa6": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Luzilândia"
-    },
-    "BR-PI-20201f": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Madeiro"
-    },
-    "BR-PI-4ed325": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Manoel Emídio"
-    },
-    "BR-PI-71dac2": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Marcolândia"
-    },
-    "BR-PI-de4315": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Marcos Parente"
-    },
-    "BR-PI-a96ac2": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Massapê do Piauí"
-    },
-    "BR-PI-134c93": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Matias Olímpio"
-    },
-    "BR-PI-9abce8": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Miguel Alves"
-    },
-    "BR-PI-7e05ed": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Miguel Leão"
-    },
-    "BR-PI-924188": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Milton Brandão"
-    },
-    "BR-PI-a40f0a": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Monsenhor Gil"
-    },
-    "BR-PI-f7e02f": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Monsenhor Hipólito"
-    },
-    "BR-PI-0f9261": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Monte Alegre do Piauí"
-    },
-    "BR-PI-ed28e9": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Morro Cabeça no Tempo"
-    },
-    "BR-PI-bbb00c": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Morro do Chapéu do Piauí"
-    },
-    "BR-PI-5c36da": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Murici dos Portelas"
-    },
-    "BR-PI-5a0663": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Nazaré do Piauí"
-    },
-    "BR-PI-8de7f2": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Nossa Senhora de Nazaré"
-    },
-    "BR-PI-cbecdb": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Nossa Senhora dos Remédios"
-    },
-    "BR-PI-8257ef": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Nova Santa Rita"
-    },
-    "BR-PI-b6bf8a": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Novo Oriente do Piauí"
-    },
-    "BR-PI-c85274": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Novo Santo Antônio"
-    },
-    "BR-PI-602453": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Oeiras"
-    },
-    "BR-PI-9c2f77": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Olho d'Água do Piauí"
-    },
-    "BR-PI-fd7681": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Padre Marcos"
-    },
-    "BR-PI-5cdc2d": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Paes Landim"
-    },
-    "BR-PI-f4ed77": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Pajeú do Piauí"
-    },
-    "BR-PI-fb64cf": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Palmeira do Piauí"
-    },
-    "BR-PI-039df8": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Palmeirais"
-    },
-    "BR-PI-0f9a59": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Paquetá"
-    },
-    "BR-PI-a1c841": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Parnaguá"
-    },
-    "BR-PI-65c751": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Parnaíba"
-    },
-    "BR-PI-dad7e6": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Passagem Franca do Piauí"
-    },
-    "BR-PI-3d28f9": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Patos do Piauí"
-    },
-    "BR-PI-ad2859": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Pau d'Arco do Piauí"
-    },
-    "BR-PI-480d78": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Paulistana"
-    },
-    "BR-PI-a50369": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Pavussu"
-    },
-    "BR-PI-237af8": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Pedro II"
-    },
-    "BR-PI-29e606": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Pedro Laurentino"
-    },
-    "BR-PI-a34762": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Picos"
-    },
-    "BR-PI-fb3a53": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Pimenteiras"
-    },
-    "BR-PI-1946e0": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Pio IX"
-    },
-    "BR-PI-d48a75": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Piracuruca"
-    },
-    "BR-PI-85cbb1": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Piripiri"
-    },
-    "BR-PI-75f42b": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Porto"
-    },
-    "BR-PI-9a32a9": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Porto Alegre do Piauí"
-    },
-    "BR-PI-7a447c": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Prata do Piauí"
-    },
-    "BR-PI-95060c": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Queimada Nova"
-    },
-    "BR-PI-695c50": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Redenção do Gurguéia"
-    },
-    "BR-PI-1ba4c0": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Regeneração"
-    },
-    "BR-PI-5b11b1": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Riacho Frio"
-    },
-    "BR-PI-00ca16": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Ribeira do Piauí"
-    },
-    "BR-PI-ef1d7b": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Ribeiro Gonçalves"
-    },
-    "BR-PI-e668c1": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Rio Grande do Piauí"
-    },
-    "BR-PI-ecb4a6": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Santa Cruz do Piauí"
-    },
-    "BR-PI-3a64bd": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Santa Cruz dos Milagres"
-    },
-    "BR-PI-48f844": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Santa Filomena"
-    },
-    "BR-PI-fa6e6e": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Santa Luz"
-    },
-    "BR-PI-0ca84b": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Santa Rosa do Piauí"
-    },
-    "BR-PI-397880": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Santana do Piauí"
-    },
-    "BR-PI-4e6bdb": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Santo Antônio de Lisboa"
-    },
-    "BR-PI-e0daef": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Santo Antônio dos Milagres"
-    },
-    "BR-PI-b985ad": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Santo Inácio do Piauí"
-    },
-    "BR-PI-3a6bd9": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "São Braz do Piauí"
-    },
-    "BR-PI-aec5f2": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "São Félix do Piauí"
-    },
-    "BR-PI-50926e": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "São Francisco de Assis do Piauí"
-    },
-    "BR-PI-975efc": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "São Francisco do Piauí"
-    },
-    "BR-PI-a8f2b3": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "São Gonçalo do Gurguéia"
-    },
-    "BR-PI-2de0e2": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "São Gonçalo do Piauí"
-    },
-    "BR-PI-e4386a": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "São João da Canabrava"
-    },
-    "BR-PI-619e7e": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "São João da Fronteira"
-    },
-    "BR-PI-e194f5": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "São João da Serra"
-    },
-    "BR-PI-2385e0": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "São João da Varjota"
-    },
-    "BR-PI-2013b1": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "São João do Arraial"
-    },
-    "BR-PI-7e0c32": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "São João do Piauí"
-    },
-    "BR-PI-916d83": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "São José do Divino"
-    },
-    "BR-PI-7f5b01": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "São José do Peixe"
-    },
-    "BR-PI-8f11d1": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "São José do Piauí"
-    },
-    "BR-PI-5c93a9": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "São Julião"
-    },
-    "BR-PI-e8e72b": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "São Lourenço do Piauí"
-    },
-    "BR-PI-4dec4c": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "São Luís do Piauí"
-    },
-    "BR-PI-725f13": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "São Miguel da Baixa Grande"
-    },
-    "BR-PI-10959c": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "São Miguel do Fidalgo"
-    },
-    "BR-PI-d21643": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "São Miguel do Tapuio"
-    },
-    "BR-PI-e1863f": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "São Pedro do Piauí"
-    },
-    "BR-PI-d68a94": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "São Raimundo Nonato"
-    },
-    "BR-PI-d73913": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Sebastião Barros"
-    },
-    "BR-PI-975216": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Sebastião Leal"
-    },
-    "BR-PI-c5cdf8": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Sigefredo Pacheco"
-    },
-    "BR-PI-0be903": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Simões"
-    },
-    "BR-PI-174a76": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Simplício Mendes"
-    },
-    "BR-PI-92cef7": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Socorro do Piauí"
-    },
-    "BR-PI-6d3705": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Sussuapara"
-    },
-    "BR-PI-0be1cd": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Tamboril do Piauí"
-    },
-    "BR-PI-c87843": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Tanque do Piauí"
-    },
-    "BR-PI-c7f4d9": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Teresina"
-    },
-    "BR-PI-a7bb17": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "União"
-    },
-    "BR-PI-b69789": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Uruçuí"
-    },
-    "BR-PI-2abf19": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Valença do Piauí"
-    },
-    "BR-PI-194e6d": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Várzea Branca"
-    },
-    "BR-PI-fdf22d": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Várzea Grande"
-    },
-    "BR-PI-94de6f": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Vera Mendes"
-    },
-    "BR-PI-7132e3": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Vila Nova do Piauí"
-    },
-    "BR-PI-61f69d": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-PI",
-        "name": "Wall Ferraz"
-    }
+	"country_code": "BR",
+	"parent_id": "BR-PI",
+	"locale": "pt",
+	"subdivisions": {
+		"BR-PI-bc89ea": {
+			"name": "Acauã"
+		},
+		"BR-PI-3f57bd": {
+			"name": "Agricolândia"
+		},
+		"BR-PI-900b4e": {
+			"name": "Água Branca"
+		},
+		"BR-PI-40036a": {
+			"name": "Alagoinha do Piauí"
+		},
+		"BR-PI-5c6e89": {
+			"name": "Alegrete do Piauí"
+		},
+		"BR-PI-3c0002": {
+			"name": "Alto Longá"
+		},
+		"BR-PI-22498d": {
+			"name": "Altos"
+		},
+		"BR-PI-2a19df": {
+			"name": "Alvorada do Gurguéia"
+		},
+		"BR-PI-e37740": {
+			"name": "Amarante"
+		},
+		"BR-PI-7181e0": {
+			"name": "Angical do Piauí"
+		},
+		"BR-PI-a83ff0": {
+			"name": "Anísio de Abreu"
+		},
+		"BR-PI-9660de": {
+			"name": "Antônio Almeida"
+		},
+		"BR-PI-94fd60": {
+			"name": "Aroazes"
+		},
+		"BR-PI-afe7e5": {
+			"name": "Aroeiras do Itaim"
+		},
+		"BR-PI-cf20d7": {
+			"name": "Arraial"
+		},
+		"BR-PI-a091c0": {
+			"name": "Assunção do Piauí"
+		},
+		"BR-PI-ae8e13": {
+			"name": "Avelino Lopes"
+		},
+		"BR-PI-396770": {
+			"name": "Baixa Grande do Ribeiro"
+		},
+		"BR-PI-b0e637": {
+			"name": "Barra d'Alcântara"
+		},
+		"BR-PI-1613c0": {
+			"name": "Barras"
+		},
+		"BR-PI-90289d": {
+			"name": "Barreiras do Piauí"
+		},
+		"BR-PI-4bbb94": {
+			"name": "Barro Duro"
+		},
+		"BR-PI-6b1175": {
+			"name": "Batalha"
+		},
+		"BR-PI-6019af": {
+			"name": "Bela Vista do Piauí"
+		},
+		"BR-PI-f19221": {
+			"name": "Belém do Piauí"
+		},
+		"BR-PI-707fb4": {
+			"name": "Beneditinos"
+		},
+		"BR-PI-dc2eca": {
+			"name": "Bertolínia"
+		},
+		"BR-PI-82a3e4": {
+			"name": "Betânia do Piauí"
+		},
+		"BR-PI-bc2a73": {
+			"name": "Boa Hora"
+		},
+		"BR-PI-9c2a32": {
+			"name": "Bocaina"
+		},
+		"BR-PI-8a8448": {
+			"name": "Bom Jesus"
+		},
+		"BR-PI-cce43c": {
+			"name": "Bom Princípio do Piauí"
+		},
+		"BR-PI-75a2c4": {
+			"name": "Bonfim do Piauí"
+		},
+		"BR-PI-9a5974": {
+			"name": "Boqueirão do Piauí"
+		},
+		"BR-PI-4c9aac": {
+			"name": "Brasileira"
+		},
+		"BR-PI-b3261e": {
+			"name": "Brejo do Piauí"
+		},
+		"BR-PI-0c876f": {
+			"name": "Buriti dos Lopes"
+		},
+		"BR-PI-712ee5": {
+			"name": "Buriti dos Montes"
+		},
+		"BR-PI-d95a4c": {
+			"name": "Cabeceiras do Piauí"
+		},
+		"BR-PI-7a12f1": {
+			"name": "Cajazeiras do Piauí"
+		},
+		"BR-PI-1a028c": {
+			"name": "Cajueiro da Praia"
+		},
+		"BR-PI-7db5b9": {
+			"name": "Caldeirão Grande do Piauí"
+		},
+		"BR-PI-439771": {
+			"name": "Campinas do Piauí"
+		},
+		"BR-PI-b94bba": {
+			"name": "Campo Alegre do Fidalgo"
+		},
+		"BR-PI-d5c7c4": {
+			"name": "Campo Grande do Piauí"
+		},
+		"BR-PI-cda429": {
+			"name": "Campo Largo do Piauí"
+		},
+		"BR-PI-b9c23b": {
+			"name": "Campo Maior"
+		},
+		"BR-PI-c45da3": {
+			"name": "Canavieira"
+		},
+		"BR-PI-0187ac": {
+			"name": "Canto do Buriti"
+		},
+		"BR-PI-73f5c7": {
+			"name": "Capitão de Campos"
+		},
+		"BR-PI-ae4523": {
+			"name": "Capitão Gervásio Oliveira"
+		},
+		"BR-PI-19bb3d": {
+			"name": "Caracol"
+		},
+		"BR-PI-54e9e3": {
+			"name": "Caraúbas do Piauí"
+		},
+		"BR-PI-eeae5f": {
+			"name": "Caridade do Piauí"
+		},
+		"BR-PI-fd2bd5": {
+			"name": "Castelo do Piauí"
+		},
+		"BR-PI-d9ebf8": {
+			"name": "Caxingó"
+		},
+		"BR-PI-07c8a3": {
+			"name": "Cocal"
+		},
+		"BR-PI-542771": {
+			"name": "Cocal de Telha"
+		},
+		"BR-PI-7873f6": {
+			"name": "Cocal dos Alves"
+		},
+		"BR-PI-2ee339": {
+			"name": "Coivaras"
+		},
+		"BR-PI-e0ee07": {
+			"name": "Colônia do Gurguéia"
+		},
+		"BR-PI-75cc89": {
+			"name": "Colônia do Piauí"
+		},
+		"BR-PI-40c693": {
+			"name": "Conceição do Canindé"
+		},
+		"BR-PI-16aa3f": {
+			"name": "Coronel José Dias"
+		},
+		"BR-PI-201e75": {
+			"name": "Corrente"
+		},
+		"BR-PI-3ac701": {
+			"name": "Cristalândia do Piauí"
+		},
+		"BR-PI-4e00a6": {
+			"name": "Cristino Castro"
+		},
+		"BR-PI-02aa80": {
+			"name": "Curimatá"
+		},
+		"BR-PI-b3671b": {
+			"name": "Currais"
+		},
+		"BR-PI-41a7ac": {
+			"name": "Curral Novo do Piauí"
+		},
+		"BR-PI-16f999": {
+			"name": "Curralinhos"
+		},
+		"BR-PI-e9c182": {
+			"name": "Demerval Lobão"
+		},
+		"BR-PI-55b195": {
+			"name": "Dirceu Arcoverde"
+		},
+		"BR-PI-355e0e": {
+			"name": "Dom Expedito Lopes"
+		},
+		"BR-PI-3f5892": {
+			"name": "Dom Inocêncio"
+		},
+		"BR-PI-b94d51": {
+			"name": "Domingos Mourão"
+		},
+		"BR-PI-5cfa37": {
+			"name": "Elesbão Veloso"
+		},
+		"BR-PI-aea0cc": {
+			"name": "Eliseu Martins"
+		},
+		"BR-PI-e3f625": {
+			"name": "Esperantina"
+		},
+		"BR-PI-ad01c4": {
+			"name": "Fartura do Piauí"
+		},
+		"BR-PI-ed2428": {
+			"name": "Flores do Piauí"
+		},
+		"BR-PI-e73b83": {
+			"name": "Floresta do Piauí"
+		},
+		"BR-PI-86f3ef": {
+			"name": "Floriano"
+		},
+		"BR-PI-f5bbc4": {
+			"name": "Francinópolis"
+		},
+		"BR-PI-634454": {
+			"name": "Francisco Ayres"
+		},
+		"BR-PI-8e3d42": {
+			"name": "Francisco Macedo"
+		},
+		"BR-PI-1481ca": {
+			"name": "Francisco Santos"
+		},
+		"BR-PI-19e08d": {
+			"name": "Fronteiras"
+		},
+		"BR-PI-af1f18": {
+			"name": "Geminiano"
+		},
+		"BR-PI-a0f80b": {
+			"name": "Gilbués"
+		},
+		"BR-PI-38bfdb": {
+			"name": "Guadalupe"
+		},
+		"BR-PI-59e2b7": {
+			"name": "Guaribas"
+		},
+		"BR-PI-a07047": {
+			"name": "Hugo Napoleão"
+		},
+		"BR-PI-1097bf": {
+			"name": "Ilha Grande"
+		},
+		"BR-PI-c32b6f": {
+			"name": "Inhuma"
+		},
+		"BR-PI-afc245": {
+			"name": "Ipiranga do Piauí"
+		},
+		"BR-PI-dc59c1": {
+			"name": "Isaías Coelho"
+		},
+		"BR-PI-c4d0a3": {
+			"name": "Itainópolis"
+		},
+		"BR-PI-40397f": {
+			"name": "Itaueira"
+		},
+		"BR-PI-d48489": {
+			"name": "Jacobina do Piauí"
+		},
+		"BR-PI-62d678": {
+			"name": "Jaicós"
+		},
+		"BR-PI-381bf5": {
+			"name": "Jardim do Mulato"
+		},
+		"BR-PI-2d7f50": {
+			"name": "Jatobá do Piauí"
+		},
+		"BR-PI-ce9d46": {
+			"name": "Jerumenha"
+		},
+		"BR-PI-e4c0e4": {
+			"name": "João Costa"
+		},
+		"BR-PI-b4e7fa": {
+			"name": "Joaquim Pires"
+		},
+		"BR-PI-7f4aac": {
+			"name": "Joca Marques"
+		},
+		"BR-PI-adb57e": {
+			"name": "José de Freitas"
+		},
+		"BR-PI-edbdf8": {
+			"name": "Juazeiro do Piauí"
+		},
+		"BR-PI-b6f566": {
+			"name": "Julio Borges"
+		},
+		"BR-PI-9b1a47": {
+			"name": "Jurema"
+		},
+		"BR-PI-298015": {
+			"name": "Lagoa Alegre"
+		},
+		"BR-PI-3915ee": {
+			"name": "Lagoa de São Francisco"
+		},
+		"BR-PI-aa1a36": {
+			"name": "Lagoa do Barro do Piauí"
+		},
+		"BR-PI-585f76": {
+			"name": "Lagoa do Piauí"
+		},
+		"BR-PI-18facc": {
+			"name": "Lagoa do Sítio"
+		},
+		"BR-PI-b510cb": {
+			"name": "Lagoinha do Piauí"
+		},
+		"BR-PI-8290c0": {
+			"name": "Landri Sales"
+		},
+		"BR-PI-ec9905": {
+			"name": "Luís Correia"
+		},
+		"BR-PI-8b6aa6": {
+			"name": "Luzilândia"
+		},
+		"BR-PI-20201f": {
+			"name": "Madeiro"
+		},
+		"BR-PI-4ed325": {
+			"name": "Manoel Emídio"
+		},
+		"BR-PI-71dac2": {
+			"name": "Marcolândia"
+		},
+		"BR-PI-de4315": {
+			"name": "Marcos Parente"
+		},
+		"BR-PI-a96ac2": {
+			"name": "Massapê do Piauí"
+		},
+		"BR-PI-134c93": {
+			"name": "Matias Olímpio"
+		},
+		"BR-PI-9abce8": {
+			"name": "Miguel Alves"
+		},
+		"BR-PI-7e05ed": {
+			"name": "Miguel Leão"
+		},
+		"BR-PI-924188": {
+			"name": "Milton Brandão"
+		},
+		"BR-PI-a40f0a": {
+			"name": "Monsenhor Gil"
+		},
+		"BR-PI-f7e02f": {
+			"name": "Monsenhor Hipólito"
+		},
+		"BR-PI-0f9261": {
+			"name": "Monte Alegre do Piauí"
+		},
+		"BR-PI-ed28e9": {
+			"name": "Morro Cabeça no Tempo"
+		},
+		"BR-PI-bbb00c": {
+			"name": "Morro do Chapéu do Piauí"
+		},
+		"BR-PI-5c36da": {
+			"name": "Murici dos Portelas"
+		},
+		"BR-PI-5a0663": {
+			"name": "Nazaré do Piauí"
+		},
+		"BR-PI-8de7f2": {
+			"name": "Nossa Senhora de Nazaré"
+		},
+		"BR-PI-cbecdb": {
+			"name": "Nossa Senhora dos Remédios"
+		},
+		"BR-PI-8257ef": {
+			"name": "Nova Santa Rita"
+		},
+		"BR-PI-b6bf8a": {
+			"name": "Novo Oriente do Piauí"
+		},
+		"BR-PI-c85274": {
+			"name": "Novo Santo Antônio"
+		},
+		"BR-PI-602453": {
+			"name": "Oeiras"
+		},
+		"BR-PI-9c2f77": {
+			"name": "Olho d'Água do Piauí"
+		},
+		"BR-PI-fd7681": {
+			"name": "Padre Marcos"
+		},
+		"BR-PI-5cdc2d": {
+			"name": "Paes Landim"
+		},
+		"BR-PI-f4ed77": {
+			"name": "Pajeú do Piauí"
+		},
+		"BR-PI-fb64cf": {
+			"name": "Palmeira do Piauí"
+		},
+		"BR-PI-039df8": {
+			"name": "Palmeirais"
+		},
+		"BR-PI-0f9a59": {
+			"name": "Paquetá"
+		},
+		"BR-PI-a1c841": {
+			"name": "Parnaguá"
+		},
+		"BR-PI-65c751": {
+			"name": "Parnaíba"
+		},
+		"BR-PI-dad7e6": {
+			"name": "Passagem Franca do Piauí"
+		},
+		"BR-PI-3d28f9": {
+			"name": "Patos do Piauí"
+		},
+		"BR-PI-ad2859": {
+			"name": "Pau d'Arco do Piauí"
+		},
+		"BR-PI-480d78": {
+			"name": "Paulistana"
+		},
+		"BR-PI-a50369": {
+			"name": "Pavussu"
+		},
+		"BR-PI-237af8": {
+			"name": "Pedro II"
+		},
+		"BR-PI-29e606": {
+			"name": "Pedro Laurentino"
+		},
+		"BR-PI-a34762": {
+			"name": "Picos"
+		},
+		"BR-PI-fb3a53": {
+			"name": "Pimenteiras"
+		},
+		"BR-PI-1946e0": {
+			"name": "Pio IX"
+		},
+		"BR-PI-d48a75": {
+			"name": "Piracuruca"
+		},
+		"BR-PI-85cbb1": {
+			"name": "Piripiri"
+		},
+		"BR-PI-75f42b": {
+			"name": "Porto"
+		},
+		"BR-PI-9a32a9": {
+			"name": "Porto Alegre do Piauí"
+		},
+		"BR-PI-7a447c": {
+			"name": "Prata do Piauí"
+		},
+		"BR-PI-95060c": {
+			"name": "Queimada Nova"
+		},
+		"BR-PI-695c50": {
+			"name": "Redenção do Gurguéia"
+		},
+		"BR-PI-1ba4c0": {
+			"name": "Regeneração"
+		},
+		"BR-PI-5b11b1": {
+			"name": "Riacho Frio"
+		},
+		"BR-PI-00ca16": {
+			"name": "Ribeira do Piauí"
+		},
+		"BR-PI-ef1d7b": {
+			"name": "Ribeiro Gonçalves"
+		},
+		"BR-PI-e668c1": {
+			"name": "Rio Grande do Piauí"
+		},
+		"BR-PI-ecb4a6": {
+			"name": "Santa Cruz do Piauí"
+		},
+		"BR-PI-3a64bd": {
+			"name": "Santa Cruz dos Milagres"
+		},
+		"BR-PI-48f844": {
+			"name": "Santa Filomena"
+		},
+		"BR-PI-fa6e6e": {
+			"name": "Santa Luz"
+		},
+		"BR-PI-0ca84b": {
+			"name": "Santa Rosa do Piauí"
+		},
+		"BR-PI-397880": {
+			"name": "Santana do Piauí"
+		},
+		"BR-PI-4e6bdb": {
+			"name": "Santo Antônio de Lisboa"
+		},
+		"BR-PI-e0daef": {
+			"name": "Santo Antônio dos Milagres"
+		},
+		"BR-PI-b985ad": {
+			"name": "Santo Inácio do Piauí"
+		},
+		"BR-PI-3a6bd9": {
+			"name": "São Braz do Piauí"
+		},
+		"BR-PI-aec5f2": {
+			"name": "São Félix do Piauí"
+		},
+		"BR-PI-50926e": {
+			"name": "São Francisco de Assis do Piauí"
+		},
+		"BR-PI-975efc": {
+			"name": "São Francisco do Piauí"
+		},
+		"BR-PI-a8f2b3": {
+			"name": "São Gonçalo do Gurguéia"
+		},
+		"BR-PI-2de0e2": {
+			"name": "São Gonçalo do Piauí"
+		},
+		"BR-PI-e4386a": {
+			"name": "São João da Canabrava"
+		},
+		"BR-PI-619e7e": {
+			"name": "São João da Fronteira"
+		},
+		"BR-PI-e194f5": {
+			"name": "São João da Serra"
+		},
+		"BR-PI-2385e0": {
+			"name": "São João da Varjota"
+		},
+		"BR-PI-2013b1": {
+			"name": "São João do Arraial"
+		},
+		"BR-PI-7e0c32": {
+			"name": "São João do Piauí"
+		},
+		"BR-PI-916d83": {
+			"name": "São José do Divino"
+		},
+		"BR-PI-7f5b01": {
+			"name": "São José do Peixe"
+		},
+		"BR-PI-8f11d1": {
+			"name": "São José do Piauí"
+		},
+		"BR-PI-5c93a9": {
+			"name": "São Julião"
+		},
+		"BR-PI-e8e72b": {
+			"name": "São Lourenço do Piauí"
+		},
+		"BR-PI-4dec4c": {
+			"name": "São Luís do Piauí"
+		},
+		"BR-PI-725f13": {
+			"name": "São Miguel da Baixa Grande"
+		},
+		"BR-PI-10959c": {
+			"name": "São Miguel do Fidalgo"
+		},
+		"BR-PI-d21643": {
+			"name": "São Miguel do Tapuio"
+		},
+		"BR-PI-e1863f": {
+			"name": "São Pedro do Piauí"
+		},
+		"BR-PI-d68a94": {
+			"name": "São Raimundo Nonato"
+		},
+		"BR-PI-d73913": {
+			"name": "Sebastião Barros"
+		},
+		"BR-PI-975216": {
+			"name": "Sebastião Leal"
+		},
+		"BR-PI-c5cdf8": {
+			"name": "Sigefredo Pacheco"
+		},
+		"BR-PI-0be903": {
+			"name": "Simões"
+		},
+		"BR-PI-174a76": {
+			"name": "Simplício Mendes"
+		},
+		"BR-PI-92cef7": {
+			"name": "Socorro do Piauí"
+		},
+		"BR-PI-6d3705": {
+			"name": "Sussuapara"
+		},
+		"BR-PI-0be1cd": {
+			"name": "Tamboril do Piauí"
+		},
+		"BR-PI-c87843": {
+			"name": "Tanque do Piauí"
+		},
+		"BR-PI-c7f4d9": {
+			"name": "Teresina"
+		},
+		"BR-PI-a7bb17": {
+			"name": "União"
+		},
+		"BR-PI-b69789": {
+			"name": "Uruçuí"
+		},
+		"BR-PI-2abf19": {
+			"name": "Valença do Piauí"
+		},
+		"BR-PI-194e6d": {
+			"name": "Várzea Branca"
+		},
+		"BR-PI-fdf22d": {
+			"name": "Várzea Grande"
+		},
+		"BR-PI-94de6f": {
+			"name": "Vera Mendes"
+		},
+		"BR-PI-7132e3": {
+			"name": "Vila Nova do Piauí"
+		},
+		"BR-PI-61f69d": {
+			"name": "Wall Ferraz"
+		}
+	}
 }

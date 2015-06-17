@@ -1,121 +1,75 @@
 {
-    "NI-BO": {
-        "locale": "es",
-        "country_code": "NI",
-        "parent_id": null,
-        "name": "Boaco",
-        "postal_code_pattern": "5[12]"
-    },
-    "NI-CA": {
-        "locale": "es",
-        "country_code": "NI",
-        "parent_id": null,
-        "name": "Carazo",
-        "postal_code_pattern": "4[56]"
-    },
-    "NI-CI": {
-        "locale": "es",
-        "country_code": "NI",
-        "parent_id": null,
-        "name": "Chinandega",
-        "postal_code_pattern": "2[5-7]"
-    },
-    "NI-CO": {
-        "locale": "es",
-        "country_code": "NI",
-        "parent_id": null,
-        "name": "Chontales",
-        "postal_code_pattern": "5[56]"
-    },
-    "NI-ES": {
-        "locale": "es",
-        "country_code": "NI",
-        "parent_id": null,
-        "name": "Esteli",
-        "postal_code_pattern": "3[12]"
-    },
-    "NI-GR": {
-        "locale": "es",
-        "country_code": "NI",
-        "parent_id": null,
-        "name": "Granada",
-        "postal_code_pattern": "4[34]"
-    },
-    "NI-JI": {
-        "locale": "es",
-        "country_code": "NI",
-        "parent_id": null,
-        "name": "Jinotega",
-        "postal_code_pattern": "6[56]"
-    },
-    "NI-LE": {
-        "locale": "es",
-        "country_code": "NI",
-        "parent_id": null,
-        "name": "Leon",
-        "postal_code_pattern": "2[12]"
-    },
-    "NI-MD": {
-        "locale": "es",
-        "country_code": "NI",
-        "parent_id": null,
-        "name": "Madriz",
-        "postal_code_pattern": "3[45]"
-    },
-    "NI-MN": {
-        "locale": "es",
-        "country_code": "NI",
-        "parent_id": null,
-        "name": "Managua",
-        "postal_code_pattern": "1[0-6]"
-    },
-    "NI-MS": {
-        "locale": "es",
-        "country_code": "NI",
-        "parent_id": null,
-        "name": "Masaya",
-        "postal_code_pattern": "4[12]"
-    },
-    "NI-MT": {
-        "locale": "es",
-        "country_code": "NI",
-        "parent_id": null,
-        "name": "Matagalpa",
-        "postal_code_pattern": "6[1-3]"
-    },
-    "NI-NS": {
-        "locale": "es",
-        "country_code": "NI",
-        "parent_id": null,
-        "name": "Nueva Segovia",
-        "postal_code_pattern": "3[7-9]"
-    },
-    "NI-AN": {
-        "locale": "es",
-        "country_code": "NI",
-        "parent_id": null,
-        "name": "Raan",
-        "postal_code_pattern": "7[12]"
-    },
-    "NI-AS": {
-        "locale": "es",
-        "country_code": "NI",
-        "parent_id": null,
-        "name": "Raas",
-        "postal_code_pattern": "8[1-3]"
-    },
-    "NI-SJ": {
-        "locale": "es",
-        "country_code": "NI",
-        "parent_id": null,
-        "name": "Rio San Juan",
-        "postal_code_pattern": "9[12]"
-    },
-    "NI-RI": {
-        "locale": "es",
-        "country_code": "NI",
-        "parent_id": null,
-        "name": "Rivas",
-        "postal_code_pattern": "4[78]"
-    }
+	"country_code": "NI",
+	"parent_id": null,
+	"locale": "es",
+	"subdivisions": {
+		"NI-BO": {
+			"name": "Boaco",
+			"postal_code_pattern": "5[12]"
+		},
+		"NI-CA": {
+			"name": "Carazo",
+			"postal_code_pattern": "4[56]"
+		},
+		"NI-CI": {
+			"name": "Chinandega",
+			"postal_code_pattern": "2[5-7]"
+		},
+		"NI-CO": {
+			"name": "Chontales",
+			"postal_code_pattern": "5[56]"
+		},
+		"NI-ES": {
+			"name": "Esteli",
+			"postal_code_pattern": "3[12]"
+		},
+		"NI-GR": {
+			"name": "Granada",
+			"postal_code_pattern": "4[34]"
+		},
+		"NI-JI": {
+			"name": "Jinotega",
+			"postal_code_pattern": "6[56]"
+		},
+		"NI-LE": {
+			"name": "Leon",
+			"postal_code_pattern": "2[12]"
+		},
+		"NI-MD": {
+			"name": "Madriz",
+			"postal_code_pattern": "3[45]"
+		},
+		"NI-MN": {
+			"name": "Managua",
+			"postal_code_pattern": "1[0-6]"
+		},
+		"NI-MS": {
+			"name": "Masaya",
+			"postal_code_pattern": "4[12]"
+		},
+		"NI-MT": {
+			"name": "Matagalpa",
+			"postal_code_pattern": "6[1-3]"
+		},
+		"NI-NS": {
+			"name": "Nueva Segovia",
+			"postal_code_pattern": "3[7-9]"
+		},
+		"NI-AN": {
+			"name": "Raan",
+			"postal_code_pattern": "7[12]"
+		},
+		"NI-AS": {
+			"name": "Raas",
+			"postal_code_pattern": "8[1-3]"
+		},
+		"NI-SJ": {
+			"name": "Rio San Juan",
+			"postal_code_pattern": "9[12]"
+		},
+		"NI-RI": {
+			"name": "Rivas",
+			"postal_code_pattern": "4[78]"
+		}
+	}
 }

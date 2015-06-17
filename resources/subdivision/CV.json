@@ -1,56 +1,34 @@
 {
-    "CV-BV": {
-        "locale": "pt",
-        "country_code": "CV",
-        "parent_id": null,
-        "name": "Boa Vista"
-    },
-    "CV-BR": {
-        "locale": "pt",
-        "country_code": "CV",
-        "parent_id": null,
-        "name": "Brava"
-    },
-    "CV-31d0db": {
-        "locale": "pt",
-        "country_code": "CV",
-        "parent_id": null,
-        "name": "Fogo"
-    },
-    "CV-MA": {
-        "locale": "pt",
-        "country_code": "CV",
-        "parent_id": null,
-        "name": "Maio"
-    },
-    "CV-SL": {
-        "locale": "pt",
-        "country_code": "CV",
-        "parent_id": null,
-        "name": "Sal"
-    },
-    "CV-5a98ef": {
-        "locale": "pt",
-        "country_code": "CV",
-        "parent_id": null,
-        "name": "Santiago"
-    },
-    "CV-acadcc": {
-        "locale": "pt",
-        "country_code": "CV",
-        "parent_id": null,
-        "name": "Santo Antão"
-    },
-    "CV-SN": {
-        "locale": "pt",
-        "country_code": "CV",
-        "parent_id": null,
-        "name": "São Nicolau"
-    },
-    "CV-SV": {
-        "locale": "pt",
-        "country_code": "CV",
-        "parent_id": null,
-        "name": "São Vicente"
-    }
+	"country_code": "CV",
+	"parent_id": null,
+	"locale": "pt",
+	"subdivisions": {
+		"CV-BV": {
+			"name": "Boa Vista"
+		},
+		"CV-BR": {
+			"name": "Brava"
+		},
+		"CV-31d0db": {
+			"name": "Fogo"
+		},
+		"CV-MA": {
+			"name": "Maio"
+		},
+		"CV-SL": {
+			"name": "Sal"
+		},
+		"CV-5a98ef": {
+			"name": "Santiago"
+		},
+		"CV-acadcc": {
+			"name": "Santo Antão"
+		},
+		"CV-SN": {
+			"name": "São Nicolau"
+		},
+		"CV-SV": {
+			"name": "São Vicente"
+		}
+	}
 }

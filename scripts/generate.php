@@ -124,6 +124,8 @@ echo "Done. You can now apply the library customizations by running 'patch -p2 <
 function file_put_json($filename, $data)
 {
     $data = json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE);
+    // Indenting with tabs instead of 4 spaces gives us 20% smaller files.
+    $data = str_replace('    ', "\t", $data);
     file_put_contents($filename, $data);
 }
 
@@ -200,7 +202,14 @@ function generate_subdivisions($countryCode, $parentId, $subdivisionPaths, $lang
             // not guaranteed to be in the local script, so we hash them.
             $subdivisionId = $parentId . '-' . substr(sha1($parentId . $definition['key']), 0, 6);
         }
-        $subdivisions[$parentId][$subdivisionId] = create_subdivision_definition($countryCode, $parentId, $definition);
+        if (!isset($subdivisions[$parentId])) {
+            $subdivisions[$parentId] = [
+                'country_code' => $countryCode,
+                'parent_id' => ($countryCode == $parentId) ? null : $parentId,
+                'locale' => determine_locale($definition),
+            ];
+        }
+        $subdivisions[$parentId]['subdivisions'][$subdivisionId] = create_subdivision_definition($definition);
 
         // If the subdivision has translations, retrieve them.
         // Note: At the moment, only Canada and Switzerland have translations,
@@ -210,11 +219,11 @@ function generate_subdivisions($countryCode, $parentId, $subdivisionPaths, $lang
         foreach ($languages as $language) {
             $translation = file_get_contents('raw/' . $subdivisionPath . '--' . $language . '.json');
             $translation = json_decode($translation, true);
-            $subdivisions[$parentId][$subdivisionId]['translations'][$language]['name'] = $translation['name'];
+            $subdivisions[$parentId]['subdivisions'][$subdivisionId]['translations'][$language]['name'] = $translation['name'];
         }
 
         if (isset($definition['sub_keys'])) {
-            $subdivisions[$parentId][$subdivisionId]['has_children'] = true;
+            $subdivisions[$parentId]['subdivisions'][$subdivisionId]['has_children'] = true;
 
             $subdivisionChildrenPaths = [];
             $subdivisionChildrenKeys = explode('~', $definition['sub_keys']);
@@ -319,21 +328,14 @@ function create_address_format_definition($rawDefinition)
 /**
  * Creates a subdivision definition from Google's raw definition.
  */
-function create_subdivision_definition($countryCode, $parentId, $rawDefinition)
+function create_subdivision_definition($rawDefinition)
 {
     // The name property isn't set when it's the same as the key.
     if (!isset($rawDefinition['name'])) {
         $rawDefinition['name'] = $rawDefinition['key'];
     }
-    if ($countryCode == $parentId) {
-        // This is the top of the hierarchy.
-        $parentId = null;
-    }
 
     $subdivision = [
-        'locale' => determine_locale($rawDefinition),
-        'country_code' => $countryCode,
-        'parent_id' => $parentId,
         'code' => $rawDefinition['key'],
         'name' => $rawDefinition['name'],
     ];

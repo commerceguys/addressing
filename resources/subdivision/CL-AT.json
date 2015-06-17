@@ -1,56 +1,34 @@
 {
-    "CL-AT-f86abc": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-AT",
-        "name": "Alto del Carmen"
-    },
-    "CL-AT-b38395": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-AT",
-        "name": "Caldera"
-    },
-    "CL-AT-081b93": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-AT",
-        "name": "Chañaral"
-    },
-    "CL-AT-a87956": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-AT",
-        "name": "Copiapó"
-    },
-    "CL-AT-cbdb96": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-AT",
-        "name": "Diego de Almagro"
-    },
-    "CL-AT-2623c7": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-AT",
-        "name": "Freirina"
-    },
-    "CL-AT-4e3a26": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-AT",
-        "name": "Huasco"
-    },
-    "CL-AT-779b6c": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-AT",
-        "name": "Tierra Amarilla"
-    },
-    "CL-AT-6e8b7e": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-AT",
-        "name": "Vallenar"
-    }
+	"country_code": "CL",
+	"parent_id": "CL-AT",
+	"locale": "es",
+	"subdivisions": {
+		"CL-AT-f86abc": {
+			"name": "Alto del Carmen"
+		},
+		"CL-AT-b38395": {
+			"name": "Caldera"
+		},
+		"CL-AT-081b93": {
+			"name": "Chañaral"
+		},
+		"CL-AT-a87956": {
+			"name": "Copiapó"
+		},
+		"CL-AT-cbdb96": {
+			"name": "Diego de Almagro"
+		},
+		"CL-AT-2623c7": {
+			"name": "Freirina"
+		},
+		"CL-AT-4e3a26": {
+			"name": "Huasco"
+		},
+		"CL-AT-779b6c": {
+			"name": "Tierra Amarilla"
+		},
+		"CL-AT-6e8b7e": {
+			"name": "Vallenar"
+		}
+	}
 }

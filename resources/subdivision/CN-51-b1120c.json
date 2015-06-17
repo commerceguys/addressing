@@ -1,86 +1,70 @@
 {
-    "CN-51-b1120c-cf5062": {
-        "locale": "zh-Latn",
-        "country_code": "CN",
-        "parent_id": "CN-51-b1120c",
-        "code": "达县",
-        "name": "Da Xian",
-        "translations": {
-            "zh": {
-                "name": "达县"
-            }
-        }
-    },
-    "CN-51-b1120c-90330c": {
-        "locale": "zh-Latn",
-        "country_code": "CN",
-        "parent_id": "CN-51-b1120c",
-        "code": "大竹县",
-        "name": "Dazhu Xian",
-        "translations": {
-            "zh": {
-                "name": "大竹县"
-            }
-        }
-    },
-    "CN-51-b1120c-6f86bd": {
-        "locale": "zh-Latn",
-        "country_code": "CN",
-        "parent_id": "CN-51-b1120c",
-        "code": "开江县",
-        "name": "Kaijiang Xian",
-        "translations": {
-            "zh": {
-                "name": "开江县"
-            }
-        }
-    },
-    "CN-51-b1120c-0977b1": {
-        "locale": "zh-Latn",
-        "country_code": "CN",
-        "parent_id": "CN-51-b1120c",
-        "code": "渠县",
-        "name": "Qu Xian",
-        "translations": {
-            "zh": {
-                "name": "渠县"
-            }
-        }
-    },
-    "CN-51-b1120c-a1eb05": {
-        "locale": "zh-Latn",
-        "country_code": "CN",
-        "parent_id": "CN-51-b1120c",
-        "code": "通川区",
-        "name": "Tongzhou Qu",
-        "translations": {
-            "zh": {
-                "name": "通川区"
-            }
-        }
-    },
-    "CN-51-b1120c-bc4f43": {
-        "locale": "zh-Latn",
-        "country_code": "CN",
-        "parent_id": "CN-51-b1120c",
-        "code": "万源市",
-        "name": "Wanyuan Shi",
-        "translations": {
-            "zh": {
-                "name": "万源市"
-            }
-        }
-    },
-    "CN-51-b1120c-4af969": {
-        "locale": "zh-Latn",
-        "country_code": "CN",
-        "parent_id": "CN-51-b1120c",
-        "code": "宣汉县",
-        "name": "Xuanhan Xian",
-        "translations": {
-            "zh": {
-                "name": "宣汉县"
-            }
-        }
-    }
+	"country_code": "CN",
+	"parent_id": "CN-51-b1120c",
+	"locale": "zh-Latn",
+	"subdivisions": {
+		"CN-51-b1120c-cf5062": {
+			"code": "达县",
+			"name": "Da Xian",
+			"translations": {
+				"zh": {
+					"name": "达县"
+				}
+			}
+		},
+		"CN-51-b1120c-90330c": {
+			"code": "大竹县",
+			"name": "Dazhu Xian",
+			"translations": {
+				"zh": {
+					"name": "大竹县"
+				}
+			}
+		},
+		"CN-51-b1120c-6f86bd": {
+			"code": "开江县",
+			"name": "Kaijiang Xian",
+			"translations": {
+				"zh": {
+					"name": "开江县"
+				}
+			}
+		},
+		"CN-51-b1120c-0977b1": {
+			"code": "渠县",
+			"name": "Qu Xian",
+			"translations": {
+				"zh": {
+					"name": "渠县"
+				}
+			}
+		},
+		"CN-51-b1120c-a1eb05": {
+			"code": "通川区",
+			"name": "Tongzhou Qu",
+			"translations": {
+				"zh": {
+					"name": "通川区"
+				}
+			}
+		},
+		"CN-51-b1120c-bc4f43": {
+			"code": "万源市",
+			"name": "Wanyuan Shi",
+			"translations": {
+				"zh": {
+					"name": "万源市"
+				}
+			}
+		},
+		"CN-51-b1120c-4af969": {
+			"code": "宣汉县",
+			"name": "Xuanhan Xian",
+			"translations": {
+				"zh": {
+					"name": "宣汉县"
+				}
+			}
+		}
+	}
 }

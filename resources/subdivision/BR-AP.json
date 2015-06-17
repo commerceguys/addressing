@@ -1,98 +1,55 @@
 {
-    "BR-AP-578f1d": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-AP",
-        "name": "Amapá"
-    },
-    "BR-AP-63bc8b": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-AP",
-        "name": "Calçoene"
-    },
-    "BR-AP-245266": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-AP",
-        "name": "Cutias"
-    },
-    "BR-AP-24b7e9": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-AP",
-        "name": "Ferreira Gomes"
-    },
-    "BR-AP-f84d9a": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-AP",
-        "name": "Itaubal"
-    },
-    "BR-AP-0d66df": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-AP",
-        "name": "Laranjal do Jari"
-    },
-    "BR-AP-acd90f": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-AP",
-        "name": "Macapá"
-    },
-    "BR-AP-6ffb52": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-AP",
-        "name": "Mazagão"
-    },
-    "BR-AP-0f3333": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-AP",
-        "name": "Oiapoque"
-    },
-    "BR-AP-cff47e": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-AP",
-        "name": "Pedra Branca do Amapari"
-    },
-    "BR-AP-683699": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-AP",
-        "name": "Porto Grande"
-    },
-    "BR-AP-04111d": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-AP",
-        "name": "Pracuúba"
-    },
-    "BR-AP-973348": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-AP",
-        "name": "Santana"
-    },
-    "BR-AP-661ce1": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-AP",
-        "name": "Serra do Navio"
-    },
-    "BR-AP-6ecc74": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-AP",
-        "name": "Tartarugalzinho"
-    },
-    "BR-AP-9aed99": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-AP",
-        "name": "Vitória do Jari"
-    }
+	"country_code": "BR",
+	"parent_id": "BR-AP",
+	"locale": "pt",
+	"subdivisions": {
+		"BR-AP-578f1d": {
+			"name": "Amapá"
+		},
+		"BR-AP-63bc8b": {
+			"name": "Calçoene"
+		},
+		"BR-AP-245266": {
+			"name": "Cutias"
+		},
+		"BR-AP-24b7e9": {
+			"name": "Ferreira Gomes"
+		},
+		"BR-AP-f84d9a": {
+			"name": "Itaubal"
+		},
+		"BR-AP-0d66df": {
+			"name": "Laranjal do Jari"
+		},
+		"BR-AP-acd90f": {
+			"name": "Macapá"
+		},
+		"BR-AP-6ffb52": {
+			"name": "Mazagão"
+		},
+		"BR-AP-0f3333": {
+			"name": "Oiapoque"
+		},
+		"BR-AP-cff47e": {
+			"name": "Pedra Branca do Amapari"
+		},
+		"BR-AP-683699": {
+			"name": "Porto Grande"
+		},
+		"BR-AP-04111d": {
+			"name": "Pracuúba"
+		},
+		"BR-AP-973348": {
+			"name": "Santana"
+		},
+		"BR-AP-661ce1": {
+			"name": "Serra do Navio"
+		},
+		"BR-AP-6ecc74": {
+			"name": "Tartarugalzinho"
+		},
+		"BR-AP-9aed99": {
+			"name": "Vitória do Jari"
+		}
+	}
 }

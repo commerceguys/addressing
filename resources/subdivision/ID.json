@@ -1,206 +1,109 @@
 {
-    "ID-AC": {
-        "locale": "id",
-        "country_code": "ID",
-        "parent_id": null,
-        "name": "Aceh"
-    },
-    "ID-BA": {
-        "locale": "id",
-        "country_code": "ID",
-        "parent_id": null,
-        "name": "Bali"
-    },
-    "ID-BT": {
-        "locale": "id",
-        "country_code": "ID",
-        "parent_id": null,
-        "name": "Banten"
-    },
-    "ID-BE": {
-        "locale": "id",
-        "country_code": "ID",
-        "parent_id": null,
-        "name": "Bengkulu"
-    },
-    "ID-YO": {
-        "locale": "id",
-        "country_code": "ID",
-        "parent_id": null,
-        "name": "Daerah Istimewa Yogyakarta"
-    },
-    "ID-JK": {
-        "locale": "id",
-        "country_code": "ID",
-        "parent_id": null,
-        "name": "DKI Jakarta"
-    },
-    "ID-GO": {
-        "locale": "id",
-        "country_code": "ID",
-        "parent_id": null,
-        "name": "Gorontalo"
-    },
-    "ID-JA": {
-        "locale": "id",
-        "country_code": "ID",
-        "parent_id": null,
-        "name": "Jambi"
-    },
-    "ID-JB": {
-        "locale": "id",
-        "country_code": "ID",
-        "parent_id": null,
-        "name": "Jawa Barat"
-    },
-    "ID-JT": {
-        "locale": "id",
-        "country_code": "ID",
-        "parent_id": null,
-        "name": "Jawa Tengah"
-    },
-    "ID-JI": {
-        "locale": "id",
-        "country_code": "ID",
-        "parent_id": null,
-        "name": "Jawa Timur"
-    },
-    "ID-KB": {
-        "locale": "id",
-        "country_code": "ID",
-        "parent_id": null,
-        "name": "Kalimantan Barat"
-    },
-    "ID-KS": {
-        "locale": "id",
-        "country_code": "ID",
-        "parent_id": null,
-        "name": "Kalimantan Selatan"
-    },
-    "ID-KT": {
-        "locale": "id",
-        "country_code": "ID",
-        "parent_id": null,
-        "name": "Kalimantan Tengah"
-    },
-    "ID-KI": {
-        "locale": "id",
-        "country_code": "ID",
-        "parent_id": null,
-        "name": "Kalimantan Timur"
-    },
-    "ID-KU": {
-        "locale": "id",
-        "country_code": "ID",
-        "parent_id": null,
-        "name": "Kalimantan Utara"
-    },
-    "ID-BB": {
-        "locale": "id",
-        "country_code": "ID",
-        "parent_id": null,
-        "name": "Kepulauan Bangka Belitung"
-    },
-    "ID-KR": {
-        "locale": "id",
-        "country_code": "ID",
-        "parent_id": null,
-        "name": "Kepulauan Riau"
-    },
-    "ID-LA": {
-        "locale": "id",
-        "country_code": "ID",
-        "parent_id": null,
-        "name": "Lampung"
-    },
-    "ID-MA": {
-        "locale": "id",
-        "country_code": "ID",
-        "parent_id": null,
-        "name": "Maluku"
-    },
-    "ID-MU": {
-        "locale": "id",
-        "country_code": "ID",
-        "parent_id": null,
-        "name": "Maluku Utara"
-    },
-    "ID-NB": {
-        "locale": "id",
-        "country_code": "ID",
-        "parent_id": null,
-        "name": "Nusa Tenggara Barat"
-    },
-    "ID-NT": {
-        "locale": "id",
-        "country_code": "ID",
-        "parent_id": null,
-        "name": "Nusa Tenggara Timur"
-    },
-    "ID-PA": {
-        "locale": "id",
-        "country_code": "ID",
-        "parent_id": null,
-        "name": "Papua"
-    },
-    "ID-PB": {
-        "locale": "id",
-        "country_code": "ID",
-        "parent_id": null,
-        "name": "Papua Barat"
-    },
-    "ID-RI": {
-        "locale": "id",
-        "country_code": "ID",
-        "parent_id": null,
-        "name": "Riau"
-    },
-    "ID-SR": {
-        "locale": "id",
-        "country_code": "ID",
-        "parent_id": null,
-        "name": "Sulawesi Barat"
-    },
-    "ID-SN": {
-        "locale": "id",
-        "country_code": "ID",
-        "parent_id": null,
-        "name": "Sulawesi Selatan"
-    },
-    "ID-ST": {
-        "locale": "id",
-        "country_code": "ID",
-        "parent_id": null,
-        "name": "Sulawesi Tengah"
-    },
-    "ID-SG": {
-        "locale": "id",
-        "country_code": "ID",
-        "parent_id": null,
-        "name": "Sulawesi Tenggara"
-    },
-    "ID-SA": {
-        "locale": "id",
-        "country_code": "ID",
-        "parent_id": null,
-        "name": "Sulawesi Utara"
-    },
-    "ID-SB": {
-        "locale": "id",
-        "country_code": "ID",
-        "parent_id": null,
-        "name": "Sumatera Barat"
-    },
-    "ID-SS": {
-        "locale": "id",
-        "country_code": "ID",
-        "parent_id": null,
-        "name": "Sumatera Selatan"
-    },
-    "ID-SU": {
-        "locale": "id",
-        "country_code": "ID",
-        "parent_id": null,
-        "name": "Sumatera Utara"
-    }
+	"country_code": "ID",
+	"parent_id": null,
+	"locale": "id",
+	"subdivisions": {
+		"ID-AC": {
+			"name": "Aceh"
+		},
+		"ID-BA": {
+			"name": "Bali"
+		},
+		"ID-BT": {
+			"name": "Banten"
+		},
+		"ID-BE": {
+			"name": "Bengkulu"
+		},
+		"ID-YO": {
+			"name": "Daerah Istimewa Yogyakarta"
+		},
+		"ID-JK": {
+			"name": "DKI Jakarta"
+		},
+		"ID-GO": {
+			"name": "Gorontalo"
+		},
+		"ID-JA": {
+			"name": "Jambi"
+		},
+		"ID-JB": {
+			"name": "Jawa Barat"
+		},
+		"ID-JT": {
+			"name": "Jawa Tengah"
+		},
+		"ID-JI": {
+			"name": "Jawa Timur"
+		},
+		"ID-KB": {
+			"name": "Kalimantan Barat"
+		},
+		"ID-KS": {
+			"name": "Kalimantan Selatan"
+		},
+		"ID-KT": {
+			"name": "Kalimantan Tengah"
+		},
+		"ID-KI": {
+			"name": "Kalimantan Timur"
+		},
+		"ID-KU": {
+			"name": "Kalimantan Utara"
+		},
+		"ID-BB": {
+			"name": "Kepulauan Bangka Belitung"
+		},
+		"ID-KR": {
+			"name": "Kepulauan Riau"
+		},
+		"ID-LA": {
+			"name": "Lampung"
+		},
+		"ID-MA": {
+			"name": "Maluku"
+		},
+		"ID-MU": {
+			"name": "Maluku Utara"
+		},
+		"ID-NB": {
+			"name": "Nusa Tenggara Barat"
+		},
+		"ID-NT": {
+			"name": "Nusa Tenggara Timur"
+		},
+		"ID-PA": {
+			"name": "Papua"
+		},
+		"ID-PB": {
+			"name": "Papua Barat"
+		},
+		"ID-RI": {
+			"name": "Riau"
+		},
+		"ID-SR": {
+			"name": "Sulawesi Barat"
+		},
+		"ID-SN": {
+			"name": "Sulawesi Selatan"
+		},
+		"ID-ST": {
+			"name": "Sulawesi Tengah"
+		},
+		"ID-SG": {
+			"name": "Sulawesi Tenggara"
+		},
+		"ID-SA": {
+			"name": "Sulawesi Utara"
+		},
+		"ID-SB": {
+			"name": "Sumatera Barat"
+		},
+		"ID-SS": {
+			"name": "Sumatera Selatan"
+		},
+		"ID-SU": {
+			"name": "Sumatera Utara"
+		}
+	}
 }

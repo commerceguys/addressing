@@ -1,128 +1,79 @@
 {
-    "SO-AW": {
-        "locale": "so",
-        "country_code": "SO",
-        "parent_id": null,
-        "code": "AD",
-        "name": "AWDAL"
-    },
-    "SO-BK": {
-        "locale": "so",
-        "country_code": "SO",
-        "parent_id": null,
-        "code": "BK",
-        "name": "BAKOOL"
-    },
-    "SO-BN": {
-        "locale": "so",
-        "country_code": "SO",
-        "parent_id": null,
-        "code": "BN",
-        "name": "BANAADIR"
-    },
-    "SO-BR": {
-        "locale": "so",
-        "country_code": "SO",
-        "parent_id": null,
-        "code": "BR",
-        "name": "BARI"
-    },
-    "SO-BY": {
-        "locale": "so",
-        "country_code": "SO",
-        "parent_id": null,
-        "code": "BY",
-        "name": "BAY"
-    },
-    "SO-GA": {
-        "locale": "so",
-        "country_code": "SO",
-        "parent_id": null,
-        "code": "GG",
-        "name": "GALGUDUUD"
-    },
-    "SO-GE": {
-        "locale": "so",
-        "country_code": "SO",
-        "parent_id": null,
-        "code": "GD",
-        "name": "GEDO"
-    },
-    "SO-HI": {
-        "locale": "so",
-        "country_code": "SO",
-        "parent_id": null,
-        "code": "HR",
-        "name": "HIIRAAN"
-    },
-    "SO-JD": {
-        "locale": "so",
-        "country_code": "SO",
-        "parent_id": null,
-        "code": "JD",
-        "name": "JUBBADA DHEXE"
-    },
-    "SO-JH": {
-        "locale": "so",
-        "country_code": "SO",
-        "parent_id": null,
-        "code": "JH",
-        "name": "JUBBADA HOOSE"
-    },
-    "SO-MU": {
-        "locale": "so",
-        "country_code": "SO",
-        "parent_id": null,
-        "code": "MD",
-        "name": "MUDUG"
-    },
-    "SO-NU": {
-        "locale": "so",
-        "country_code": "SO",
-        "parent_id": null,
-        "code": "NG",
-        "name": "NUGAAL"
-    },
-    "SO-SA": {
-        "locale": "so",
-        "country_code": "SO",
-        "parent_id": null,
-        "code": "SG",
-        "name": "SANAAG"
-    },
-    "SO-SD": {
-        "locale": "so",
-        "country_code": "SO",
-        "parent_id": null,
-        "code": "SD",
-        "name": "SHABEELLAHA DHEXE"
-    },
-    "SO-SH": {
-        "locale": "so",
-        "country_code": "SO",
-        "parent_id": null,
-        "code": "SH",
-        "name": "SHABEELLAHA HOOSE"
-    },
-    "SO-SO": {
-        "locale": "so",
-        "country_code": "SO",
-        "parent_id": null,
-        "code": "SL",
-        "name": "SOOL"
-    },
-    "SO-TO": {
-        "locale": "so",
-        "country_code": "SO",
-        "parent_id": null,
-        "code": "TG",
-        "name": "TOGDHEER"
-    },
-    "SO-WO": {
-        "locale": "so",
-        "country_code": "SO",
-        "parent_id": null,
-        "code": "WG",
-        "name": "WOQOOYI GALBEED"
-    }
+	"country_code": "SO",
+	"parent_id": null,
+	"locale": "so",
+	"subdivisions": {
+		"SO-AW": {
+			"code": "AD",
+			"name": "AWDAL"
+		},
+		"SO-BK": {
+			"code": "BK",
+			"name": "BAKOOL"
+		},
+		"SO-BN": {
+			"code": "BN",
+			"name": "BANAADIR"
+		},
+		"SO-BR": {
+			"code": "BR",
+			"name": "BARI"
+		},
+		"SO-BY": {
+			"code": "BY",
+			"name": "BAY"
+		},
+		"SO-GA": {
+			"code": "GG",
+			"name": "GALGUDUUD"
+		},
+		"SO-GE": {
+			"code": "GD",
+			"name": "GEDO"
+		},
+		"SO-HI": {
+			"code": "HR",
+			"name": "HIIRAAN"
+		},
+		"SO-JD": {
+			"code": "JD",
+			"name": "JUBBADA DHEXE"
+		},
+		"SO-JH": {
+			"code": "JH",
+			"name": "JUBBADA HOOSE"
+		},
+		"SO-MU": {
+			"code": "MD",
+			"name": "MUDUG"
+		},
+		"SO-NU": {
+			"code": "NG",
+			"name": "NUGAAL"
+		},
+		"SO-SA": {
+			"code": "SG",
+			"name": "SANAAG"
+		},
+		"SO-SD": {
+			"code": "SD",
+			"name": "SHABEELLAHA DHEXE"
+		},
+		"SO-SH": {
+			"code": "SH",
+			"name": "SHABEELLAHA HOOSE"
+		},
+		"SO-SO": {
+			"code": "SL",
+			"name": "SOOL"
+		},
+		"SO-TO": {
+			"code": "TG",
+			"name": "TOGDHEER"
+		},
+		"SO-WO": {
+			"code": "WG",
+			"name": "WOQOOYI GALBEED"
+		}
+	}
 }

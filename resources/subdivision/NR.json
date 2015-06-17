@@ -1,86 +1,49 @@
 {
-    "NR-01": {
-        "locale": "en",
-        "country_code": "NR",
-        "parent_id": null,
-        "name": "AIWO DISTRICT"
-    },
-    "NR-02": {
-        "locale": "en",
-        "country_code": "NR",
-        "parent_id": null,
-        "name": "ANABAR DISTRICT"
-    },
-    "NR-03": {
-        "locale": "en",
-        "country_code": "NR",
-        "parent_id": null,
-        "name": "ANETAN DISTRICT"
-    },
-    "NR-04": {
-        "locale": "en",
-        "country_code": "NR",
-        "parent_id": null,
-        "name": "ANIBARE DISTRICT"
-    },
-    "NR-05": {
-        "locale": "en",
-        "country_code": "NR",
-        "parent_id": null,
-        "name": "BAITI DISTRICT"
-    },
-    "NR-06": {
-        "locale": "en",
-        "country_code": "NR",
-        "parent_id": null,
-        "name": "BOE DISTRICT"
-    },
-    "NR-07": {
-        "locale": "en",
-        "country_code": "NR",
-        "parent_id": null,
-        "name": "BUADA DISTRICT"
-    },
-    "NR-08": {
-        "locale": "en",
-        "country_code": "NR",
-        "parent_id": null,
-        "name": "DENIGOMODU DISTRICT"
-    },
-    "NR-09": {
-        "locale": "en",
-        "country_code": "NR",
-        "parent_id": null,
-        "name": "EWA DISTRICT"
-    },
-    "NR-10": {
-        "locale": "en",
-        "country_code": "NR",
-        "parent_id": null,
-        "name": "IJUW DISTRICT"
-    },
-    "NR-11": {
-        "locale": "en",
-        "country_code": "NR",
-        "parent_id": null,
-        "name": "MENENG DISTRICT"
-    },
-    "NR-12": {
-        "locale": "en",
-        "country_code": "NR",
-        "parent_id": null,
-        "name": "NIBOK DISTRICT"
-    },
-    "NR-13": {
-        "locale": "en",
-        "country_code": "NR",
-        "parent_id": null,
-        "name": "UABOE DISTRICT"
-    },
-    "NR-14": {
-        "locale": "en",
-        "country_code": "NR",
-        "parent_id": null,
-        "name": "YAREN DISTRICT"
-    }
+	"country_code": "NR",
+	"parent_id": null,
+	"locale": "en",
+	"subdivisions": {
+		"NR-01": {
+			"name": "AIWO DISTRICT"
+		},
+		"NR-02": {
+			"name": "ANABAR DISTRICT"
+		},
+		"NR-03": {
+			"name": "ANETAN DISTRICT"
+		},
+		"NR-04": {
+			"name": "ANIBARE DISTRICT"
+		},
+		"NR-05": {
+			"name": "BAITI DISTRICT"
+		},
+		"NR-06": {
+			"name": "BOE DISTRICT"
+		},
+		"NR-07": {
+			"name": "BUADA DISTRICT"
+		},
+		"NR-08": {
+			"name": "DENIGOMODU DISTRICT"
+		},
+		"NR-09": {
+			"name": "EWA DISTRICT"
+		},
+		"NR-10": {
+			"name": "IJUW DISTRICT"
+		},
+		"NR-11": {
+			"name": "MENENG DISTRICT"
+		},
+		"NR-12": {
+			"name": "NIBOK DISTRICT"
+		},
+		"NR-13": {
+			"name": "UABOE DISTRICT"
+		},
+		"NR-14": {
+			"name": "YAREN DISTRICT"
+		}
+	}
 }

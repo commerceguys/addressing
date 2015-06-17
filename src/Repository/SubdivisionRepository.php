@@ -75,13 +75,8 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
             $parentId = null;
         }
         $definitions = $this->loadDefinitions($countryCode, $parentId);
-        if (!isset($definitions[$id])) {
-            // No definition found.
-            return null;
-        }
-        $definition = $this->translateDefinition($definitions[$id], $locale);
 
-        return $this->createSubdivisionFromDefinition($id, $definition);
+        return $this->createSubdivisionFromDefinitions($id, $definitions, $locale);
     }
 
     /**
@@ -90,10 +85,13 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
     public function getAll($countryCode, $parentId = null, $locale = null)
     {
         $definitions = $this->loadDefinitions($countryCode, $parentId);
+        if (empty($definitions)) {
+            return [];
+        }
+
         $subdivisions = [];
-        foreach ($definitions as $id => $definition) {
-            $definition = $this->translateDefinition($definition, $locale);
-            $subdivisions[$id] = $this->createSubdivisionFromDefinition($id, $definition);
+        foreach (array_keys($definitions['subdivisions']) as $id) {
+            $subdivisions[$id] = $this->createSubdivisionFromDefinitions($id, $definitions, $locale);
         }
 
         return $subdivisions;
@@ -105,8 +103,12 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
     public function getList($countryCode, $parentId = null, $locale = null)
     {
         $definitions = $this->loadDefinitions($countryCode, $parentId);
+        if (empty($definitions)) {
+            return [];
+        }
+
         $list = [];
-        foreach ($definitions as $id => $definition) {
+        foreach ($definitions['subdivisions'] as $id => $definition) {
             $definition = $this->translateDefinition($definition, $locale);
             $list[$id] = $definition['name'];
         }
@@ -139,7 +141,6 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
     {
         // Treat the country code as the parent id on the top level.
         $parentId = $parentId ?: $countryCode;
-
         if (!isset($this->definitions[$parentId])) {
             $filename = $this->definitionPath . $parentId . '.json';
             if ($rawDefinition = @file_get_contents($filename)) {
@@ -154,18 +155,31 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
     }
 
     /**
-     * Creates a subdivision object from the provided definition.
+     * Creates a subdivision object from the provided definitions.
      *
-     * @param int   $id         The subdivision id.
-     * @param array $definition The subdivision definition.
+     * @param int    $id         The subdivision id.
+     * @param array  $definition The subdivision definitions.
+     * @param string $locale     The locale (e.g. fr-FR).
      *
      * @return Subdivision
      */
-    protected function createSubdivisionFromDefinition($id, array $definition)
+    protected function createSubdivisionFromDefinitions($id, array $definitions, $locale)
     {
+        if (!isset($definitions['subdivisions'][$id])) {
+            // No matching definition found.
+            return null;
+        }
+
+        $definition = $this->translateDefinition($definitions['subdivisions'][$id], $locale);
+        // Add common keys from the root level.
+        $definition['country_code'] = $definitions['country_code'];
+        $definition['parent_id'] = $definitions['parent_id'];
+        $definition['locale'] = $definitions['locale'];
+        // Provide defaults.
         if (!isset($definition['code'])) {
             $definition['code'] = $definition['name'];
         }
+        // Load the parent, if known.
         $definition['parent'] = null;
         if (isset($definition['parent_id'])) {
             $parentId = $definition['parent_id'];

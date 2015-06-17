@@ -1,86 +1,70 @@
 {
-    "AE-AZ": {
-        "locale": "ar-Latn",
-        "country_code": "AE",
-        "parent_id": null,
-        "code": "أبو ظبي",
-        "name": "Abu Dhabi",
-        "translations": {
-            "ar": {
-                "name": "أبو ظبي"
-            }
-        }
-    },
-    "AE-FU": {
-        "locale": "ar-Latn",
-        "country_code": "AE",
-        "parent_id": null,
-        "code": "الفجيرة",
-        "name": "Fujairah",
-        "translations": {
-            "ar": {
-                "name": "الفجيرة"
-            }
-        }
-    },
-    "AE-UQ": {
-        "locale": "ar-Latn",
-        "country_code": "AE",
-        "parent_id": null,
-        "code": "ام القيوين",
-        "name": "Umm Al Quwain",
-        "translations": {
-            "ar": {
-                "name": "ام القيوين"
-            }
-        }
-    },
-    "AE-SH": {
-        "locale": "ar-Latn",
-        "country_code": "AE",
-        "parent_id": null,
-        "code": "إمارة الشارقةّ",
-        "name": "Sharjah",
-        "translations": {
-            "ar": {
-                "name": "إمارة الشارقةّ"
-            }
-        }
-    },
-    "AE-DU": {
-        "locale": "ar-Latn",
-        "country_code": "AE",
-        "parent_id": null,
-        "code": "إمارة دبيّ",
-        "name": "Dubai",
-        "translations": {
-            "ar": {
-                "name": "إمارة دبيّ"
-            }
-        }
-    },
-    "AE-RK": {
-        "locale": "ar-Latn",
-        "country_code": "AE",
-        "parent_id": null,
-        "code": "إمارة رأس الخيمة",
-        "name": "Ras al Khaimah",
-        "translations": {
-            "ar": {
-                "name": "إمارة رأس الخيمة"
-            }
-        }
-    },
-    "AE-AJ": {
-        "locale": "ar-Latn",
-        "country_code": "AE",
-        "parent_id": null,
-        "code": "عجمان",
-        "name": "Ajmān",
-        "translations": {
-            "ar": {
-                "name": "عجمان"
-            }
-        }
-    }
+	"country_code": "AE",
+	"parent_id": null,
+	"locale": "ar-Latn",
+	"subdivisions": {
+		"AE-AZ": {
+			"code": "أبو ظبي",
+			"name": "Abu Dhabi",
+			"translations": {
+				"ar": {
+					"name": "أبو ظبي"
+				}
+			}
+		},
+		"AE-FU": {
+			"code": "الفجيرة",
+			"name": "Fujairah",
+			"translations": {
+				"ar": {
+					"name": "الفجيرة"
+				}
+			}
+		},
+		"AE-UQ": {
+			"code": "ام القيوين",
+			"name": "Umm Al Quwain",
+			"translations": {
+				"ar": {
+					"name": "ام القيوين"
+				}
+			}
+		},
+		"AE-SH": {
+			"code": "إمارة الشارقةّ",
+			"name": "Sharjah",
+			"translations": {
+				"ar": {
+					"name": "إمارة الشارقةّ"
+				}
+			}
+		},
+		"AE-DU": {
+			"code": "إمارة دبيّ",
+			"name": "Dubai",
+			"translations": {
+				"ar": {
+					"name": "إمارة دبيّ"
+				}
+			}
+		},
+		"AE-RK": {
+			"code": "إمارة رأس الخيمة",
+			"name": "Ras al Khaimah",
+			"translations": {
+				"ar": {
+					"name": "إمارة رأس الخيمة"
+				}
+			}
+		},
+		"AE-AJ": {
+			"code": "عجمان",
+			"name": "Ajmān",
+			"translations": {
+				"ar": {
+					"name": "عجمان"
+				}
+			}
+		}
+	}
 }

@@ -1,18 +1,18 @@
 {
-    "locale": "und",
-    "format": "%organization\n%recipient\n%addressLine1\n%addressLine2\n%postalCode %locality %sortingCode",
-    "required_fields": [
-        "addressLine1",
-        "locality",
-        "postalCode"
-    ],
-    "uppercase_fields": [
-        "addressLine1",
-        "addressLine2",
-        "locality",
-        "sortingCode"
-    ],
-    "locality_type": "city",
-    "postal_code_type": "postal",
-    "postal_code_pattern": "9[78]5\\d{2}"
+	"locale": "und",
+	"format": "%organization\n%recipient\n%addressLine1\n%addressLine2\n%postalCode %locality %sortingCode",
+	"required_fields": [
+		"addressLine1",
+		"locality",
+		"postalCode"
+	],
+	"uppercase_fields": [
+		"addressLine1",
+		"addressLine2",
+		"locality",
+		"sortingCode"
+	],
+	"locality_type": "city",
+	"postal_code_type": "postal",
+	"postal_code_pattern": "9[78]5\\d{2}"
 }

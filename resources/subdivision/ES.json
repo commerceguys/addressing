@@ -1,366 +1,215 @@
 {
-    "ES-C": {
-        "locale": "es",
-        "country_code": "ES",
-        "parent_id": null,
-        "name": "A Coruña",
-        "postal_code_pattern": "15"
-    },
-    "ES-VI": {
-        "locale": "es",
-        "country_code": "ES",
-        "parent_id": null,
-        "name": "Álava",
-        "postal_code_pattern": "01"
-    },
-    "ES-AB": {
-        "locale": "es",
-        "country_code": "ES",
-        "parent_id": null,
-        "name": "Albacete",
-        "postal_code_pattern": "02"
-    },
-    "ES-A": {
-        "locale": "es",
-        "country_code": "ES",
-        "parent_id": null,
-        "name": "Alicante",
-        "postal_code_pattern": "03"
-    },
-    "ES-AL": {
-        "locale": "es",
-        "country_code": "ES",
-        "parent_id": null,
-        "name": "Almería",
-        "postal_code_pattern": "04"
-    },
-    "ES-O": {
-        "locale": "es",
-        "country_code": "ES",
-        "parent_id": null,
-        "name": "Asturias",
-        "postal_code_pattern": "33"
-    },
-    "ES-AV": {
-        "locale": "es",
-        "country_code": "ES",
-        "parent_id": null,
-        "name": "Ávila",
-        "postal_code_pattern": "05"
-    },
-    "ES-BA": {
-        "locale": "es",
-        "country_code": "ES",
-        "parent_id": null,
-        "name": "Badajoz",
-        "postal_code_pattern": "06"
-    },
-    "ES-PM": {
-        "locale": "es",
-        "country_code": "ES",
-        "parent_id": null,
-        "name": "Balears",
-        "postal_code_pattern": "07"
-    },
-    "ES-B": {
-        "locale": "es",
-        "country_code": "ES",
-        "parent_id": null,
-        "name": "Barcelona",
-        "postal_code_pattern": "08"
-    },
-    "ES-BU": {
-        "locale": "es",
-        "country_code": "ES",
-        "parent_id": null,
-        "name": "Burgos",
-        "postal_code_pattern": "09"
-    },
-    "ES-CC": {
-        "locale": "es",
-        "country_code": "ES",
-        "parent_id": null,
-        "name": "Cáceres",
-        "postal_code_pattern": "10"
-    },
-    "ES-CA": {
-        "locale": "es",
-        "country_code": "ES",
-        "parent_id": null,
-        "name": "Cádiz",
-        "postal_code_pattern": "11"
-    },
-    "ES-S": {
-        "locale": "es",
-        "country_code": "ES",
-        "parent_id": null,
-        "name": "Cantabria",
-        "postal_code_pattern": "39"
-    },
-    "ES-CS": {
-        "locale": "es",
-        "country_code": "ES",
-        "parent_id": null,
-        "name": "Castellón",
-        "postal_code_pattern": "12"
-    },
-    "ES-CE": {
-        "locale": "es",
-        "country_code": "ES",
-        "parent_id": null,
-        "name": "Ceuta",
-        "postal_code_pattern": "51"
-    },
-    "ES-CR": {
-        "locale": "es",
-        "country_code": "ES",
-        "parent_id": null,
-        "name": "Ciudad Real",
-        "postal_code_pattern": "13"
-    },
-    "ES-CO": {
-        "locale": "es",
-        "country_code": "ES",
-        "parent_id": null,
-        "name": "Córdoba",
-        "postal_code_pattern": "14"
-    },
-    "ES-CU": {
-        "locale": "es",
-        "country_code": "ES",
-        "parent_id": null,
-        "name": "Cuenca",
-        "postal_code_pattern": "16"
-    },
-    "ES-GI": {
-        "locale": "es",
-        "country_code": "ES",
-        "parent_id": null,
-        "name": "Girona",
-        "postal_code_pattern": "17"
-    },
-    "ES-GR": {
-        "locale": "es",
-        "country_code": "ES",
-        "parent_id": null,
-        "name": "Granada",
-        "postal_code_pattern": "18"
-    },
-    "ES-GU": {
-        "locale": "es",
-        "country_code": "ES",
-        "parent_id": null,
-        "name": "Guadalajara",
-        "postal_code_pattern": "19"
-    },
-    "ES-SS": {
-        "locale": "es",
-        "country_code": "ES",
-        "parent_id": null,
-        "name": "Guipúzcoa",
-        "postal_code_pattern": "20"
-    },
-    "ES-H": {
-        "locale": "es",
-        "country_code": "ES",
-        "parent_id": null,
-        "name": "Huelva",
-        "postal_code_pattern": "21"
-    },
-    "ES-HU": {
-        "locale": "es",
-        "country_code": "ES",
-        "parent_id": null,
-        "name": "Huesca",
-        "postal_code_pattern": "22"
-    },
-    "ES-J": {
-        "locale": "es",
-        "country_code": "ES",
-        "parent_id": null,
-        "name": "Jaén",
-        "postal_code_pattern": "23"
-    },
-    "ES-LO": {
-        "locale": "es",
-        "country_code": "ES",
-        "parent_id": null,
-        "name": "La Rioja",
-        "postal_code_pattern": "26"
-    },
-    "ES-GC": {
-        "locale": "es",
-        "country_code": "ES",
-        "parent_id": null,
-        "name": "Las Palmas",
-        "postal_code_pattern": "35"
-    },
-    "ES-LE": {
-        "locale": "es",
-        "country_code": "ES",
-        "parent_id": null,
-        "name": "León",
-        "postal_code_pattern": "24"
-    },
-    "ES-L": {
-        "locale": "es",
-        "country_code": "ES",
-        "parent_id": null,
-        "name": "Lleida",
-        "postal_code_pattern": "25"
-    },
-    "ES-LU": {
-        "locale": "es",
-        "country_code": "ES",
-        "parent_id": null,
-        "name": "Lugo",
-        "postal_code_pattern": "27"
-    },
-    "ES-M": {
-        "locale": "es",
-        "country_code": "ES",
-        "parent_id": null,
-        "name": "Madrid",
-        "postal_code_pattern": "28"
-    },
-    "ES-MA": {
-        "locale": "es",
-        "country_code": "ES",
-        "parent_id": null,
-        "name": "Málaga",
-        "postal_code_pattern": "29"
-    },
-    "ES-ML": {
-        "locale": "es",
-        "country_code": "ES",
-        "parent_id": null,
-        "name": "Melilla",
-        "postal_code_pattern": "52"
-    },
-    "ES-MU": {
-        "locale": "es",
-        "country_code": "ES",
-        "parent_id": null,
-        "name": "Murcia",
-        "postal_code_pattern": "30"
-    },
-    "ES-NA": {
-        "locale": "es",
-        "country_code": "ES",
-        "parent_id": null,
-        "name": "Navarra",
-        "postal_code_pattern": "31"
-    },
-    "ES-OR": {
-        "locale": "es",
-        "country_code": "ES",
-        "parent_id": null,
-        "name": "Ourense",
-        "postal_code_pattern": "32"
-    },
-    "ES-P": {
-        "locale": "es",
-        "country_code": "ES",
-        "parent_id": null,
-        "name": "Palencia",
-        "postal_code_pattern": "34"
-    },
-    "ES-PO": {
-        "locale": "es",
-        "country_code": "ES",
-        "parent_id": null,
-        "name": "Pontevedra",
-        "postal_code_pattern": "36"
-    },
-    "ES-SA": {
-        "locale": "es",
-        "country_code": "ES",
-        "parent_id": null,
-        "name": "Salamanca",
-        "postal_code_pattern": "37"
-    },
-    "ES-TF": {
-        "locale": "es",
-        "country_code": "ES",
-        "parent_id": null,
-        "name": "Santa Cruz de Tenerife",
-        "postal_code_pattern": "38"
-    },
-    "ES-SG": {
-        "locale": "es",
-        "country_code": "ES",
-        "parent_id": null,
-        "name": "Segovia",
-        "postal_code_pattern": "40"
-    },
-    "ES-SE": {
-        "locale": "es",
-        "country_code": "ES",
-        "parent_id": null,
-        "name": "Sevilla",
-        "postal_code_pattern": "41"
-    },
-    "ES-SO": {
-        "locale": "es",
-        "country_code": "ES",
-        "parent_id": null,
-        "name": "Soria",
-        "postal_code_pattern": "42"
-    },
-    "ES-T": {
-        "locale": "es",
-        "country_code": "ES",
-        "parent_id": null,
-        "name": "Tarragona",
-        "postal_code_pattern": "43"
-    },
-    "ES-TE": {
-        "locale": "es",
-        "country_code": "ES",
-        "parent_id": null,
-        "name": "Teruel",
-        "postal_code_pattern": "44"
-    },
-    "ES-TO": {
-        "locale": "es",
-        "country_code": "ES",
-        "parent_id": null,
-        "name": "Toledo",
-        "postal_code_pattern": "45"
-    },
-    "ES-V": {
-        "locale": "es",
-        "country_code": "ES",
-        "parent_id": null,
-        "name": "Valencia",
-        "postal_code_pattern": "46"
-    },
-    "ES-VA": {
-        "locale": "es",
-        "country_code": "ES",
-        "parent_id": null,
-        "name": "Valladolid",
-        "postal_code_pattern": "47"
-    },
-    "ES-BI": {
-        "locale": "es",
-        "country_code": "ES",
-        "parent_id": null,
-        "name": "Vizcaya",
-        "postal_code_pattern": "48"
-    },
-    "ES-ZA": {
-        "locale": "es",
-        "country_code": "ES",
-        "parent_id": null,
-        "name": "Zamora",
-        "postal_code_pattern": "49"
-    },
-    "ES-Z": {
-        "locale": "es",
-        "country_code": "ES",
-        "parent_id": null,
-        "name": "Zaragoza",
-        "postal_code_pattern": "50"
-    }
+	"country_code": "ES",
+	"parent_id": null,
+	"locale": "es",
+	"subdivisions": {
+		"ES-C": {
+			"name": "A Coruña",
+			"postal_code_pattern": "15"
+		},
+		"ES-VI": {
+			"name": "Álava",
+			"postal_code_pattern": "01"
+		},
+		"ES-AB": {
+			"name": "Albacete",
+			"postal_code_pattern": "02"
+		},
+		"ES-A": {
+			"name": "Alicante",
+			"postal_code_pattern": "03"
+		},
+		"ES-AL": {
+			"name": "Almería",
+			"postal_code_pattern": "04"
+		},
+		"ES-O": {
+			"name": "Asturias",
+			"postal_code_pattern": "33"
+		},
+		"ES-AV": {
+			"name": "Ávila",
+			"postal_code_pattern": "05"
+		},
+		"ES-BA": {
+			"name": "Badajoz",
+			"postal_code_pattern": "06"
+		},
+		"ES-PM": {
+			"name": "Balears",
+			"postal_code_pattern": "07"
+		},
+		"ES-B": {
+			"name": "Barcelona",
+			"postal_code_pattern": "08"
+		},
+		"ES-BU": {
+			"name": "Burgos",
+			"postal_code_pattern": "09"
+		},
+		"ES-CC": {
+			"name": "Cáceres",
+			"postal_code_pattern": "10"
+		},
+		"ES-CA": {
+			"name": "Cádiz",
+			"postal_code_pattern": "11"
+		},
+		"ES-S": {
+			"name": "Cantabria",
+			"postal_code_pattern": "39"
+		},
+		"ES-CS": {
+			"name": "Castellón",
+			"postal_code_pattern": "12"
+		},
+		"ES-CE": {
+			"name": "Ceuta",
+			"postal_code_pattern": "51"
+		},
+		"ES-CR": {
+			"name": "Ciudad Real",
+			"postal_code_pattern": "13"
+		},
+		"ES-CO": {
+			"name": "Córdoba",
+			"postal_code_pattern": "14"
+		},
+		"ES-CU": {
+			"name": "Cuenca",
+			"postal_code_pattern": "16"
+		},
+		"ES-GI": {
+			"name": "Girona",
+			"postal_code_pattern": "17"
+		},
+		"ES-GR": {
+			"name": "Granada",
+			"postal_code_pattern": "18"
+		},
+		"ES-GU": {
+			"name": "Guadalajara",
+			"postal_code_pattern": "19"
+		},
+		"ES-SS": {
+			"name": "Guipúzcoa",
+			"postal_code_pattern": "20"
+		},
+		"ES-H": {
+			"name": "Huelva",
+			"postal_code_pattern": "21"
+		},
+		"ES-HU": {
+			"name": "Huesca",
+			"postal_code_pattern": "22"
+		},
+		"ES-J": {
+			"name": "Jaén",
+			"postal_code_pattern": "23"
+		},
+		"ES-LO": {
+			"name": "La Rioja",
+			"postal_code_pattern": "26"
+		},
+		"ES-GC": {
+			"name": "Las Palmas",
+			"postal_code_pattern": "35"
+		},
+		"ES-LE": {
+			"name": "León",
+			"postal_code_pattern": "24"
+		},
+		"ES-L": {
+			"name": "Lleida",
+			"postal_code_pattern": "25"
+		},
+		"ES-LU": {
+			"name": "Lugo",
+			"postal_code_pattern": "27"
+		},
+		"ES-M": {
+			"name": "Madrid",
+			"postal_code_pattern": "28"
+		},
+		"ES-MA": {
+			"name": "Málaga",
+			"postal_code_pattern": "29"
+		},
+		"ES-ML": {
+			"name": "Melilla",
+			"postal_code_pattern": "52"
+		},
+		"ES-MU": {
+			"name": "Murcia",
+			"postal_code_pattern": "30"
+		},
+		"ES-NA": {
+			"name": "Navarra",
+			"postal_code_pattern": "31"
+		},
+		"ES-OR": {
+			"name": "Ourense",
+			"postal_code_pattern": "32"
+		},
+		"ES-P": {
+			"name": "Palencia",
+			"postal_code_pattern": "34"
+		},
+		"ES-PO": {
+			"name": "Pontevedra",
+			"postal_code_pattern": "36"
+		},
+		"ES-SA": {
+			"name": "Salamanca",
+			"postal_code_pattern": "37"
+		},
+		"ES-TF": {
+			"name": "Santa Cruz de Tenerife",
+			"postal_code_pattern": "38"
+		},
+		"ES-SG": {
+			"name": "Segovia",
+			"postal_code_pattern": "40"
+		},
+		"ES-SE": {
+			"name": "Sevilla",
+			"postal_code_pattern": "41"
+		},
+		"ES-SO": {
+			"name": "Soria",
+			"postal_code_pattern": "42"
+		},
+		"ES-T": {
+			"name": "Tarragona",
+			"postal_code_pattern": "43"
+		},
+		"ES-TE": {
+			"name": "Teruel",
+			"postal_code_pattern": "44"
+		},
+		"ES-TO": {
+			"name": "Toledo",
+			"postal_code_pattern": "45"
+		},
+		"ES-V": {
+			"name": "Valencia",
+			"postal_code_pattern": "46"
+		},
+		"ES-VA": {
+			"name": "Valladolid",
+			"postal_code_pattern": "47"
+		},
+		"ES-BI": {
+			"name": "Vizcaya",
+			"postal_code_pattern": "48"
+		},
+		"ES-ZA": {
+			"name": "Zamora",
+			"postal_code_pattern": "49"
+		},
+		"ES-Z": {
+			"name": "Zaragoza",
+			"postal_code_pattern": "50"
+		}
+	}
 }

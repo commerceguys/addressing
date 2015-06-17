@@ -1,18 +1,18 @@
 {
-    "locale": "ms",
-    "format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%dependentLocality\n%postalCode %locality\n%administrativeArea",
-    "required_fields": [
-        "addressLine1",
-        "locality",
-        "postalCode"
-    ],
-    "uppercase_fields": [
-        "locality",
-        "administrativeArea"
-    ],
-    "administrative_area_type": "state",
-    "locality_type": "city",
-    "dependent_locality_type": "village_township",
-    "postal_code_type": "postal",
-    "postal_code_pattern": "\\d{5}"
+	"locale": "ms",
+	"format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%dependentLocality\n%postalCode %locality\n%administrativeArea",
+	"required_fields": [
+		"addressLine1",
+		"locality",
+		"postalCode"
+	],
+	"uppercase_fields": [
+		"locality",
+		"administrativeArea"
+	],
+	"administrative_area_type": "state",
+	"locality_type": "city",
+	"dependent_locality_type": "village_township",
+	"postal_code_type": "postal",
+	"postal_code_pattern": "\\d{5}"
 }

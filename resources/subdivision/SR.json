@@ -1,62 +1,37 @@
 {
-    "SR-BR": {
-        "locale": "nl",
-        "country_code": "SR",
-        "parent_id": null,
-        "name": "BROKOPONDO"
-    },
-    "SR-CM": {
-        "locale": "nl",
-        "country_code": "SR",
-        "parent_id": null,
-        "name": "COMMEWIJNE"
-    },
-    "SR-CR": {
-        "locale": "nl",
-        "country_code": "SR",
-        "parent_id": null,
-        "name": "CORONIE"
-    },
-    "SR-MA": {
-        "locale": "nl",
-        "country_code": "SR",
-        "parent_id": null,
-        "name": "MAROWIJNE"
-    },
-    "SR-NI": {
-        "locale": "nl",
-        "country_code": "SR",
-        "parent_id": null,
-        "name": "NICKERIE"
-    },
-    "SR-PR": {
-        "locale": "nl",
-        "country_code": "SR",
-        "parent_id": null,
-        "name": "PARA"
-    },
-    "SR-PM": {
-        "locale": "nl",
-        "country_code": "SR",
-        "parent_id": null,
-        "name": "PARAMARIBO"
-    },
-    "SR-SA": {
-        "locale": "nl",
-        "country_code": "SR",
-        "parent_id": null,
-        "name": "SARAMACCA"
-    },
-    "SR-SI": {
-        "locale": "nl",
-        "country_code": "SR",
-        "parent_id": null,
-        "name": "SIPALIWINI"
-    },
-    "SR-WA": {
-        "locale": "nl",
-        "country_code": "SR",
-        "parent_id": null,
-        "name": "WANICA"
-    }
+	"country_code": "SR",
+	"parent_id": null,
+	"locale": "nl",
+	"subdivisions": {
+		"SR-BR": {
+			"name": "BROKOPONDO"
+		},
+		"SR-CM": {
+			"name": "COMMEWIJNE"
+		},
+		"SR-CR": {
+			"name": "CORONIE"
+		},
+		"SR-MA": {
+			"name": "MAROWIJNE"
+		},
+		"SR-NI": {
+			"name": "NICKERIE"
+		},
+		"SR-PR": {
+			"name": "PARA"
+		},
+		"SR-PM": {
+			"name": "PARAMARIBO"
+		},
+		"SR-SA": {
+			"name": "SARAMACCA"
+		},
+		"SR-SI": {
+			"name": "SIPALIWINI"
+		},
+		"SR-WA": {
+			"name": "WANICA"
+		}
+	}
 }

@@ -1,20 +1,16 @@
 {
-    "KY-1229bf": {
-        "locale": "en",
-        "country_code": "KY",
-        "parent_id": null,
-        "name": "CAYMAN BRAC"
-    },
-    "KY-88c790": {
-        "locale": "en",
-        "country_code": "KY",
-        "parent_id": null,
-        "name": "GRAND CAYMAN"
-    },
-    "KY-19e5ee": {
-        "locale": "en",
-        "country_code": "KY",
-        "parent_id": null,
-        "name": "LITTLE CAYMAN"
-    }
+	"country_code": "KY",
+	"parent_id": null,
+	"locale": "en",
+	"subdivisions": {
+		"KY-1229bf": {
+			"name": "CAYMAN BRAC"
+		},
+		"KY-88c790": {
+			"name": "GRAND CAYMAN"
+		},
+		"KY-19e5ee": {
+			"name": "LITTLE CAYMAN"
+		}
+	}
 }

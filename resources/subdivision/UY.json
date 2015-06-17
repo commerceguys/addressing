@@ -1,135 +1,83 @@
 {
-    "UY-AR": {
-        "locale": "es",
-        "country_code": "UY",
-        "parent_id": null,
-        "name": "ARTIGAS",
-        "postal_code_pattern": "55"
-    },
-    "UY-CA": {
-        "locale": "es",
-        "country_code": "UY",
-        "parent_id": null,
-        "name": "CANELONES",
-        "postal_code_pattern": "9[01]|1[456]"
-    },
-    "UY-CL": {
-        "locale": "es",
-        "country_code": "UY",
-        "parent_id": null,
-        "name": "CERRO LARGO",
-        "postal_code_pattern": "37"
-    },
-    "UY-CO": {
-        "locale": "es",
-        "country_code": "UY",
-        "parent_id": null,
-        "name": "COLONIA",
-        "postal_code_pattern": "70|75204"
-    },
-    "UY-DU": {
-        "locale": "es",
-        "country_code": "UY",
-        "parent_id": null,
-        "name": "DURAZNO",
-        "postal_code_pattern": "97"
-    },
-    "UY-FS": {
-        "locale": "es",
-        "country_code": "UY",
-        "parent_id": null,
-        "name": "FLORES",
-        "postal_code_pattern": "85"
-    },
-    "UY-FD": {
-        "locale": "es",
-        "country_code": "UY",
-        "parent_id": null,
-        "name": "FLORIDA",
-        "postal_code_pattern": "94|9060|97005"
-    },
-    "UY-LA": {
-        "locale": "es",
-        "country_code": "UY",
-        "parent_id": null,
-        "name": "LAVALLEJA",
-        "postal_code_pattern": "30"
-    },
-    "UY-MA": {
-        "locale": "es",
-        "country_code": "UY",
-        "parent_id": null,
-        "name": "MALDONADO",
-        "postal_code_pattern": "20"
-    },
-    "UY-MO": {
-        "locale": "es",
-        "country_code": "UY",
-        "parent_id": null,
-        "name": "MONTEVIDEO",
-        "postal_code_pattern": "1|91600"
-    },
-    "UY-PA": {
-        "locale": "es",
-        "country_code": "UY",
-        "parent_id": null,
-        "name": "PAYSANDÚ",
-        "postal_code_pattern": "60"
-    },
-    "UY-RN": {
-        "locale": "es",
-        "country_code": "UY",
-        "parent_id": null,
-        "name": "RÍO NEGRO",
-        "postal_code_pattern": "65|60002"
-    },
-    "UY-RV": {
-        "locale": "es",
-        "country_code": "UY",
-        "parent_id": null,
-        "name": "RIVERA",
-        "postal_code_pattern": "40"
-    },
-    "UY-RO": {
-        "locale": "es",
-        "country_code": "UY",
-        "parent_id": null,
-        "name": "ROCHA",
-        "postal_code_pattern": "27"
-    },
-    "UY-SA": {
-        "locale": "es",
-        "country_code": "UY",
-        "parent_id": null,
-        "name": "SALTO",
-        "postal_code_pattern": "50"
-    },
-    "UY-SJ": {
-        "locale": "es",
-        "country_code": "UY",
-        "parent_id": null,
-        "name": "SAN JOSÉ",
-        "postal_code_pattern": "80"
-    },
-    "UY-SO": {
-        "locale": "es",
-        "country_code": "UY",
-        "parent_id": null,
-        "name": "SORIANO",
-        "postal_code_pattern": "75|70003"
-    },
-    "UY-TA": {
-        "locale": "es",
-        "country_code": "UY",
-        "parent_id": null,
-        "name": "TACUAREMBÓ",
-        "postal_code_pattern": "45"
-    },
-    "UY-TT": {
-        "locale": "es",
-        "country_code": "UY",
-        "parent_id": null,
-        "name": "TREINTA Y TRES",
-        "postal_code_pattern": "33|30203|30204|30302|37007"
-    }
+	"country_code": "UY",
+	"parent_id": null,
+	"locale": "es",
+	"subdivisions": {
+		"UY-AR": {
+			"name": "ARTIGAS",
+			"postal_code_pattern": "55"
+		},
+		"UY-CA": {
+			"name": "CANELONES",
+			"postal_code_pattern": "9[01]|1[456]"
+		},
+		"UY-CL": {
+			"name": "CERRO LARGO",
+			"postal_code_pattern": "37"
+		},
+		"UY-CO": {
+			"name": "COLONIA",
+			"postal_code_pattern": "70|75204"
+		},
+		"UY-DU": {
+			"name": "DURAZNO",
+			"postal_code_pattern": "97"
+		},
+		"UY-FS": {
+			"name": "FLORES",
+			"postal_code_pattern": "85"
+		},
+		"UY-FD": {
+			"name": "FLORIDA",
+			"postal_code_pattern": "94|9060|97005"
+		},
+		"UY-LA": {
+			"name": "LAVALLEJA",
+			"postal_code_pattern": "30"
+		},
+		"UY-MA": {
+			"name": "MALDONADO",
+			"postal_code_pattern": "20"
+		},
+		"UY-MO": {
+			"name": "MONTEVIDEO",
+			"postal_code_pattern": "1|91600"
+		},
+		"UY-PA": {
+			"name": "PAYSANDÚ",
+			"postal_code_pattern": "60"
+		},
+		"UY-RN": {
+			"name": "RÍO NEGRO",
+			"postal_code_pattern": "65|60002"
+		},
+		"UY-RV": {
+			"name": "RIVERA",
+			"postal_code_pattern": "40"
+		},
+		"UY-RO": {
+			"name": "ROCHA",
+			"postal_code_pattern": "27"
+		},
+		"UY-SA": {
+			"name": "SALTO",
+			"postal_code_pattern": "50"
+		},
+		"UY-SJ": {
+			"name": "SAN JOSÉ",
+			"postal_code_pattern": "80"
+		},
+		"UY-SO": {
+			"name": "SORIANO",
+			"postal_code_pattern": "75|70003"
+		},
+		"UY-TA": {
+			"name": "TACUAREMBÓ",
+			"postal_code_pattern": "45"
+		},
+		"UY-TT": {
+			"name": "TREINTA Y TRES",
+			"postal_code_pattern": "33|30203|30204|30302|37007"
+		}
+	}
 }

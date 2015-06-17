@@ -1,21 +1,21 @@
 {
-    "locale": "und",
-    "format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%locality %administrativeArea %postalCode",
-    "required_fields": [
-        "addressLine1",
-        "locality",
-        "administrativeArea"
-    ],
-    "uppercase_fields": [
-        "addressLine1",
-        "addressLine2",
-        "locality",
-        "recipient",
-        "organization",
-        "administrativeArea"
-    ],
-    "administrative_area_type": "state",
-    "locality_type": "city",
-    "postal_code_type": "zip",
-    "postal_code_pattern": "96898"
+	"locale": "und",
+	"format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%locality %administrativeArea %postalCode",
+	"required_fields": [
+		"addressLine1",
+		"locality",
+		"administrativeArea"
+	],
+	"uppercase_fields": [
+		"addressLine1",
+		"addressLine2",
+		"locality",
+		"recipient",
+		"organization",
+		"administrativeArea"
+	],
+	"administrative_area_type": "state",
+	"locality_type": "city",
+	"postal_code_type": "zip",
+	"postal_code_pattern": "96898"
 }

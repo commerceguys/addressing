@@ -1,38 +1,34 @@
 {
-    "CN-42-5f84dd-6abe0a": {
-        "locale": "zh-Latn",
-        "country_code": "CN",
-        "parent_id": "CN-42-5f84dd",
-        "code": "鄂城区",
-        "name": "Echeng Qu",
-        "translations": {
-            "zh": {
-                "name": "鄂城区"
-            }
-        }
-    },
-    "CN-42-5f84dd-338477": {
-        "locale": "zh-Latn",
-        "country_code": "CN",
-        "parent_id": "CN-42-5f84dd",
-        "code": "华容区",
-        "name": "Huarong Qu",
-        "translations": {
-            "zh": {
-                "name": "华容区"
-            }
-        }
-    },
-    "CN-42-5f84dd-f61fbe": {
-        "locale": "zh-Latn",
-        "country_code": "CN",
-        "parent_id": "CN-42-5f84dd",
-        "code": "梁子湖区",
-        "name": "Liangzihu Qu",
-        "translations": {
-            "zh": {
-                "name": "梁子湖区"
-            }
-        }
-    }
+	"country_code": "CN",
+	"parent_id": "CN-42-5f84dd",
+	"locale": "zh-Latn",
+	"subdivisions": {
+		"CN-42-5f84dd-6abe0a": {
+			"code": "鄂城区",
+			"name": "Echeng Qu",
+			"translations": {
+				"zh": {
+					"name": "鄂城区"
+				}
+			}
+		},
+		"CN-42-5f84dd-338477": {
+			"code": "华容区",
+			"name": "Huarong Qu",
+			"translations": {
+				"zh": {
+					"name": "华容区"
+				}
+			}
+		},
+		"CN-42-5f84dd-f61fbe": {
+			"code": "梁子湖区",
+			"name": "Liangzihu Qu",
+			"translations": {
+				"zh": {
+					"name": "梁子湖区"
+				}
+			}
+		}
+	}
 }

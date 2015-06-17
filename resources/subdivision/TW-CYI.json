@@ -1,26 +1,25 @@
 {
-    "TW-CYI-37e9c9": {
-        "locale": "zh-Latn",
-        "country_code": "TW",
-        "parent_id": "TW-CYI",
-        "code": "西區",
-        "name": "West District",
-        "translations": {
-            "zh-hant": {
-                "name": "西區"
-            }
-        }
-    },
-    "TW-CYI-744ef2": {
-        "locale": "zh-Latn",
-        "country_code": "TW",
-        "parent_id": "TW-CYI",
-        "code": "東區",
-        "name": "East District",
-        "translations": {
-            "zh-hant": {
-                "name": "東區"
-            }
-        }
-    }
+	"country_code": "TW",
+	"parent_id": "TW-CYI",
+	"locale": "zh-Latn",
+	"subdivisions": {
+		"TW-CYI-37e9c9": {
+			"code": "西區",
+			"name": "West District",
+			"translations": {
+				"zh-hant": {
+					"name": "西區"
+				}
+			}
+		},
+		"TW-CYI-744ef2": {
+			"code": "東區",
+			"name": "East District",
+			"translations": {
+				"zh-hant": {
+					"name": "東區"
+				}
+			}
+		}
+	}
 }

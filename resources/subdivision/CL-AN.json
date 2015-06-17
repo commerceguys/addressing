@@ -1,56 +1,34 @@
 {
-    "CL-AN-6672f7": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-AN",
-        "name": "Antofagasta"
-    },
-    "CL-AN-be9856": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-AN",
-        "name": "Calama"
-    },
-    "CL-AN-7160f9": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-AN",
-        "name": "María Elena"
-    },
-    "CL-AN-25781c": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-AN",
-        "name": "Mejillones"
-    },
-    "CL-AN-040348": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-AN",
-        "name": "Ollagüe"
-    },
-    "CL-AN-2bb729": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-AN",
-        "name": "San Pedro de Atacama"
-    },
-    "CL-AN-b25c38": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-AN",
-        "name": "Sierra Gorda"
-    },
-    "CL-AN-70829e": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-AN",
-        "name": "Taltal"
-    },
-    "CL-AN-f3aba1": {
-        "locale": "es",
-        "country_code": "CL",
-        "parent_id": "CL-AN",
-        "name": "Tocopilla"
-    }
+	"country_code": "CL",
+	"parent_id": "CL-AN",
+	"locale": "es",
+	"subdivisions": {
+		"CL-AN-6672f7": {
+			"name": "Antofagasta"
+		},
+		"CL-AN-be9856": {
+			"name": "Calama"
+		},
+		"CL-AN-7160f9": {
+			"name": "María Elena"
+		},
+		"CL-AN-25781c": {
+			"name": "Mejillones"
+		},
+		"CL-AN-040348": {
+			"name": "Ollagüe"
+		},
+		"CL-AN-2bb729": {
+			"name": "San Pedro de Atacama"
+		},
+		"CL-AN-b25c38": {
+			"name": "Sierra Gorda"
+		},
+		"CL-AN-70829e": {
+			"name": "Taltal"
+		},
+		"CL-AN-f3aba1": {
+			"name": "Tocopilla"
+		}
+	}
 }

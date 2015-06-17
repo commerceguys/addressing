@@ -1,56 +1,34 @@
 {
-    "TV-FUN": {
-        "locale": "tyv",
-        "country_code": "TV",
-        "parent_id": null,
-        "name": "FUNAFUTI"
-    },
-    "TV-NMG": {
-        "locale": "tyv",
-        "country_code": "TV",
-        "parent_id": null,
-        "name": "NANUMANGA"
-    },
-    "TV-NMA": {
-        "locale": "tyv",
-        "country_code": "TV",
-        "parent_id": null,
-        "name": "NANUMEA"
-    },
-    "TV-05b851": {
-        "locale": "tyv",
-        "country_code": "TV",
-        "parent_id": null,
-        "name": "NIULAKITA"
-    },
-    "TV-NIT": {
-        "locale": "tyv",
-        "country_code": "TV",
-        "parent_id": null,
-        "name": "NIUTAO"
-    },
-    "TV-NUI": {
-        "locale": "tyv",
-        "country_code": "TV",
-        "parent_id": null,
-        "name": "NUI"
-    },
-    "TV-NKF": {
-        "locale": "tyv",
-        "country_code": "TV",
-        "parent_id": null,
-        "name": "NUKUFETAU"
-    },
-    "TV-NKL": {
-        "locale": "tyv",
-        "country_code": "TV",
-        "parent_id": null,
-        "name": "NUKULAELAE"
-    },
-    "TV-VAI": {
-        "locale": "tyv",
-        "country_code": "TV",
-        "parent_id": null,
-        "name": "VAITUPU"
-    }
+	"country_code": "TV",
+	"parent_id": null,
+	"locale": "tyv",
+	"subdivisions": {
+		"TV-FUN": {
+			"name": "FUNAFUTI"
+		},
+		"TV-NMG": {
+			"name": "NANUMANGA"
+		},
+		"TV-NMA": {
+			"name": "NANUMEA"
+		},
+		"TV-05b851": {
+			"name": "NIULAKITA"
+		},
+		"TV-NIT": {
+			"name": "NIUTAO"
+		},
+		"TV-NUI": {
+			"name": "NUI"
+		},
+		"TV-NKF": {
+			"name": "NUKUFETAU"
+		},
+		"TV-NKL": {
+			"name": "NUKULAELAE"
+		},
+		"TV-VAI": {
+			"name": "VAITUPU"
+		}
+	}
 }

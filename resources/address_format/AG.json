@@ -1,11 +1,11 @@
 {
-    "locale": "und",
-    "format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%locality",
-    "required_fields": [
-        "addressLine1"
-    ],
-    "uppercase_fields": [
-        "locality"
-    ],
-    "locality_type": "city"
+	"locale": "und",
+	"format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%locality",
+	"required_fields": [
+		"addressLine1"
+	],
+	"uppercase_fields": [
+		"locality"
+	],
+	"locality_type": "city"
 }

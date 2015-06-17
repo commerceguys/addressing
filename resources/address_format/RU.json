@@ -1,18 +1,18 @@
 {
-    "locale": "ru-Latn",
-    "format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%locality\n%administrativeArea\n%postalCode",
-    "required_fields": [
-        "addressLine1",
-        "locality",
-        "postalCode"
-    ],
-    "uppercase_fields": [
-        "addressLine1",
-        "addressLine2",
-        "locality"
-    ],
-    "administrative_area_type": "oblast",
-    "locality_type": "city",
-    "postal_code_type": "postal",
-    "postal_code_pattern": "\\d{6}"
+	"locale": "ru-Latn",
+	"format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%locality\n%administrativeArea\n%postalCode",
+	"required_fields": [
+		"addressLine1",
+		"locality",
+		"postalCode"
+	],
+	"uppercase_fields": [
+		"addressLine1",
+		"addressLine2",
+		"locality"
+	],
+	"administrative_area_type": "oblast",
+	"locality_type": "city",
+	"postal_code_type": "postal",
+	"postal_code_pattern": "\\d{6}"
 }

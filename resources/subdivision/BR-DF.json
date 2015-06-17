@@ -1,8 +1,10 @@
 {
-    "BR-DF-2de87c": {
-        "locale": "pt",
-        "country_code": "BR",
-        "parent_id": "BR-DF",
-        "name": "Brasília"
-    }
+	"country_code": "BR",
+	"parent_id": "BR-DF",
+	"locale": "pt",
+	"subdivisions": {
+		"BR-DF-2de87c": {
+			"name": "Brasília"
+		}
+	}
 }
