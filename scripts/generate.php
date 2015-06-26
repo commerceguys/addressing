@@ -274,6 +274,10 @@ function create_address_format_definition($rawDefinition)
         'required_fields' => convert_fields($rawDefinition['require'], 'required'),
         'uppercase_fields' => convert_fields($rawDefinition['upper'], 'uppercase'),
     ];
+    // Make sure the recipient is always required by default.
+    if (!in_array(AddressField::RECIPIENT, $addressFormat['required_fields'])) {
+        $addressFormat['required_fields'] = array_merge([AddressField::RECIPIENT], $addressFormat['required_fields']);
+    }
 
     $translations = [];
     if (isset($rawDefinition['lfmt']) && $rawDefinition['lfmt'] != $rawDefinition['fmt']) {

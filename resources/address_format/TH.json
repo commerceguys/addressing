@@ -2,6 +2,7 @@
 	"locale": "th-Latn",
 	"format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%dependentLocality, %locality\n%administrativeArea %postalCode",
 	"required_fields": [
+		"recipient",
 		"addressLine1",
 		"locality"
 	],

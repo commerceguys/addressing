@@ -2,6 +2,7 @@
 	"locale": "en",
 	"format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%locality %postalCode\n%administrativeArea",
 	"required_fields": [
+		"recipient",
 		"addressLine1",
 		"locality",
 		"administrativeArea",

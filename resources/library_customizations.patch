@@ -1,5 +1,5 @@
 diff --git a/resources/address_format/AL.json b/resources/address_format/AL.json
-index 49dbf62..c9de41c 100644
+index 5d5a821..5d92ad9 100644
 --- a/resources/address_format/AL.json
 +++ b/resources/address_format/AL.json
 @@ -1,6 +1,6 @@
@@ -8,9 +8,9 @@ index 49dbf62..c9de41c 100644
 -	"format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%locality",
 +	"format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%postalCode\n%locality",
  	"required_fields": [
+ 		"recipient",
  		"addressLine1",
- 		"locality"
-@@ -8,5 +8,7 @@
+@@ -9,5 +9,7 @@
  	"uppercase_fields": [
  		"locality"
  	],
@@ -21,7 +21,7 @@ index 49dbf62..c9de41c 100644
  }
 \ No newline at end of file
 diff --git a/resources/address_format/BB.json b/resources/address_format/BB.json
-index 49dbf62..9dd6564 100644
+index 5d5a821..e3eb6c2 100644
 --- a/resources/address_format/BB.json
 +++ b/resources/address_format/BB.json
 @@ -1,6 +1,6 @@
@@ -30,9 +30,9 @@ index 49dbf62..9dd6564 100644
 -	"format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%locality",
 +	"format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%locality %postalCode",
  	"required_fields": [
+ 		"recipient",
  		"addressLine1",
- 		"locality"
-@@ -8,5 +8,7 @@
+@@ -9,5 +9,7 @@
  	"uppercase_fields": [
  		"locality"
  	],
@@ -43,7 +43,7 @@ index 49dbf62..9dd6564 100644
  }
 \ No newline at end of file
 diff --git a/resources/address_format/BT.json b/resources/address_format/BT.json
-index 49dbf62..2216f9d 100644
+index 5d5a821..8d6319c 100644
 --- a/resources/address_format/BT.json
 +++ b/resources/address_format/BT.json
 @@ -1,6 +1,6 @@
@@ -52,9 +52,9 @@ index 49dbf62..2216f9d 100644
 -	"format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%locality",
 +	"format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%locality %postalCode",
  	"required_fields": [
+ 		"recipient",
  		"addressLine1",
- 		"locality"
-@@ -8,5 +8,7 @@
+@@ -9,5 +9,7 @@
  	"uppercase_fields": [
  		"locality"
  	],
@@ -65,7 +65,7 @@ index 49dbf62..2216f9d 100644
  }
 \ No newline at end of file
 diff --git a/resources/address_format/DE.json b/resources/address_format/DE.json
-index 93f4c72..b61e19a 100644
+index 0ddc6d6..214f7ea 100644
 --- a/resources/address_format/DE.json
 +++ b/resources/address_format/DE.json
 @@ -1,6 +1,6 @@
@@ -74,18 +74,19 @@ index 93f4c72..b61e19a 100644
 -	"format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%postalCode %locality",
 +	"format": "%organization\n%recipient\n%addressLine1\n%addressLine2\n%postalCode %locality",
  	"required_fields": [
+ 		"recipient",
  		"addressLine1",
- 		"locality",
 diff --git a/resources/address_format/EE.json b/resources/address_format/EE.json
-index 34b3c39..f68909d 100644
+index cebbdce..19ec2d6 100644
 --- a/resources/address_format/EE.json
 +++ b/resources/address_format/EE.json
-@@ -1,13 +1,15 @@
+@@ -1,14 +1,16 @@
  {
  	"locale": "und",
 -	"format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%postalCode %locality",
 +	"format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%postalCode %locality %administrativeArea",
  	"required_fields": [
+ 		"recipient",
  		"addressLine1",
 -		"locality"
 +		"locality",
@@ -99,12 +100,12 @@ index 34b3c39..f68909d 100644
  	"postal_code_type": "postal",
  	"postal_code_pattern": "\\d{5}"
 diff --git a/resources/address_format/HU.json b/resources/address_format/HU.json
-index 24c8bc8..c6417fc 100644
+index c43bae4..b42606a 100644
 --- a/resources/address_format/HU.json
 +++ b/resources/address_format/HU.json
-@@ -3,7 +3,8 @@
- 	"format": "%recipient\n%organization\n%locality\n%addressLine1\n%addressLine2\n%postalCode",
+@@ -4,7 +4,8 @@
  	"required_fields": [
+ 		"recipient",
  		"addressLine1",
 -		"locality"
 +		"locality",
@@ -113,15 +114,16 @@ index 24c8bc8..c6417fc 100644
  	"uppercase_fields": [
  		"addressLine1",
 diff --git a/resources/address_format/LT.json b/resources/address_format/LT.json
-index 7ba7052..3e3dfda 100644
+index 9166545..83f98c5 100644
 --- a/resources/address_format/LT.json
 +++ b/resources/address_format/LT.json
-@@ -1,13 +1,15 @@
+@@ -1,14 +1,16 @@
  {
  	"locale": "und",
 -	"format": "%organization\n%recipient\n%addressLine1\n%addressLine2\n%postalCode %locality",
 +	"format": "%organization\n%recipient\n%addressLine1\n%addressLine2\n%postalCode %locality %administrativeArea",
  	"required_fields": [
+ 		"recipient",
  		"addressLine1",
 -		"locality"
 +		"locality",
@@ -135,12 +137,12 @@ index 7ba7052..3e3dfda 100644
  	"postal_code_type": "postal",
  	"postal_code_pattern": "\\d{5}",
 diff --git a/resources/address_format/LV.json b/resources/address_format/LV.json
-index 75dde48..f54f987 100644
+index 186a29a..a7396d8 100644
 --- a/resources/address_format/LV.json
 +++ b/resources/address_format/LV.json
-@@ -3,7 +3,8 @@
- 	"format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%locality, %postalCode",
+@@ -4,7 +4,8 @@
  	"required_fields": [
+ 		"recipient",
  		"addressLine1",
 -		"locality"
 +		"locality",
@@ -149,7 +151,7 @@ index 75dde48..f54f987 100644
  	"uppercase_fields": [
  		"locality"
 diff --git a/resources/address_format/PE.json b/resources/address_format/PE.json
-index 49dbf62..7647bc8 100644
+index 5d5a821..8037fa9 100644
 --- a/resources/address_format/PE.json
 +++ b/resources/address_format/PE.json
 @@ -1,6 +1,6 @@
@@ -158,9 +160,9 @@ index 49dbf62..7647bc8 100644
 -	"format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%locality",
 +	"format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%postalCode\n%locality",
  	"required_fields": [
+ 		"recipient",
  		"addressLine1",
- 		"locality"
-@@ -8,5 +8,7 @@
+@@ -9,5 +9,7 @@
  	"uppercase_fields": [
  		"locality"
  	],
@@ -171,7 +173,7 @@ index 49dbf62..7647bc8 100644
  }
 \ No newline at end of file
 diff --git a/resources/address_format/VC.json b/resources/address_format/VC.json
-index 49dbf62..040d05a 100644
+index 5d5a821..609f6dd 100644
 --- a/resources/address_format/VC.json
 +++ b/resources/address_format/VC.json
 @@ -1,6 +1,6 @@
@@ -180,9 +182,9 @@ index 49dbf62..040d05a 100644
 -	"format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%locality",
 +	"format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%locality %postalCode",
  	"required_fields": [
+ 		"recipient",
  		"addressLine1",
- 		"locality"
-@@ -8,5 +8,7 @@
+@@ -9,5 +9,7 @@
  	"uppercase_fields": [
  		"locality"
  	],
