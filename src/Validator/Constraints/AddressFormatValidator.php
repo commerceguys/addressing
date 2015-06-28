@@ -103,36 +103,33 @@ class AddressFormatValidator extends ConstraintValidator
     protected function validateSubdivisions($values, AddressFormatInterface $addressFormat, $constraint)
     {
         $countryCode = $addressFormat->getCountryCode();
-        $subdivisionLevels = [
-            'root',
-            AddressField::ADMINISTRATIVE_AREA,
-            AddressField::LOCALITY,
-            AddressField::DEPENDENT_LOCALITY,
+        $subdivisionFields = [
+            AddressField::ADMINISTRATIVE_AREA => null,
+            AddressField::LOCALITY => AddressField::ADMINISTRATIVE_AREA,
+            AddressField::DEPENDENT_LOCALITY => AddressField::LOCALITY,
         ];
         $foundIds = [];
-        foreach ($subdivisionLevels as $index => $field) {
-            $parentId = ($field == 'root') ? 0 : $values[$field];
-            $children = $this->subdivisionRepository->getList($countryCode, $parentId);
-            $nextIndex = $index + 1;
-            if (!$children || !isset($subdivisionLevels[$nextIndex])) {
-                // This level has no children, stop.
+        foreach ($subdivisionFields as $field => $parentField) {
+            if (empty($values[$field])) {
+                // The field is empty.
                 break;
             }
-            $nextField = $subdivisionLevels[$nextIndex];
-            if (empty($values[$nextField])) {
-                // The child value is empty, stop.
+            $parentId = $parentField ? $values[$parentField] : null;
+            $children = $this->subdivisionRepository->getList($countryCode, $parentId);
+            if (!$children) {
+                // No predefined subdivisions found.
                 break;
             }
 
             $found = false;
-            $nextValue = $values[$nextField];
-            if (isset($children[$nextValue])) {
+            $value = $values[$field];
+            if (isset($children[$value])) {
                 $found = true;
-                $foundIds[] = $nextValue;
+                $foundIds[] = $value;
             }
 
             if (!$found) {
-                $this->addViolation('[' . $nextField . ']', $constraint->invalidMessage, $values[$nextField]);
+                $this->addViolation('[' . $field . ']', $constraint->invalidMessage, $value);
                 break;
             }
         }
@@ -203,7 +200,7 @@ class AddressFormatValidator extends ConstraintValidator
      *
      * Accounts for differences between Symfony versions.
      *
-     * @param string   $subPath      The relative property path for the violation
+     * @param string   $path         The relative property path for the violation
      * @param string   $message      The error message
      * @param mixed    $invalidValue The invalid, validated value
      */
