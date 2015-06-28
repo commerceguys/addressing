@@ -139,19 +139,60 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
      */
     protected function loadDefinitions($countryCode, $parentId = null)
     {
-        // Treat the country code as the parent id on the top level.
-        $parentId = $parentId ?: $countryCode;
-        if (!isset($this->definitions[$parentId])) {
-            $filename = $this->definitionPath . $parentId . '.json';
+        $lookupId = $parentId ? $parentId : $countryCode;
+        if (isset($this->definitions[$lookupId])) {
+            return $this->definitions[$lookupId];
+        }
+
+        // If there are predefined subdivisions at this level, try to load them.
+        $this->definitions[$lookupId] = [];
+        if ($this->hasData($countryCode, $parentId)) {
+            $filename = $this->definitionPath . $lookupId . '.json';
             if ($rawDefinition = @file_get_contents($filename)) {
-                $this->definitions[$parentId] = json_decode($rawDefinition, true);
-            } else {
-                // Bypass further loading attempts.
-                $this->definitions[$parentId] = [];
+                $this->definitions[$lookupId] = json_decode($rawDefinition, true);
             }
         }
 
-        return $this->definitions[$parentId];
+        return $this->definitions[$lookupId];
+    }
+
+    /**
+     * Checks whether predefined subdivisions exist for the provided parent id.
+     *
+     * @param string $countryCode The country code.
+     * @param int    $parentId    The parent id.
+     *
+     * @return bool TRUE if predefined subdivisions exist for the provided
+     *              parent id, FALSE otherwise.
+     */
+    protected function hasData($countryCode, $parentId = null)
+    {
+        $depth = $this->getDepth($countryCode);
+        if ($depth == 0) {
+            return false;
+        }
+
+        // At least the first level has data.
+        $hasData = true;
+        if (!is_null($parentId)) {
+            // After the first level it is possible for predefined subdivisions
+            // to exist at a given level, but not for that specific parent.
+            // That's why the parent definition has the most precise answer.
+            $idParts = explode('-', $parentId);
+            array_pop($idParts);
+            $grandparentId = implode('-', $idParts);
+            if (isset($this->definitions[$grandparentId]['subdivisions'][$parentId])) {
+                $definition = $this->definitions[$grandparentId]['subdivisions'][$parentId];
+                $hasData = !empty($definition['has_children']);
+            } else {
+                // The parent definition wasn't loaded previously, fallback
+                // to guessing based on depth.
+                $requestedDepth = substr_count($parentId, '-') + 1;
+                $hasData = ($requestedDepth <= $depth);
+            }
+        }
+
+        return $hasData;
     }
 
     /**

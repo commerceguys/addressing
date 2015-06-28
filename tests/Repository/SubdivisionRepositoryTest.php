@@ -92,12 +92,28 @@ class SubdivisionRepositoryTest extends \PHPUnit_Framework_TestCase
     }
 
     /**
+     * @covers ::getDepth
+     *
+     * @depends testConstructor
+     */
+    public function testGetDepth($subdivisionRepository)
+    {
+        $depth = $subdivisionRepository->getDepth('BR');
+        $this->assertEquals(2, $depth);
+
+        $depth = $subdivisionRepository->getDepth('RS');
+        $this->assertEquals(0, $depth);
+    }
+
+    /**
      * @covers ::get
      * @covers ::loadDefinitions
+     * @covers ::hasData
      * @covers ::createSubdivisionFromDefinitions
      *
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository::__construct
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository::getAll
+     * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository::getDepth
      * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      * @uses \CommerceGuys\Addressing\Model\Subdivision
      * @uses \CommerceGuys\Addressing\Collection\LazySubdivisionCollection
@@ -133,14 +149,16 @@ class SubdivisionRepositoryTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::get
      * @covers ::loadDefinitions
+     * @covers ::hasData
      * @covers ::createSubdivisionFromDefinitions
      *
+     * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository::getDepth
      * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      * @depends testConstructor
      */
     public function testGetInvalidSubdivision($subdivisionRepository)
     {
-        $invalidIds = ['FAKE', 'ES-A', 'BR-SC-FAKE'];
+        $invalidIds = ['FAKE', 'ES-A', 'BR-SC-FAKE', 'BR-FK-FAKE'];
         foreach ($invalidIds as $invalidId) {
             $subdivision = $subdivisionRepository->get($invalidId);
             $this->assertNull($subdivision);
@@ -150,8 +168,10 @@ class SubdivisionRepositoryTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::getAll
      * @covers ::loadDefinitions
+     * @covers ::hasData
      * @covers ::createSubdivisionFromDefinitions
      *
+     * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository::getDepth
      * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      * @uses \CommerceGuys\Addressing\Model\Subdivision
      * @uses \CommerceGuys\Addressing\Collection\LazySubdivisionCollection
@@ -178,7 +198,9 @@ class SubdivisionRepositoryTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::getList
      * @covers ::loadDefinitions
+     * @covers ::hasData
      *
+     * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository::getDepth
      * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      * @depends testConstructor
      */
@@ -194,19 +216,5 @@ class SubdivisionRepositoryTest extends \PHPUnit_Framework_TestCase
         $list = $subdivisionRepository->getList('BR', 'BR-SC');
         $expectedList = ['BR-SC-9c7753' => 'Abelardo Luz'];
         $this->assertEquals($expectedList, $list);
-    }
-
-    /**
-     * @covers ::getDepth
-     *
-     * @depends testConstructor
-     */
-    public function testGetDepth($subdivisionRepository)
-    {
-        $depth = $subdivisionRepository->getDepth('BR');
-        $this->assertEquals(2, $depth);
-
-        $depth = $subdivisionRepository->getDepth('RS');
-        $this->assertEquals(0, $depth);
     }
 }
