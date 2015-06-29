@@ -2,6 +2,7 @@
 
 namespace CommerceGuys\Addressing\Tests\Validator\Constraints;
 
+use CommerceGuys\Addressing\Enum\AddressField;
 use CommerceGuys\Addressing\Model\Address;
 use CommerceGuys\Addressing\Validator\Constraints\AddressFormat as AddressFormatConstraint;
 use CommerceGuys\Addressing\Validator\Constraints\AddressFormatValidator;
@@ -369,7 +370,7 @@ class AddressFormatValidatorTest extends AbstractConstraintValidatorTest
           ->setAdministrativeArea('CN-71')
           ->setLocality('CN-71-dfbf10')
           ->setDependentLocality('InvalidValue')
-          ->setAddressLine1('12345 Yitiao Lu"')
+          ->setAddressLine1('12345 Yitiao Lu')
           ->setPostalCode('407')
           ->setRecipient('John Smith');
 
@@ -484,5 +485,52 @@ class AddressFormatValidatorTest extends AbstractConstraintValidatorTest
         $this->buildViolation($this->constraint->blankMessage)
             ->atPath('[sortingCode]')
             ->assertRaised();
+    }
+
+    /**
+     * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatValidator
+     *
+     * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
+     * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
+     * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
+     * @uses \CommerceGuys\Addressing\Model\Address
+     * @uses \CommerceGuys\Addressing\Model\AddressFormat
+     * @uses \CommerceGuys\Addressing\Model\FormatStringTrait
+     * @uses \CommerceGuys\Addressing\Model\Subdivision
+     * @uses \CommerceGuys\Addressing\Collection\LazySubdivisionCollection
+     */
+    public function testConstraintFields()
+    {
+        $allFields = AddressField::getAll();
+
+        $this->constraint->fields = array_diff($allFields, [AddressField::RECIPIENT]);
+        $this->address
+            ->setCountryCode('CN')
+            ->setAdministrativeArea('CN-11')
+            ->setLocality('CN-11-30524e')
+            ->setAddressLine1('Yitiao Lu')
+            ->setPostalCode('123456');
+        $this->validator->validate($this->address, $this->constraint);
+        $this->assertNoViolation();
+
+        $this->constraint->fields = array_diff($allFields, [AddressField::POSTAL_CODE]);
+        $this->address
+            ->setPostalCode('INVALID')
+            ->setRecipient('John Smith');
+        $this->validator->validate($this->address, $this->constraint);
+        $this->assertNoViolation();
+
+        $this->constraint->fields = array_diff($allFields, [AddressField::ADMINISTRATIVE_AREA]);
+        $this->address
+            ->setAdministrativeArea('INVALID')
+            ->setPostalCode('123456');
+        $this->validator->validate($this->address, $this->constraint);
+        $this->assertNoViolation();
+
+        $this->address
+            ->setAdministrativeArea('CN-11')
+            ->setLocality('INVALID');
+        $this->validator->validate($this->address, $this->constraint);
+        $this->assertNoViolation();
     }
 }

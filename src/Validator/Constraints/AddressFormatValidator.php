@@ -77,7 +77,7 @@ class AddressFormatValidator extends ConstraintValidator
         // Validate the presence of required fields.
         $requiredFields = $addressFormat->getRequiredFields();
         foreach ($requiredFields as $field) {
-            if (empty($values[$field])) {
+            if (empty($values[$field]) && in_array($field, $constraint->fields)) {
                 $this->addViolation('[' . $field . ']', $constraint->notBlankMessage, $values[$field]);
             }
         }
@@ -85,7 +85,7 @@ class AddressFormatValidator extends ConstraintValidator
         // Validate the absence of unused fields.
         $unusedFields = array_diff(AddressField::getAll(), $addressFormat->getUsedFields());
         foreach ($unusedFields as $field) {
-            if (!empty($values[$field])) {
+            if (!empty($values[$field]) && in_array($field, $constraint->fields)) {
                 $this->addViolation('[' . $field . ']', $constraint->blankMessage, $values[$field]);
             }
         }
@@ -110,8 +110,8 @@ class AddressFormatValidator extends ConstraintValidator
         ];
         $foundIds = [];
         foreach ($subdivisionFields as $field => $parentField) {
-            if (empty($values[$field])) {
-                // The field is empty.
+            if (empty($values[$field]) || !in_array($field, $constraint->fields)) {
+                // The field is empty or validation is disabled.
                 break;
             }
             $parentId = $parentField ? $values[$parentField] : null;
@@ -153,7 +153,7 @@ class AddressFormatValidator extends ConstraintValidator
      */
     protected function validatePostalCode($postalCode, array $subdivisions, AddressFormatInterface $addressFormat, $constraint)
     {
-        if (empty($postalCode)) {
+        if (empty($postalCode) || !in_array(AddressField::POSTAL_CODE, $constraint->fields)) {
             // Nothing to validate.
             return;
         }
