@@ -78,7 +78,7 @@ class AddressFormatValidator extends ConstraintValidator
         $requiredFields = $addressFormat->getRequiredFields();
         foreach ($requiredFields as $field) {
             if (empty($values[$field]) && in_array($field, $constraint->fields)) {
-                $this->addViolation('[' . $field . ']', $constraint->notBlankMessage, $values[$field]);
+                $this->addViolation($field, $constraint->notBlankMessage, $values[$field]);
             }
         }
 
@@ -86,7 +86,7 @@ class AddressFormatValidator extends ConstraintValidator
         $unusedFields = array_diff(AddressField::getAll(), $addressFormat->getUsedFields());
         foreach ($unusedFields as $field) {
             if (!empty($values[$field]) && in_array($field, $constraint->fields)) {
-                $this->addViolation('[' . $field . ']', $constraint->blankMessage, $values[$field]);
+                $this->addViolation($field, $constraint->blankMessage, $values[$field]);
             }
         }
     }
@@ -129,7 +129,7 @@ class AddressFormatValidator extends ConstraintValidator
             }
 
             if (!$found) {
-                $this->addViolation('[' . $field . ']', $constraint->invalidMessage, $value);
+                $this->addViolation($field, $constraint->invalidMessage, $value);
                 break;
             }
         }
@@ -178,7 +178,7 @@ class AddressFormatValidator extends ConstraintValidator
             // The pattern must match the provided value completely.
             preg_match('/' . $fullPattern . '/i', $postalCode, $matches);
             if (empty($matches[0]) || $matches[0] != $postalCode) {
-                $this->addViolation('[postalCode]', $constraint->invalidMessage, $postalCode);
+                $this->addViolation(AddressField::POSTAL_CODE, $constraint->invalidMessage, $postalCode);
 
                 return;
             }
@@ -187,7 +187,7 @@ class AddressFormatValidator extends ConstraintValidator
             // The pattern must match the start of the provided value.
             preg_match('/' . $startPattern . '/i', $postalCode, $matches);
             if (empty($matches[0]) || strpos($postalCode, $matches[0]) !== 0) {
-                $this->addViolation('[postalCode]', $constraint->invalidMessage, $postalCode);
+                $this->addViolation(AddressField::POSTAL_CODE, $constraint->invalidMessage, $postalCode);
 
                 return;
             }
@@ -195,25 +195,24 @@ class AddressFormatValidator extends ConstraintValidator
     }
 
     /**
-     * Adds a violation at the validation graph node with the given property
-     * path relative to the current property path.
+     * Adds a violation.
      *
      * Accounts for differences between Symfony versions.
      *
-     * @param string   $path         The relative property path for the violation
-     * @param string   $message      The error message
-     * @param mixed    $invalidValue The invalid, validated value
+     * @param string $field        The field.
+     * @param string $message      The error message.
+     * @param mixed  $invalidValue The invalid, validated value.
      */
-    protected function addViolation($path, $message, $invalidValue)
+    protected function addViolation($field, $message, $invalidValue)
     {
         if ($this->context instanceof \Symfony\Component\Validator\Context\ExecutionContextInterface) {
             $this->context->buildViolation($message)
-                ->atPath($path)
+                ->atPath('[' . $field . ']')
                 ->setInvalidValue($invalidValue)
                 ->addViolation();
         } else {
             $this->buildViolation($message)
-                ->atPath($path)
+                ->atPath('[' . $field . ']')
                 ->setInvalidValue($invalidValue)
                 ->addViolation();
         }
