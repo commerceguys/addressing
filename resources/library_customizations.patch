@@ -273,19 +273,6 @@ index d226ef6..fb6f45f 100644
  			"name": "Uttarakhand",
  			"postal_code_pattern": "24[46-9]|254|26[23]"
  		},
-diff --git a/resources/subdivision/KR.json b/resources/subdivision/KR.json
-index b73e54a..8ded491 100644
---- a/resources/subdivision/KR.json
-+++ b/resources/subdivision/KR.json
-@@ -102,7 +102,7 @@
- 			},
- 			"has_children": true
- 		},
--		"KR-210873": {
-+		"KR-50": {
- 			"code": "세종특별자치시",
- 			"name": "Sejong",
- 			"postal_code_pattern": "339",
 diff --git a/resources/subdivision/MX.json b/resources/subdivision/MX.json
 index e081475..3cac761 100644
 --- a/resources/subdivision/MX.json

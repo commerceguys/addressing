@@ -6,7 +6,7 @@
 		"KR-44-6e797e-b6677d": {
 			"code": "동남구",
 			"name": "Dongnam-gu",
-			"postal_code_pattern": "330",
+			"postal_code_pattern": "31[0-2]|330",
 			"translations": {
 				"ko": {
 					"name": "동남구"
@@ -16,7 +16,7 @@
 		"KR-44-6e797e-83165d": {
 			"code": "서북구",
 			"name": "Seobuk-gu",
-			"postal_code_pattern": "331",
+			"postal_code_pattern": "31[01]|331",
 			"translations": {
 				"ko": {
 					"name": "서북구"

@@ -6,7 +6,7 @@
 		"KR-41-2d39cb-9e5136": {
 			"code": "소사구",
 			"name": "Sosa-gu",
-			"postal_code_pattern": "422",
+			"postal_code_pattern": "14[67]|422",
 			"translations": {
 				"ko": {
 					"name": "소사구"
@@ -16,7 +16,7 @@
 		"KR-41-2d39cb-f5b2cd": {
 			"code": "오정구",
 			"name": "Ojeong-gu",
-			"postal_code_pattern": "421",
+			"postal_code_pattern": "14[45]|421",
 			"translations": {
 				"ko": {
 					"name": "오정구"
@@ -26,7 +26,7 @@
 		"KR-41-2d39cb-446a74": {
 			"code": "원미구",
 			"name": "Wonmi-gu",
-			"postal_code_pattern": "420",
+			"postal_code_pattern": "14[456]|420",
 			"translations": {
 				"ko": {
 					"name": "원미구"

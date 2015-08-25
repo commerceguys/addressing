@@ -6,7 +6,7 @@
 		"KR-41-b2eb11-b4a3d8": {
 			"code": "기흥구",
 			"name": "Giheung-gu",
-			"postal_code_pattern": "446",
+			"postal_code_pattern": "1(?:6[89]|7[01])|446",
 			"translations": {
 				"ko": {
 					"name": "기흥구"
@@ -16,7 +16,7 @@
 		"KR-41-b2eb11-e8a0e8": {
 			"code": "수지구",
 			"name": "Suji-gu",
-			"postal_code_pattern": "448",
+			"postal_code_pattern": "16[89]|448",
 			"translations": {
 				"ko": {
 					"name": "수지구"
@@ -26,7 +26,7 @@
 		"KR-41-b2eb11-344f1e": {
 			"code": "처인구",
 			"name": "Cheoin-gu",
-			"postal_code_pattern": "449",
+			"postal_code_pattern": "1(?:6[89]|7[01])|449",
 			"translations": {
 				"ko": {
 					"name": "처인구"

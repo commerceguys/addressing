@@ -6,7 +6,7 @@
 		"KR-41-85a614-65a60b": {
 			"code": "덕양구",
 			"name": "Deogyang-gu",
-			"postal_code_pattern": "41[02]",
+			"postal_code_pattern": "10[245]|41[02]",
 			"translations": {
 				"ko": {
 					"name": "덕양구"
@@ -16,7 +16,7 @@
 		"KR-41-85a614-ef4a64": {
 			"code": "일산동구",
 			"name": "Ilsandong-gu",
-			"postal_code_pattern": "410",
+			"postal_code_pattern": "10[2-4]|410",
 			"translations": {
 				"ko": {
 					"name": "일산동구"
@@ -26,7 +26,7 @@
 		"KR-41-85a614-d08af8": {
 			"code": "일산서구",
 			"name": "Ilsanseo-gu",
-			"postal_code_pattern": "411",
+			"postal_code_pattern": "10[2-4]|411",
 			"translations": {
 				"ko": {
 					"name": "일산서구"

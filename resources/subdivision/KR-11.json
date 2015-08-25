@@ -6,7 +6,7 @@
 		"KR-11-b34fdc": {
 			"code": "강남구",
 			"name": "Gangnam-gu",
-			"postal_code_pattern": "135",
+			"postal_code_pattern": "06[0-3]|135",
 			"translations": {
 				"ko": {
 					"name": "강남구"
@@ -16,7 +16,7 @@
 		"KR-11-4d59c2": {
 			"code": "강동구",
 			"name": "Gangdong-gu",
-			"postal_code_pattern": "134",
+			"postal_code_pattern": "05[2-4]|134",
 			"translations": {
 				"ko": {
 					"name": "강동구"
@@ -26,7 +26,7 @@
 		"KR-11-be34ed": {
 			"code": "강북구",
 			"name": "Gangbuk-gu",
-			"postal_code_pattern": "142",
+			"postal_code_pattern": "01[0-2]|142",
 			"translations": {
 				"ko": {
 					"name": "강북구"
@@ -36,7 +36,7 @@
 		"KR-11-5ff3d5": {
 			"code": "강서구",
 			"name": "Gangseo-gu",
-			"postal_code_pattern": "157",
+			"postal_code_pattern": "07[5-8]|157",
 			"translations": {
 				"ko": {
 					"name": "강서구"
@@ -46,7 +46,7 @@
 		"KR-11-f4eee6": {
 			"code": "관악구",
 			"name": "Gwanak-gu",
-			"postal_code_pattern": "151",
+			"postal_code_pattern": "08[78]|151",
 			"translations": {
 				"ko": {
 					"name": "관악구"
@@ -56,7 +56,7 @@
 		"KR-11-217dd9": {
 			"code": "광진구",
 			"name": "Gwangjin-gu",
-			"postal_code_pattern": "143",
+			"postal_code_pattern": "0(?:49|5[01])|143",
 			"translations": {
 				"ko": {
 					"name": "광진구"
@@ -66,7 +66,7 @@
 		"KR-11-f5c4cc": {
 			"code": "구로구",
 			"name": "Guro-gu",
-			"postal_code_pattern": "152",
+			"postal_code_pattern": "08[23]|152",
 			"translations": {
 				"ko": {
 					"name": "구로구"
@@ -76,7 +76,7 @@
 		"KR-11-4375d0": {
 			"code": "금천구",
 			"name": "Geumcheon-gu",
-			"postal_code_pattern": "153",
+			"postal_code_pattern": "08[56]|153",
 			"translations": {
 				"ko": {
 					"name": "금천구"
@@ -86,7 +86,7 @@
 		"KR-11-872fe1": {
 			"code": "노원구",
 			"name": "Nowon-gu",
-			"postal_code_pattern": "139",
+			"postal_code_pattern": "01[6-9]|139",
 			"translations": {
 				"ko": {
 					"name": "노원구"
@@ -96,7 +96,7 @@
 		"KR-11-1a9227": {
 			"code": "도봉구",
 			"name": "Dobong-gu",
-			"postal_code_pattern": "132",
+			"postal_code_pattern": "01[34]|132",
 			"translations": {
 				"ko": {
 					"name": "도봉구"
@@ -106,7 +106,7 @@
 		"KR-11-31b5b6": {
 			"code": "동대문구",
 			"name": "Dongdaemun-gu",
-			"postal_code_pattern": "130",
+			"postal_code_pattern": "02[4-6]|130",
 			"translations": {
 				"ko": {
 					"name": "동대문구"
@@ -116,7 +116,7 @@
 		"KR-11-fbcd07": {
 			"code": "동작구",
 			"name": "Dongjak-gu",
-			"postal_code_pattern": "156",
+			"postal_code_pattern": "0(?:69|70)|156",
 			"translations": {
 				"ko": {
 					"name": "동작구"
@@ -126,7 +126,7 @@
 		"KR-11-cbca25": {
 			"code": "마포구",
 			"name": "Mapo-gu",
-			"postal_code_pattern": "121",
+			"postal_code_pattern": "0(?:39|4[0-2])|121",
 			"translations": {
 				"ko": {
 					"name": "마포구"
@@ -136,7 +136,7 @@
 		"KR-11-4192a1": {
 			"code": "서대문구",
 			"name": "Seodaemun-gu",
-			"postal_code_pattern": "120",
+			"postal_code_pattern": "03[67]|120",
 			"translations": {
 				"ko": {
 					"name": "서대문구"
@@ -146,7 +146,7 @@
 		"KR-11-643e0f": {
 			"code": "서초구",
 			"name": "Seocho-gu",
-			"postal_code_pattern": "137",
+			"postal_code_pattern": "06[5-8]|137",
 			"translations": {
 				"ko": {
 					"name": "서초구"
@@ -156,7 +156,7 @@
 		"KR-11-1cda00": {
 			"code": "성동구",
 			"name": "Seongdong-gu",
-			"postal_code_pattern": "133",
+			"postal_code_pattern": "04[78]|133",
 			"translations": {
 				"ko": {
 					"name": "성동구"
@@ -166,7 +166,7 @@
 		"KR-11-8f0ae1": {
 			"code": "성북구",
 			"name": "Seongbuk-gu",
-			"postal_code_pattern": "136",
+			"postal_code_pattern": "02[78]|136",
 			"translations": {
 				"ko": {
 					"name": "성북구"
@@ -176,7 +176,7 @@
 		"KR-11-c5a593": {
 			"code": "송파구",
 			"name": "Songpa-gu",
-			"postal_code_pattern": "138",
+			"postal_code_pattern": "05[5-8]|138",
 			"translations": {
 				"ko": {
 					"name": "송파구"
@@ -186,7 +186,7 @@
 		"KR-11-636ddc": {
 			"code": "양천구",
 			"name": "Yangcheon-gu",
-			"postal_code_pattern": "158",
+			"postal_code_pattern": "0(?:78|8[01])|158",
 			"translations": {
 				"ko": {
 					"name": "양천구"
@@ -196,7 +196,7 @@
 		"KR-11-523268": {
 			"code": "영등포구",
 			"name": "Yeongdeungpo-gu",
-			"postal_code_pattern": "150",
+			"postal_code_pattern": "07[2-4]|150",
 			"translations": {
 				"ko": {
 					"name": "영등포구"
@@ -206,7 +206,7 @@
 		"KR-11-ceb741": {
 			"code": "용산구",
 			"name": "Yongsan-gu",
-			"postal_code_pattern": "140",
+			"postal_code_pattern": "04[34]|140",
 			"translations": {
 				"ko": {
 					"name": "용산구"
@@ -216,7 +216,7 @@
 		"KR-11-976bec": {
 			"code": "은평구",
 			"name": "Eunpyeong-gu",
-			"postal_code_pattern": "122",
+			"postal_code_pattern": "03[3-5]|122",
 			"translations": {
 				"ko": {
 					"name": "은평구"
@@ -226,7 +226,7 @@
 		"KR-11-63d1cc": {
 			"code": "종로구",
 			"name": "Jongno-gu",
-			"postal_code_pattern": "110",
+			"postal_code_pattern": "03[01]|110",
 			"translations": {
 				"ko": {
 					"name": "종로구"
@@ -236,7 +236,7 @@
 		"KR-11-e702fa": {
 			"code": "중구",
 			"name": "Jung-gu",
-			"postal_code_pattern": "100",
+			"postal_code_pattern": "04[56]|100",
 			"translations": {
 				"ko": {
 					"name": "중구"
@@ -246,7 +246,7 @@
 		"KR-11-e1676c": {
 			"code": "중랑구",
 			"name": "Jungnang-gu",
-			"postal_code_pattern": "131",
+			"postal_code_pattern": "02[0-2]|131",
 			"translations": {
 				"ko": {
 					"name": "중랑구"

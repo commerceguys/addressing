@@ -6,7 +6,7 @@
 		"KR-27-f6badf": {
 			"code": "남구",
 			"name": "Nam-gu",
-			"postal_code_pattern": "705",
+			"postal_code_pattern": "42[45]|705",
 			"translations": {
 				"ko": {
 					"name": "남구"
@@ -16,7 +16,7 @@
 		"KR-27-b8a5ce": {
 			"code": "달서구",
 			"name": "Dalseo-gu",
-			"postal_code_pattern": "704",
+			"postal_code_pattern": "42[678]|704",
 			"translations": {
 				"ko": {
 					"name": "달서구"
@@ -26,7 +26,7 @@
 		"KR-27-103efe": {
 			"code": "달성군",
 			"name": "Dalseong-gun",
-			"postal_code_pattern": "711",
+			"postal_code_pattern": "4(?:29|30)|711",
 			"translations": {
 				"ko": {
 					"name": "달성군"
@@ -36,7 +36,7 @@
 		"KR-27-81cd8f": {
 			"code": "동구",
 			"name": "Dong-gu",
-			"postal_code_pattern": "701",
+			"postal_code_pattern": "41[0-2]|701",
 			"translations": {
 				"ko": {
 					"name": "동구"
@@ -46,7 +46,7 @@
 		"KR-27-0e3a74": {
 			"code": "북구",
 			"name": "Buk-gu",
-			"postal_code_pattern": "702",
+			"postal_code_pattern": "41[45]|702",
 			"translations": {
 				"ko": {
 					"name": "북구"
@@ -56,7 +56,7 @@
 		"KR-27-5717c8": {
 			"code": "서구",
 			"name": "Seo-gu",
-			"postal_code_pattern": "703",
+			"postal_code_pattern": "41[78]|703",
 			"translations": {
 				"ko": {
 					"name": "서구"
@@ -66,7 +66,7 @@
 		"KR-27-6e7f17": {
 			"code": "수성구",
 			"name": "Suseong-gu",
-			"postal_code_pattern": "706",
+			"postal_code_pattern": "42[0-2]|706",
 			"translations": {
 				"ko": {
 					"name": "수성구"
@@ -76,7 +76,7 @@
 		"KR-27-ff1bad": {
 			"code": "중구",
 			"name": "Jung-gu",
-			"postal_code_pattern": "700",
+			"postal_code_pattern": "419|700",
 			"translations": {
 				"ko": {
 					"name": "중구"
