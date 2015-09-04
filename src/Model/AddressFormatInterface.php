@@ -24,6 +24,8 @@ interface AddressFormatInterface
      * Sets the two-letter country code.
      *
      * @param string $countryCode The two-letter country code.
+     *
+     * @return $this
      */
     public function setCountryCode($countryCode);
 
@@ -49,6 +51,8 @@ interface AddressFormatInterface
      * Sets the format string.
      *
      * @param string $format The format string.
+     *
+     * @return $this
      */
     public function setFormat($format);
 
@@ -85,6 +89,8 @@ interface AddressFormatInterface
      * Sets the list of required fields.
      *
      * @param array $requiredFields An array of address fields.
+     *
+     * @return $this
      */
     public function setRequiredFields(array $requiredFields);
 
@@ -99,6 +105,8 @@ interface AddressFormatInterface
      * Sets the list of fields that need to be uppercased.
      *
      * @param array $uppercaseFields An array of address fields.
+     *
+     * @return $this
      */
     public function setUppercaseFields(array $uppercaseFields);
 
@@ -116,6 +124,8 @@ interface AddressFormatInterface
      * Sets the administrative area type.
      *
      * @param string $administrativeAreaType The administrative area type.
+     *
+     * @return $this
      */
     public function setAdministrativeAreaType($administrativeAreaType);
 
@@ -133,6 +143,8 @@ interface AddressFormatInterface
      * Sets the locality type.
      *
      * @param string $localityType The locality type.
+     *
+     * @return $this
      */
     public function setLocalityType($localityType);
 
@@ -150,6 +162,8 @@ interface AddressFormatInterface
      * Sets the dependent locality type.
      *
      * @param string $dependentLocalityType The dependent locality type.
+     *
+     * @return $this
      */
     public function setDependentLocalityType($dependentLocalityType);
 
@@ -167,6 +181,8 @@ interface AddressFormatInterface
      * Sets the postal code type.
      *
      * @param string $postalCodeType The postal code type.
+     *
+     * @return $this
      */
     public function setPostalCodeType($postalCodeType);
 
@@ -185,6 +201,8 @@ interface AddressFormatInterface
      * Sets the postal code pattern.
      *
      * @param string $postalCodePattern The postal code pattern.
+     *
+     * @return $this
      */
     public function setPostalCodePattern($postalCodePattern);
 
@@ -202,6 +220,8 @@ interface AddressFormatInterface
      * Sets the postal code prefix.
      *
      * @param string $postalCodePrefix The postal code prefix.
+     *
+     * @return $this
      */
     public function setPostalCodePrefix($postalCodePrefix);
 }
