@@ -54,7 +54,7 @@ class LazySubdivisionCollection extends AbstractLazyCollection
     }
 
     /**
-     * {@inheritDoc}
+     * {@inheritdoc}
      */
     protected function doInitialize()
     {

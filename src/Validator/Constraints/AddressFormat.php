@@ -18,7 +18,7 @@ class AddressFormat extends Constraint
     public $invalidMessage = 'This value is invalid.';
 
     /**
-     * {@inheritDoc}
+     * {@inheritdoc}
      */
     public function __construct($options = null)
     {
@@ -31,7 +31,7 @@ class AddressFormat extends Constraint
     }
 
     /**
-     * {@inheritDoc}
+     * {@inheritdoc}
      */
     public function getTargets()
     {
