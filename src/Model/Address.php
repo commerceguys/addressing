@@ -88,6 +88,18 @@ class Address implements ImmutableAddressInterface
 
     /**
      * Creates an Address instance.
+     *
+     * @param string $countryCode        The two-letter country code.
+     * @param string $administrativeArea The administrative area.
+     * @param string $locality           The locality.
+     * @param string $dependentLocality  The dependent locality.
+     * @param string $postalCode         The postal code.
+     * @param string $sortingCode        The sorting code
+     * @param string $addressLine1       The first line of the address block.
+     * @param string $addressLine2       The second line of the address block.
+     * @param string $organization       The organization.
+     * @param string $recipient          The recipient.
+     * @param string $locale             The locale. Defaults to 'und'.
      */
     public function __construct(
         $countryCode = '',

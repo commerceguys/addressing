@@ -31,7 +31,7 @@ interface AddressInterface
     public function getCountryCode();
 
     /**
-     * Gets the top-level administrative subdivision of the country.
+     * Gets the administrative area.
      *
      * Called the "state" in the United States, "province" in France and Italy,
      * "county" in Great Britain, "prefecture" in Japan, etc.
