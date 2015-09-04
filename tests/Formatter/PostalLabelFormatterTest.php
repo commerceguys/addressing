@@ -103,11 +103,8 @@ class PostalLabelFormatterTest extends \PHPUnit_Framework_TestCase
     public function testEmptyAddress()
     {
         $expectedLines = [];
-        $address = new Address();
-        $address->setCountryCode('US');
-
         $this->formatter->setOriginCountryCode('US');
-        $formattedAddress = $this->formatter->format($address, 'US');
+        $formattedAddress = $this->formatter->format(new Address('US'), 'US');
         $this->assertFormattedAddress($expectedLines, $formattedAddress);
     }
 
@@ -127,12 +124,12 @@ class PostalLabelFormatterTest extends \PHPUnit_Framework_TestCase
     public function testUnitedStatesAddress()
     {
         $address = new Address();
-        $address
-            ->setCountryCode('US')
-            ->setAdministrativeArea('US-CA')
-            ->setLocality('Mt View')
-            ->setAddressLine1('1098 Alta Ave')
-            ->setPostalCode('94043');
+        $address = $address
+            ->withCountryCode('US')
+            ->withAdministrativeArea('US-CA')
+            ->withLocality('Mt View')
+            ->withPostalCode('94043')
+            ->withAddressLine1('1098 Alta Ave');
 
         // Test a US address formatted for sending from the US.
         $expectedLines = [
@@ -171,14 +168,14 @@ class PostalLabelFormatterTest extends \PHPUnit_Framework_TestCase
     public function testJapanAddressShippedFromFrance()
     {
         $address = new Address();
-        $address
-            ->setLocale('ja')
-            ->setCountryCode('JP')
-            ->setAdministrativeArea('JP-01')
-            ->setLocality('Some City')
-            ->setAddressLine1('Address Line 1')
-            ->setAddressLine2('Address Line 2')
-            ->setPostalCode('04');
+        $address = $address
+            ->withCountryCode('JP')
+            ->withAdministrativeArea('JP-01')
+            ->withLocality('Some City')
+            ->withAddressLine1('Address Line 1')
+            ->withAddressLine2('Address Line 2')
+            ->withPostalCode('04')
+            ->withLocale('ja');
 
         // Test a JP address formatted for sending from France.
         $expectedLines = [
@@ -210,10 +207,10 @@ class PostalLabelFormatterTest extends \PHPUnit_Framework_TestCase
     public function testAddressLeadingPostPrefix()
     {
         $address = new Address();
-        $address
-            ->setCountryCode('CH')
-            ->setLocality('Herrliberg')
-            ->setPostalCode('8047');
+        $address = $address
+            ->withCountryCode('CH')
+            ->withLocality('Herrliberg')
+            ->withPostalCode('8047');
 
         // Domestic mail shouldn't have the postal code prefix added.
         $expectedLines = [

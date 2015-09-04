@@ -148,11 +148,11 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
     public function testElSalvadorAddress()
     {
         $address = new Address();
-        $address
-            ->setCountryCode('SV')
-            ->setAdministrativeArea('Ahuachapán')
-            ->setLocality('Ahuachapán')
-            ->setAddressLine1('Some Street 12');
+        $address = $address
+            ->withCountryCode('SV')
+            ->withAdministrativeArea('Ahuachapán')
+            ->withLocality('Ahuachapán')
+            ->withAddressLine1('Some Street 12');
 
         $expectedHtmlLines = [
             '<p translate="no">',
@@ -175,7 +175,7 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
         $textAddress = $this->formatter->format($address);
         $this->assertFormattedAddress($expectedTextLines, $textAddress);
 
-        $address->setPostalCode('CP 2101');
+        $address = $address->withPostalCode('CP 2101');
         $expectedHtmlLines = [
             '<p translate="no">',
             '<span class="address-line1">Some Street 12</span><br>',
@@ -217,18 +217,19 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
         // Real addresses in the major-to-minor order would be completely in
         // Traditional Chinese. That's not the case here, for readability.
         $address = new Address();
-        $address
-            ->setLocale('zh-hant')
-            ->setCountryCode('TW')
-            ->setAdministrativeArea('TW-TPE')  // Taipei city
-            ->setLocality('TW-TPE-e3cc33')  // Da-an district
-            ->setAddressLine1('Sec. 3 Hsin-yi Rd.')
-            ->setPostalCode('106')
+        $address = $address
+            ->withCountryCode('TW')
+            ->withAdministrativeArea('TW-TPE')  // Taipei city
+            ->withLocality('TW-TPE-e3cc33')  // Da-an district
+            ->withAddressLine1('Sec. 3 Hsin-yi Rd.')
+            ->withPostalCode('106')
             // Any HTML in the fields is supposed to be removed when formatting
             // for text, and escaped when formatting for html.
-            ->setOrganization('Giant <h2>Bike</h2> Store')
-            ->setRecipient('Mr. Liu');
+            ->withOrganization('Giant <h2>Bike</h2> Store')
+            ->withRecipient('Mr. Liu')
+            ->withLocale('zh-hant');
         $this->formatter->setLocale('zh-hant');
+
         // Test adding a new wrapper attribute, and passing a value as an array.
         $options = ['translate' => 'no', 'class' => ['address', 'postal-address']];
         $this->formatter->setOption('html_attributes', $options);
@@ -275,11 +276,11 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
     {
         // Create a US address without a locality.
         $address = new Address();
-        $address
-            ->setAdministrativeArea('US-CA')
-            ->setCountryCode('US')
-            ->setAddressLine1('1098 Alta Ave')
-            ->setPostalCode('94043');
+        $address = $address
+            ->withCountryCode('US')
+            ->withAdministrativeArea('US-CA')
+            ->withPostalCode('94043')
+            ->withAddressLine1('1098 Alta Ave');
 
         $expectedHtmlLines = [
             '<p translate="no">',
@@ -301,9 +302,9 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
         $this->assertFormattedAddress($expectedTextLines, $textAddress);
 
         // Now add the locality, but remove the administrative area.
-        $address
-            ->setLocality('Mountain View')
-            ->setAdministrativeArea('');
+        $address = $address
+            ->withLocality('Mountain View')
+            ->withAdministrativeArea('');
 
         $expectedHtmlLines = [
             '<p translate="no">',

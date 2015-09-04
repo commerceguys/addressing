@@ -11,26 +11,15 @@ namespace CommerceGuys\Addressing\Model;
  * Doesn't include the sub-administrative area (United States: county,
  * Italy: province, Great Britain: county) because it is not required for
  * addressing purposes.
+ *
+ * Makes no assumptions about mutability. The implementing application
+ * can extend the interface to provide setters, or implement a value object
+ * that uses either PSR-7 style with* mutators or relies on an AddressBuilder.
+ *
+ * @see \CommerceGuys\Addressing\Model\ImmutableAddressInterface
  */
 interface AddressInterface
 {
-    /**
-     * Gets the locale.
-     *
-     * Allows the initially-selected address format / subdivision translations
-     * to be selected and used the next time this address is modified.
-     *
-     * @return string The locale.
-     */
-    public function getLocale();
-
-    /**
-     * Sets the locale.
-     *
-     * @param string $locale The locale.
-     */
-    public function setLocale($locale);
-
     /**
      * Gets the two-letter country code.
      *
@@ -40,13 +29,6 @@ interface AddressInterface
      * @return string The two-letter country code.
      */
     public function getCountryCode();
-
-    /**
-     * Sets the two-letter country code.
-     *
-     * @param string $countryCode The two-letter country code.
-     */
-    public function setCountryCode($countryCode);
 
     /**
      * Gets the top-level administrative subdivision of the country.
@@ -60,13 +42,6 @@ interface AddressInterface
     public function getAdministrativeArea();
 
     /**
-     * Sets the top-level administrative subdivision of the country.
-     *
-     * @param string $administrativeArea The administrative area.
-     */
-    public function setAdministrativeArea($administrativeArea);
-
-    /**
      * Gets the locality (i.e city).
      *
      * Some countries do not use this field; their address lines are sufficient
@@ -76,13 +51,6 @@ interface AddressInterface
      *                predefined subdivisions at this level
      */
     public function getLocality();
-
-    /**
-     * Sets the locality (i.e city).
-     *
-     * @param string $locality The locality.
-     */
-    public function setLocality($locality);
 
     /**
      * Gets the dependent locality (i.e neighbourhood).
@@ -97,13 +65,6 @@ interface AddressInterface
     public function getDependentLocality();
 
     /**
-     * Sets the dependent locality (i.e neighbourhood).
-     *
-     * @param string $dependentLocality The dependent locality.
-     */
-    public function setDependentLocality($dependentLocality);
-
-    /**
      * Gets the postal code.
      *
      * The value is often alphanumeric.
@@ -111,13 +72,6 @@ interface AddressInterface
      * @return string The postal code.
      */
     public function getPostalCode();
-
-    /**
-     * Sets the postal code of the address.
-     *
-     * @param string $postalCode The postal code.
-     */
-    public function setPostalCode($postalCode);
 
     /**
      * Gets the sorting code.
@@ -129,25 +83,11 @@ interface AddressInterface
     public function getSortingCode();
 
     /**
-     * Sets the sorting code.
-     *
-     * @param string $sortingCode The sorting code.
-     */
-    public function setSortingCode($sortingCode);
-
-    /**
      * Gets the first line of address block.
      *
      * @return string The first line of the address block.
      */
     public function getAddressLine1();
-
-    /**
-     * Sets the first line of address block.
-     *
-     * @param string $addressLine1 The first line of the address block.
-     */
-    public function setAddressLine1($addressLine1);
 
     /**
      * Gets the second line of address block.
@@ -157,25 +97,11 @@ interface AddressInterface
     public function getAddressLine2();
 
     /**
-     * Sets the second line of address block.
-     *
-     * @param string $addressLine2 The second line of the address block.
-     */
-    public function setAddressLine2($addressLine2);
-
-    /**
      * Gets the recipient.
      *
      * @return string The recipient.
      */
     public function getRecipient();
-
-    /**
-     * Sets the recipient.
-     *
-     * @param string $recipient The recipient.
-     */
-    public function setRecipient($recipient);
 
     /**
      * Gets the organization.
@@ -185,9 +111,12 @@ interface AddressInterface
     public function getOrganization();
 
     /**
-     * Sets the organization.
+     * Gets the locale.
      *
-     * @param string $organization The organization.
+     * Allows the initially-selected address format / subdivision translations
+     * to be selected and used the next time this address is modified.
+     *
+     * @return string The locale.
      */
-    public function setOrganization($organization);
+    public function getLocale();
 }

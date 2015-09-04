@@ -2,15 +2,13 @@
 
 namespace CommerceGuys\Addressing\Model;
 
-class Address implements AddressInterface
+/**
+ * Default address implementation.
+ *
+ * Can be mapped and used by Doctrine (preferably as an embeddable).
+ */
+class Address implements ImmutableAddressInterface
 {
-    /**
-     * The locale.
-     *
-     * @var string
-     */
-    protected $locale;
-
     /**
      * The two-letter country code.
      *
@@ -82,21 +80,39 @@ class Address implements AddressInterface
     protected $recipient;
 
     /**
-     * {@inheritdoc}
+     * The locale.
+     *
+     * @var string
      */
-    public function getLocale()
-    {
-        return $this->locale;
-    }
+    protected $locale;
 
     /**
-     * {@inheritdoc}
+     * Creates an Address instance.
      */
-    public function setLocale($locale)
-    {
+    public function __construct(
+        $countryCode = '',
+        $administrativeArea = '',
+        $locality = '',
+        $dependentLocality = '',
+        $postalCode = '',
+        $sortingCode = '',
+        $addressLine1 = '',
+        $addressLine2 = '',
+        $organization = '',
+        $recipient = '',
+        $locale = 'und'
+    ) {
+        $this->countryCode = $countryCode;
+        $this->administrativeArea = $administrativeArea;
+        $this->locality = $locality;
+        $this->dependentLocality = $dependentLocality;
+        $this->postalCode = $postalCode;
+        $this->sortingCode = $sortingCode;
+        $this->addressLine1 = $addressLine1;
+        $this->addressLine2 = $addressLine2;
+        $this->organization = $organization;
+        $this->recipient = $recipient;
         $this->locale = $locale;
-
-        return $this;
     }
 
     /**
@@ -110,11 +126,12 @@ class Address implements AddressInterface
     /**
      * {@inheritdoc}
      */
-    public function setCountryCode($countryCode)
+    public function withCountryCode($countryCode)
     {
-        $this->countryCode = $countryCode;
+        $new = clone $this;
+        $new->countryCode = $countryCode;
 
-        return $this;
+        return $new;
     }
 
     /**
@@ -128,11 +145,12 @@ class Address implements AddressInterface
     /**
      * {@inheritdoc}
      */
-    public function setAdministrativeArea($administrativeArea)
+    public function withAdministrativeArea($administrativeArea)
     {
-        $this->administrativeArea = $administrativeArea;
+        $new = clone $this;
+        $new->administrativeArea = $administrativeArea;
 
-        return $this;
+        return $new;
     }
 
     /**
@@ -146,11 +164,12 @@ class Address implements AddressInterface
     /**
      * {@inheritdoc}
      */
-    public function setLocality($locality)
+    public function withLocality($locality)
     {
-        $this->locality = $locality;
+        $new = clone $this;
+        $new->locality = $locality;
 
-        return $this;
+        return $new;
     }
 
     /**
@@ -164,11 +183,12 @@ class Address implements AddressInterface
     /**
      * {@inheritdoc}
      */
-    public function setDependentLocality($dependentLocality)
+    public function withDependentLocality($dependentLocality)
     {
-        $this->dependentLocality = $dependentLocality;
+        $new = clone $this;
+        $new->dependentLocality = $dependentLocality;
 
-        return $this;
+        return $new;
     }
 
     /**
@@ -182,11 +202,12 @@ class Address implements AddressInterface
     /**
      * {@inheritdoc}
      */
-    public function setPostalCode($postalCode)
+    public function withPostalCode($postalCode)
     {
-        $this->postalCode = $postalCode;
+        $new = clone $this;
+        $new->postalCode = $postalCode;
 
-        return $this;
+        return $new;
     }
 
     /**
@@ -200,11 +221,12 @@ class Address implements AddressInterface
     /**
      * {@inheritdoc}
      */
-    public function setSortingCode($sortingCode)
+    public function withSortingCode($sortingCode)
     {
-        $this->sortingCode = $sortingCode;
+        $new = clone $this;
+        $new->sortingCode = $sortingCode;
 
-        return $this;
+        return $new;
     }
 
     /**
@@ -218,11 +240,12 @@ class Address implements AddressInterface
     /**
      * {@inheritdoc}
      */
-    public function setAddressLine1($addressLine1)
+    public function withAddressLine1($addressLine1)
     {
-        $this->addressLine1 = $addressLine1;
+        $new = clone $this;
+        $new->addressLine1 = $addressLine1;
 
-        return $this;
+        return $new;
     }
 
     /**
@@ -236,11 +259,12 @@ class Address implements AddressInterface
     /**
      * {@inheritdoc}
      */
-    public function setAddressLine2($addressLine2)
+    public function withAddressLine2($addressLine2)
     {
-        $this->addressLine2 = $addressLine2;
+        $new = clone $this;
+        $new->addressLine2 = $addressLine2;
 
-        return $this;
+        return $new;
     }
 
     /**
@@ -254,11 +278,12 @@ class Address implements AddressInterface
     /**
      * {@inheritdoc}
      */
-    public function setOrganization($organization)
+    public function withOrganization($organization)
     {
-        $this->organization = $organization;
+        $new = clone $this;
+        $new->organization = $organization;
 
-        return $this;
+        return $new;
     }
 
     /**
@@ -272,10 +297,30 @@ class Address implements AddressInterface
     /**
      * {@inheritdoc}
      */
-    public function setRecipient($recipient)
+    public function withRecipient($recipient)
     {
-        $this->recipient = $recipient;
+        $new = clone $this;
+        $new->recipient = $recipient;
 
-        return $this;
+        return $new;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function getLocale()
+    {
+        return $this->locale;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function withLocale($locale)
+    {
+        $new = clone $this;
+        $new->locale = $locale;
+
+        return $new;
     }
 }

@@ -10,124 +10,167 @@ use CommerceGuys\Addressing\Model\Address;
 class AddressTest extends \PHPUnit_Framework_TestCase
 {
     /**
-     * @var Address
+     * @covers ::__construct
+     *
+     * @uses \CommerceGuys\Addressing\Model\Address::getCountryCode
+     * @uses \CommerceGuys\Addressing\Model\Address::getAdministrativeArea
+     * @uses \CommerceGuys\Addressing\Model\Address::getLocality
+     * @uses \CommerceGuys\Addressing\Model\Address::getDependentLocality
+     * @uses \CommerceGuys\Addressing\Model\Address::getPostalCode
+     * @uses \CommerceGuys\Addressing\Model\Address::getSortingCode
+     * @uses \CommerceGuys\Addressing\Model\Address::getAddressLine1
+     * @uses \CommerceGuys\Addressing\Model\Address::getAddressLine2
+     * @uses \CommerceGuys\Addressing\Model\Address::getOrganization
+     * @uses \CommerceGuys\Addressing\Model\Address::getRecipient
+     * @uses \CommerceGuys\Addressing\Model\Address::getLocale
      */
-    protected $address;
-
-    public function setUp()
+    public function testConstructor()
     {
-        $this->address = new Address();
-    }
-
-    /**
-     * @covers ::getLocale
-     * @covers ::setLocale
-     */
-    public function testLocale()
-    {
-        $this->address->setLocale('en');
-        $this->assertEquals('en', $this->address->getLocale());
+        $address = new Address('US', 'US-CA', 'Mountain View', 'MV', '94043', '94044', '1600 Amphitheatre Parkway', 'Google Bldg 41', 'Google Inc.', 'John Smith', 'en');
+        $this->assertEquals('US', $address->getCountryCode());
+        $this->assertEquals('US-CA', $address->getAdministrativeArea());
+        $this->assertEquals('Mountain View', $address->getLocality());
+        $this->assertEquals('MV', $address->getDependentLocality());
+        $this->assertEquals('94043', $address->getPostalCode());
+        $this->assertEquals('94044', $address->getSortingCode());
+        $this->assertEquals('1600 Amphitheatre Parkway', $address->getAddressLine1());
+        $this->assertEquals('Google Bldg 41', $address->getAddressLine2());
+        $this->assertEquals('Google Inc.', $address->getOrganization());
+        $this->assertEquals('John Smith', $address->getRecipient());
+        $this->assertEquals('en', $address->getLocale());
     }
 
     /**
      * @covers ::getCountryCode
-     * @covers ::setCountryCode
+     * @covers ::withCountryCode
+     *
+     * @uses \CommerceGuys\Addressing\Model\Address::__construct
      */
     public function testCountryCode()
     {
-        $this->address->setCountryCode('US');
-        $this->assertEquals('US', $this->address->getCountryCode());
+        $address = (new Address())->withCountryCode('US');
+        $this->assertEquals('US', $address->getCountryCode());
     }
 
     /**
      * @covers ::getAdministrativeArea
-     * @covers ::setAdministrativeArea
+     * @covers ::withAdministrativeArea
+     *
+     * @uses \CommerceGuys\Addressing\Model\Address::__construct
      */
     public function testAdministrativeArea()
     {
-        $this->address->setAdministrativeArea('US-CA');
-        $this->assertEquals('US-CA', $this->address->getAdministrativeArea());
+        $address = (new Address())->withAdministrativeArea('US-CA');
+        $this->assertEquals('US-CA', $address->getAdministrativeArea());
     }
 
     /**
      * @covers ::getLocality
-     * @covers ::setLocality
+     * @covers ::withLocality
+     *
+     * @uses \CommerceGuys\Addressing\Model\Address::__construct
      */
     public function testLocality()
     {
-        $this->address->setLocality('Mountain View');
-        $this->assertEquals('Mountain View', $this->address->getLocality());
+        $address = (new Address())->withLocality('Mountain View');
+        $this->assertEquals('Mountain View', $address->getLocality());
     }
 
     /**
      * @covers ::getDependentLocality
-     * @covers ::setDependentLocality
+     * @covers ::withDependentLocality
+     *
+     * @uses \CommerceGuys\Addressing\Model\Address::__construct
      */
     public function testDependentLocality()
     {
         // US doesn't use dependent localities, so there's no good example here.
-        $this->address->setDependentLocality('Mountain View');
-        $this->assertEquals('Mountain View', $this->address->getDependentLocality());
+        $address = (new Address())->withDependentLocality('Mountain View');
+        $this->assertEquals('Mountain View', $address->getDependentLocality());
     }
 
     /**
      * @covers ::getPostalCode
-     * @covers ::setPostalCode
+     * @covers ::withPostalCode
+     *
+     * @uses \CommerceGuys\Addressing\Model\Address::__construct
      */
     public function testPostalCode()
     {
-        $this->address->setPostalCode('94043');
-        $this->assertEquals('94043', $this->address->getPostalCode());
+        $address = (new Address())->withPostalCode('94043');
+        $this->assertEquals('94043', $address->getPostalCode());
     }
 
     /**
      * @covers ::getSortingCode
-     * @covers ::setSortingCode
+     * @covers ::withSortingCode
+     *
+     * @uses \CommerceGuys\Addressing\Model\Address::__construct
      */
     public function testSortingCode()
     {
         // US doesn't use sorting codes, so there's no good example here.
-        $this->address->setSortingCode('94043');
-        $this->assertEquals('94043', $this->address->getSortingCode());
+        $address = (new Address())->withSortingCode('94043');
+        $this->assertEquals('94043', $address->getSortingCode());
     }
 
     /**
      * @covers ::getAddressLine1
-     * @covers ::setAddressLine1
+     * @covers ::withAddressLine1
+     *
+     * @uses \CommerceGuys\Addressing\Model\Address::__construct
      */
     public function testAddressLine1()
     {
-        $this->address->setAddressLine1('1600 Amphitheatre Parkway');
-        $this->assertEquals('1600 Amphitheatre Parkway', $this->address->getAddressLine1());
+        $address = (new Address())->withAddressLine1('1600 Amphitheatre Parkway');
+        $this->assertEquals('1600 Amphitheatre Parkway', $address->getAddressLine1());
     }
 
     /**
      * @covers ::getAddressLine2
-     * @covers ::setAddressLine2
+     * @covers ::withAddressLine2
+     *
+     * @uses \CommerceGuys\Addressing\Model\Address::__construct
      */
     public function testAddressLine2()
     {
-        $this->address->setAddressLine2('Google Bldg 41');
-        $this->assertEquals('Google Bldg 41', $this->address->getAddressLine2());
+        $address = (new Address())->withAddressLine2('Google Bldg 41');
+        $this->assertEquals('Google Bldg 41', $address->getAddressLine2());
     }
 
     /**
      * @covers ::getOrganization
-     * @covers ::setOrganization
+     * @covers ::withOrganization
+     *
+     * @uses \CommerceGuys\Addressing\Model\Address::__construct
      */
     public function testOrganization()
     {
-        $this->address->setOrganization('Google Inc.');
-        $this->assertEquals('Google Inc.', $this->address->getOrganization());
+        $address = (new Address())->withOrganization('Google Inc.');
+        $this->assertEquals('Google Inc.', $address->getOrganization());
     }
 
     /**
      * @covers ::getRecipient
-     * @covers ::setRecipient
+     * @covers ::withRecipient
+     *
+     * @uses \CommerceGuys\Addressing\Model\Address::__construct
      */
     public function testRecipient()
     {
-        $this->address->setRecipient('John Smith');
-        $this->assertEquals('John Smith', $this->address->getRecipient());
+        $address = (new Address())->withRecipient('John Smith');
+        $this->assertEquals('John Smith', $address->getRecipient());
+    }
+
+    /**
+     * @covers ::getLocale
+     * @covers ::withLocale
+     *
+     * @uses \CommerceGuys\Addressing\Model\Address::__construct
+     */
+    public function testLocale()
+    {
+        $address = (new Address())->withLocale('en');
+        $this->assertEquals('en', $address->getLocale());
     }
 }

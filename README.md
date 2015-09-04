@@ -24,7 +24,7 @@ Further backstory can be found in [this blog post](https://drupalcommerce.org/bl
 
 # Data model
 
-The [address object](https://github.com/commerceguys/addressing/blob/master/src/Model/AddressInterface.php) represents a postal adddress, and has the following fields:
+The [address interface](https://github.com/commerceguys/addressing/blob/master/src/Model/AddressInterface.php) represents a postal adddress, and has the following fields:
 
 - Country
 - Administrative area
@@ -38,6 +38,10 @@ The [address object](https://github.com/commerceguys/addressing/blob/master/src/
 - Recipient
 
 Field names follow the OASIS [eXtensible Address Language (xAL)](http://www.oasis-open.org/committees/ciq/download.shtml) standard.
+
+The interface makes no assumptions about mutability.
+The implementing application can extend the interface to provide setters, or implement a value object that uses either [PSR-7 style with* mutators](https://github.com/commerceguys/addressing/blob/master/src/Model/ImmutableAddressInterface) or relies on an AddressBuilder.
+A default [address value object](https://github.com/commerceguys/addressing/blob/master/src/Model/Address.php) is provided that can be used as an example, or mapped by Doctrine (preferably as an embeddable).
 
 The [address format object](https://github.com/commerceguys/addressing/blob/master/src/Model/AddressFormatInterface.php) contains the following data for a country:
 
@@ -101,11 +105,11 @@ $formatter = new DefaultFormatter($addressFormatRepository, $countryRepository, 
 // off html rendering, customizing the wrapper element and its attributes.
 
 $address = new Address();
-$address
-    ->setCountryCode('US')
-    ->setAdministrativeArea('US-CA')
-    ->setAddressLine1('1098 Alta Ave')
-    ->setLocality('Mountain View');
+$address = $address
+    ->withCountryCode('US')
+    ->withAdministrativeArea('US-CA')
+    ->withLocality('Mountain View')
+    ->withAddressLine1('1098 Alta Ave');
 
 echo $formatter->format($address);
 
@@ -144,11 +148,11 @@ $subdivisionRepository = new SubdivisionRepository();
 $formatter = new PostalLabelFormatter($addressFormatRepository, $countryRepository, $subdivisionRepository, 'FR', 'fr');
 
 $address = new Address();
-$address
-    ->setCountryCode('US')
-    ->setAdministrativeArea('US-CA')
-    ->setAddressLine1('1098 Alta Ave')
-    ->setLocality('Mountain View');
+$address = $address
+    ->withCountryCode('US')
+    ->withAdministrativeArea('US-CA')
+    ->withLocality('Mountain View')
+    ->withAddressLine1('1098 Alta Ave');
 
 echo $formatter->format($address);
 
@@ -175,8 +179,7 @@ use CommerceGuys\Addressing\Validator\Constraints\AddressFormat;
 use CommerceGuys\Addressing\Validator\Constraints\Country;
 use Symfony\Component\Validator\Validation;
 
-$address = new Address();
-$address->setCountryCode('FR');
+$address = new Address('FR');
 
 $validator = Validation::createValidator();
 // Validate the country code, then validate the rest of the address.
