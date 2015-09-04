@@ -2,7 +2,6 @@
 
 namespace CommerceGuys\Addressing\Tests\Repository;
 
-use CommerceGuys\Addressing\Model\Subdivision;
 use CommerceGuys\Addressing\Repository\SubdivisionRepository;
 use org\bovigo\vfs\vfsStream;
 

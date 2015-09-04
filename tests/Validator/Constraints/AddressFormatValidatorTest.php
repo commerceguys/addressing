@@ -6,7 +6,6 @@ use CommerceGuys\Addressing\Enum\AddressField;
 use CommerceGuys\Addressing\Model\Address;
 use CommerceGuys\Addressing\Validator\Constraints\AddressFormat as AddressFormatConstraint;
 use CommerceGuys\Addressing\Validator\Constraints\AddressFormatValidator;
-use Symfony\Component\Validator\Validation;
 use Symfony\Component\Validator\Tests\Constraints\AbstractConstraintValidatorTest;
 
 /**
@@ -408,7 +407,7 @@ class AddressFormatValidatorTest extends AbstractConstraintValidatorTest
             ->withPostalCode('94043')
             ->withRecipient('John Smith');
 
-        $violations = $this->validator->validate($address, $this->constraint);
+        $this->validator->validate($address, $this->constraint);
         $this->buildViolation($this->constraint->notBlankMessage)
             ->atPath('[addressLine1]')
             ->setInvalidValue(null)
