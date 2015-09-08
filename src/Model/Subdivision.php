@@ -249,40 +249,6 @@ class Subdivision implements SubdivisionEntityInterface
     }
 
     /**
-     * {@inheritdoc}
-     */
-    public function addChild(SubdivisionEntityInterface $child)
-    {
-        if (!$this->hasChild($child)) {
-            $child->setParent($this);
-            $this->children->add($child);
-        }
-
-        return $this;
-    }
-
-    /**
-     * {@inheritdoc}
-     */
-    public function removeChild(SubdivisionEntityInterface $child)
-    {
-        if ($this->hasChild($child)) {
-            $child->setParent(null);
-            $this->children->removeElement($child);
-        }
-
-        return $this;
-    }
-
-    /**
-     * {@inheritdoc}
-     */
-    public function hasChild(SubdivisionEntityInterface $child)
-    {
-        return $this->children->contains($child);
-    }
-
-    /**
      * Gets the locale.
      *
      * @return string The locale.

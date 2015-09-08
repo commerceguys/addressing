@@ -59,27 +59,4 @@ interface SubdivisionEntityInterface extends SubdivisionInterface
      * @param SubdivisionEntityInterface[] $children The subdivision children.
      */
     public function setChildren($children);
-
-    /**
-     * Adds a child.
-     *
-     * @param SubdivisionEntityInterface $child The child.
-     */
-    public function addChild(SubdivisionEntityInterface $child);
-
-    /**
-     * Removes a child.
-     *
-     * @param SubdivisionEntityInterface $child The child.
-     */
-    public function removeChild(SubdivisionEntityInterface $child);
-
-    /**
-     * Checks whether the subdivision has a child.
-     *
-     * @param SubdivisionEntityInterface $child The child.
-     *
-     * @return bool True if the child was found, false otherwise.
-     */
-    public function hasChild(SubdivisionEntityInterface $child);
 }

@@ -55,9 +55,6 @@ class SubdivisionTest extends \PHPUnit_Framework_TestCase
      * @covers ::getChildren
      * @covers ::setChildren
      * @covers ::hasChildren
-     * @covers ::addChild
-     * @covers ::removeChild
-     * @covers ::hasChild
      *
      * @uses \CommerceGuys\Addressing\Model\Subdivision::__construct
      * @uses \Doctrine\Common\Collections\ArrayCollection
@@ -78,11 +75,6 @@ class SubdivisionTest extends \PHPUnit_Framework_TestCase
         $this->subdivision->setChildren($children);
         $this->assertEquals($children, $this->subdivision->getChildren());
         $this->assertEquals(true, $this->subdivision->hasChildren());
-        $this->subdivision->removeChild($secondChild);
-        $this->assertEquals(false, $this->subdivision->hasChild($secondChild));
-        $this->assertEquals(true, $this->subdivision->hasChild($firstChild));
-        $this->subdivision->addChild($secondChild);
-        $this->assertEquals($children, $this->subdivision->getChildren());
     }
 
     /**
