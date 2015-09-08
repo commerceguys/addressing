@@ -7,12 +7,21 @@ use CommerceGuys\Addressing\Exception\UnexpectedTypeException;
 use Doctrine\Common\Collections\ArrayCollection;
 use Doctrine\Common\Collections\Collection;
 
-class Subdivision implements SubdivisionInterface
+/**
+ * Default subdivision implementation.
+ *
+ * Can be mapped and used by Doctrine.
+ * However, due to the high number of subdivisions (>12k) and their high update
+ * rate, most implementing applications will want to continue loading them
+ * from disk (with a possible caching layer in front), instead of importing
+ * them into a database.
+ */
+class Subdivision implements SubdivisionEntityInterface
 {
     /**
      * The parent.
      *
-     * @var SubdivisionInterface
+     * @var SubdivisionEntityInterface
      */
     protected $parent;
 
@@ -61,7 +70,7 @@ class Subdivision implements SubdivisionInterface
     /**
      * The children.
      *
-     * @param SubdivisionInterface[]
+     * @param SubdivisionEntityInterface[]
      */
     protected $children;
 
@@ -91,7 +100,7 @@ class Subdivision implements SubdivisionInterface
     /**
      * {@inheritdoc}
      */
-    public function setParent(SubdivisionInterface $parent = null)
+    public function setParent(SubdivisionEntityInterface $parent = null)
     {
         $this->parent = $parent;
 
@@ -242,7 +251,7 @@ class Subdivision implements SubdivisionInterface
     /**
      * {@inheritdoc}
      */
-    public function addChild(SubdivisionInterface $child)
+    public function addChild(SubdivisionEntityInterface $child)
     {
         if (!$this->hasChild($child)) {
             $child->setParent($this);
@@ -255,7 +264,7 @@ class Subdivision implements SubdivisionInterface
     /**
      * {@inheritdoc}
      */
-    public function removeChild(SubdivisionInterface $child)
+    public function removeChild(SubdivisionEntityInterface $child)
     {
         if ($this->hasChild($child)) {
             $child->setParent(null);
@@ -268,7 +277,7 @@ class Subdivision implements SubdivisionInterface
     /**
      * {@inheritdoc}
      */
-    public function hasChild(SubdivisionInterface $child)
+    public function hasChild(SubdivisionEntityInterface $child)
     {
         return $this->children->contains($child);
     }

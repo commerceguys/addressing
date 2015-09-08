@@ -10,7 +10,7 @@ use CommerceGuys\Addressing\Enum\AddressField;
  * Allows external systems to reimplement AddressFormat without needing
  * to duplicate the format introspection logic.
  *
- * @see AddressFormatInterface
+ * @see AddressFormatEntityInterface
  */
 trait FormatStringTrait
 {

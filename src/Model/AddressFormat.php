@@ -8,7 +8,13 @@ use CommerceGuys\Addressing\Enum\DependentLocalityType;
 use CommerceGuys\Addressing\Enum\LocalityType;
 use CommerceGuys\Addressing\Enum\PostalCodeType;
 
-class AddressFormat implements AddressFormatInterface
+/**
+ * Default address format implementation.
+ *
+ * Can be mapped and used by Doctrine, for implementing applications that
+ * want to allow address formats to be user editable.
+ */
+class AddressFormat implements AddressFormatEntityInterface
 {
     use FormatStringTrait;
 

@@ -24,7 +24,7 @@ Further backstory can be found in [this blog post](https://drupalcommerce.org/bl
 
 # Data model
 
-The [address interface](https://github.com/commerceguys/addressing/blob/master/src/Model/AddressInterface.php) represents a postal adddress, and has the following fields:
+The [address interface](https://github.com/commerceguys/addressing/blob/master/src/Model/AddressInterface.php) represents a postal adddress, with getters for the following fields:
 
 - Country
 - Administrative area
@@ -43,7 +43,7 @@ The interface makes no assumptions about mutability.
 The implementing application can extend the interface to provide setters, or implement a value object that uses either [PSR-7 style with* mutators](https://github.com/commerceguys/addressing/blob/master/src/Model/ImmutableAddressInterface) or relies on an AddressBuilder.
 A default [address value object](https://github.com/commerceguys/addressing/blob/master/src/Model/Address.php) is provided that can be used as an example, or mapped by Doctrine (preferably as an embeddable).
 
-The [address format object](https://github.com/commerceguys/addressing/blob/master/src/Model/AddressFormatInterface.php) contains the following data for a country:
+The [address format interface](https://github.com/commerceguys/addressing/blob/master/src/Model/AddressFormatInterface.php) has getters for the following country-specific metadata:
 
 - Which fields are used, and in which order
 - Which fields are required
@@ -51,7 +51,7 @@ The [address format object](https://github.com/commerceguys/addressing/blob/mast
 - The labels for the administrative area (state, province, parish, etc.), locality (city/post town/district, etc.), dependent locality (neighborhood, suburb, district, etc) and the postal code (postal code or ZIP code)
 - The regular expression pattern for validating postal codes
 
-The [subdivision object](https://github.com/commerceguys/addressing/blob/master/src/Model/SubdivisionInterface.php) contains the following data:
+The [subdivision interface](https://github.com/commerceguys/addressing/blob/master/src/Model/SubdivisionInterface.php) has getters for the following data:
 
 - The subdivision code (used to represent the subdivison on a parcel/envelope, e.g. CA for California)
 - The subdivison name (shown to the user in a dropdown)
@@ -188,3 +188,7 @@ if (!$violations->count()) {
   $violations = $validator->validateValue($address, new AddressFormat());
 }
 ```
+
+# Integrations
+
+- [Drupal module](https://drupal.org/project/address)

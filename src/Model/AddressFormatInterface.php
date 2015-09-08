@@ -5,8 +5,7 @@ namespace CommerceGuys\Addressing\Model;
 /**
  * Interface for address formats.
  *
- * An address format provides metadata about storing and presenting addresses
- * for a single country.
+ * Provides metadata for storing and presenting a country's addresses.
  */
 interface AddressFormatInterface
 {
@@ -19,13 +18,6 @@ interface AddressFormatInterface
      * @return string The two-letter country code.
      */
     public function getCountryCode();
-
-    /**
-     * Sets the two-letter country code.
-     *
-     * @param string $countryCode The two-letter country code.
-     */
-    public function setCountryCode($countryCode);
 
     /**
      * Gets the format string.
@@ -44,13 +36,6 @@ interface AddressFormatInterface
      * @return string The format string.
      */
     public function getFormat();
-
-    /**
-     * Sets the format string.
-     *
-     * @param string $format The format string.
-     */
-    public function setFormat($format);
 
     /**
      * Gets the list of used fields.
@@ -82,25 +67,11 @@ interface AddressFormatInterface
     public function getRequiredFields();
 
     /**
-     * Sets the list of required fields.
-     *
-     * @param array $requiredFields An array of address fields.
-     */
-    public function setRequiredFields(array $requiredFields);
-
-    /**
      * Gets the list of fields that need to be uppercased.
      *
      * @return array An array of address fields.
      */
     public function getUppercaseFields();
-
-    /**
-     * Sets the list of fields that need to be uppercased.
-     *
-     * @param array $uppercaseFields An array of address fields.
-     */
-    public function setUppercaseFields(array $uppercaseFields);
 
     /**
      * Gets the administrative area type.
@@ -113,13 +84,6 @@ interface AddressFormatInterface
     public function getAdministrativeAreaType();
 
     /**
-     * Sets the administrative area type.
-     *
-     * @param string $administrativeAreaType The administrative area type.
-     */
-    public function setAdministrativeAreaType($administrativeAreaType);
-
-    /**
      * Gets the locality type.
      *
      * Used for presenting the correct label to the end-user.
@@ -128,13 +92,6 @@ interface AddressFormatInterface
      *                     isn't used.
      */
     public function getLocalityType();
-
-    /**
-     * Sets the locality type.
-     *
-     * @param string $localityType The locality type.
-     */
-    public function setLocalityType($localityType);
 
     /**
      * Gets the dependent locality type.
@@ -147,13 +104,6 @@ interface AddressFormatInterface
     public function getDependentLocalityType();
 
     /**
-     * Sets the dependent locality type.
-     *
-     * @param string $dependentLocalityType The dependent locality type.
-     */
-    public function setDependentLocalityType($dependentLocalityType);
-
-    /**
      * Gets the postal code type.
      *
      * Used for presenting the correct label to the end-user.
@@ -162,13 +112,6 @@ interface AddressFormatInterface
      *                     field isn't used.
      */
     public function getPostalCodeType();
-
-    /**
-     * Sets the postal code type.
-     *
-     * @param string $postalCodeType The postal code type.
-     */
-    public function setPostalCodeType($postalCodeType);
 
     /**
      * Gets the postal code pattern.
@@ -182,13 +125,6 @@ interface AddressFormatInterface
     public function getPostalCodePattern();
 
     /**
-     * Sets the postal code pattern.
-     *
-     * @param string $postalCodePattern The postal code pattern.
-     */
-    public function setPostalCodePattern($postalCodePattern);
-
-    /**
      * Gets the postal code prefix.
      *
      * The prefix is optional and added to postal codes only when formatting
@@ -197,11 +133,4 @@ interface AddressFormatInterface
      * @return string|null The postal code prefix.
      */
     public function getPostalCodePrefix();
-
-    /**
-     * Sets the postal code prefix.
-     *
-     * @param string $postalCodePrefix The postal code prefix.
-     */
-    public function setPostalCodePrefix($postalCodePrefix);
 }
