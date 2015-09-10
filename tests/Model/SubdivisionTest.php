@@ -40,17 +40,6 @@ class SubdivisionTest extends \PHPUnit_Framework_TestCase
     }
 
     /**
-     * @covers ::setChildren
-     *
-     * @uses \CommerceGuys\Addressing\Model\Subdivision::__construct
-     * @expectedException \CommerceGuys\Addressing\Exception\UnexpectedTypeException
-     */
-    public function testSetInvalidChildren()
-    {
-        $this->subdivision->setChildren([1, 2]);
-    }
-
-    /**
      * @covers ::__construct
      * @covers ::getChildren
      * @covers ::setChildren

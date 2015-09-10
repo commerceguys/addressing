@@ -2,6 +2,8 @@
 
 namespace CommerceGuys\Addressing\Model;
 
+use Doctrine\Common\Collections\Collection;
+
 interface SubdivisionEntityInterface extends SubdivisionInterface
 {
     /**
@@ -58,5 +60,5 @@ interface SubdivisionEntityInterface extends SubdivisionInterface
      *
      * @param SubdivisionEntityInterface[] $children The subdivision children.
      */
-    public function setChildren($children);
+    public function setChildren(Collection $children);
 }

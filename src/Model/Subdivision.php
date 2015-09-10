@@ -3,7 +3,6 @@
 namespace CommerceGuys\Addressing\Model;
 
 use CommerceGuys\Addressing\Enum\PatternType;
-use CommerceGuys\Addressing\Exception\UnexpectedTypeException;
 use Doctrine\Common\Collections\ArrayCollection;
 use Doctrine\Common\Collections\Collection;
 
@@ -227,14 +226,8 @@ class Subdivision implements SubdivisionEntityInterface
     /**
      * {@inheritdoc}
      */
-    public function setChildren($children)
+    public function setChildren(Collection $children)
     {
-        // The interface doesn't typehint $children to allow other
-        // implementations to avoid using Doctrine Collections if desired.
-        if (!($children instanceof Collection)) {
-            throw new UnexpectedTypeException($children, 'Collection');
-        }
-
         $this->children = $children;
 
         return $this;
