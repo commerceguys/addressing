@@ -38,16 +38,16 @@ class AddressFormatTest extends \PHPUnit_Framework_TestCase
      * @covers ::getFormat
      * @covers ::setFormat
      * @covers ::getUsedFields
+     * @covers ::getUsedSubdivisionFields
      * @covers ::getGroupedFields
      */
     public function testFormat()
     {
-        $format = "%recipient\n%organization\n%addressLine1\n%addressLine2\n%locality, %administrativeArea %postalCode";
+        $format = "%recipient\n%organization\n%addressLine1\n%addressLine2\n%locality, %postalCode";
         $this->addressFormat->setFormat($format);
         $this->assertEquals($format, $this->addressFormat->getFormat());
 
         $expectedUsedFields = [
-            AddressField::ADMINISTRATIVE_AREA,
             AddressField::LOCALITY,
             AddressField::POSTAL_CODE,
             AddressField::ADDRESS_LINE1,
@@ -57,12 +57,17 @@ class AddressFormatTest extends \PHPUnit_Framework_TestCase
         ];
         $this->assertEquals($expectedUsedFields, $this->addressFormat->getUsedFields());
 
+        $expectedUsedSubdivisionFields = [
+            AddressField::LOCALITY,
+        ];
+        $this->assertEquals($expectedUsedSubdivisionFields, $this->addressFormat->getUsedSubdivisionFields());
+
         $expectedGroupedFields = [
             [AddressField::RECIPIENT],
             [AddressField::ORGANIZATION],
             [AddressField::ADDRESS_LINE1],
             [AddressField::ADDRESS_LINE2],
-            [AddressField::LOCALITY, AddressField::ADMINISTRATIVE_AREA, AddressField::POSTAL_CODE],
+            [AddressField::LOCALITY, AddressField::POSTAL_CODE],
         ];
         $this->assertEquals($expectedGroupedFields, $this->addressFormat->getGroupedFields());
     }

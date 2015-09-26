@@ -76,6 +76,23 @@ trait FormatStringTrait
     /**
      * {@inheritdoc}
      */
+    public function getUsedSubdivisionFields()
+    {
+        $fields = [
+            AddressField::ADMINISTRATIVE_AREA,
+            AddressField::LOCALITY,
+            AddressField::DEPENDENT_LOCALITY,
+        ];
+        // Remove fields not used by the format, and reset the keys.
+        $fields = array_intersect($fields, $this->getUsedFields());
+        $fields = array_values($fields);
+
+        return $fields;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
     public function getGroupedFields()
     {
         if (!isset($this->groupedFields)) {

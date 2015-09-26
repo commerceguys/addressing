@@ -190,7 +190,7 @@ class DefaultFormatter implements FormatterInterface
     protected function buildView(AddressInterface $address, AddressFormatInterface $addressFormat)
     {
         $countries = $this->countryRepository->getList($this->locale);
-        $values = $this->getValues($address);
+        $values = $this->getValues($address, $addressFormat);
         $view = [];
         $view['country'] = [
             'html_tag' => 'span',
@@ -283,11 +283,12 @@ class DefaultFormatter implements FormatterInterface
     /**
      * Gets the address values used to build the view.
      *
-     * @param AddressInterface $address The address.
+     * @param AddressInterface       $address       The address.
+     * @param AddressFormatInterface $addressFormat The address format.
      *
      * @return array The values, keyed by address field.
      */
-    protected function getValues(AddressInterface $address)
+    protected function getValues(AddressInterface $address, AddressFormatInterface $addressFormat)
     {
         $values = [];
         foreach (AddressField::getAll() as $field) {
@@ -296,12 +297,7 @@ class DefaultFormatter implements FormatterInterface
         }
 
         // Replace the subdivision values with the names of any predefined ones.
-        $subdivisionFields = [
-            AddressField::ADMINISTRATIVE_AREA,
-            AddressField::LOCALITY,
-            AddressField::DEPENDENT_LOCALITY,
-        ];
-        foreach ($subdivisionFields as $field) {
+        foreach ($addressFormat->getUsedSubdivisionFields() as $field) {
             if (empty($values[$field])) {
                 // This level is empty, so there can be no sublevels.
                 break;

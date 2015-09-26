@@ -80,6 +80,61 @@ class AddressFormatValidatorTest extends AbstractConstraintValidatorTest
      * @uses \CommerceGuys\Addressing\Model\FormatStringTrait
      * @uses \CommerceGuys\Addressing\Model\Subdivision
      */
+    public function testAndorraOK()
+    {
+        $address = new Address();
+        $address = $address
+            ->withCountryCode('AD')
+            ->withLocality('AD-07')
+            ->withPostalCode('AD500')
+            ->withAddressLine1('C. Prat de la Creu, 62-64')
+            ->withRecipient('Antoni Martí Petit');
+
+        $this->validator->validate($address, $this->constraint);
+        $this->assertNoViolation();
+    }
+
+    /**
+     * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatValidator
+     *
+     * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
+     * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
+     * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
+     * @uses \CommerceGuys\Addressing\Model\Address
+     * @uses \CommerceGuys\Addressing\Model\AddressFormat
+     * @uses \CommerceGuys\Addressing\Model\FormatStringTrait
+     * @uses \CommerceGuys\Addressing\Model\Subdivision
+     */
+    public function testAndorraNotOK()
+    {
+        // Andorra has no predefined administrative areas, but it does have
+        // predefined localities, which must be validated.
+        $address = new Address();
+        $address = $address
+            ->withCountryCode('AD')
+            ->withLocality('INVALID')
+            ->withPostalCode('AD500')
+            ->withAddressLine1('C. Prat de la Creu, 62-64')
+            ->withRecipient('Antoni Martí Petit');
+
+        $this->validator->validate($address, $this->constraint);
+        $this->buildViolation($this->constraint->invalidMessage)
+            ->atPath('[locality]')
+            ->setInvalidValue('INVALID')
+            ->assertRaised();
+    }
+
+    /**
+     * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatValidator
+     *
+     * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
+     * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
+     * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
+     * @uses \CommerceGuys\Addressing\Model\Address
+     * @uses \CommerceGuys\Addressing\Model\AddressFormat
+     * @uses \CommerceGuys\Addressing\Model\FormatStringTrait
+     * @uses \CommerceGuys\Addressing\Model\Subdivision
+     */
     public function testUnitedStatesOK()
     {
         $address = new Address();

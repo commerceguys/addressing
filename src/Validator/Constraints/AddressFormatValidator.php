@@ -103,17 +103,14 @@ class AddressFormatValidator extends ConstraintValidator
     protected function validateSubdivisions($values, AddressFormatInterface $addressFormat, $constraint)
     {
         $countryCode = $addressFormat->getCountryCode();
-        $subdivisionFields = [
-            AddressField::ADMINISTRATIVE_AREA => null,
-            AddressField::LOCALITY => AddressField::ADMINISTRATIVE_AREA,
-            AddressField::DEPENDENT_LOCALITY => AddressField::LOCALITY,
-        ];
+        $subdivisionFields = $addressFormat->getUsedSubdivisionFields();
         $foundIds = [];
-        foreach ($subdivisionFields as $field => $parentField) {
+        foreach ($subdivisionFields as $index => $field) {
             if (empty($values[$field]) || !in_array($field, $constraint->fields)) {
                 // The field is empty or validation is disabled.
                 break;
             }
+            $parentField = $index ? $subdivisionFields[$index - 1] : null;
             $parentId = $parentField ? $values[$parentField] : null;
             $children = $this->subdivisionRepository->getList($countryCode, $parentId);
             if (!$children) {

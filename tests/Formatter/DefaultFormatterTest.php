@@ -145,6 +145,39 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
      * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
      * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      */
+    public function testAndorraAddress()
+    {
+        $address = new Address();
+        $address = $address
+            ->withCountryCode('AD')
+            ->withLocality('AD-07')
+            ->withPostalCode('AD500')
+            ->withAddressLine1('C. Prat de la Creu, 62-64');
+
+        // Andorra has no predefined administrative areas, but it does have
+        // predefined localities, which must be shown.
+        $expectedTextLines = [
+            'C. Prat de la Creu, 62-64',
+            "AD500 Parròquia d'Andorra la Vella",
+            'Andorra',
+        ];
+        $this->formatter->setOption('html', false);
+        $textAddress = $this->formatter->format($address);
+        $this->assertFormattedAddress($expectedTextLines, $textAddress);
+    }
+
+    /**
+     * @covers \CommerceGuys\Addressing\Formatter\DefaultFormatter
+     *
+     * @uses \CommerceGuys\Addressing\Model\Address
+     * @uses \CommerceGuys\Addressing\Model\AddressFormat
+     * @uses \CommerceGuys\Addressing\Model\FormatStringTrait
+     * @uses \CommerceGuys\Addressing\Model\Subdivision
+     * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
+     * @uses \CommerceGuys\Addressing\Repository\CountryRepository
+     * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
+     * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
+     */
     public function testElSalvadorAddress()
     {
         $address = new Address();

@@ -45,6 +45,13 @@ interface AddressFormatInterface
     public function getUsedFields();
 
     /**
+     * Gets the list of used subdivision fields.
+     *
+     * @return array An array of address fields.
+     */
+    public function getUsedSubdivisionFields();
+
+    /**
      * Gets the list of used fields, grouped by line.
      *
      * @return array An array of address fields grouped by line, in the same
