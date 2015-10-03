@@ -15,7 +15,7 @@ interface ImmutableAddressInterface extends AddressInterface
      *
      * @param string $countryCode The two-letter country code.
      *
-     * @return self
+     * @return self A clone of $this.
      */
     public function withCountryCode($countryCode);
 
@@ -31,7 +31,7 @@ interface ImmutableAddressInterface extends AddressInterface
      *
      * @param string $locality The locality.
      *
-     * @return self
+     * @return self A clone of $this.
      */
     public function withLocality($locality);
 
@@ -40,7 +40,7 @@ interface ImmutableAddressInterface extends AddressInterface
      *
      * @param string $dependentLocality The dependent locality.
      *
-     * @return self
+     * @return self A clone of $this.
      */
     public function withDependentLocality($dependentLocality);
 
@@ -49,7 +49,7 @@ interface ImmutableAddressInterface extends AddressInterface
      *
      * @param string $postalCode The postal code.
      *
-     * @return self
+     * @return self A clone of $this.
      */
     public function withPostalCode($postalCode);
 
@@ -58,7 +58,7 @@ interface ImmutableAddressInterface extends AddressInterface
      *
      * @param string $sortingCode The sorting code.
      *
-     * @return self
+     * @return self A clone of $this.
      */
     public function withSortingCode($sortingCode);
 
@@ -67,7 +67,7 @@ interface ImmutableAddressInterface extends AddressInterface
      *
      * @param string $addressLine1 The first line of the address block.
      *
-     * @return self
+     * @return self A clone of $this.
      */
     public function withAddressLine1($addressLine1);
 
@@ -76,7 +76,7 @@ interface ImmutableAddressInterface extends AddressInterface
      *
      * @param string $addressLine2 The second line of the address block.
      *
-     * @return self
+     * @return self A clone of $this.
      */
     public function withAddressLine2($addressLine2);
 
@@ -85,7 +85,7 @@ interface ImmutableAddressInterface extends AddressInterface
      *
      * @param string $recipient The recipient.
      *
-     * @return self
+     * @return self A clone of $this.
      */
     public function withRecipient($recipient);
 
@@ -94,7 +94,7 @@ interface ImmutableAddressInterface extends AddressInterface
      *
      * @param string $organization The organization.
      *
-     * @return self
+     * @return self A clone of $this.
      */
     public function withOrganization($organization);
 
@@ -103,7 +103,7 @@ interface ImmutableAddressInterface extends AddressInterface
      *
      * @param string $locale The locale.
      *
-     * @return self
+     * @return self A clone of $this.
      */
     public function withLocale($locale);
 }
