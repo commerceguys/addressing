@@ -8,6 +8,7 @@ set_time_limit(0);
 date_default_timezone_set('UTC');
 
 include '../vendor/autoload.php';
+include '../resources/library_customizations.php';
 
 use CommerceGuys\Addressing\Enum\AddressField;
 use CommerceGuys\Addressing\Repository\CountryRepository;
@@ -78,7 +79,7 @@ foreach ($foundCountries as $countryCode) {
         $definition += $genericDefinition;
     }
 
-    $addressFormat = create_address_format_definition($definition);
+    $addressFormat = create_address_format_definition($countryCode, $definition);
 
     // Create a list of available translations.
     // Ignore Hong Kong because the listed translation (English) is already
@@ -116,7 +117,7 @@ foreach ($groupedSubdivisions as $parentId => $subdivisions) {
 $depths = generate_subdivision_depths($foundCountries);
 file_put_json('subdivision/depths.json', $depths);
 
-echo "Done. You can now apply the library customizations by running 'patch -p2 < ../resources/library_customizations.patch'.\n";
+echo "Done.\n";
 
 /**
  * Converts the provided data into json and writes it to the disk.
@@ -235,6 +236,10 @@ function generate_subdivisions($countryCode, $parentId, $subdivisionPaths, $lang
         }
     }
 
+    // Apply any found customizations.
+    $customizations = get_subdivision_customizations($parentId);
+    $subdivisions[$parentId] = apply_subdivision_customizations($subdivisions[$parentId], $customizations);
+
     return $subdivisions;
 }
 
@@ -266,7 +271,7 @@ function generate_subdivision_depths($countries)
 /**
  * Creates an address format definition from Google's raw definition.
  */
-function create_address_format_definition($rawDefinition)
+function create_address_format_definition($countryCode, $rawDefinition)
 {
     $addressFormat = [
         'locale' => determine_locale($rawDefinition),
@@ -325,6 +330,11 @@ function create_address_format_definition($rawDefinition)
     if ($translations) {
         $addressFormat['translations'] = $translations;
     }
+    // Apply any customizations.
+    $customizations = get_address_format_customizations($countryCode);
+    foreach ($customizations as $key => $values) {
+        $addressFormat[$key] = $values;
+    }
 
     return $addressFormat;
 }
@@ -364,6 +374,40 @@ function create_subdivision_definition($rawDefinition)
     }
 
     return $subdivision;
+}
+
+/**
+ * Applies subdivision customizations.
+ */
+function apply_subdivision_customizations($subdivisions, $customizations) {
+    if (empty($customizations)) {
+        return $subdivisions;
+    }
+
+    $customizations += [
+        '_remove' => [],
+        '_replace' => [],
+        '_add' => [],
+    ];
+
+    foreach ($customizations['_remove'] as $removeId) {
+        unset($subdivisions['subdivisions'][$removeId]);
+    }
+    foreach ($customizations['_replace'] as $replaceId) {
+        $subdivisions['subdivisions'][$replaceId] = $customizations[$replaceId];
+    }
+    foreach ($customizations['_add'] as $addId => $nextId) {
+        $position = array_search($nextId, array_keys($subdivisions['subdivisions']));
+        $new = [
+            $addId => $customizations[$addId],
+        ];
+        // array_splice() doesn't support non-numeric replacement keys.
+        $start = array_slice($subdivisions['subdivisions'], 0, $position);
+        $end = array_slice($subdivisions['subdivisions'], $position);
+        $subdivisions['subdivisions'] = $start + $new + $end;
+    }
+
+    return $subdivisions;
 }
 
 /**

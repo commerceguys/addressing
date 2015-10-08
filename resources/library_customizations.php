@@ -1,0 +1,163 @@
+<?php
+
+/**
+ * A number of issues were found in Google's dataset and reported at.
+ * https://github.com/googlei18n/libaddressinput/issues
+ * Since Google has been slow to resolve them, the library maintains its own
+ * list of customizations, in PHP format for easier contribution.
+ *
+ * @todo
+ * PE subdivisions (https://github.com/googlei18n/libaddressinput/issues/50)
+ * MZ https://github.com/googlei18n/libaddressinput/issues/58
+ */
+
+/**
+ * Returns the address format customizations for the provided country code.
+ */
+function get_address_format_customizations($countryCode) {
+    $formatCustomizations = [];
+    // Add missing postal code fields.
+    // https://github.com/googlei18n/libaddressinput/issues/46
+    // https://github.com/googlei18n/libaddressinput/issues/50
+    $formatCustomizations['AL'] = [
+        'format' => "%recipient\n%organization\n%addressLine1\n%addressLine2\n%postalCode\n%locality",
+        'postal_code_type' => 'postal',
+        'postal_code_pattern' => '\d{4}',
+    ];
+    $formatCustomizations['BB'] = [
+        'format' => "%recipient\n%organization\n%addressLine1\n%addressLine2\n%locality %postalCode",
+        'postal_code_type' => 'postal',
+        'postal_code_pattern' => 'BB\d{5}',
+    ];
+    $formatCustomizations['BT'] = [
+        'format' => "%recipient\n%organization\n%addressLine1\n%addressLine2\n%locality %postalCode",
+        'postal_code_type' => 'postal',
+        'postal_code_pattern' => '\d{5}',
+    ];
+    $formatCustomizations['PE'] = [
+        'format' => "%recipient\n%organization\n%addressLine1\n%addressLine2\n%postalCode\n%locality",
+        'postal_code_type' => 'postal',
+        'postal_code_pattern' => '\d{5}',
+    ];
+    $formatCustomizations['VC'] = [
+        'format' => "%recipient\n%organization\n%addressLine1\n%addressLine2\n%locality %postalCode",
+        'postal_code_type' => 'postal',
+        'postal_code_pattern' => 'VC\d{4}',
+    ];
+    // Make the postal code required.
+    // https://github.com/googlei18n/libaddressinput/issues/79
+    $formatCustomizations['HU'] = [
+        'required_fields' => [
+            'recipient',
+            'addressLine1',
+            'locality',
+            'postalCode',
+        ],
+    ];
+    // Switch %organization and %recipient.
+    // https://github.com/googlei18n/libaddressinput/issues/83
+    $formatCustomizations['DE'] = [
+        'format' => "%organization\n%recipient\n%addressLine1\n%addressLine2\n%postalCode %locality",
+    ];
+    // Make the postal codes required, add administrative area fields (EE, LT).
+    // https://github.com/googlei18n/libaddressinput/issues/64
+    $formatCustomizations['EE'] = [
+        'format' => "%recipient\n%organization\n%addressLine1\n%addressLine2\n%postalCode %locality %administrativeArea",
+        'required_fields' => [
+            'recipient',
+            'addressLine1',
+            'locality',
+            'postalCode',
+        ],
+        'administrative_area_type' => 'county',
+    ];
+    $formatCustomizations['LT'] = [
+        'format' => "%organization\n%recipient\n%addressLine1\n%addressLine2\n%postalCode %locality %administrativeArea",
+        'required_fields' => [
+            'recipient',
+            'addressLine1',
+            'locality',
+            'postalCode',
+        ],
+        'administrative_area_type' => 'county',
+    ];
+    $formatCustomizations['LV'] = [
+        'required_fields' => [
+            'recipient',
+            'addressLine1',
+            'locality',
+            'postalCode',
+        ],
+    ];
+
+    return isset($formatCustomizations[$countryCode]) ? $formatCustomizations[$countryCode] : [];
+}
+
+/**
+ * Returns the subdivision customizations for the provided parent id.
+ */
+function get_subdivision_customizations($parentId) {
+    // Rename and reorder ES-PM.
+    // https://github.com/googlei18n/libaddressinput/issues/48
+    $subdivisionCustomizations['ES'] = [
+        '_remove' => ['ES-PM'],
+        '_add' => [
+            // Add 'ES-PM' before 'ES-B'.
+            'ES-PM' => 'ES-B',
+        ],
+        'ES-PM' => [
+            'name' => 'Balears',
+            'postal_code_pattern' => '07',
+        ],
+    ];
+    // Rename and reorder MX-MEX.
+    // https://github.com/googlei18n/libaddressinput/issues/49
+    $subdivisionCustomizations['MX'] = [
+        '_remove' => ['MX-MEX'],
+        '_add' => [
+            'MX-MEX' => 'MX-MIC',
+        ],
+        'MX-MEX' => [
+            'code' => 'MEX',
+            'name' => 'México',
+            'postal_code_pattern' => '5[0-7]',
+        ],
+    ];
+    // Rename three BS provinces.
+    // https://github.com/googlei18n/libaddressinput/issues/51
+    $subdivisionCustomizations['BS'] = [
+        '_replace' => ['BS-06f3b3', 'BS-7708d4', 'BS-EX'],
+        'BS-06f3b3' => [
+            'code' => 'ABACO',
+            'name' => 'Abaco',
+        ],
+        'BS-7708d4' => [
+            'code' => 'ANDROS',
+            'name' => 'Andros',
+        ],
+        'BS-EX' => [
+            'code' => 'EXUMA',
+            'name' => 'Exuma',
+        ],
+    ];
+    // IN-50c73a -> IN-TG, IN-UL -> IN-UT
+    // https://github.com/googlei18n/libaddressinput/issues/54
+    // https://github.com/googlei18n/libaddressinput/issues/59
+    $subdivisionCustomizations['IN'] = [
+        '_remove' => ['IN-50c73a', 'IN-UL'],
+        '_add' => [
+            'IN-TG' => 'IN-TR',
+            'IN-UT' => 'IN-WB',
+        ],
+        'IN-TG' => [
+            'name' => 'Telangana',
+            'postal_code_pattern' => '5[0-3]',
+        ],
+        'IN-UT' => [
+            'name' => 'Uttarakhand',
+            'postal_code_pattern' => '24[46-9]|254|26[23]',
+        ],
+    ];
+
+    return isset($subdivisionCustomizations[$parentId]) ? $subdivisionCustomizations[$parentId] : [];
+}
