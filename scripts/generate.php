@@ -239,6 +239,10 @@ function generate_subdivisions($countryCode, $parentId, $subdivisionPaths, $lang
     // Apply any found customizations.
     $customizations = get_subdivision_customizations($parentId);
     $subdivisions[$parentId] = apply_subdivision_customizations($subdivisions[$parentId], $customizations);
+    // All subdivisions have been removed. Remove the rest of the data.
+    if (empty($subdivisions[$parentId]['subdivisions'])) {
+        unset($subdivisions[$parentId]);
+    }
 
     return $subdivisions;
 }

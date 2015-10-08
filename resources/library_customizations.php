@@ -176,6 +176,16 @@ function get_subdivision_customizations($parentId) {
             'postal_code_pattern' => '24[46-9]|254|26[23]',
         ],
     ];
+    // Remove Swiss administrative areas, they're not used for addressing.
+    // https://github.com/googlei18n/libaddressinput/issues/89
+    $subdivisionCustomizations['CH'] = [
+        '_remove' => [
+            'CH-AG', 'CH-AR', 'CH-AI', 'CH-BE', 'CH-BL', 'CH-BS', 'CH-FR',
+            'CH-GE', 'CH-GL', 'CH-GR', 'CH-JU', 'CH-LU', 'CH-NE', 'CH-NW',
+            'CH-OW', 'CH-SH', 'CH-SZ', 'CH-SO', 'CH-SG', 'CH-TI', 'CH-TG',
+            'CH-UR', 'CH-VD', 'CH-VS', 'CH-ZG', 'CH-ZH',
+        ],
+    ];
 
     return isset($subdivisionCustomizations[$parentId]) ? $subdivisionCustomizations[$parentId] : [];
 }
