@@ -4,7 +4,7 @@
 	"required_fields": [
 		"recipient",
 		"addressLine1",
-		"locality"
+		"administrativeArea"
 	],
 	"uppercase_fields": [
 		"locality"
