@@ -205,7 +205,7 @@ class AddressFormatValidator extends ConstraintValidator
     {
         if ($this->context instanceof \Symfony\Component\Validator\Context\ExecutionContextInterface) {
             $this->context->buildViolation($message)
-                ->atPath('[' . $field . ']')
+                ->atPath($field)
                 ->setInvalidValue($invalidValue)
                 ->addViolation();
         } else {
