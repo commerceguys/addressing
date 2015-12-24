@@ -39,15 +39,6 @@
 				}
 			}
 		},
-		"AE-DU": {
-			"code": "إمارة دبيّ",
-			"name": "Dubai",
-			"translations": {
-				"ar": {
-					"name": "إمارة دبيّ"
-				}
-			}
-		},
 		"AE-RK": {
 			"code": "إمارة رأس الخيمة",
 			"name": "Ras al Khaimah",
@@ -57,9 +48,18 @@
 				}
 			}
 		},
+		"AE-DU": {
+			"code": "إمارة دبيّ",
+			"name": "Dubai",
+			"translations": {
+				"ar": {
+					"name": "دبي"
+				}
+			}
+		},
 		"AE-AJ": {
 			"code": "عجمان",
-			"name": "Ajmān",
+			"name": "Ajman",
 			"translations": {
 				"ar": {
 					"name": "عجمان"

@@ -163,13 +163,13 @@
 				}
 			}
 		},
-		"TW-MIA-ba6fd4": {
-			"code": "頭份鎮",
-			"name": "Toufen Township",
+		"TW-MIA-30628e": {
+			"code": "頭份市",
+			"name": "Toufen City",
 			"postal_code_pattern": "351",
 			"translations": {
 				"zh-hant": {
-					"name": "頭份鎮"
+					"name": "頭份市"
 				}
 			}
 		},

@@ -163,13 +163,13 @@
 				}
 			}
 		},
-		"TW-CHA-ae9fa0": {
-			"code": "員林鎮",
-			"name": "Yuanlin Township",
+		"TW-CHA-d1eaad": {
+			"code": "員林市",
+			"name": "Yuanlin City",
 			"postal_code_pattern": "510",
 			"translations": {
 				"zh-hant": {
-					"name": "員林鎮"
+					"name": "員林市"
 				}
 			}
 		},

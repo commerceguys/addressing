@@ -3,12 +3,12 @@
 	"parent_id": "CN-51-b1120c",
 	"locale": "zh-Latn",
 	"subdivisions": {
-		"CN-51-b1120c-cf5062": {
-			"code": "达县",
-			"name": "Da Xian",
+		"CN-51-b1120c-df6678": {
+			"code": "达川区",
+			"name": "Dachuan Qu",
 			"translations": {
 				"zh": {
-					"name": "达县"
+					"name": "达川区"
 				}
 			}
 		},

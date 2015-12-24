@@ -12,6 +12,15 @@
 				}
 			}
 		},
+		"CN-52-5831ac-9b92c7": {
+			"code": "观山湖区",
+			"name": "Guanshanhu Qu",
+			"translations": {
+				"zh": {
+					"name": "观山湖区"
+				}
+			}
+		},
 		"CN-52-5831ac-380044": {
 			"code": "花溪区",
 			"name": "Huaxi Qu",
@@ -63,15 +72,6 @@
 			"translations": {
 				"zh": {
 					"name": "息烽县"
-				}
-			}
-		},
-		"CN-52-5831ac-41a0cc": {
-			"code": "小河区",
-			"name": "Xiaohe Qu",
-			"translations": {
-				"zh": {
-					"name": "小河区"
 				}
 			}
 		},
