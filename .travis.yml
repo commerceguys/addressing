@@ -12,3 +12,5 @@ install:
 
 script:
   - ./vendor/bin/phpunit -c ./phpunit.xml --coverage-text --strict
+  - ./vendor/bin/phpcs --standard=phpcs.xml src -s
+  - ./vendor/bin/phpcs --standard=phpcs.xml tests -s
