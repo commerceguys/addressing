@@ -92,6 +92,7 @@ Addresses are formatted according to the address format, in HTML or text.
 Formats an address for display, always adds the localized country name.
 
 ```php
+use CommerceGuys\Addressing\Model\Address;
 use CommerceGuys\Addressing\Formatter\DefaultFormatter;
 use CommerceGuys\Addressing\Repository\AddressFormatRepository;
 use CommerceGuys\Addressing\Repository\CountryRepository;
@@ -135,6 +136,7 @@ In case of international mail:
 This matches the recommandation given by the Universal Postal Union, to avoid difficulties in countries of transit.
 
 ```php
+use CommerceGuys\Addressing\Model\Address;
 use CommerceGuys\Addressing\Formatter\PostalLabelFormatter;
 use CommerceGuys\Addressing\Repository\AddressFormatRepository;
 use CommerceGuys\Addressing\Repository\CountryRepository;
