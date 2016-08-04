@@ -134,17 +134,14 @@ function get_subdivision_customizations($parentId) {
     // Rename three BS provinces.
     // https://github.com/googlei18n/libaddressinput/issues/51
     $subdivisionCustomizations['BS'] = [
-        '_replace' => ['BS-06f3b3', 'BS-7708d4', 'BS-EX'],
-        'BS-06f3b3' => [
-            'code' => 'ABACO',
+        '_replace' => ['BS-fc2a25', 'BS-0adc5a', 'BS-EX'],
+        'BS-fc2a25' => [
             'name' => 'Abaco',
         ],
-        'BS-7708d4' => [
-            'code' => 'ANDROS',
+        'BS-0adc5a' => [
             'name' => 'Andros',
         ],
         'BS-EX' => [
-            'code' => 'EXUMA',
             'name' => 'Exuma',
         ],
     ];

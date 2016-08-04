@@ -3,60 +3,46 @@
 	"parent_id": null,
 	"locale": "en",
 	"subdivisions": {
-		"BS-06f3b3": {
-			"code": "ABACO",
+		"BS-fc2a25": {
 			"name": "Abaco"
 		},
 		"BS-AK": {
-			"code": "ACKLINS",
 			"name": "Acklins"
 		},
-		"BS-7708d4": {
-			"code": "ANDROS",
+		"BS-0adc5a": {
 			"name": "Andros"
 		},
 		"BS-BY": {
-			"code": "BERRY ISLANDS",
 			"name": "Berry Islands"
 		},
 		"BS-BI": {
-			"code": "BIMINI",
 			"name": "Bimini"
 		},
 		"BS-CI": {
-			"code": "CAT ISLAND",
 			"name": "Cat Island"
 		},
-		"BS-0e4c9b": {
-			"code": "CROOKED ISLAND",
+		"BS-7390e7": {
 			"name": "Crooked Island"
 		},
-		"BS-85e485": {
-			"code": "ELEUTHERA",
+		"BS-c55623": {
 			"name": "Eleuthera"
 		},
 		"BS-EX": {
-			"code": "EXUMA",
 			"name": "Exuma"
 		},
-		"BS-59d4c6": {
-			"code": "GRAND BAHAMA",
+		"BS-5c967e": {
 			"name": "Grand Bahama"
 		},
 		"BS-HI": {
-			"code": "HARBOUR ISLAND",
 			"name": "Harbour Island"
 		},
 		"BS-IN": {
-			"code": "INAGUA",
 			"name": "Inagua"
 		},
 		"BS-LI": {
-			"code": "LONG ISLAND",
 			"name": "Long Island"
 		},
 		"BS-MG": {
-			"code": "MAYAGUANA",
 			"name": "Mayaguana"
 		},
 		"BS-418c39": {
@@ -64,19 +50,15 @@
 			"name": "New Providence"
 		},
 		"BS-RI": {
-			"code": "RAGGED ISLAND",
 			"name": "Ragged Island"
 		},
 		"BS-RC": {
-			"code": "RUM CAY",
 			"name": "Rum Cay"
 		},
 		"BS-SS": {
-			"code": "SAN SALVADOR",
 			"name": "San Salvador"
 		},
 		"BS-SW": {
-			"code": "SPANISH WELLS",
 			"name": "Spanish Wells"
 		}
 	}
