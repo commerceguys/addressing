@@ -13,7 +13,8 @@
         "symfony/validator": ">=2.3",
         "symfony/intl": ">=2.3",
         "phpunit/phpunit": "~4.0",
-        "mikey179/vfsStream": "1.*"
+        "mikey179/vfsStream": "1.*",
+        "squizlabs/php_codesniffer": "2.*"
     },
     "suggest": {
         "commerceguys/intl": "to use it as the source of country data",
