@@ -44,16 +44,6 @@ function get_address_format_customizations($countryCode) {
         'postal_code_type' => 'postal',
         'postal_code_pattern' => 'VC\d{4}',
     ];
-    // Make the postal code required.
-    // https://github.com/googlei18n/libaddressinput/issues/79
-    $formatCustomizations['HU'] = [
-        'required_fields' => [
-            'recipient',
-            'addressLine1',
-            'locality',
-            'postalCode',
-        ],
-    ];
     // Switch %organization and %recipient.
     // https://github.com/googlei18n/libaddressinput/issues/83
     $formatCustomizations['DE'] = [
