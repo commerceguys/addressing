@@ -5,75 +5,75 @@
 	"subdivisions": {
 		"SO-AW": {
 			"code": "AD",
-			"name": "AWDAL"
+			"name": "Awdal"
 		},
 		"SO-BK": {
 			"code": "BK",
-			"name": "BAKOOL"
+			"name": "Bakool"
 		},
 		"SO-BN": {
 			"code": "BN",
-			"name": "BANAADIR"
+			"name": "Banaadir"
 		},
 		"SO-BR": {
 			"code": "BR",
-			"name": "BARI"
+			"name": "Bari"
 		},
 		"SO-BY": {
 			"code": "BY",
-			"name": "BAY"
+			"name": "Bay"
 		},
 		"SO-GA": {
 			"code": "GG",
-			"name": "GALGUDUUD"
+			"name": "Galguduud"
 		},
 		"SO-GE": {
 			"code": "GD",
-			"name": "GEDO"
+			"name": "Gedo"
 		},
 		"SO-HI": {
 			"code": "HR",
-			"name": "HIIRAAN"
+			"name": "Hiiraan"
 		},
 		"SO-JD": {
 			"code": "JD",
-			"name": "JUBBADA DHEXE"
+			"name": "Jubbada Dhexe"
 		},
 		"SO-JH": {
 			"code": "JH",
-			"name": "JUBBADA HOOSE"
+			"name": "Jubbada Hoose"
 		},
 		"SO-MU": {
 			"code": "MD",
-			"name": "MUDUG"
+			"name": "Mudug"
 		},
 		"SO-NU": {
 			"code": "NG",
-			"name": "NUGAAL"
+			"name": "Nugaal"
 		},
 		"SO-SA": {
 			"code": "SG",
-			"name": "SANAAG"
+			"name": "Sanaag"
 		},
 		"SO-SD": {
 			"code": "SD",
-			"name": "SHABEELLAHA DHEXE"
+			"name": "Shabeellaha Dhexe"
 		},
 		"SO-SH": {
 			"code": "SH",
-			"name": "SHABEELLAHA HOOSE"
+			"name": "Shabeellaha Hoose"
 		},
 		"SO-SO": {
 			"code": "SL",
-			"name": "SOOL"
+			"name": "Sool"
 		},
 		"SO-TO": {
 			"code": "TG",
-			"name": "TOGDHEER"
+			"name": "Togdheer"
 		},
 		"SO-WO": {
 			"code": "WG",
-			"name": "WOQOOYI GALBEED"
+			"name": "Woqooyi Galbeed"
 		}
 	}
 }

@@ -5,6 +5,7 @@
 		"recipient",
 		"addressLine1",
 		"locality",
+		"administrativeArea",
 		"postalCode"
 	],
 	"uppercase_fields": [

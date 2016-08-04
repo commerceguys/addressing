@@ -3,14 +3,14 @@
 	"parent_id": null,
 	"locale": "en",
 	"subdivisions": {
-		"KY-1229bf": {
-			"name": "CAYMAN BRAC"
+		"KY-403b13": {
+			"name": "Cayman Brac"
 		},
-		"KY-88c790": {
-			"name": "GRAND CAYMAN"
+		"KY-c5e907": {
+			"name": "Grand Cayman"
 		},
-		"KY-19e5ee": {
-			"name": "LITTLE CAYMAN"
+		"KY-76aee5": {
+			"name": "Little Cayman"
 		}
 	}
 }

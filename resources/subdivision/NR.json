@@ -4,46 +4,46 @@
 	"locale": "en",
 	"subdivisions": {
 		"NR-01": {
-			"name": "AIWO DISTRICT"
+			"name": "Aiwo District"
 		},
 		"NR-02": {
-			"name": "ANABAR DISTRICT"
+			"name": "Anabar District"
 		},
 		"NR-03": {
-			"name": "ANETAN DISTRICT"
+			"name": "Anetan District"
 		},
 		"NR-04": {
-			"name": "ANIBARE DISTRICT"
+			"name": "Anibare District"
 		},
 		"NR-05": {
-			"name": "BAITI DISTRICT"
+			"name": "Baiti District"
 		},
 		"NR-06": {
-			"name": "BOE DISTRICT"
+			"name": "Boe District"
 		},
 		"NR-07": {
-			"name": "BUADA DISTRICT"
+			"name": "Buada District"
 		},
 		"NR-08": {
-			"name": "DENIGOMODU DISTRICT"
+			"name": "Denigomodu District"
 		},
 		"NR-09": {
-			"name": "EWA DISTRICT"
+			"name": "Ewa District"
 		},
 		"NR-10": {
-			"name": "IJUW DISTRICT"
+			"name": "Ijuw District"
 		},
 		"NR-11": {
-			"name": "MENENG DISTRICT"
+			"name": "Meneng District"
 		},
 		"NR-12": {
-			"name": "NIBOK DISTRICT"
+			"name": "Nibok District"
 		},
 		"NR-13": {
-			"name": "UABOE DISTRICT"
+			"name": "Uaboe District"
 		},
 		"NR-14": {
-			"name": "YAREN DISTRICT"
+			"name": "Yaren District"
 		}
 	}
 }

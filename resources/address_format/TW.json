@@ -14,7 +14,7 @@
 	"administrative_area_type": "county",
 	"locality_type": "city",
 	"postal_code_type": "postal",
-	"postal_code_pattern": "\\d{3}(\\d{2})?",
+	"postal_code_pattern": "\\d{3}(?:\\d{2})?",
 	"translations": {
 		"zh-hant": {
 			"format": "%postalCode\n%administrativeArea%locality\n%addressLine2\n%addressLine1\n%organization\n%recipient"

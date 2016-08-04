@@ -4,79 +4,79 @@
 	"locale": "es",
 	"subdivisions": {
 		"UY-AR": {
-			"name": "ARTIGAS",
+			"name": "Artigas",
 			"postal_code_pattern": "55"
 		},
 		"UY-CA": {
-			"name": "CANELONES",
+			"name": "Canelones",
 			"postal_code_pattern": "9[01]|1[456]"
 		},
 		"UY-CL": {
-			"name": "CERRO LARGO",
+			"name": "Cerro Largo",
 			"postal_code_pattern": "37"
 		},
 		"UY-CO": {
-			"name": "COLONIA",
+			"name": "Colonia",
 			"postal_code_pattern": "70|75204"
 		},
 		"UY-DU": {
-			"name": "DURAZNO",
+			"name": "Durazno",
 			"postal_code_pattern": "97"
 		},
 		"UY-FS": {
-			"name": "FLORES",
+			"name": "Flores",
 			"postal_code_pattern": "85"
 		},
 		"UY-FD": {
-			"name": "FLORIDA",
+			"name": "Florida",
 			"postal_code_pattern": "94|9060|97005"
 		},
 		"UY-LA": {
-			"name": "LAVALLEJA",
+			"name": "Lavalleja",
 			"postal_code_pattern": "30"
 		},
 		"UY-MA": {
-			"name": "MALDONADO",
+			"name": "Maldonado",
 			"postal_code_pattern": "20"
 		},
 		"UY-MO": {
-			"name": "MONTEVIDEO",
+			"name": "Montevideo",
 			"postal_code_pattern": "1|91600"
 		},
 		"UY-PA": {
-			"name": "PAYSANDÚ",
+			"name": "Paysandú",
 			"postal_code_pattern": "60"
 		},
 		"UY-RN": {
-			"name": "RÍO NEGRO",
+			"name": "Río Negro",
 			"postal_code_pattern": "65|60002"
 		},
 		"UY-RV": {
-			"name": "RIVERA",
+			"name": "Rivera",
 			"postal_code_pattern": "40"
 		},
 		"UY-RO": {
-			"name": "ROCHA",
+			"name": "Rocha",
 			"postal_code_pattern": "27"
 		},
 		"UY-SA": {
-			"name": "SALTO",
+			"name": "Salto",
 			"postal_code_pattern": "50"
 		},
 		"UY-SJ": {
-			"name": "SAN JOSÉ",
+			"name": "San José",
 			"postal_code_pattern": "80"
 		},
 		"UY-SO": {
-			"name": "SORIANO",
+			"name": "Soriano",
 			"postal_code_pattern": "75|70003"
 		},
 		"UY-TA": {
-			"name": "TACUAREMBÓ",
+			"name": "Tacuarembó",
 			"postal_code_pattern": "45"
 		},
 		"UY-TT": {
-			"name": "TREINTA Y TRES",
+			"name": "Treinta y Tres",
 			"postal_code_pattern": "33|30203|30204|30302|37007"
 		}
 	}

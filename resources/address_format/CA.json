@@ -20,5 +20,5 @@
 	"administrative_area_type": "province",
 	"locality_type": "city",
 	"postal_code_type": "postal",
-	"postal_code_pattern": "[ABCEGHJKLMNPRSTVXY]\\d[ABCEGHJ-NPRSTV-Z][ ]?\\d[ABCEGHJ-NPRSTV-Z]\\d"
+	"postal_code_pattern": "[ABCEGHJKLMNPRSTVXY]\\d[ABCEGHJ-NPRSTV-Z] ?\\d[ABCEGHJ-NPRSTV-Z]\\d"
 }

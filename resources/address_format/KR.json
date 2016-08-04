@@ -15,7 +15,7 @@
 	"locality_type": "city",
 	"dependent_locality_type": "district",
 	"postal_code_type": "postal",
-	"postal_code_pattern": "\\d{3}(?:\\d{2}|[\\-]\\d{3})",
+	"postal_code_pattern": "\\d{3}(?:\\d{2}|-\\d{3})",
 	"translations": {
 		"ko": {
 			"format": "%administrativeArea %locality%dependentLocality\n%addressLine2\n%addressLine1\n%organization\n%recipient\n%postalCode"

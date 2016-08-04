@@ -48,21 +48,21 @@
 				}
 			}
 		},
-		"CN-51-09ac26-c196ff": {
-			"code": "得荣县",
-			"name": "Dêrong Xian",
-			"translations": {
-				"zh": {
-					"name": "得荣县"
-				}
-			}
-		},
 		"CN-51-09ac26-933523": {
 			"code": "德格县",
 			"name": "Dêgê Xian",
 			"translations": {
 				"zh": {
 					"name": "德格县"
+				}
+			}
+		},
+		"CN-51-09ac26-c196ff": {
+			"code": "得荣县",
+			"name": "Dêrong Xian",
+			"translations": {
+				"zh": {
+					"name": "得荣县"
 				}
 			}
 		},

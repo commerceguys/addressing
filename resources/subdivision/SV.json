@@ -4,72 +4,65 @@
 	"locale": "es",
 	"subdivisions": {
 		"SV-AH": {
-			"code": "AHUACHAPAN",
+			"code": "Ahuachapan",
 			"name": "Ahuachapán",
 			"postal_code_pattern": "CP 21"
 		},
 		"SV-CA": {
-			"code": "CABANAS",
+			"code": "Cabanas",
 			"name": "Cabañas",
 			"postal_code_pattern": "CP 12"
 		},
 		"SV-CH": {
-			"code": "CALATENANGO",
+			"code": "Calatenango",
 			"name": "Chalatenango",
 			"postal_code_pattern": "CP 13"
 		},
 		"SV-CU": {
-			"code": "CUSCATLAN",
+			"code": "Cuscatlan",
 			"name": "Cuscatlán",
 			"postal_code_pattern": "CP 14"
 		},
 		"SV-LI": {
-			"code": "LA LIBERTAD",
 			"name": "La Libertad",
 			"postal_code_pattern": "CP 15"
 		},
 		"SV-PA": {
-			"code": "LA PAZ",
 			"name": "La Paz",
 			"postal_code_pattern": "CP 16"
 		},
 		"SV-UN": {
-			"code": "LA UNION",
+			"code": "La Union",
 			"name": "La Unión",
 			"postal_code_pattern": "CP 31"
 		},
 		"SV-MO": {
-			"code": "MORAZAN",
+			"code": "Morazan",
 			"name": "Morazán",
 			"postal_code_pattern": "CP 32"
 		},
 		"SV-SM": {
-			"code": "SAN MIGUEL",
 			"name": "San Miguel",
 			"postal_code_pattern": "CP 33"
 		},
 		"SV-SS": {
-			"code": "SAN SALVADOR",
 			"name": "San Salvador",
 			"postal_code_pattern": "CP 11"
 		},
 		"SV-SV": {
-			"code": "SAN VICENTE",
 			"name": "San Vicente",
 			"postal_code_pattern": "CP 17"
 		},
 		"SV-SA": {
-			"code": "SANTA ANA",
 			"name": "Santa Ana",
 			"postal_code_pattern": "CP 22"
 		},
 		"SV-SO": {
-			"code": "SONSONATE",
 			"name": "Sonsonate",
 			"postal_code_pattern": "CP 23"
 		},
 		"SV-US": {
-			"code": "USULUTAN",
+			"code": "Usulutan",
 			"name": "Usulután",
 			"postal_code_pattern": "CP 34"
 		}

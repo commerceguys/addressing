@@ -9,6 +9,7 @@
 	"uppercase_fields": [
 		"locality"
 	],
+	"administrative_area_type": "parish",
 	"locality_type": "city",
 	"postal_code_type": "postal",
 	"postal_code_pattern": "BB\\d{5}"

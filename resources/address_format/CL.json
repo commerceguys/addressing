@@ -1,6 +1,6 @@
 {
 	"locale": "es",
-	"format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%postalCode %locality\n%dependentLocality\n%administrativeArea",
+	"format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%postalCode %locality\n%administrativeArea",
 	"required_fields": [
 		"recipient",
 		"addressLine1",
@@ -11,7 +11,6 @@
 	],
 	"administrative_area_type": "province",
 	"locality_type": "city",
-	"dependent_locality_type": "suburb",
 	"postal_code_type": "postal",
 	"postal_code_pattern": "\\d{7}"
 }

@@ -12,5 +12,5 @@
 	"administrative_area_type": "county",
 	"locality_type": "city",
 	"postal_code_type": "postal",
-	"postal_code_pattern": "[\\dA-Z]{3}[ ]?[\\dA-Z]{4}"
+	"postal_code_pattern": "[\\dA-Z]{3} ?[\\dA-Z]{4}"
 }

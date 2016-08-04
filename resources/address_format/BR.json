@@ -16,5 +16,5 @@
 	"locality_type": "city",
 	"dependent_locality_type": "neighborhood",
 	"postal_code_type": "postal",
-	"postal_code_pattern": "\\d{5}[\\-]?\\d{3}"
+	"postal_code_pattern": "\\d{5}-?\\d{3}"
 }

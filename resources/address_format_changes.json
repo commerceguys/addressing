@@ -9,5 +9,47 @@
             "IE",
             "SO"
         ]
+    },
+    {
+        "date": "2016-08-04T16:17:48+00:00",
+        "added": [],
+        "removed": [],
+        "modified": [
+            "BM",
+            "CR",
+            "FR",
+            "SK",
+            "CA",
+            "SE",
+            "VE",
+            "CZ",
+            "LB",
+            "BR",
+            "AM",
+            "BN",
+            "SO",
+            "NO",
+            "GG",
+            "RU",
+            "IE",
+            "KR",
+            "SJ",
+            "MT",
+            "SH",
+            "IM",
+            "EC",
+            "CL",
+            "TW",
+            "OM",
+            "GB",
+            "LI",
+            "NG",
+            "NL",
+            "MU",
+            "JE",
+            "BB",
+            "BH",
+            "UA"
+        ]
     }
 ]

@@ -12,6 +12,6 @@
 	],
 	"locality_type": "city",
 	"postal_code_type": "postal",
-	"postal_code_pattern": "(948[5-9])|(949[0-7])",
+	"postal_code_pattern": "948[5-9]|949[0-7]",
 	"postal_code_prefix": "FL-"
 }

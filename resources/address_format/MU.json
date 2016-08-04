@@ -12,5 +12,5 @@
 	],
 	"locality_type": "city",
 	"postal_code_type": "postal",
-	"postal_code_pattern": "(?:\\d{3}(?:\\d{2}|[A-Z]{2}\\d{3}))?"
+	"postal_code_pattern": "\\d{3}(?:\\d{2}|[A-Z]{2}\\d{3})"
 }
