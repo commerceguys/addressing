@@ -51,6 +51,26 @@ class AddressFormatValidator extends ConstraintValidator
             throw new UnexpectedTypeException($value, 'AddressInterface');
         }
 
+        if ($constraint->addressFormatRepository) {
+            if (!$constraint->addressFormatRepository instanceof \CommerceGuys\Addressing\Repository\AddressFormatRepositoryInterface) {
+                throw new UnexpectedTypeException(
+                    $constraint->addressFormatRepository,
+                    '\CommerceGuys\Addressing\Repository\AddressFormatRepositoryInterface'
+                );
+            }
+            $this->addressFormatRepository = $constraint->addressFormatRepository;
+        }
+
+        if ($constraint->subdivisionRepository) {
+            if (!$constraint->subdivisionRepository instanceof \CommerceGuys\Addressing\Repository\SubdivisionRepositoryInterface) {
+                throw new UnexpectedTypeException(
+                    $constraint->subdivisionRepository,
+                    '\CommerceGuys\Addressing\Repository\SubdivisionRepositoryInterface'
+                );
+            }
+            $this->subdivisionRepository = $constraint->subdivisionRepository;
+        }
+
         $address = $value;
         $countryCode = $address->getCountryCode();
         if ($countryCode === null || $countryCode === '') {
