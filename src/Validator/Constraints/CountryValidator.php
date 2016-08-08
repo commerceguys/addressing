@@ -36,6 +36,16 @@ class CountryValidator extends ConstraintValidator
             return;
         }
 
+        if ($constraint->countryRepository) {
+            if (!$constraint->countryRepository instanceof \CommerceGuys\Addressing\Repository\CountryRepositoryInterface) {
+                throw new UnexpectedTypeException(
+                    $constraint->countryRepository,
+                    '\CommerceGuys\Addressing\Repository\CountryRepositoryInterface'
+                );
+            }
+            $this->countryRepository = $constraint->countryRepository;
+        }
+
         if (!is_scalar($value) && !(is_object($value) && method_exists($value, '__toString'))) {
             throw new UnexpectedTypeException($value, 'string');
         }

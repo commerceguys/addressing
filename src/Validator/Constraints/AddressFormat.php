@@ -16,6 +16,8 @@ class AddressFormat extends Constraint
     public $blankMessage = 'This value should be blank';
     public $notBlankMessage = 'This value should not be blank';
     public $invalidMessage = 'This value is invalid.';
+    public $addressFormatRepository;
+    public $subdivisionRepository;
 
     /**
      * {@inheritdoc}
