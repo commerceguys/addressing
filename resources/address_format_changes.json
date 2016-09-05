@@ -51,5 +51,40 @@
             "BH",
             "UA"
         ]
+    },
+    {
+        "date": "2016-09-05T18:30:53+00:00",
+        "added": [],
+        "removed": [
+            "CD",
+            "ST"
+        ],
+        "modified": [
+            "BB",
+            "TA",
+            "AI",
+            "AF",
+            "IO",
+            "AC",
+            "KG",
+            "MZ",
+            "GG",
+            "GS",
+            "PN",
+            "PE",
+            "IE",
+            "SR",
+            "SH",
+            "IM",
+            "AU",
+            "LR",
+            "FK",
+            "HT",
+            "TC",
+            "BY",
+            "MN",
+            "TV",
+            "JE"
+        ]
     }
 ]

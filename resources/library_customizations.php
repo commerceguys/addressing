@@ -16,34 +16,6 @@
  */
 function get_address_format_customizations($countryCode) {
     $formatCustomizations = [];
-    // Add missing postal code fields.
-    // https://github.com/googlei18n/libaddressinput/issues/46
-    // https://github.com/googlei18n/libaddressinput/issues/50
-    $formatCustomizations['AL'] = [
-        'format' => "%recipient\n%organization\n%addressLine1\n%addressLine2\n%postalCode\n%locality",
-        'postal_code_type' => 'postal',
-        'postal_code_pattern' => '\d{4}',
-    ];
-    $formatCustomizations['BB'] = [
-        'format' => "%recipient\n%organization\n%addressLine1\n%addressLine2\n%locality %postalCode",
-        'postal_code_type' => 'postal',
-        'postal_code_pattern' => 'BB\d{5}',
-    ];
-    $formatCustomizations['BT'] = [
-        'format' => "%recipient\n%organization\n%addressLine1\n%addressLine2\n%locality %postalCode",
-        'postal_code_type' => 'postal',
-        'postal_code_pattern' => '\d{5}',
-    ];
-    $formatCustomizations['PE'] = [
-        'format' => "%recipient\n%organization\n%addressLine1\n%addressLine2\n%postalCode\n%locality",
-        'postal_code_type' => 'postal',
-        'postal_code_pattern' => '\d{5}',
-    ];
-    $formatCustomizations['VC'] = [
-        'format' => "%recipient\n%organization\n%addressLine1\n%addressLine2\n%locality %postalCode",
-        'postal_code_type' => 'postal',
-        'postal_code_pattern' => 'VC\d{4}',
-    ];
     // Switch %organization and %recipient.
     // https://github.com/googlei18n/libaddressinput/issues/83
     $formatCustomizations['DE'] = [

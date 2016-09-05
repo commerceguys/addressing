@@ -13,7 +13,7 @@
 		"administrativeArea"
 	],
 	"administrative_area_type": "state",
-	"locality_type": "city",
+	"locality_type": "suburb",
 	"postal_code_type": "postal",
 	"postal_code_pattern": "\\d{4}"
 }

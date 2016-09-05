@@ -15,6 +15,7 @@ final class DependentLocalityType extends AbstractEnum
     const NEIGHBORHOOD = 'neighborhood';
     const VILLAGE_TOWNSHIP = 'village_township';
     const SUBURB = 'suburb';
+    const TOWNLAND = 'townland';
 
     /**
      * Gets the default value.

@@ -1,6 +1,6 @@
 {
 	"locale": "tyv",
-	"format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%sortingCode\n%locality\n%administrativeArea",
+	"format": "%recipient\n%organization\n%addressLine1\n%addressLine2\n%locality\n%administrativeArea",
 	"required_fields": [
 		"recipient",
 		"addressLine1",
