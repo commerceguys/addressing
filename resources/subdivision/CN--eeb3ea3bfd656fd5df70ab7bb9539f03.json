@@ -1,0 +1,23 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Guangxi Zhuangzuzizhiqu",
+		"Fangchenggang Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Dongxing Shi": {
+			"local_code": "东兴市"
+		},
+		"Fangcheng Qu": {
+			"local_code": "防城区"
+		},
+		"Gangkou Qu": {
+			"local_code": "港口区"
+		},
+		"Shangsi Xian": {
+			"local_code": "上思县"
+		}
+	}
+}

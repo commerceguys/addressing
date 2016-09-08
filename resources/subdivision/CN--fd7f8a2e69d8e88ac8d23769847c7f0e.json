@@ -1,0 +1,56 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Henan Sheng",
+		"Luoyang Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Chanhe Huizu Qu": {
+			"local_code": "瀍河回族区"
+		},
+		"Jili Qu": {
+			"local_code": "吉利区"
+		},
+		"Jianxi Qu": {
+			"local_code": "涧西区"
+		},
+		"Laocheng Qu": {
+			"local_code": "老城区"
+		},
+		"Luanchuan Xian": {
+			"local_code": "栾川县"
+		},
+		"Luolong Qu": {
+			"local_code": "洛龙区"
+		},
+		"Luoning Xian": {
+			"local_code": "洛宁县"
+		},
+		"Mengjin Xian": {
+			"local_code": "孟津县"
+		},
+		"Ruyang Xian": {
+			"local_code": "汝阳县"
+		},
+		"Song Xian": {
+			"local_code": "嵩县"
+		},
+		"Xigong Qu": {
+			"local_code": "西工区"
+		},
+		"Xin'an Xian": {
+			"local_code": "新安县"
+		},
+		"Yanshi Shi": {
+			"local_code": "偃师市"
+		},
+		"Yichuan Xian": {
+			"local_code": "伊川县"
+		},
+		"Yiyang Xian": {
+			"local_code": "宜阳县"
+		}
+	}
+}

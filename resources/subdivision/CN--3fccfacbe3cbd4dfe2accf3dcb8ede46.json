@@ -1,0 +1,39 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Xinjiang Weiwuerzizhiqu",
+		"Bayingolin Zhou"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Bohu Xian": {
+			"local_code": "博湖县"
+		},
+		"Hejing Xian": {
+			"local_code": "和静县"
+		},
+		"Hoxud Xian": {
+			"local_code": "和硕县"
+		},
+		"Korla Shi": {
+			"local_code": "库尔勒市"
+		},
+		"Luntai Xian": {
+			"local_code": "轮台县"
+		},
+		"Qiemo Xian": {
+			"local_code": "且末县"
+		},
+		"Ruoqiang Xian": {
+			"local_code": "若羌县"
+		},
+		"Yuli Xian": {
+			"local_code": "尉犁县"
+		},
+		"Yanqi Xian": {
+			"local_code": "焉耆回族自治县",
+			"local_name": "焉耆县"
+		}
+	}
+}

@@ -1,0 +1,47 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Shandong Sheng",
+		"Weifang shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Anqiu Shi": {
+			"local_code": "安丘市"
+		},
+		"Changle Xian": {
+			"local_code": "昌乐县"
+		},
+		"Changyi Shi": {
+			"local_code": "昌邑市"
+		},
+		"Fangzi Qu": {
+			"local_code": "坊子区"
+		},
+		"Gaomi Shi": {
+			"local_code": "高密市"
+		},
+		"Hanting Qu": {
+			"local_code": "寒亭区"
+		},
+		"Kuiwen Qu": {
+			"local_code": "奎文区"
+		},
+		"Linqu Xian": {
+			"local_code": "临朐县"
+		},
+		"Qingzhou Shi": {
+			"local_code": "青州市"
+		},
+		"Shouguang Shi": {
+			"local_code": "寿光市"
+		},
+		"Weicheng Qu": {
+			"local_code": "潍城区"
+		},
+		"Zhucheng Shi": {
+			"local_code": "诸城市"
+		}
+	}
+}

@@ -1,117 +1,61 @@
 {
 	"country_code": "AM",
-	"parent_id": null,
-	"locale": "hy-Latn",
+	"locale": "hy",
 	"subdivisions": {
-		"AM-AG": {
-			"code": "Արագածոտն",
-			"name": "Aragatsotn",
-			"postal_code_pattern": "0[2-5]",
-			"translations": {
-				"hy": {
-					"name": "Արագածոտն"
-				}
-			}
+		"Aragatsotn": {
+			"local_code": "Արագածոտն",
+			"iso_code": "AM-AG",
+			"postal_code_pattern": "0[2-5]"
 		},
-		"AM-AR": {
-			"code": "Արարատ",
-			"name": "Ararat",
-			"postal_code_pattern": "0[6-8]",
-			"translations": {
-				"hy": {
-					"name": "Արարատ"
-				}
-			}
+		"Ararat": {
+			"local_code": "Արարատ",
+			"iso_code": "AM-AR",
+			"postal_code_pattern": "0[6-8]"
 		},
-		"AM-AV": {
-			"code": "Արմավիր",
-			"name": "Armavir",
-			"postal_code_pattern": "09|1[01]",
-			"translations": {
-				"hy": {
-					"name": "Արմավիր"
-				}
-			}
+		"Armavir": {
+			"local_code": "Արմավիր",
+			"iso_code": "AM-AV",
+			"postal_code_pattern": "09|1[01]"
 		},
-		"AM-GR": {
-			"code": "Գեղարքունիք",
-			"name": "Gegharkunik",
-			"postal_code_pattern": "1[2-6]",
-			"translations": {
-				"hy": {
-					"name": "Գեղարքունիք"
-				}
-			}
+		"Gegharkunik": {
+			"local_code": "Գեղարքունիք",
+			"iso_code": "AM-GR",
+			"postal_code_pattern": "1[2-6]"
 		},
-		"AM-ER": {
-			"code": "Երևան",
-			"name": "Yerevan",
-			"postal_code_pattern": "00",
-			"translations": {
-				"hy": {
-					"name": "Երևան"
-				}
-			}
+		"Yerevan": {
+			"local_code": "Երևան",
+			"iso_code": "AM-ER",
+			"postal_code_pattern": "00"
 		},
-		"AM-LO": {
-			"code": "Լոռի",
-			"name": "Lori",
-			"postal_code_pattern": "1[7-9]|2[01]",
-			"translations": {
-				"hy": {
-					"name": "Լոռի"
-				}
-			}
+		"Lori": {
+			"local_code": "Լոռի",
+			"iso_code": "AM-LO",
+			"postal_code_pattern": "1[7-9]|2[01]"
 		},
-		"AM-KT": {
-			"code": "Կոտայք",
-			"name": "Kotayk",
-			"postal_code_pattern": "2[2-5]",
-			"translations": {
-				"hy": {
-					"name": "Կոտայք"
-				}
-			}
+		"Kotayk": {
+			"local_code": "Կոտայք",
+			"iso_code": "AM-KT",
+			"postal_code_pattern": "2[2-5]"
 		},
-		"AM-SH": {
-			"code": "Շիրակ",
-			"name": "Shirak",
-			"postal_code_pattern": "2[6-9]|3[01]",
-			"translations": {
-				"hy": {
-					"name": "Շիրակ"
-				}
-			}
+		"Shirak": {
+			"local_code": "Շիրակ",
+			"iso_code": "AM-SH",
+			"postal_code_pattern": "2[6-9]|3[01]"
 		},
-		"AM-SU": {
-			"code": "Սյունիք",
-			"name": "Syunik",
-			"postal_code_pattern": "3[2-5]",
-			"translations": {
-				"hy": {
-					"name": "Սյունիք"
-				}
-			}
+		"Syunik": {
+			"local_code": "Սյունիք",
+			"iso_code": "AM-SU",
+			"postal_code_pattern": "3[2-5]"
 		},
-		"AM-VD": {
-			"code": "Վայոց ձոր",
-			"name": "Vayots Dzor",
-			"postal_code_pattern": "3[6-8]",
-			"translations": {
-				"hy": {
-					"name": "Վայոց ձոր"
-				}
-			}
+		"Vayots Dzor": {
+			"local_code": "Վայոց ձոր",
+			"iso_code": "AM-VD",
+			"postal_code_pattern": "3[6-8]"
 		},
-		"AM-TV": {
-			"code": "Տավուշ",
-			"name": "Tavush",
-			"postal_code_pattern": "39|4[0-2]",
-			"translations": {
-				"hy": {
-					"name": "Տավուշ"
-				}
-			}
+		"Tavush": {
+			"local_code": "Տավուշ",
+			"iso_code": "AM-TV",
+			"postal_code_pattern": "39|4[0-2]"
 		}
 	}
 }

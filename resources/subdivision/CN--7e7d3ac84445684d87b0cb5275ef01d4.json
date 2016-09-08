@@ -1,0 +1,26 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Hunan Sheng",
+		"Loudi Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Lengshuijiang Shi": {
+			"local_code": "冷水江市"
+		},
+		"Lianyuan Shi": {
+			"local_code": "涟源市"
+		},
+		"Louxing Qu": {
+			"local_code": "娄星区"
+		},
+		"Shuangfeng Xian": {
+			"local_code": "双峰县"
+		},
+		"Xinhua Xian": {
+			"local_code": "新化县"
+		}
+	}
+}

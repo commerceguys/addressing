@@ -1,0 +1,23 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Guizhou Sheng",
+		"Liupanshui Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Liuzhi Tequ": {
+			"local_code": "六枝特区"
+		},
+		"Pan Xian": {
+			"local_code": "盘县"
+		},
+		"Shuicheng Xian": {
+			"local_code": "水城县"
+		},
+		"Zhongshan Qu": {
+			"local_code": "钟山区"
+		}
+	}
+}

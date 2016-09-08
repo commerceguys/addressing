@@ -1,0 +1,28 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Yunnan Sheng",
+		"Lijiang Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Gucheng Qu": {
+			"local_code": "古城区"
+		},
+		"Huaping Xian": {
+			"local_code": "华坪县"
+		},
+		"Ninglang Xian": {
+			"local_code": "宁蒗彝族自治县",
+			"local_name": "宁蒗县"
+		},
+		"Yongsheng Xian": {
+			"local_code": "永胜县"
+		},
+		"Yulong Xian": {
+			"local_code": "玉龙纳西族自治县",
+			"local_name": "玉龙县"
+		}
+	}
+}

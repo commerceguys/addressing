@@ -1,0 +1,26 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Sichuan Sheng",
+		"Guang'an Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Guang'an Qu": {
+			"local_code": "广安区"
+		},
+		"Huaying Shi": {
+			"local_code": "华蓥市"
+		},
+		"Linshui Xian": {
+			"local_code": "邻水县"
+		},
+		"Wusheng Xian": {
+			"local_code": "武胜县"
+		},
+		"Yuechi Xian": {
+			"local_code": "岳池县"
+		}
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"country_code": "KR",
+	"parents": [
+		"KR",
+		"Gyeonggi-do",
+		"Anyang-si"
+	],
+	"locale": "ko",
+	"subdivisions": {
+		"Dongan-gu": {
+			"local_code": "동안구",
+			"postal_code_pattern": "1(?:39|4[01])|431"
+		},
+		"Manan-gu": {
+			"local_code": "만안구",
+			"postal_code_pattern": "1(?:39|40)|430"
+		}
+	}
+}

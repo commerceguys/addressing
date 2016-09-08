@@ -19,7 +19,7 @@ class LazySubdivisionCollectionTest extends \PHPUnit_Framework_TestCase
      */
     public function setUp()
     {
-        $this->collection = new LazySubdivisionCollection('BR', 'BR-AC-6e6b33', 'pt');
+        $this->collection = new LazySubdivisionCollection(['BR', 'Porto Acre']);
     }
 
     /**
@@ -27,10 +27,8 @@ class LazySubdivisionCollectionTest extends \PHPUnit_Framework_TestCase
      */
     public function testConstructor()
     {
-        $collection = new LazySubdivisionCollection('BR', 'BR-AC-6e6b33', 'pt');
-        $this->assertEquals('BR', $this->getObjectAttribute($collection, 'countryCode'));
-        $this->assertEquals('BR-AC-6e6b33', $this->getObjectAttribute($collection, 'parentId'));
-        $this->assertEquals('pt', $this->getObjectAttribute($collection, 'locale'));
+        $collection = new LazySubdivisionCollection(['BR', 'Porto Acre']);
+        $this->assertEquals(['BR', 'Porto Acre'], $this->getObjectAttribute($collection, 'parents'));
     }
 
     /**
@@ -49,7 +47,7 @@ class LazySubdivisionCollectionTest extends \PHPUnit_Framework_TestCase
         $subdivisionRepository
             ->expects($this->any())
             ->method('getAll')
-            ->with('BR', 'BR-AC-6e6b33', 'pt')
+            ->with(['BR', 'Porto Acre'])
             ->will($this->returnValue([$subdivision]));
         $this->collection->setRepository($subdivisionRepository);
 

@@ -1,0 +1,47 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Shandong Sheng",
+		"Yantai Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Fushan Qu": {
+			"local_code": "福山区"
+		},
+		"Haiyang Shi": {
+			"local_code": "海阳市"
+		},
+		"Laishan Qu": {
+			"local_code": "莱山区"
+		},
+		"Laiyang Shi": {
+			"local_code": "莱阳市"
+		},
+		"Laizhou Shi": {
+			"local_code": "莱州市"
+		},
+		"Longkou Shi": {
+			"local_code": "龙口市"
+		},
+		"Muping Qu": {
+			"local_code": "牟平区"
+		},
+		"Penglai Shi": {
+			"local_code": "蓬莱市"
+		},
+		"Qixia Shi": {
+			"local_code": "栖霞市"
+		},
+		"Changdao Xian": {
+			"local_code": "长岛县"
+		},
+		"Zhaoyuan Shi": {
+			"local_code": "招远市"
+		},
+		"Zhifu Qu": {
+			"local_code": "芝罘区"
+		}
+	}
+}

@@ -1,0 +1,34 @@
+{
+	"country_code": "TW",
+	"parents": [
+		"TW",
+		"Kinmen County"
+	],
+	"locale": "zh-Hant",
+	"subdivisions": {
+		"Jinsha Township": {
+			"local_code": "金沙鎮",
+			"postal_code_pattern": "890"
+		},
+		"Jincheng Township": {
+			"local_code": "金城鎮",
+			"postal_code_pattern": "893"
+		},
+		"Jinhu Township": {
+			"local_code": "金湖鎮",
+			"postal_code_pattern": "891"
+		},
+		"Jinning Township": {
+			"local_code": "金寧鄉",
+			"postal_code_pattern": "892"
+		},
+		"Lieyu Township": {
+			"local_code": "烈嶼鄉",
+			"postal_code_pattern": "894"
+		},
+		"Wuqiu Township": {
+			"local_code": "烏坵鄉",
+			"postal_code_pattern": "896"
+		}
+	}
+}

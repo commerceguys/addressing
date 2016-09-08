@@ -1,0 +1,159 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Taiwan",
+		"Tainan City"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Anding District": {
+			"local_code": "安定區",
+			"postal_code_pattern": "745"
+		},
+		"Annan District": {
+			"local_code": "安南區",
+			"postal_code_pattern": "709"
+		},
+		"Anping District": {
+			"local_code": "安平區",
+			"postal_code_pattern": "708"
+		},
+		"Baihe District": {
+			"local_code": "白河區",
+			"postal_code_pattern": "732"
+		},
+		"Beimen District": {
+			"local_code": "北門區",
+			"postal_code_pattern": "727"
+		},
+		"North District": {
+			"local_code": "北區",
+			"postal_code_pattern": "704"
+		},
+		"Danei District": {
+			"local_code": "大內區",
+			"postal_code_pattern": "742"
+		},
+		"East District": {
+			"local_code": "東區",
+			"postal_code_pattern": "701"
+		},
+		"Dongshan District": {
+			"local_code": "東山區",
+			"postal_code_pattern": "733"
+		},
+		"Guantian District": {
+			"local_code": "官田區",
+			"postal_code_pattern": "720"
+		},
+		"Guanmiao District": {
+			"local_code": "關廟區",
+			"postal_code_pattern": "718"
+		},
+		"Guiren District": {
+			"local_code": "歸仁區",
+			"postal_code_pattern": "711"
+		},
+		"Houbi District": {
+			"local_code": "後壁區",
+			"postal_code_pattern": "731"
+		},
+		"Jiali District": {
+			"local_code": "佳里區",
+			"postal_code_pattern": "722"
+		},
+		"Jiangjun District": {
+			"local_code": "將軍區",
+			"postal_code_pattern": "725"
+		},
+		"Liuying District": {
+			"local_code": "柳營區",
+			"postal_code_pattern": "736"
+		},
+		"Liujia District": {
+			"local_code": "六甲區",
+			"postal_code_pattern": "734"
+		},
+		"Longqi District": {
+			"local_code": "龍崎區",
+			"postal_code_pattern": "719"
+		},
+		"Madou District": {
+			"local_code": "麻豆區",
+			"postal_code_pattern": "721"
+		},
+		"Nanhua District": {
+			"local_code": "南化區",
+			"postal_code_pattern": "716"
+		},
+		"South District": {
+			"local_code": "南區",
+			"postal_code_pattern": "702"
+		},
+		"Nanxi District": {
+			"local_code": "楠西區",
+			"postal_code_pattern": "715"
+		},
+		"Qigu District": {
+			"local_code": "七股區",
+			"postal_code_pattern": "724"
+		},
+		"Rende District": {
+			"local_code": "仁德區",
+			"postal_code_pattern": "717"
+		},
+		"Shanshang District": {
+			"local_code": "山上區",
+			"postal_code_pattern": "743"
+		},
+		"Shanhua District": {
+			"local_code": "善化區",
+			"postal_code_pattern": "741"
+		},
+		"Xigang District": {
+			"local_code": "西港區",
+			"postal_code_pattern": "723"
+		},
+		"Xiaying District": {
+			"local_code": "下營區",
+			"postal_code_pattern": "735"
+		},
+		"Xinhua District": {
+			"local_code": "新化區",
+			"postal_code_pattern": "712"
+		},
+		"Xinshi District": {
+			"local_code": "新市區",
+			"postal_code_pattern": "744"
+		},
+		"Xinying District": {
+			"local_code": "新營區",
+			"postal_code_pattern": "730"
+		},
+		"Xuejia District": {
+			"local_code": "學甲區",
+			"postal_code_pattern": "726"
+		},
+		"Yanshui District": {
+			"local_code": "鹽水區",
+			"postal_code_pattern": "737"
+		},
+		"Yongkang District": {
+			"local_code": "永康區",
+			"postal_code_pattern": "710"
+		},
+		"Yujing District": {
+			"local_code": "玉井區",
+			"postal_code_pattern": "714"
+		},
+		"West Central District": {
+			"local_code": "中西區",
+			"postal_code_pattern": "700"
+		},
+		"Zuozhen District": {
+			"local_code": "左鎮區",
+			"postal_code_pattern": "713"
+		}
+	}
+}

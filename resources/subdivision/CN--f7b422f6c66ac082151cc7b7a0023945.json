@@ -1,0 +1,38 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Henan Sheng",
+		"Shangqiu Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Liangyuan Qu": {
+			"local_code": "梁园区"
+		},
+		"Minquan Xian": {
+			"local_code": "民权县"
+		},
+		"Ningling Xian": {
+			"local_code": "宁陵县"
+		},
+		"Sui Xian": {
+			"local_code": "睢县"
+		},
+		"Suiyang Qu": {
+			"local_code": "睢阳区"
+		},
+		"Xiayi Xian": {
+			"local_code": "夏邑县"
+		},
+		"Yongcheng Shi": {
+			"local_code": "永城市"
+		},
+		"Yucheng Xian": {
+			"local_code": "虞城县"
+		},
+		"Zhecheng Xian": {
+			"local_code": "柘城县"
+		}
+	}
+}

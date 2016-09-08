@@ -1,0 +1,26 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Guangdong Sheng",
+		"Jieyang Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Huilai Xian": {
+			"local_code": "惠来县"
+		},
+		"Jiedong Xian": {
+			"local_code": "揭东县"
+		},
+		"Jiexi Xian": {
+			"local_code": "揭西县"
+		},
+		"Puning Shi": {
+			"local_code": "普宁市"
+		},
+		"Rongcheng Qu": {
+			"local_code": "榕城区"
+		}
+	}
+}

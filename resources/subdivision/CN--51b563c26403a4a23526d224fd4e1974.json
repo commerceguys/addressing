@@ -1,0 +1,68 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Hebei Sheng",
+		"Xingtai Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Baixiang Xian": {
+			"local_code": "柏乡县"
+		},
+		"Guangzong Xian": {
+			"local_code": "广宗县"
+		},
+		"Julu Xian": {
+			"local_code": "巨鹿县"
+		},
+		"Lincheng Xian": {
+			"local_code": "临城县"
+		},
+		"Linxi Xian": {
+			"local_code": "临西县"
+		},
+		"Longyao Xian": {
+			"local_code": "隆尧县"
+		},
+		"Nangong Shi": {
+			"local_code": "南宫市"
+		},
+		"Nanhe Xian": {
+			"local_code": "南和县"
+		},
+		"Neiqiu Xian": {
+			"local_code": "内丘县"
+		},
+		"Ningjin Xian": {
+			"local_code": "宁晋县"
+		},
+		"Pingxiang Xian": {
+			"local_code": "平乡县"
+		},
+		"Qiaodong Qu": {
+			"local_code": "桥东区"
+		},
+		"Qiaoxi Qu": {
+			"local_code": "桥西区"
+		},
+		"Qinghe Xian": {
+			"local_code": "清河县"
+		},
+		"Ren Xian": {
+			"local_code": "任县"
+		},
+		"Shahe Shi": {
+			"local_code": "沙河市"
+		},
+		"Wei Xian": {
+			"local_code": "威县"
+		},
+		"Xinhe Xian": {
+			"local_code": "新河县"
+		},
+		"Xingtai Xian": {
+			"local_code": "邢台县"
+		}
+	}
+}

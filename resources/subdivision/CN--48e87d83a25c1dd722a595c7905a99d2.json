@@ -1,0 +1,20 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Yunnan Sheng",
+		"Xishuangbanna Zhou"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Jinghong Shi": {
+			"local_code": "景洪市"
+		},
+		"Menghai Xian": {
+			"local_code": "勐海县"
+		},
+		"Mengla Xian": {
+			"local_code": "勐腊县"
+		}
+	}
+}

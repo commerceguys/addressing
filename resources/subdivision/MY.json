@@ -1,70 +1,68 @@
 {
 	"country_code": "MY",
-	"parent_id": null,
-	"locale": "ms",
 	"subdivisions": {
-		"MY-01": {
-			"name": "Johor",
+		"Johor": {
+			"iso_code": "MY-01",
 			"postal_code_pattern": "79|8[0-6]"
 		},
-		"MY-02": {
-			"name": "Kedah",
+		"Kedah": {
+			"iso_code": "MY-02",
 			"postal_code_pattern": "0[5-9]|34950"
 		},
-		"MY-03": {
-			"name": "Kelantan",
+		"Kelantan": {
+			"iso_code": "MY-03",
 			"postal_code_pattern": "1[5-9]"
 		},
-		"MY-14": {
-			"name": "Kuala Lumpur",
+		"Kuala Lumpur": {
+			"iso_code": "MY-14",
 			"postal_code_pattern": "5|60"
 		},
-		"MY-15": {
-			"name": "Labuan",
+		"Labuan": {
+			"iso_code": "MY-15",
 			"postal_code_pattern": "87"
 		},
-		"MY-04": {
-			"name": "Melaka",
+		"Melaka": {
+			"iso_code": "MY-04",
 			"postal_code_pattern": "7[5-8]"
 		},
-		"MY-05": {
-			"name": "Negeri Sembilan",
+		"Negeri Sembilan": {
+			"iso_code": "MY-05",
 			"postal_code_pattern": "7[0-4]"
 		},
-		"MY-06": {
-			"name": "Pahang",
+		"Pahang": {
+			"iso_code": "MY-06",
 			"postal_code_pattern": "2[5-8]|[346]9"
 		},
-		"MY-08": {
-			"name": "Perak",
+		"Perak": {
+			"iso_code": "MY-08",
 			"postal_code_pattern": "3[0-6]|39000"
 		},
-		"MY-09": {
-			"name": "Perlis",
+		"Perlis": {
+			"iso_code": "MY-09",
 			"postal_code_pattern": "0[12]"
 		},
-		"MY-07": {
-			"name": "Pulau Pinang",
+		"Pulau Pinang": {
+			"iso_code": "MY-07",
 			"postal_code_pattern": "1[0-4]"
 		},
-		"MY-16": {
-			"name": "Putrajaya",
+		"Putrajaya": {
+			"iso_code": "MY-16",
 			"postal_code_pattern": "62"
 		},
-		"MY-12": {
-			"name": "Sabah",
+		"Sabah": {
+			"iso_code": "MY-12",
 			"postal_code_pattern": "8[89]|9[01]"
 		},
-		"MY-13": {
-			"name": "Sarawak",
+		"Sarawak": {
+			"iso_code": "MY-13",
 			"postal_code_pattern": "9[3-8]"
 		},
-		"MY-10": {
-			"name": "Selangor",
+		"Selangor": {
+			"iso_code": "MY-10",
 			"postal_code_pattern": "4[0-8]|6[3-8]"
 		},
-		"MY-11": {
-			"name": "Terengganu",
+		"Terengganu": {
+			"iso_code": "MY-11",
 			"postal_code_pattern": "2[0-4]"
 		}
 	}

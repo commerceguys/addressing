@@ -1,0 +1,29 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Henan Sheng",
+		"Puyang Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Fan Xian": {
+			"local_code": "范县"
+		},
+		"Hualong Qu": {
+			"local_code": "华龙区"
+		},
+		"Nanle Xian": {
+			"local_code": "南乐县"
+		},
+		"Puyang Xian": {
+			"local_code": "濮阳县"
+		},
+		"Qingfeng Xian": {
+			"local_code": "清丰县"
+		},
+		"Taiqian Xian": {
+			"local_code": "台前县"
+		}
+	}
+}

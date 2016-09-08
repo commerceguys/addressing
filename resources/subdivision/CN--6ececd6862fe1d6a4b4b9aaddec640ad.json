@@ -1,0 +1,24 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Guangxi Zhuangzuzizhiqu",
+		"Hezhou Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Babu Qu": {
+			"local_code": "八步区"
+		},
+		"Fuchuan Xian": {
+			"local_code": "富川瑶族自治县",
+			"local_name": "富川县"
+		},
+		"Zhaoping Xian": {
+			"local_code": "昭平县"
+		},
+		"Zhongshan Xian": {
+			"local_code": "钟山县"
+		}
+	}
+}

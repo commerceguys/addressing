@@ -1,0 +1,47 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Fujian Sheng",
+		"Sanming Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Datian Xian": {
+			"local_code": "大田县"
+		},
+		"Jianning Xian": {
+			"local_code": "建宁县"
+		},
+		"Jiangle Xian": {
+			"local_code": "将乐县"
+		},
+		"Meilie Qu": {
+			"local_code": "梅列区"
+		},
+		"Mingxi Xian": {
+			"local_code": "明溪县"
+		},
+		"Ninghua Xian": {
+			"local_code": "宁化县"
+		},
+		"Qingliu Xian": {
+			"local_code": "清流县"
+		},
+		"Sanyuan Qu": {
+			"local_code": "三元区"
+		},
+		"Sha Xian": {
+			"local_code": "沙县"
+		},
+		"Taining Xian": {
+			"local_code": "泰宁县"
+		},
+		"Yong'an Shi": {
+			"local_code": "永安市"
+		},
+		"Youxi Xian": {
+			"local_code": "尤溪县"
+		}
+	}
+}

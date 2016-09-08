@@ -1,0 +1,20 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Ningxia Huizuzizhiqu",
+		"Shizuishan Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Dawukou Qu": {
+			"local_code": "大武口区"
+		},
+		"Huinong Qu": {
+			"local_code": "惠农区"
+		},
+		"Pingluo Xian": {
+			"local_code": "平罗县"
+		}
+	}
+}

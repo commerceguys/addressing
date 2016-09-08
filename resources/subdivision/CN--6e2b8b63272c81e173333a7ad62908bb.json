@@ -1,0 +1,33 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Gansu Sheng",
+		"Tianshui Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Gangu Xian": {
+			"local_code": "甘谷县"
+		},
+		"Maiji Qu": {
+			"local_code": "麦积区"
+		},
+		"Qin'an Xian": {
+			"local_code": "秦安县"
+		},
+		"Qinzhou Qu": {
+			"local_code": "秦州区"
+		},
+		"Qingshui Xian": {
+			"local_code": "清水县"
+		},
+		"Wushan Xian": {
+			"local_code": "武山县"
+		},
+		"Zhangjiachuan Xian": {
+			"local_code": "张家川回族自治县",
+			"local_name": "张家川县"
+		}
+	}
+}

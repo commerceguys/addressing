@@ -1,0 +1,63 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Taiwan",
+		"Hsinchu County"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Baoshan Township": {
+			"local_code": "寶山鄉",
+			"postal_code_pattern": "308"
+		},
+		"Beipu Township": {
+			"local_code": "北埔鄉",
+			"postal_code_pattern": "314"
+		},
+		"Emei Township": {
+			"local_code": "峨眉鄉",
+			"postal_code_pattern": "315"
+		},
+		"Guanxi Township": {
+			"local_code": "關西鎮",
+			"postal_code_pattern": "306"
+		},
+		"Hengshan Township": {
+			"local_code": "橫山鄉",
+			"postal_code_pattern": "312"
+		},
+		"Hukou Township": {
+			"local_code": "湖口鄉",
+			"postal_code_pattern": "303"
+		},
+		"Jianshi Township": {
+			"local_code": "尖石鄉",
+			"postal_code_pattern": "313"
+		},
+		"Qionglin Township": {
+			"local_code": "芎林鄉",
+			"postal_code_pattern": "307"
+		},
+		"Wufeng Township": {
+			"local_code": "五峰鄉",
+			"postal_code_pattern": "311"
+		},
+		"Xinpu Township": {
+			"local_code": "新埔鎮",
+			"postal_code_pattern": "305"
+		},
+		"Xinfeng Township": {
+			"local_code": "新豐鄉",
+			"postal_code_pattern": "304"
+		},
+		"Zhubei City": {
+			"local_code": "竹北市",
+			"postal_code_pattern": "302"
+		},
+		"Zhudong Township": {
+			"local_code": "竹東鎮",
+			"postal_code_pattern": "310"
+		}
+	}
+}

@@ -55,6 +55,7 @@ The [subdivision](https://github.com/commerceguys/addressing/blob/master/src/Mod
 
 - The subdivision code (used to represent the subdivison on a parcel/envelope, e.g. CA for California)
 - The subdivison name (shown to the user in a dropdown)
+- The local code and name, if the country uses a non-latin script (e.g. Cyrilic in Russia).
 - The postal code prefix (used to ensure that a postal code begins with the expected characters)
 
 Subdivisions are hierarchical and can have up to three levels:
@@ -71,13 +72,13 @@ $subdivisionRepository = new SubdivisionRepository();
 $addressFormat = $addressFormatRepository->get('BR');
 
 // Get the subdivisions for Brazil.
-$states = $subdivisionRepository->getAll('BR');
+$states = $subdivisionRepository->getAll(['BR']);
 foreach ($states as $state) {
     $municipalities = $state->getChildren();
 }
 
-// Get the subdivisions for Canada, in French.
-$states = $subdivisionRepository->getAll('CA', 0, 'fr');
+// Get the subdivisions for Brazilian state Ceará.
+$municipalities = $subdivisionRepository->getAll(['BR', CA']);
 foreach ($states as $state) {
     echo $state->getName();
 }
@@ -108,7 +109,7 @@ $formatter = new DefaultFormatter($addressFormatRepository, $countryRepository, 
 $address = new Address();
 $address = $address
     ->withCountryCode('US')
-    ->withAdministrativeArea('US-CA')
+    ->withAdministrativeArea('CA')
     ->withLocality('Mountain View')
     ->withAddressLine1('1098 Alta Ave');
 
@@ -152,7 +153,7 @@ $formatter = new PostalLabelFormatter($addressFormatRepository, $countryReposito
 $address = new Address();
 $address = $address
     ->withCountryCode('US')
-    ->withAdministrativeArea('US-CA')
+    ->withAdministrativeArea('CA')
     ->withLocality('Mountain View')
     ->withAddressLine1('1098 Alta Ave');
 

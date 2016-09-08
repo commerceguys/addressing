@@ -1,0 +1,141 @@
+{
+	"country_code": "KR",
+	"parents": [
+		"KR",
+		"Gyeonggi-do"
+	],
+	"locale": "ko",
+	"subdivisions": {
+		"Gapyeong-gun": {
+			"local_code": "가평군",
+			"postal_code_pattern": "124|477"
+		},
+		"Goyang-si": {
+			"local_code": "고양시",
+			"postal_code_pattern": "10[2-5]|41[012]",
+			"has_children": true
+		},
+		"Gwacheon-si": {
+			"local_code": "과천시",
+			"postal_code_pattern": "138|427"
+		},
+		"Gwangmyeong-si": {
+			"local_code": "광명시",
+			"postal_code_pattern": "14[23]|423"
+		},
+		"Gwangju-si": {
+			"local_code": "광주시",
+			"postal_code_pattern": "12[78]|464"
+		},
+		"Guri-si": {
+			"local_code": "구리시",
+			"postal_code_pattern": "119|471"
+		},
+		"Gunpo-si": {
+			"local_code": "군포시",
+			"postal_code_pattern": "158|435"
+		},
+		"Gimpo-si": {
+			"local_code": "김포시",
+			"postal_code_pattern": "10[01]|415"
+		},
+		"Namyangju-si": {
+			"local_code": "남양주시",
+			"postal_code_pattern": "12[0-3]|4(?:7[12]|80)"
+		},
+		"Dongducheon-si": {
+			"local_code": "동두천시",
+			"postal_code_pattern": "113|48[236]"
+		},
+		"Bucheon-si": {
+			"local_code": "부천시",
+			"postal_code_pattern": "14[4-7]|42[012]",
+			"has_children": true
+		},
+		"Seongnam-si": {
+			"local_code": "성남시",
+			"postal_code_pattern": "13[1-6]|46[123]",
+			"has_children": true
+		},
+		"Suwon-si": {
+			"local_code": "수원시",
+			"postal_code_pattern": "16[2-7]|44[0123]",
+			"has_children": true
+		},
+		"Siheung-si": {
+			"local_code": "시흥시",
+			"postal_code_pattern": "1(?:49|5[01])|429"
+		},
+		"Ansan-si": {
+			"local_code": "안산시",
+			"postal_code_pattern": "15[2-6]|42[56]",
+			"has_children": true
+		},
+		"Anseong-si": {
+			"local_code": "안성시",
+			"postal_code_pattern": "17[56]|456"
+		},
+		"Anyang-si": {
+			"local_code": "안양시",
+			"postal_code_pattern": "1(?:39|4[01])|43[01]",
+			"has_children": true
+		},
+		"Yangju-si": {
+			"local_code": "양주시",
+			"postal_code_pattern": "11[45]|4(?:12|8[027])"
+		},
+		"Yangpyeong-gun": {
+			"local_code": "양평군",
+			"postal_code_pattern": "125|476"
+		},
+		"Yeoju-si": {
+			"local_code": "여주시",
+			"postal_code_pattern": "126|469"
+		},
+		"Yeoncheon-gun": {
+			"local_code": "연천군",
+			"postal_code_pattern": "110|48[0267]"
+		},
+		"Osan-si": {
+			"local_code": "오산시",
+			"postal_code_pattern": "181|447"
+		},
+		"Yongin-si": {
+			"local_code": "용인시",
+			"postal_code_pattern": "1(?:6[89]|7[01])|44[689]",
+			"has_children": true
+		},
+		"Uiwang-si": {
+			"local_code": "의왕시",
+			"postal_code_pattern": "16[01]|437"
+		},
+		"Uijeongbu-si": {
+			"local_code": "의정부시",
+			"postal_code_pattern": "11[6-8]|480"
+		},
+		"Icheon-si": {
+			"local_code": "이천시",
+			"postal_code_pattern": "17[34]|467"
+		},
+		"Paju-si": {
+			"local_code": "파주시",
+			"postal_code_pattern": "10[89]|4(?:1[023]|82)"
+		},
+		"Pyeongtaek-si": {
+			"local_code": "평택시",
+			"postal_code_pattern": "1(?:7[7-9]|80)|45[019]"
+		},
+		"Pocheon-si": {
+			"local_code": "포천시",
+			"postal_code_pattern": "111|48[0267]"
+		},
+		"Hanam-si": {
+			"local_code": "하남시",
+			"postal_code_pattern": "1(?:29|30)|465"
+		},
+		"Hwaseong-si": {
+			"local_code": "화성시",
+			"postal_code_pattern": "18[2-6]|445"
+		}
+	}
+}

@@ -1,0 +1,74 @@
+{
+	"country_code": "TW",
+	"parents": [
+		"TW",
+		"Taitung County"
+	],
+	"locale": "zh-Hant",
+	"subdivisions": {
+		"Dawu Township": {
+			"local_code": "大武鄉",
+			"postal_code_pattern": "965"
+		},
+		"Taimali Township": {
+			"local_code": "太麻里鄉",
+			"postal_code_pattern": "963"
+		},
+		"Taitung City": {
+			"local_code": "台東市",
+			"postal_code_pattern": "950"
+		},
+		"Chenggong Township": {
+			"local_code": "成功鎮",
+			"postal_code_pattern": "961"
+		},
+		"Chishang Township": {
+			"local_code": "池上鄉",
+			"postal_code_pattern": "958"
+		},
+		"Beinan Township": {
+			"local_code": "卑南鄉",
+			"postal_code_pattern": "954"
+		},
+		"Yanping Township": {
+			"local_code": "延平鄉",
+			"postal_code_pattern": "953"
+		},
+		"Donghe Township": {
+			"local_code": "東河鄉",
+			"postal_code_pattern": "959"
+		},
+		"Jinfeng Township": {
+			"local_code": "金峰鄉",
+			"postal_code_pattern": "964"
+		},
+		"Changbin Township": {
+			"local_code": "長濱鄉",
+			"postal_code_pattern": "962"
+		},
+		"Haiduan Township": {
+			"local_code": "海端鄉",
+			"postal_code_pattern": "957"
+		},
+		"Luye Township": {
+			"local_code": "鹿野鄉",
+			"postal_code_pattern": "955"
+		},
+		"Daren Township": {
+			"local_code": "達仁鄉",
+			"postal_code_pattern": "966"
+		},
+		"Lüdao Township": {
+			"local_code": "綠島鄉",
+			"postal_code_pattern": "951"
+		},
+		"Guanshan Township": {
+			"local_code": "關山鎮",
+			"postal_code_pattern": "956"
+		},
+		"Lanyu Township": {
+			"local_code": "蘭嶼鄉",
+			"postal_code_pattern": "952"
+		}
+	}
+}

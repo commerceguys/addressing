@@ -1,555 +1,443 @@
 {
 	"country_code": "IT",
-	"parent_id": null,
-	"locale": "it",
 	"subdivisions": {
-		"IT-AG": {
-			"code": "AG",
+		"AG": {
 			"name": "Agrigento",
 			"postal_code_pattern": "92"
 		},
-		"IT-AL": {
-			"code": "AL",
+		"AL": {
 			"name": "Alessandria",
 			"postal_code_pattern": "15"
 		},
-		"IT-AN": {
-			"code": "AN",
+		"AN": {
 			"name": "Ancona",
 			"postal_code_pattern": "60"
 		},
-		"IT-AO": {
-			"code": "AO",
+		"AO": {
 			"name": "Aosta",
 			"postal_code_pattern": "11"
 		},
-		"IT-AR": {
-			"code": "AR",
+		"AR": {
 			"name": "Arezzo",
 			"postal_code_pattern": "52"
 		},
-		"IT-AP": {
-			"code": "AP",
+		"AP": {
 			"name": "Ascoli Piceno",
 			"postal_code_pattern": "63"
 		},
-		"IT-AT": {
-			"code": "AT",
+		"AT": {
 			"name": "Asti",
 			"postal_code_pattern": "14"
 		},
-		"IT-AV": {
-			"code": "AV",
+		"AV": {
 			"name": "Avellino",
 			"postal_code_pattern": "83"
 		},
-		"IT-BA": {
-			"code": "BA",
+		"BA": {
 			"name": "Bari",
 			"postal_code_pattern": "70"
 		},
-		"IT-BT": {
-			"code": "BT",
+		"BT": {
 			"name": "Barletta-Andria-Trani",
 			"postal_code_pattern": "76[01]"
 		},
-		"IT-BL": {
-			"code": "BL",
+		"BL": {
 			"name": "Belluno",
 			"postal_code_pattern": "32"
 		},
-		"IT-BN": {
-			"code": "BN",
+		"BN": {
 			"name": "Benevento",
 			"postal_code_pattern": "82"
 		},
-		"IT-BG": {
-			"code": "BG",
+		"BG": {
 			"name": "Bergamo",
 			"postal_code_pattern": "24"
 		},
-		"IT-BI": {
-			"code": "BI",
+		"BI": {
 			"name": "Biella",
 			"postal_code_pattern": "13[89]"
 		},
-		"IT-BO": {
-			"code": "BO",
+		"BO": {
 			"name": "Bologna",
 			"postal_code_pattern": "40"
 		},
-		"IT-BZ": {
-			"code": "BZ",
+		"BZ": {
 			"name": "Bolzano",
 			"postal_code_pattern": "39"
 		},
-		"IT-BS": {
-			"code": "BS",
+		"BS": {
 			"name": "Brescia",
 			"postal_code_pattern": "25"
 		},
-		"IT-BR": {
-			"code": "BR",
+		"BR": {
 			"name": "Brindisi",
 			"postal_code_pattern": "72"
 		},
-		"IT-CA": {
-			"code": "CA",
+		"CA": {
 			"name": "Cagliari",
 			"postal_code_pattern": "0912[1-9]|0913[0-4]|0901[0289]|0902[03468]|0903[0234]|0904|0803[035]|08043"
 		},
-		"IT-CL": {
-			"code": "CL",
+		"CL": {
 			"name": "Caltanissetta",
 			"postal_code_pattern": "93"
 		},
-		"IT-CB": {
-			"code": "CB",
+		"CB": {
 			"name": "Campobasso",
 			"postal_code_pattern": "860[1-4]|86100"
 		},
-		"IT-CI": {
-			"code": "CI",
+		"CI": {
 			"name": "Carbonia-Iglesias",
 			"postal_code_pattern": "0901[013-7]"
 		},
-		"IT-CE": {
-			"code": "CE",
+		"CE": {
 			"name": "Caserta",
 			"postal_code_pattern": "81"
 		},
-		"IT-CT": {
-			"code": "CT",
+		"CT": {
 			"name": "Catania",
 			"postal_code_pattern": "95"
 		},
-		"IT-CZ": {
-			"code": "CZ",
+		"CZ": {
 			"name": "Catanzaro",
 			"postal_code_pattern": "88[01]"
 		},
-		"IT-CH": {
-			"code": "CH",
+		"CH": {
 			"name": "Chieti",
 			"postal_code_pattern": "66"
 		},
-		"IT-CO": {
-			"code": "CO",
+		"CO": {
 			"name": "Como",
 			"postal_code_pattern": "22"
 		},
-		"IT-CS": {
-			"code": "CS",
+		"CS": {
 			"name": "Cosenza",
 			"postal_code_pattern": "87"
 		},
-		"IT-CR": {
-			"code": "CR",
+		"CR": {
 			"name": "Cremona",
 			"postal_code_pattern": "26[01]"
 		},
-		"IT-KR": {
-			"code": "KR",
+		"KR": {
 			"name": "Crotone",
 			"postal_code_pattern": "88[89]"
 		},
-		"IT-CN": {
-			"code": "CN",
+		"CN": {
 			"name": "Cuneo",
 			"postal_code_pattern": "12|18025"
 		},
-		"IT-EN": {
-			"code": "EN",
+		"EN": {
 			"name": "Enna",
 			"postal_code_pattern": "94"
 		},
-		"IT-FM": {
-			"code": "FM",
+		"FM": {
 			"name": "Fermo",
 			"postal_code_pattern": "638|63900"
 		},
-		"IT-FE": {
-			"code": "FE",
+		"FE": {
 			"name": "Ferrara",
 			"postal_code_pattern": "44"
 		},
-		"IT-FI": {
-			"code": "FI",
+		"FI": {
 			"name": "Firenze",
 			"postal_code_pattern": "50"
 		},
-		"IT-FG": {
-			"code": "FG",
+		"FG": {
 			"name": "Foggia",
 			"postal_code_pattern": "71"
 		},
-		"IT-FC": {
-			"code": "FC",
+		"FC": {
 			"name": "Forlì-Cesena",
 			"postal_code_pattern": "47[015]"
 		},
-		"IT-FR": {
-			"code": "FR",
+		"FR": {
 			"name": "Frosinone",
 			"postal_code_pattern": "03"
 		},
-		"IT-GE": {
-			"code": "GE",
+		"GE": {
 			"name": "Genova",
 			"postal_code_pattern": "16"
 		},
-		"IT-GO": {
-			"code": "GO",
+		"GO": {
 			"name": "Gorizia",
 			"postal_code_pattern": "34[01]7"
 		},
-		"IT-GR": {
-			"code": "GR",
+		"GR": {
 			"name": "Grosseto",
 			"postal_code_pattern": "58"
 		},
-		"IT-IM": {
-			"code": "IM",
+		"IM": {
 			"name": "Imperia",
 			"postal_code_pattern": "18"
 		},
-		"IT-IS": {
-			"code": "IS",
+		"IS": {
 			"name": "Isernia",
 			"postal_code_pattern": "860[7-9]|86170"
 		},
-		"IT-AQ": {
-			"code": "AQ",
+		"AQ": {
 			"name": "L'Aquila",
 			"postal_code_pattern": "67"
 		},
-		"IT-SP": {
-			"code": "SP",
+		"SP": {
 			"name": "La Spezia",
 			"postal_code_pattern": "19"
 		},
-		"IT-LT": {
-			"code": "LT",
+		"LT": {
 			"name": "Latina",
 			"postal_code_pattern": "04"
 		},
-		"IT-LE": {
-			"code": "LE",
+		"LE": {
 			"name": "Lecce",
 			"postal_code_pattern": "73"
 		},
-		"IT-LC": {
-			"code": "LC",
+		"LC": {
 			"name": "Lecco",
 			"postal_code_pattern": "23[89]"
 		},
-		"IT-LI": {
-			"code": "LI",
+		"LI": {
 			"name": "Livorno",
 			"postal_code_pattern": "57"
 		},
-		"IT-LO": {
-			"code": "LO",
+		"LO": {
 			"name": "Lodi",
 			"postal_code_pattern": "26[89]"
 		},
-		"IT-LU": {
-			"code": "LU",
+		"LU": {
 			"name": "Lucca",
 			"postal_code_pattern": "55"
 		},
-		"IT-MC": {
-			"code": "MC",
+		"MC": {
 			"name": "Macerata",
 			"postal_code_pattern": "62"
 		},
-		"IT-MN": {
-			"code": "MN",
+		"MN": {
 			"name": "Mantova",
 			"postal_code_pattern": "46"
 		},
-		"IT-MS": {
-			"code": "MS",
+		"MS": {
 			"name": "Massa-Carrara",
 			"postal_code_pattern": "54"
 		},
-		"IT-MT": {
-			"code": "MT",
+		"MT": {
 			"name": "Matera",
 			"postal_code_pattern": "75"
 		},
-		"IT-VS": {
-			"code": "VS",
+		"VS": {
 			"name": "Medio Campidano",
 			"postal_code_pattern": "0902[012579]|0903[015-9]|09040"
 		},
-		"IT-ME": {
-			"code": "ME",
+		"ME": {
 			"name": "Messina",
 			"postal_code_pattern": "98"
 		},
-		"IT-MI": {
-			"code": "MI",
+		"MI": {
 			"name": "Milano",
 			"postal_code_pattern": "20"
 		},
-		"IT-MO": {
-			"code": "MO",
+		"MO": {
 			"name": "Modena",
 			"postal_code_pattern": "41"
 		},
-		"IT-MB": {
-			"code": "MB",
+		"MB": {
 			"name": "Monza e Brianza",
 			"postal_code_pattern": "208|20900"
 		},
-		"IT-NA": {
-			"code": "NA",
+		"NA": {
 			"name": "Napoli",
 			"postal_code_pattern": "80"
 		},
-		"IT-NO": {
-			"code": "NO",
+		"NO": {
 			"name": "Novara",
 			"postal_code_pattern": "28[01]"
 		},
-		"IT-NU": {
-			"code": "NU",
+		"NU": {
 			"name": "Nuoro",
 			"postal_code_pattern": "080[1-3]|08100"
 		},
-		"IT-OG": {
-			"code": "OG",
+		"OG": {
 			"name": "Ogliastra",
 			"postal_code_pattern": "08037|0804[024-9]"
 		},
-		"IT-OT": {
-			"code": "OT",
+		"OT": {
 			"name": "Olbia-Tempio",
 			"postal_code_pattern": "08020|0702|0703[08]"
 		},
-		"IT-OR": {
-			"code": "OR",
+		"OR": {
 			"name": "Oristano",
 			"postal_code_pattern": "090[7-9]|09170|0801[039]|0803[04]"
 		},
-		"IT-PD": {
-			"code": "PD",
+		"PD": {
 			"name": "Padova",
 			"postal_code_pattern": "35"
 		},
-		"IT-PA": {
-			"code": "PA",
+		"PA": {
 			"name": "Palermo",
 			"postal_code_pattern": "90"
 		},
-		"IT-PR": {
-			"code": "PR",
+		"PR": {
 			"name": "Parma",
 			"postal_code_pattern": "43"
 		},
-		"IT-PV": {
-			"code": "PV",
+		"PV": {
 			"name": "Pavia",
 			"postal_code_pattern": "27"
 		},
-		"IT-PG": {
-			"code": "PG",
+		"PG": {
 			"name": "Perugia",
 			"postal_code_pattern": "06"
 		},
-		"IT-PU": {
-			"code": "PU",
+		"PU": {
 			"name": "Pesaro e Urbino",
 			"postal_code_pattern": "61"
 		},
-		"IT-PE": {
-			"code": "PE",
+		"PE": {
 			"name": "Pescara",
 			"postal_code_pattern": "65"
 		},
-		"IT-PC": {
-			"code": "PC",
+		"PC": {
 			"name": "Piacenza",
 			"postal_code_pattern": "29"
 		},
-		"IT-PI": {
-			"code": "PI",
+		"PI": {
 			"name": "Pisa",
 			"postal_code_pattern": "56"
 		},
-		"IT-PT": {
-			"code": "PT",
+		"PT": {
 			"name": "Pistoia",
 			"postal_code_pattern": "51"
 		},
-		"IT-PN": {
-			"code": "PN",
+		"PN": {
 			"name": "Pordenone",
 			"postal_code_pattern": "330[7-9]|33170"
 		},
-		"IT-PZ": {
-			"code": "PZ",
+		"PZ": {
 			"name": "Potenza",
 			"postal_code_pattern": "85"
 		},
-		"IT-PO": {
-			"code": "PO",
+		"PO": {
 			"name": "Prato",
 			"postal_code_pattern": "59"
 		},
-		"IT-RG": {
-			"code": "RG",
+		"RG": {
 			"name": "Ragusa",
 			"postal_code_pattern": "97"
 		},
-		"IT-RA": {
-			"code": "RA",
+		"RA": {
 			"name": "Ravenna",
 			"postal_code_pattern": "48"
 		},
-		"IT-RC": {
-			"code": "RC",
+		"RC": {
 			"name": "Reggio Calabria",
 			"postal_code_pattern": "89[01]"
 		},
-		"IT-RE": {
-			"code": "RE",
+		"RE": {
 			"name": "Reggio Emilia",
 			"postal_code_pattern": "42"
 		},
-		"IT-RI": {
-			"code": "RI",
+		"RI": {
 			"name": "Rieti",
 			"postal_code_pattern": "02"
 		},
-		"IT-RN": {
-			"code": "RN",
+		"RN": {
 			"name": "Rimini",
 			"postal_code_pattern": "47[89]"
 		},
-		"IT-RM": {
-			"code": "RM",
+		"RM": {
 			"name": "Roma",
 			"postal_code_pattern": "00"
 		},
-		"IT-RO": {
-			"code": "RO",
+		"RO": {
 			"name": "Rovigo",
 			"postal_code_pattern": "45"
 		},
-		"IT-SA": {
-			"code": "SA",
+		"SA": {
 			"name": "Salerno",
 			"postal_code_pattern": "84"
 		},
-		"IT-SS": {
-			"code": "SS",
+		"SS": {
 			"name": "Sassari",
 			"postal_code_pattern": "070[14]|0703[0-79]|07100"
 		},
-		"IT-SV": {
-			"code": "SV",
+		"SV": {
 			"name": "Savona",
 			"postal_code_pattern": "17|12071"
 		},
-		"IT-SI": {
-			"code": "SI",
+		"SI": {
 			"name": "Siena",
 			"postal_code_pattern": "53"
 		},
-		"IT-SR": {
-			"code": "SR",
+		"SR": {
 			"name": "Siracusa",
 			"postal_code_pattern": "96"
 		},
-		"IT-SO": {
-			"code": "SO",
+		"SO": {
 			"name": "Sondrio",
 			"postal_code_pattern": "23[01]"
 		},
-		"IT-TA": {
-			"code": "TA",
+		"TA": {
 			"name": "Taranto",
 			"postal_code_pattern": "74"
 		},
-		"IT-TE": {
-			"code": "TE",
+		"TE": {
 			"name": "Teramo",
 			"postal_code_pattern": "64"
 		},
-		"IT-TR": {
-			"code": "TR",
+		"TR": {
 			"name": "Terni",
 			"postal_code_pattern": "05"
 		},
-		"IT-TO": {
-			"code": "TO",
+		"TO": {
 			"name": "Torino",
 			"postal_code_pattern": "10"
 		},
-		"IT-TP": {
-			"code": "TP",
+		"TP": {
 			"name": "Trapani",
 			"postal_code_pattern": "91"
 		},
-		"IT-TN": {
-			"code": "TN",
+		"TN": {
 			"name": "Trento",
 			"postal_code_pattern": "38"
 		},
-		"IT-TV": {
-			"code": "TV",
+		"TV": {
 			"name": "Treviso",
 			"postal_code_pattern": "31"
 		},
-		"IT-TS": {
-			"code": "TS",
+		"TS": {
 			"name": "Trieste",
 			"postal_code_pattern": "3401|341[0-689]|34062"
 		},
-		"IT-UD": {
-			"code": "UD",
+		"UD": {
 			"name": "Udine",
 			"postal_code_pattern": "330[1-5]|33100"
 		},
-		"IT-VA": {
-			"code": "VA",
+		"VA": {
 			"name": "Varese",
 			"postal_code_pattern": "21"
 		},
-		"IT-VE": {
-			"code": "VE",
+		"VE": {
 			"name": "Venezia",
 			"postal_code_pattern": "30"
 		},
-		"IT-VB": {
-			"code": "VB",
+		"VB": {
 			"name": "Verbano-Cusio-Ossola",
 			"postal_code_pattern": "28[89]"
 		},
-		"IT-VC": {
-			"code": "VC",
+		"VC": {
 			"name": "Vercelli",
 			"postal_code_pattern": "13[01]"
 		},
-		"IT-VR": {
-			"code": "VR",
+		"VR": {
 			"name": "Verona",
 			"postal_code_pattern": "37"
 		},
-		"IT-VV": {
-			"code": "VV",
+		"VV": {
 			"name": "Vibo Valentia",
 			"postal_code_pattern": "89[89]"
 		},
-		"IT-VI": {
-			"code": "VI",
+		"VI": {
 			"name": "Vicenza",
 			"postal_code_pattern": "36"
 		},
-		"IT-VT": {
-			"code": "VT",
+		"VT": {
 			"name": "Viterbo",
 			"postal_code_pattern": "01"
 		}

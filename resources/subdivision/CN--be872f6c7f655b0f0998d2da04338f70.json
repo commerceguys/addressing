@@ -1,0 +1,39 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Sichuan Sheng",
+		"Mianyang Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"An Xian": {
+			"local_code": "安县"
+		},
+		"Beichuan Xian": {
+			"local_code": "北川羌族自治县",
+			"local_name": "北川县"
+		},
+		"Fucheng Qu": {
+			"local_code": "涪城区"
+		},
+		"Jiangyou Shi": {
+			"local_code": "江油市"
+		},
+		"Pingwu Xian": {
+			"local_code": "平武县"
+		},
+		"Santai Xian": {
+			"local_code": "三台县"
+		},
+		"Yanting Xian": {
+			"local_code": "盐亭县"
+		},
+		"Youxian Qu": {
+			"local_code": "游仙区"
+		},
+		"Zitong Xian": {
+			"local_code": "梓潼县"
+		}
+	}
+}

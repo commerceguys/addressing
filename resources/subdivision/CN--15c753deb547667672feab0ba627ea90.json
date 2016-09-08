@@ -1,0 +1,38 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Hubei Sheng",
+		"Xiangyang Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Baokang Xian": {
+			"local_code": "保康县"
+		},
+		"Fancheng Qu": {
+			"local_code": "樊城区"
+		},
+		"Gucheng Xian": {
+			"local_code": "谷城县"
+		},
+		"Laohekou Shi": {
+			"local_code": "老河口市"
+		},
+		"Nanzhang Xian": {
+			"local_code": "南漳县"
+		},
+		"Xiangcheng Qu": {
+			"local_code": "襄城区"
+		},
+		"Xiangzhou Qu": {
+			"local_code": "襄州区"
+		},
+		"Yicheng Shi": {
+			"local_code": "宜城市"
+		},
+		"Zaoyang Shi": {
+			"local_code": "枣阳市"
+		}
+	}
+}

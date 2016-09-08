@@ -1,0 +1,35 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Taiwan",
+		"Penghu County"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Baisha Township": {
+			"local_code": "白沙鄉",
+			"postal_code_pattern": "884"
+		},
+		"Huxi Township": {
+			"local_code": "湖西鄉",
+			"postal_code_pattern": "885"
+		},
+		"Magong City": {
+			"local_code": "馬公市",
+			"postal_code_pattern": "880"
+		},
+		"Qimei Township": {
+			"local_code": "七美鄉",
+			"postal_code_pattern": "883"
+		},
+		"Wang'an Township": {
+			"local_code": "望安鄉",
+			"postal_code_pattern": "882"
+		},
+		"Xiyu Township": {
+			"local_code": "西嶼鄉",
+			"postal_code_pattern": "881"
+		}
+	}
+}

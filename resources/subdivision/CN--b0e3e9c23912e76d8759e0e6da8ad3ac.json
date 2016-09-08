@@ -1,0 +1,26 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Qinghai Sheng",
+		"Hainan Zhou"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Gonghe Xian": {
+			"local_code": "共和县"
+		},
+		"Guide Xian": {
+			"local_code": "贵德县"
+		},
+		"Guinan Xian": {
+			"local_code": "贵南县"
+		},
+		"Tongde Xian": {
+			"local_code": "同德县"
+		},
+		"Xinghai Xian": {
+			"local_code": "兴海县"
+		}
+	}
+}

@@ -1,0 +1,67 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Hunan Sheng"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Changde Shi": {
+			"local_code": "常德市",
+			"has_children": true
+		},
+		"Chenzhou Shi": {
+			"local_code": "郴州市",
+			"has_children": true
+		},
+		"Hengyang Shi": {
+			"local_code": "衡阳市",
+			"has_children": true
+		},
+		"Huaihua Shi": {
+			"local_code": "怀化市",
+			"has_children": true
+		},
+		"Loudi Shi": {
+			"local_code": "娄底市",
+			"has_children": true
+		},
+		"Shaoyang Shi": {
+			"local_code": "邵阳市",
+			"has_children": true
+		},
+		"Xiangtan Shi": {
+			"local_code": "湘潭市",
+			"has_children": true
+		},
+		"Xiangxi Zhou": {
+			"local_code": "湘西土家族苗族自治州",
+			"local_name": "湘西州",
+			"has_children": true
+		},
+		"Yiyang Shi": {
+			"local_code": "益阳市",
+			"has_children": true
+		},
+		"Yongzhou Shi": {
+			"local_code": "永州市",
+			"has_children": true
+		},
+		"Yueyang Shi": {
+			"local_code": "岳阳市",
+			"has_children": true
+		},
+		"Zhangjiajie Shi": {
+			"local_code": "张家界市",
+			"has_children": true
+		},
+		"Changsha Shi": {
+			"local_code": "长沙市",
+			"has_children": true
+		},
+		"Zhuzhou Shi": {
+			"local_code": "株洲市",
+			"has_children": true
+		}
+	}
+}

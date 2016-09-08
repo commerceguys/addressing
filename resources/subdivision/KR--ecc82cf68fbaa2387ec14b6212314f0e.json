@@ -1,0 +1,31 @@
+{
+	"country_code": "KR",
+	"parents": [
+		"KR",
+		"Gyeongsangnam-do",
+		"Changwon-si"
+	],
+	"locale": "ko",
+	"subdivisions": {
+		"Masanhappo-gu": {
+			"local_code": "마산합포구",
+			"postal_code_pattern": "51[237]|631"
+		},
+		"Masanhoewon-gu": {
+			"local_code": "마산회원구",
+			"postal_code_pattern": "51[23]|630"
+		},
+		"Seongsan-gu": {
+			"local_code": "성산구",
+			"postal_code_pattern": "51[457]|642"
+		},
+		"Uichang-gu": {
+			"local_code": "의창구",
+			"postal_code_pattern": "51[1-4]|641"
+		},
+		"Jinhae-gu": {
+			"local_code": "진해구",
+			"postal_code_pattern": "51[5-7]|645"
+		}
+	}
+}

@@ -1,0 +1,91 @@
+{
+	"country_code": "HK",
+	"parents": [
+		"HK",
+		"Hong Kong Island"
+	],
+	"locale": "zh-Hant",
+	"subdivisions": {
+		"Sheung Wan": {
+			"local_code": "上環"
+		},
+		"Tai Hang": {
+			"local_code": "大坑"
+		},
+		"Tai Tam": {
+			"local_code": "大潭"
+		},
+		"The Peak": {
+			"local_code": "山頂"
+		},
+		"Central": {
+			"local_code": "中環"
+		},
+		"North Point": {
+			"local_code": "北角"
+		},
+		"Mid-level": {
+			"local_code": "半山"
+		},
+		"Shek Tong Tsui": {
+			"local_code": "石塘咀"
+		},
+		"Shek O": {
+			"local_code": "石澳"
+		},
+		"Sai Ying Pun": {
+			"local_code": "西營盤"
+		},
+		"Sai Wan Ho": {
+			"local_code": "西灣河"
+		},
+		"Stanley": {
+			"local_code": "赤柱"
+		},
+		"Admiralty": {
+			"local_code": "金鐘"
+		},
+		"Aberdeen": {
+			"local_code": "香港仔"
+		},
+		"Chai Wan": {
+			"local_code": "柴灣"
+		},
+		"Kennedy Town": {
+			"local_code": "堅尼地城"
+		},
+		"Deep Water Bay": {
+			"local_code": "深水灣"
+		},
+		"Repulse Bay": {
+			"local_code": "淺水灣"
+		},
+		"Chung Hom Kok": {
+			"local_code": "舂坎角"
+		},
+		"Happy Valley": {
+			"local_code": "跑馬地"
+		},
+		"Wong Chuk Hang": {
+			"local_code": "黃竹坑"
+		},
+		"Shau Kei Wan": {
+			"local_code": "筲箕灣"
+		},
+		"Causeway Bay": {
+			"local_code": "銅鑼灣"
+		},
+		"Ap Lei Chau": {
+			"local_code": "鴨脷洲"
+		},
+		"Pok Fu Lam": {
+			"local_code": "薄扶林"
+		},
+		"Quarry Bay": {
+			"local_code": "鰂魚涌"
+		},
+		"Wan Chai": {
+			"local_code": "灣仔"
+		}
+	}
+}

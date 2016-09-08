@@ -1,0 +1,47 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Guangxi Zhuangzuzizhiqu",
+		"Nanning Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Binyang Xian": {
+			"local_code": "宾阳县"
+		},
+		"Heng Xian": {
+			"local_code": "横县"
+		},
+		"Jiangnan Qu": {
+			"local_code": "江南区"
+		},
+		"Liangqing Qu": {
+			"local_code": "良庆区"
+		},
+		"Long'an Xian": {
+			"local_code": "隆安县"
+		},
+		"Mashan Xian": {
+			"local_code": "马山县"
+		},
+		"Qingxiu Qu": {
+			"local_code": "青秀区"
+		},
+		"Shanglin Xian": {
+			"local_code": "上林县"
+		},
+		"Wuming Xian": {
+			"local_code": "武鸣县"
+		},
+		"Xixiangtang Qu": {
+			"local_code": "西乡塘区"
+		},
+		"Xingning Qu": {
+			"local_code": "兴宁区"
+		},
+		"Yongning Qu": {
+			"local_code": "邕宁区"
+		}
+	}
+}

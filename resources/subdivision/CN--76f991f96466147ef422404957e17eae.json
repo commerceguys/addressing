@@ -1,0 +1,35 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Anhui Sheng",
+		"Fuyang Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Funan Xian": {
+			"local_code": "阜南县"
+		},
+		"Jieshou Shi": {
+			"local_code": "界首市"
+		},
+		"Linquan Xian": {
+			"local_code": "临泉县"
+		},
+		"Taihe Xian": {
+			"local_code": "太和县"
+		},
+		"Yingdong Qu": {
+			"local_code": "颍东区"
+		},
+		"Yingquan Qu": {
+			"local_code": "颍泉区"
+		},
+		"Yingshang Xian": {
+			"local_code": "颍上县"
+		},
+		"Yingzhou Qu": {
+			"local_code": "颍州区"
+		}
+	}
+}

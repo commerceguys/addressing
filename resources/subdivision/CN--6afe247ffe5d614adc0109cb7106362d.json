@@ -1,0 +1,35 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Hubei Sheng",
+		"Jingzhou Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Gong'an Xian": {
+			"local_code": "公安县"
+		},
+		"Honghu Shi": {
+			"local_code": "洪湖市"
+		},
+		"Jianli Xian": {
+			"local_code": "监利县"
+		},
+		"Jiangling Xian": {
+			"local_code": "江陵县"
+		},
+		"Jingzhou Qu": {
+			"local_code": "荆州区"
+		},
+		"Shashi Qu": {
+			"local_code": "沙市区"
+		},
+		"Shishou Shi": {
+			"local_code": "石首市"
+		},
+		"Songzi Shi": {
+			"local_code": "松滋市"
+		}
+	}
+}

@@ -1,0 +1,29 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Sichuan Sheng",
+		"Deyang Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Guanghan Shi": {
+			"local_code": "广汉市"
+		},
+		"Jingyang Qu": {
+			"local_code": "旌阳区"
+		},
+		"Luojiang Xian": {
+			"local_code": "罗江县"
+		},
+		"Mianzhu Shi": {
+			"local_code": "绵竹市"
+		},
+		"Shifang Shi": {
+			"local_code": "什邡市"
+		},
+		"Zhongjiang Xian": {
+			"local_code": "中江县"
+		}
+	}
+}

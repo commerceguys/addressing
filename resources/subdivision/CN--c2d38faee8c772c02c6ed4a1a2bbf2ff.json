@@ -1,0 +1,35 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Xinjiang Weiwuerzizhiqu",
+		"Ürümqi Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Dabancheng Qu": {
+			"local_code": "达坂城区"
+		},
+		"Midong Qu": {
+			"local_code": "米东区"
+		},
+		"Saybagh Qu": {
+			"local_code": "沙依巴克区"
+		},
+		"Shuimogou Qu": {
+			"local_code": "水磨沟区"
+		},
+		"Tianshan Qu": {
+			"local_code": "天山区"
+		},
+		"Toutunhe Qu": {
+			"local_code": "头屯河区"
+		},
+		"Ürümqi Xian": {
+			"local_code": "乌鲁木齐县"
+		},
+		"Xinshi Qu": {
+			"local_code": "新市区"
+		}
+	}
+}

@@ -1,0 +1,32 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Anhui Sheng",
+		"Hefei Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Baohe Qu": {
+			"local_code": "包河区"
+		},
+		"Feidong Xian": {
+			"local_code": "肥东县"
+		},
+		"Feixi Xian": {
+			"local_code": "肥西县"
+		},
+		"Luyang Qu": {
+			"local_code": "庐阳区"
+		},
+		"Shushan Qu": {
+			"local_code": "蜀山区"
+		},
+		"Yaohai Qu": {
+			"local_code": "瑶海区"
+		},
+		"Changfeng Xian": {
+			"local_code": "长丰县"
+		}
+	}
+}

@@ -1,0 +1,97 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Sichuan Sheng"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Aba Zangzuqiangzuzizhizhou": {
+			"local_code": "阿坝藏族羌族自治州",
+			"local_name": "阿坝州",
+			"has_children": true
+		},
+		"Bazhong Shi": {
+			"local_code": "巴中市",
+			"has_children": true
+		},
+		"Chengdu Shi": {
+			"local_code": "成都市",
+			"has_children": true
+		},
+		"Dazhou Shi": {
+			"local_code": "达州市",
+			"has_children": true
+		},
+		"Deyang Shi": {
+			"local_code": "德阳市",
+			"has_children": true
+		},
+		"Garzê Zhou": {
+			"local_code": "甘孜藏族自治州",
+			"local_name": "甘孜州",
+			"has_children": true
+		},
+		"Guang'an Shi": {
+			"local_code": "广安市",
+			"has_children": true
+		},
+		"Guangyuan Shi": {
+			"local_code": "广元市",
+			"has_children": true
+		},
+		"Leshan Shi": {
+			"local_code": "乐山市",
+			"has_children": true
+		},
+		"Liangshan Zhou": {
+			"local_code": "凉山彝族自治州",
+			"local_name": "凉山州",
+			"has_children": true
+		},
+		"Luzhou Shi": {
+			"local_code": "泸州市",
+			"has_children": true
+		},
+		"Meishan Shi": {
+			"local_code": "眉山市",
+			"has_children": true
+		},
+		"Mianyang Shi": {
+			"local_code": "绵阳市",
+			"has_children": true
+		},
+		"Nanchong Shi": {
+			"local_code": "南充市",
+			"has_children": true
+		},
+		"Neijiang Shi": {
+			"local_code": "内江市",
+			"has_children": true
+		},
+		"Panzhihua Shi": {
+			"local_code": "攀枝花市",
+			"has_children": true
+		},
+		"Suining Shi": {
+			"local_code": "遂宁市",
+			"has_children": true
+		},
+		"Ya'an Shi": {
+			"local_code": "雅安市",
+			"has_children": true
+		},
+		"Yibin Shi": {
+			"local_code": "宜宾市",
+			"has_children": true
+		},
+		"Ziyang Shi": {
+			"local_code": "资阳市",
+			"has_children": true
+		},
+		"Zigong Shi": {
+			"local_code": "自贡市",
+			"has_children": true
+		}
+	}
+}

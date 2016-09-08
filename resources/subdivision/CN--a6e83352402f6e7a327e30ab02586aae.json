@@ -1,0 +1,26 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Fujian Sheng",
+		"Putian Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Chengxiang Qu": {
+			"local_code": "城厢区"
+		},
+		"Hanjiang Qu": {
+			"local_code": "涵江区"
+		},
+		"Licheng Qu": {
+			"local_code": "荔城区"
+		},
+		"Xianyou Xian": {
+			"local_code": "仙游县"
+		},
+		"Xiuyu Qu": {
+			"local_code": "秀屿区"
+		}
+	}
+}

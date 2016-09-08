@@ -1,0 +1,32 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Anhui Sheng",
+		"Wuhu Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Fanchang Xian": {
+			"local_code": "繁昌县"
+		},
+		"Jinghu Qu": {
+			"local_code": "镜湖区"
+		},
+		"Jiujiang Qu": {
+			"local_code": "鸠江区"
+		},
+		"Nanling Xian": {
+			"local_code": "南陵县"
+		},
+		"Sanshan Qu": {
+			"local_code": "三山区"
+		},
+		"Wuhu Xian": {
+			"local_code": "芜湖县"
+		},
+		"Yijiang Qu": {
+			"local_code": "弋江区"
+		}
+	}
+}

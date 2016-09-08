@@ -1,0 +1,24 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Qinghai Sheng",
+		"Huangnan Zhou"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Henan Xian": {
+			"local_code": "河南蒙古族自治县",
+			"local_name": "河南县"
+		},
+		"Jianca Xian": {
+			"local_code": "尖扎县"
+		},
+		"Tongren Xian": {
+			"local_code": "同仁县"
+		},
+		"Zêkog Xian": {
+			"local_code": "泽库县"
+		}
+	}
+}

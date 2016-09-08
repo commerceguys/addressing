@@ -1,0 +1,32 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Anhui Sheng",
+		"Lu'an Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Huoqiu Xian": {
+			"local_code": "霍邱县"
+		},
+		"Huoshan Xian": {
+			"local_code": "霍山县"
+		},
+		"Jin'an Qu": {
+			"local_code": "金安区"
+		},
+		"Jinzhai Xian": {
+			"local_code": "金寨县"
+		},
+		"Shou Xian": {
+			"local_code": "寿县"
+		},
+		"Shucheng Xian": {
+			"local_code": "舒城县"
+		},
+		"Yu'an Qu": {
+			"local_code": "裕安区"
+		}
+	}
+}

@@ -1,352 +1,186 @@
 {
 	"country_code": "CN",
-	"parent_id": null,
-	"locale": "zh-Latn",
+	"locale": "zh-Hans",
 	"subdivisions": {
-		"CN-34": {
-			"code": "安徽省",
-			"name": "Anhui Sheng",
-			"translations": {
-				"zh": {
-					"name": "安徽省"
-				}
-			},
+		"Anhui Sheng": {
+			"local_code": "安徽省",
+			"iso_code": "CN-34",
 			"has_children": true
 		},
-		"CN-92": {
-			"code": "澳门",
-			"name": "Macau",
+		"Macau": {
+			"local_code": "澳门",
+			"iso_code": "CN-92",
 			"postal_code_pattern": "999078",
 			"postal_code_pattern_type": "full",
-			"translations": {
-				"zh": {
-					"name": "澳门"
-				}
-			},
 			"has_children": true
 		},
-		"CN-11": {
-			"code": "北京市",
-			"name": "Beijing Shi",
-			"translations": {
-				"zh": {
-					"name": "北京市"
-				}
-			},
+		"Beijing Shi": {
+			"local_code": "北京市",
+			"iso_code": "CN-11",
 			"has_children": true
 		},
-		"CN-50": {
-			"code": "重庆市",
-			"name": "Chongqing Shi",
-			"translations": {
-				"zh": {
-					"name": "重庆市"
-				}
-			},
+		"Chongqing Shi": {
+			"local_code": "重庆市",
+			"iso_code": "CN-50",
 			"has_children": true
 		},
-		"CN-35": {
-			"code": "福建省",
-			"name": "Fujian Sheng",
-			"translations": {
-				"zh": {
-					"name": "福建省"
-				}
-			},
+		"Fujian Sheng": {
+			"local_code": "福建省",
+			"iso_code": "CN-35",
 			"has_children": true
 		},
-		"CN-62": {
-			"code": "甘肃省",
-			"name": "Gansu Sheng",
-			"translations": {
-				"zh": {
-					"name": "甘肃省"
-				}
-			},
+		"Gansu Sheng": {
+			"local_code": "甘肃省",
+			"iso_code": "CN-62",
 			"has_children": true
 		},
-		"CN-44": {
-			"code": "广东省",
-			"name": "Guangdong Sheng",
-			"translations": {
-				"zh": {
-					"name": "广东省"
-				}
-			},
+		"Guangdong Sheng": {
+			"local_code": "广东省",
+			"iso_code": "CN-44",
 			"has_children": true
 		},
-		"CN-45": {
-			"code": "广西壮族自治区",
-			"name": "Guangxi Zhuangzuzizhiqu",
-			"translations": {
-				"zh": {
-					"name": "广西"
-				}
-			},
+		"Guangxi Zhuangzuzizhiqu": {
+			"local_code": "广西壮族自治区",
+			"local_name": "广西",
+			"iso_code": "CN-45",
 			"has_children": true
 		},
-		"CN-52": {
-			"code": "贵州省",
-			"name": "Guizhou Sheng",
-			"translations": {
-				"zh": {
-					"name": "贵州省"
-				}
-			},
+		"Guizhou Sheng": {
+			"local_code": "贵州省",
+			"iso_code": "CN-52",
 			"has_children": true
 		},
-		"CN-46": {
-			"code": "海南省",
-			"name": "Hainan Sheng",
-			"translations": {
-				"zh": {
-					"name": "海南省"
-				}
-			},
+		"Hainan Sheng": {
+			"local_code": "海南省",
+			"iso_code": "CN-46",
 			"has_children": true
 		},
-		"CN-13": {
-			"code": "河北省",
-			"name": "Hebei Sheng",
-			"translations": {
-				"zh": {
-					"name": "河北省"
-				}
-			},
+		"Hebei Sheng": {
+			"local_code": "河北省",
+			"iso_code": "CN-13",
 			"has_children": true
 		},
-		"CN-41": {
-			"code": "河南省",
-			"name": "Henan Sheng",
-			"translations": {
-				"zh": {
-					"name": "河南省"
-				}
-			},
+		"Henan Sheng": {
+			"local_code": "河南省",
+			"iso_code": "CN-41",
 			"has_children": true
 		},
-		"CN-23": {
-			"code": "黑龙江省",
-			"name": "Heilongjiang Sheng",
-			"translations": {
-				"zh": {
-					"name": "黑龙江省"
-				}
-			},
+		"Heilongjiang Sheng": {
+			"local_code": "黑龙江省",
+			"iso_code": "CN-23",
 			"has_children": true
 		},
-		"CN-42": {
-			"code": "湖北省",
-			"name": "Hubei Sheng",
-			"translations": {
-				"zh": {
-					"name": "湖北省"
-				}
-			},
+		"Hubei Sheng": {
+			"local_code": "湖北省",
+			"iso_code": "CN-42",
 			"has_children": true
 		},
-		"CN-43": {
-			"code": "湖南省",
-			"name": "Hunan Sheng",
-			"translations": {
-				"zh": {
-					"name": "湖南省"
-				}
-			},
+		"Hunan Sheng": {
+			"local_code": "湖南省",
+			"iso_code": "CN-43",
 			"has_children": true
 		},
-		"CN-22": {
-			"code": "吉林省",
-			"name": "Jilin Sheng",
-			"translations": {
-				"zh": {
-					"name": "吉林省"
-				}
-			},
+		"Jilin Sheng": {
+			"local_code": "吉林省",
+			"iso_code": "CN-22",
 			"has_children": true
 		},
-		"CN-32": {
-			"code": "江苏省",
-			"name": "Jiangsu Sheng",
-			"translations": {
-				"zh": {
-					"name": "江苏省"
-				}
-			},
+		"Jiangsu Sheng": {
+			"local_code": "江苏省",
+			"iso_code": "CN-32",
 			"has_children": true
 		},
-		"CN-36": {
-			"code": "江西省",
-			"name": "Jiangxi Sheng",
-			"translations": {
-				"zh": {
-					"name": "江西省"
-				}
-			},
+		"Jiangxi Sheng": {
+			"local_code": "江西省",
+			"iso_code": "CN-36",
 			"has_children": true
 		},
-		"CN-21": {
-			"code": "辽宁省",
-			"name": "Liaoning Sheng",
-			"translations": {
-				"zh": {
-					"name": "辽宁省"
-				}
-			},
+		"Liaoning Sheng": {
+			"local_code": "辽宁省",
+			"iso_code": "CN-21",
 			"has_children": true
 		},
-		"CN-15": {
-			"code": "内蒙古自治区",
-			"name": "Neimenggu Zizhiqu",
-			"translations": {
-				"zh": {
-					"name": "内蒙古"
-				}
-			},
+		"Neimenggu Zizhiqu": {
+			"local_code": "内蒙古自治区",
+			"local_name": "内蒙古",
+			"iso_code": "CN-15",
 			"has_children": true
 		},
-		"CN-64": {
-			"code": "宁夏回族自治区",
-			"name": "Ningxia Huizuzizhiqu",
-			"translations": {
-				"zh": {
-					"name": "宁夏"
-				}
-			},
+		"Ningxia Huizuzizhiqu": {
+			"local_code": "宁夏回族自治区",
+			"local_name": "宁夏",
+			"iso_code": "CN-64",
 			"has_children": true
 		},
-		"CN-63": {
-			"code": "青海省",
-			"name": "Qinghai Sheng",
-			"translations": {
-				"zh": {
-					"name": "青海省"
-				}
-			},
+		"Qinghai Sheng": {
+			"local_code": "青海省",
+			"iso_code": "CN-63",
 			"has_children": true
 		},
-		"CN-37": {
-			"code": "山东省",
-			"name": "Shandong Sheng",
-			"translations": {
-				"zh": {
-					"name": "山东省"
-				}
-			},
+		"Shandong Sheng": {
+			"local_code": "山东省",
+			"iso_code": "CN-37",
 			"has_children": true
 		},
-		"CN-14": {
-			"code": "山西省",
-			"name": "Shanxi Sheng",
-			"translations": {
-				"zh": {
-					"name": "山西省"
-				}
-			},
+		"Shanxi Sheng": {
+			"local_code": "山西省",
+			"iso_code": "CN-14",
 			"has_children": true
 		},
-		"CN-61": {
-			"code": "陕西省",
-			"name": "Shaanxi Sheng",
-			"translations": {
-				"zh": {
-					"name": "陕西省"
-				}
-			},
+		"Shaanxi Sheng": {
+			"local_code": "陕西省",
+			"iso_code": "CN-61",
 			"has_children": true
 		},
-		"CN-31": {
-			"code": "上海市",
-			"name": "Shanghai Shi",
-			"translations": {
-				"zh": {
-					"name": "上海市"
-				}
-			},
+		"Shanghai Shi": {
+			"local_code": "上海市",
+			"iso_code": "CN-31",
 			"has_children": true
 		},
-		"CN-51": {
-			"code": "四川省",
-			"name": "Sichuan Sheng",
-			"translations": {
-				"zh": {
-					"name": "四川省"
-				}
-			},
+		"Sichuan Sheng": {
+			"local_code": "四川省",
+			"iso_code": "CN-51",
 			"has_children": true
 		},
-		"CN-71": {
-			"code": "台湾",
-			"name": "Taiwan",
+		"Taiwan": {
+			"local_code": "台湾",
+			"iso_code": "CN-71",
 			"postal_code_pattern": "\\d{3}(\\d{2})?",
 			"postal_code_pattern_type": "full",
-			"translations": {
-				"zh": {
-					"name": "台湾"
-				}
-			},
 			"has_children": true
 		},
-		"CN-12": {
-			"code": "天津市",
-			"name": "Tianjin Shi",
-			"translations": {
-				"zh": {
-					"name": "天津市"
-				}
-			},
+		"Tianjin Shi": {
+			"local_code": "天津市",
+			"iso_code": "CN-12",
 			"has_children": true
 		},
-		"CN-54": {
-			"code": "西藏自治区",
-			"name": "Xizang Zizhiqu",
-			"translations": {
-				"zh": {
-					"name": "西藏"
-				}
-			},
+		"Xizang Zizhiqu": {
+			"local_code": "西藏自治区",
+			"local_name": "西藏",
+			"iso_code": "CN-54",
 			"has_children": true
 		},
-		"CN-91": {
-			"code": "香港",
-			"name": "Hong Kong",
+		"Hong Kong": {
+			"local_code": "香港",
+			"iso_code": "CN-91",
 			"postal_code_pattern": "999077",
 			"postal_code_pattern_type": "full",
-			"translations": {
-				"zh": {
-					"name": "香港"
-				}
-			},
 			"has_children": true
 		},
-		"CN-65": {
-			"code": "新疆维吾尔自治区",
-			"name": "Xinjiang Weiwuerzizhiqu",
-			"translations": {
-				"zh": {
-					"name": "新疆"
-				}
-			},
+		"Xinjiang Weiwuerzizhiqu": {
+			"local_code": "新疆维吾尔自治区",
+			"local_name": "新疆",
+			"iso_code": "CN-65",
 			"has_children": true
 		},
-		"CN-53": {
-			"code": "云南省",
-			"name": "Yunnan Sheng",
-			"translations": {
-				"zh": {
-					"name": "云南省"
-				}
-			},
+		"Yunnan Sheng": {
+			"local_code": "云南省",
+			"iso_code": "CN-53",
 			"has_children": true
 		},
-		"CN-33": {
-			"code": "浙江省",
-			"name": "Zhejiang Sheng",
-			"translations": {
-				"zh": {
-					"name": "浙江省"
-				}
-			},
+		"Zhejiang Sheng": {
+			"local_code": "浙江省",
+			"iso_code": "CN-33",
 			"has_children": true
 		}
 	}

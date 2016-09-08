@@ -1,34 +1,30 @@
 {
 	"country_code": "TV",
-	"parent_id": null,
-	"locale": "tyv",
 	"subdivisions": {
-		"TV-FUN": {
-			"name": "Funafuti"
+		"Funafuti": {
+			"iso_code": "TV-FUN"
 		},
-		"TV-NMG": {
-			"name": "Nanumanga"
+		"Nanumanga": {
+			"iso_code": "TV-NMG"
 		},
-		"TV-NMA": {
-			"name": "Nanumea"
+		"Nanumea": {
+			"iso_code": "TV-NMA"
 		},
-		"TV-3f4d95": {
-			"name": "Niulakita"
+		"Niulakita": [],
+		"Niutao": {
+			"iso_code": "TV-NIT"
 		},
-		"TV-NIT": {
-			"name": "Niutao"
+		"Nui": {
+			"iso_code": "TV-NUI"
 		},
-		"TV-NUI": {
-			"name": "Nui"
+		"Nukufetau": {
+			"iso_code": "TV-NKF"
 		},
-		"TV-NKF": {
-			"name": "Nukufetau"
+		"Nukulaelae": {
+			"iso_code": "TV-NKL"
 		},
-		"TV-NKL": {
-			"name": "Nukulaelae"
-		},
-		"TV-VAI": {
-			"name": "Vaitupu"
+		"Vaitupu": {
+			"iso_code": "TV-VAI"
 		}
 	}
 }

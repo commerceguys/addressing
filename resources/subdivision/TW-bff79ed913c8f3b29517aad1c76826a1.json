@@ -1,0 +1,26 @@
+{
+	"country_code": "TW",
+	"parents": [
+		"TW",
+		"Lienchiang County"
+	],
+	"locale": "zh-Hant",
+	"subdivisions": {
+		"Beigan Township": {
+			"local_code": "北竿鄉",
+			"postal_code_pattern": "210"
+		},
+		"Dongyin Township": {
+			"local_code": "東引鄉",
+			"postal_code_pattern": "212"
+		},
+		"Nangan Township": {
+			"local_code": "南竿鄉",
+			"postal_code_pattern": "209"
+		},
+		"Juguang Township": {
+			"local_code": "莒光鄉",
+			"postal_code_pattern": "211"
+		}
+	}
+}

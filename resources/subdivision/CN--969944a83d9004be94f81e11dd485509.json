@@ -1,0 +1,65 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Xizang Zizhiqu",
+		"Xigazê Diqu"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Ngamring Xian": {
+			"local_code": "昂仁县"
+		},
+		"Bainang Xian": {
+			"local_code": "白朗县"
+		},
+		"Dinggyê Xian": {
+			"local_code": "定结县"
+		},
+		"Tingri Xian": {
+			"local_code": "定日县"
+		},
+		"Gamba Xian": {
+			"local_code": "岗巴县"
+		},
+		"Gyirong Xian": {
+			"local_code": "吉隆县"
+		},
+		"Gyangzê Xian": {
+			"local_code": "江孜县"
+		},
+		"Kangmar Xian": {
+			"local_code": "康马县"
+		},
+		"Lhazê Xian": {
+			"local_code": "拉孜县"
+		},
+		"Namling Xian": {
+			"local_code": "南木林县"
+		},
+		"Nyalam Xian": {
+			"local_code": "聂拉木县"
+		},
+		"Rinbung Xian": {
+			"local_code": "仁布县"
+		},
+		"Xigazê Shi": {
+			"local_code": "日喀则市"
+		},
+		"Saga Xian": {
+			"local_code": "萨嘎县"
+		},
+		"Sa'gya Xian": {
+			"local_code": "萨迦县"
+		},
+		"Xaitongmoin Xian": {
+			"local_code": "谢通门县"
+		},
+		"Yadong Xian": {
+			"local_code": "亚东县"
+		},
+		"Zhongba Xian": {
+			"local_code": "仲巴县"
+		}
+	}
+}

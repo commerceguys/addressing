@@ -1,0 +1,82 @@
+{
+	"country_code": "TW",
+	"parents": [
+		"TW",
+		"Miaoli County"
+	],
+	"locale": "zh-Hant",
+	"subdivisions": {
+		"Sanyi Township": {
+			"local_code": "三義鄉",
+			"postal_code_pattern": "367"
+		},
+		"Sanwan Township": {
+			"local_code": "三灣鄉",
+			"postal_code_pattern": "352"
+		},
+		"Dahu Township": {
+			"local_code": "大湖鄉",
+			"postal_code_pattern": "364"
+		},
+		"Gongguan Township": {
+			"local_code": "公館鄉",
+			"postal_code_pattern": "363"
+		},
+		"Zhunan Township": {
+			"local_code": "竹南鎮",
+			"postal_code_pattern": "350"
+		},
+		"Xihu Township": {
+			"local_code": "西湖鄉",
+			"postal_code_pattern": "368"
+		},
+		"Zhuolan Township": {
+			"local_code": "卓蘭鎮",
+			"postal_code_pattern": "369"
+		},
+		"Nanzhuang Township": {
+			"local_code": "南庄鄉",
+			"postal_code_pattern": "353"
+		},
+		"Houlong Township": {
+			"local_code": "後龍鎮",
+			"postal_code_pattern": "356"
+		},
+		"Yuanli Township": {
+			"local_code": "苑裡鎮",
+			"postal_code_pattern": "358"
+		},
+		"Miaoli City": {
+			"local_code": "苗栗市",
+			"postal_code_pattern": "360"
+		},
+		"Tai'an Township": {
+			"local_code": "泰安鄉",
+			"postal_code_pattern": "365"
+		},
+		"Tongxiao Township": {
+			"local_code": "通霄鎮",
+			"postal_code_pattern": "357"
+		},
+		"Zaoqiao Township": {
+			"local_code": "造橋鄉",
+			"postal_code_pattern": "361"
+		},
+		"Shitan Township": {
+			"local_code": "獅潭鄉",
+			"postal_code_pattern": "354"
+		},
+		"Tongluo Township": {
+			"local_code": "銅鑼鄉",
+			"postal_code_pattern": "366"
+		},
+		"Toufen City": {
+			"local_code": "頭份市",
+			"postal_code_pattern": "351"
+		},
+		"Touwu Township": {
+			"local_code": "頭屋鄉",
+			"postal_code_pattern": "362"
+		}
+	}
+}

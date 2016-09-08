@@ -1,0 +1,38 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Guangdong Sheng",
+		"Zhanjiang Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Chikan Qu": {
+			"local_code": "赤坎区"
+		},
+		"Leizhou Shi": {
+			"local_code": "雷州市"
+		},
+		"Lianjiang Shi": {
+			"local_code": "廉江市"
+		},
+		"Mazhang Qu": {
+			"local_code": "麻章区"
+		},
+		"Potou Qu": {
+			"local_code": "坡头区"
+		},
+		"Suixi Xian": {
+			"local_code": "遂溪县"
+		},
+		"Wuchuan Shi": {
+			"local_code": "吴川市"
+		},
+		"Xiashan Qu": {
+			"local_code": "霞山区"
+		},
+		"Xuwen Xian": {
+			"local_code": "徐闻县"
+		}
+	}
+}

@@ -1,0 +1,44 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Hunan Sheng",
+		"Chenzhou Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Anren Xian": {
+			"local_code": "安仁县"
+		},
+		"Beihu Qu": {
+			"local_code": "北湖区"
+		},
+		"Guidong Xian": {
+			"local_code": "桂东县"
+		},
+		"Guiyang Xian": {
+			"local_code": "桂阳县"
+		},
+		"Jiahe Xian": {
+			"local_code": "嘉禾县"
+		},
+		"Linwu Xian": {
+			"local_code": "临武县"
+		},
+		"Rucheng Xian": {
+			"local_code": "汝城县"
+		},
+		"Suxian Qu": {
+			"local_code": "苏仙区"
+		},
+		"Yizhang Xian": {
+			"local_code": "宜章县"
+		},
+		"Yongxing Xian": {
+			"local_code": "永兴县"
+		},
+		"Zixing Shi": {
+			"local_code": "资兴市"
+		}
+	}
+}

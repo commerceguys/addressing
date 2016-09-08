@@ -1,0 +1,17 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Hubei Sheng",
+		"Suizhou Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Zengdu Qu": {
+			"local_code": "曾都区"
+		},
+		"Guangshui Shi": {
+			"local_code": "广水市"
+		}
+	}
+}

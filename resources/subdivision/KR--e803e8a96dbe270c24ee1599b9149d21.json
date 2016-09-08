@@ -1,0 +1,19 @@
+{
+	"country_code": "KR",
+	"parents": [
+		"KR",
+		"Jeollabuk-do",
+		"Jeonju-si"
+	],
+	"locale": "ko",
+	"subdivisions": {
+		"Deokjin-gu": {
+			"local_code": "덕진구",
+			"postal_code_pattern": "5(?:4[89]|50)|561"
+		},
+		"Wansan-gu": {
+			"local_code": "완산구",
+			"postal_code_pattern": "5(?:4[89]|5[01])560"
+		}
+	}
+}

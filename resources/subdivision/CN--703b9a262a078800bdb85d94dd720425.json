@@ -1,0 +1,83 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Taiwan",
+		"Chiayi County"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Alishan Township": {
+			"local_code": "阿里山鄉",
+			"postal_code_pattern": "605"
+		},
+		"Budai Township": {
+			"local_code": "布袋鎮",
+			"postal_code_pattern": "625"
+		},
+		"Dapu Township": {
+			"local_code": "大埔鄉",
+			"postal_code_pattern": "607"
+		},
+		"Dalin Township": {
+			"local_code": "大林鎮",
+			"postal_code_pattern": "622"
+		},
+		"Dongshi Township": {
+			"local_code": "東石鄉",
+			"postal_code_pattern": "614"
+		},
+		"Fanlu Township": {
+			"local_code": "番路鄉",
+			"postal_code_pattern": "602"
+		},
+		"Liujiao Township": {
+			"local_code": "六腳鄉",
+			"postal_code_pattern": "615"
+		},
+		"Lucao Township": {
+			"local_code": "鹿草鄉",
+			"postal_code_pattern": "611"
+		},
+		"Meishan Township": {
+			"local_code": "梅山鄉",
+			"postal_code_pattern": "603"
+		},
+		"Minxiong Township": {
+			"local_code": "民雄鄉",
+			"postal_code_pattern": "621"
+		},
+		"Puzi City": {
+			"local_code": "朴子市",
+			"postal_code_pattern": "613"
+		},
+		"Shuishang Township": {
+			"local_code": "水上鄉",
+			"postal_code_pattern": "608"
+		},
+		"Taibao City": {
+			"local_code": "太保市",
+			"postal_code_pattern": "612"
+		},
+		"Xikou Township": {
+			"local_code": "溪口鄉",
+			"postal_code_pattern": "623"
+		},
+		"Xingang Township": {
+			"local_code": "新港鄉",
+			"postal_code_pattern": "616"
+		},
+		"Yizhu Township": {
+			"local_code": "義竹鄉",
+			"postal_code_pattern": "624"
+		},
+		"Zhongpu Township": {
+			"local_code": "中埔鄉",
+			"postal_code_pattern": "606"
+		},
+		"Zhuqi Township": {
+			"local_code": "竹崎鄉",
+			"postal_code_pattern": "604"
+		}
+	}
+}

@@ -1,0 +1,38 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Shandong Sheng",
+		"Heze Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Cao Xian": {
+			"local_code": "曹县"
+		},
+		"Chengwu Xian": {
+			"local_code": "成武县"
+		},
+		"Shan Xian": {
+			"local_code": "单县"
+		},
+		"Dingtao Xian": {
+			"local_code": "定陶县"
+		},
+		"Dongming Xian": {
+			"local_code": "东明县"
+		},
+		"Juye Xian": {
+			"local_code": "巨野县"
+		},
+		"Juancheng Xian": {
+			"local_code": "鄄城县"
+		},
+		"Mudan Qu": {
+			"local_code": "牡丹区"
+		},
+		"Yuncheng Xian": {
+			"local_code": "郓城县"
+		}
+	}
+}

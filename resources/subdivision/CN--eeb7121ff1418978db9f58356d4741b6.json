@@ -1,0 +1,35 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Shandong Sheng",
+		"Zibo Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Boshan Qu": {
+			"local_code": "博山区"
+		},
+		"Gaoqing Xian": {
+			"local_code": "高青县"
+		},
+		"Huantai Xian": {
+			"local_code": "桓台县"
+		},
+		"Linzi Qu": {
+			"local_code": "临淄区"
+		},
+		"Yiyuan Xian": {
+			"local_code": "沂源县"
+		},
+		"Zhangdian Qu": {
+			"local_code": "张店区"
+		},
+		"Zhoucun Qu": {
+			"local_code": "周村区"
+		},
+		"Zichuan Qu": {
+			"local_code": "淄川区"
+		}
+	}
+}

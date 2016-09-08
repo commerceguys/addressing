@@ -1,0 +1,65 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Jiangxi Sheng",
+		"Ganzhou Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Anyuan Xian": {
+			"local_code": "安远县"
+		},
+		"Chongyi Xian": {
+			"local_code": "崇义县"
+		},
+		"Dayu Xian": {
+			"local_code": "大余县"
+		},
+		"Dingnan Xian": {
+			"local_code": "定南县"
+		},
+		"Gan Xian": {
+			"local_code": "赣县"
+		},
+		"Huichang Xian": {
+			"local_code": "会昌县"
+		},
+		"Longnan Xian": {
+			"local_code": "龙南县"
+		},
+		"Nankang Shi": {
+			"local_code": "南康市"
+		},
+		"Ningdu Xian": {
+			"local_code": "宁都县"
+		},
+		"Quannan Xian": {
+			"local_code": "全南县"
+		},
+		"Ruijin Shi": {
+			"local_code": "瑞金市"
+		},
+		"Shangyou Xian": {
+			"local_code": "上犹县"
+		},
+		"Shicheng Xian": {
+			"local_code": "石城县"
+		},
+		"Xinfeng Xian": {
+			"local_code": "信丰县"
+		},
+		"Xingguo Xian": {
+			"local_code": "兴国县"
+		},
+		"Xunwu Xian": {
+			"local_code": "寻乌县"
+		},
+		"Yudu Xian": {
+			"local_code": "于都县"
+		},
+		"Zhanggong Qu": {
+			"local_code": "章贡区"
+		}
+	}
+}

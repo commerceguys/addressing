@@ -1,0 +1,26 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Gansu Sheng",
+		"Baiyin Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Baiyin Qu": {
+			"local_code": "白银区"
+		},
+		"Huining Xian": {
+			"local_code": "会宁县"
+		},
+		"Jingtai Xian": {
+			"local_code": "景泰县"
+		},
+		"Jingyuan Xian": {
+			"local_code": "靖远县"
+		},
+		"Pingchuan Qu": {
+			"local_code": "平川区"
+		}
+	}
+}

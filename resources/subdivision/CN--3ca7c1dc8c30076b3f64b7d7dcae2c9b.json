@@ -1,0 +1,26 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Shanxi Sheng",
+		"Yangquan Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Cheng Qu": {
+			"local_code": "城区"
+		},
+		"Jiao Qu": {
+			"local_code": "郊区"
+		},
+		"Kuang Qu": {
+			"local_code": "矿区"
+		},
+		"Pingding Xian": {
+			"local_code": "平定县"
+		},
+		"Yu Xian": {
+			"local_code": "盂县"
+		}
+	}
+}

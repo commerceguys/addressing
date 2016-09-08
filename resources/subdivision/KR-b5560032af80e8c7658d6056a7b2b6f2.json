@@ -1,0 +1,18 @@
+{
+	"country_code": "KR",
+	"parents": [
+		"KR",
+		"Jeju-do"
+	],
+	"locale": "ko",
+	"subdivisions": {
+		"Seogwipo-si": {
+			"local_code": "서귀포시",
+			"postal_code_pattern": "63[56]|69[79]"
+		},
+		"Jeju-si": {
+			"local_code": "제주시",
+			"postal_code_pattern": "63[0-3]|69[05]"
+		}
+	}
+}

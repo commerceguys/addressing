@@ -9,6 +9,7 @@
  * @todo
  * PE subdivisions (https://github.com/googlei18n/libaddressinput/issues/50)
  * MZ https://github.com/googlei18n/libaddressinput/issues/58
+ * Other points raised in https://github.com/googlei18n/libaddressinput/issues/49
  */
 
 /**
@@ -74,64 +75,47 @@ function get_address_format_customizations($countryCode) {
 }
 
 /**
- * Returns the subdivision customizations for the provided parent id.
+ * Returns the subdivision customizations for the provided group.
  */
-function get_subdivision_customizations($parentId) {
-    // Rename and reorder ES-PM.
+function get_subdivision_customizations($group) {
+    // 'Islas Baleares' -> 'Balears'.
     // https://github.com/googlei18n/libaddressinput/issues/48
     $subdivisionCustomizations['ES'] = [
-        '_remove' => ['ES-PM'],
+        '_remove' => ['Islas Baleares'],
         '_add' => [
-            // Add 'ES-PM' before 'ES-B'.
-            'ES-PM' => 'ES-B',
+            // Add 'Balears' before 'Barcelona'.
+            'Balears' => 'Barcelona',
         ],
-        'ES-PM' => [
+        'Balears' => [
             'name' => 'Balears',
+            'iso_code' => 'ES-PM',
             'postal_code_pattern' => '07',
         ],
     ];
-    // Rename and reorder MX-MEX.
+    // 'Estado de México' => 'México'.
     // https://github.com/googlei18n/libaddressinput/issues/49
     $subdivisionCustomizations['MX'] = [
-        '_remove' => ['MX-MEX'],
+        '_remove' => ['MEX'],
         '_add' => [
-            'MX-MEX' => 'MX-MIC',
+            'MEX' => 'MIC',
         ],
-        'MX-MEX' => [
-            'code' => 'MEX',
+        'MEX' => [
             'name' => 'México',
+            'iso_code' => 'MX-MEX',
             'postal_code_pattern' => '5[0-7]',
         ],
     ];
-    // Rename three BS provinces.
-    // https://github.com/googlei18n/libaddressinput/issues/51
-    $subdivisionCustomizations['BS'] = [
-        '_replace' => ['BS-fc2a25', 'BS-0adc5a', 'BS-EX'],
-        'BS-fc2a25' => [
-            'name' => 'Abaco',
-        ],
-        'BS-0adc5a' => [
-            'name' => 'Andros',
-        ],
-        'BS-EX' => [
-            'name' => 'Exuma',
-        ],
-    ];
-    // IN-50c73a -> IN-TG, IN-UL -> IN-UT
+    // ISO codes for Telangana, Uttarakhand.
     // https://github.com/googlei18n/libaddressinput/issues/54
     // https://github.com/googlei18n/libaddressinput/issues/59
     $subdivisionCustomizations['IN'] = [
-        '_remove' => ['IN-50c73a', 'IN-UL'],
-        '_add' => [
-            'IN-TG' => 'IN-TR',
-            'IN-UT' => 'IN-WB',
-        ],
-        'IN-TG' => [
-            'name' => 'Telangana',
+        '_replace' => ['Telangana', 'Uttarakhand'],
+        'Telangana' => [
+            'iso_code' => 'IN-TG',
             'postal_code_pattern' => '5[0-3]',
         ],
-        'IN-UT' => [
-            'name' => 'Uttarakhand',
+        'Uttarakhand' => [
+            'iso_code' => 'IN-UT',
             'postal_code_pattern' => '24[46-9]|254|26[23]',
         ],
     ];
@@ -139,12 +123,11 @@ function get_subdivision_customizations($parentId) {
     // https://github.com/googlei18n/libaddressinput/issues/89
     $subdivisionCustomizations['CH'] = [
         '_remove' => [
-            'CH-AG', 'CH-AR', 'CH-AI', 'CH-BE', 'CH-BL', 'CH-BS', 'CH-FR',
-            'CH-GE', 'CH-GL', 'CH-GR', 'CH-JU', 'CH-LU', 'CH-NE', 'CH-NW',
-            'CH-OW', 'CH-SH', 'CH-SZ', 'CH-SO', 'CH-SG', 'CH-TI', 'CH-TG',
-            'CH-UR', 'CH-VD', 'CH-VS', 'CH-ZG', 'CH-ZH',
+            'AG', 'AR', 'AI', 'BE', 'BL', 'BS', 'FR', 'GE', 'GL', 'GR', 'JU',
+            'LU', 'NE', 'NW', 'OW', 'SH', 'SZ', 'SO', 'SG', 'TI', 'TG', 'UR',
+            'VD', 'VS', 'ZG', 'ZH',
         ],
     ];
 
-    return isset($subdivisionCustomizations[$parentId]) ? $subdivisionCustomizations[$parentId] : [];
+    return isset($subdivisionCustomizations[$group]) ? $subdivisionCustomizations[$group] : [];
 }

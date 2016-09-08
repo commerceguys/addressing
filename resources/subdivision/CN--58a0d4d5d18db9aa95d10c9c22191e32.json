@@ -1,0 +1,31 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Liaoning Sheng",
+		"Benxi Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Benxi Xian": {
+			"local_code": "本溪满族自治县",
+			"local_name": "本溪县"
+		},
+		"Huanren Xian": {
+			"local_code": "桓仁满族自治县",
+			"local_name": "桓仁县"
+		},
+		"Mingshan Qu": {
+			"local_code": "明山区"
+		},
+		"Nanfen Qu": {
+			"local_code": "南芬区"
+		},
+		"Pingshan Qu": {
+			"local_code": "平山区"
+		},
+		"Xihu Qu": {
+			"local_code": "溪湖区"
+		}
+	}
+}

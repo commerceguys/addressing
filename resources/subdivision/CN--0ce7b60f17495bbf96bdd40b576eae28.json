@@ -1,0 +1,63 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Sichuan Sheng",
+		"Liangshan Zhou"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Butuo Xian": {
+			"local_code": "布拖县"
+		},
+		"Dechang Xian": {
+			"local_code": "德昌县"
+		},
+		"Ganluo Xian": {
+			"local_code": "甘洛县"
+		},
+		"Huidong Xian": {
+			"local_code": "会东县"
+		},
+		"Huili Xian": {
+			"local_code": "会理县"
+		},
+		"Jinyang Xian": {
+			"local_code": "金阳县"
+		},
+		"Leibo Xian": {
+			"local_code": "雷波县"
+		},
+		"Meigu Xian": {
+			"local_code": "美姑县"
+		},
+		"Mianning Xian": {
+			"local_code": "冕宁县"
+		},
+		"Muli Xian": {
+			"local_code": "木里藏族自治县",
+			"local_name": "木里县"
+		},
+		"Ningnan Xian": {
+			"local_code": "宁南县"
+		},
+		"Puge Xian": {
+			"local_code": "普格县"
+		},
+		"Xide Xian": {
+			"local_code": "喜德县"
+		},
+		"Xichang Shi": {
+			"local_code": "西昌市"
+		},
+		"Yanyuan Xian": {
+			"local_code": "盐源县"
+		},
+		"Yuexi Xian": {
+			"local_code": "越西县"
+		},
+		"Zhaojue Xian": {
+			"local_code": "昭觉县"
+		}
+	}
+}

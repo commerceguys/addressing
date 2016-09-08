@@ -1,0 +1,45 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Guizhou Sheng",
+		"Tongren Diqu"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Dejiang Xian": {
+			"local_code": "德江县"
+		},
+		"Jiangkou Xian": {
+			"local_code": "江口县"
+		},
+		"Shiqian Xian": {
+			"local_code": "石阡县"
+		},
+		"Sinan Xian": {
+			"local_code": "思南县"
+		},
+		"Songtao Xian": {
+			"local_code": "松桃苗族自治县",
+			"local_name": "松桃县"
+		},
+		"Tongren Shi": {
+			"local_code": "铜仁市"
+		},
+		"Wanshan Tequ": {
+			"local_code": "万山特区"
+		},
+		"Yanhe Xian": {
+			"local_code": "沿河土家族自治县",
+			"local_name": "沿河县"
+		},
+		"Yinjiang Xian": {
+			"local_code": "印江土家族苗族自治县",
+			"local_name": "印江县"
+		},
+		"Yuping Xian": {
+			"local_code": "玉屏侗族自治县",
+			"local_name": "玉屏县"
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"country_code": "CL",
+	"parents": [
+		"CL",
+		"Los Ríos"
+	],
+	"subdivisions": {
+		"Corral": [],
+		"Futrono": [],
+		"La Unión": [],
+		"Lago Ranco": [],
+		"Lanco": [],
+		"Los Lagos": [],
+		"Máfil": [],
+		"Mariquina": [],
+		"Paillaco": [],
+		"Panguipulli": [],
+		"Río Bueno": [],
+		"Valdivia": []
+	}
+}

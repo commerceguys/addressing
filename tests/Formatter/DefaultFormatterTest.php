@@ -115,7 +115,7 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
         $address = new Address();
         $address = $address
             ->withCountryCode('AD')
-            ->withLocality('AD-07')
+            ->withLocality("Parròquia d'Andorra la Vella")
             ->withPostalCode('AD500')
             ->withAddressLine1('C. Prat de la Creu, 62-64');
 
@@ -198,16 +198,16 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
         $address = new Address();
         $address = $address
             ->withCountryCode('TW')
-            ->withAdministrativeArea('TW-TPE')  // Taipei city
-            ->withLocality('TW-TPE-e3cc33')  // Da-an district
+            ->withAdministrativeArea('Taipei City')
+            ->withLocality("Da'an District")
             ->withAddressLine1('Sec. 3 Hsin-yi Rd.')
             ->withPostalCode('106')
             // Any HTML in the fields is supposed to be removed when formatting
             // for text, and escaped when formatting for html.
             ->withOrganization('Giant <h2>Bike</h2> Store')
             ->withRecipient('Mr. Liu')
-            ->withLocale('zh-hant');
-        $this->formatter->setLocale('zh-hant');
+            ->withLocale('zh-Hant');
+        $this->formatter->setLocale('zh-Hant');
 
         // Test adding a new wrapper attribute, and passing a value as an array.
         $options = ['translate' => 'no', 'class' => ['address', 'postal-address']];
@@ -248,7 +248,7 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
         $address = new Address();
         $address = $address
             ->withCountryCode('US')
-            ->withAdministrativeArea('US-CA')
+            ->withAdministrativeArea('CA')
             ->withPostalCode('94043')
             ->withAddressLine1('1098 Alta Ave');
 

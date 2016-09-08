@@ -1,0 +1,48 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Guizhou Sheng",
+		"Qiannan Zhou"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Duyun Shi": {
+			"local_code": "都匀市"
+		},
+		"Dushan Xian": {
+			"local_code": "独山县"
+		},
+		"Fuquan Shi": {
+			"local_code": "福泉市"
+		},
+		"Guiding Xian": {
+			"local_code": "贵定县"
+		},
+		"Huishui Xian": {
+			"local_code": "惠水县"
+		},
+		"Libo Xian": {
+			"local_code": "荔波县"
+		},
+		"Longli Xian": {
+			"local_code": "龙里县"
+		},
+		"Luodian Xian": {
+			"local_code": "罗甸县"
+		},
+		"Pingtang Xian": {
+			"local_code": "平塘县"
+		},
+		"Sandu Xian": {
+			"local_code": "三都水族自治县",
+			"local_name": "三都县"
+		},
+		"Weng'an Xian": {
+			"local_code": "瓮安县"
+		},
+		"Changshun Xian": {
+			"local_code": "长顺县"
+		}
+	}
+}

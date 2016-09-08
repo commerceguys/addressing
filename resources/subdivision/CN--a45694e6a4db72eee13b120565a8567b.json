@@ -1,0 +1,44 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Jiangxi Sheng",
+		"Fuzhou Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Chongren Xian": {
+			"local_code": "崇仁县"
+		},
+		"Dongxiang Xian": {
+			"local_code": "东乡县"
+		},
+		"Guangchang Xian": {
+			"local_code": "广昌县"
+		},
+		"Jinxi Xian": {
+			"local_code": "金溪县"
+		},
+		"Le'an Xian": {
+			"local_code": "乐安县"
+		},
+		"Lichuan Xian": {
+			"local_code": "黎川县"
+		},
+		"Linchuan Qu": {
+			"local_code": "临川区"
+		},
+		"Nancheng Xian": {
+			"local_code": "南城县"
+		},
+		"Nanfeng Xian": {
+			"local_code": "南丰县"
+		},
+		"Yihuang Xian": {
+			"local_code": "宜黄县"
+		},
+		"Zixi Xian": {
+			"local_code": "资溪县"
+		}
+	}
+}

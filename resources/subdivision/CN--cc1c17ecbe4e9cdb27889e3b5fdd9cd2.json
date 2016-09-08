@@ -1,0 +1,41 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Xizang Zizhiqu",
+		"Nagqu Diqu"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Amdo Xian": {
+			"local_code": "安多县"
+		},
+		"Baqên Xian": {
+			"local_code": "巴青县"
+		},
+		"Bangoin Xian": {
+			"local_code": "班戈县"
+		},
+		"Biru Xian": {
+			"local_code": "比如县"
+		},
+		"Lhari Xian": {
+			"local_code": "嘉黎县"
+		},
+		"Nagqu Xian": {
+			"local_code": "那曲县"
+		},
+		"Nyima Xian": {
+			"local_code": "尼玛县"
+		},
+		"Nyainrong Xian": {
+			"local_code": "聂荣县"
+		},
+		"Xainza Xian": {
+			"local_code": "申扎县"
+		},
+		"Sog Xian": {
+			"local_code": "索县"
+		}
+	}
+}

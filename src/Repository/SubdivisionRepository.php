@@ -4,12 +4,11 @@ namespace CommerceGuys\Addressing\Repository;
 
 use CommerceGuys\Addressing\Collection\LazySubdivisionCollection;
 use CommerceGuys\Addressing\Enum\PatternType;
+use CommerceGuys\Addressing\Helper\LocaleHelper;
 use CommerceGuys\Addressing\Model\Subdivision;
 
 class SubdivisionRepository implements SubdivisionRepositoryInterface
 {
-    use DefinitionTranslatorTrait;
-
     /**
      * The path where subdivision definitions are stored.
      *
@@ -57,41 +56,25 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
     /**
      * {@inheritdoc}
      */
-    public function get($id, $locale = null)
+    public function get($code, array $parents)
     {
-        $idParts = explode('-', $id);
-        if (count($idParts) < 2) {
-            // Invalid id, nothing to load.
-            return null;
-        }
-
-        // The default ids are constructed to contain the country code
-        // and parent id. For "BR-AL-64b095" BR is the country code and BR-AL
-        // is the parent id.
-        array_pop($idParts);
-        $countryCode = $idParts[0];
-        $parentId = implode('-', $idParts);
-        if ($parentId == $countryCode) {
-            $parentId = null;
-        }
-        $definitions = $this->loadDefinitions($countryCode, $parentId);
-
-        return $this->createSubdivisionFromDefinitions($id, $definitions, $locale);
+        $definitions = $this->loadDefinitions($parents);
+        return $this->createSubdivisionFromDefinitions($code, $definitions);
     }
 
     /**
      * {@inheritdoc}
      */
-    public function getAll($countryCode, $parentId = null, $locale = null)
+    public function getAll(array $parents)
     {
-        $definitions = $this->loadDefinitions($countryCode, $parentId);
+        $definitions = $this->loadDefinitions($parents);
         if (empty($definitions)) {
             return [];
         }
 
         $subdivisions = [];
-        foreach (array_keys($definitions['subdivisions']) as $id) {
-            $subdivisions[$id] = $this->createSubdivisionFromDefinitions($id, $definitions, $locale);
+        foreach (array_keys($definitions['subdivisions']) as $code) {
+            $subdivisions[$code] = $this->createSubdivisionFromDefinitions($code, $definitions);
         }
 
         return $subdivisions;
@@ -100,17 +83,18 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
     /**
      * {@inheritdoc}
      */
-    public function getList($countryCode, $parentId = null, $locale = null)
+    public function getList(array $parents, $locale = null)
     {
-        $definitions = $this->loadDefinitions($countryCode, $parentId);
+        $definitions = $this->loadDefinitions($parents);
         if (empty($definitions)) {
             return [];
         }
 
+        $definitionLocale = isset($definitions['locale']) ? $definitions['locale'] : '';
+        $useLocalName = LocaleHelper::match($locale, $definitionLocale);
         $list = [];
-        foreach ($definitions['subdivisions'] as $id => $definition) {
-            $definition = $this->translateDefinition($definition, $locale);
-            $list[$id] = $definition['name'];
+        foreach ($definitions['subdivisions'] as $code => $definition) {
+            $list[$code] = $useLocalName ? $definition['local_name'] : $definition['name'];
         }
 
         return $list;
@@ -130,133 +114,168 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
     }
 
     /**
-     * Loads the subdivision definitions for the provided country code.
+     * Checks whether predefined subdivisions exist for the provided parents.
      *
-     * @param string $countryCode The country code.
-     * @param int    $parentId    The parent id.
-     *
-     * @return array The subdivision definitions.
-     */
-    protected function loadDefinitions($countryCode, $parentId = null)
-    {
-        $lookupId = $parentId ? $parentId : $countryCode;
-        if (isset($this->definitions[$lookupId])) {
-            return $this->definitions[$lookupId];
-        }
-
-        // If there are predefined subdivisions at this level, try to load them.
-        $this->definitions[$lookupId] = [];
-        if ($this->hasData($countryCode, $parentId)) {
-            $filename = $this->definitionPath . $lookupId . '.json';
-            if ($rawDefinition = @file_get_contents($filename)) {
-                $this->definitions[$lookupId] = json_decode($rawDefinition, true);
-            }
-        }
-
-        return $this->definitions[$lookupId];
-    }
-
-    /**
-     * Checks whether predefined subdivisions exist for the provided parent id.
-     *
-     * @param string $countryCode The country code.
-     * @param int    $parentId    The parent id.
+     * @param array $parents The parents (country code, subdivision codes).
      *
      * @return bool TRUE if predefined subdivisions exist for the provided
-     *              parent id, FALSE otherwise.
+     *              parents, FALSE otherwise.
      */
-    protected function hasData($countryCode, $parentId = null)
+    protected function hasData(array $parents)
     {
+        $countryCode = $parents[0];
         $depth = $this->getDepth($countryCode);
         if ($depth == 0) {
             return false;
         }
-
         // At least the first level has data.
         $hasData = true;
-        if (!is_null($parentId)) {
+        if (count($parents) > 1) {
             // After the first level it is possible for predefined subdivisions
             // to exist at a given level, but not for that specific parent.
             // That's why the parent definition has the most precise answer.
-            $idParts = explode('-', $parentId);
-            array_pop($idParts);
-            $grandparentId = implode('-', $idParts);
-            if (isset($this->definitions[$grandparentId]['subdivisions'][$parentId])) {
-                $definition = $this->definitions[$grandparentId]['subdivisions'][$parentId];
+            $grandparents = $parents;
+            $parentId = array_pop($grandparents);
+            $parentGroup = $this->buildGroup($grandparents);
+            if (isset($this->definitions[$parentGroup]['subdivisions'][$parentId])) {
+                $definition = $this->definitions[$parentGroup]['subdivisions'][$parentId];
                 $hasData = !empty($definition['has_children']);
             } else {
                 // The parent definition wasn't loaded previously, fallback
                 // to guessing based on depth.
-                $requestedDepth = substr_count($parentId, '-') + 1;
-                $hasData = ($requestedDepth <= $depth);
+                $neededDepth = count($parents);
+                $hasData = ($neededDepth <= $depth);
+            }
+        }
+        return $hasData;
+    }
+
+    /**
+     * Loads the subdivision definitions for the provided parents.
+     *
+     * @param array $parents The parents (country code, subdivision codes).
+     *
+     * @return array The subdivision definitions.
+     */
+    protected function loadDefinitions($parents)
+    {
+        $group = $this->buildGroup($parents);
+        if (isset($this->definitions[$group])) {
+            return $this->definitions[$group];
+        }
+
+        // If there are predefined subdivisions at this level, try to load them.
+        $this->definitions[$group] = [];
+        if ($this->hasData($parents)) {
+            $filename = $this->definitionPath . $group . '.json';
+            if ($rawDefinition = @file_get_contents($filename)) {
+                $this->definitions[$group] = json_decode($rawDefinition, true);
+                $this->definitions[$group] = $this->processDefinitions($this->definitions[$group]);
             }
         }
 
-        return $hasData;
+        return $this->definitions[$group];
+    }
+
+    /**
+     * Processes the loaded definitions.
+     *
+     * Adds keys and values that were removed from the JSON files for brevity.
+     *
+     * @param array $definitions The definitions
+     *
+     * @return array The processed definitions.
+     */
+    protected function processDefinitions(array $definitions)
+    {
+        foreach ($definitions['subdivisions'] as $code => &$definition) {
+            // Add common keys from the root level.
+            $definition['country_code'] = $definitions['country_code'];
+            if (isset($definitions['locale'])) {
+                $definition['locale'] = $definitions['locale'];
+            }
+            // Ensure the presence of code and name.
+            $definition['code'] = $code;
+            if (!isset($definition['name'])) {
+                $definition['name'] = $code;
+            }
+            if (isset($definition['local_code']) && !isset($definition['local_name'])) {
+                $definition['local_name'] = $definition['local_code'];
+            }
+        }
+
+        return $definitions;
+    }
+
+    /**
+     * Builds a group from the provided parents.
+     *
+     * Used for storing a country's subdivisions of a specific level.
+     *
+     * @param array $parents The parents (country code, subdivision codes).
+     *
+     * @return string The group.
+     */
+    protected function buildGroup(array $parents)
+    {
+        if (empty($parents)) {
+            throw new \InvalidArgumentException('The $parents argument must not be empty.');
+        }
+        $countryCode = array_shift($parents);
+        $group = $countryCode;
+        if ($parents) {
+            // A dash per key allows the depth to be guessed later.
+            $group .= str_repeat('-', count($parents));
+            // Hash the remaining keys to ensure that the group is ASCII safe.
+            // crc32b is the fastest but has collisions due to its short length.
+            // sha1 and md5 are forbidden by many projects and organizations.
+            // This is the next fastest option.
+            $group .= hash('tiger128,3', implode('-', $parents));
+        }
+
+        return $group;
     }
 
     /**
      * Creates a subdivision object from the provided definitions.
      *
-     * @param int    $id         The subdivision id.
-     * @param array  $definition The subdivision definitions.
-     * @param string $locale     The locale (e.g. fr-FR).
+     * @param int    $code        The subdivision code.
+     * @param array  $definitions The subdivision definitions.
      *
      * @return Subdivision
      */
-    protected function createSubdivisionFromDefinitions($id, array $definitions, $locale)
+    protected function createSubdivisionFromDefinitions($code, array $definitions)
     {
-        if (!isset($definitions['subdivisions'][$id])) {
+        if (!isset($definitions['subdivisions'][$code])) {
             // No matching definition found.
             return null;
         }
 
-        $definition = $this->translateDefinition($definitions['subdivisions'][$id], $locale);
-        // Add common keys from the root level.
-        $definition['country_code'] = $definitions['country_code'];
-        $definition['parent_id'] = $definitions['parent_id'];
-        $definition['locale'] = $definitions['locale'];
-        // Provide defaults.
-        if (!isset($definition['code'])) {
-            $definition['code'] = $definition['name'];
-        }
+        $definition = $definitions['subdivisions'][$code];
+        // The 'parents' key is omitted when it contains just the country code.
+        $definitions += [
+            'parents' => [$definitions['country_code']],
+        ];
+        $parents = $definitions['parents'];
         // Load the parent, if known.
         $definition['parent'] = null;
-        if (isset($definition['parent_id'])) {
-            $parentId = $definition['parent_id'];
-            if (!isset($this->parents[$parentId])) {
-                $this->parents[$parentId] = $this->get($definition['parent_id']);
+        if (count($parents) > 1) {
+            $grandparents = $parents;
+            $parentId = array_pop($grandparents);
+            $parentGroup = $this->buildGroup($grandparents);
+            if (!isset($this->parents[$parentGroup][$parentId])) {
+                $this->parents[$parentGroup][$parentId] = $this->get($parentId, $grandparents);
             }
-            $definition['parent'] = $this->parents[$parentId];
+            $definition['parent'] = $this->parents[$parentGroup][$parentId];
         }
-
-        $subdivision = new Subdivision();
-        // Bind the closure to the Subdivision object, giving it access to its
-        // protected properties. Faster than both setters and reflection.
-        $setValues = \Closure::bind(function ($id, $definition) {
-            $this->parent = $definition['parent'];
-            $this->countryCode = $definition['country_code'];
-            $this->id = $id;
-            $this->code = $definition['code'];
-            $this->name = $definition['name'];
-            $this->locale = $definition['locale'];
-            if (isset($definition['postal_code_pattern'])) {
-                $this->postalCodePattern = $definition['postal_code_pattern'];
-                if (isset($definition['postal_code_pattern_type'])) {
-                    $this->postalCodePatternType = $definition['postal_code_pattern_type'];
-                } else {
-                    $this->postalCodePatternType = PatternType::getDefault();
-                }
-            }
-        }, $subdivision, '\CommerceGuys\Addressing\Model\Subdivision');
-        $setValues($id, $definition);
-
+        // Prepare children.
         if (!empty($definition['has_children'])) {
-            $children = new LazySubdivisionCollection($definition['country_code'], $id, $definition['locale']);
+            $childrenParents = array_merge($parents, [$code]);
+            $children = new LazySubdivisionCollection($childrenParents);
             $children->setRepository($this);
-            $subdivision->setChildren($children);
+            $definition['children'] = $children;
         }
 
-        return $subdivision;
+        return new Subdivision($definition);
     }
 }

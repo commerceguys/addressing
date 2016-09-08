@@ -1,70 +1,35 @@
 {
 	"country_code": "AE",
-	"parent_id": null,
-	"locale": "ar-Latn",
+	"locale": "ar",
 	"subdivisions": {
-		"AE-AZ": {
-			"code": "أبو ظبي",
-			"name": "Abu Dhabi",
-			"translations": {
-				"ar": {
-					"name": "أبو ظبي"
-				}
-			}
+		"Abu Dhabi": {
+			"local_code": "أبو ظبي",
+			"iso_code": "AE-AZ"
 		},
-		"AE-FU": {
-			"code": "الفجيرة",
-			"name": "Fujairah",
-			"translations": {
-				"ar": {
-					"name": "الفجيرة"
-				}
-			}
+		"Fujairah": {
+			"local_code": "الفجيرة",
+			"iso_code": "AE-FU"
 		},
-		"AE-UQ": {
-			"code": "ام القيوين",
-			"name": "Umm Al Quwain",
-			"translations": {
-				"ar": {
-					"name": "ام القيوين"
-				}
-			}
+		"Umm Al Quwain": {
+			"local_code": "ام القيوين",
+			"iso_code": "AE-UQ"
 		},
-		"AE-SH": {
-			"code": "إمارة الشارقةّ",
-			"name": "Sharjah",
-			"translations": {
-				"ar": {
-					"name": "إمارة الشارقةّ"
-				}
-			}
+		"Sharjah": {
+			"local_code": "إمارة الشارقةّ",
+			"iso_code": "AE-SH"
 		},
-		"AE-RK": {
-			"code": "إمارة رأس الخيمة",
-			"name": "Ras al Khaimah",
-			"translations": {
-				"ar": {
-					"name": "إمارة رأس الخيمة"
-				}
-			}
+		"Ras al Khaimah": {
+			"local_code": "إمارة رأس الخيمة",
+			"iso_code": "AE-RK"
 		},
-		"AE-DU": {
-			"code": "إمارة دبيّ",
-			"name": "Dubai",
-			"translations": {
-				"ar": {
-					"name": "دبي"
-				}
-			}
+		"Dubai": {
+			"local_code": "إمارة دبيّ",
+			"local_name": "دبي",
+			"iso_code": "AE-DU"
 		},
-		"AE-AJ": {
-			"code": "عجمان",
-			"name": "Ajman",
-			"translations": {
-				"ar": {
-					"name": "عجمان"
-				}
-			}
+		"Ajman": {
+			"local_code": "عجمان",
+			"iso_code": "AE-AJ"
 		}
 	}
 }

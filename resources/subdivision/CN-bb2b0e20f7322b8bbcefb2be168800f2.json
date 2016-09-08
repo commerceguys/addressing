@@ -1,0 +1,49 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Guizhou Sheng"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Anshun Shi": {
+			"local_code": "安顺市",
+			"has_children": true
+		},
+		"Bijie Diqu": {
+			"local_code": "毕节地区",
+			"has_children": true
+		},
+		"Guiyang Shi": {
+			"local_code": "贵阳市",
+			"has_children": true
+		},
+		"Liupanshui Shi": {
+			"local_code": "六盘水市",
+			"has_children": true
+		},
+		"Qiandongnan Zhou": {
+			"local_code": "黔东南苗族侗族自治州",
+			"local_name": "黔东南州",
+			"has_children": true
+		},
+		"Qiannan Zhou": {
+			"local_code": "黔南布依族苗族自治州",
+			"local_name": "黔南州",
+			"has_children": true
+		},
+		"Qianxinan Zhou": {
+			"local_code": "黔西南布依族苗族自治州",
+			"local_name": "黔西南州",
+			"has_children": true
+		},
+		"Tongren Diqu": {
+			"local_code": "铜仁地区",
+			"has_children": true
+		},
+		"Zunyi Shi": {
+			"local_code": "遵义市",
+			"has_children": true
+		}
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"country_code": "KR",
+	"parents": [
+		"KR",
+		"Chungcheongnam-do",
+		"Cheonan-si"
+	],
+	"locale": "ko",
+	"subdivisions": {
+		"Dongnam-gu": {
+			"local_code": "동남구",
+			"postal_code_pattern": "31[0-2]|330"
+		},
+		"Seobuk-gu": {
+			"local_code": "서북구",
+			"postal_code_pattern": "31[01]|331"
+		}
+	}
+}

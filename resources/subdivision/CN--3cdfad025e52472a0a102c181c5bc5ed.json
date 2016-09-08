@@ -1,0 +1,63 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Taiwan",
+		"Nantou County"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Puli Township": {
+			"local_code": "埔里鎮",
+			"postal_code_pattern": "545"
+		},
+		"Caotun Township": {
+			"local_code": "草屯鎮",
+			"postal_code_pattern": "542"
+		},
+		"Guoxing Township": {
+			"local_code": "國姓鄉",
+			"postal_code_pattern": "544"
+		},
+		"Jiji Township": {
+			"local_code": "集集鎮",
+			"postal_code_pattern": "552"
+		},
+		"Lugu Township": {
+			"local_code": "鹿谷鄉",
+			"postal_code_pattern": "558"
+		},
+		"Mingjian Township": {
+			"local_code": "名間鄉",
+			"postal_code_pattern": "551"
+		},
+		"Nantou City": {
+			"local_code": "南投市",
+			"postal_code_pattern": "540"
+		},
+		"Ren'ai Township": {
+			"local_code": "仁愛鄉",
+			"postal_code_pattern": "546"
+		},
+		"Shuili Township": {
+			"local_code": "水里鄉",
+			"postal_code_pattern": "553"
+		},
+		"Xinyi Township": {
+			"local_code": "信義鄉",
+			"postal_code_pattern": "556"
+		},
+		"Yuchi Township": {
+			"local_code": "魚池鄉",
+			"postal_code_pattern": "555"
+		},
+		"Zhongliao Township": {
+			"local_code": "中寮鄉",
+			"postal_code_pattern": "541"
+		},
+		"Zhushan Township": {
+			"local_code": "竹山鎮",
+			"postal_code_pattern": "557"
+		}
+	}
+}

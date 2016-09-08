@@ -1,0 +1,34 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Gansu Sheng",
+		"Jiuquan Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Aksay Xian": {
+			"local_code": "阿克塞哈萨克族自治县",
+			"local_name": "阿克塞县"
+		},
+		"Dunhuang Shi": {
+			"local_code": "敦煌市"
+		},
+		"Guazhou Xian": {
+			"local_code": "瓜州县"
+		},
+		"Jinta Xian": {
+			"local_code": "金塔县"
+		},
+		"Subei Xian": {
+			"local_code": "肃北蒙古族自治县",
+			"local_name": "肃北县"
+		},
+		"Suzhou Qu": {
+			"local_code": "肃州区"
+		},
+		"Yumen Shi": {
+			"local_code": "玉门市"
+		}
+	}
+}

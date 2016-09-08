@@ -1,0 +1,62 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Jiangsu Sheng"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Changzhou Shi": {
+			"local_code": "常州市",
+			"has_children": true
+		},
+		"Huai'an Shi": {
+			"local_code": "淮安市",
+			"has_children": true
+		},
+		"Lianyungang Shi": {
+			"local_code": "连云港市",
+			"has_children": true
+		},
+		"Nanjing Shi": {
+			"local_code": "南京市",
+			"has_children": true
+		},
+		"Nantong Shi": {
+			"local_code": "南通市",
+			"has_children": true
+		},
+		"Suzhou Shi": {
+			"local_code": "苏州市",
+			"has_children": true
+		},
+		"Suqian Shi": {
+			"local_code": "宿迁市",
+			"has_children": true
+		},
+		"Taizhou Shi": {
+			"local_code": "泰州市",
+			"has_children": true
+		},
+		"Wuxi Shi": {
+			"local_code": "无锡市",
+			"has_children": true
+		},
+		"Xuzhou Shi": {
+			"local_code": "徐州市",
+			"has_children": true
+		},
+		"Yancheng Shi": {
+			"local_code": "盐城市",
+			"has_children": true
+		},
+		"Yangzhou Shi": {
+			"local_code": "扬州市",
+			"has_children": true
+		},
+		"Zhenjiang Shi": {
+			"local_code": "镇江市",
+			"has_children": true
+		}
+	}
+}

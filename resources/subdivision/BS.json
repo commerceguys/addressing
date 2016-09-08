@@ -1,65 +1,75 @@
 {
 	"country_code": "BS",
-	"parent_id": null,
-	"locale": "en",
 	"subdivisions": {
-		"BS-fc2a25": {
-			"name": "Abaco"
+		"Abaco": {
+			"name": "Abaco Islands"
 		},
-		"BS-AK": {
-			"name": "Acklins"
+		"Acklins": {
+			"name": "Acklins",
+			"iso_code": "BS-AK"
 		},
-		"BS-0adc5a": {
-			"name": "Andros"
+		"Andros": {
+			"name": "Andros Island"
 		},
-		"BS-BY": {
-			"name": "Berry Islands"
+		"Berry Islands": {
+			"name": "Berry Islands",
+			"iso_code": "BS-BY"
 		},
-		"BS-BI": {
-			"name": "Bimini"
+		"Bimini": {
+			"name": "Bimini",
+			"iso_code": "BS-BI"
 		},
-		"BS-CI": {
-			"name": "Cat Island"
+		"Cat Island": {
+			"name": "Cat Island",
+			"iso_code": "BS-CI"
 		},
-		"BS-7390e7": {
+		"Crooked Island": {
 			"name": "Crooked Island"
 		},
-		"BS-c55623": {
+		"Eleuthera": {
 			"name": "Eleuthera"
 		},
-		"BS-EX": {
-			"name": "Exuma"
+		"Exuma": {
+			"name": "Exuma and Cays",
+			"iso_code": "BS-EX"
 		},
-		"BS-5c967e": {
+		"Grand Bahama": {
 			"name": "Grand Bahama"
 		},
-		"BS-HI": {
-			"name": "Harbour Island"
+		"Harbour Island": {
+			"name": "Harbour Island",
+			"iso_code": "BS-HI"
 		},
-		"BS-IN": {
-			"name": "Inagua"
+		"Inagua": {
+			"name": "Inagua",
+			"iso_code": "BS-IN"
 		},
-		"BS-LI": {
-			"name": "Long Island"
+		"Long Island": {
+			"name": "Long Island",
+			"iso_code": "BS-LI"
 		},
-		"BS-MG": {
-			"name": "Mayaguana"
+		"Mayaguana": {
+			"name": "Mayaguana",
+			"iso_code": "BS-MG"
 		},
-		"BS-418c39": {
-			"code": "N.P.",
+		"N.P.": {
 			"name": "New Providence"
 		},
-		"BS-RI": {
-			"name": "Ragged Island"
+		"Ragged Island": {
+			"name": "Ragged Island",
+			"iso_code": "BS-RI"
 		},
-		"BS-RC": {
-			"name": "Rum Cay"
+		"Rum Cay": {
+			"name": "Rum Cay",
+			"iso_code": "BS-RC"
 		},
-		"BS-SS": {
-			"name": "San Salvador"
+		"San Salvador": {
+			"name": "San Salvador",
+			"iso_code": "BS-SS"
 		},
-		"BS-SW": {
-			"name": "Spanish Wells"
+		"Spanish Wells": {
+			"name": "Spanish Wells",
+			"iso_code": "BS-SW"
 		}
 	}
 }

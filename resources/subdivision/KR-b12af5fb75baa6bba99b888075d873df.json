@@ -1,0 +1,67 @@
+{
+	"country_code": "KR",
+	"parents": [
+		"KR",
+		"Jeollabuk-do"
+	],
+	"locale": "ko",
+	"subdivisions": {
+		"Gochang-gun": {
+			"local_code": "고창군",
+			"postal_code_pattern": "564|5(?:79|85)"
+		},
+		"Gunsan-si": {
+			"local_code": "군산시",
+			"postal_code_pattern": "54[01]|573"
+		},
+		"Gimje-si": {
+			"local_code": "김제시",
+			"postal_code_pattern": "543|576"
+		},
+		"Namwon-si": {
+			"local_code": "남원시",
+			"postal_code_pattern": "55[78]|590"
+		},
+		"Muju-gun": {
+			"local_code": "무주군",
+			"postal_code_pattern": "555|568"
+		},
+		"Buan-gun": {
+			"local_code": "부안군",
+			"postal_code_pattern": "563|579"
+		},
+		"Sunchang-gun": {
+			"local_code": "순창군",
+			"postal_code_pattern": "560|595"
+		},
+		"Wanju-gun": {
+			"local_code": "완주군",
+			"postal_code_pattern": "553|565"
+		},
+		"Iksan-si": {
+			"local_code": "익산시",
+			"postal_code_pattern": "54[56]|570"
+		},
+		"Imsil-gun": {
+			"local_code": "임실군",
+			"postal_code_pattern": "559|566"
+		},
+		"Jangsu-gun": {
+			"local_code": "장수군",
+			"postal_code_pattern": "556|597[\\-]8"
+		},
+		"Jeonju-si": {
+			"local_code": "전주시",
+			"postal_code_pattern": "5(?:4[89]|5[01])|56[01]",
+			"has_children": true
+		},
+		"Jeongeup-si": {
+			"local_code": "정읍시",
+			"postal_code_pattern": "56[12]|580"
+		},
+		"Jinan-gun": {
+			"local_code": "진안군",
+			"postal_code_pattern": "554|567"
+		}
+	}
+}

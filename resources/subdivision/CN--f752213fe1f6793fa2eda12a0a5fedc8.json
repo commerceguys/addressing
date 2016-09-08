@@ -1,0 +1,23 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Anhui Sheng",
+		"Ma'anshan Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Dangtu Xian": {
+			"local_code": "当涂县"
+		},
+		"Huashan Qu": {
+			"local_code": "花山区"
+		},
+		"Jinjiazhuang Qu": {
+			"local_code": "金家庄区"
+		},
+		"Yushan Qu": {
+			"local_code": "雨山区"
+		}
+	}
+}

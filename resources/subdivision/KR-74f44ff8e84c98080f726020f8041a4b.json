@@ -1,0 +1,59 @@
+{
+	"country_code": "KR",
+	"parents": [
+		"KR",
+		"Chungcheongbuk-do"
+	],
+	"locale": "ko",
+	"subdivisions": {
+		"Goesan-gun": {
+			"local_code": "괴산군",
+			"postal_code_pattern": "280|367"
+		},
+		"Danyang-gun": {
+			"local_code": "단양군",
+			"postal_code_pattern": "270|395"
+		},
+		"Boeun-gun": {
+			"local_code": "보은군",
+			"postal_code_pattern": "289|376"
+		},
+		"Yeongdong-gun": {
+			"local_code": "영동군",
+			"postal_code_pattern": "291|370"
+		},
+		"Okcheon-gun": {
+			"local_code": "옥천군",
+			"postal_code_pattern": "290|373[\\-]8"
+		},
+		"Eumseong-gun": {
+			"local_code": "음성군",
+			"postal_code_pattern": "27[67]|369"
+		},
+		"Jecheon-si": {
+			"local_code": "제천시",
+			"postal_code_pattern": "27[12]|390"
+		},
+		"Jeungpyeong-gun": {
+			"local_code": "증평군",
+			"postal_code_pattern": "279|368"
+		},
+		"Jincheon-gun": {
+			"local_code": "진천군",
+			"postal_code_pattern": "278|365"
+		},
+		"Cheongwon-gun": {
+			"local_code": "청원군",
+			"postal_code_pattern": "28[13-5]|363"
+		},
+		"Cheongju-si": {
+			"local_code": "청주시",
+			"postal_code_pattern": "36[0-3]",
+			"has_children": true
+		},
+		"Chungju-si": {
+			"local_code": "충주시",
+			"postal_code_pattern": "27[3-5]|380"
+		}
+	}
+}

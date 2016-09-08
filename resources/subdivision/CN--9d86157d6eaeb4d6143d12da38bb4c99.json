@@ -1,0 +1,32 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Anhui Sheng",
+		"Huangshan Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Huangshan Qu": {
+			"local_code": "黄山区"
+		},
+		"Huizhou Qu": {
+			"local_code": "徽州区"
+		},
+		"Qimen Xian": {
+			"local_code": "祁门县"
+		},
+		"She Xian": {
+			"local_code": "歙县"
+		},
+		"Tunxi Qu": {
+			"local_code": "屯溪区"
+		},
+		"Xiuning Xian": {
+			"local_code": "休宁县"
+		},
+		"Yi Xian": {
+			"local_code": "黟县"
+		}
+	}
+}

@@ -1,0 +1,48 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Guangxi Zhuangzuzizhiqu",
+		"Baise Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Debao Xian": {
+			"local_code": "德保县"
+		},
+		"Jingxi Xian": {
+			"local_code": "靖西县"
+		},
+		"Leye Xian": {
+			"local_code": "乐业县"
+		},
+		"Lingyun Xian": {
+			"local_code": "凌云县"
+		},
+		"Longlin Xian": {
+			"local_code": "隆林各族自治县",
+			"local_name": "隆林县"
+		},
+		"Napo Xian": {
+			"local_code": "那坡县"
+		},
+		"Pingguo Xian": {
+			"local_code": "平果县"
+		},
+		"Tiandong Xian": {
+			"local_code": "田东县"
+		},
+		"Tianlin Xian": {
+			"local_code": "田林县"
+		},
+		"Tianyang Xian": {
+			"local_code": "田阳县"
+		},
+		"Xilin Xian": {
+			"local_code": "西林县"
+		},
+		"Youjiang Qu": {
+			"local_code": "右江区"
+		}
+	}
+}

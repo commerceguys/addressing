@@ -1,0 +1,29 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Sichuan Sheng",
+		"Meishan Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Danling Xian": {
+			"local_code": "丹棱县"
+		},
+		"Dongpo Qu": {
+			"local_code": "东坡区"
+		},
+		"Hongya Xian": {
+			"local_code": "洪雅县"
+		},
+		"Pengshan Xian": {
+			"local_code": "彭山县"
+		},
+		"Qingshen Xian": {
+			"local_code": "青神县"
+		},
+		"Renshou Xian": {
+			"local_code": "仁寿县"
+		}
+	}
+}

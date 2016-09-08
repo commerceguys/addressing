@@ -1,70 +1,79 @@
 {
 	"country_code": "CL",
-	"parent_id": null,
-	"locale": "es",
 	"subdivisions": {
-		"CL-AN": {
+		"Antofagasta": {
 			"name": "Antofagasta",
+			"iso_code": "CL-AN",
 			"has_children": true
 		},
-		"CL-AR": {
+		"Araucanía": {
 			"name": "Araucanía",
+			"iso_code": "CL-AR",
 			"has_children": true
 		},
-		"CL-AP": {
+		"Arica y Parinacota": {
 			"name": "Arica y Parinacota",
+			"iso_code": "CL-AP",
 			"has_children": true
 		},
-		"CL-AT": {
+		"Atacama": {
 			"name": "Atacama",
+			"iso_code": "CL-AT",
 			"has_children": true
 		},
-		"CL-AI": {
-			"code": "Aysén",
+		"Aysén": {
 			"name": "Aysén del General Carlos Ibáñez del Campo",
+			"iso_code": "CL-AI",
 			"has_children": true
 		},
-		"CL-BI": {
+		"Biobío": {
 			"name": "Biobío",
+			"iso_code": "CL-BI",
 			"has_children": true
 		},
-		"CL-CO": {
+		"Coquimbo": {
 			"name": "Coquimbo",
+			"iso_code": "CL-CO",
 			"has_children": true
 		},
-		"CL-LI": {
-			"code": "O'Higgins",
+		"O'Higgins": {
 			"name": "Libertador General Bernardo O'Higgins",
+			"iso_code": "CL-LI",
 			"has_children": true
 		},
-		"CL-LL": {
+		"Los Lagos": {
 			"name": "Los Lagos",
+			"iso_code": "CL-LL",
 			"has_children": true
 		},
-		"CL-LR": {
+		"Los Ríos": {
 			"name": "Los Ríos",
+			"iso_code": "CL-LR",
 			"has_children": true
 		},
-		"CL-MA": {
-			"code": "Magallanes",
+		"Magallanes": {
 			"name": "Magallanes y de la Antártica Chilena",
+			"iso_code": "CL-MA",
 			"has_children": true
 		},
-		"CL-ML": {
+		"Maule": {
 			"name": "Maule",
+			"iso_code": "CL-ML",
 			"has_children": true
 		},
-		"CL-RM": {
-			"code": "Región Metropolitana",
+		"Región Metropolitana": {
 			"name": "Metropolitana de Santiago",
+			"iso_code": "CL-RM",
 			"has_children": true
 		},
-		"CL-TA": {
+		"Tarapacá": {
 			"name": "Tarapacá",
+			"iso_code": "CL-TA",
 			"has_children": true
 		},
-		"CL-VS": {
+		"Valparaíso": {
 			"name": "Valparaíso",
+			"iso_code": "CL-VS",
 			"has_children": true
 		}
 	}

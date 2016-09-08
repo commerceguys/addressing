@@ -1,0 +1,26 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Guangdong Sheng",
+		"Foshan Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Shancheng Qu": {
+			"local_code": "禅城区"
+		},
+		"Gaoming Qu": {
+			"local_code": "高明区"
+		},
+		"Nanhai Qu": {
+			"local_code": "南海区"
+		},
+		"Sanshui Qu": {
+			"local_code": "三水区"
+		},
+		"Shunde Qu": {
+			"local_code": "顺德区"
+		}
+	}
+}

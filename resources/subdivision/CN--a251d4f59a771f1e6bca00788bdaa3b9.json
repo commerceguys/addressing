@@ -1,0 +1,49 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Guangxi Zhuangzuzizhiqu",
+		"Hechi Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Bama Xian": {
+			"local_code": "巴马瑶族自治县",
+			"local_name": "巴马县"
+		},
+		"Dahua Xian": {
+			"local_code": "大化瑶族自治县",
+			"local_name": "大化县"
+		},
+		"Donglan Xian": {
+			"local_code": "东兰县"
+		},
+		"Du'an Xian": {
+			"local_code": "都安瑶族自治县",
+			"local_name": "都安县"
+		},
+		"Fengshan Xian": {
+			"local_code": "凤山县"
+		},
+		"Huanjiang Xian": {
+			"local_code": "环江毛南族自治县",
+			"local_name": "环江县"
+		},
+		"Jinchengjiang Qu": {
+			"local_code": "金城江区"
+		},
+		"Luocheng Xian": {
+			"local_code": "罗城仫佬族自治县",
+			"local_name": "罗城县"
+		},
+		"Nandan Xian": {
+			"local_code": "南丹县"
+		},
+		"Tian'e Xian": {
+			"local_code": "天峨县"
+		},
+		"Yizhou Shi": {
+			"local_code": "宜州市"
+		}
+	}
+}

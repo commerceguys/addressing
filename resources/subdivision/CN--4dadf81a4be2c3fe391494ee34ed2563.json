@@ -1,0 +1,38 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Sichuan Sheng",
+		"Nanchong Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Gaoping Qu": {
+			"local_code": "高坪区"
+		},
+		"Jialing Qu": {
+			"local_code": "嘉陵区"
+		},
+		"Langzhong Shi": {
+			"local_code": "阆中市"
+		},
+		"Nanbu Xian": {
+			"local_code": "南部县"
+		},
+		"Peng'an Xian": {
+			"local_code": "蓬安县"
+		},
+		"Shunqing Qu": {
+			"local_code": "顺庆区"
+		},
+		"Xichong Xian": {
+			"local_code": "西充县"
+		},
+		"Yilong Xian": {
+			"local_code": "仪陇县"
+		},
+		"Yingshan Xian": {
+			"local_code": "营山县"
+		}
+	}
+}

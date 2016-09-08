@@ -1,0 +1,50 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Shaanxi Sheng",
+		"Xi'an Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Baqiao Qu": {
+			"local_code": "灞桥区"
+		},
+		"Beilin Qu": {
+			"local_code": "碑林区"
+		},
+		"Gaoling Xian": {
+			"local_code": "高陵县"
+		},
+		"Hu Xian": {
+			"local_code": "户县"
+		},
+		"Lantian Xian": {
+			"local_code": "蓝田县"
+		},
+		"Lianhu Qu": {
+			"local_code": "莲湖区"
+		},
+		"Lintong Qu": {
+			"local_code": "临潼区"
+		},
+		"Weiyang Qu": {
+			"local_code": "未央区"
+		},
+		"Xincheng Qu": {
+			"local_code": "新城区"
+		},
+		"Yanliang Qu": {
+			"local_code": "阎良区"
+		},
+		"Yanta Qu": {
+			"local_code": "雁塔区"
+		},
+		"Chang'an Qu": {
+			"local_code": "长安区"
+		},
+		"Zhouzhi Xian": {
+			"local_code": "周至县"
+		}
+	}
+}

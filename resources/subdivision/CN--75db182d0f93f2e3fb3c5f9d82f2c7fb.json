@@ -1,0 +1,35 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Anhui Sheng",
+		"Chuzhou Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Dingyuan Xian": {
+			"local_code": "定远县"
+		},
+		"Fengyang Xian": {
+			"local_code": "凤阳县"
+		},
+		"Lai'an Xian": {
+			"local_code": "来安县"
+		},
+		"Liangya Qu": {
+			"local_code": "琅琊区"
+		},
+		"Mingguang Shi": {
+			"local_code": "明光市"
+		},
+		"Nanqiao Qu": {
+			"local_code": "南谯区"
+		},
+		"Quanjiao Xian": {
+			"local_code": "全椒县"
+		},
+		"Tianchang Shi": {
+			"local_code": "天长市"
+		}
+	}
+}

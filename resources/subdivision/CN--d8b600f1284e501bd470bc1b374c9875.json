@@ -1,0 +1,38 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Yunnan Sheng",
+		"Lincang Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Cangyuan Xian": {
+			"local_code": "沧源佤族自治县",
+			"local_name": "沧源县"
+		},
+		"Fengqing Xian": {
+			"local_code": "凤庆县"
+		},
+		"Gengma Xian": {
+			"local_code": "耿马傣族佤族自治县",
+			"local_name": "耿马县"
+		},
+		"Linxiang Qu": {
+			"local_code": "临翔区"
+		},
+		"Shuangjiang Xian": {
+			"local_code": "双江拉祜族佤族布朗族傣族自治县",
+			"local_name": "双江县"
+		},
+		"Yongde Xian": {
+			"local_code": "永德县"
+		},
+		"Yun Xian": {
+			"local_code": "云县"
+		},
+		"Zhenkang Xian": {
+			"local_code": "镇康县"
+		}
+	}
+}

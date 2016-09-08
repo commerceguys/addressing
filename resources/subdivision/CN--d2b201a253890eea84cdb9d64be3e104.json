@@ -1,0 +1,47 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Fujian Sheng",
+		"Quanzhou Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Anxi Xian": {
+			"local_code": "安溪县"
+		},
+		"Dehua Xian": {
+			"local_code": "德化县"
+		},
+		"Fengze Qu": {
+			"local_code": "丰泽区"
+		},
+		"Hui'an Xian": {
+			"local_code": "惠安县"
+		},
+		"Jinmen Xian": {
+			"local_code": "金门县"
+		},
+		"Jinjiang Shi": {
+			"local_code": "晋江市"
+		},
+		"Licheng Qu": {
+			"local_code": "鲤城区"
+		},
+		"Luojiang Qu": {
+			"local_code": "洛江区"
+		},
+		"Nan'an Shi": {
+			"local_code": "南安市"
+		},
+		"Quangang Qu": {
+			"local_code": "泉港区"
+		},
+		"Shishi Shi": {
+			"local_code": "石狮市"
+		},
+		"Yongchun Xian": {
+			"local_code": "永春县"
+		}
+	}
+}

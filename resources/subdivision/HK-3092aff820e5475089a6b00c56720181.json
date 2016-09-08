@@ -1,0 +1,106 @@
+{
+	"country_code": "HK",
+	"parents": [
+		"HK",
+		"Kowloon"
+	],
+	"locale": "zh-Hant",
+	"subdivisions": {
+		"Kowloon City": {
+			"local_code": "九龍城"
+		},
+		"Kowloon Tong": {
+			"local_code": "九龍塘"
+		},
+		"Kowloon Bay": {
+			"local_code": "九龍灣"
+		},
+		"Yau Yat Chuen": {
+			"local_code": "又一村"
+		},
+		"To Kwa Wan": {
+			"local_code": "土瓜灣"
+		},
+		"Tai Kok Tsui": {
+			"local_code": "大角咀"
+		},
+		"Ngau Chi Wan": {
+			"local_code": "牛池灣"
+		},
+		"Ngau Tau Kok": {
+			"local_code": "牛頭角"
+		},
+		"Shek Kip Mei": {
+			"local_code": "石硤尾"
+		},
+		"Tsim Sha Tsui": {
+			"local_code": "尖沙咀"
+		},
+		"Jordan": {
+			"local_code": "佐敦"
+		},
+		"Ho Man Tin": {
+			"local_code": "何文田"
+		},
+		"Sau Mau Ping": {
+			"local_code": "秀茂坪"
+		},
+		"Mong Kok": {
+			"local_code": "旺角"
+		},
+		"Yau Ma Tei": {
+			"local_code": "油麻地"
+		},
+		"Yau Tong": {
+			"local_code": "油塘"
+		},
+		"Cheung Sha Wan": {
+			"local_code": "長沙灣"
+		},
+		"Hung Hom": {
+			"local_code": "紅磡"
+		},
+		"Mei Foo": {
+			"local_code": "美孚"
+		},
+		"Cha Kwo Ling": {
+			"local_code": "茶果嶺"
+		},
+		"Lai Chi Kok": {
+			"local_code": "荔枝角"
+		},
+		"Ma Tau Wai": {
+			"local_code": "馬頭圍"
+		},
+		"Choi Hung": {
+			"local_code": "彩虹"
+		},
+		"Sham Shui Po": {
+			"local_code": "深水埗"
+		},
+		"Wong Tai Sin": {
+			"local_code": "黃大仙"
+		},
+		"San Po Kong": {
+			"local_code": "新蒲崗"
+		},
+		"Tsz Wan Shan": {
+			"local_code": "慈雲山"
+		},
+		"Lok Fu": {
+			"local_code": "樂富"
+		},
+		"Wang Tau Hom": {
+			"local_code": "橫頭磡"
+		},
+		"Lam Tin": {
+			"local_code": "藍田"
+		},
+		"Kwun Tong": {
+			"local_code": "觀塘"
+		},
+		"Diamond Hill": {
+			"local_code": "鑽石山"
+		}
+	}
+}

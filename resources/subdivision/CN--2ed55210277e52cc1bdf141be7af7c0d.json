@@ -1,0 +1,30 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Gansu Sheng",
+		"Zhangye Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Ganzhou Qu": {
+			"local_code": "甘州区"
+		},
+		"Gaotai Xian": {
+			"local_code": "高台县"
+		},
+		"Linze Xian": {
+			"local_code": "临泽县"
+		},
+		"Minle Xian": {
+			"local_code": "民乐县"
+		},
+		"Shandan Xian": {
+			"local_code": "山丹县"
+		},
+		"Sunan Xian": {
+			"local_code": "肃南裕固族自治县",
+			"local_name": "肃南县"
+		}
+	}
+}

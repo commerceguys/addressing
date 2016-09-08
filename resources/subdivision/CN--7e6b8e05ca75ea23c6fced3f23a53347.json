@@ -1,0 +1,26 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Sichuan Sheng",
+		"Panzhihua Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Dong Qu": {
+			"local_code": "东区"
+		},
+		"Miyi Xian": {
+			"local_code": "米易县"
+		},
+		"Renhe Qu": {
+			"local_code": "仁和区"
+		},
+		"Xi Qu": {
+			"local_code": "西区"
+		},
+		"Yanbian Xian": {
+			"local_code": "盐边县"
+		}
+	}
+}

@@ -349,7 +349,7 @@ class AddressFormat
      *
      * This is a regular expression pattern used to validate postal codes.
      * Ignored if a subdivision defines its own full postal code pattern
-     * (E.g. CN-91, which is Hong Kong when specified as a Chinese province).
+     * (E.g. Hong Kong when specified as a Chinese province).
      *
      * @return string|null The postal code pattern.
      */

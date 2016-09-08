@@ -1,0 +1,32 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Liaoning Sheng",
+		"Jinzhou Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Beizhen Shi": {
+			"local_code": "北镇市"
+		},
+		"Guta Qu": {
+			"local_code": "古塔区"
+		},
+		"Heishan Xian": {
+			"local_code": "黑山县"
+		},
+		"Linghai Shi": {
+			"local_code": "凌海市"
+		},
+		"Linghe Qu": {
+			"local_code": "凌河区"
+		},
+		"Taihe Qu": {
+			"local_code": "太和区"
+		},
+		"Yi Xian": {
+			"local_code": "义县"
+		}
+	}
+}

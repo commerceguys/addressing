@@ -1,166 +1,137 @@
 {
 	"country_code": "BR",
-	"parent_id": null,
-	"locale": "pt",
 	"subdivisions": {
-		"BR-AC": {
-			"code": "AC",
+		"AC": {
 			"name": "Acre",
 			"postal_code_pattern": "699",
 			"has_children": true
 		},
-		"BR-AL": {
-			"code": "AL",
+		"AL": {
 			"name": "Alagoas",
 			"postal_code_pattern": "57",
 			"has_children": true
 		},
-		"BR-AP": {
-			"code": "AP",
+		"AP": {
 			"name": "Amapá",
 			"postal_code_pattern": "689",
 			"has_children": true
 		},
-		"BR-AM": {
-			"code": "AM",
+		"AM": {
 			"name": "Amazonas",
 			"postal_code_pattern": "69[0-24-8]",
 			"has_children": true
 		},
-		"BR-BA": {
-			"code": "BA",
+		"BA": {
 			"name": "Bahia",
 			"postal_code_pattern": "4[0-8]",
 			"has_children": true
 		},
-		"BR-CE": {
-			"code": "CE",
+		"CE": {
 			"name": "Ceará",
 			"postal_code_pattern": "6[0-3]",
 			"has_children": true
 		},
-		"BR-DF": {
-			"code": "DF",
+		"DF": {
 			"name": "Distrito Federal",
 			"postal_code_pattern": "7[0-1]|72[0-7]|73[0-6]",
 			"has_children": true
 		},
-		"BR-ES": {
-			"code": "ES",
+		"ES": {
 			"name": "Espírito Santo",
 			"postal_code_pattern": "29",
 			"has_children": true
 		},
-		"BR-GO": {
-			"code": "GO",
+		"GO": {
 			"name": "Goiás",
 			"postal_code_pattern": "72[89]|73[7-9]|7[4-6]",
 			"has_children": true
 		},
-		"BR-MA": {
-			"code": "MA",
+		"MA": {
 			"name": "Maranhão",
 			"postal_code_pattern": "65",
 			"has_children": true
 		},
-		"BR-MT": {
-			"code": "MT",
+		"MT": {
 			"name": "Mato Grosso",
 			"postal_code_pattern": "78[0-8]",
 			"has_children": true
 		},
-		"BR-MS": {
-			"code": "MS",
+		"MS": {
 			"name": "Mato Grosso do Sul",
 			"postal_code_pattern": "79",
 			"has_children": true
 		},
-		"BR-MG": {
-			"code": "MG",
+		"MG": {
 			"name": "Minas Gerais",
 			"postal_code_pattern": "3",
 			"has_children": true
 		},
-		"BR-PA": {
-			"code": "PA",
+		"PA": {
 			"name": "Pará",
 			"postal_code_pattern": "6[6-7]|68[0-8]",
 			"has_children": true
 		},
-		"BR-PB": {
-			"code": "PB",
+		"PB": {
 			"name": "Paraíba",
 			"postal_code_pattern": "58",
 			"has_children": true
 		},
-		"BR-PR": {
-			"code": "PR",
+		"PR": {
 			"name": "Paraná",
 			"postal_code_pattern": "8[0-7]",
 			"has_children": true
 		},
-		"BR-PE": {
-			"code": "PE",
+		"PE": {
 			"name": "Pernambuco",
 			"postal_code_pattern": "5[0-6]",
 			"has_children": true
 		},
-		"BR-PI": {
-			"code": "PI",
+		"PI": {
 			"name": "Piauí",
 			"postal_code_pattern": "64",
 			"has_children": true
 		},
-		"BR-RJ": {
-			"code": "RJ",
+		"RJ": {
 			"name": "Rio de Janeiro",
 			"postal_code_pattern": "2[0-8]",
 			"has_children": true
 		},
-		"BR-RN": {
-			"code": "RN",
+		"RN": {
 			"name": "Rio Grande do Norte",
 			"postal_code_pattern": "59",
 			"has_children": true
 		},
-		"BR-RS": {
-			"code": "RS",
+		"RS": {
 			"name": "Rio Grande do Sul",
 			"postal_code_pattern": "9",
 			"has_children": true
 		},
-		"BR-RO": {
-			"code": "RO",
+		"RO": {
 			"name": "Rondônia",
 			"postal_code_pattern": "76[89]|789",
 			"has_children": true
 		},
-		"BR-RR": {
-			"code": "RR",
+		"RR": {
 			"name": "Roraima",
 			"postal_code_pattern": "693",
 			"has_children": true
 		},
-		"BR-SC": {
-			"code": "SC",
+		"SC": {
 			"name": "Santa Catarina",
 			"postal_code_pattern": "8[89]",
 			"has_children": true
 		},
-		"BR-SP": {
-			"code": "SP",
+		"SP": {
 			"name": "São Paulo",
 			"postal_code_pattern": "[01][1-9]",
 			"has_children": true
 		},
-		"BR-SE": {
-			"code": "SE",
+		"SE": {
 			"name": "Sergipe",
 			"postal_code_pattern": "49",
 			"has_children": true
 		},
-		"BR-TO": {
-			"code": "TO",
+		"TO": {
 			"name": "Tocantins",
 			"postal_code_pattern": "77",
 			"has_children": true

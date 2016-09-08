@@ -1,0 +1,35 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Jiangsu Sheng",
+		"Huai'an Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Chuzhou Qu": {
+			"local_code": "楚州区"
+		},
+		"Hongze Xian": {
+			"local_code": "洪泽县"
+		},
+		"Huaiyin Qu": {
+			"local_code": "淮阴区"
+		},
+		"Jinhu Xian": {
+			"local_code": "金湖县"
+		},
+		"Lianshui Xian": {
+			"local_code": "涟水县"
+		},
+		"Qinghe Qu": {
+			"local_code": "清河区"
+		},
+		"Qingpu Qu": {
+			"local_code": "清浦区"
+		},
+		"Xuyi Xian": {
+			"local_code": "盱眙县"
+		}
+	}
+}

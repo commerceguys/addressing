@@ -1,0 +1,19 @@
+{
+	"country_code": "KR",
+	"parents": [
+		"KR",
+		"Gyeongsangbuk-do",
+		"Pohang-si"
+	],
+	"locale": "ko",
+	"subdivisions": {
+		"Nam-gu": {
+			"local_code": "남구",
+			"postal_code_pattern": "37[6-9]|790"
+		},
+		"Buk-gu": {
+			"local_code": "북구",
+			"postal_code_pattern": "37[5-79]|791"
+		}
+	}
+}

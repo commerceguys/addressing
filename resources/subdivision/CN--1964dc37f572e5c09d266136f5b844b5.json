@@ -1,0 +1,42 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Hebei Sheng",
+		"Langfang Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Anci Qu": {
+			"local_code": "安次区"
+		},
+		"Bazhou Shi": {
+			"local_code": "霸州市"
+		},
+		"Dachang Xian": {
+			"local_code": "大厂回族自治县",
+			"local_name": "大厂县"
+		},
+		"Daicheng Xian": {
+			"local_code": "大城县"
+		},
+		"Gu'an Xian": {
+			"local_code": "固安县"
+		},
+		"Guangyang Qu": {
+			"local_code": "广阳区"
+		},
+		"Sanhe Shi": {
+			"local_code": "三河市"
+		},
+		"Wen'an Xian": {
+			"local_code": "文安县"
+		},
+		"Xianghe Xian": {
+			"local_code": "香河县"
+		},
+		"Yongqing Xian": {
+			"local_code": "永清县"
+		}
+	}
+}

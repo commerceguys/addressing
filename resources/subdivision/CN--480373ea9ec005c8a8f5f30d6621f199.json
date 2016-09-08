@@ -1,0 +1,17 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Taiwan",
+		"Chiayi City"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"East District": {
+			"local_code": "東區"
+		},
+		"West District": {
+			"local_code": "西區"
+		}
+	}
+}

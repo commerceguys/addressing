@@ -1,0 +1,52 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Hunan Sheng",
+		"Huaihua Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Chenxi Xian": {
+			"local_code": "辰溪县"
+		},
+		"Hecheng Qu": {
+			"local_code": "鹤城区"
+		},
+		"Hongjiang Shi": {
+			"local_code": "洪江市"
+		},
+		"Huitong Xian": {
+			"local_code": "会同县"
+		},
+		"Jingzhou Xian": {
+			"local_code": "靖州苗族侗族自治县",
+			"local_name": "靖州县"
+		},
+		"Mayang Xian": {
+			"local_code": "麻阳苗族自治县",
+			"local_name": "麻阳县"
+		},
+		"Tongdao Xian": {
+			"local_code": "通道侗族自治县",
+			"local_name": "通道县"
+		},
+		"Xinhuang Xian": {
+			"local_code": "新晃侗族自治县",
+			"local_name": "新晃县"
+		},
+		"Xupu Xian": {
+			"local_code": "溆浦县"
+		},
+		"Yuanling Xian": {
+			"local_code": "沅陵县"
+		},
+		"Zhijiang Xian": {
+			"local_code": "芷江侗族自治县",
+			"local_name": "芷江县"
+		},
+		"Zhongfang Xian": {
+			"local_code": "中方县"
+		}
+	}
+}

@@ -71,7 +71,7 @@ class AddressFormatConstraintValidatorTest extends AbstractConstraintValidatorTe
         $address = new Address();
         $address = $address
             ->withCountryCode('AD')
-            ->withLocality('AD-07')
+            ->withLocality("Parròquia d'Andorra la Vella")
             ->withPostalCode('AD500')
             ->withAddressLine1('C. Prat de la Creu, 62-64')
             ->withRecipient('Antoni Martí Petit');
@@ -110,7 +110,7 @@ class AddressFormatConstraintValidatorTest extends AbstractConstraintValidatorTe
         $address = new Address();
         $address = $address
             ->withCountryCode('US')
-            ->withAdministrativeArea('US-CA')
+            ->withAdministrativeArea('CA')
             ->withLocality('Mountain View')
             ->withPostalCode('94043')
             ->withAddressLine1('1098 Alta Ave')
@@ -128,7 +128,7 @@ class AddressFormatConstraintValidatorTest extends AbstractConstraintValidatorTe
         $address = new Address();
         $address = $address
             ->withCountryCode('US')
-            ->withAdministrativeArea('US-CA')
+            ->withAdministrativeArea('CA')
             // Fails the format-level check.
             ->withPostalCode('909')
             ->withRecipient('John Smith');
@@ -154,7 +154,7 @@ class AddressFormatConstraintValidatorTest extends AbstractConstraintValidatorTe
         $address = new Address();
         $address = $address
             ->withCountryCode('US')
-            ->withAdministrativeArea('US-CA')
+            ->withAdministrativeArea('CA')
             ->withLocality('Mountain View')
             ->withAddressLine1('1098 Alta Ave')
             // Satisfies the format-level check, fails the subdivision-level one.
@@ -176,8 +176,8 @@ class AddressFormatConstraintValidatorTest extends AbstractConstraintValidatorTe
         $address = new Address();
         $address = $address
             ->withCountryCode('CN')
-            ->withAdministrativeArea('CN-11')
-            ->withLocality('CN-11-30524e')
+            ->withAdministrativeArea('Beijing Shi')
+            ->withLocality('Xicheng Qu')
             ->withPostalCode('123456')
             ->withAddressLine1('Yitiao Lu')
             ->withRecipient('John Smith');
@@ -221,7 +221,7 @@ class AddressFormatConstraintValidatorTest extends AbstractConstraintValidatorTe
         $address = new Address();
         $address = $address
             ->withCountryCode('IE')
-            ->withAdministrativeArea('IE-D')
+            ->withAdministrativeArea('Co. Donegal')
             ->withLocality('Dublin')
             ->withAddressLine1('7424 118 Avenue NW')
             ->withRecipient("Conan O'Brien");
@@ -245,8 +245,8 @@ class AddressFormatConstraintValidatorTest extends AbstractConstraintValidatorTe
         $address = new Address();
         $address = $address
             ->withCountryCode('CN')
-            ->withAdministrativeArea('CN-11')
-            ->withLocality('CN-11-30524e')
+            ->withAdministrativeArea('Beijing Shi')
+            ->withLocality('Xicheng Qu')
             ->withPostalCode('InvalidValue')
             ->withRecipient('John Smith');
 
@@ -267,8 +267,8 @@ class AddressFormatConstraintValidatorTest extends AbstractConstraintValidatorTe
         $address = new Address();
         $address = $address
             ->withCountryCode('CL')
-            ->withAdministrativeArea('CL-AN')
-            ->withLocality('CL-AN-2bb729')
+            ->withAdministrativeArea('Antofagasta')
+            ->withLocality('San Pedro de Atacama')
             ->withPostalCode('')
             ->withAddressLine1('GUSTAVO LE PAIGE ST #159')
             ->withRecipient('John Smith');
@@ -282,7 +282,7 @@ class AddressFormatConstraintValidatorTest extends AbstractConstraintValidatorTe
         $address = new Address();
         $address = $address
             ->withCountryCode('US')
-            ->withAdministrativeArea('US-CA')
+            ->withAdministrativeArea('CA')
             ->withLocality('California')
             ->withAddressLine1('1098 Alta Ave')
             ->withRecipient('John Smith');
@@ -302,9 +302,9 @@ class AddressFormatConstraintValidatorTest extends AbstractConstraintValidatorTe
         $address = new Address();
         $address = $address
             ->withCountryCode('CN')
-            ->withAdministrativeArea('CN-71')
-            ->withLocality('CN-71-dfbf10')
-            ->withDependentLocality('CN-71-dfbf10-42fb60')
+            ->withAdministrativeArea('Taiwan')
+            ->withLocality('Taichung City')
+            ->withDependentLocality('Xitun District')
             ->withPostalCode('407')
             ->withAddressLine1('12345 Yitiao Lu')
             ->withRecipient('John Smith');
@@ -321,8 +321,8 @@ class AddressFormatConstraintValidatorTest extends AbstractConstraintValidatorTe
         $address = new Address();
         $address = $address
             ->withCountryCode('CN')
-            ->withAdministrativeArea('CN-71')
-            ->withLocality('CN-71-dfbf10')
+            ->withAdministrativeArea('Taiwan')
+            ->withLocality('Taichung City')
             ->withDependentLocality('InvalidValue')
             ->withPostalCode('407')
             ->withAddressLine1('12345 Yitiao Lu')
@@ -342,7 +342,7 @@ class AddressFormatConstraintValidatorTest extends AbstractConstraintValidatorTe
         $address = new Address();
         $address = $address
             ->withCountryCode('US')
-            ->withAdministrativeArea('US-CA')
+            ->withAdministrativeArea('CA')
             ->withLocality('Mountain View')
             ->withPostalCode('94043')
             ->withRecipient('John Smith');
@@ -362,7 +362,7 @@ class AddressFormatConstraintValidatorTest extends AbstractConstraintValidatorTe
         $address = new Address();
         $address = $address
             ->withCountryCode('JP')
-            ->withAdministrativeArea('JP-26')
+            ->withAdministrativeArea('Kyoto')
             ->withLocality('Shigeru Miyamoto')
             ->withPostalCode('601-8501')
             ->withAddressLine1('11-1 Kamitoba-hokotate-cho')
@@ -380,7 +380,7 @@ class AddressFormatConstraintValidatorTest extends AbstractConstraintValidatorTe
         $address = new Address();
         $address = $address
             ->withCountryCode('CA')
-            ->withAdministrativeArea('CA-QC')
+            ->withAdministrativeArea('QC')
             ->withLocality('Montreal')
             ->withPostalCode('H2b 2y5')
             ->withAddressLine1('11 East St')
@@ -398,7 +398,7 @@ class AddressFormatConstraintValidatorTest extends AbstractConstraintValidatorTe
         $address = new Address();
         $address = $address
             ->withCountryCode('CA')
-            ->withAdministrativeArea('CA-QC')
+            ->withAdministrativeArea('QC')
             ->withLocality('Montreal')
             ->withPostalCode('H2b 2y5')
             ->withSortingCode('InvalidValue')
@@ -422,8 +422,8 @@ class AddressFormatConstraintValidatorTest extends AbstractConstraintValidatorTe
         $address = new Address();
         $address = $address
             ->withCountryCode('CN')
-            ->withAdministrativeArea('CN-11')
-            ->withLocality('CN-11-30524e')
+            ->withAdministrativeArea('Beijing Shi')
+            ->withLocality('Xicheng Qu')
             ->withPostalCode('123456')
             ->withAddressLine1('Yitiao Lu');
         $this->validator->validate($address, $this->constraint);
@@ -444,7 +444,7 @@ class AddressFormatConstraintValidatorTest extends AbstractConstraintValidatorTe
         $this->assertNoViolation();
 
         $address = $address
-            ->withAdministrativeArea('CN-11')
+            ->withAdministrativeArea('Beijing Shi')
             ->withLocality('INVALID');
         $this->validator->validate($address, $this->constraint);
         $this->assertNoViolation();

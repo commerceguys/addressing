@@ -1,0 +1,20 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Guangdong Sheng",
+		"Zhuhai Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Doumen Qu": {
+			"local_code": "斗门区"
+		},
+		"Jinwan Qu": {
+			"local_code": "金湾区"
+		},
+		"Xiangzhou Qu": {
+			"local_code": "香洲区"
+		}
+	}
+}

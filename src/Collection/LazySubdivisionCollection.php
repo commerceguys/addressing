@@ -12,25 +12,11 @@ use Doctrine\Common\Collections\ArrayCollection;
 class LazySubdivisionCollection extends AbstractLazyCollection
 {
     /**
-     * The country code.
+     * The parents.
      *
-     * @var string
+     * @var array
      */
-    protected $countryCode;
-
-    /**
-     * The parent subdivision id.
-     *
-     * @var string
-     */
-    protected $parentId;
-
-    /**
-     * The locale.
-     *
-     * @var string
-     */
-    protected $locale;
+    protected $parents;
 
     /**
      * The subdivision repository.
@@ -42,15 +28,11 @@ class LazySubdivisionCollection extends AbstractLazyCollection
     /**
      * Creates a LazySubdivisionCollection instance.
      *
-     * @param string      $countryCode The country code.
-     * @param string      $parentId    The parent subdivision id.
-     * @param string|null $locale      The locale (e.g. fr-FR).
+     * @param array $parents The parents (country code, subdivision codes).
      */
-    public function __construct($countryCode, $parentId, $locale = null)
+    public function __construct(array $parents)
     {
-        $this->countryCode = $countryCode;
-        $this->parentId = $parentId;
-        $this->locale = $locale;
+        $this->parents = $parents;
     }
 
     /**
@@ -59,7 +41,7 @@ class LazySubdivisionCollection extends AbstractLazyCollection
     protected function doInitialize()
     {
         $repository = $this->getRepository();
-        $subdivisions = $repository->getAll($this->countryCode, $this->parentId, $this->locale);
+        $subdivisions = $repository->getAll($this->parents);
         $this->collection = new ArrayCollection($subdivisions);
     }
 

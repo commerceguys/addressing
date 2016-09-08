@@ -1,0 +1,62 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Hebei Sheng",
+		"Zhangjiakou Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Chicheng Xian": {
+			"local_code": "赤城县"
+		},
+		"Chongli Xian": {
+			"local_code": "崇礼县"
+		},
+		"Guyuan Xian": {
+			"local_code": "沽源县"
+		},
+		"Huai'an Xian": {
+			"local_code": "怀安县"
+		},
+		"Huailai Xian": {
+			"local_code": "怀来县"
+		},
+		"Kangbao Xian": {
+			"local_code": "康保县"
+		},
+		"Qiaodong Qu": {
+			"local_code": "桥东区"
+		},
+		"Qiaoxi Qu": {
+			"local_code": "桥西区"
+		},
+		"Shangyi Xian": {
+			"local_code": "尚义县"
+		},
+		"Wanquan Xian": {
+			"local_code": "万全县"
+		},
+		"Yu Xian": {
+			"local_code": "蔚县"
+		},
+		"Xiahuayuan Qu": {
+			"local_code": "下花园区"
+		},
+		"Xuanhua Qu": {
+			"local_code": "宣化区"
+		},
+		"Xuanhua Xian": {
+			"local_code": "宣化县"
+		},
+		"Yangyuan Xian": {
+			"local_code": "阳原县"
+		},
+		"Zhangbei Xian": {
+			"local_code": "张北县"
+		},
+		"Zhuolu Xian": {
+			"local_code": "涿鹿县"
+		}
+	}
+}

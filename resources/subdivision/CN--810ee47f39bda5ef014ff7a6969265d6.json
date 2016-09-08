@@ -1,0 +1,29 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Zhejiang Sheng",
+		"Shaoxing Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Keqiao Qu": {
+			"local_code": "柯桥区"
+		},
+		"Shangyu Shi": {
+			"local_code": "上虞市"
+		},
+		"Shengzhou Shi": {
+			"local_code": "嵊州市"
+		},
+		"Xinchang Xian": {
+			"local_code": "新昌县"
+		},
+		"Yuecheng Qu": {
+			"local_code": "越城区"
+		},
+		"Zhuji Shi": {
+			"local_code": "诸暨市"
+		}
+	}
+}

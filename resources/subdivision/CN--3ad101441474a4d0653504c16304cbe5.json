@@ -1,0 +1,24 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Gansu Sheng",
+		"Wuwei Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Gulang Xian": {
+			"local_code": "古浪县"
+		},
+		"Liangzhou Qu": {
+			"local_code": "凉州区"
+		},
+		"Minqin Xian": {
+			"local_code": "民勤县"
+		},
+		"Tianzhu Xian": {
+			"local_code": "天祝藏族自治县",
+			"local_name": "天祝县"
+		}
+	}
+}

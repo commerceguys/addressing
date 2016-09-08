@@ -1,0 +1,35 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Xizang Zizhiqu",
+		"Lhasa Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Chengguan Qu": {
+			"local_code": "城关区"
+		},
+		"Dagzê Xian": {
+			"local_code": "达孜县"
+		},
+		"Damxung Xian": {
+			"local_code": "当雄县"
+		},
+		"Doilungdêqên Xian": {
+			"local_code": "堆龙德庆县"
+		},
+		"Lhünzhub Xian": {
+			"local_code": "林周县"
+		},
+		"Maizhokunggar Xian": {
+			"local_code": "墨竹工卡县"
+		},
+		"Nyêmo Xian": {
+			"local_code": "尼木县"
+		},
+		"Qüxü Xian": {
+			"local_code": "曲水县"
+		}
+	}
+}

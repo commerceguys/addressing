@@ -1,192 +1,123 @@
 {
 	"country_code": "KR",
-	"parent_id": null,
-	"locale": "ko-Latn",
+	"locale": "ko",
 	"subdivisions": {
-		"KR-42": {
-			"code": "강원도",
-			"name": "Gangwon-do",
+		"Gangwon-do": {
+			"local_code": "강원도",
+			"local_name": "강원",
+			"iso_code": "KR-42",
 			"postal_code_pattern": "2[456]\\d{2}|2[0-6]\\d[\\-]|487[\\-]839",
-			"translations": {
-				"ko": {
-					"name": "강원"
-				}
-			},
 			"has_children": true
 		},
-		"KR-41": {
-			"code": "경기도",
-			"name": "Gyeonggi-do",
+		"Gyeonggi-do": {
+			"local_code": "경기도",
+			"local_name": "경기",
+			"iso_code": "KR-41",
 			"postal_code_pattern": "1[0-8]\\d{2}|4(?:1[0-6]|[2-8]\\d)[\\-]",
-			"translations": {
-				"ko": {
-					"name": "경기"
-				}
-			},
 			"has_children": true
 		},
-		"KR-48": {
-			"code": "경상남도",
-			"name": "Gyeongsangnam-do",
+		"Gyeongsangnam-do": {
+			"local_code": "경상남도",
+			"local_name": "경남",
+			"iso_code": "KR-48",
 			"postal_code_pattern": "5[0-3]\\d{2}|6[2-7]\\d[\\-]",
-			"translations": {
-				"ko": {
-					"name": "경남"
-				}
-			},
 			"has_children": true
 		},
-		"KR-47": {
-			"code": "경상북도",
-			"name": "Gyeongsangbuk-do",
+		"Gyeongsangbuk-do": {
+			"local_code": "경상북도",
+			"local_name": "경북",
+			"iso_code": "KR-47",
 			"postal_code_pattern": "(?:3[6-9]|40)\\d{2}|7(?:1[2-9]|[3-9]\\d)[\\-]",
-			"translations": {
-				"ko": {
-					"name": "경북"
-				}
-			},
 			"has_children": true
 		},
-		"KR-29": {
-			"code": "광주광역시",
-			"name": "Gwangju",
+		"Gwangju": {
+			"local_code": "광주광역시",
+			"local_name": "광주",
+			"iso_code": "KR-29",
 			"postal_code_pattern": "6[12]\\d{2}|50[0-36][\\-]",
-			"translations": {
-				"ko": {
-					"name": "광주"
-				}
-			},
 			"has_children": true
 		},
-		"KR-27": {
-			"code": "대구광역시",
-			"name": "Daegu",
+		"Daegu": {
+			"local_code": "대구광역시",
+			"local_name": "대구",
+			"iso_code": "KR-27",
 			"postal_code_pattern": "4[12]\\d{2}|7(?:0[0-6]|11)[\\-]",
-			"translations": {
-				"ko": {
-					"name": "대구"
-				}
-			},
 			"has_children": true
 		},
-		"KR-30": {
-			"code": "대전광역시",
-			"name": "Daejeon",
+		"Daejeon": {
+			"local_code": "대전광역시",
+			"local_name": "대전",
+			"iso_code": "KR-30",
 			"postal_code_pattern": "3[45]\\d{2}|30[0-25-6][\\-]",
-			"translations": {
-				"ko": {
-					"name": "대전"
-				}
-			},
 			"has_children": true
 		},
-		"KR-26": {
-			"code": "부산광역시",
-			"name": "Busan",
+		"Busan": {
+			"local_code": "부산광역시",
+			"local_name": "부산",
+			"iso_code": "KR-26",
 			"postal_code_pattern": "4[6-9]\\d{2}|6[0-1]\\d[\\-]",
-			"translations": {
-				"ko": {
-					"name": "부산"
-				}
-			},
 			"has_children": true
 		},
-		"KR-11": {
-			"code": "서울특별시",
-			"name": "Seoul",
+		"Seoul": {
+			"local_code": "서울특별시",
+			"local_name": "서울",
+			"iso_code": "KR-11",
 			"postal_code_pattern": "0[1-8]\\d{2}|1[0-5]\\d[\\-]",
-			"translations": {
-				"ko": {
-					"name": "서울"
-				}
-			},
 			"has_children": true
 		},
-		"KR-50": {
-			"code": "세종특별자치시",
-			"name": "Sejong",
-			"postal_code_pattern": "30[01]\\d|339[\\-]",
-			"translations": {
-				"ko": {
-					"name": "세종"
-				}
-			}
+		"Sejong": {
+			"local_code": "세종특별자치시",
+			"local_name": "세종",
+			"iso_code": "KR-50",
+			"postal_code_pattern": "30[01]\\d|339[\\-]"
 		},
-		"KR-31": {
-			"code": "울산광역시",
-			"name": "Ulsan",
+		"Ulsan": {
+			"local_code": "울산광역시",
+			"local_name": "울산",
+			"iso_code": "KR-31",
 			"postal_code_pattern": "4[45]\\d{2}|68[0-39][\\-]",
-			"translations": {
-				"ko": {
-					"name": "울산"
-				}
-			},
 			"has_children": true
 		},
-		"KR-28": {
-			"code": "인천광역시",
-			"name": "Incheon",
+		"Incheon": {
+			"local_code": "인천광역시",
+			"local_name": "인천",
+			"iso_code": "KR-28",
 			"postal_code_pattern": "2[1-3]\\d{2}|4(?:0[0-79]|17)[\\-]",
-			"translations": {
-				"ko": {
-					"name": "인천"
-				}
-			},
 			"has_children": true
 		},
-		"KR-46": {
-			"code": "전라남도",
-			"name": "Jeollanam-do",
+		"Jeollanam-do": {
+			"local_code": "전라남도",
+			"local_name": "전남",
+			"iso_code": "KR-46",
 			"postal_code_pattern": "5[7-9]\\d{2}|5[1-5]\\d[\\-]",
-			"translations": {
-				"ko": {
-					"name": "전남"
-				}
-			},
 			"has_children": true
 		},
-		"KR-45": {
-			"code": "전라북도",
-			"name": "Jeollabuk-do",
+		"Jeollabuk-do": {
+			"local_code": "전라북도",
+			"local_name": "전북",
+			"iso_code": "KR-45",
 			"postal_code_pattern": "5[4-6]\\d{2}|5[6-9]\\d[\\-]",
-			"translations": {
-				"ko": {
-					"name": "전북"
-				}
-			},
 			"has_children": true
 		},
-		"KR-49": {
-			"code": "제주특별자치도",
-			"name": "Jeju-do",
+		"Jeju-do": {
+			"local_code": "제주특별자치도",
+			"local_name": "제주",
+			"iso_code": "KR-49",
 			"postal_code_pattern": "63[0-356]\\d|69[0579][\\-]",
-			"translations": {
-				"ko": {
-					"name": "제주"
-				}
-			},
 			"has_children": true
 		},
-		"KR-44": {
-			"code": "충청남도",
-			"name": "Chungcheongnam-do",
+		"Chungcheongnam-do": {
+			"local_code": "충청남도",
+			"local_name": "충남",
+			"iso_code": "KR-44",
 			"postal_code_pattern": "3[1-3]\\d{2}|3(?:[1245]\\d|3[0-8])[\\-]",
-			"translations": {
-				"ko": {
-					"name": "충남"
-				}
-			},
 			"has_children": true
 		},
-		"KR-43": {
-			"code": "충청북도",
-			"name": "Chungcheongbuk-do",
+		"Chungcheongbuk-do": {
+			"local_code": "충청북도",
+			"local_name": "충북",
+			"iso_code": "KR-43",
 			"postal_code_pattern": "2[789]\\d{2}|3[6-9]\\d[\\-]",
-			"translations": {
-				"ko": {
-					"name": "충북"
-				}
-			},
 			"has_children": true
 		}
 	}

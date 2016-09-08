@@ -1,85 +1,83 @@
 {
 	"country_code": "IE",
-	"parent_id": null,
-	"locale": "en",
 	"subdivisions": {
-		"IE-CW": {
-			"name": "Co. Carlow"
+		"Co. Carlow": {
+			"iso_code": "IE-CW"
 		},
-		"IE-CN": {
-			"name": "Co. Cavan"
+		"Co. Cavan": {
+			"iso_code": "IE-CN"
 		},
-		"IE-CE": {
-			"name": "Co. Clare"
+		"Co. Clare": {
+			"iso_code": "IE-CE"
 		},
-		"IE-C": {
-			"name": "Co. Cork"
+		"Co. Cork": {
+			"iso_code": "IE-C"
 		},
-		"IE-DL": {
-			"name": "Co. Donegal"
+		"Co. Donegal": {
+			"iso_code": "IE-DL"
 		},
-		"IE-D": {
-			"name": "Co. Dublin"
+		"Co. Dublin": {
+			"iso_code": "IE-D"
 		},
-		"IE-G": {
-			"name": "Co. Galway"
+		"Co. Galway": {
+			"iso_code": "IE-G"
 		},
-		"IE-KY": {
-			"name": "Co. Kerry"
+		"Co. Kerry": {
+			"iso_code": "IE-KY"
 		},
-		"IE-KE": {
-			"name": "Co. Kildare"
+		"Co. Kildare": {
+			"iso_code": "IE-KE"
 		},
-		"IE-KK": {
-			"name": "Co. Kilkenny"
+		"Co. Kilkenny": {
+			"iso_code": "IE-KK"
 		},
-		"IE-LS": {
-			"name": "Co. Laois"
+		"Co. Laois": {
+			"iso_code": "IE-LS"
 		},
-		"IE-LM": {
-			"name": "Co. Leitrim"
+		"Co. Leitrim": {
+			"iso_code": "IE-LM"
 		},
-		"IE-LK": {
-			"name": "Co. Limerick"
+		"Co. Limerick": {
+			"iso_code": "IE-LK"
 		},
-		"IE-LD": {
-			"name": "Co. Longford"
+		"Co. Longford": {
+			"iso_code": "IE-LD"
 		},
-		"IE-LH": {
-			"name": "Co. Louth"
+		"Co. Louth": {
+			"iso_code": "IE-LH"
 		},
-		"IE-MO": {
-			"name": "Co. Mayo"
+		"Co. Mayo": {
+			"iso_code": "IE-MO"
 		},
-		"IE-MH": {
-			"name": "Co. Meath"
+		"Co. Meath": {
+			"iso_code": "IE-MH"
 		},
-		"IE-MN": {
-			"name": "Co. Monaghan"
+		"Co. Monaghan": {
+			"iso_code": "IE-MN"
 		},
-		"IE-OY": {
-			"name": "Co. Offaly"
+		"Co. Offaly": {
+			"iso_code": "IE-OY"
 		},
-		"IE-RN": {
-			"name": "Co. Roscommon"
+		"Co. Roscommon": {
+			"iso_code": "IE-RN"
 		},
-		"IE-SO": {
-			"name": "Co. Sligo"
+		"Co. Sligo": {
+			"iso_code": "IE-SO"
 		},
-		"IE-TA": {
-			"name": "Co. Tipperary"
+		"Co. Tipperary": {
+			"iso_code": "IE-TA"
 		},
-		"IE-WD": {
-			"name": "Co. Waterford"
+		"Co. Waterford": {
+			"iso_code": "IE-WD"
 		},
-		"IE-WH": {
-			"name": "Co. Westmeath"
+		"Co. Westmeath": {
+			"iso_code": "IE-WH"
 		},
-		"IE-WX": {
-			"name": "Co. Wexford"
+		"Co. Wexford": {
+			"iso_code": "IE-WX"
 		},
-		"IE-WW": {
-			"name": "Co. Wicklow"
+		"Co. Wicklow": {
+			"iso_code": "IE-WW"
 		}
 	}
 }

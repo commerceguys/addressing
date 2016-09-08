@@ -1,0 +1,30 @@
+{
+	"country_code": "KR",
+	"parents": [
+		"KR",
+		"Gwangju"
+	],
+	"locale": "ko",
+	"subdivisions": {
+		"Gwangsan-gu": {
+			"local_code": "광산구",
+			"postal_code_pattern": "62[2-4]|506"
+		},
+		"Nam-gu": {
+			"local_code": "남구",
+			"postal_code_pattern": "61[67]|503"
+		},
+		"Dong-gu": {
+			"local_code": "동구",
+			"postal_code_pattern": "61[45]|501"
+		},
+		"Buk-gu": {
+			"local_code": "북구",
+			"postal_code_pattern": "61[0-2]|500"
+		},
+		"Seo-gu": {
+			"local_code": "서구",
+			"postal_code_pattern": "6(?:19|20)|502"
+		}
+	}
+}

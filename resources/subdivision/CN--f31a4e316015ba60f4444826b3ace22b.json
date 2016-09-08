@@ -1,0 +1,35 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Hubei Sheng",
+		"Shiyan Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Danjiangkou Shi": {
+			"local_code": "丹江口市"
+		},
+		"Fang Xian": {
+			"local_code": "房县"
+		},
+		"Maojian Qu": {
+			"local_code": "茅箭区"
+		},
+		"Yunxi Xian": {
+			"local_code": "郧西县"
+		},
+		"Yun Xian": {
+			"local_code": "郧县"
+		},
+		"Zhangwan Qu": {
+			"local_code": "张湾区"
+		},
+		"Zhushan Xian": {
+			"local_code": "竹山县"
+		},
+		"Zhuxi Xian": {
+			"local_code": "竹溪县"
+		}
+	}
+}

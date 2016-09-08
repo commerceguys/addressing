@@ -1,0 +1,63 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Taiwan",
+		"Hualien County"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Fengbin Township": {
+			"local_code": "豐濱鄉",
+			"postal_code_pattern": "977"
+		},
+		"Fenglin Township": {
+			"local_code": "鳳林鎮",
+			"postal_code_pattern": "975"
+		},
+		"Fuli Township": {
+			"local_code": "富里鄉",
+			"postal_code_pattern": "983"
+		},
+		"Guangfu Township": {
+			"local_code": "光復鄉",
+			"postal_code_pattern": "976"
+		},
+		"Hualien City": {
+			"local_code": "花蓮市",
+			"postal_code_pattern": "970"
+		},
+		"Ji'an Township": {
+			"local_code": "吉安鄉",
+			"postal_code_pattern": "973"
+		},
+		"Ruisui Township": {
+			"local_code": "瑞穗鄉",
+			"postal_code_pattern": "978"
+		},
+		"Shoufeng Township": {
+			"local_code": "壽豐鄉",
+			"postal_code_pattern": "974"
+		},
+		"Wanrong Township": {
+			"local_code": "萬榮鄉",
+			"postal_code_pattern": "979"
+		},
+		"Xincheng Township": {
+			"local_code": "新城鄉",
+			"postal_code_pattern": "971"
+		},
+		"Xiulin Township": {
+			"local_code": "秀林鄉",
+			"postal_code_pattern": "972"
+		},
+		"Yuli Township": {
+			"local_code": "玉里鎮",
+			"postal_code_pattern": "981"
+		},
+		"Zhuoxi Township": {
+			"local_code": "卓溪鄉",
+			"postal_code_pattern": "982"
+		}
+	}
+}

@@ -1,45 +1,35 @@
 {
 	"country_code": "AU",
-	"parent_id": null,
-	"locale": "en",
 	"subdivisions": {
-		"AU-ACT": {
-			"code": "ACT",
+		"ACT": {
 			"name": "Australian Capital Territory",
 			"postal_code_pattern": "29|2540|260|261[0-8]|02|2620"
 		},
-		"AU-NSW": {
-			"code": "NSW",
+		"NSW": {
 			"name": "New South Wales",
 			"postal_code_pattern": "1|2[0-57-8]|26[2-9]|261[189]|3500|3585|3586|3644|3707"
 		},
-		"AU-NT": {
-			"code": "NT",
+		"NT": {
 			"name": "Northern Territory",
 			"postal_code_pattern": "0[89]"
 		},
-		"AU-QLD": {
-			"code": "QLD",
+		"QLD": {
 			"name": "Queensland",
 			"postal_code_pattern": "[49]"
 		},
-		"AU-SA": {
-			"code": "SA",
+		"SA": {
 			"name": "South Australia",
 			"postal_code_pattern": "5|0872"
 		},
-		"AU-TAS": {
-			"code": "TAS",
+		"TAS": {
 			"name": "Tasmania",
 			"postal_code_pattern": "7"
 		},
-		"AU-VIC": {
-			"code": "VIC",
+		"VIC": {
 			"name": "Victoria",
 			"postal_code_pattern": "[38]"
 		},
-		"AU-WA": {
-			"code": "WA",
+		"WA": {
 			"name": "Western Australia",
 			"postal_code_pattern": "6|0872"
 		}

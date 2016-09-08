@@ -1,0 +1,20 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Hubei Sheng",
+		"Ezhou Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Echeng Qu": {
+			"local_code": "鄂城区"
+		},
+		"Huarong Qu": {
+			"local_code": "华容区"
+		},
+		"Liangzihu Qu": {
+			"local_code": "梁子湖区"
+		}
+	}
+}

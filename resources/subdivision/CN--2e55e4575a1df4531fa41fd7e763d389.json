@@ -1,0 +1,35 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Guangdong Sheng",
+		"Meizhou Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Dabu Xian": {
+			"local_code": "大埔县"
+		},
+		"Fengshun Xian": {
+			"local_code": "丰顺县"
+		},
+		"Jiaoling Xian": {
+			"local_code": "蕉岭县"
+		},
+		"Meijiang Qu": {
+			"local_code": "梅江区"
+		},
+		"Mei Xian": {
+			"local_code": "梅县"
+		},
+		"Pingyuan Xian": {
+			"local_code": "平远县"
+		},
+		"Wuhua Xian": {
+			"local_code": "五华县"
+		},
+		"Xingning Shi": {
+			"local_code": "兴宁市"
+		}
+	}
+}

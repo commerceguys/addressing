@@ -1,0 +1,61 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Shanghai Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Baoshan Qu": {
+			"local_code": "宝山区"
+		},
+		"Chongming Xian": {
+			"local_code": "崇明县"
+		},
+		"Fengxian Qu": {
+			"local_code": "奉贤区"
+		},
+		"Hongkou Qu": {
+			"local_code": "虹口区"
+		},
+		"Huangpu Qu": {
+			"local_code": "黄浦区"
+		},
+		"Jiading Qu": {
+			"local_code": "嘉定区"
+		},
+		"Jinshan Qu": {
+			"local_code": "金山区"
+		},
+		"Jing'an Qu": {
+			"local_code": "静安区"
+		},
+		"Minhang Qu": {
+			"local_code": "闵行区"
+		},
+		"Pudong Xinqu": {
+			"local_code": "浦东新区"
+		},
+		"Putuo Qu": {
+			"local_code": "普陀区"
+		},
+		"Qingpu Qu": {
+			"local_code": "青浦区"
+		},
+		"Songjiang Qu": {
+			"local_code": "松江区"
+		},
+		"Xuhui Qu": {
+			"local_code": "徐汇区"
+		},
+		"Yangpu Qu": {
+			"local_code": "杨浦区"
+		},
+		"Zhabei Qu": {
+			"local_code": "闸北区"
+		},
+		"Changning Qu": {
+			"local_code": "长宁区"
+		}
+	}
+}

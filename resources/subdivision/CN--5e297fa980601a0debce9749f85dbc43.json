@@ -1,0 +1,26 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Jiangsu Sheng",
+		"Suqian Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Shuyang Xian": {
+			"local_code": "沭阳县"
+		},
+		"Sihong Xian": {
+			"local_code": "泗洪县"
+		},
+		"Siyang Xian": {
+			"local_code": "泗阳县"
+		},
+		"Sucheng Qu": {
+			"local_code": "宿城区"
+		},
+		"Suyu Qu": {
+			"local_code": "宿豫区"
+		}
+	}
+}

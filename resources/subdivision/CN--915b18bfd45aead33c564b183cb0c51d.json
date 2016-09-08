@@ -1,0 +1,29 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Qinghai Sheng",
+		"Yushu Zhou"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Chindu Xian": {
+			"local_code": "称多县"
+		},
+		"Nangqên Xian": {
+			"local_code": "囊谦县"
+		},
+		"Qumarlêb Xian": {
+			"local_code": "曲麻莱县"
+		},
+		"Yushu Xian": {
+			"local_code": "玉树县"
+		},
+		"Zadoi Xian": {
+			"local_code": "杂多县"
+		},
+		"Zhidoi Xian": {
+			"local_code": "治多县"
+		}
+	}
+}

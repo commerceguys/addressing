@@ -1,0 +1,47 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Shandong Sheng",
+		"Qingdao Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Chengyang Qu": {
+			"local_code": "城阳区"
+		},
+		"Huangdao Qu": {
+			"local_code": "黄岛区"
+		},
+		"Jimo Shi": {
+			"local_code": "即墨市"
+		},
+		"Jiaonan Shi": {
+			"local_code": "胶南市"
+		},
+		"Jiaozhou Shi": {
+			"local_code": "胶州市"
+		},
+		"Laixi Shi": {
+			"local_code": "莱西市"
+		},
+		"Laoshan Qu": {
+			"local_code": "崂山区"
+		},
+		"Licang Qu": {
+			"local_code": "李沧区"
+		},
+		"Pingdu Shi": {
+			"local_code": "平度市"
+		},
+		"Shibei Qu": {
+			"local_code": "市北区"
+		},
+		"Shinan Qu": {
+			"local_code": "市南区"
+		},
+		"Sifang Qu": {
+			"local_code": "四方区"
+		}
+	}
+}

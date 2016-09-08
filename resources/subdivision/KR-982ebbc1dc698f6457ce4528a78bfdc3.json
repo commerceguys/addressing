@@ -1,0 +1,30 @@
+{
+	"country_code": "KR",
+	"parents": [
+		"KR",
+		"Ulsan"
+	],
+	"locale": "ko",
+	"subdivisions": {
+		"Nam-gu": {
+			"local_code": "남구",
+			"postal_code_pattern": "44[67]|680"
+		},
+		"Dong-gu": {
+			"local_code": "동구",
+			"postal_code_pattern": "44[01]|682"
+		},
+		"Buk-gu": {
+			"local_code": "북구",
+			"postal_code_pattern": "442|683"
+		},
+		"Ulju-gun": {
+			"local_code": "울주군",
+			"postal_code_pattern": "4(?:49|50)|689"
+		},
+		"Jung-gu": {
+			"local_code": "중구",
+			"postal_code_pattern": "44[45]|681"
+		}
+	}
+}

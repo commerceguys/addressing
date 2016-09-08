@@ -1,0 +1,83 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Xinjiang Weiwuerzizhiqu"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Aksu Diqu": {
+			"local_code": "阿克苏地区",
+			"has_children": true
+		},
+		"Ala'er Shi": {
+			"local_code": "阿拉尔市"
+		},
+		"Altay Shi": {
+			"local_code": "阿勒泰地区",
+			"has_children": true
+		},
+		"Bayingolin Zhou": {
+			"local_code": "巴音郭楞蒙古自治州",
+			"local_name": "巴音郭楞州",
+			"has_children": true
+		},
+		"Bortala Zhou": {
+			"local_code": "博尔塔拉蒙古自治州",
+			"local_name": "博尔塔拉州",
+			"has_children": true
+		},
+		"Changji Zhou": {
+			"local_code": "昌吉回族自治州",
+			"local_name": "昌吉州",
+			"has_children": true
+		},
+		"Hami Diqu": {
+			"local_code": "哈密地区",
+			"has_children": true
+		},
+		"Hotan Diqu": {
+			"local_code": "和田地区",
+			"has_children": true
+		},
+		"Kashi Diqu": {
+			"local_code": "喀什地区",
+			"has_children": true
+		},
+		"Karamay Shi": {
+			"local_code": "克拉玛依市",
+			"has_children": true
+		},
+		"Kizilsu Zhou": {
+			"local_code": "克孜勒苏柯尔克孜自治州",
+			"local_name": "克孜勒苏州",
+			"has_children": true
+		},
+		"Shihezi Shi": {
+			"local_code": "石河子市"
+		},
+		"Tacheng Diqu": {
+			"local_code": "塔城地区",
+			"has_children": true
+		},
+		"Tumushuke Shi": {
+			"local_code": "图木舒克市"
+		},
+		"Turpan Diqu": {
+			"local_code": "吐鲁番地区",
+			"has_children": true
+		},
+		"Ürümqi Shi": {
+			"local_code": "乌鲁木齐市",
+			"has_children": true
+		},
+		"Wujiaqu Shi": {
+			"local_code": "五家渠市"
+		},
+		"Ili Zhou": {
+			"local_code": "伊犁哈萨克自治州",
+			"local_name": "伊犁州",
+			"has_children": true
+		}
+	}
+}

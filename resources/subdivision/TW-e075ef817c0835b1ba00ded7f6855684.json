@@ -1,0 +1,34 @@
+{
+	"country_code": "TW",
+	"parents": [
+		"TW",
+		"Penghu County"
+	],
+	"locale": "zh-Hant",
+	"subdivisions": {
+		"Qimei Township": {
+			"local_code": "七美鄉",
+			"postal_code_pattern": "883"
+		},
+		"Baisha Township": {
+			"local_code": "白沙鄉",
+			"postal_code_pattern": "884"
+		},
+		"Xiyu Township": {
+			"local_code": "西嶼鄉",
+			"postal_code_pattern": "881"
+		},
+		"Magong City": {
+			"local_code": "馬公市",
+			"postal_code_pattern": "880"
+		},
+		"Wang'an Township": {
+			"local_code": "望安鄉",
+			"postal_code_pattern": "882"
+		},
+		"Huxi Township": {
+			"local_code": "湖西鄉",
+			"postal_code_pattern": "885"
+		}
+	}
+}

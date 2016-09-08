@@ -1,0 +1,39 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Heilongjiang Sheng",
+		"Daqing Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Datong Qu": {
+			"local_code": "大同区"
+		},
+		"Dorbod Xian": {
+			"local_code": "杜尔伯特蒙古族自治县",
+			"local_name": "杜尔伯特县"
+		},
+		"Honggang Qu": {
+			"local_code": "红岗区"
+		},
+		"Lindian Xian": {
+			"local_code": "林甸县"
+		},
+		"Longfeng Qu": {
+			"local_code": "龙凤区"
+		},
+		"Ranghulu Qu": {
+			"local_code": "让胡路区"
+		},
+		"Sairt Qu": {
+			"local_code": "萨尔图区"
+		},
+		"Zhaoyuan Xian": {
+			"local_code": "肇源县"
+		},
+		"Zhaozhou Xian": {
+			"local_code": "肇州县"
+		}
+	}
+}

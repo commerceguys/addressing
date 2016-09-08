@@ -1,0 +1,53 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Yunnan Sheng",
+		"Honghe Zhou"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Gejiu Shi": {
+			"local_code": "个旧市"
+		},
+		"Hekou Xian": {
+			"local_code": "河口瑶族自治县",
+			"local_name": "河口县"
+		},
+		"Honghe Xian": {
+			"local_code": "红河县"
+		},
+		"Jianshui Xian": {
+			"local_code": "建水县"
+		},
+		"Jinping Xian": {
+			"local_code": "金平苗族瑶族傣族自治县",
+			"local_name": "金平县"
+		},
+		"Kaiyuan Shi": {
+			"local_code": "开远市"
+		},
+		"Luxi Xian": {
+			"local_code": "泸西县"
+		},
+		"Lüchun Xian": {
+			"local_code": "绿春县"
+		},
+		"Mengzi Shi": {
+			"local_code": "蒙自市"
+		},
+		"Mile Xian": {
+			"local_code": "弥勒县"
+		},
+		"Pingbian Xian": {
+			"local_code": "屏边苗族自治县",
+			"local_name": "屏边县"
+		},
+		"Shiping Xian": {
+			"local_code": "石屏县"
+		},
+		"Yuanyang Xian": {
+			"local_code": "元阳县"
+		}
+	}
+}

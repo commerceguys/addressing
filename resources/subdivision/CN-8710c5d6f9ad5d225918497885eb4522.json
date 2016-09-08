@@ -1,0 +1,82 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Yunnan Sheng"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Baoshan Shi": {
+			"local_code": "保山市",
+			"has_children": true
+		},
+		"Chuxiong Zhou": {
+			"local_code": "楚雄彝族自治州",
+			"local_name": "楚雄州",
+			"has_children": true
+		},
+		"Dali Zhou": {
+			"local_code": "大理白族自治州",
+			"local_name": "大理州",
+			"has_children": true
+		},
+		"Dehong Zhou": {
+			"local_code": "德宏傣族景颇族自治州",
+			"local_name": "德宏州",
+			"has_children": true
+		},
+		"Dêqên Zhou": {
+			"local_code": "迪庆藏族自治州",
+			"local_name": "迪庆州",
+			"has_children": true
+		},
+		"Honghe Zhou": {
+			"local_code": "红河哈尼族彝族自治州",
+			"local_name": "红河州",
+			"has_children": true
+		},
+		"Kunming Shi": {
+			"local_code": "昆明市",
+			"has_children": true
+		},
+		"Lijiang Shi": {
+			"local_code": "丽江市",
+			"has_children": true
+		},
+		"Lincang Shi": {
+			"local_code": "临沧市",
+			"has_children": true
+		},
+		"Nujiang Zhou": {
+			"local_code": "怒江傈僳族自治州",
+			"local_name": "怒江州",
+			"has_children": true
+		},
+		"Puer Shi": {
+			"local_code": "普洱市",
+			"has_children": true
+		},
+		"Qujing Shi": {
+			"local_code": "曲靖市",
+			"has_children": true
+		},
+		"Wenshan Zhou": {
+			"local_code": "文山壮族苗族自治州",
+			"local_name": "文山州",
+			"has_children": true
+		},
+		"Xishuangbanna Zhou": {
+			"local_code": "西双版纳傣族自治州",
+			"local_name": "西双版纳州",
+			"has_children": true
+		},
+		"Yuxi Shi": {
+			"local_code": "玉溪市",
+			"has_children": true
+		},
+		"Zhaotong Shi": {
+			"local_code": "昭通市",
+			"has_children": true
+		}
+	}
+}

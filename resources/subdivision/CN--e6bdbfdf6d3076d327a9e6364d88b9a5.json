@@ -1,0 +1,35 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Neimenggu Zizhiqu",
+		"Ordos Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Dalad Qi": {
+			"local_code": "达拉特旗"
+		},
+		"Dongsheng Qu": {
+			"local_code": "东胜区"
+		},
+		"Otog Qi": {
+			"local_code": "鄂托克旗"
+		},
+		"Otog Qianqi": {
+			"local_code": "鄂托克前旗"
+		},
+		"Hanggin Qi": {
+			"local_code": "杭锦旗"
+		},
+		"Uxin Qi": {
+			"local_code": "乌审旗"
+		},
+		"Ejin Qi": {
+			"local_code": "伊金霍洛旗"
+		},
+		"Jungar Qi": {
+			"local_code": "准格尔旗"
+		}
+	}
+}

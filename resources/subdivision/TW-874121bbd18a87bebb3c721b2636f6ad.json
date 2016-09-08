@@ -1,0 +1,90 @@
+{
+	"country_code": "TW",
+	"parents": [
+		"TW",
+		"Yunlin County"
+	],
+	"locale": "zh-Hant",
+	"subdivisions": {
+		"Erlun Township": {
+			"local_code": "二崙鄉",
+			"postal_code_pattern": "649"
+		},
+		"Kouhu Township": {
+			"local_code": "口湖鄉",
+			"postal_code_pattern": "653"
+		},
+		"Tuku Township": {
+			"local_code": "土庫鎮",
+			"postal_code_pattern": "633"
+		},
+		"Dapi Township": {
+			"local_code": "大埤鄉",
+			"postal_code_pattern": "631"
+		},
+		"Yuanchang Township": {
+			"local_code": "元長鄉",
+			"postal_code_pattern": "655"
+		},
+		"Douliu City": {
+			"local_code": "斗六市",
+			"postal_code_pattern": "640"
+		},
+		"Dounan Township": {
+			"local_code": "斗南鎮",
+			"postal_code_pattern": "630"
+		},
+		"Shuilin Township": {
+			"local_code": "水林鄉",
+			"postal_code_pattern": "652"
+		},
+		"Beigang Township": {
+			"local_code": "北港鎮",
+			"postal_code_pattern": "651"
+		},
+		"Gukeng Township": {
+			"local_code": "古坑鄉",
+			"postal_code_pattern": "646"
+		},
+		"Taixi Township": {
+			"local_code": "台西鄉",
+			"postal_code_pattern": "636"
+		},
+		"Sihu Township": {
+			"local_code": "四湖鄉",
+			"postal_code_pattern": "654"
+		},
+		"Xiluo Township": {
+			"local_code": "西螺鎮",
+			"postal_code_pattern": "648"
+		},
+		"Dongshi Township": {
+			"local_code": "東勢鄉",
+			"postal_code_pattern": "635"
+		},
+		"Linnei Township": {
+			"local_code": "林內鄉",
+			"postal_code_pattern": "643"
+		},
+		"Huwei Township": {
+			"local_code": "虎尾鎮",
+			"postal_code_pattern": "632"
+		},
+		"Lunbei Township": {
+			"local_code": "崙背鄉",
+			"postal_code_pattern": "637"
+		},
+		"Mailiao Township": {
+			"local_code": "麥寮鄉",
+			"postal_code_pattern": "638"
+		},
+		"Citong Township": {
+			"local_code": "莿桐鄉",
+			"postal_code_pattern": "647"
+		},
+		"Baozhong Township": {
+			"local_code": "褒忠鄉",
+			"postal_code_pattern": "634"
+		}
+	}
+}

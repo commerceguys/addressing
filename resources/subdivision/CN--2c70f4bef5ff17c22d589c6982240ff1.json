@@ -1,0 +1,50 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Zhejiang Sheng",
+		"Hangzhou Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Binjiang Qu": {
+			"local_code": "滨江区"
+		},
+		"Chun'an Xian": {
+			"local_code": "淳安县"
+		},
+		"Fuyang Shi": {
+			"local_code": "富阳市"
+		},
+		"Gongshu Qu": {
+			"local_code": "拱墅区"
+		},
+		"Jiande Shi": {
+			"local_code": "建德市"
+		},
+		"Jianggan Qu": {
+			"local_code": "江干区"
+		},
+		"Lin'an Shi": {
+			"local_code": "临安市"
+		},
+		"Shangcheng Qu": {
+			"local_code": "上城区"
+		},
+		"Tonglu Xian": {
+			"local_code": "桐庐县"
+		},
+		"Xihu Qu": {
+			"local_code": "西湖区"
+		},
+		"Xiacheng Qu": {
+			"local_code": "下城区"
+		},
+		"Xiaoshan Qu": {
+			"local_code": "萧山区"
+		},
+		"Yuhang Qu": {
+			"local_code": "余杭区"
+		}
+	}
+}

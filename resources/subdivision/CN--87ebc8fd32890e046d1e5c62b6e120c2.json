@@ -1,0 +1,26 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Guangdong Sheng",
+		"Huizhou Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Boluo Xian": {
+			"local_code": "博罗县"
+		},
+		"Huicheng Qu": {
+			"local_code": "惠城区"
+		},
+		"Huidong Xian": {
+			"local_code": "惠东县"
+		},
+		"Huiyang Qu": {
+			"local_code": "惠阳区"
+		},
+		"Longmen Xian": {
+			"local_code": "龙门县"
+		}
+	}
+}

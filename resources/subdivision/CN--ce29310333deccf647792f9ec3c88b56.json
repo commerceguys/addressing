@@ -1,0 +1,20 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Xinjiang Weiwuerzizhiqu",
+		"Turpan Diqu"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Shanshan Xian": {
+			"local_code": "鄯善县"
+		},
+		"Turpan Shi": {
+			"local_code": "吐鲁番市"
+		},
+		"Toksun Xian": {
+			"local_code": "托克逊县"
+		}
+	}
+}

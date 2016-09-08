@@ -1,0 +1,19 @@
+{
+	"country_code": "KR",
+	"parents": [
+		"KR",
+		"Chungcheongbuk-do",
+		"Cheongju-si"
+	],
+	"locale": "ko",
+	"subdivisions": {
+		"Sangdang-gu": {
+			"local_code": "상당구",
+			"postal_code_pattern": "28[1-3578]|360"
+		},
+		"Heungdeok-gu": {
+			"local_code": "흥덕구",
+			"postal_code_pattern": "28[13-6]|361"
+		}
+	}
+}

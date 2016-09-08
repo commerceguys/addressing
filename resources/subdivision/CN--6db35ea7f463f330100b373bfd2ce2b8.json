@@ -1,0 +1,35 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Guizhou Sheng",
+		"Qianxinan Zhou"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Anlong Xian": {
+			"local_code": "安龙县"
+		},
+		"Ceheng Xian": {
+			"local_code": "册亨县"
+		},
+		"Pu'an Xian": {
+			"local_code": "普安县"
+		},
+		"Qinglong Xian": {
+			"local_code": "晴隆县"
+		},
+		"Wangmo Xian": {
+			"local_code": "望谟县"
+		},
+		"Xingren Xian": {
+			"local_code": "兴仁县"
+		},
+		"Xingyi Shi": {
+			"local_code": "兴义市"
+		},
+		"Zhenfeng Xian": {
+			"local_code": "贞丰县"
+		}
+	}
+}

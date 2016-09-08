@@ -1,0 +1,29 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Jiangsu Sheng",
+		"Taizhou Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Gaogang Qu": {
+			"local_code": "高港区"
+		},
+		"Hailing Qu": {
+			"local_code": "海陵区"
+		},
+		"Jiangyan Shi": {
+			"local_code": "姜堰市"
+		},
+		"Jingjiang Shi": {
+			"local_code": "靖江市"
+		},
+		"Taixing Shi": {
+			"local_code": "泰兴市"
+		},
+		"Xinghua Shi": {
+			"local_code": "兴化市"
+		}
+	}
+}

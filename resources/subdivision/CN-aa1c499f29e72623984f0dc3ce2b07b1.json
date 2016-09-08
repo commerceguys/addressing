@@ -1,0 +1,120 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Taiwan"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Kaohsiung City": {
+			"local_code": "高雄市",
+			"postal_code_pattern": "8[02-5]|81[1-579]",
+			"has_children": true
+		},
+		"Hualien County": {
+			"local_code": "花蓮縣",
+			"postal_code_pattern": "9[78]",
+			"has_children": true
+		},
+		"Keelung City": {
+			"local_code": "基隆市",
+			"postal_code_pattern": "20[0-6]",
+			"has_children": true
+		},
+		"Chiayi City": {
+			"local_code": "嘉義市",
+			"postal_code_pattern": "600",
+			"has_children": true
+		},
+		"Chiayi County": {
+			"local_code": "嘉義縣",
+			"postal_code_pattern": "60[1-9]|6[12]",
+			"has_children": true
+		},
+		"Kinmen County": {
+			"local_code": "金門縣",
+			"postal_code_pattern": "89",
+			"has_children": true
+		},
+		"Lienchiang County": {
+			"local_code": "連江縣",
+			"postal_code_pattern": "209|21[012]",
+			"has_children": true
+		},
+		"Miaoli County": {
+			"local_code": "苗栗縣",
+			"postal_code_pattern": "3[56]",
+			"has_children": true
+		},
+		"Nantou County": {
+			"local_code": "南投縣",
+			"postal_code_pattern": "5[45]",
+			"has_children": true
+		},
+		"Penghu County": {
+			"local_code": "澎湖縣",
+			"postal_code_pattern": "88",
+			"has_children": true
+		},
+		"Pingtung County": {
+			"local_code": "屏東縣",
+			"postal_code_pattern": "9[0-4]",
+			"has_children": true
+		},
+		"Taipei City": {
+			"local_code": "台北市",
+			"postal_code_pattern": "1[01]",
+			"has_children": true
+		},
+		"Taitung County": {
+			"local_code": "台東縣",
+			"postal_code_pattern": "9[56]",
+			"has_children": true
+		},
+		"Tainan City": {
+			"local_code": "台南市",
+			"postal_code_pattern": "7[0-4]",
+			"has_children": true
+		},
+		"Taichung City": {
+			"local_code": "台中市",
+			"postal_code_pattern": "4[0-3]",
+			"has_children": true
+		},
+		"Taoyuan City": {
+			"local_code": "桃園市",
+			"postal_code_pattern": "3[23]",
+			"has_children": true
+		},
+		"New Taipei City": {
+			"local_code": "新北市",
+			"postal_code_pattern": "20[78]|2[2345]",
+			"has_children": true
+		},
+		"Hsinchu City": {
+			"local_code": "新竹市",
+			"postal_code_pattern": "300",
+			"has_children": true
+		},
+		"Hsinchu County": {
+			"local_code": "新竹縣",
+			"postal_code_pattern": "30[2-8]|31",
+			"has_children": true
+		},
+		"Yilan County": {
+			"local_code": "宜蘭縣",
+			"postal_code_pattern": "2[67]",
+			"has_children": true
+		},
+		"Yunlin County": {
+			"local_code": "雲林縣",
+			"postal_code_pattern": "6[3-5]",
+			"has_children": true
+		},
+		"Changhua County": {
+			"local_code": "彰化縣",
+			"postal_code_pattern": "5[0123]",
+			"has_children": true
+		}
+	}
+}

@@ -1,0 +1,44 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Fujian Sheng",
+		"Zhangzhou Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Dongshan Xian": {
+			"local_code": "东山县"
+		},
+		"Hua'an Xian": {
+			"local_code": "华安县"
+		},
+		"Longhai Shi": {
+			"local_code": "龙海市"
+		},
+		"Longwen Qu": {
+			"local_code": "龙文区"
+		},
+		"Nanjing Xian": {
+			"local_code": "南靖县"
+		},
+		"Pinghe Xian": {
+			"local_code": "平和县"
+		},
+		"Xiangcheng Qu": {
+			"local_code": "芗城区"
+		},
+		"Yunxiao Xian": {
+			"local_code": "云霄县"
+		},
+		"Zhangpu Xian": {
+			"local_code": "漳浦县"
+		},
+		"Changtai Xian": {
+			"local_code": "长泰县"
+		},
+		"Zhao'an Xian": {
+			"local_code": "诏安县"
+		}
+	}
+}

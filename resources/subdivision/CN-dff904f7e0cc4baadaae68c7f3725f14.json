@@ -1,0 +1,47 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Jilin Sheng"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Baicheng Shi": {
+			"local_code": "白城市",
+			"has_children": true
+		},
+		"Baishan Shi": {
+			"local_code": "白山市",
+			"has_children": true
+		},
+		"Jilin Shi": {
+			"local_code": "吉林市",
+			"has_children": true
+		},
+		"Liaoyuan Shi": {
+			"local_code": "辽源市",
+			"has_children": true
+		},
+		"Siping Shi": {
+			"local_code": "四平市",
+			"has_children": true
+		},
+		"Songyuan Shi": {
+			"local_code": "松原市",
+			"has_children": true
+		},
+		"Tonghua Shi": {
+			"local_code": "通化市",
+			"has_children": true
+		},
+		"Yanbian Zhou": {
+			"local_code": "延边朝鲜族自治州",
+			"local_name": "延边州",
+			"has_children": true
+		},
+		"Changchun Shi": {
+			"local_code": "长春市",
+			"has_children": true
+		}
+	}
+}

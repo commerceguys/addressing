@@ -1,0 +1,37 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Guangdong Sheng",
+		"Qingyuan Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Fogang Xian": {
+			"local_code": "佛冈县"
+		},
+		"Liannan Xian": {
+			"local_code": "连南瑶族自治县",
+			"local_name": "连南县"
+		},
+		"Lianshan Xian": {
+			"local_code": "连山壮族瑶族自治县",
+			"local_name": "连山县"
+		},
+		"Lianzhou Shi": {
+			"local_code": "连州市"
+		},
+		"Qingcheng Qu": {
+			"local_code": "清城区"
+		},
+		"Qingxin Xian": {
+			"local_code": "清新县"
+		},
+		"Yangshan Xian": {
+			"local_code": "阳山县"
+		},
+		"Yingde Shi": {
+			"local_code": "英德市"
+		}
+	}
+}

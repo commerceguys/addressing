@@ -1,0 +1,82 @@
+{
+	"country_code": "KR",
+	"parents": [
+		"KR",
+		"Gangwon-do"
+	],
+	"locale": "ko",
+	"subdivisions": {
+		"Gangneung-si": {
+			"local_code": "강릉시",
+			"postal_code_pattern": "25[4-6]|210"
+		},
+		"Goseong-gun": {
+			"local_code": "고성군",
+			"postal_code_pattern": "247|219"
+		},
+		"Donghae-si": {
+			"local_code": "동해시",
+			"postal_code_pattern": "25[78]|24[05]"
+		},
+		"Samcheok-si": {
+			"local_code": "삼척시",
+			"postal_code_pattern": "259|245"
+		},
+		"Sokcho-si": {
+			"local_code": "속초시",
+			"postal_code_pattern": "24[89]|21[79]"
+		},
+		"Yanggu-gun": {
+			"local_code": "양구군",
+			"postal_code_pattern": "245|255[\\-]8"
+		},
+		"Yangyang-gun": {
+			"local_code": "양양군",
+			"postal_code_pattern": "250|215"
+		},
+		"Yeongwol-gun": {
+			"local_code": "영월군",
+			"postal_code_pattern": "262|230"
+		},
+		"Wonju-si": {
+			"local_code": "원주시",
+			"postal_code_pattern": "26[3-5]|220"
+		},
+		"Inje-gun": {
+			"local_code": "인제군",
+			"postal_code_pattern": "246|25[02]"
+		},
+		"Jeongseon-gun": {
+			"local_code": "정선군",
+			"postal_code_pattern": "261|233"
+		},
+		"Cheorwon-gun": {
+			"local_code": "철원군",
+			"postal_code_pattern": "240|209|269|487[\\-]839"
+		},
+		"Chuncheon-si": {
+			"local_code": "춘천시",
+			"postal_code_pattern": "24[2-4]|2(?:0[09]|50)"
+		},
+		"Taebaek-si": {
+			"local_code": "태백시",
+			"postal_code_pattern": "260|235"
+		},
+		"Pyeongchang-gun": {
+			"local_code": "평창군",
+			"postal_code_pattern": "253|232"
+		},
+		"Hongcheon-gun": {
+			"local_code": "홍천군",
+			"postal_code_pattern": "251|250"
+		},
+		"Hwacheon-gun": {
+			"local_code": "화천군",
+			"postal_code_pattern": "241|209[\\-]8"
+		},
+		"Hoengseong-gun": {
+			"local_code": "횡성군",
+			"postal_code_pattern": "252|225"
+		}
+	}
+}

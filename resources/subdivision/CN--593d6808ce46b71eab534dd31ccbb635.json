@@ -1,0 +1,47 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Shandong Sheng",
+		"Linyi Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Cangshan Xian": {
+			"local_code": "苍山县"
+		},
+		"Fei Xian": {
+			"local_code": "费县"
+		},
+		"Hedong Qu": {
+			"local_code": "河东区"
+		},
+		"Junan Xian": {
+			"local_code": "莒南县"
+		},
+		"Lanshan Qu": {
+			"local_code": "兰山区"
+		},
+		"Linshu Xian": {
+			"local_code": "临沭县"
+		},
+		"Luozhuang Qu": {
+			"local_code": "罗庄区"
+		},
+		"Mengyin Xian": {
+			"local_code": "蒙阴县"
+		},
+		"Pingyi Xian": {
+			"local_code": "平邑县"
+		},
+		"Tancheng Xian": {
+			"local_code": "郯城县"
+		},
+		"Yinan Xian": {
+			"local_code": "沂南县"
+		},
+		"Yishui Xian": {
+			"local_code": "沂水县"
+		}
+	}
+}

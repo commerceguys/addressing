@@ -1,0 +1,53 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Shanxi Sheng",
+		"Xinzhou Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Baode Xian": {
+			"local_code": "保德县"
+		},
+		"Dai Xian": {
+			"local_code": "代县"
+		},
+		"Dingxiang Xian": {
+			"local_code": "定襄县"
+		},
+		"Fanshi Xian": {
+			"local_code": "繁峙县"
+		},
+		"Hequ Xian": {
+			"local_code": "河曲县"
+		},
+		"Jingle Xian": {
+			"local_code": "静乐县"
+		},
+		"Kelan Xian": {
+			"local_code": "岢岚县"
+		},
+		"Ningwu Xian": {
+			"local_code": "宁武县"
+		},
+		"Pianguan Xian": {
+			"local_code": "偏关县"
+		},
+		"Shenchi Xian": {
+			"local_code": "神池县"
+		},
+		"Wutai Xian": {
+			"local_code": "五台县"
+		},
+		"Wuzhai Xian": {
+			"local_code": "五寨县"
+		},
+		"Xinfu Qu": {
+			"local_code": "忻府区"
+		},
+		"Yuanping Shi": {
+			"local_code": "原平市"
+		}
+	}
+}

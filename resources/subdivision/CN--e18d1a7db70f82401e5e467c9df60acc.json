@@ -1,0 +1,50 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Hubei Sheng",
+		"Wuhan Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Caidian Qu": {
+			"local_code": "蔡甸区"
+		},
+		"Dongxihu Qu": {
+			"local_code": "东西湖区"
+		},
+		"Hannan Qu": {
+			"local_code": "汉南区"
+		},
+		"Hanyang Qu": {
+			"local_code": "汉阳区"
+		},
+		"Hongshan Qu": {
+			"local_code": "洪山区"
+		},
+		"Huangpi Qu": {
+			"local_code": "黄陂区"
+		},
+		"Jiang'an Qu": {
+			"local_code": "江岸区"
+		},
+		"Jianghan Qu": {
+			"local_code": "江汉区"
+		},
+		"Jiangxia Qu": {
+			"local_code": "江夏区"
+		},
+		"Qiaokou Qu": {
+			"local_code": "硚口区"
+		},
+		"Qingshan Qu": {
+			"local_code": "青山区"
+		},
+		"Wuchang Qu": {
+			"local_code": "武昌区"
+		},
+		"Xinzhou Qu": {
+			"local_code": "新洲区"
+		}
+	}
+}

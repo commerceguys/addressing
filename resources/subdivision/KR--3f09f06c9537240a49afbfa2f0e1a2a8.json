@@ -1,0 +1,23 @@
+{
+	"country_code": "KR",
+	"parents": [
+		"KR",
+		"Gyeonggi-do",
+		"Bucheon-si"
+	],
+	"locale": "ko",
+	"subdivisions": {
+		"Sosa-gu": {
+			"local_code": "소사구",
+			"postal_code_pattern": "14[67]|422"
+		},
+		"Ojeong-gu": {
+			"local_code": "오정구",
+			"postal_code_pattern": "14[45]|421"
+		},
+		"Wonmi-gu": {
+			"local_code": "원미구",
+			"postal_code_pattern": "14[456]|420"
+		}
+	}
+}

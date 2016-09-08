@@ -1,34 +1,24 @@
 {
 	"country_code": "CV",
-	"parent_id": null,
-	"locale": "pt",
 	"subdivisions": {
-		"CV-BV": {
-			"name": "Boa Vista"
+		"Boa Vista": {
+			"iso_code": "CV-BV"
 		},
-		"CV-BR": {
-			"name": "Brava"
+		"Brava": {
+			"iso_code": "CV-BR"
 		},
-		"CV-31d0db": {
-			"name": "Fogo"
+		"Fogo": [],
+		"Maio": {
+			"iso_code": "CV-MA"
 		},
-		"CV-MA": {
-			"name": "Maio"
+		"Sal": {
+			"iso_code": "CV-SL"
 		},
-		"CV-SL": {
-			"name": "Sal"
-		},
-		"CV-5a98ef": {
-			"name": "Santiago"
-		},
-		"CV-acadcc": {
-			"name": "Santo Antão"
-		},
-		"CV-31fcf5": {
-			"name": "São Nicolau"
-		},
-		"CV-SV": {
-			"name": "São Vicente"
+		"Santiago": [],
+		"Santo Antão": [],
+		"São Nicolau": [],
+		"São Vicente": {
+			"iso_code": "CV-SV"
 		}
 	}
 }

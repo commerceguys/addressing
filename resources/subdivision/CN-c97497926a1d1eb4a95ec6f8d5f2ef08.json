@@ -1,0 +1,78 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Henan Sheng"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Anyang Shi": {
+			"local_code": "安阳市",
+			"has_children": true
+		},
+		"Hebi Shi": {
+			"local_code": "鹤壁市",
+			"has_children": true
+		},
+		"Jiaozuo Shi": {
+			"local_code": "焦作市",
+			"has_children": true
+		},
+		"Kaifeng Shi": {
+			"local_code": "开封市",
+			"has_children": true
+		},
+		"Luoyang Shi": {
+			"local_code": "洛阳市",
+			"has_children": true
+		},
+		"Luohe Shi": {
+			"local_code": "漯河市",
+			"has_children": true
+		},
+		"Nanyang Shi": {
+			"local_code": "南阳市",
+			"has_children": true
+		},
+		"Pingdingshan Shi": {
+			"local_code": "平顶山市",
+			"has_children": true
+		},
+		"Puyang Shi": {
+			"local_code": "濮阳市",
+			"has_children": true
+		},
+		"Sanmenxia Shi": {
+			"local_code": "三门峡市",
+			"has_children": true
+		},
+		"Shangqiu Shi": {
+			"local_code": "商丘市",
+			"has_children": true
+		},
+		"Xinxiang Shi": {
+			"local_code": "新乡市",
+			"has_children": true
+		},
+		"Xinyang Shi": {
+			"local_code": "信阳市",
+			"has_children": true
+		},
+		"Xuchang Shi": {
+			"local_code": "许昌市",
+			"has_children": true
+		},
+		"Zhengzhou Shi": {
+			"local_code": "郑州市",
+			"has_children": true
+		},
+		"Zhoukou Shi": {
+			"local_code": "周口市",
+			"has_children": true
+		},
+		"Zhumadian Shi": {
+			"local_code": "驻马店市",
+			"has_children": true
+		}
+	}
+}

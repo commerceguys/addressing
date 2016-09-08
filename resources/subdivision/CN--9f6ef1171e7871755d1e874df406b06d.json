@@ -1,0 +1,32 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Jilin Sheng",
+		"Tonghua Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Dongchang Qu": {
+			"local_code": "东昌区"
+		},
+		"Erdaojiang Qu": {
+			"local_code": "二道江区"
+		},
+		"Huinan Xian": {
+			"local_code": "辉南县"
+		},
+		"Ji'an Shi": {
+			"local_code": "集安市"
+		},
+		"Liuhe Xian": {
+			"local_code": "柳河县"
+		},
+		"Meihekou Shi": {
+			"local_code": "梅河口市"
+		},
+		"Tonghua Xian": {
+			"local_code": "通化县"
+		}
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"country_code": "CL",
+	"parents": [
+		"CL",
+		"Antofagasta"
+	],
+	"subdivisions": {
+		"Antofagasta": [],
+		"Calama": [],
+		"María Elena": [],
+		"Mejillones": [],
+		"Ollagüe": [],
+		"San Pedro de Atacama": [],
+		"Sierra Gorda": [],
+		"Taltal": [],
+		"Tocopilla": []
+	}
+}

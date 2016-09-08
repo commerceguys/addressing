@@ -1,0 +1,41 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Yunnan Sheng",
+		"Yuxi Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Chengjiang Xian": {
+			"local_code": "澄江县"
+		},
+		"Eshan Xian": {
+			"local_code": "峨山彝族自治县",
+			"local_name": "峨山县"
+		},
+		"Hongta Qu": {
+			"local_code": "红塔区"
+		},
+		"Huaning Xian": {
+			"local_code": "华宁县"
+		},
+		"Jiangchuan Xian": {
+			"local_code": "江川县"
+		},
+		"Tonghai Xian": {
+			"local_code": "通海县"
+		},
+		"Xinping Xian": {
+			"local_code": "新平彝族傣族自治县",
+			"local_name": "新平县"
+		},
+		"Yimen Xian": {
+			"local_code": "易门县"
+		},
+		"Yuanjiang Xian": {
+			"local_code": "元江哈尼族彝族傣族自治县",
+			"local_name": "元江县"
+		}
+	}
+}

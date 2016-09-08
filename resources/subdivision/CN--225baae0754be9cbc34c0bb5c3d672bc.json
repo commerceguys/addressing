@@ -1,0 +1,47 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Neimenggu Zizhiqu",
+		"Chifeng Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Ar Horqin Qi": {
+			"local_code": "阿鲁科尔沁旗"
+		},
+		"Aohan Qi": {
+			"local_code": "敖汉旗"
+		},
+		"Bairin Youqi": {
+			"local_code": "巴林右旗"
+		},
+		"Bairin Zuoqi": {
+			"local_code": "巴林左旗"
+		},
+		"Hongshan Qu": {
+			"local_code": "红山区"
+		},
+		"Harqin Qi": {
+			"local_code": "喀喇沁旗"
+		},
+		"Hexigten Qi": {
+			"local_code": "克什克腾旗"
+		},
+		"Linxi Xian": {
+			"local_code": "林西县"
+		},
+		"Ningcheng Xian": {
+			"local_code": "宁城县"
+		},
+		"Songshan Qu": {
+			"local_code": "松山区"
+		},
+		"Ongniud Qi": {
+			"local_code": "翁牛特旗"
+		},
+		"Yuanbaoshan Qu": {
+			"local_code": "元宝山区"
+		}
+	}
+}

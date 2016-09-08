@@ -1,0 +1,171 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Taiwan",
+		"Kaohsiung City"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Alian District": {
+			"local_code": "阿蓮區",
+			"postal_code_pattern": "822"
+		},
+		"Daliao District": {
+			"local_code": "大寮區",
+			"postal_code_pattern": "831"
+		},
+		"Dashe District": {
+			"local_code": "大社區",
+			"postal_code_pattern": "815"
+		},
+		"Dashu District": {
+			"local_code": "大樹區",
+			"postal_code_pattern": "840"
+		},
+		"Dongsha Island": {
+			"local_code": "東沙島",
+			"postal_code_pattern": "817"
+		},
+		"Fengshan District": {
+			"local_code": "鳳山區",
+			"postal_code_pattern": "830"
+		},
+		"Gangshan District": {
+			"local_code": "岡山區",
+			"postal_code_pattern": "820"
+		},
+		"Gushan District": {
+			"local_code": "鼓山區",
+			"postal_code_pattern": "804"
+		},
+		"Hunei District": {
+			"local_code": "湖內區",
+			"postal_code_pattern": "829"
+		},
+		"Jiading District": {
+			"local_code": "茄萣區",
+			"postal_code_pattern": "852"
+		},
+		"Jiaxian District": {
+			"local_code": "甲仙區",
+			"postal_code_pattern": "847"
+		},
+		"Linyuan District": {
+			"local_code": "林園區",
+			"postal_code_pattern": "832"
+		},
+		"Lingya District": {
+			"local_code": "苓雅區",
+			"postal_code_pattern": "802"
+		},
+		"Liugui District": {
+			"local_code": "六龜區",
+			"postal_code_pattern": "844"
+		},
+		"Luzhu District": {
+			"local_code": "路竹區",
+			"postal_code_pattern": "821"
+		},
+		"Maolin District": {
+			"local_code": "茂林區",
+			"postal_code_pattern": "851"
+		},
+		"Meinong District": {
+			"local_code": "美濃區",
+			"postal_code_pattern": "843"
+		},
+		"Mituo District": {
+			"local_code": "彌陀區",
+			"postal_code_pattern": "827"
+		},
+		"Namaxia District": {
+			"local_code": "那瑪夏區",
+			"postal_code_pattern": "849"
+		},
+		"Nansha Island": {
+			"local_code": "南沙島",
+			"postal_code_pattern": "819"
+		},
+		"Nanzi District": {
+			"local_code": "楠梓區",
+			"postal_code_pattern": "811"
+		},
+		"Neimen District": {
+			"local_code": "內門區",
+			"postal_code_pattern": "845"
+		},
+		"Niaosong District": {
+			"local_code": "鳥松區",
+			"postal_code_pattern": "833"
+		},
+		"Qijin District": {
+			"local_code": "旗津區",
+			"postal_code_pattern": "805"
+		},
+		"Qishan District": {
+			"local_code": "旗山區",
+			"postal_code_pattern": "842"
+		},
+		"Qianjin District": {
+			"local_code": "前金區",
+			"postal_code_pattern": "801"
+		},
+		"Qianzhen District": {
+			"local_code": "前鎮區",
+			"postal_code_pattern": "806"
+		},
+		"Qiaotou District": {
+			"local_code": "橋頭區",
+			"postal_code_pattern": "825"
+		},
+		"Renwu District": {
+			"local_code": "仁武區",
+			"postal_code_pattern": "814"
+		},
+		"Sanmin District": {
+			"local_code": "三民區",
+			"postal_code_pattern": "807"
+		},
+		"Shanlin District": {
+			"local_code": "杉林區",
+			"postal_code_pattern": "846"
+		},
+		"Taoyuan District": {
+			"local_code": "桃源區",
+			"postal_code_pattern": "848"
+		},
+		"Tianliao District": {
+			"local_code": "田寮區",
+			"postal_code_pattern": "823"
+		},
+		"Xiaogang District": {
+			"local_code": "小港區",
+			"postal_code_pattern": "812"
+		},
+		"Xinxing District": {
+			"local_code": "新興區",
+			"postal_code_pattern": "800"
+		},
+		"Yancheng District": {
+			"local_code": "鹽埕區",
+			"postal_code_pattern": "803"
+		},
+		"Yanchao District": {
+			"local_code": "燕巢區",
+			"postal_code_pattern": "824"
+		},
+		"Yong'an District": {
+			"local_code": "永安區",
+			"postal_code_pattern": "828"
+		},
+		"Ziguan District": {
+			"local_code": "梓官區",
+			"postal_code_pattern": "826"
+		},
+		"Zuoying District": {
+			"local_code": "左營區",
+			"postal_code_pattern": "813"
+		}
+	}
+}

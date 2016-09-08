@@ -1,0 +1,59 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Guizhou Sheng",
+		"Qiandongnan Zhou"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Cengong Xian": {
+			"local_code": "岑巩县"
+		},
+		"Congjiang Xian": {
+			"local_code": "从江县"
+		},
+		"Danzhai Xian": {
+			"local_code": "丹寨县"
+		},
+		"Huangping Xian": {
+			"local_code": "黄平县"
+		},
+		"Jianhe Xian": {
+			"local_code": "剑河县"
+		},
+		"Jinping Xian": {
+			"local_code": "锦屏县"
+		},
+		"Kaili Shi": {
+			"local_code": "凯里市"
+		},
+		"Leishan Xian": {
+			"local_code": "雷山县"
+		},
+		"Liping Xian": {
+			"local_code": "黎平县"
+		},
+		"Majiang Xian": {
+			"local_code": "麻江县"
+		},
+		"Rongjiang Xian": {
+			"local_code": "榕江县"
+		},
+		"Sansui Xian": {
+			"local_code": "三穗县"
+		},
+		"Shibing Xian": {
+			"local_code": "施秉县"
+		},
+		"Taijiang Xian": {
+			"local_code": "台江县"
+		},
+		"Tianzhu Xian": {
+			"local_code": "天柱县"
+		},
+		"Zhenyuan Xian": {
+			"local_code": "镇远县"
+		}
+	}
+}

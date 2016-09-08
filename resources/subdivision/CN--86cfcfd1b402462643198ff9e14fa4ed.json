@@ -1,0 +1,32 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Guangdong Sheng",
+		"Jiangmen Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Enping Shi": {
+			"local_code": "恩平市"
+		},
+		"Heshan Shi": {
+			"local_code": "鹤山市"
+		},
+		"Jianghai Qu": {
+			"local_code": "江海区"
+		},
+		"Kaiping Shi": {
+			"local_code": "开平市"
+		},
+		"Pengjiang Qu": {
+			"local_code": "蓬江区"
+		},
+		"Taishan Shi": {
+			"local_code": "台山市"
+		},
+		"Xinhui Qu": {
+			"local_code": "新会区"
+		}
+	}
+}

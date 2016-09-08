@@ -1,0 +1,16 @@
+{
+	"country_code": "TW",
+	"parents": [
+		"TW",
+		"Chiayi City"
+	],
+	"locale": "zh-Hant",
+	"subdivisions": {
+		"West District": {
+			"local_code": "西區"
+		},
+		"East District": {
+			"local_code": "東區"
+		}
+	}
+}

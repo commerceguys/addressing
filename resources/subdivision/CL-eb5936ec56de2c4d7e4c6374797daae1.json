@@ -1,0 +1,13 @@
+{
+	"country_code": "CL",
+	"parents": [
+		"CL",
+		"Arica y Parinacota"
+	],
+	"subdivisions": {
+		"Arica": [],
+		"Camarones": [],
+		"General Lagos": [],
+		"Putre": []
+	}
+}

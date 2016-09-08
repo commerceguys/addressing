@@ -1,0 +1,32 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Zhejiang Sheng",
+		"Jiaxing Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Haining Shi": {
+			"local_code": "海宁市"
+		},
+		"Haiyan Xian": {
+			"local_code": "海盐县"
+		},
+		"Jiashan Xian": {
+			"local_code": "嘉善县"
+		},
+		"Nanhu Qu": {
+			"local_code": "南湖区"
+		},
+		"Pinghu Shi": {
+			"local_code": "平湖市"
+		},
+		"Tongxiang Shi": {
+			"local_code": "桐乡市"
+		},
+		"Xiuzhou Qu": {
+			"local_code": "秀洲区"
+		}
+	}
+}

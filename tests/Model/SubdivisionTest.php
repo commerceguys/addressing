@@ -12,122 +12,66 @@ use Doctrine\Common\Collections\ArrayCollection;
 class SubdivisionTest extends \PHPUnit_Framework_TestCase
 {
     /**
-     * @var Subdivision
+     * @covers ::__construct
+     *
+     * @expectedException \InvalidArgumentException
      */
-    protected $subdivision;
-
-    /**
-     * {@inheritdoc}
-     */
-    public function setUp()
+    public function testMissingProperty()
     {
-        $this->subdivision = new Subdivision();
-    }
-
-    /**
-     * @covers ::getParent
-     * @covers ::setParent
-     */
-    public function testParent()
-    {
-        $parent = $this
-            ->getMockBuilder('CommerceGuys\Addressing\Model\Subdivision')
-            ->getMock();
-        $this->subdivision->setParent($parent);
-        $this->assertEquals($parent, $this->subdivision->getParent());
+        $definition = [
+            'country_code' => 'US',
+        ];
+        $subdivision = new Subdivision($definition);
     }
 
     /**
      * @covers ::__construct
+     * @covers ::getParent
+     * @covers ::getCountryCode
+     * @covers ::getLocale
+     * @covers ::getCode
+     * @covers ::getLocalCode
+     * @covers ::getName
+     * @covers ::getLocalName
+     * @covers ::getIsoCode
+     * @covers ::getPostalCodePattern
+     * @covers ::getPostalCodePatternType
      * @covers ::getChildren
-     * @covers ::setChildren
      * @covers ::hasChildren
      */
-    public function testChildren()
+    public function testValid()
     {
-        $firstChild = $this
-            ->getMockBuilder('CommerceGuys\Addressing\Model\Subdivision')
-            ->getMock();
-        $secondChild = $this
-            ->getMockBuilder('CommerceGuys\Addressing\Model\Subdivision')
-            ->getMock();
-        $empty = new ArrayCollection();
-        $children = new ArrayCollection([$firstChild, $secondChild]);
+        $mockBuilder = $this->getMockBuilder('CommerceGuys\Addressing\Model\Subdivision');
+        $mockBuilder = $mockBuilder->disableOriginalConstructor();
+        $parent = $mockBuilder->getMock();
+        $children = new ArrayCollection([$mockBuilder->getMock(), $mockBuilder->getMock()]);
 
-        $this->assertEquals(false, $this->subdivision->hasChildren());
-        $this->assertEquals($empty, $this->subdivision->getChildren());
-        $this->subdivision->setChildren($children);
-        $this->assertEquals($children, $this->subdivision->getChildren());
-        $this->assertEquals(true, $this->subdivision->hasChildren());
-    }
+        $definition = [
+            'parent' => $parent,
+            'country_code' => 'US',
+            'locale' => 'en',
+            'code' => 'CA',
+            'local_code' => 'CA!',
+            'name' => 'California',
+            'local_name' => 'California!',
+            'iso_code' => 'US-CA',
+            'postal_code_pattern' => '9[0-5]|96[01]',
+            'postal_code_pattern_type' => PatternType::START,
+            'children' => $children,
+        ];
+        $subdivision = new Subdivision($definition);
 
-    /**
-     * @covers ::getCountryCode
-     * @covers ::setCountryCode
-     */
-    public function testCountryCode()
-    {
-        $this->subdivision->setCountryCode('US');
-        $this->assertEquals('US', $this->subdivision->getCountryCode());
-    }
-
-    /**
-     * @covers ::getId
-     * @covers ::setId
-     */
-    public function testId()
-    {
-        $this->subdivision->setId('US-CA');
-        $this->assertEquals('US-CA', $this->subdivision->getId());
-    }
-
-    /**
-     * @covers ::getCode
-     * @covers ::setCode
-     */
-    public function testCode()
-    {
-        $this->subdivision->setCode('CA');
-        $this->assertEquals('CA', $this->subdivision->getCode());
-    }
-
-    /**
-     * @covers ::getName
-     * @covers ::setName
-     */
-    public function testName()
-    {
-        $this->subdivision->setName('California');
-        $this->assertEquals('California', $this->subdivision->getName());
-    }
-
-    /**
-     * @covers ::getPostalCodePattern
-     * @covers ::setPostalCodePattern
-     */
-    public function testPostalCodePattern()
-    {
-        $this->subdivision->setPostalCodePattern('9[0-5]|96[01]');
-        $this->assertEquals('9[0-5]|96[01]', $this->subdivision->getPostalCodePattern());
-    }
-
-    /**
-     * @covers ::getPostalCodePatternType
-     * @covers ::setPostalCodePatternType
-     */
-    public function testPostalCodePatternType()
-    {
-        $this->subdivision->setPostalCodePatternType(PatternType::START);
-        $this->assertEquals(PatternType::START, $this->subdivision->getPostalCodePatternType());
-    }
-
-    /**
-     * @covers ::getLocale
-     * @covers ::setLocale
-     */
-    public function testLocale()
-    {
-        $this->subdivision->setLocale('en');
-        $this->assertEquals('en', $this->subdivision->getLocale());
+        $this->assertEquals($definition['parent'], $subdivision->getParent());
+        $this->assertEquals($definition['country_code'], $subdivision->getCountryCode());
+        $this->assertEquals($definition['locale'], $subdivision->getLocale());
+        $this->assertEquals($definition['code'], $subdivision->getCode());
+        $this->assertEquals($definition['local_code'], $subdivision->getLocalCode());
+        $this->assertEquals($definition['name'], $subdivision->getName());
+        $this->assertEquals($definition['local_name'], $subdivision->getLocalName());
+        $this->assertEquals($definition['iso_code'], $subdivision->getIsoCode());
+        $this->assertEquals($definition['postal_code_pattern'], $subdivision->getPostalCodePattern());
+        $this->assertEquals($definition['postal_code_pattern_type'], $subdivision->getPostalCodePatternType());
+        $this->assertEquals($definition['children'], $subdivision->getChildren());
+        $this->assertTrue($subdivision->hasChildren());
     }
 }

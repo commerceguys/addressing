@@ -1,0 +1,54 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Zhejiang Sheng"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Hangzhou Shi": {
+			"local_code": "杭州市",
+			"has_children": true
+		},
+		"Huzhou Shi": {
+			"local_code": "湖州市",
+			"has_children": true
+		},
+		"Jiaxing Shi": {
+			"local_code": "嘉兴市",
+			"has_children": true
+		},
+		"Jinhua Shi": {
+			"local_code": "金华市",
+			"has_children": true
+		},
+		"Lishui Shi": {
+			"local_code": "丽水市",
+			"has_children": true
+		},
+		"Ningbo Shi": {
+			"local_code": "宁波市",
+			"has_children": true
+		},
+		"Quzhou Shi": {
+			"local_code": "衢州市",
+			"has_children": true
+		},
+		"Shaoxing Shi": {
+			"local_code": "绍兴市",
+			"has_children": true
+		},
+		"Taizhou Shi": {
+			"local_code": "台州市",
+			"has_children": true
+		},
+		"Wenzhou Shi": {
+			"local_code": "温州市",
+			"has_children": true
+		},
+		"Zhoushan Shi": {
+			"local_code": "舟山市",
+			"has_children": true
+		}
+	}
+}

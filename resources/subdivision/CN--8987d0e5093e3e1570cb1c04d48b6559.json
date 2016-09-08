@@ -1,0 +1,38 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Neimenggu Zizhiqu",
+		"Baotou Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Baiyun Kuangqu": {
+			"local_code": "白云矿区"
+		},
+		"Darhan Mumingan Lianheqi": {
+			"local_code": "达尔罕茂明安联合旗"
+		},
+		"Donghe Qu": {
+			"local_code": "东河区"
+		},
+		"Guyang Xian": {
+			"local_code": "固阳县"
+		},
+		"Jiuyuan Qu": {
+			"local_code": "九原区"
+		},
+		"Hondlon Qu": {
+			"local_code": "昆都仑区"
+		},
+		"Qingshan Qu": {
+			"local_code": "青山区"
+		},
+		"Shiguai Qu": {
+			"local_code": "石拐区"
+		},
+		"Tumd Youqi": {
+			"local_code": "土默特右旗"
+		}
+	}
+}

@@ -1,0 +1,44 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Anhui Sheng",
+		"Anqing Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Zongyang Xian": {
+			"local_code": "枞阳县"
+		},
+		"Daguan Qu": {
+			"local_code": "大观区"
+		},
+		"Huaining Xian": {
+			"local_code": "怀宁县"
+		},
+		"Qianshan Xian": {
+			"local_code": "潜山县"
+		},
+		"Susong Xian": {
+			"local_code": "宿松县"
+		},
+		"Taihu Xian": {
+			"local_code": "太湖县"
+		},
+		"Tongcheng Shi": {
+			"local_code": "桐城市"
+		},
+		"Wangjiang Xian": {
+			"local_code": "望江县"
+		},
+		"Yixiu Qu": {
+			"local_code": "宜秀区"
+		},
+		"Yingjiang Qu": {
+			"local_code": "迎江区"
+		},
+		"Yuexi Xian": {
+			"local_code": "岳西县"
+		}
+	}
+}

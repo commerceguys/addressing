@@ -1,0 +1,44 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Yunnan Sheng",
+		"Zhaotong Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Daguan Xian": {
+			"local_code": "大关县"
+		},
+		"Ludian Xian": {
+			"local_code": "鲁甸县"
+		},
+		"Qiaojia Xian": {
+			"local_code": "巧家县"
+		},
+		"Shuifu Xian": {
+			"local_code": "水富县"
+		},
+		"Suijiang Xian": {
+			"local_code": "绥江县"
+		},
+		"Weixin Xian": {
+			"local_code": "威信县"
+		},
+		"Yanjin Xian": {
+			"local_code": "盐津县"
+		},
+		"Yiliang Xian": {
+			"local_code": "彝良县"
+		},
+		"Yongshan Xian": {
+			"local_code": "永善县"
+		},
+		"Zhaoyang Qu": {
+			"local_code": "昭阳区"
+		},
+		"Zhenxiong Xian": {
+			"local_code": "镇雄县"
+		}
+	}
+}

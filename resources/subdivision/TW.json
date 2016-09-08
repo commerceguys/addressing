@@ -1,248 +1,135 @@
 {
 	"country_code": "TW",
-	"parent_id": null,
-	"locale": "zh-Latn",
+	"locale": "zh-Hant",
 	"subdivisions": {
-		"TW-TXG": {
-			"code": "台中市",
-			"name": "Taichung City",
+		"Taichung City": {
+			"local_code": "台中市",
+			"iso_code": "TW-TXG",
 			"postal_code_pattern": "4[0-3]",
-			"translations": {
-				"zh-hant": {
-					"name": "台中市"
-				}
-			},
 			"has_children": true
 		},
-		"TW-TPE": {
-			"code": "台北市",
-			"name": "Taipei City",
+		"Taipei City": {
+			"local_code": "台北市",
+			"iso_code": "TW-TPE",
 			"postal_code_pattern": "1[01]",
-			"translations": {
-				"zh-hant": {
-					"name": "台北市"
-				}
-			},
 			"has_children": true
 		},
-		"TW-TTT": {
-			"code": "台東縣",
-			"name": "Taitung County",
+		"Taitung County": {
+			"local_code": "台東縣",
+			"iso_code": "TW-TTT",
 			"postal_code_pattern": "9[56]",
-			"translations": {
-				"zh-hant": {
-					"name": "台東縣"
-				}
-			},
 			"has_children": true
 		},
-		"TW-TNN": {
-			"code": "台南市",
-			"name": "Tainan City",
+		"Tainan City": {
+			"local_code": "台南市",
+			"iso_code": "TW-TNN",
 			"postal_code_pattern": "7[0-4]",
-			"translations": {
-				"zh-hant": {
-					"name": "台南市"
-				}
-			},
 			"has_children": true
 		},
-		"TW-ILA": {
-			"code": "宜蘭縣",
-			"name": "Yilan County",
+		"Yilan County": {
+			"local_code": "宜蘭縣",
+			"iso_code": "TW-ILA",
 			"postal_code_pattern": "2[67]",
-			"translations": {
-				"zh-hant": {
-					"name": "宜蘭縣"
-				}
-			},
 			"has_children": true
 		},
-		"TW-HUA": {
-			"code": "花蓮縣",
-			"name": "Hualien County",
+		"Hualien County": {
+			"local_code": "花蓮縣",
+			"iso_code": "TW-HUA",
 			"postal_code_pattern": "9[78]",
-			"translations": {
-				"zh-hant": {
-					"name": "花蓮縣"
-				}
-			},
 			"has_children": true
 		},
-		"TW-8cef1e": {
-			"code": "金門縣",
-			"name": "Kinmen County",
+		"Kinmen County": {
+			"local_code": "金門縣",
 			"postal_code_pattern": "89",
-			"translations": {
-				"zh-hant": {
-					"name": "金門縣"
-				}
-			},
 			"has_children": true
 		},
-		"TW-NAN": {
-			"code": "南投縣",
-			"name": "Nantou County",
+		"Nantou County": {
+			"local_code": "南投縣",
+			"iso_code": "TW-NAN",
 			"postal_code_pattern": "5[45]",
-			"translations": {
-				"zh-hant": {
-					"name": "南投縣"
-				}
-			},
 			"has_children": true
 		},
-		"TW-PIF": {
-			"code": "屏東縣",
-			"name": "Pingtung County",
+		"Pingtung County": {
+			"local_code": "屏東縣",
+			"iso_code": "TW-PIF",
 			"postal_code_pattern": "9[0-4]",
-			"translations": {
-				"zh-hant": {
-					"name": "屏東縣"
-				}
-			},
 			"has_children": true
 		},
-		"TW-MIA": {
-			"code": "苗栗縣",
-			"name": "Miaoli County",
+		"Miaoli County": {
+			"local_code": "苗栗縣",
+			"iso_code": "TW-MIA",
 			"postal_code_pattern": "3[56]",
-			"translations": {
-				"zh-hant": {
-					"name": "苗栗縣"
-				}
-			},
 			"has_children": true
 		},
-		"TW-TAO": {
-			"code": "桃園市",
-			"name": "Taoyuan City",
+		"Taoyuan City": {
+			"local_code": "桃園市",
+			"iso_code": "TW-TAO",
 			"postal_code_pattern": "3[23]",
-			"translations": {
-				"zh-hant": {
-					"name": "桃園市"
-				}
-			},
 			"has_children": true
 		},
-		"TW-KHH": {
-			"code": "高雄市",
-			"name": "Kaohsiung City",
+		"Kaohsiung City": {
+			"local_code": "高雄市",
+			"iso_code": "TW-KHH",
 			"postal_code_pattern": "8[02-5]|81[1-579]",
-			"translations": {
-				"zh-hant": {
-					"name": "高雄市"
-				}
-			},
 			"has_children": true
 		},
-		"TW-KEE": {
-			"code": "基隆市",
-			"name": "Keelung City",
+		"Keelung City": {
+			"local_code": "基隆市",
+			"iso_code": "TW-KEE",
 			"postal_code_pattern": "20[0-6]",
-			"translations": {
-				"zh-hant": {
-					"name": "基隆市"
-				}
-			},
 			"has_children": true
 		},
-		"TW-a167f0": {
-			"code": "連江縣",
-			"name": "Lienchiang County",
+		"Lienchiang County": {
+			"local_code": "連江縣",
 			"postal_code_pattern": "209|21[012]",
-			"translations": {
-				"zh-hant": {
-					"name": "連江縣"
-				}
-			},
 			"has_children": true
 		},
-		"TW-YUN": {
-			"code": "雲林縣",
-			"name": "Yunlin County",
+		"Yunlin County": {
+			"local_code": "雲林縣",
+			"iso_code": "TW-YUN",
 			"postal_code_pattern": "6[3-5]",
-			"translations": {
-				"zh-hant": {
-					"name": "雲林縣"
-				}
-			},
 			"has_children": true
 		},
-		"TW-TPQ": {
-			"code": "新北市",
-			"name": "New Taipei City",
+		"New Taipei City": {
+			"local_code": "新北市",
+			"iso_code": "TW-TPQ",
 			"postal_code_pattern": "20[78]|2[2345]",
-			"translations": {
-				"zh-hant": {
-					"name": "新北市"
-				}
-			},
 			"has_children": true
 		},
-		"TW-HSZ": {
-			"code": "新竹市",
-			"name": "Hsinchu City",
+		"Hsinchu City": {
+			"local_code": "新竹市",
+			"iso_code": "TW-HSZ",
 			"postal_code_pattern": "300",
-			"translations": {
-				"zh-hant": {
-					"name": "新竹市"
-				}
-			},
 			"has_children": true
 		},
-		"TW-HSQ": {
-			"code": "新竹縣",
-			"name": "Hsinchu County",
+		"Hsinchu County": {
+			"local_code": "新竹縣",
+			"iso_code": "TW-HSQ",
 			"postal_code_pattern": "30[2-8]|31",
-			"translations": {
-				"zh-hant": {
-					"name": "新竹縣"
-				}
-			},
 			"has_children": true
 		},
-		"TW-CYI": {
-			"code": "嘉義市",
-			"name": "Chiayi City",
+		"Chiayi City": {
+			"local_code": "嘉義市",
+			"iso_code": "TW-CYI",
 			"postal_code_pattern": "600",
-			"translations": {
-				"zh-hant": {
-					"name": "嘉義市"
-				}
-			},
 			"has_children": true
 		},
-		"TW-CYQ": {
-			"code": "嘉義縣",
-			"name": "Chiayi County",
+		"Chiayi County": {
+			"local_code": "嘉義縣",
+			"iso_code": "TW-CYQ",
 			"postal_code_pattern": "60[1-9]|6[12]",
-			"translations": {
-				"zh-hant": {
-					"name": "嘉義縣"
-				}
-			},
 			"has_children": true
 		},
-		"TW-CHA": {
-			"code": "彰化縣",
-			"name": "Changhua County",
+		"Changhua County": {
+			"local_code": "彰化縣",
+			"iso_code": "TW-CHA",
 			"postal_code_pattern": "5[0123]",
-			"translations": {
-				"zh-hant": {
-					"name": "彰化縣"
-				}
-			},
 			"has_children": true
 		},
-		"TW-PEN": {
-			"code": "澎湖縣",
-			"name": "Penghu County",
+		"Penghu County": {
+			"local_code": "澎湖縣",
+			"iso_code": "TW-PEN",
 			"postal_code_pattern": "88",
-			"translations": {
-				"zh-hant": {
-					"name": "澎湖縣"
-				}
-			},
 			"has_children": true
 		}
 	}

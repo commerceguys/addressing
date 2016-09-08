@@ -1,0 +1,29 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Guangdong Sheng",
+		"Heyuan Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Dongyuan Xian": {
+			"local_code": "东源县"
+		},
+		"Heping Xian": {
+			"local_code": "和平县"
+		},
+		"Lianping Xian": {
+			"local_code": "连平县"
+		},
+		"Longchuan Xian": {
+			"local_code": "龙川县"
+		},
+		"Yuancheng Qu": {
+			"local_code": "源城区"
+		},
+		"Zijin Xian": {
+			"local_code": "紫金县"
+		}
+	}
+}

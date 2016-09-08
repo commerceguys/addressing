@@ -1,0 +1,35 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Jiangsu Sheng",
+		"Nantong Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Chongchuan Qu": {
+			"local_code": "崇川区"
+		},
+		"Gangzha Qu": {
+			"local_code": "港闸区"
+		},
+		"Hai'an Xian": {
+			"local_code": "海安县"
+		},
+		"Haimen Shi": {
+			"local_code": "海门市"
+		},
+		"Qidong Shi": {
+			"local_code": "启东市"
+		},
+		"Rudong Xian": {
+			"local_code": "如东县"
+		},
+		"Rugao Shi": {
+			"local_code": "如皋市"
+		},
+		"Tongzhou Shi": {
+			"local_code": "通州市"
+		}
+	}
+}

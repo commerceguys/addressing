@@ -1,0 +1,142 @@
+{
+	"country_code": "TW",
+	"parents": [
+		"TW",
+		"Pingtung County"
+	],
+	"locale": "zh-Hant",
+	"subdivisions": {
+		"Jiuru Township": {
+			"local_code": "九如鄉",
+			"postal_code_pattern": "904"
+		},
+		"Sandimen Township": {
+			"local_code": "三地門鄉",
+			"postal_code_pattern": "901"
+		},
+		"Neipu Township": {
+			"local_code": "內埔鄉",
+			"postal_code_pattern": "912"
+		},
+		"Zhutian Township": {
+			"local_code": "竹田鄉",
+			"postal_code_pattern": "911"
+		},
+		"Mudan Township": {
+			"local_code": "牡丹鄉",
+			"postal_code_pattern": "945"
+		},
+		"Checheng Township": {
+			"local_code": "車城鄉",
+			"postal_code_pattern": "944"
+		},
+		"Ligang Township": {
+			"local_code": "里港鄉",
+			"postal_code_pattern": "905"
+		},
+		"Jiadong Township": {
+			"local_code": "佳冬鄉",
+			"postal_code_pattern": "931"
+		},
+		"Laiyi Township": {
+			"local_code": "來義鄉",
+			"postal_code_pattern": "922"
+		},
+		"Donggang Township": {
+			"local_code": "東港鎮",
+			"postal_code_pattern": "928"
+		},
+		"Fangshan Township": {
+			"local_code": "枋山鄉",
+			"postal_code_pattern": "941"
+		},
+		"Fangliao Township": {
+			"local_code": "枋寮鄉",
+			"postal_code_pattern": "940"
+		},
+		"Linbian Township": {
+			"local_code": "林邊鄉",
+			"postal_code_pattern": "927"
+		},
+		"Changzhi Township": {
+			"local_code": "長治鄉",
+			"postal_code_pattern": "908"
+		},
+		"Nanzhou Township": {
+			"local_code": "南州鄉",
+			"postal_code_pattern": "926"
+		},
+		"Pingtung City": {
+			"local_code": "屏東市",
+			"postal_code_pattern": "900"
+		},
+		"Hengchun Township": {
+			"local_code": "恆春鎮",
+			"postal_code_pattern": "946"
+		},
+		"Chunri Township": {
+			"local_code": "春日鄉",
+			"postal_code_pattern": "942"
+		},
+		"Kanding Township": {
+			"local_code": "崁頂鄉",
+			"postal_code_pattern": "924"
+		},
+		"Taiwu Township": {
+			"local_code": "泰武鄉",
+			"postal_code_pattern": "921"
+		},
+		"Liuqiu Township": {
+			"local_code": "琉球鄉",
+			"postal_code_pattern": "929"
+		},
+		"Gaoshu Township": {
+			"local_code": "高樹鄉",
+			"postal_code_pattern": "906"
+		},
+		"Xinpi Township": {
+			"local_code": "新埤鄉",
+			"postal_code_pattern": "925"
+		},
+		"Xinyuan Township": {
+			"local_code": "新園鄉",
+			"postal_code_pattern": "932"
+		},
+		"Shizi Township": {
+			"local_code": "獅子鄉",
+			"postal_code_pattern": "943"
+		},
+		"Wandan Township": {
+			"local_code": "萬丹鄉",
+			"postal_code_pattern": "913"
+		},
+		"Wanluan Township": {
+			"local_code": "萬巒鄉",
+			"postal_code_pattern": "923"
+		},
+		"Manzhou Township": {
+			"local_code": "滿洲鄉",
+			"postal_code_pattern": "947"
+		},
+		"Majia Township": {
+			"local_code": "瑪家鄉",
+			"postal_code_pattern": "903"
+		},
+		"Chaozhou Township": {
+			"local_code": "潮州鎮",
+			"postal_code_pattern": "920"
+		},
+		"Wutai Township": {
+			"local_code": "霧台鄉",
+			"postal_code_pattern": "902"
+		},
+		"Linluo Township": {
+			"local_code": "麟洛鄉",
+			"postal_code_pattern": "909"
+		},
+		"Yanpu Township": {
+			"local_code": "鹽埔鄉",
+			"postal_code_pattern": "907"
+		}
+	}
+}

@@ -1,0 +1,39 @@
+{
+	"country_code": "CL",
+	"parents": [
+		"CL",
+		"Maule"
+	],
+	"subdivisions": {
+		"Cauquenes": [],
+		"Chanco": [],
+		"Colbún": [],
+		"Constitución": [],
+		"Curepto": [],
+		"Curicó": [],
+		"Empedrado": [],
+		"Hualañé": [],
+		"Licantén": [],
+		"Linares": [],
+		"Longaví": [],
+		"Maule": [],
+		"Molina": [],
+		"Parral": [],
+		"Pelarco": [],
+		"Pelluhue": [],
+		"Pencahue": [],
+		"Rauco": [],
+		"Retiro": [],
+		"Río Claro": [],
+		"Romeral": [],
+		"Sagrada Familia": [],
+		"San Clemente": [],
+		"San Javier de Loncomilla": [],
+		"San Rafael": [],
+		"Talca": [],
+		"Teno": [],
+		"Vichuquén": [],
+		"Villa Alegre": [],
+		"Yerbas Buenas": []
+	}
+}

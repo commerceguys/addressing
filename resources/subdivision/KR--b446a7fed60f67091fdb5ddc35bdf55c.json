@@ -1,0 +1,23 @@
+{
+	"country_code": "KR",
+	"parents": [
+		"KR",
+		"Gyeonggi-do",
+		"Yongin-si"
+	],
+	"locale": "ko",
+	"subdivisions": {
+		"Giheung-gu": {
+			"local_code": "기흥구",
+			"postal_code_pattern": "1(?:6[89]|7[01])|446"
+		},
+		"Suji-gu": {
+			"local_code": "수지구",
+			"postal_code_pattern": "16[89]|448"
+		},
+		"Cheoin-gu": {
+			"local_code": "처인구",
+			"postal_code_pattern": "1(?:6[89]|7[01])|449"
+		}
+	}
+}

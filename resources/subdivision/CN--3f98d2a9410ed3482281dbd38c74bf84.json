@@ -1,0 +1,27 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Jilin Sheng",
+		"Songyuan Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Fuyu Xian": {
+			"local_code": "扶余县"
+		},
+		"Qian'an Xian": {
+			"local_code": "乾安县"
+		},
+		"Ningjiang Qu": {
+			"local_code": "宁江区"
+		},
+		"Qian Gorlos Xian": {
+			"local_code": "前郭尔罗斯蒙古族自治县",
+			"local_name": "前郭尔罗斯县"
+		},
+		"Changling Xian": {
+			"local_code": "长岭县"
+		}
+	}
+}

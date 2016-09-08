@@ -1,0 +1,50 @@
+{
+	"country_code": "KR",
+	"parents": [
+		"KR",
+		"Incheon"
+	],
+	"locale": "ko",
+	"subdivisions": {
+		"Ganghwa-gun": {
+			"local_code": "강화군",
+			"postal_code_pattern": "230|417"
+		},
+		"Gyeyang-gu": {
+			"local_code": "계양구",
+			"postal_code_pattern": "21[01]|407"
+		},
+		"Nam-gu": {
+			"local_code": "남구",
+			"postal_code_pattern": "22[12]|402"
+		},
+		"Namdong-gu": {
+			"local_code": "남동구",
+			"postal_code_pattern": "21[5-7]|405"
+		},
+		"Dong-gu": {
+			"local_code": "동구",
+			"postal_code_pattern": "225|401"
+		},
+		"Bupyeong-gu": {
+			"local_code": "부평구",
+			"postal_code_pattern": "21[34]|403"
+		},
+		"Seo-gu": {
+			"local_code": "서구",
+			"postal_code_pattern": "22[6-8]|404"
+		},
+		"Yeonsu-gu": {
+			"local_code": "연수구",
+			"postal_code_pattern": "2(?:19|20)|406"
+		},
+		"Ongjin-gun": {
+			"local_code": "옹진군",
+			"postal_code_pattern": "231|409"
+		},
+		"Jung-gu": {
+			"local_code": "중구",
+			"postal_code_pattern": "223|400"
+		}
+	}
+}

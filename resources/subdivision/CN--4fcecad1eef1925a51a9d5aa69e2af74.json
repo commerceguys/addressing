@@ -1,0 +1,38 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Hunan Sheng",
+		"Yueyang Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Huarong Xian": {
+			"local_code": "华容县"
+		},
+		"Junshan Qu": {
+			"local_code": "君山区"
+		},
+		"Linxiang Shi": {
+			"local_code": "临湘市"
+		},
+		"Miluo Shi": {
+			"local_code": "汨罗市"
+		},
+		"Pingjiang Xian": {
+			"local_code": "平江县"
+		},
+		"Xiangyin Xian": {
+			"local_code": "湘阴县"
+		},
+		"Yueyanglou Qu": {
+			"local_code": "岳阳楼区"
+		},
+		"Yueyang Xian": {
+			"local_code": "岳阳县"
+		},
+		"Yunxi Qu": {
+			"local_code": "云溪区"
+		}
+	}
+}

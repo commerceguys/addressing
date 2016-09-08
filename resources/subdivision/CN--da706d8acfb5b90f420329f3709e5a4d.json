@@ -1,0 +1,115 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Taiwan",
+		"Changhua County"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Beidou Township": {
+			"local_code": "北斗鎮",
+			"postal_code_pattern": "521"
+		},
+		"Puxin Township": {
+			"local_code": "埔心鄉",
+			"postal_code_pattern": "513"
+		},
+		"Puyan Township": {
+			"local_code": "埔鹽鄉",
+			"postal_code_pattern": "516"
+		},
+		"Dacheng Township": {
+			"local_code": "大城鄉",
+			"postal_code_pattern": "527"
+		},
+		"Dacun Township": {
+			"local_code": "大村鄉",
+			"postal_code_pattern": "515"
+		},
+		"Erlin Township": {
+			"local_code": "二林鎮",
+			"postal_code_pattern": "526"
+		},
+		"Ershui Township": {
+			"local_code": "二水鄉",
+			"postal_code_pattern": "530"
+		},
+		"Fangyuan Township": {
+			"local_code": "芳苑鄉",
+			"postal_code_pattern": "528"
+		},
+		"Fenyuan Township": {
+			"local_code": "芬園鄉",
+			"postal_code_pattern": "502"
+		},
+		"Fuxing Township": {
+			"local_code": "福興鄉",
+			"postal_code_pattern": "506"
+		},
+		"Hemei Township": {
+			"local_code": "和美鎮",
+			"postal_code_pattern": "508"
+		},
+		"Huatan Township": {
+			"local_code": "花壇鄉",
+			"postal_code_pattern": "503"
+		},
+		"Lukang Township": {
+			"local_code": "鹿港鎮",
+			"postal_code_pattern": "505"
+		},
+		"Pitou Township": {
+			"local_code": "埤頭鄉",
+			"postal_code_pattern": "523"
+		},
+		"Shetou Township": {
+			"local_code": "社頭鄉",
+			"postal_code_pattern": "511"
+		},
+		"Shengang Township": {
+			"local_code": "伸港鄉",
+			"postal_code_pattern": "509"
+		},
+		"Tianwei Township": {
+			"local_code": "田尾鄉",
+			"postal_code_pattern": "522"
+		},
+		"Tianzhong Township": {
+			"local_code": "田中鎮",
+			"postal_code_pattern": "520"
+		},
+		"Xihu Township": {
+			"local_code": "溪湖鎮",
+			"postal_code_pattern": "514"
+		},
+		"Xizhou Township": {
+			"local_code": "溪州鄉",
+			"postal_code_pattern": "524"
+		},
+		"Xianxi Township": {
+			"local_code": "線西鄉",
+			"postal_code_pattern": "507"
+		},
+		"Xiushui Township": {
+			"local_code": "秀水鄉",
+			"postal_code_pattern": "504"
+		},
+		"Yongjing Township": {
+			"local_code": "永靖鄉",
+			"postal_code_pattern": "512"
+		},
+		"Yuanlin City": {
+			"local_code": "員林市",
+			"postal_code_pattern": "510"
+		},
+		"Changhua City": {
+			"local_code": "彰化市",
+			"postal_code_pattern": "500"
+		},
+		"Zhutang Township": {
+			"local_code": "竹塘鄉",
+			"postal_code_pattern": "525"
+		}
+	}
+}

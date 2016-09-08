@@ -1,0 +1,44 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Jiangsu Sheng",
+		"Xuzhou Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Feng Xian": {
+			"local_code": "丰县"
+		},
+		"Gulou Qu": {
+			"local_code": "鼓楼区"
+		},
+		"Jiawang Qu": {
+			"local_code": "贾汪区"
+		},
+		"Jiuli Qu": {
+			"local_code": "九里区"
+		},
+		"Pei Xian": {
+			"local_code": "沛县"
+		},
+		"Pizhou Shi": {
+			"local_code": "邳州市"
+		},
+		"Quanshan Qu": {
+			"local_code": "泉山区"
+		},
+		"Suining Xian": {
+			"local_code": "睢宁县"
+		},
+		"Tongshan Xian": {
+			"local_code": "铜山县"
+		},
+		"Xinyi Shi": {
+			"local_code": "新沂市"
+		},
+		"Yunlong Qu": {
+			"local_code": "云龙区"
+		}
+	}
+}

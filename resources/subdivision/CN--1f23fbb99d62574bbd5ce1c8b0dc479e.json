@@ -1,0 +1,59 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Taiwan",
+		"Taipei City"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Beitou District": {
+			"local_code": "北投區",
+			"postal_code_pattern": "112"
+		},
+		"Da'an District": {
+			"local_code": "大安區",
+			"postal_code_pattern": "106"
+		},
+		"Datong District": {
+			"local_code": "大同區",
+			"postal_code_pattern": "103"
+		},
+		"Nangang District": {
+			"local_code": "南港區",
+			"postal_code_pattern": "115"
+		},
+		"Neihu District": {
+			"local_code": "內湖區",
+			"postal_code_pattern": "114"
+		},
+		"Shilin District": {
+			"local_code": "士林區",
+			"postal_code_pattern": "111"
+		},
+		"Songshan District": {
+			"local_code": "松山區",
+			"postal_code_pattern": "105"
+		},
+		"Wanhua District": {
+			"local_code": "萬華區",
+			"postal_code_pattern": "108"
+		},
+		"Wenshan District": {
+			"local_code": "文山區",
+			"postal_code_pattern": "116"
+		},
+		"Xinyi District": {
+			"local_code": "信義區",
+			"postal_code_pattern": "110"
+		},
+		"Zhongshan District": {
+			"local_code": "中山區",
+			"postal_code_pattern": "104"
+		},
+		"Zhongzheng District": {
+			"local_code": "中正區",
+			"postal_code_pattern": "100"
+		}
+	}
+}

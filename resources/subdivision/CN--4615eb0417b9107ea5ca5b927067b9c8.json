@@ -1,0 +1,47 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Hunan Sheng",
+		"Hengyang Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Changning Shi": {
+			"local_code": "常宁市"
+		},
+		"Hengdong Xian": {
+			"local_code": "衡东县"
+		},
+		"Hengnan Xian": {
+			"local_code": "衡南县"
+		},
+		"Hengshan Xian": {
+			"local_code": "衡山县"
+		},
+		"Hengyang Xian": {
+			"local_code": "衡阳县"
+		},
+		"Leiyang Shi": {
+			"local_code": "耒阳市"
+		},
+		"Nanyue Qu": {
+			"local_code": "南岳区"
+		},
+		"Qidong Xian": {
+			"local_code": "祁东县"
+		},
+		"Shigu Qu": {
+			"local_code": "石鼓区"
+		},
+		"Yanfeng Qu": {
+			"local_code": "雁峰区"
+		},
+		"Zhengxiang Qu": {
+			"local_code": "蒸湘区"
+		},
+		"Zhuhui Qu": {
+			"local_code": "珠晖区"
+		}
+	}
+}

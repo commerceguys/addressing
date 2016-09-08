@@ -1,0 +1,23 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Anhui Sheng",
+		"Chizhou Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Dongzhi Xian": {
+			"local_code": "东至县"
+		},
+		"Guichi Qu": {
+			"local_code": "贵池区"
+		},
+		"Qingyang Xian": {
+			"local_code": "青阳县"
+		},
+		"Shitai Xian": {
+			"local_code": "石台县"
+		}
+	}
+}

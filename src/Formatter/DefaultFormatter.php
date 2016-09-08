@@ -191,6 +191,7 @@ class DefaultFormatter implements FormatterInterface
     {
         $countries = $this->countryRepository->getList($this->locale);
         $values = $this->getValues($address, $addressFormat);
+
         $view = [];
         $view['country'] = [
             'html_tag' => 'span',
@@ -297,18 +298,25 @@ class DefaultFormatter implements FormatterInterface
         }
 
         // Replace the subdivision values with the names of any predefined ones.
-        foreach ($addressFormat->getUsedSubdivisionFields() as $field) {
+        $originalValues = [];
+        $subdivisionFields = $addressFormat->getUsedSubdivisionFields();
+        $parents = [];
+        foreach ($subdivisionFields as $index => $field) {
             if (empty($values[$field])) {
                 // This level is empty, so there can be no sublevels.
                 break;
             }
-            $subdivision = $this->subdivisionRepository->get($values[$field], $address->getLocale());
+            $parents[] = $index ? $originalValues[$subdivisionFields[$index - 1]] : $address->getCountryCode();
+            $subdivision = $this->subdivisionRepository->get($values[$field], $parents);
             if (!$subdivision) {
-                // This level has no predefined subdivisions, stop.
                 break;
             }
 
-            $values[$field] = $subdivision->getCode();
+            // Remember the original value so that it can be used for $parents.
+            $originalValues[$field] = $values[$field];
+            // Replace the value with the expected code.
+            $useLocalName = LocaleHelper::match($address->getLocale(), $subdivision->getLocale());
+            $values[$field] = $useLocalName ? $subdivision->getLocalCode() : $subdivision->getCode();
             if (!$subdivision->hasChildren()) {
                 // The current subdivision has no children, stop.
                 break;

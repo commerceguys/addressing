@@ -1,0 +1,23 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Hunan Sheng",
+		"Zhangjiajie Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Cili Xian": {
+			"local_code": "慈利县"
+		},
+		"Sangzhi Xian": {
+			"local_code": "桑植县"
+		},
+		"Wulingyuan Qu": {
+			"local_code": "武陵源区"
+		},
+		"Yongding Qu": {
+			"local_code": "永定区"
+		}
+	}
+}

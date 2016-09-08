@@ -1,154 +1,182 @@
 {
 	"country_code": "IN",
-	"parent_id": null,
-	"locale": "en",
 	"subdivisions": {
-		"IN-AN": {
-			"code": "Andaman and Nicobar Islands",
+		"Andaman and Nicobar Islands": {
 			"name": "Andaman & Nicobar",
+			"iso_code": "IN-AN",
 			"postal_code_pattern": "744"
 		},
-		"IN-AP": {
+		"Andhra Pradesh": {
 			"name": "Andhra Pradesh",
+			"iso_code": "IN-AP",
 			"postal_code_pattern": "5[0-3]"
 		},
-		"IN-AR": {
+		"Arunachal Pradesh": {
 			"name": "Arunachal Pradesh",
+			"iso_code": "IN-AR",
 			"postal_code_pattern": "79[0-2]"
 		},
-		"IN-AS": {
+		"Assam": {
 			"name": "Assam",
+			"iso_code": "IN-AS",
 			"postal_code_pattern": "78"
 		},
-		"IN-BR": {
+		"Bihar": {
 			"name": "Bihar",
+			"iso_code": "IN-BR",
 			"postal_code_pattern": "8[0-5]"
 		},
-		"IN-CH": {
+		"Chandigarh": {
 			"name": "Chandigarh",
+			"iso_code": "IN-CH",
 			"postal_code_pattern": "16|1440[3-9]"
 		},
-		"IN-CT": {
+		"Chhattisgarh": {
 			"name": "Chhattisgarh",
+			"iso_code": "IN-CT",
 			"postal_code_pattern": "49"
 		},
-		"IN-DN": {
-			"code": "Dadra and Nagar Haveli",
+		"Dadra and Nagar Haveli": {
 			"name": "Dadra & Nagar Haveli",
+			"iso_code": "IN-DN",
 			"postal_code_pattern": "396"
 		},
-		"IN-DD": {
-			"code": "Daman and Diu",
+		"Daman and Diu": {
 			"name": "Daman & Diu",
+			"iso_code": "IN-DD",
 			"postal_code_pattern": "396"
 		},
-		"IN-DL": {
+		"Delhi": {
 			"name": "Delhi",
+			"iso_code": "IN-DL",
 			"postal_code_pattern": "11"
 		},
-		"IN-GA": {
+		"Goa": {
 			"name": "Goa",
+			"iso_code": "IN-GA",
 			"postal_code_pattern": "403"
 		},
-		"IN-GJ": {
+		"Gujarat": {
 			"name": "Gujarat",
+			"iso_code": "IN-GJ",
 			"postal_code_pattern": "3[6-9]"
 		},
-		"IN-HR": {
+		"Haryana": {
 			"name": "Haryana",
+			"iso_code": "IN-HR",
 			"postal_code_pattern": "1[23]"
 		},
-		"IN-HP": {
+		"Himachal Pradesh": {
 			"name": "Himachal Pradesh",
+			"iso_code": "IN-HP",
 			"postal_code_pattern": "17"
 		},
-		"IN-JK": {
-			"code": "Jammu and Kashmir",
+		"Jammu and Kashmir": {
 			"name": "Jammu & Kashmir",
+			"iso_code": "IN-JK",
 			"postal_code_pattern": "1[89]"
 		},
-		"IN-JH": {
+		"Jharkhand": {
 			"name": "Jharkhand",
+			"iso_code": "IN-JH",
 			"postal_code_pattern": "81[4-9]|82|83[0-5]"
 		},
-		"IN-KA": {
+		"Karnataka": {
 			"name": "Karnataka",
+			"iso_code": "IN-KA",
 			"postal_code_pattern": "5[4-9]|53[7-9]"
 		},
-		"IN-KL": {
+		"Kerala": {
 			"name": "Kerala",
+			"iso_code": "IN-KL",
 			"postal_code_pattern": "6[7-9]|6010|607008|777"
 		},
-		"IN-LD": {
+		"Lakshadweep": {
 			"name": "Lakshadweep",
+			"iso_code": "IN-LD",
 			"postal_code_pattern": "673"
 		},
-		"IN-MP": {
+		"Madhya Pradesh": {
 			"name": "Madhya Pradesh",
+			"iso_code": "IN-MP",
 			"postal_code_pattern": "4[5-8]|490"
 		},
-		"IN-MH": {
+		"Maharashtra": {
 			"name": "Maharashtra",
+			"iso_code": "IN-MH",
 			"postal_code_pattern": "4[0-4]"
 		},
-		"IN-MN": {
+		"Manipur": {
 			"name": "Manipur",
+			"iso_code": "IN-MN",
 			"postal_code_pattern": "79[56]"
 		},
-		"IN-ML": {
+		"Meghalaya": {
 			"name": "Meghalaya",
+			"iso_code": "IN-ML",
 			"postal_code_pattern": "79[34]"
 		},
-		"IN-MZ": {
+		"Mizoram": {
 			"name": "Mizoram",
+			"iso_code": "IN-MZ",
 			"postal_code_pattern": "796"
 		},
-		"IN-NL": {
+		"Nagaland": {
 			"name": "Nagaland",
+			"iso_code": "IN-NL",
 			"postal_code_pattern": "79[78]"
 		},
-		"IN-OR": {
+		"Odisha": {
 			"name": "Odisha",
+			"iso_code": "IN-OR",
 			"postal_code_pattern": "7[5-7]"
 		},
-		"IN-PY": {
+		"Puducherry": {
 			"name": "Puducherry",
+			"iso_code": "IN-PY",
 			"postal_code_pattern": "605"
 		},
-		"IN-PB": {
+		"Punjab": {
 			"name": "Punjab",
+			"iso_code": "IN-PB",
 			"postal_code_pattern": "1[456]"
 		},
-		"IN-RJ": {
+		"Rajasthan": {
 			"name": "Rajasthan",
+			"iso_code": "IN-RJ",
 			"postal_code_pattern": "3[0-4]"
 		},
-		"IN-SK": {
+		"Sikkim": {
 			"name": "Sikkim",
+			"iso_code": "IN-SK",
 			"postal_code_pattern": "737|750"
 		},
-		"IN-TN": {
+		"Tamil Nadu": {
 			"name": "Tamil Nadu",
+			"iso_code": "IN-TN",
 			"postal_code_pattern": "6[0-6]|536"
 		},
-		"IN-TG": {
-			"name": "Telangana",
+		"Telangana": {
+			"iso_code": "IN-TG",
 			"postal_code_pattern": "5[0-3]"
 		},
-		"IN-TR": {
+		"Tripura": {
 			"name": "Tripura",
+			"iso_code": "IN-TR",
 			"postal_code_pattern": "799"
 		},
-		"IN-UP": {
+		"Uttar Pradesh": {
 			"name": "Uttar Pradesh",
+			"iso_code": "IN-UP",
 			"postal_code_pattern": "2[0-35-8]|24[0-7]|26[12]"
 		},
-		"IN-UT": {
-			"name": "Uttarakhand",
+		"Uttarakhand": {
+			"iso_code": "IN-UT",
 			"postal_code_pattern": "24[46-9]|254|26[23]"
 		},
-		"IN-WB": {
+		"West Bengal": {
 			"name": "West Bengal",
+			"iso_code": "IN-WB",
 			"postal_code_pattern": "7[0-4]"
 		}
 	}

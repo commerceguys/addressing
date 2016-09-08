@@ -1,0 +1,29 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Ningxia Huizuzizhiqu",
+		"Yinchuan Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Helan Xian": {
+			"local_code": "贺兰县"
+		},
+		"Jinfeng Qu": {
+			"local_code": "金凤区"
+		},
+		"Lingwu Shi": {
+			"local_code": "灵武市"
+		},
+		"Xixia Qu": {
+			"local_code": "西夏区"
+		},
+		"Xingqing Qu": {
+			"local_code": "兴庆区"
+		},
+		"Yongning Xian": {
+			"local_code": "永宁县"
+		}
+	}
+}

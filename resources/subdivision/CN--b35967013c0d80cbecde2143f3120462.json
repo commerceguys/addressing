@@ -1,0 +1,44 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Shandong Sheng",
+		"Dezhou Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Decheng Qu": {
+			"local_code": "德城区"
+		},
+		"Leling Shi": {
+			"local_code": "乐陵市"
+		},
+		"Linyi Xian": {
+			"local_code": "临邑县"
+		},
+		"Ling Xian": {
+			"local_code": "陵县"
+		},
+		"Ningjin Xian": {
+			"local_code": "宁津县"
+		},
+		"Pingyuan Xian": {
+			"local_code": "平原县"
+		},
+		"Qihe Xian": {
+			"local_code": "齐河县"
+		},
+		"Qingyun Xian": {
+			"local_code": "庆云县"
+		},
+		"Wucheng Xian": {
+			"local_code": "武城县"
+		},
+		"Xiajin Xian": {
+			"local_code": "夏津县"
+		},
+		"Yucheng Shi": {
+			"local_code": "禹城市"
+		}
+	}
+}

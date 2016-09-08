@@ -1,0 +1,38 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Jiangxi Sheng",
+		"Nanchang Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Anyi Xian": {
+			"local_code": "安义县"
+		},
+		"Donghu Qu": {
+			"local_code": "东湖区"
+		},
+		"Jinxian Xian": {
+			"local_code": "进贤县"
+		},
+		"Nanchang Xian": {
+			"local_code": "南昌县"
+		},
+		"Qingshanhu Qu": {
+			"local_code": "青山湖区"
+		},
+		"Qingyunpu Qu": {
+			"local_code": "青云谱区"
+		},
+		"Wanli Qu": {
+			"local_code": "湾里区"
+		},
+		"Xihu Qu": {
+			"local_code": "西湖区"
+		},
+		"Xinjian Xian": {
+			"local_code": "新建县"
+		}
+	}
+}

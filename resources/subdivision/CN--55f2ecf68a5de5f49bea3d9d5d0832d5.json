@@ -1,0 +1,26 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Zhejiang Sheng",
+		"Huzhou Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Anji Xian": {
+			"local_code": "安吉县"
+		},
+		"Deqing Xian": {
+			"local_code": "德清县"
+		},
+		"Nanxun Qu": {
+			"local_code": "南浔区"
+		},
+		"Wuxing Qu": {
+			"local_code": "吴兴区"
+		},
+		"Changxing Xian": {
+			"local_code": "长兴县"
+		}
+	}
+}

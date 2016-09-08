@@ -1,0 +1,35 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Heilongjiang Sheng",
+		"Hegang Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Dongshan Qu": {
+			"local_code": "东山区"
+		},
+		"Gongnong Qu": {
+			"local_code": "工农区"
+		},
+		"Luobei Xian": {
+			"local_code": "萝北县"
+		},
+		"Nanshan Qu": {
+			"local_code": "南山区"
+		},
+		"Suibin Xian": {
+			"local_code": "绥滨县"
+		},
+		"Xiangyang Qu": {
+			"local_code": "向阳区"
+		},
+		"Xing'an Qu": {
+			"local_code": "兴安区"
+		},
+		"Xingshan Qu": {
+			"local_code": "兴山区"
+		}
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"country_code": "KR",
+	"parents": [
+		"KR",
+		"Gyeonggi-do",
+		"Ansan-si"
+	],
+	"locale": "ko",
+	"subdivisions": {
+		"Danwon-gu": {
+			"local_code": "단원구",
+			"postal_code_pattern": "15[2-6]|425"
+		},
+		"Sangnok-gu": {
+			"local_code": "상록구",
+			"postal_code_pattern": "15[2-6]|426"
+		}
+	}
+}

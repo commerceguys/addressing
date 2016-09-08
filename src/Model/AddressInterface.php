@@ -36,7 +36,7 @@ interface AddressInterface
      * Called the "state" in the United States, "province" in France and Italy,
      * "county" in Great Britain, "prefecture" in Japan, etc.
      *
-     * @return string The administrative area, or the subdivision id if there
+     * @return string The administrative area. A subdivision code if there
      *                are predefined subdivision at this level.
      */
     public function getAdministrativeArea();
@@ -47,8 +47,8 @@ interface AddressInterface
      * Some countries do not use this field; their address lines are sufficient
      * to locate an address within a sub-administrative area.
      *
-     * @return string The locality, or the subdivision id if if there are
-     *                predefined subdivisions at this level
+     * @return string The administrative area. A subdivision code if there
+     *                are predefined subdivision at this level.
      */
     public function getLocality();
 
@@ -59,8 +59,8 @@ interface AddressInterface
      * both the double-dependent locality and the dependent locality,
      * e.g. "Whaley, Langwith".
      *
-     * @return string The dependent locality, or the subdivision id if if there
-     *                are predefined subdivisions at this level
+     * @return string The administrative area. A subdivision code if there
+     *                are predefined subdivision at this level.
      */
     public function getDependentLocality();
 

@@ -1,0 +1,23 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Shandong Sheng",
+		"Rizhao Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Donggang Qu": {
+			"local_code": "东港区"
+		},
+		"Ju Xian": {
+			"local_code": "莒县"
+		},
+		"Lanshan Qu": {
+			"local_code": "岚山区"
+		},
+		"Wulian Xian": {
+			"local_code": "五莲县"
+		}
+	}
+}

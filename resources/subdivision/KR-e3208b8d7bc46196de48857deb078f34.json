@@ -1,0 +1,71 @@
+{
+	"country_code": "KR",
+	"parents": [
+		"KR",
+		"Chungcheongnam-do"
+	],
+	"locale": "ko",
+	"subdivisions": {
+		"Gyeryong-si": {
+			"local_code": "계룡시",
+			"postal_code_pattern": "328|321"
+		},
+		"Gongju-si": {
+			"local_code": "공주시",
+			"postal_code_pattern": "32[56]|314"
+		},
+		"Geumsan-gun": {
+			"local_code": "금산군",
+			"postal_code_pattern": "327|312"
+		},
+		"Nonsan-si": {
+			"local_code": "논산시",
+			"postal_code_pattern": "3(?:29|30)|320"
+		},
+		"Dangjin-si": {
+			"local_code": "당진시",
+			"postal_code_pattern": "31[78]|343"
+		},
+		"Boryeong-si": {
+			"local_code": "보령시",
+			"postal_code_pattern": "33[45]|355"
+		},
+		"Buyeo-gun": {
+			"local_code": "부여군",
+			"postal_code_pattern": "33[12]|323"
+		},
+		"Seosan-si": {
+			"local_code": "서산시",
+			"postal_code_pattern": "3(?:19|20)|356"
+		},
+		"Seocheon-gun": {
+			"local_code": "서천군",
+			"postal_code_pattern": "336|325"
+		},
+		"Asan-si": {
+			"local_code": "아산시",
+			"postal_code_pattern": "31[45]|336"
+		},
+		"Yesan-gun": {
+			"local_code": "예산군",
+			"postal_code_pattern": "324|340"
+		},
+		"Cheonan-si": {
+			"local_code": "천안시",
+			"postal_code_pattern": "31[0-2]|33[01]",
+			"has_children": true
+		},
+		"Cheongyang-gun": {
+			"local_code": "청양군",
+			"postal_code_pattern": "333|345"
+		},
+		"Taean-gun": {
+			"local_code": "태안군",
+			"postal_code_pattern": "321|357"
+		},
+		"Hongseong-gun": {
+			"local_code": "홍성군",
+			"postal_code_pattern": "322|350"
+		}
+	}
+}

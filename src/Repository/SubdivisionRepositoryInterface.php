@@ -10,36 +10,33 @@ use CommerceGuys\Addressing\Model\Subdivision;
 interface SubdivisionRepositoryInterface
 {
     /**
-     * Returns a subdivision instance matching the provided id.
+     * Returns a subdivision instance matching the provided code and parents.
      *
-     * @param string $id     The subdivision id.
-     * @param string $locale The locale (e.g. fr-FR).
+     * @param string $code   The subdivision code.
+     * @param array  $parents The parents (country code, subdivision codes).
      *
      * @return Subdivision|null The subdivision instance, if found.
      */
-    public function get($id, $locale = null);
+    public function get($code, array $parents);
 
     /**
-     * Returns all subdivision instances for the provided country code.
+     * Returns all subdivision instances for the provided parents.
      *
-     * @param string $countryCode The country code.
-     * @param int    $parentId    The parent id.
-     * @param string $locale      The locale (e.g. fr-FR).
+     * @param array $parents The parents (country code, subdivision codes).
      *
      * @return Subdivision[] An array of subdivision instances.
      */
-    public function getAll($countryCode, $parentId = null, $locale = null);
+    public function getAll(array $parents);
 
     /**
-     * Returns a list of subdivisions.
+     * Returns a list of subdivisions for the provided parents.
      *
-     * @param string $countryCode The country code.
-     * @param int    $parentId    The parent id.
-     * @param string $locale      The locale (e.g. fr-FR).
+     * @param array  $parents The parents (country code, subdivision codes).
+     * @param string $locale The locale (e.g. fr-FR).
      *
-     * @return array An array of subdivision names, keyed by id.
+     * @return array An array of subdivision names, keyed by code.
      */
-    public function getList($countryCode, $parentId = null, $locale = null);
+    public function getList(array $parents, $locale = null);
 
     /**
      * Returns the subdivision depth for the provided country code.
@@ -50,8 +47,10 @@ interface SubdivisionRepositoryInterface
      * the subdivision depth is 1, that means that the field element should be
      * rendered as a textbox, since there's no known data to put in a dropdown.
      *
-     * It is also possible to have no subdivisions for a specific parent, even
+     * It is also possible to have no subdivisions for specific parents, even
      * though the country generally has predefined subdivisions at that depth.
+     *
+     * @param string $countryCode The country code.
      *
      * @return int The subdivision depth. Possible values:
      *             0: no subdivisions have been predefined.

@@ -1,0 +1,29 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Guangdong Sheng",
+		"Shenzhen Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Bao'an Qu": {
+			"local_code": "宝安区"
+		},
+		"Futian Qu": {
+			"local_code": "福田区"
+		},
+		"Longgang Qu": {
+			"local_code": "龙岗区"
+		},
+		"Luohu Qu": {
+			"local_code": "罗湖区"
+		},
+		"Nanshan Qu": {
+			"local_code": "南山区"
+		},
+		"Yantian Qu": {
+			"local_code": "盐田区"
+		}
+	}
+}

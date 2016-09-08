@@ -1,0 +1,32 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Gansu Sheng",
+		"Pingliang Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Chongxin Xian": {
+			"local_code": "崇信县"
+		},
+		"Huating Xian": {
+			"local_code": "华亭县"
+		},
+		"Jingchuan Xian": {
+			"local_code": "泾川县"
+		},
+		"Jingning Xian": {
+			"local_code": "静宁县"
+		},
+		"Kongtong Qu": {
+			"local_code": "崆峒区"
+		},
+		"Lingtai Xian": {
+			"local_code": "灵台县"
+		},
+		"Zhuangliang Xian": {
+			"local_code": "庄浪县"
+		}
+	}
+}

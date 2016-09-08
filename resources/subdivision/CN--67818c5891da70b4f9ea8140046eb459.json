@@ -1,0 +1,50 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Henan Sheng",
+		"Nanyang Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Dengzhou Shi": {
+			"local_code": "邓州市"
+		},
+		"Fangcheng Xian": {
+			"local_code": "方城县"
+		},
+		"Nanzhao Xian": {
+			"local_code": "南召县"
+		},
+		"Neixiang Xian": {
+			"local_code": "内乡县"
+		},
+		"Sheqi Xian": {
+			"local_code": "社旗县"
+		},
+		"Tanghe Xian": {
+			"local_code": "唐河县"
+		},
+		"Tongbai Xian": {
+			"local_code": "桐柏县"
+		},
+		"Wancheng Qu": {
+			"local_code": "宛城区"
+		},
+		"Wolong Qu": {
+			"local_code": "卧龙区"
+		},
+		"Xichuan Xian": {
+			"local_code": "淅川县"
+		},
+		"Xixia Xian": {
+			"local_code": "西峡县"
+		},
+		"Xinye Xian": {
+			"local_code": "新野县"
+		},
+		"Zhenping Xian": {
+			"local_code": "镇平县"
+		}
+	}
+}

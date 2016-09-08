@@ -1,69 +1,74 @@
 {
 	"country_code": "SV",
-	"parent_id": null,
-	"locale": "es",
 	"subdivisions": {
-		"SV-AH": {
-			"code": "Ahuachapan",
+		"Ahuachapan": {
 			"name": "Ahuachapán",
+			"iso_code": "SV-AH",
 			"postal_code_pattern": "CP 21"
 		},
-		"SV-CA": {
-			"code": "Cabanas",
+		"Cabanas": {
 			"name": "Cabañas",
+			"iso_code": "SV-CA",
 			"postal_code_pattern": "CP 12"
 		},
-		"SV-CH": {
-			"code": "Calatenango",
+		"Calatenango": {
 			"name": "Chalatenango",
+			"iso_code": "SV-CH",
 			"postal_code_pattern": "CP 13"
 		},
-		"SV-CU": {
-			"code": "Cuscatlan",
+		"Cuscatlan": {
 			"name": "Cuscatlán",
+			"iso_code": "SV-CU",
 			"postal_code_pattern": "CP 14"
 		},
-		"SV-LI": {
+		"La Libertad": {
 			"name": "La Libertad",
+			"iso_code": "SV-LI",
 			"postal_code_pattern": "CP 15"
 		},
-		"SV-PA": {
+		"La Paz": {
 			"name": "La Paz",
+			"iso_code": "SV-PA",
 			"postal_code_pattern": "CP 16"
 		},
-		"SV-UN": {
-			"code": "La Union",
+		"La Union": {
 			"name": "La Unión",
+			"iso_code": "SV-UN",
 			"postal_code_pattern": "CP 31"
 		},
-		"SV-MO": {
-			"code": "Morazan",
+		"Morazan": {
 			"name": "Morazán",
+			"iso_code": "SV-MO",
 			"postal_code_pattern": "CP 32"
 		},
-		"SV-SM": {
+		"San Miguel": {
 			"name": "San Miguel",
+			"iso_code": "SV-SM",
 			"postal_code_pattern": "CP 33"
 		},
-		"SV-SS": {
+		"San Salvador": {
 			"name": "San Salvador",
+			"iso_code": "SV-SS",
 			"postal_code_pattern": "CP 11"
 		},
-		"SV-SV": {
+		"San Vicente": {
 			"name": "San Vicente",
+			"iso_code": "SV-SV",
 			"postal_code_pattern": "CP 17"
 		},
-		"SV-SA": {
+		"Santa Ana": {
 			"name": "Santa Ana",
+			"iso_code": "SV-SA",
 			"postal_code_pattern": "CP 22"
 		},
-		"SV-SO": {
+		"Sonsonate": {
 			"name": "Sonsonate",
+			"iso_code": "SV-SO",
 			"postal_code_pattern": "CP 23"
 		},
-		"SV-US": {
-			"code": "Usulutan",
+		"Usulutan": {
 			"name": "Usulután",
+			"iso_code": "SV-US",
 			"postal_code_pattern": "CP 34"
 		}
 	}

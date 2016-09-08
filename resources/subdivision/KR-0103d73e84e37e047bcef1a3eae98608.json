@@ -1,0 +1,74 @@
+{
+	"country_code": "KR",
+	"parents": [
+		"KR",
+		"Busan"
+	],
+	"locale": "ko",
+	"subdivisions": {
+		"Gangseo-gu": {
+			"local_code": "강서구",
+			"postal_code_pattern": "467|618"
+		},
+		"Geumjeong-gu": {
+			"local_code": "금정구",
+			"postal_code_pattern": "46[23]|609"
+		},
+		"Gijang-gun": {
+			"local_code": "기장군",
+			"postal_code_pattern": "460|619"
+		},
+		"Nam-gu": {
+			"local_code": "남구",
+			"postal_code_pattern": "48[45]|608"
+		},
+		"Dong-gu": {
+			"local_code": "동구",
+			"postal_code_pattern": "48[78]|601"
+		},
+		"Dongnae-gu": {
+			"local_code": "동래구",
+			"postal_code_pattern": "47[789]|607"
+		},
+		"Busanjin-gu": {
+			"local_code": "부산진구",
+			"postal_code_pattern": "47[123]|614"
+		},
+		"Buk-gu": {
+			"local_code": "북구",
+			"postal_code_pattern": "46[56]|616"
+		},
+		"Sasang-gu": {
+			"local_code": "사상구",
+			"postal_code_pattern": "4(?:69|70)|617"
+		},
+		"Saha-gu": {
+			"local_code": "사하구",
+			"postal_code_pattern": "49[345]|604"
+		},
+		"Seo-gu": {
+			"local_code": "서구",
+			"postal_code_pattern": "492|602"
+		},
+		"Suyeong-gu": {
+			"local_code": "수영구",
+			"postal_code_pattern": "48[23]|613"
+		},
+		"Yeonje-gu": {
+			"local_code": "연제구",
+			"postal_code_pattern": "47[56]|611"
+		},
+		"Yeongdo-gu": {
+			"local_code": "영도구",
+			"postal_code_pattern": "49[01]|606"
+		},
+		"Jung-gu": {
+			"local_code": "중구",
+			"postal_code_pattern": "489|600"
+		},
+		"Haeundae-gu": {
+			"local_code": "해운대구",
+			"postal_code_pattern": "48[01]|612"
+		}
+	}
+}

@@ -1,118 +1,116 @@
 {
 	"country_code": "NG",
-	"parent_id": null,
-	"locale": "en",
 	"subdivisions": {
-		"NG-AB": {
-			"name": "Abia"
+		"Abia": {
+			"iso_code": "NG-AB"
 		},
-		"NG-AD": {
-			"name": "Adamawa"
+		"Adamawa": {
+			"iso_code": "NG-AD"
 		},
-		"NG-AK": {
-			"name": "Akwa Ibom"
+		"Akwa Ibom": {
+			"iso_code": "NG-AK"
 		},
-		"NG-AN": {
-			"name": "Anambra"
+		"Anambra": {
+			"iso_code": "NG-AN"
 		},
-		"NG-BA": {
-			"name": "Bauchi"
+		"Bauchi": {
+			"iso_code": "NG-BA"
 		},
-		"NG-BY": {
-			"name": "Bayelsa"
+		"Bayelsa": {
+			"iso_code": "NG-BY"
 		},
-		"NG-BE": {
-			"name": "Benue"
+		"Benue": {
+			"iso_code": "NG-BE"
 		},
-		"NG-BO": {
-			"name": "Borno"
+		"Borno": {
+			"iso_code": "NG-BO"
 		},
-		"NG-CR": {
-			"name": "Cross River"
+		"Cross River": {
+			"iso_code": "NG-CR"
 		},
-		"NG-DE": {
-			"name": "Delta"
+		"Delta": {
+			"iso_code": "NG-DE"
 		},
-		"NG-EB": {
-			"name": "Ebonyi"
+		"Ebonyi": {
+			"iso_code": "NG-EB"
 		},
-		"NG-ED": {
-			"name": "Edo"
+		"Edo": {
+			"iso_code": "NG-ED"
 		},
-		"NG-EK": {
-			"name": "Ekiti"
+		"Ekiti": {
+			"iso_code": "NG-EK"
 		},
-		"NG-EN": {
-			"name": "Enugu"
+		"Enugu": {
+			"iso_code": "NG-EN"
 		},
-		"NG-FC": {
-			"name": "Federal Capital Territory"
+		"Federal Capital Territory": {
+			"iso_code": "NG-FC"
 		},
-		"NG-GO": {
-			"name": "Gombe"
+		"Gombe": {
+			"iso_code": "NG-GO"
 		},
-		"NG-IM": {
-			"name": "Imo"
+		"Imo": {
+			"iso_code": "NG-IM"
 		},
-		"NG-JI": {
-			"name": "Jigawa"
+		"Jigawa": {
+			"iso_code": "NG-JI"
 		},
-		"NG-KD": {
-			"name": "Kaduna"
+		"Kaduna": {
+			"iso_code": "NG-KD"
 		},
-		"NG-KN": {
-			"name": "Kano"
+		"Kano": {
+			"iso_code": "NG-KN"
 		},
-		"NG-KT": {
-			"name": "Katsina"
+		"Katsina": {
+			"iso_code": "NG-KT"
 		},
-		"NG-KE": {
-			"name": "Kebbi"
+		"Kebbi": {
+			"iso_code": "NG-KE"
 		},
-		"NG-KO": {
-			"name": "Kogi"
+		"Kogi": {
+			"iso_code": "NG-KO"
 		},
-		"NG-KW": {
-			"name": "Kwara"
+		"Kwara": {
+			"iso_code": "NG-KW"
 		},
-		"NG-LA": {
-			"name": "Lagos"
+		"Lagos": {
+			"iso_code": "NG-LA"
 		},
-		"NG-NA": {
-			"name": "Nasarawa"
+		"Nasarawa": {
+			"iso_code": "NG-NA"
 		},
-		"NG-NI": {
-			"name": "Niger"
+		"Niger": {
+			"iso_code": "NG-NI"
 		},
-		"NG-OG": {
-			"name": "Ogun State"
+		"Ogun State": {
+			"iso_code": "NG-OG"
 		},
-		"NG-ON": {
-			"name": "Ondo"
+		"Ondo": {
+			"iso_code": "NG-ON"
 		},
-		"NG-OS": {
-			"name": "Osun"
+		"Osun": {
+			"iso_code": "NG-OS"
 		},
-		"NG-OY": {
-			"name": "Oyo"
+		"Oyo": {
+			"iso_code": "NG-OY"
 		},
-		"NG-PL": {
-			"name": "Plateau"
+		"Plateau": {
+			"iso_code": "NG-PL"
 		},
-		"NG-RI": {
-			"name": "Rivers"
+		"Rivers": {
+			"iso_code": "NG-RI"
 		},
-		"NG-SO": {
-			"name": "Sokoto"
+		"Sokoto": {
+			"iso_code": "NG-SO"
 		},
-		"NG-TA": {
-			"name": "Taraba"
+		"Taraba": {
+			"iso_code": "NG-TA"
 		},
-		"NG-YO": {
-			"name": "Yobe"
+		"Yobe": {
+			"iso_code": "NG-YO"
 		},
-		"NG-ZA": {
-			"name": "Zamfara"
+		"Zamfara": {
+			"iso_code": "NG-ZA"
 		}
 	}
 }

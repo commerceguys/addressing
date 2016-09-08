@@ -1,0 +1,205 @@
+{
+	"country_code": "HK",
+	"parents": [
+		"HK",
+		"New Territories"
+	],
+	"locale": "zh-Hant",
+	"subdivisions": {
+		"Kau To Shan": {
+			"local_code": "九肚山"
+		},
+		"Sheung Shui": {
+			"local_code": "上水"
+		},
+		"Tai Po": {
+			"local_code": "大埔"
+		},
+		"Ting Kok Tai Po": {
+			"local_code": "大埔汀角"
+		},
+		"Lam Tsuen Tai Po": {
+			"local_code": "大埔林村"
+		},
+		"Shuen Wan Tai Po": {
+			"local_code": "大埔船灣"
+		},
+		"Tai Po Kau": {
+			"local_code": "大埔滘"
+		},
+		"Lantau Island": {
+			"local_code": "大嶼山"
+		},
+		"Tai O Lantau Island": {
+			"local_code": "大嶼山大澳"
+		},
+		"Shek Pik Lantau Island": {
+			"local_code": "大嶼山石壁"
+		},
+		"Chek Lap Kok Lantau Island": {
+			"local_code": "大嶼山赤鱲角"
+		},
+		"Ngong Ping Lantau Island": {
+			"local_code": "大嶼山昂坪"
+		},
+		"Tung Chung Lantau Island": {
+			"local_code": "大嶼山東涌"
+		},
+		"Chi Ma Wan Lantau Island": {
+			"local_code": "大嶼山芝麻灣"
+		},
+		"Cheung Sha Lantau Island": {
+			"local_code": "大嶼山長沙"
+		},
+		"Mui Wo Lantau Island": {
+			"local_code": "大嶼山梅窩"
+		},
+		"Discovery Bay Lantau Island": {
+			"local_code": "大嶼山愉景灣"
+		},
+		"Tong Fuk Lantau Island": {
+			"local_code": "大嶼山塘福"
+		},
+		"Tai Lam": {
+			"local_code": "大欖"
+		},
+		"Yuen Long": {
+			"local_code": "元朗"
+		},
+		"Pat Heung Yuen Long": {
+			"local_code": "元朗八鄉"
+		},
+		"Tai Tong Yuen Long": {
+			"local_code": "元朗大棠"
+		},
+		"Shek Kong Yuen Long": {
+			"local_code": "元朗石崗"
+		},
+		"Ping Shan Yuen Long": {
+			"local_code": "元朗屏山"
+		},
+		"Ha Tsuen Yuen Long": {
+			"local_code": "元朗廈村"
+		},
+		"San Tin Yuen Long": {
+			"local_code": "元朗新田"
+		},
+		"Tam Mei Yuen Long": {
+			"local_code": "元朗潭尾"
+		},
+		"Kam Tin Yuen Long": {
+			"local_code": "元朗錦田"
+		},
+		"Tin Shui Wai": {
+			"local_code": "天水圍"
+		},
+		"Tai Wo": {
+			"local_code": "太和"
+		},
+		"Tuen Mun": {
+			"local_code": "屯門"
+		},
+		"Siu Lam Tuen Mun": {
+			"local_code": "屯門小欖"
+		},
+		"Fu Tei Tuen Mun": {
+			"local_code": "屯門虎地"
+		},
+		"San Hui Tuen Mun": {
+			"local_code": "屯門新墟"
+		},
+		"Lam Tei Tuen Mun": {
+			"local_code": "屯門藍地"
+		},
+		"Kwu Tung": {
+			"local_code": "古洞"
+		},
+		"Ta Kwu Ling": {
+			"local_code": "打鼓嶺"
+		},
+		"Ting Kau": {
+			"local_code": "汀九"
+		},
+		"Sai Kung": {
+			"local_code": "西貢"
+		},
+		"Hang Hau Sai Kung": {
+			"local_code": "西貢坑口"
+		},
+		"Sha Tin": {
+			"local_code": "沙田"
+		},
+		"Tai Wai Sha Tin": {
+			"local_code": "沙田大圍"
+		},
+		"Siu Lek Yuen Sha Tin": {
+			"local_code": "沙田小瀝源"
+		},
+		"Fo Tan Sha Tin": {
+			"local_code": "沙田火炭"
+		},
+		"Sha Tau Kok": {
+			"local_code": "沙頭角"
+		},
+		"Peng Chau": {
+			"local_code": "坪洲"
+		},
+		"Ping Che": {
+			"local_code": "坪輋"
+		},
+		"Cheung Chau": {
+			"local_code": "長洲"
+		},
+		"Tsing Yi": {
+			"local_code": "青衣"
+		},
+		"Lamma Island": {
+			"local_code": "南丫島"
+		},
+		"Hung Shui Kiu": {
+			"local_code": "洪水橋"
+		},
+		"Lau Fau Shan": {
+			"local_code": "流浮山"
+		},
+		"Fanling": {
+			"local_code": "粉嶺"
+		},
+		"Kwan Tei Fanling": {
+			"local_code": "粉嶺軍地"
+		},
+		"Tsuen Wan": {
+			"local_code": "荃灣"
+		},
+		"Lo Wai Tsuen Wan": {
+			"local_code": "荃灣老圍"
+		},
+		"Ma Liu Shui": {
+			"local_code": "馬料水"
+		},
+		"Ma On Shan": {
+			"local_code": "馬鞍山"
+		},
+		"Ma Wan": {
+			"local_code": "馬灣"
+		},
+		"Tseung Kwan O": {
+			"local_code": "將軍澳"
+		},
+		"So Kwun Wat": {
+			"local_code": "掃管笏"
+		},
+		"Sham Tseng": {
+			"local_code": "深井"
+		},
+		"Clear Water Bay": {
+			"local_code": "清水灣"
+		},
+		"Hei Ling Chau": {
+			"local_code": "喜靈洲"
+		},
+		"Kwai Chung": {
+			"local_code": "葵涌"
+		}
+	}
+}

@@ -1,0 +1,41 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Henan Sheng",
+		"Kaifeng Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Gulou Qu": {
+			"local_code": "鼓楼区"
+		},
+		"Jinming Qu": {
+			"local_code": "金明区"
+		},
+		"Kaifeng Xian": {
+			"local_code": "开封县"
+		},
+		"Lankao Xian": {
+			"local_code": "兰考县"
+		},
+		"Longting Qu": {
+			"local_code": "龙亭区"
+		},
+		"Qi Xian": {
+			"local_code": "杞县"
+		},
+		"Shunhe Huizu Qu": {
+			"local_code": "顺河回族区"
+		},
+		"Tongxu Xian": {
+			"local_code": "通许县"
+		},
+		"Weishi Xian": {
+			"local_code": "尉氏县"
+		},
+		"Yuwangtai Qu": {
+			"local_code": "禹王台区"
+		}
+	}
+}

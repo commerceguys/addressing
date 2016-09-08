@@ -1,0 +1,26 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Jilin Sheng",
+		"Baicheng Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Da'an Shi": {
+			"local_code": "大安市"
+		},
+		"Taobei Qu": {
+			"local_code": "洮北区"
+		},
+		"Taonan Shi": {
+			"local_code": "洮南市"
+		},
+		"Tongyu Xian": {
+			"local_code": "通榆县"
+		},
+		"Zhenlai Xian": {
+			"local_code": "镇赉县"
+		}
+	}
+}

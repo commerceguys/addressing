@@ -1,0 +1,29 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Henan Sheng",
+		"Xuchang Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Weidu Qu": {
+			"local_code": "魏都区"
+		},
+		"Xiangcheng Xian": {
+			"local_code": "襄城县"
+		},
+		"Xuchang Xian": {
+			"local_code": "许昌县"
+		},
+		"Yanling Xian": {
+			"local_code": "鄢陵县"
+		},
+		"Yuzhou Shi": {
+			"local_code": "禹州市"
+		},
+		"Changge Shi": {
+			"local_code": "长葛市"
+		}
+	}
+}

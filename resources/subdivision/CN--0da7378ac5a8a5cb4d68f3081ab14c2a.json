@@ -1,0 +1,44 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Shanxi Sheng",
+		"Datong Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Cheng Qu": {
+			"local_code": "城区"
+		},
+		"Datong Xian": {
+			"local_code": "大同县"
+		},
+		"Guangling Xian": {
+			"local_code": "广灵县"
+		},
+		"Hunyuan Xian": {
+			"local_code": "浑源县"
+		},
+		"Kuang Qu": {
+			"local_code": "矿区"
+		},
+		"Lingqiu Xian": {
+			"local_code": "灵丘县"
+		},
+		"Nanjiao Qu": {
+			"local_code": "南郊区"
+		},
+		"Tianzhen Xian": {
+			"local_code": "天镇县"
+		},
+		"Xinrong Qu": {
+			"local_code": "新荣区"
+		},
+		"Yanggao Xian": {
+			"local_code": "阳高县"
+		},
+		"Zuoyun Xian": {
+			"local_code": "左云县"
+		}
+	}
+}

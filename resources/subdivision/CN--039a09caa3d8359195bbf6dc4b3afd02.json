@@ -1,0 +1,44 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Neimenggu Zizhiqu",
+		"Ulanqab Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Qahar Youyi Houqi": {
+			"local_code": "察哈尔右翼后旗"
+		},
+		"Qahar Youyi Qianqi": {
+			"local_code": "察哈尔右翼前旗"
+		},
+		"Qahar Youyi Zhongqi": {
+			"local_code": "察哈尔右翼中旗"
+		},
+		"Fengzhen Shi": {
+			"local_code": "丰镇市"
+		},
+		"Huade Xian": {
+			"local_code": "化德县"
+		},
+		"Jining Qu": {
+			"local_code": "集宁区"
+		},
+		"Liangcheng Xian": {
+			"local_code": "凉城县"
+		},
+		"Shangdu Xian": {
+			"local_code": "商都县"
+		},
+		"Dorbod Qi": {
+			"local_code": "四子王旗"
+		},
+		"Xinghe Xian": {
+			"local_code": "兴和县"
+		},
+		"Zhuozi Xian": {
+			"local_code": "卓资县"
+		}
+	}
+}

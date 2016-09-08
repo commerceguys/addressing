@@ -1,0 +1,35 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Jiangsu Sheng",
+		"Wuxi Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Beitang Qu": {
+			"local_code": "北塘区"
+		},
+		"Binhu Qu": {
+			"local_code": "滨湖区"
+		},
+		"Chong'an Qu": {
+			"local_code": "崇安区"
+		},
+		"Huishan Qu": {
+			"local_code": "惠山区"
+		},
+		"Jiangyin Shi": {
+			"local_code": "江阴市"
+		},
+		"Nanchang Qu": {
+			"local_code": "南长区"
+		},
+		"Xishan Qu": {
+			"local_code": "锡山区"
+		},
+		"Yixing Shi": {
+			"local_code": "宜兴市"
+		}
+	}
+}

@@ -1,0 +1,58 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Neimenggu Zizhiqu"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Alxa Meng": {
+			"local_code": "阿拉善盟",
+			"has_children": true
+		},
+		"Bayannur Shi": {
+			"local_code": "巴彦淖尔市",
+			"has_children": true
+		},
+		"Baotou Shi": {
+			"local_code": "包头市",
+			"has_children": true
+		},
+		"Chifeng Shi": {
+			"local_code": "赤峰市",
+			"has_children": true
+		},
+		"Ordos Shi": {
+			"local_code": "鄂尔多斯市",
+			"has_children": true
+		},
+		"Hohhot Shi": {
+			"local_code": "呼和浩特市",
+			"has_children": true
+		},
+		"Hulun Buir Shi": {
+			"local_code": "呼伦贝尔市",
+			"has_children": true
+		},
+		"Tongliao Shi": {
+			"local_code": "通辽市",
+			"has_children": true
+		},
+		"Wuhai Shi": {
+			"local_code": "乌海市",
+			"has_children": true
+		},
+		"Ulanqab Shi": {
+			"local_code": "乌兰察布市",
+			"has_children": true
+		},
+		"Xilin Gol Meng": {
+			"local_code": "锡林郭勒盟",
+			"has_children": true
+		},
+		"Hinggan Meng": {
+			"local_code": "兴安盟",
+			"has_children": true
+		}
+	}
+}

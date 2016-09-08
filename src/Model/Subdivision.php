@@ -4,23 +4,19 @@ namespace CommerceGuys\Addressing\Model;
 
 use CommerceGuys\Addressing\Enum\PatternType;
 use Doctrine\Common\Collections\ArrayCollection;
-use Doctrine\Common\Collections\Collection;
 
 /**
- * Default subdivision implementation.
+ * Represents a country subdivision.
  *
- * Can be mapped and used by Doctrine.
- * However, due to the high number of subdivisions (>12k) and their high update
- * rate, most implementing applications will want to continue loading them
- * from disk (with a possible caching layer in front), instead of importing
- * them into a database.
+ * Subdivisions are hierarchical and can have up to three levels:
+ * Administrative Area -> Locality -> Dependent Locality.
  */
-class Subdivision implements SubdivisionEntityInterface
+class Subdivision
 {
     /**
      * The parent.
      *
-     * @var SubdivisionEntityInterface
+     * @var Subdivision
      */
     protected $parent;
 
@@ -32,13 +28,6 @@ class Subdivision implements SubdivisionEntityInterface
     protected $countryCode;
 
     /**
-     * The subdivision id.
-     *
-     * @var string
-     */
-    protected $id;
-
-    /**
      * The subdivision code.
      *
      * @var string
@@ -46,11 +35,32 @@ class Subdivision implements SubdivisionEntityInterface
     protected $code;
 
     /**
+     * The local subdivision code.
+     *
+     * @var string
+     */
+    protected $localCode;
+
+    /**
      * The subdivision name.
      *
      * @var string
      */
     protected $name;
+
+    /**
+     * The local subdivision name.
+     *
+     * @var string
+     */
+    protected $localName;
+
+    /**
+     * The subdivision iso code.
+     *
+     * @var string
+     */
+    protected $isoCode;
 
     /**
      * The postal code pattern.
@@ -81,15 +91,50 @@ class Subdivision implements SubdivisionEntityInterface
     protected $locale;
 
     /**
-     * Creates a Subdivision instance.
+     * Creates a new Subdivision instance.
+     *
+     * @param array $definition The definition array.
      */
-    public function __construct()
+    public function __construct(array $definition)
     {
-        $this->children = new ArrayCollection();
+        // Validate the presence of required properties.
+        $requiredProperties = [
+            'country_code', 'code', 'name',
+        ];
+        foreach ($requiredProperties as $requiredProperty) {
+            if (empty($definition[$requiredProperty])) {
+                throw new \InvalidArgumentException(sprintf('Missing required property %s.', $requiredProperty));
+            }
+        }
+        // Add defaults for properties that are allowed to be empty.
+        $definition += [
+            'parent' => null,
+            'locale' => null,
+            'local_code' => null,
+            'local_name' => null,
+            'iso_code' => [],
+            'postal_code_pattern' => null,
+            'postal_code_pattern_type' => PatternType::getDefault(),
+            'children' => new ArrayCollection(),
+        ];
+
+        $this->parent = $definition['parent'];
+        $this->countryCode = $definition['country_code'];
+        $this->locale = $definition['locale'];
+        $this->code = $definition['code'];
+        $this->localCode = $definition['local_code'];
+        $this->name = $definition['name'];
+        $this->localName = $definition['local_name'];
+        $this->isoCode = $definition['iso_code'];
+        $this->postalCodePattern = $definition['postal_code_pattern'];
+        $this->postalCodePatternType = $definition['postal_code_pattern_type'];
+        $this->children = $definition['children'];
     }
 
     /**
-     * {@inheritdoc}
+     * Gets the subdivision parent.
+     *
+     * @return Subdivision|null The parent, or NULL if there is none.
      */
     public function getParent()
     {
@@ -97,17 +142,12 @@ class Subdivision implements SubdivisionEntityInterface
     }
 
     /**
-     * {@inheritdoc}
-     */
-    public function setParent(SubdivisionEntityInterface $parent = null)
-    {
-        $this->parent = $parent;
-
-        return $this;
-    }
-
-    /**
-     * {@inheritdoc}
+     * Gets the subdivision country code.
+     *
+     * This is a CLDR country code, since CLDR includes additional countries
+     * for addressing purposes, such as Canary Islands (IC).
+     *
+     * @return string The two-letter country code.
      */
     public function getCountryCode()
     {
@@ -115,136 +155,12 @@ class Subdivision implements SubdivisionEntityInterface
     }
 
     /**
-     * {@inheritdoc}
-     */
-    public function setCountryCode($countryCode)
-    {
-        $this->countryCode = $countryCode;
-
-        return $this;
-    }
-
-    /**
-     * {@inheritdoc}
-     */
-    public function getId()
-    {
-        return $this->id;
-    }
-
-    /**
-     * {@inheritdoc}
-     */
-    public function setId($id)
-    {
-        $this->id = $id;
-
-        return $this;
-    }
-
-    /**
-     * {@inheritdoc}
-     */
-    public function getCode()
-    {
-        return $this->code;
-    }
-
-    /**
-     * {@inheritdoc}
-     */
-    public function setCode($code)
-    {
-        $this->code = $code;
-
-        return $this;
-    }
-
-    /**
-     * {@inheritdoc}
-     */
-    public function getName()
-    {
-        return $this->name;
-    }
-
-    /**
-     * {@inheritdoc}
-     */
-    public function setName($name)
-    {
-        $this->name = $name;
-
-        return $this;
-    }
-
-    /**
-     * {@inheritdoc}
-     */
-    public function getPostalCodePattern()
-    {
-        return $this->postalCodePattern;
-    }
-
-    /**
-     * {@inheritdoc}
-     */
-    public function setPostalCodePattern($postalCodePattern)
-    {
-        $this->postalCodePattern = $postalCodePattern;
-
-        return $this;
-    }
-
-    /**
-     * {@inheritdoc}
-     */
-    public function getPostalCodePatternType()
-    {
-        return $this->postalCodePatternType;
-    }
-
-    /**
-     * {@inheritdoc}
-     */
-    public function setPostalCodePatternType($postalCodePatternType)
-    {
-        PatternType::assertExists($postalCodePatternType);
-        $this->postalCodePatternType = $postalCodePatternType;
-
-        return $this;
-    }
-
-    /**
-     * {@inheritdoc}
-     */
-    public function getChildren()
-    {
-        return $this->children;
-    }
-
-    /**
-     * {@inheritdoc}
-     */
-    public function setChildren(Collection $children)
-    {
-        $this->children = $children;
-
-        return $this;
-    }
-
-    /**
-     * {@inheritdoc}
-     */
-    public function hasChildren()
-    {
-        return !$this->children->isEmpty();
-    }
-
-    /**
-     * Gets the locale.
+     * Gets the subdivision locale.
      *
-     * @return string The locale.
+     * Used for selecting local subdivision codes/names. Only defined if the
+     * subdivision has a local code or name.
+     *
+     * @return string|null The subdivision locale, if defined.
      */
     public function getLocale()
     {
@@ -252,14 +168,112 @@ class Subdivision implements SubdivisionEntityInterface
     }
 
     /**
-     * Sets the locale.
+     * Gets the subdivision code.
      *
-     * @param string $locale The locale.
+     * Represents the subdivision on the formatted address.
+     * Could be an abbreviation, such as "CA" for California, or a full string
+     * such as "Grand Cayman".
+     *
+     * This is the value that is stored on the address object.
+     * Guaranteed to be in latin script.
+     *
+     * @return string The subdivision code.
      */
-    public function setLocale($locale)
+    public function getCode()
     {
-        $this->locale = $locale;
+        return $this->code;
+    }
 
-        return $this;
+    /**
+     * Gets the subdivision local code.
+     *
+     * When a country uses a non-latin script, the local code is the code
+     * in that script (Cyrilic in Russia, Chinese in China, etc).
+     *
+     * @return string|null The subdivision local code, if defined.
+     */
+    public function getLocalCode()
+    {
+        return $this->localCode;
+    }
+
+    /**
+     * Gets the subdivision name.
+     *
+     * Represents the subdivision in dropdowns.
+     * Guaranteed to be in latin script.
+     *
+     * @return string The subdivision name.
+     */
+    public function getName()
+    {
+        return $this->name;
+    }
+
+    /**
+     * Gets the subdivision local name.
+     *
+     * When a country uses a non-latin script, the local name is the name
+     * in that script (Cyrilic in Russia, Chinese in China, etc).
+     *
+     * @return string|null The subdivision local name, if defined.
+     */
+    public function getLocalName()
+    {
+        return $this->localName;
+    }
+
+    /**
+     * Gets the subdivision ISO 3166-2 code.
+     *
+     * Only defined for administrative areas. Examples: 'US-CA', 'JP-01'.
+     *
+     * @return string The subdivision ISO 3166-2 code.
+     */
+    public function getIsoCode()
+    {
+        return $this->isoCode;
+    }
+
+    /**
+     * Gets the postal code pattern.
+     *
+     * This is a regular expression pattern used to validate postal codes.
+     *
+     * @return string|null The postal code pattern.
+     */
+    public function getPostalCodePattern()
+    {
+        return $this->postalCodePattern;
+    }
+
+    /**
+     * Gets the postal code pattern type.
+     *
+     * @return string|null The postal code pattern type.
+     */
+    public function getPostalCodePatternType()
+    {
+        return $this->postalCodePatternType;
+    }
+
+    /**
+     * Gets the subdivision children.
+     *
+     * @return Subdivision[] The subdivision children.
+     */
+    public function getChildren()
+    {
+        return $this->children;
+    }
+
+    /**
+     * Checks whether the subdivision has children.
+     *
+     * @return bool TRUE if the subdivision has children, FALSE otherwise.
+     */
+    public function hasChildren()
+    {
+        return !$this->children->isEmpty();
     }
 }

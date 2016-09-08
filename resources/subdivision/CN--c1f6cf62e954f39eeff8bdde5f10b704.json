@@ -1,0 +1,23 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Ningxia Huizuzizhiqu",
+		"Wuzhong Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Litong Qu": {
+			"local_code": "利通区"
+		},
+		"Qingtongxia Shi": {
+			"local_code": "青铜峡市"
+		},
+		"Tongxin Xian": {
+			"local_code": "同心县"
+		},
+		"Yanchi Xian": {
+			"local_code": "盐池县"
+		}
+	}
+}

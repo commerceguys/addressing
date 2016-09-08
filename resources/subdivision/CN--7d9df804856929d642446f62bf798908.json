@@ -1,0 +1,38 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Neimenggu Zizhiqu",
+		"Hohhot Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Horinger Xian": {
+			"local_code": "和林格尔县"
+		},
+		"Huimin Qu": {
+			"local_code": "回民区"
+		},
+		"Qingshuihe Xian": {
+			"local_code": "清水河县"
+		},
+		"Saihan Qu": {
+			"local_code": "赛罕区"
+		},
+		"Tumd Zuoqi": {
+			"local_code": "土默特左旗"
+		},
+		"Togtoh Xian": {
+			"local_code": "托克托县"
+		},
+		"Wuchuan Xian": {
+			"local_code": "武川县"
+		},
+		"Xincheng Qu": {
+			"local_code": "新城区"
+		},
+		"Yuquan Qu": {
+			"local_code": "玉泉区"
+		}
+	}
+}

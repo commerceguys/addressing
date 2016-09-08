@@ -1,0 +1,17 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Shandong Sheng",
+		"Laiwu Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Gangcheng Qu": {
+			"local_code": "钢城区"
+		},
+		"Laicheng Qu": {
+			"local_code": "莱城区"
+		}
+	}
+}

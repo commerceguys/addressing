@@ -1,0 +1,20 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Jiangxi Sheng",
+		"Yingtan Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Guixi Shi": {
+			"local_code": "贵溪市"
+		},
+		"Yujiang Xian": {
+			"local_code": "余江县"
+		},
+		"Yuehu Qu": {
+			"local_code": "月湖区"
+		}
+	}
+}

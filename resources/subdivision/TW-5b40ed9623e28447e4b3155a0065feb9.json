@@ -1,0 +1,38 @@
+{
+	"country_code": "TW",
+	"parents": [
+		"TW",
+		"Keelung City"
+	],
+	"locale": "zh-Hant",
+	"subdivisions": {
+		"Qidu District": {
+			"local_code": "七堵區",
+			"postal_code_pattern": "206"
+		},
+		"Zhongshan District": {
+			"local_code": "中山區",
+			"postal_code_pattern": "203"
+		},
+		"Zhongzheng District": {
+			"local_code": "中正區",
+			"postal_code_pattern": "202"
+		},
+		"Ren'ai District": {
+			"local_code": "仁愛區",
+			"postal_code_pattern": "200"
+		},
+		"Anle District": {
+			"local_code": "安樂區",
+			"postal_code_pattern": "204"
+		},
+		"Xinyi District": {
+			"local_code": "信義區",
+			"postal_code_pattern": "201"
+		},
+		"Nuannuan District": {
+			"local_code": "暖暖區",
+			"postal_code_pattern": "205"
+		}
+	}
+}

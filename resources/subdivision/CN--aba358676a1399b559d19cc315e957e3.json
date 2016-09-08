@@ -1,0 +1,38 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Henan Sheng",
+		"Anyang Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Anyang Xian": {
+			"local_code": "安阳县"
+		},
+		"Beiguan Qu": {
+			"local_code": "北关区"
+		},
+		"Hua Xian": {
+			"local_code": "滑县"
+		},
+		"Linzhou Shi": {
+			"local_code": "林州市"
+		},
+		"Long'an Qu": {
+			"local_code": "龙安区"
+		},
+		"Neihuang Xian": {
+			"local_code": "内黄县"
+		},
+		"Tangyin Xian": {
+			"local_code": "汤阴县"
+		},
+		"Wenfeng Qu": {
+			"local_code": "文峰区"
+		},
+		"Yindou Qu": {
+			"local_code": "殷都区"
+		}
+	}
+}

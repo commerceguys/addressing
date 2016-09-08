@@ -1,0 +1,29 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Shanxi Sheng",
+		"Shuozhou Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Huairen Xian": {
+			"local_code": "怀仁县"
+		},
+		"Pinglu Qu": {
+			"local_code": "平鲁区"
+		},
+		"Shanyin Xian": {
+			"local_code": "山阴县"
+		},
+		"Shuocheng Qu": {
+			"local_code": "朔城区"
+		},
+		"Ying Xian": {
+			"local_code": "应县"
+		},
+		"Youyu Xian": {
+			"local_code": "右玉县"
+		}
+	}
+}

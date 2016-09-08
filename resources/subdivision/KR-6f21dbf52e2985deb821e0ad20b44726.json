@@ -1,0 +1,98 @@
+{
+	"country_code": "KR",
+	"parents": [
+		"KR",
+		"Jeollanam-do"
+	],
+	"locale": "ko",
+	"subdivisions": {
+		"Gangjin-gun": {
+			"local_code": "강진군",
+			"postal_code_pattern": "592|527"
+		},
+		"Goheung-gun": {
+			"local_code": "고흥군",
+			"postal_code_pattern": "595|548"
+		},
+		"Gokseong-gun": {
+			"local_code": "곡성군",
+			"postal_code_pattern": "575|516"
+		},
+		"Gwangyang-si": {
+			"local_code": "광양시",
+			"postal_code_pattern": "57[78]|545"
+		},
+		"Gurye-gun": {
+			"local_code": "구례군",
+			"postal_code_pattern": "576|542[\\-]8"
+		},
+		"Naju-si": {
+			"local_code": "나주시",
+			"postal_code_pattern": "58[23]|520"
+		},
+		"Damyang-gun": {
+			"local_code": "담양군",
+			"postal_code_pattern": "573|517"
+		},
+		"Mokpo-si": {
+			"local_code": "목포시",
+			"postal_code_pattern": "58[67]|530"
+		},
+		"Muan-gun": {
+			"local_code": "무안군",
+			"postal_code_pattern": "585|534"
+		},
+		"Boseong-gun": {
+			"local_code": "보성군",
+			"postal_code_pattern": "594|546"
+		},
+		"Suncheon-si": {
+			"local_code": "순천시",
+			"postal_code_pattern": "5(?:79|80)|540"
+		},
+		"Sinan-gun": {
+			"local_code": "신안군",
+			"postal_code_pattern": "588|53[05]"
+		},
+		"Yeosu-si": {
+			"local_code": "여수시",
+			"postal_code_pattern": "59[67]|55[056]"
+		},
+		"Yeonggwang-gun": {
+			"local_code": "영광군",
+			"postal_code_pattern": "570|513"
+		},
+		"Yeongam-gun": {
+			"local_code": "영암군",
+			"postal_code_pattern": "584|526"
+		},
+		"Wando-gun": {
+			"local_code": "완도군",
+			"postal_code_pattern": "591|5(?:27|3[67]|48)"
+		},
+		"Jangseong-gun": {
+			"local_code": "장성군",
+			"postal_code_pattern": "572|515"
+		},
+		"Jangheung-gun": {
+			"local_code": "장흥군",
+			"postal_code_pattern": "593|529"
+		},
+		"Jindo-gun": {
+			"local_code": "진도군",
+			"postal_code_pattern": "589|539"
+		},
+		"Hampyeong-gun": {
+			"local_code": "함평군",
+			"postal_code_pattern": "571|525[\\-]8"
+		},
+		"Haenam-gun": {
+			"local_code": "해남군",
+			"postal_code_pattern": "590|536"
+		},
+		"Hwasun-gun": {
+			"local_code": "화순군",
+			"postal_code_pattern": "581|519"
+		}
+	}
+}

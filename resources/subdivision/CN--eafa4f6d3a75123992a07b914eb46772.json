@@ -1,0 +1,29 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Fujian Sheng",
+		"Xiamen Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Haicang Qu": {
+			"local_code": "海沧区"
+		},
+		"Huli Qu": {
+			"local_code": "湖里区"
+		},
+		"Jimei Qu": {
+			"local_code": "集美区"
+		},
+		"Siming Qu": {
+			"local_code": "思明区"
+		},
+		"Tong'an Qu": {
+			"local_code": "同安区"
+		},
+		"Xiang'an Qu": {
+			"local_code": "翔安区"
+		}
+	}
+}

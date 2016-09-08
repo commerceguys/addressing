@@ -1,857 +1,433 @@
 {
 	"country_code": "RU",
-	"parent_id": null,
-	"locale": "ru-Latn",
+	"locale": "ru",
 	"subdivisions": {
-		"RU-ALT": {
-			"code": "Алтайский край",
-			"name": "Altayskiy kray",
-			"postal_code_pattern": "65[6-9]",
-			"translations": {
-				"ru": {
-					"name": "Алтайский край"
-				}
-			}
-		},
-		"RU-AMU": {
-			"code": "Амурская область",
-			"name": "Amurskaya oblast'",
-			"postal_code_pattern": "67[56]",
-			"translations": {
-				"ru": {
-					"name": "Амурская область"
-				}
-			}
-		},
-		"RU-ARK": {
-			"code": "Архангельская область",
-			"name": "Arkhangelskaya oblast'",
-			"postal_code_pattern": "16[3-5]",
-			"translations": {
-				"ru": {
-					"name": "Архангельская область"
-				}
-			}
-		},
-		"RU-AST": {
-			"code": "Астраханская область",
-			"name": "Astrakhanskaya oblast'",
-			"postal_code_pattern": "41[4-6]",
-			"translations": {
-				"ru": {
-					"name": "Астраханская область"
-				}
-			}
-		},
-		"RU-BEL": {
-			"code": "Белгородская область",
-			"name": "Belgorodskaya oblast'",
-			"postal_code_pattern": "30[89]",
-			"translations": {
-				"ru": {
-					"name": "Белгородская область"
-				}
-			}
-		},
-		"RU-BRY": {
-			"code": "Брянская область",
-			"name": "Bryanskaya oblast'",
-			"postal_code_pattern": "24[1-3]",
-			"translations": {
-				"ru": {
-					"name": "Брянская область"
-				}
-			}
-		},
-		"RU-VLA": {
-			"code": "Владимирская область",
-			"name": "Vladimirskaya oblast'",
-			"postal_code_pattern": "60[0-2]",
-			"translations": {
-				"ru": {
-					"name": "Владимирская область"
-				}
-			}
-		},
-		"RU-VGG": {
-			"code": "Волгоградская область",
-			"name": "Volgogradskaya oblast'",
-			"postal_code_pattern": "40[0-4]",
-			"translations": {
-				"ru": {
-					"name": "Волгоградская область"
-				}
-			}
-		},
-		"RU-VLG": {
-			"code": "Вологодская область",
-			"name": "Vologodskaya oblast'",
-			"postal_code_pattern": "16[0-2]",
-			"translations": {
-				"ru": {
-					"name": "Вологодская область"
-				}
-			}
-		},
-		"RU-VOR": {
-			"code": "Воронежская область",
-			"name": "Voronezhskaya oblast'",
-			"postal_code_pattern": "39[4-7]",
-			"translations": {
-				"ru": {
-					"name": "Воронежская область"
-				}
-			}
-		},
-		"RU-YEV": {
-			"code": "Еврейская автономная область",
-			"name": "Evreyskaya avtonomnaya oblast'",
-			"postal_code_pattern": "679",
-			"translations": {
-				"ru": {
-					"name": "Еврейская автономная область"
-				}
-			}
-		},
-		"RU-ZAB": {
-			"code": "Забайкальский край",
-			"name": "Zabaykalskiy kray",
-			"postal_code_pattern": "6(?:7[2-4]|87)",
-			"translations": {
-				"ru": {
-					"name": "Забайкальский край"
-				}
-			}
-		},
-		"RU-IVA": {
-			"code": "Ивановская область",
-			"name": "Ivanovskaya oblast'",
-			"postal_code_pattern": "15[3-5]",
-			"translations": {
-				"ru": {
-					"name": "Ивановская область"
-				}
-			}
-		},
-		"RU-IRK": {
-			"code": "Иркутская область",
-			"name": "Irkutskaya oblast'",
-			"postal_code_pattern": "66[4-9]",
-			"translations": {
-				"ru": {
-					"name": "Иркутская область"
-				}
-			}
-		},
-		"RU-KB": {
-			"code": "Кабардино-Балкарская Республика",
-			"name": "Kabardino-Balkarskaya Republits",
-			"postal_code_pattern": "36[01]",
-			"translations": {
-				"ru": {
-					"name": "Кабардино-Балкарская Республика"
-				}
-			}
-		},
-		"RU-KGD": {
-			"code": "Калининградская область",
-			"name": "Kaliningradskaya oblast'",
-			"postal_code_pattern": "23[6-8]",
-			"translations": {
-				"ru": {
-					"name": "Калининградская область"
-				}
-			}
-		},
-		"RU-KLU": {
-			"code": "Калужская область",
-			"name": "Kaluzhskaya oblast'",
-			"postal_code_pattern": "24[89]",
-			"translations": {
-				"ru": {
-					"name": "Калужская область"
-				}
-			}
-		},
-		"RU-KAM": {
-			"code": "Камчатский край",
-			"name": "Kamchatskiy kray",
-			"postal_code_pattern": "68[348]",
-			"translations": {
-				"ru": {
-					"name": "Камчатский край"
-				}
-			}
-		},
-		"RU-KC": {
-			"code": "Карачаево-Черкесская Республика",
-			"name": "Karachaevo-Cherkesskaya Republits",
-			"postal_code_pattern": "369",
-			"translations": {
-				"ru": {
-					"name": "Карачаево-Черкесская Республика"
-				}
-			}
-		},
-		"RU-KEM": {
-			"code": "Кемеровская область",
-			"name": "Kemerovskaya oblast'",
-			"postal_code_pattern": "65[0-4]",
-			"translations": {
-				"ru": {
-					"name": "Кемеровская область"
-				}
-			}
-		},
-		"RU-KIR": {
-			"code": "Кировская область",
-			"name": "Kirovskaya oblast'",
-			"postal_code_pattern": "61[0-3]",
-			"translations": {
-				"ru": {
-					"name": "Кировская область"
-				}
-			}
-		},
-		"RU-KOS": {
-			"code": "Костромская область",
-			"name": "Kostromskaya oblast'",
-			"postal_code_pattern": "15[67]",
-			"translations": {
-				"ru": {
-					"name": "Костромская область"
-				}
-			}
-		},
-		"RU-KDA": {
-			"code": "Краснодарский край",
-			"name": "Krasnodarskiy kray",
-			"postal_code_pattern": "35[0-4]",
-			"translations": {
-				"ru": {
-					"name": "Краснодарский край"
-				}
-			}
-		},
-		"RU-KYA": {
-			"code": "Красноярский край",
-			"name": "Krasnoyarskiy kray",
-			"postal_code_pattern": "6(?:6[0-3]|4[78])",
-			"translations": {
-				"ru": {
-					"name": "Красноярский край"
-				}
-			}
-		},
-		"RU-KGN": {
-			"code": "Курганская область",
-			"name": "Kurganskaya oblast'",
-			"postal_code_pattern": "64[01]",
-			"translations": {
-				"ru": {
-					"name": "Курганская область"
-				}
-			}
-		},
-		"RU-KRS": {
-			"code": "Курская область",
-			"name": "Kurskaya oblast'",
-			"postal_code_pattern": "30[5-7]",
-			"translations": {
-				"ru": {
-					"name": "Курская область"
-				}
-			}
-		},
-		"RU-LEN": {
-			"code": "Ленинградская область",
-			"name": "Leningradskaya oblast'",
-			"postal_code_pattern": "18[78]",
-			"translations": {
-				"ru": {
-					"name": "Ленинградская область"
-				}
-			}
-		},
-		"RU-LIP": {
-			"code": "Липецкая область",
-			"name": "Lipetskaya oblast'",
-			"postal_code_pattern": "39[89]",
-			"translations": {
-				"ru": {
-					"name": "Липецкая область"
-				}
-			}
-		},
-		"RU-MAG": {
-			"code": "Магаданская область",
-			"name": "Magadanskaya oblast'",
-			"postal_code_pattern": "68[56]",
-			"translations": {
-				"ru": {
-					"name": "Магаданская область"
-				}
-			}
-		},
-		"RU-MOW": {
-			"code": "город Москва",
-			"name": "gorod Moskva",
-			"postal_code_pattern": "1(?:0[1-9]|1|2|3[0-5])",
-			"translations": {
-				"ru": {
-					"name": "Москва"
-				}
-			}
-		},
-		"RU-MOS": {
-			"code": "Московская область",
-			"name": "Moskovskaya oblast'",
-			"postal_code_pattern": "14[0-4]",
-			"translations": {
-				"ru": {
-					"name": "Московская область"
-				}
-			}
-		},
-		"RU-MUR": {
-			"code": "Мурманская область",
-			"name": "Murmanskaya oblast'",
-			"postal_code_pattern": "18[34]",
-			"translations": {
-				"ru": {
-					"name": "Мурманская область"
-				}
-			}
-		},
-		"RU-NEN": {
-			"code": "Ненецкий автономный округ",
-			"name": "Nenetskiy",
-			"postal_code_pattern": "166",
-			"translations": {
-				"ru": {
-					"name": "Ненецкий автономный округ"
-				}
-			}
-		},
-		"RU-NIZ": {
-			"code": "Нижегородская область",
-			"name": "Nizhegorodskaya oblast'",
-			"postal_code_pattern": "60[3-7]",
-			"translations": {
-				"ru": {
-					"name": "Нижегородская область"
-				}
-			}
-		},
-		"RU-NGR": {
-			"code": "Новгородская область",
-			"name": "Novgorodskaya oblast'",
-			"postal_code_pattern": "17[3-5]",
-			"translations": {
-				"ru": {
-					"name": "Новгородская область"
-				}
-			}
-		},
-		"RU-NVS": {
-			"code": "Новосибирская область",
-			"name": "Novosibirskaya oblast'",
-			"postal_code_pattern": "63[0-3]",
-			"translations": {
-				"ru": {
-					"name": "Новосибирская область"
-				}
-			}
-		},
-		"RU-OMS": {
-			"code": "Омская область",
-			"name": "Omskaya oblast'",
-			"postal_code_pattern": "64[4-6]",
-			"translations": {
-				"ru": {
-					"name": "Омская область"
-				}
-			}
-		},
-		"RU-ORE": {
-			"code": "Оренбургская область",
-			"name": "Orenburgskaya oblast'",
-			"postal_code_pattern": "46[0-2]",
-			"translations": {
-				"ru": {
-					"name": "Оренбургская область"
-				}
-			}
-		},
-		"RU-ORL": {
-			"code": "Орловская область",
-			"name": "Orlovskaya oblast'",
-			"postal_code_pattern": "30[23]",
-			"translations": {
-				"ru": {
-					"name": "Орловская область"
-				}
-			}
-		},
-		"RU-PNZ": {
-			"code": "Пензенская область",
-			"name": "Penzenskaya oblast'",
-			"postal_code_pattern": "44[0-2]",
-			"translations": {
-				"ru": {
-					"name": "Пензенская область"
-				}
-			}
-		},
-		"RU-PER": {
-			"code": "Пермский край",
-			"name": "Permskiy kray",
-			"postal_code_pattern": "61[4-9]",
-			"translations": {
-				"ru": {
-					"name": "Пермский край"
-				}
-			}
-		},
-		"RU-PRI": {
-			"code": "Приморский край",
-			"name": "Primorskiy kray",
-			"postal_code_pattern": "69[0-2]",
-			"translations": {
-				"ru": {
-					"name": "Приморский край"
-				}
-			}
-		},
-		"RU-PSK": {
-			"code": "Псковская область",
-			"name": "Pskovskaya oblast'",
-			"postal_code_pattern": "18[0-2]",
-			"translations": {
-				"ru": {
-					"name": "Псковская область"
-				}
-			}
-		},
-		"RU-AD": {
-			"code": "Республика Адыгея",
-			"name": "Respublika Adygeya",
-			"postal_code_pattern": "385",
-			"translations": {
-				"ru": {
-					"name": "Республика Адыгея"
-				}
-			}
-		},
-		"RU-AL": {
-			"code": "Республика Алтай",
-			"name": "Altay Republits",
-			"postal_code_pattern": "649",
-			"translations": {
-				"ru": {
-					"name": "Республика Алтай"
-				}
-			}
-		},
-		"RU-BA": {
-			"code": "Республика Башкортостан",
-			"name": "Bashkortostan Republits",
-			"postal_code_pattern": "45[0-3]",
-			"translations": {
-				"ru": {
-					"name": "Республика Башкортостан"
-				}
-			}
-		},
-		"RU-BU": {
-			"code": "Республика Бурятия",
-			"name": "Buryatiya Republits",
-			"postal_code_pattern": "67[01]",
-			"translations": {
-				"ru": {
-					"name": "Республика Бурятия"
-				}
-			}
-		},
-		"RU-DA": {
-			"code": "Республика Дагестан",
-			"name": "Dagestan Republits",
-			"postal_code_pattern": "36[78]",
-			"translations": {
-				"ru": {
-					"name": "Республика Дагестан"
-				}
-			}
-		},
-		"RU-IN": {
-			"code": "Республика Ингушетия",
-			"name": "Ingushetiya Republits",
-			"postal_code_pattern": "386",
-			"translations": {
-				"ru": {
-					"name": "Республика Ингушетия"
-				}
-			}
-		},
-		"RU-KL": {
-			"code": "Республика Калмыкия",
-			"name": "Respublika Kalmykiya",
-			"postal_code_pattern": "35[89]",
-			"translations": {
-				"ru": {
-					"name": "Республика Калмыкия"
-				}
-			}
-		},
-		"RU-KR": {
-			"code": "Республика Карелия",
-			"name": "Kareliya Republits",
-			"postal_code_pattern": "18[56]",
-			"translations": {
-				"ru": {
-					"name": "Республика Карелия"
-				}
-			}
-		},
-		"RU-KO": {
-			"code": "Республика Коми",
-			"name": "Komi Republits",
-			"postal_code_pattern": "16[7-9]",
-			"translations": {
-				"ru": {
-					"name": "Республика Коми"
-				}
-			}
-		},
-		"RU-d9ce30": {
-			"code": "Автономна Республіка Крим",
-			"name": "Respublika Krym",
-			"postal_code_pattern": "29[5-8]",
-			"translations": {
-				"ru": {
-					"name": "Республика Крым"
-				}
-			}
-		},
-		"RU-ME": {
-			"code": "Республика Марий Эл",
-			"name": "Respublika Mariy El",
-			"postal_code_pattern": "42[45]",
-			"translations": {
-				"ru": {
-					"name": "Республика Марий Эл"
-				}
-			}
-		},
-		"RU-MO": {
-			"code": "Республика Мордовия",
-			"name": "Respublika Mordoviya",
-			"postal_code_pattern": "43[01]",
-			"translations": {
-				"ru": {
-					"name": "Республика Мордовия"
-				}
-			}
-		},
-		"RU-SA": {
-			"code": "Республика Саха (Якутия)",
-			"name": "Sakha (Yakutiya) Republits",
-			"postal_code_pattern": "67[78]",
-			"translations": {
-				"ru": {
-					"name": "Республика Саха (Якутия)"
-				}
-			}
-		},
-		"RU-SE": {
-			"code": "Республика Северная Осетия-Алания",
-			"name": "Respublika Severnaya Osetiya-Alaniya",
-			"postal_code_pattern": "36[23]",
-			"translations": {
-				"ru": {
-					"name": "Республика Северная Осетия-Алания"
-				}
-			}
-		},
-		"RU-TA": {
-			"code": "Республика Татарстан",
-			"name": "Respublika Tatarstan",
-			"postal_code_pattern": "42[0-3]",
-			"translations": {
-				"ru": {
-					"name": "Республика Татарстан"
-				}
-			}
-		},
-		"RU-TY": {
-			"code": "Республика Тыва",
-			"name": "Tyva Republits",
-			"postal_code_pattern": "66[78]",
-			"translations": {
-				"ru": {
-					"name": "Республика Тыва"
-				}
-			}
-		},
-		"RU-UD": {
-			"code": "Республика Удмуртия",
-			"name": "Respublika Udmurtiya",
-			"postal_code_pattern": "42[67]",
-			"translations": {
-				"ru": {
-					"name": "Республика Удмуртия"
-				}
-			}
-		},
-		"RU-KK": {
-			"code": "Республика Хакасия",
-			"name": "Khakasiya Republits",
-			"postal_code_pattern": "655",
-			"translations": {
-				"ru": {
-					"name": "Республика Хакасия"
-				}
-			}
-		},
-		"RU-ROS": {
-			"code": "Ростовская область",
-			"name": "Rostovskaya oblast'",
-			"postal_code_pattern": "34[4-7]",
-			"translations": {
-				"ru": {
-					"name": "Ростовская область"
-				}
-			}
-		},
-		"RU-RYA": {
-			"code": "Рязанская область",
-			"name": "Ryazanskaya oblast'",
-			"postal_code_pattern": "39[01]",
-			"translations": {
-				"ru": {
-					"name": "Рязанская область"
-				}
-			}
-		},
-		"RU-SAM": {
-			"code": "Самарская область",
-			"name": "Samarskaya oblast'",
-			"postal_code_pattern": "44[3-6]",
-			"translations": {
-				"ru": {
-					"name": "Самарская область"
-				}
-			}
-		},
-		"RU-SPE": {
-			"code": "город Санкт-Петербург",
-			"name": "gorod Sankt-Peterburg",
-			"postal_code_pattern": "19",
-			"translations": {
-				"ru": {
-					"name": "Санкт-Петербург"
-				}
-			}
-		},
-		"RU-SAR": {
-			"code": "Саратовская область",
-			"name": "Saratovskaya oblast'",
-			"postal_code_pattern": "41[0-3]",
-			"translations": {
-				"ru": {
-					"name": "Саратовская область"
-				}
-			}
-		},
-		"RU-SAK": {
-			"code": "Сахалинская область",
-			"name": "Sakhalinskaya oblast'",
-			"postal_code_pattern": "69[34]",
-			"translations": {
-				"ru": {
-					"name": "Сахалинская область"
-				}
-			}
-		},
-		"RU-SVE": {
-			"code": "Свердловская область",
-			"name": "Sverdlovskaya oblast'",
-			"postal_code_pattern": "62[0-4]",
-			"translations": {
-				"ru": {
-					"name": "Свердловская область"
-				}
-			}
-		},
-		"RU-a9944f": {
-			"code": "город Севастополь",
-			"name": "gorod Sevastopol'",
-			"postal_code_pattern": "299",
-			"translations": {
-				"ru": {
-					"name": "Севастополь"
-				}
-			}
-		},
-		"RU-SMO": {
-			"code": "Смоленская область",
-			"name": "Smolenskaya oblast'",
-			"postal_code_pattern": "21[4-6]",
-			"translations": {
-				"ru": {
-					"name": "Смоленская область"
-				}
-			}
-		},
-		"RU-STA": {
-			"code": "Ставропольский край",
-			"name": "Stavropolskiy kray",
-			"postal_code_pattern": "35[5-7]",
-			"translations": {
-				"ru": {
-					"name": "Ставропольский край"
-				}
-			}
-		},
-		"RU-TAM": {
-			"code": "Тамбовская область",
-			"name": "Tambovskaya oblast'",
-			"postal_code_pattern": "39[23]",
-			"translations": {
-				"ru": {
-					"name": "Тамбовская область"
-				}
-			}
-		},
-		"RU-TVE": {
-			"code": "Тверская область",
-			"name": "Tverskaya oblast'",
-			"postal_code_pattern": "17[0-2]",
-			"translations": {
-				"ru": {
-					"name": "Тверская область"
-				}
-			}
-		},
-		"RU-TOM": {
-			"code": "Томская область",
-			"name": "Tomskaya oblast'",
-			"postal_code_pattern": "63[4-6]",
-			"translations": {
-				"ru": {
-					"name": "Томская область"
-				}
-			}
-		},
-		"RU-TUL": {
-			"code": "Тульская область",
-			"name": "Tulskaya oblast'",
-			"postal_code_pattern": "30[01]",
-			"translations": {
-				"ru": {
-					"name": "Тульская область"
-				}
-			}
-		},
-		"RU-TYU": {
-			"code": "Тюменская область",
-			"name": "Tyumenskaya oblast'",
-			"postal_code_pattern": "62[57]",
-			"translations": {
-				"ru": {
-					"name": "Тюменская область"
-				}
-			}
-		},
-		"RU-ULY": {
-			"code": "Ульяновская область",
-			"name": "Ulyanovskaya oblast'",
-			"postal_code_pattern": "43[23]",
-			"translations": {
-				"ru": {
-					"name": "Ульяновская область"
-				}
-			}
-		},
-		"RU-KHA": {
-			"code": "Хабаровский край",
-			"name": "Khabarovskiy kray",
-			"postal_code_pattern": "68[0-2]",
-			"translations": {
-				"ru": {
-					"name": "Хабаровский край"
-				}
-			}
-		},
-		"RU-KHM": {
-			"code": "Ханты-Мансийский автономный округ",
-			"name": "Khanty-Mansiyskiy avtonomnyy okrug",
-			"postal_code_pattern": "628",
-			"translations": {
-				"ru": {
-					"name": "Ханты-Мансийский автономный округ"
-				}
-			}
-		},
-		"RU-CHE": {
-			"code": "Челябинская область",
-			"name": "Chelyabinskaya oblast'",
-			"postal_code_pattern": "45[4-7]",
-			"translations": {
-				"ru": {
-					"name": "Челябинская область"
-				}
-			}
-		},
-		"RU-CE": {
-			"code": "Чеченская Республика",
-			"name": "Chechenskaya Republits",
-			"postal_code_pattern": "36[4-6]",
-			"translations": {
-				"ru": {
-					"name": "Чеченская Республика"
-				}
-			}
-		},
-		"RU-CU": {
-			"code": "Чувашская Республика",
-			"name": "Chuvashia",
-			"postal_code_pattern": "42[89]",
-			"translations": {
-				"ru": {
-					"name": "Чувашская Республика"
-				}
-			}
-		},
-		"RU-CHU": {
-			"code": "Чукотский автономный округ",
-			"name": "Chukotskiy",
-			"postal_code_pattern": "689",
-			"translations": {
-				"ru": {
-					"name": "Чукотский автономный округ"
-				}
-			}
-		},
-		"RU-YAN": {
-			"code": "Ямало-Ненецкий автономный округ",
-			"name": "Yamalo-Nenetskiy",
-			"postal_code_pattern": "629",
-			"translations": {
-				"ru": {
-					"name": "Ямало-Ненецкий автономный округ"
-				}
-			}
-		},
-		"RU-YAR": {
-			"code": "Ярославская область",
-			"name": "Yaroslavskaya oblast'",
-			"postal_code_pattern": "15[0-2]",
-			"translations": {
-				"ru": {
-					"name": "Ярославская область"
-				}
-			}
+		"Altayskiy kray": {
+			"local_code": "Алтайский край",
+			"iso_code": "RU-ALT",
+			"postal_code_pattern": "65[6-9]"
+		},
+		"Amurskaya oblast'": {
+			"local_code": "Амурская область",
+			"iso_code": "RU-AMU",
+			"postal_code_pattern": "67[56]"
+		},
+		"Arkhangelskaya oblast'": {
+			"local_code": "Архангельская область",
+			"iso_code": "RU-ARK",
+			"postal_code_pattern": "16[3-5]"
+		},
+		"Astrakhanskaya oblast'": {
+			"local_code": "Астраханская область",
+			"iso_code": "RU-AST",
+			"postal_code_pattern": "41[4-6]"
+		},
+		"Belgorodskaya oblast'": {
+			"local_code": "Белгородская область",
+			"iso_code": "RU-BEL",
+			"postal_code_pattern": "30[89]"
+		},
+		"Bryanskaya oblast'": {
+			"local_code": "Брянская область",
+			"iso_code": "RU-BRY",
+			"postal_code_pattern": "24[1-3]"
+		},
+		"Vladimirskaya oblast'": {
+			"local_code": "Владимирская область",
+			"iso_code": "RU-VLA",
+			"postal_code_pattern": "60[0-2]"
+		},
+		"Volgogradskaya oblast'": {
+			"local_code": "Волгоградская область",
+			"iso_code": "RU-VGG",
+			"postal_code_pattern": "40[0-4]"
+		},
+		"Vologodskaya oblast'": {
+			"local_code": "Вологодская область",
+			"iso_code": "RU-VLG",
+			"postal_code_pattern": "16[0-2]"
+		},
+		"Voronezhskaya oblast'": {
+			"local_code": "Воронежская область",
+			"iso_code": "RU-VOR",
+			"postal_code_pattern": "39[4-7]"
+		},
+		"Evreyskaya avtonomnaya oblast'": {
+			"local_code": "Еврейская автономная область",
+			"iso_code": "RU-YEV",
+			"postal_code_pattern": "679"
+		},
+		"Zabaykalskiy kray": {
+			"local_code": "Забайкальский край",
+			"iso_code": "RU-ZAB",
+			"postal_code_pattern": "6(?:7[2-4]|87)"
+		},
+		"Ivanovskaya oblast'": {
+			"local_code": "Ивановская область",
+			"iso_code": "RU-IVA",
+			"postal_code_pattern": "15[3-5]"
+		},
+		"Irkutskaya oblast'": {
+			"local_code": "Иркутская область",
+			"iso_code": "RU-IRK",
+			"postal_code_pattern": "66[4-9]"
+		},
+		"Kabardino-Balkarskaya Republits": {
+			"local_code": "Кабардино-Балкарская Республика",
+			"iso_code": "RU-KB",
+			"postal_code_pattern": "36[01]"
+		},
+		"Kaliningradskaya oblast'": {
+			"local_code": "Калининградская область",
+			"iso_code": "RU-KGD",
+			"postal_code_pattern": "23[6-8]"
+		},
+		"Kaluzhskaya oblast'": {
+			"local_code": "Калужская область",
+			"iso_code": "RU-KLU",
+			"postal_code_pattern": "24[89]"
+		},
+		"Kamchatskiy kray": {
+			"local_code": "Камчатский край",
+			"iso_code": "RU-KAM",
+			"postal_code_pattern": "68[348]"
+		},
+		"Karachaevo-Cherkesskaya Republits": {
+			"local_code": "Карачаево-Черкесская Республика",
+			"iso_code": "RU-KC",
+			"postal_code_pattern": "369"
+		},
+		"Kemerovskaya oblast'": {
+			"local_code": "Кемеровская область",
+			"iso_code": "RU-KEM",
+			"postal_code_pattern": "65[0-4]"
+		},
+		"Kirovskaya oblast'": {
+			"local_code": "Кировская область",
+			"iso_code": "RU-KIR",
+			"postal_code_pattern": "61[0-3]"
+		},
+		"Kostromskaya oblast'": {
+			"local_code": "Костромская область",
+			"iso_code": "RU-KOS",
+			"postal_code_pattern": "15[67]"
+		},
+		"Krasnodarskiy kray": {
+			"local_code": "Краснодарский край",
+			"iso_code": "RU-KDA",
+			"postal_code_pattern": "35[0-4]"
+		},
+		"Krasnoyarskiy kray": {
+			"local_code": "Красноярский край",
+			"iso_code": "RU-KYA",
+			"postal_code_pattern": "6(?:6[0-3]|4[78])"
+		},
+		"Kurganskaya oblast'": {
+			"local_code": "Курганская область",
+			"iso_code": "RU-KGN",
+			"postal_code_pattern": "64[01]"
+		},
+		"Kurskaya oblast'": {
+			"local_code": "Курская область",
+			"iso_code": "RU-KRS",
+			"postal_code_pattern": "30[5-7]"
+		},
+		"Leningradskaya oblast'": {
+			"local_code": "Ленинградская область",
+			"iso_code": "RU-LEN",
+			"postal_code_pattern": "18[78]"
+		},
+		"Lipetskaya oblast'": {
+			"local_code": "Липецкая область",
+			"iso_code": "RU-LIP",
+			"postal_code_pattern": "39[89]"
+		},
+		"Magadanskaya oblast'": {
+			"local_code": "Магаданская область",
+			"iso_code": "RU-MAG",
+			"postal_code_pattern": "68[56]"
+		},
+		"gorod Moskva": {
+			"local_code": "город Москва",
+			"local_name": "Москва",
+			"iso_code": "RU-MOW",
+			"postal_code_pattern": "1(?:0[1-9]|1|2|3[0-5])"
+		},
+		"Moskovskaya oblast'": {
+			"local_code": "Московская область",
+			"iso_code": "RU-MOS",
+			"postal_code_pattern": "14[0-4]"
+		},
+		"Murmanskaya oblast'": {
+			"local_code": "Мурманская область",
+			"iso_code": "RU-MUR",
+			"postal_code_pattern": "18[34]"
+		},
+		"Nenetskiy": {
+			"local_code": "Ненецкий автономный округ",
+			"iso_code": "RU-NEN",
+			"postal_code_pattern": "166"
+		},
+		"Nizhegorodskaya oblast'": {
+			"local_code": "Нижегородская область",
+			"iso_code": "RU-NIZ",
+			"postal_code_pattern": "60[3-7]"
+		},
+		"Novgorodskaya oblast'": {
+			"local_code": "Новгородская область",
+			"iso_code": "RU-NGR",
+			"postal_code_pattern": "17[3-5]"
+		},
+		"Novosibirskaya oblast'": {
+			"local_code": "Новосибирская область",
+			"iso_code": "RU-NVS",
+			"postal_code_pattern": "63[0-3]"
+		},
+		"Omskaya oblast'": {
+			"local_code": "Омская область",
+			"iso_code": "RU-OMS",
+			"postal_code_pattern": "64[4-6]"
+		},
+		"Orenburgskaya oblast'": {
+			"local_code": "Оренбургская область",
+			"iso_code": "RU-ORE",
+			"postal_code_pattern": "46[0-2]"
+		},
+		"Orlovskaya oblast'": {
+			"local_code": "Орловская область",
+			"iso_code": "RU-ORL",
+			"postal_code_pattern": "30[23]"
+		},
+		"Penzenskaya oblast'": {
+			"local_code": "Пензенская область",
+			"iso_code": "RU-PNZ",
+			"postal_code_pattern": "44[0-2]"
+		},
+		"Permskiy kray": {
+			"local_code": "Пермский край",
+			"iso_code": "RU-PER",
+			"postal_code_pattern": "61[4-9]"
+		},
+		"Primorskiy kray": {
+			"local_code": "Приморский край",
+			"iso_code": "RU-PRI",
+			"postal_code_pattern": "69[0-2]"
+		},
+		"Pskovskaya oblast'": {
+			"local_code": "Псковская область",
+			"iso_code": "RU-PSK",
+			"postal_code_pattern": "18[0-2]"
+		},
+		"Respublika Adygeya": {
+			"local_code": "Республика Адыгея",
+			"iso_code": "RU-AD",
+			"postal_code_pattern": "385"
+		},
+		"Altay Republits": {
+			"local_code": "Республика Алтай",
+			"iso_code": "RU-AL",
+			"postal_code_pattern": "649"
+		},
+		"Bashkortostan Republits": {
+			"local_code": "Республика Башкортостан",
+			"iso_code": "RU-BA",
+			"postal_code_pattern": "45[0-3]"
+		},
+		"Buryatiya Republits": {
+			"local_code": "Республика Бурятия",
+			"iso_code": "RU-BU",
+			"postal_code_pattern": "67[01]"
+		},
+		"Dagestan Republits": {
+			"local_code": "Республика Дагестан",
+			"iso_code": "RU-DA",
+			"postal_code_pattern": "36[78]"
+		},
+		"Ingushetiya Republits": {
+			"local_code": "Республика Ингушетия",
+			"iso_code": "RU-IN",
+			"postal_code_pattern": "386"
+		},
+		"Respublika Kalmykiya": {
+			"local_code": "Республика Калмыкия",
+			"iso_code": "RU-KL",
+			"postal_code_pattern": "35[89]"
+		},
+		"Kareliya Republits": {
+			"local_code": "Республика Карелия",
+			"iso_code": "RU-KR",
+			"postal_code_pattern": "18[56]"
+		},
+		"Komi Republits": {
+			"local_code": "Республика Коми",
+			"iso_code": "RU-KO",
+			"postal_code_pattern": "16[7-9]"
+		},
+		"Respublika Krym": {
+			"local_code": "Автономна Республіка Крим",
+			"local_name": "Республика Крым",
+			"postal_code_pattern": "29[5-8]"
+		},
+		"Respublika Mariy El": {
+			"local_code": "Республика Марий Эл",
+			"iso_code": "RU-ME",
+			"postal_code_pattern": "42[45]"
+		},
+		"Respublika Mordoviya": {
+			"local_code": "Республика Мордовия",
+			"iso_code": "RU-MO",
+			"postal_code_pattern": "43[01]"
+		},
+		"Sakha (Yakutiya) Republits": {
+			"local_code": "Республика Саха (Якутия)",
+			"iso_code": "RU-SA",
+			"postal_code_pattern": "67[78]"
+		},
+		"Respublika Severnaya Osetiya-Alaniya": {
+			"local_code": "Республика Северная Осетия-Алания",
+			"iso_code": "RU-SE",
+			"postal_code_pattern": "36[23]"
+		},
+		"Respublika Tatarstan": {
+			"local_code": "Республика Татарстан",
+			"iso_code": "RU-TA",
+			"postal_code_pattern": "42[0-3]"
+		},
+		"Tyva Republits": {
+			"local_code": "Республика Тыва",
+			"iso_code": "RU-TY",
+			"postal_code_pattern": "66[78]"
+		},
+		"Respublika Udmurtiya": {
+			"local_code": "Республика Удмуртия",
+			"iso_code": "RU-UD",
+			"postal_code_pattern": "42[67]"
+		},
+		"Khakasiya Republits": {
+			"local_code": "Республика Хакасия",
+			"iso_code": "RU-KK",
+			"postal_code_pattern": "655"
+		},
+		"Rostovskaya oblast'": {
+			"local_code": "Ростовская область",
+			"iso_code": "RU-ROS",
+			"postal_code_pattern": "34[4-7]"
+		},
+		"Ryazanskaya oblast'": {
+			"local_code": "Рязанская область",
+			"iso_code": "RU-RYA",
+			"postal_code_pattern": "39[01]"
+		},
+		"Samarskaya oblast'": {
+			"local_code": "Самарская область",
+			"iso_code": "RU-SAM",
+			"postal_code_pattern": "44[3-6]"
+		},
+		"gorod Sankt-Peterburg": {
+			"local_code": "город Санкт-Петербург",
+			"local_name": "Санкт-Петербург",
+			"iso_code": "RU-SPE",
+			"postal_code_pattern": "19"
+		},
+		"Saratovskaya oblast'": {
+			"local_code": "Саратовская область",
+			"iso_code": "RU-SAR",
+			"postal_code_pattern": "41[0-3]"
+		},
+		"Sakhalinskaya oblast'": {
+			"local_code": "Сахалинская область",
+			"iso_code": "RU-SAK",
+			"postal_code_pattern": "69[34]"
+		},
+		"Sverdlovskaya oblast'": {
+			"local_code": "Свердловская область",
+			"iso_code": "RU-SVE",
+			"postal_code_pattern": "62[0-4]"
+		},
+		"gorod Sevastopol'": {
+			"local_code": "город Севастополь",
+			"local_name": "Севастополь",
+			"postal_code_pattern": "299"
+		},
+		"Smolenskaya oblast'": {
+			"local_code": "Смоленская область",
+			"iso_code": "RU-SMO",
+			"postal_code_pattern": "21[4-6]"
+		},
+		"Stavropolskiy kray": {
+			"local_code": "Ставропольский край",
+			"iso_code": "RU-STA",
+			"postal_code_pattern": "35[5-7]"
+		},
+		"Tambovskaya oblast'": {
+			"local_code": "Тамбовская область",
+			"iso_code": "RU-TAM",
+			"postal_code_pattern": "39[23]"
+		},
+		"Tverskaya oblast'": {
+			"local_code": "Тверская область",
+			"iso_code": "RU-TVE",
+			"postal_code_pattern": "17[0-2]"
+		},
+		"Tomskaya oblast'": {
+			"local_code": "Томская область",
+			"iso_code": "RU-TOM",
+			"postal_code_pattern": "63[4-6]"
+		},
+		"Tulskaya oblast'": {
+			"local_code": "Тульская область",
+			"iso_code": "RU-TUL",
+			"postal_code_pattern": "30[01]"
+		},
+		"Tyumenskaya oblast'": {
+			"local_code": "Тюменская область",
+			"iso_code": "RU-TYU",
+			"postal_code_pattern": "62[57]"
+		},
+		"Ulyanovskaya oblast'": {
+			"local_code": "Ульяновская область",
+			"iso_code": "RU-ULY",
+			"postal_code_pattern": "43[23]"
+		},
+		"Khabarovskiy kray": {
+			"local_code": "Хабаровский край",
+			"iso_code": "RU-KHA",
+			"postal_code_pattern": "68[0-2]"
+		},
+		"Khanty-Mansiyskiy avtonomnyy okrug": {
+			"local_code": "Ханты-Мансийский автономный округ",
+			"iso_code": "RU-KHM",
+			"postal_code_pattern": "628"
+		},
+		"Chelyabinskaya oblast'": {
+			"local_code": "Челябинская область",
+			"iso_code": "RU-CHE",
+			"postal_code_pattern": "45[4-7]"
+		},
+		"Chechenskaya Republits": {
+			"local_code": "Чеченская Республика",
+			"iso_code": "RU-CE",
+			"postal_code_pattern": "36[4-6]"
+		},
+		"Chuvashia": {
+			"local_code": "Чувашская Республика",
+			"iso_code": "RU-CU",
+			"postal_code_pattern": "42[89]"
+		},
+		"Chukotskiy": {
+			"local_code": "Чукотский автономный округ",
+			"iso_code": "RU-CHU",
+			"postal_code_pattern": "689"
+		},
+		"Yamalo-Nenetskiy": {
+			"local_code": "Ямало-Ненецкий автономный округ",
+			"iso_code": "RU-YAN",
+			"postal_code_pattern": "629"
+		},
+		"Yaroslavskaya oblast'": {
+			"local_code": "Ярославская область",
+			"iso_code": "RU-YAR",
+			"postal_code_pattern": "15[0-2]"
 		}
 	}
 }

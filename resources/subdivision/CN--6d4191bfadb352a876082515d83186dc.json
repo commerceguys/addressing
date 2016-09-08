@@ -1,0 +1,38 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Zhejiang Sheng",
+		"Taizhou Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Huangyan Qu": {
+			"local_code": "黄岩区"
+		},
+		"Jiaojiang Qu": {
+			"local_code": "椒江区"
+		},
+		"Linhai Shi": {
+			"local_code": "临海市"
+		},
+		"Luqiao Qu": {
+			"local_code": "路桥区"
+		},
+		"Sanmen Xian": {
+			"local_code": "三门县"
+		},
+		"Tiantai Xian": {
+			"local_code": "天台县"
+		},
+		"Wenling Shi": {
+			"local_code": "温岭市"
+		},
+		"Xianju Xian": {
+			"local_code": "仙居县"
+		},
+		"Yuhuan Xian": {
+			"local_code": "玉环县"
+		}
+	}
+}

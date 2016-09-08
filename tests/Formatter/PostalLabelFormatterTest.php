@@ -92,7 +92,7 @@ class PostalLabelFormatterTest extends \PHPUnit_Framework_TestCase
         $address = new Address();
         $address = $address
             ->withCountryCode('US')
-            ->withAdministrativeArea('US-CA')
+            ->withAdministrativeArea('CA')
             ->withLocality('Mt View')
             ->withPostalCode('94043')
             ->withAddressLine1('1098 Alta Ave');
@@ -126,7 +126,7 @@ class PostalLabelFormatterTest extends \PHPUnit_Framework_TestCase
         $address = new Address();
         $address = $address
             ->withCountryCode('JP')
-            ->withAdministrativeArea('JP-01')
+            ->withAdministrativeArea('Hokkaido')
             ->withLocality('Some City')
             ->withAddressLine1('Address Line 1')
             ->withAddressLine2('Address Line 2')

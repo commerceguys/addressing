@@ -1,0 +1,58 @@
+{
+	"country_code": "TW",
+	"parents": [
+		"TW",
+		"Yilan County"
+	],
+	"locale": "zh-Hant",
+	"subdivisions": {
+		"Sanxing Township": {
+			"local_code": "三星鄉",
+			"postal_code_pattern": "266"
+		},
+		"Datong Township": {
+			"local_code": "大同鄉",
+			"postal_code_pattern": "267"
+		},
+		"Wujie Township": {
+			"local_code": "五結鄉",
+			"postal_code_pattern": "268"
+		},
+		"Dongshan Township": {
+			"local_code": "冬山鄉",
+			"postal_code_pattern": "269"
+		},
+		"Zhuangwei Township": {
+			"local_code": "壯圍鄉",
+			"postal_code_pattern": "263"
+		},
+		"Yilan City": {
+			"local_code": "宜蘭市",
+			"postal_code_pattern": "260"
+		},
+		"Nan'ao Township": {
+			"local_code": "南澳鄉",
+			"postal_code_pattern": "272"
+		},
+		"Yuanshan Township": {
+			"local_code": "員山鄉",
+			"postal_code_pattern": "264"
+		},
+		"Toucheng Township": {
+			"local_code": "頭城鎮",
+			"postal_code_pattern": "261"
+		},
+		"Jiaoxi Township": {
+			"local_code": "礁溪鄉",
+			"postal_code_pattern": "262"
+		},
+		"Luodong Township": {
+			"local_code": "羅東鎮",
+			"postal_code_pattern": "265"
+		},
+		"Su'ao Township": {
+			"local_code": "蘇澳鎮",
+			"postal_code_pattern": "270"
+		}
+	}
+}

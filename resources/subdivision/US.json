@@ -1,315 +1,251 @@
 {
 	"country_code": "US",
-	"parent_id": null,
-	"locale": "en",
 	"subdivisions": {
-		"US-AL": {
-			"code": "AL",
+		"AL": {
 			"name": "Alabama",
 			"postal_code_pattern": "3[56]"
 		},
-		"US-AK": {
-			"code": "AK",
+		"AK": {
 			"name": "Alaska",
 			"postal_code_pattern": "99[5-9]"
 		},
-		"US-AS": {
-			"code": "AS",
+		"AS": {
 			"name": "American Samoa",
 			"postal_code_pattern": "96799"
 		},
-		"US-AZ": {
-			"code": "AZ",
+		"AZ": {
 			"name": "Arizona",
 			"postal_code_pattern": "8[56]"
 		},
-		"US-AR": {
-			"code": "AR",
+		"AR": {
 			"name": "Arkansas",
 			"postal_code_pattern": "71[6-9]|72"
 		},
-		"US-AA": {
-			"code": "AA",
+		"AA": {
 			"name": "Armed Forces (AA)",
 			"postal_code_pattern": "340"
 		},
-		"US-AE": {
-			"code": "AE",
+		"AE": {
 			"name": "Armed Forces (AE)",
 			"postal_code_pattern": "09"
 		},
-		"US-AP": {
-			"code": "AP",
+		"AP": {
 			"name": "Armed Forces (AP)",
 			"postal_code_pattern": "96[2-6]"
 		},
-		"US-CA": {
-			"code": "CA",
+		"CA": {
 			"name": "California",
 			"postal_code_pattern": "9[0-5]|96[01]"
 		},
-		"US-CO": {
-			"code": "CO",
+		"CO": {
 			"name": "Colorado",
 			"postal_code_pattern": "8[01]"
 		},
-		"US-CT": {
-			"code": "CT",
+		"CT": {
 			"name": "Connecticut",
 			"postal_code_pattern": "06"
 		},
-		"US-DE": {
-			"code": "DE",
+		"DE": {
 			"name": "Delaware",
 			"postal_code_pattern": "19[7-9]"
 		},
-		"US-DC": {
-			"code": "DC",
+		"DC": {
 			"name": "District of Columbia",
 			"postal_code_pattern": "20[02-5]|569"
 		},
-		"US-FL": {
-			"code": "FL",
+		"FL": {
 			"name": "Florida",
 			"postal_code_pattern": "3[23]|34[1-9]"
 		},
-		"US-GA": {
-			"code": "GA",
+		"GA": {
 			"name": "Georgia",
 			"postal_code_pattern": "3[01]|398|39901"
 		},
-		"US-GU": {
-			"code": "GU",
+		"GU": {
 			"name": "Guam",
 			"postal_code_pattern": "969([1-2]\\d|3[12])"
 		},
-		"US-HI": {
-			"code": "HI",
+		"HI": {
 			"name": "Hawaii",
 			"postal_code_pattern": "967[0-8]|9679[0-8]|968"
 		},
-		"US-ID": {
-			"code": "ID",
+		"ID": {
 			"name": "Idaho",
 			"postal_code_pattern": "83[2-9]"
 		},
-		"US-IL": {
-			"code": "IL",
+		"IL": {
 			"name": "Illinois",
 			"postal_code_pattern": "6[0-2]"
 		},
-		"US-IN": {
-			"code": "IN",
+		"IN": {
 			"name": "Indiana",
 			"postal_code_pattern": "4[67]"
 		},
-		"US-IA": {
-			"code": "IA",
+		"IA": {
 			"name": "Iowa",
 			"postal_code_pattern": "5[0-2]"
 		},
-		"US-KS": {
-			"code": "KS",
+		"KS": {
 			"name": "Kansas",
 			"postal_code_pattern": "6[67]"
 		},
-		"US-KY": {
-			"code": "KY",
+		"KY": {
 			"name": "Kentucky",
 			"postal_code_pattern": "4[01]|42[0-7]"
 		},
-		"US-LA": {
-			"code": "LA",
+		"LA": {
 			"name": "Louisiana",
 			"postal_code_pattern": "70|71[0-5]"
 		},
-		"US-ME": {
-			"code": "ME",
+		"ME": {
 			"name": "Maine",
 			"postal_code_pattern": "039|04"
 		},
-		"US-MH": {
-			"code": "MH",
+		"MH": {
 			"name": "Marshall Islands",
 			"postal_code_pattern": "969[67]"
 		},
-		"US-MD": {
-			"code": "MD",
+		"MD": {
 			"name": "Maryland",
 			"postal_code_pattern": "20[6-9]|21"
 		},
-		"US-MA": {
-			"code": "MA",
+		"MA": {
 			"name": "Massachusetts",
 			"postal_code_pattern": "01|02[0-7]|05501|05544"
 		},
-		"US-MI": {
-			"code": "MI",
+		"MI": {
 			"name": "Michigan",
 			"postal_code_pattern": "4[89]"
 		},
-		"US-FM": {
-			"code": "FM",
+		"FM": {
 			"name": "Micronesia",
 			"postal_code_pattern": "9694[1-4]"
 		},
-		"US-MN": {
-			"code": "MN",
+		"MN": {
 			"name": "Minnesota",
 			"postal_code_pattern": "55|56[0-7]"
 		},
-		"US-MS": {
-			"code": "MS",
+		"MS": {
 			"name": "Mississippi",
 			"postal_code_pattern": "38[6-9]|39[0-7]"
 		},
-		"US-MO": {
-			"code": "MO",
+		"MO": {
 			"name": "Missouri",
 			"postal_code_pattern": "6[3-5]"
 		},
-		"US-MT": {
-			"code": "MT",
+		"MT": {
 			"name": "Montana",
 			"postal_code_pattern": "59"
 		},
-		"US-NE": {
-			"code": "NE",
+		"NE": {
 			"name": "Nebraska",
 			"postal_code_pattern": "6[89]"
 		},
-		"US-NV": {
-			"code": "NV",
+		"NV": {
 			"name": "Nevada",
 			"postal_code_pattern": "889|89"
 		},
-		"US-NH": {
-			"code": "NH",
+		"NH": {
 			"name": "New Hampshire",
 			"postal_code_pattern": "03[0-8]"
 		},
-		"US-NJ": {
-			"code": "NJ",
+		"NJ": {
 			"name": "New Jersey",
 			"postal_code_pattern": "0[78]"
 		},
-		"US-NM": {
-			"code": "NM",
+		"NM": {
 			"name": "New Mexico",
 			"postal_code_pattern": "87|88[0-4]"
 		},
-		"US-NY": {
-			"code": "NY",
+		"NY": {
 			"name": "New York",
 			"postal_code_pattern": "1[0-4]|06390|00501|00544"
 		},
-		"US-NC": {
-			"code": "NC",
+		"NC": {
 			"name": "North Carolina",
 			"postal_code_pattern": "2[78]"
 		},
-		"US-ND": {
-			"code": "ND",
+		"ND": {
 			"name": "North Dakota",
 			"postal_code_pattern": "58"
 		},
-		"US-MP": {
-			"code": "MP",
+		"MP": {
 			"name": "Northern Mariana Islands",
 			"postal_code_pattern": "9695[0-2]"
 		},
-		"US-OH": {
-			"code": "OH",
+		"OH": {
 			"name": "Ohio",
 			"postal_code_pattern": "4[3-5]"
 		},
-		"US-OK": {
-			"code": "OK",
+		"OK": {
 			"name": "Oklahoma",
 			"postal_code_pattern": "7[34]"
 		},
-		"US-OR": {
-			"code": "OR",
+		"OR": {
 			"name": "Oregon",
 			"postal_code_pattern": "97"
 		},
-		"US-PW": {
-			"code": "PW",
+		"PW": {
 			"name": "Palau",
 			"postal_code_pattern": "969(39|40)"
 		},
-		"US-PA": {
-			"code": "PA",
+		"PA": {
 			"name": "Pennsylvania",
 			"postal_code_pattern": "1[5-8]|19[0-6]"
 		},
-		"US-PR": {
-			"code": "PR",
+		"PR": {
 			"name": "Puerto Rico",
 			"postal_code_pattern": "00[679]"
 		},
-		"US-RI": {
-			"code": "RI",
+		"RI": {
 			"name": "Rhode Island",
 			"postal_code_pattern": "02[89]"
 		},
-		"US-SC": {
-			"code": "SC",
+		"SC": {
 			"name": "South Carolina",
 			"postal_code_pattern": "29"
 		},
-		"US-SD": {
-			"code": "SD",
+		"SD": {
 			"name": "South Dakota",
 			"postal_code_pattern": "57"
 		},
-		"US-TN": {
-			"code": "TN",
+		"TN": {
 			"name": "Tennessee",
 			"postal_code_pattern": "37|38[0-5]"
 		},
-		"US-TX": {
-			"code": "TX",
+		"TX": {
 			"name": "Texas",
 			"postal_code_pattern": "7[5-9]|885|73301|73344"
 		},
-		"US-UT": {
-			"code": "UT",
+		"UT": {
 			"name": "Utah",
 			"postal_code_pattern": "84"
 		},
-		"US-VT": {
-			"code": "VT",
+		"VT": {
 			"name": "Vermont",
 			"postal_code_pattern": "05"
 		},
-		"US-VI": {
-			"code": "VI",
+		"VI": {
 			"name": "Virgin Islands",
 			"postal_code_pattern": "008"
 		},
-		"US-VA": {
-			"code": "VA",
+		"VA": {
 			"name": "Virginia",
 			"postal_code_pattern": "201|2[23]|24[0-6]"
 		},
-		"US-WA": {
-			"code": "WA",
+		"WA": {
 			"name": "Washington",
 			"postal_code_pattern": "98|99[0-4]"
 		},
-		"US-WV": {
-			"code": "WV",
+		"WV": {
 			"name": "West Virginia",
 			"postal_code_pattern": "24[7-9]|2[56]"
 		},
-		"US-WI": {
-			"code": "WI",
+		"WI": {
 			"name": "Wisconsin",
 			"postal_code_pattern": "5[34]"
 		},
-		"US-WY": {
-			"code": "WY",
+		"WY": {
 			"name": "Wyoming",
 			"postal_code_pattern": "82|83[01]|83414"
 		}

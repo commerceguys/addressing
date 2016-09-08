@@ -1,0 +1,21 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Yunnan Sheng",
+		"Dêqên Zhou"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Dêqên Xian": {
+			"local_code": "德钦县"
+		},
+		"Weixi Xian": {
+			"local_code": "维西傈僳族自治县",
+			"local_name": "维西县"
+		},
+		"Shangêlila Xian": {
+			"local_code": "香格里拉县"
+		}
+	}
+}

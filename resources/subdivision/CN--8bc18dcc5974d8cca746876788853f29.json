@@ -1,0 +1,63 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Taiwan",
+		"Taoyuan City"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Bade District": {
+			"local_code": "八德區",
+			"postal_code_pattern": "334"
+		},
+		"Daxi District": {
+			"local_code": "大溪區",
+			"postal_code_pattern": "335"
+		},
+		"Dayuan District": {
+			"local_code": "大園區",
+			"postal_code_pattern": "337"
+		},
+		"Fuxing District": {
+			"local_code": "復興區",
+			"postal_code_pattern": "336"
+		},
+		"Guanyin District": {
+			"local_code": "觀音區",
+			"postal_code_pattern": "328"
+		},
+		"Guishan District": {
+			"local_code": "龜山區",
+			"postal_code_pattern": "333"
+		},
+		"Longtan District": {
+			"local_code": "龍潭區",
+			"postal_code_pattern": "325"
+		},
+		"Luzhu District": {
+			"local_code": "蘆竹區",
+			"postal_code_pattern": "338"
+		},
+		"Pingzhen District": {
+			"local_code": "平鎮區",
+			"postal_code_pattern": "324"
+		},
+		"Taoyuan District": {
+			"local_code": "桃園區",
+			"postal_code_pattern": "330"
+		},
+		"Xinwu District": {
+			"local_code": "新屋區",
+			"postal_code_pattern": "327"
+		},
+		"Yangmei District": {
+			"local_code": "楊梅區",
+			"postal_code_pattern": "326"
+		},
+		"Zhongli District": {
+			"local_code": "中壢區",
+			"postal_code_pattern": "320"
+		}
+	}
+}

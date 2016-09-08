@@ -1,0 +1,23 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Sichuan Sheng",
+		"Bazhong Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Bazhou Qu": {
+			"local_code": "巴州区"
+		},
+		"Nanjiang Xian": {
+			"local_code": "南江县"
+		},
+		"Pingchang Xian": {
+			"local_code": "平昌县"
+		},
+		"Tongjiang Xian": {
+			"local_code": "通江县"
+		}
+	}
+}

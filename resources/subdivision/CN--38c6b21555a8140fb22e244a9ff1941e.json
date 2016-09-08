@@ -1,0 +1,50 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Fujian Sheng",
+		"Fuzhou Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Cangshan Qu": {
+			"local_code": "仓山区"
+		},
+		"Fuqing Shi": {
+			"local_code": "福清市"
+		},
+		"Gulou Qu": {
+			"local_code": "鼓楼区"
+		},
+		"Jin'an Qu": {
+			"local_code": "晋安区"
+		},
+		"Lianjiang Xian": {
+			"local_code": "连江县"
+		},
+		"Luoyuan Xian": {
+			"local_code": "罗源县"
+		},
+		"Mawei Qu": {
+			"local_code": "马尾区"
+		},
+		"Minhou Xian": {
+			"local_code": "闽侯县"
+		},
+		"Minqing Xian": {
+			"local_code": "闽清县"
+		},
+		"Pingtan Xian": {
+			"local_code": "平潭县"
+		},
+		"Taijiang Qu": {
+			"local_code": "台江区"
+		},
+		"Yongtai Xian": {
+			"local_code": "永泰县"
+		},
+		"Changle Shi": {
+			"local_code": "长乐市"
+		}
+	}
+}

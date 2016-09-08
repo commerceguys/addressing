@@ -1,0 +1,42 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Xinjiang Weiwuerzizhiqu",
+		"Ili Zhou"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Qapqal Xian": {
+			"local_code": "察布查尔锡伯自治县",
+			"local_name": "察布查尔县"
+		},
+		"Gongliu Xian": {
+			"local_code": "巩留县"
+		},
+		"Huocheng Xian": {
+			"local_code": "霍城县"
+		},
+		"Kuytun Shi": {
+			"local_code": "奎屯市"
+		},
+		"Nilka Xian": {
+			"local_code": "尼勒克县"
+		},
+		"Tekes Xian": {
+			"local_code": "特克斯县"
+		},
+		"Xinyuan Xian": {
+			"local_code": "新源县"
+		},
+		"Yining Shi": {
+			"local_code": "伊宁市"
+		},
+		"Yining Xian": {
+			"local_code": "伊宁县"
+		},
+		"Zhaosu Xian": {
+			"local_code": "昭苏县"
+		}
+	}
+}

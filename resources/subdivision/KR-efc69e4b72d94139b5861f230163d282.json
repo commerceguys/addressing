@@ -1,0 +1,42 @@
+{
+	"country_code": "KR",
+	"parents": [
+		"KR",
+		"Daegu"
+	],
+	"locale": "ko",
+	"subdivisions": {
+		"Nam-gu": {
+			"local_code": "남구",
+			"postal_code_pattern": "42[45]|705"
+		},
+		"Dalseo-gu": {
+			"local_code": "달서구",
+			"postal_code_pattern": "42[678]|704"
+		},
+		"Dalseong-gun": {
+			"local_code": "달성군",
+			"postal_code_pattern": "4(?:29|30)|711"
+		},
+		"Dong-gu": {
+			"local_code": "동구",
+			"postal_code_pattern": "41[0-2]|701"
+		},
+		"Buk-gu": {
+			"local_code": "북구",
+			"postal_code_pattern": "41[45]|702"
+		},
+		"Seo-gu": {
+			"local_code": "서구",
+			"postal_code_pattern": "41[78]|703"
+		},
+		"Suseong-gu": {
+			"local_code": "수성구",
+			"postal_code_pattern": "42[0-2]|706"
+		},
+		"Jung-gu": {
+			"local_code": "중구",
+			"postal_code_pattern": "419|700"
+		}
+	}
+}

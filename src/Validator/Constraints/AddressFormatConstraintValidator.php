@@ -103,38 +103,31 @@ class AddressFormatConstraintValidator extends ConstraintValidator
     protected function validateSubdivisions($values, AddressFormat $addressFormat, $constraint)
     {
         $countryCode = $addressFormat->getCountryCode();
+        if ($this->subdivisionRepository->getDepth($countryCode) < 1) {
+            // No predefined subdivisions exist, nothing to validate against.
+            return [];
+        }
+
         $subdivisionFields = $addressFormat->getUsedSubdivisionFields();
-        $foundIds = [];
+        $parents = [];
+        $subdivisions = [];
         foreach ($subdivisionFields as $index => $field) {
             if (empty($values[$field]) || !in_array($field, $constraint->fields)) {
                 // The field is empty or validation is disabled.
                 break;
             }
-            $parentField = $index ? $subdivisionFields[$index - 1] : null;
-            $parentId = $parentField ? $values[$parentField] : null;
-            $children = $this->subdivisionRepository->getList($countryCode, $parentId);
-            if (!$children) {
-                // No predefined subdivisions found.
+            $parents[] = $index ? $values[$subdivisionFields[$index - 1]] : $countryCode;
+            $subdivision = $this->subdivisionRepository->get($values[$field], $parents);
+            if (!$subdivision) {
+                $this->addViolation($field, $constraint->invalidMessage, $values[$field], $addressFormat);
                 break;
             }
 
-            $found = false;
-            $value = $values[$field];
-            if (isset($children[$value])) {
-                $found = true;
-                $foundIds[] = $value;
-            }
-
-            if (!$found) {
-                $this->addViolation($field, $constraint->invalidMessage, $value, $addressFormat);
+            $subdivisions[] = $subdivision;
+            if (!$subdivision->hasChildren()) {
+                // No predefined subdivisions below this level, stop here.
                 break;
             }
-        }
-
-        // Load the found subdivision ids.
-        $subdivisions = [];
-        foreach ($foundIds as $id) {
-            $subdivisions[] = $this->subdivisionRepository->get($id);
         }
 
         return $subdivisions;

@@ -1,0 +1,23 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Xinjiang Weiwuerzizhiqu",
+		"Kizilsu Zhou"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Akqi Xian": {
+			"local_code": "阿合奇县"
+		},
+		"Akto Xian": {
+			"local_code": "阿克陶县"
+		},
+		"Artux Shi": {
+			"local_code": "阿图什市"
+		},
+		"Wuqia Xian": {
+			"local_code": "乌恰县"
+		}
+	}
+}

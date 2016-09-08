@@ -18,42 +18,37 @@ class SubdivisionRepositoryTest extends \PHPUnit_Framework_TestCase
     protected $subdivisions = [
         'BR' => [
             'country_code' => 'BR',
-            'parent_id' => null,
             'locale' => 'pt',
             'subdivisions' => [
-                'BR-SC' => [
-                    'code' => 'SC',
+                'SC' => [
                     'name' => 'Santa Catarina',
+                    'iso_code' => 'BR-SC',
                     'postal_code_pattern' => '8[89]',
                     'postal_code_pattern_type' => 'full',
                     'has_children' => true,
                 ],
-                'BR-SP' => [
-                    'code' => 'SP',
+                'SP' => [
                     'name' => 'São Paulo',
+                    'iso_code' => 'BR-SP',
                     'postal_code_pattern' => '[01][1-9]',
                     'has_children' => true,
                 ],
             ],
         ],
-        'BR-SC' => [
+        'BR-249a39f10ac434b1fcd4d51516266b8e' => [
             'country_code' => 'BR',
-            'parent_id' => 'BR-SC',
+            'parents' => ['BR', 'SC'],
             'locale' => 'pt',
             'subdivisions' => [
-                'BR-SC-9c7753' => [
-                    'name' => 'Abelardo Luz',
-                ],
+                'Abelardo Luz' => [],
             ],
         ],
-        'BR-SP' => [
-            'locale' => 'pt',
+        'BR-8ef7a36db3f5d47d46566f851be5f610' => [
             'country_code' => 'BR',
-            'parent_id' => 'BR-SP',
+            'parents' => ['BR', 'SP'],
+            'locale' => 'pt',
             'subdivisions' => [
-                'BR-SP-8e3f19' => [
-                    'name' => 'Anhumas',
-                ],
+                'Anhumas' => [],
             ]
         ],
     ];
@@ -106,100 +101,110 @@ class SubdivisionRepositoryTest extends \PHPUnit_Framework_TestCase
 
     /**
      * @covers ::get
-     * @covers ::loadDefinitions
      * @covers ::hasData
+     * @covers ::loadDefinitions
+     * @covers ::processDefinitions
+     * @covers ::buildGroup
      * @covers ::createSubdivisionFromDefinitions
      *
      * @depends testConstructor
      */
     public function testGet($subdivisionRepository)
     {
-        $subdivision = $subdivisionRepository->get('BR-SC');
-        $subdivisionChild = $subdivisionRepository->get('BR-SC-9c7753');
+        $subdivision = $subdivisionRepository->get('SC', ['BR']);
+        $subdivisionChild = $subdivisionRepository->get('Abelardo Luz', ['BR', 'SC']);
 
         $this->assertInstanceOf('CommerceGuys\Addressing\Model\Subdivision', $subdivision);
         $this->assertEquals(null, $subdivision->getParent());
         $this->assertEquals('BR', $subdivision->getCountryCode());
-        $this->assertEquals('BR-SC', $subdivision->getId());
+        $this->assertEquals('pt', $subdivision->getLocale());
         $this->assertEquals('SC', $subdivision->getCode());
         $this->assertEquals('Santa Catarina', $subdivision->getName());
+        $this->assertEquals('BR-SC', $subdivision->getIsoCode());
         $this->assertEquals('8[89]', $subdivision->getPostalCodePattern());
         $this->assertEquals('full', $subdivision->getPostalCodePatternType());
-        $this->assertEquals('pt', $subdivision->getLocale());
+
         $children = $subdivision->getChildren();
-        $this->assertEquals($subdivisionChild, $children['BR-SC-9c7753']);
+        $this->assertEquals($subdivisionChild, $children['Abelardo Luz']);
 
         $this->assertInstanceOf('CommerceGuys\Addressing\Model\Subdivision', $subdivisionChild);
-        $this->assertEquals('BR-SC-9c7753', $subdivisionChild->getId());
         $this->assertEquals('Abelardo Luz', $subdivisionChild->getCode());
         // $subdivision contains the loaded children while $parent doesn't,
         // so they can't be compared directly.
         $parent = $subdivisionChild->getParent();
         $this->assertInstanceOf('CommerceGuys\Addressing\Model\Subdivision', $parent);
-        $this->assertEquals($subdivision->getId(), $parent->getId());
+        $this->assertEquals($subdivision->getCode(), $parent->getCode());
     }
 
     /**
      * @covers ::get
-     * @covers ::loadDefinitions
      * @covers ::hasData
+     * @covers ::loadDefinitions
+     * @covers ::processDefinitions
+     * @covers ::buildGroup
      * @covers ::createSubdivisionFromDefinitions
      *
      * @depends testConstructor
      */
     public function testGetInvalidSubdivision($subdivisionRepository)
     {
-        $invalidIds = ['FAKE', 'ES-A', 'BR-SC-FAKE', 'BR-FK-FAKE'];
-        foreach ($invalidIds as $invalidId) {
-            $subdivision = $subdivisionRepository->get($invalidId);
-            $this->assertNull($subdivision);
-        }
+        // Invalid id.
+        $subdivision = $subdivisionRepository->get('FAKE', ['BR']);
+        $this->assertNull($subdivision);
+
+        // Invalid group.
+        $subdivision = $subdivisionRepository->get('SC', ['FAKE']);
+        $this->assertNull($subdivision);
     }
 
     /**
      * @covers ::getAll
-     * @covers ::loadDefinitions
      * @covers ::hasData
+     * @covers ::loadDefinitions
+     * @covers ::processDefinitions
+     * @covers ::buildGroup
      * @covers ::createSubdivisionFromDefinitions
      *
      * @depends testConstructor
      */
     public function testGetAll($subdivisionRepository)
     {
-        $subdivisions = $subdivisionRepository->getAll('RS');
+        $subdivisions = $subdivisionRepository->getAll(['RS']);
         $this->assertEquals([], $subdivisions);
 
-        $subdivisions = $subdivisionRepository->getAll('BR');
+        $subdivisions = $subdivisionRepository->getAll(['BR']);
         $this->assertCount(2, $subdivisions);
-        $this->assertArrayHasKey('BR-SC', $subdivisions);
-        $this->assertArrayHasKey('BR-SP', $subdivisions);
-        $this->assertEquals($subdivisions['BR-SC']->getId(), 'BR-SC');
-        $this->assertEquals($subdivisions['BR-SP']->getId(), 'BR-SP');
+        $this->assertArrayHasKey('SC', $subdivisions);
+        $this->assertArrayHasKey('SP', $subdivisions);
+        $this->assertEquals($subdivisions['SC']->getCode(), 'SC');
+        $this->assertEquals($subdivisions['SP']->getCode(), 'SP');
 
-        $subdivisions = $subdivisionRepository->getAll('BR', 'BR-SC');
+        $subdivisions = $subdivisionRepository->getAll(['BR', 'SC']);
         $this->assertCount(1, $subdivisions);
-        $this->assertArrayHasKey('BR-SC-9c7753', $subdivisions);
-        $this->assertEquals($subdivisions['BR-SC-9c7753']->getId(), 'BR-SC-9c7753');
+        $this->assertArrayHasKey('Abelardo Luz', $subdivisions);
+        $this->assertEquals($subdivisions['Abelardo Luz']->getCode(), 'Abelardo Luz');
     }
 
     /**
      * @covers ::getList
-     * @covers ::loadDefinitions
      * @covers ::hasData
+     * @covers ::loadDefinitions
+     * @covers ::processDefinitions
+     * @covers ::buildGroup
      *
      * @depends testConstructor
      */
     public function testGetList($subdivisionRepository)
     {
-        $list = $subdivisionRepository->getList('RS');
+        $list = $subdivisionRepository->getList(['RS']);
         $this->assertEquals([], $list);
 
-        $list = $subdivisionRepository->getList('BR');
-        $expectedList = ['BR-SC' => 'Santa Catarina', 'BR-SP' => 'São Paulo'];
+        $list = $subdivisionRepository->getList(['BR']);
+        $expectedList = ['SC' => 'Santa Catarina', 'SP' => 'São Paulo'];
         $this->assertEquals($expectedList, $list);
 
-        $list = $subdivisionRepository->getList('BR', 'BR-SC');
-        $expectedList = ['BR-SC-9c7753' => 'Abelardo Luz'];
+        $list = $subdivisionRepository->getList(['BR', 'SC']);
+        $expectedList = ['Abelardo Luz' => 'Abelardo Luz'];
         $this->assertEquals($expectedList, $list);
     }
 }

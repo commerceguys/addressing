@@ -1,0 +1,44 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Shanxi Sheng",
+		"Jinzhong Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Heshun Xian": {
+			"local_code": "和顺县"
+		},
+		"Jiexiu Shi": {
+			"local_code": "介休市"
+		},
+		"Lingshi Xian": {
+			"local_code": "灵石县"
+		},
+		"Pingyao Xian": {
+			"local_code": "平遥县"
+		},
+		"Qi Xian": {
+			"local_code": "祁县"
+		},
+		"Shouyang Xian": {
+			"local_code": "寿阳县"
+		},
+		"Taigu Xian": {
+			"local_code": "太谷县"
+		},
+		"Xiyang Xian": {
+			"local_code": "昔阳县"
+		},
+		"Yuci Qu": {
+			"local_code": "榆次区"
+		},
+		"Yushe Xian": {
+			"local_code": "榆社县"
+		},
+		"Zuoquan Xian": {
+			"local_code": "左权县"
+		}
+	}
+}

@@ -1,0 +1,44 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"Shaanxi Sheng",
+		"Hanzhong Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Chenggu Xian": {
+			"local_code": "城固县"
+		},
+		"Foping Xian": {
+			"local_code": "佛坪县"
+		},
+		"Hantai Qu": {
+			"local_code": "汉台区"
+		},
+		"Liuba Xian": {
+			"local_code": "留坝县"
+		},
+		"Lüeyang Xian": {
+			"local_code": "略阳县"
+		},
+		"Mian Xian": {
+			"local_code": "勉县"
+		},
+		"Nanzheng Xian": {
+			"local_code": "南郑县"
+		},
+		"Ningqiang Xian": {
+			"local_code": "宁强县"
+		},
+		"Xixiang Xian": {
+			"local_code": "西乡县"
+		},
+		"Yang Xian": {
+			"local_code": "洋县"
+		},
+		"Zhenba Xian": {
+			"local_code": "镇巴县"
+		}
+	}
+}
