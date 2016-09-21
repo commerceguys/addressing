@@ -11,6 +11,10 @@ include '../vendor/autoload.php';
 include '../resources/library_customizations.php';
 
 use CommerceGuys\Addressing\Enum\AddressField;
+use CommerceGuys\Addressing\Enum\AdministrativeAreaType;
+use CommerceGuys\Addressing\Enum\DependentLocalityType;
+use CommerceGuys\Addressing\Enum\PostalCodeType;
+use CommerceGuys\Addressing\Helper\LocaleHelper;
 use CommerceGuys\Addressing\Repository\CountryRepository;
 
 // Make sure aria2 is installed.
@@ -70,15 +74,6 @@ foreach ($foundCountries as $countryCode) {
         // Fix for Macao, which has latin and non-latin formats, but no lang.
         $definition['lang'] = 'zh';
     }
-
-    if ($countryCode == 'ZZ') {
-        // Save the ZZ definitions so that they can be used later.
-        $genericDefinition = $definition;
-    } else {
-        // Merge-in the defaults from ZZ.
-        $definition += $genericDefinition;
-    }
-
     $addressFormat = create_address_format_definition($countryCode, $definition);
 
     // Create a list of available translations.
@@ -105,10 +100,10 @@ foreach ($foundCountries as $countryCode) {
 
 echo "Writing the final definitions to disk.\n";
 
-// Write the new definitions to disk.
-foreach ($addressFormats as $countryCode => $addressFormat) {
-    file_put_json('address_format/' . $countryCode . '.json', $addressFormat);
-}
+// Address formats are stored in PHP, then manually transferred to
+// AddressFormatRepository.
+file_put_php('address_formats.php', $addressFormats);
+// Subdivisions are stored in JSON.
 foreach ($groupedSubdivisions as $parentId => $subdivisions) {
     file_put_json('subdivision/' . $parentId . '.json', $subdivisions);
 }
@@ -127,6 +122,35 @@ function file_put_json($filename, $data)
     $data = json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE);
     // Indenting with tabs instead of 4 spaces gives us 20% smaller files.
     $data = str_replace('    ', "\t", $data);
+    file_put_contents($filename, $data);
+}
+
+/**
+ * Converts the provided data into php and writes it to the disk.
+ */
+function file_put_php($filename, $data)
+{
+    $data = var_export($data, true);
+    // The var_export output is terrible, so try to get it as close as possible
+    // to the final result.
+    $data = str_replace(['array (', "),\n", "=> \n  "], ['[', "],\n", '=> '], $data);
+    $data = str_replace('=>   [', '=> [', $data);
+    $data = str_replace(['0 => ', '1 => ', '2 => ', '3 => ', '4 => ', '5 => '], '', $data);
+    // Put fields into one row.
+    $find = [];
+    $replace = [];
+    foreach (AddressField::getAll() as $field) {
+        $find[] = "'$field',\n      '";
+        $replace[] = "'$field', '";
+    }
+    $data = str_replace($find, $replace, $data);
+    // Replace format single quotes with double quotes, to parse \n properly.
+    $data = str_replace(["format' => '", ";;;'"], ['format\' => "', '"'], $data);
+    // Reindent (from 2 to 4 spaces).
+    $data = str_replace('  ', '    ', $data);
+    // Unescape backslashes.
+    $data = str_replace('\\\\', '\\', $data);
+    $data = '<?php' . "\n\n" . '$data = ' . $data . ';';
     file_put_contents($filename, $data);
 }
 
@@ -277,67 +301,90 @@ function generate_subdivision_depths($countries)
  */
 function create_address_format_definition($countryCode, $rawDefinition)
 {
+    // Avoid notices.
+    $rawDefinition += [
+        'lang' => null,
+        'fmt' => null,
+        'require' => null,
+        'upper' => null,
+        'state_name_type' => null,
+        'locality_name_type' => null,
+        'sublocality_name_type' => null,
+        'zip_name_type' => null,
+    ];
+    // Be more precise when it comes to Chinese Simplified.
+    if ($rawDefinition['lang'] == 'zh') {
+        $rawDefinition['lang'] = 'zh-hans';
+    }
+    // ZZ holds the defaults for all address formats, and these are missing.
+    if ($countryCode == 'ZZ') {
+        $rawDefinition['state_name_type'] = AdministrativeAreaType::getDefault();
+        $rawDefinition['sublocality_name_type'] = DependentLocalityType::getDefault();
+        $rawDefinition['zip_name_type'] = PostalCodeType::getDefault();
+    }
+
     $addressFormat = [
-        'locale' => determine_locale($rawDefinition),
+        'locale' => LocaleHelper::canonicalize($rawDefinition['lang']),
         'format' => null,
+        'local_format' => null,
         'required_fields' => convert_fields($rawDefinition['require'], 'required'),
         'uppercase_fields' => convert_fields($rawDefinition['upper'], 'uppercase'),
     ];
     // Make sure the recipient is always required by default.
-    if (!in_array(AddressField::RECIPIENT, $addressFormat['required_fields'])) {
+    if (!empty($addressFormat['required_fields']) && !in_array(AddressField::RECIPIENT, $addressFormat['required_fields'])) {
         $addressFormat['required_fields'] = array_merge([AddressField::RECIPIENT], $addressFormat['required_fields']);
     }
 
-    $translations = [];
     if (isset($rawDefinition['lfmt']) && $rawDefinition['lfmt'] != $rawDefinition['fmt']) {
-        // Handle the China/Korea/Japan dual formats via translations.
-        $language = $rawDefinition['lang'];
-        $translations[$language]['format'] = convert_format($rawDefinition['fmt']);
         $addressFormat['format'] = convert_format($rawDefinition['lfmt']);
+        $addressFormat['local_format'] = convert_format($rawDefinition['fmt']);
     } else {
         $addressFormat['format'] = convert_format($rawDefinition['fmt']);
+        // We don't need the locale if there's no local format.
+        unset($addressFormat['locale']);
     }
 
-    if (strpos($addressFormat['format'], '%' . AddressField::ADMINISTRATIVE_AREA) !== false) {
-        $addressFormat['administrative_area_type'] = $rawDefinition['state_name_type'];
+    $addressFormat['administrative_area_type'] = $rawDefinition['state_name_type'];
+    $addressFormat['locality_type'] = $rawDefinition['locality_name_type'];
+    $addressFormat['dependent_locality_type'] = $rawDefinition['sublocality_name_type'];
+    $addressFormat['postal_code_type'] = $rawDefinition['zip_name_type'];
+    if (isset($rawDefinition['zip'])) {
+        $addressFormat['postal_code_pattern'] = $rawDefinition['zip'];
     }
-    if (strpos($addressFormat['format'], '%' . AddressField::LOCALITY) !== false) {
-        $addressFormat['locality_type'] = $rawDefinition['locality_name_type'];
-    }
-    if (strpos($addressFormat['format'], '%' . AddressField::DEPENDENT_LOCALITY) !== false) {
-        $addressFormat['dependent_locality_type'] = $rawDefinition['sublocality_name_type'];
-    }
-    if (strpos($addressFormat['format'], '%' . AddressField::POSTAL_CODE) !== false) {
-        $addressFormat['postal_code_type'] = $rawDefinition['zip_name_type'];
-        if (isset($rawDefinition['zip'])) {
-            $addressFormat['postal_code_pattern'] = $rawDefinition['zip'];
+    if (isset($rawDefinition['postprefix'])) {
+        // Workaround for https://github.com/googlei18n/libaddressinput/issues/72.
+        if ($rawDefinition['postprefix'] == 'PR') {
+            $rawDefinition['postprefix'] = 'PR ';
+        } elseif ($rawDefinition['postprefix'] == 'SI-') {
+            $rawDefinition['postprefix'] = 'SI- ';
         }
-        if (isset($rawDefinition['postprefix'])) {
-            // Workaround for https://github.com/googlei18n/libaddressinput/issues/72.
-            if ($rawDefinition['postprefix'] == 'PR') {
-                $rawDefinition['postprefix'] = 'PR ';
-            } elseif ($rawDefinition['postprefix'] == 'SI-') {
-                $rawDefinition['postprefix'] = 'SI- ';
-            }
 
-            $addressFormat['postal_code_prefix'] = $rawDefinition['postprefix'];
-            // Remove the prefix from the format strings.
-            // Workaround for https://github.com/googlei18n/libaddressinput/issues/71.
-            $addressFormat['format'] = str_replace($addressFormat['postal_code_prefix'], '', $addressFormat['format']);
-            foreach ($translations as $language => $translation) {
-                $translations[$language]['format'] = str_replace($addressFormat['postal_code_prefix'], '', $translation['format']);
-            }
-        }
+        $addressFormat['postal_code_prefix'] = $rawDefinition['postprefix'];
+        // Remove the prefix from the format strings.
+        // Workaround for https://github.com/googlei18n/libaddressinput/issues/71.
+        $addressFormat['format'] = str_replace($addressFormat['postal_code_prefix'], '', $addressFormat['format']);
+        $addressFormat['local_format'] = str_replace($addressFormat['postal_code_prefix'], '', $addressFormat['local_format']);
     }
 
-    // Add translations as the last key.
-    if ($translations) {
-        $addressFormat['translations'] = $translations;
-    }
     // Apply any customizations.
     $customizations = get_address_format_customizations($countryCode);
     foreach ($customizations as $key => $values) {
         $addressFormat[$key] = $values;
+    }
+    // Denote the end of the format string for file_put_php().
+    if (!empty($addressFormat['format'])) {
+        $addressFormat['format'] .= ';;;';
+    }
+    if (!empty($addressFormat['local_format'])) {
+        $addressFormat['local_format'] .= ';;;';
+    }
+    // Remove NULL keys.
+    $addressFormat = array_filter($addressFormat, function ($value) {
+        return !is_null($value);
+    });
+    // Remove empty local formats.
+    if (empty($addressFormat['local_format'])) {
+      unset($addressFormat['local_format']);
     }
 
     return $addressFormat;
@@ -439,6 +486,9 @@ function determine_locale($rawDefinition)
  */
 function convert_format($format)
 {
+    if (empty($format)) {
+        return null;
+    }
     // Expand the address token into separate tokens for address lines 1 and 2.
     // Follow the direction of the fields.
     if (strpos($format, '%N') < strpos($format, '%A')) {
@@ -459,8 +509,11 @@ function convert_format($format)
         '%N' => '%' . AddressField::RECIPIENT,
         '%n' => "\n",
     ];
+    $format = strtr($format, $replacements);
+    // Make sure the newlines don't get eaten by var_export().
+    $format = str_replace("\n", '\n', $format);
 
-    return strtr($format, $replacements);
+    return $format;
 }
 
 /**
@@ -468,6 +521,9 @@ function convert_format($format)
  */
 function convert_fields($fields, $type)
 {
+    if (is_null($fields)) {
+        return null;
+    }
     if (empty($fields)) {
         return [];
     }

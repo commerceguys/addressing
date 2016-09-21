@@ -7,7 +7,8 @@ use CommerceGuys\Addressing\Enum\AdministrativeAreaType;
 use CommerceGuys\Addressing\Enum\DependentLocalityType;
 use CommerceGuys\Addressing\Enum\LocalityType;
 use CommerceGuys\Addressing\Enum\PostalCodeType;
-use CommerceGuys\Addressing\Model\AddressFormatInterface;
+use CommerceGuys\Addressing\Helper\AddressFormatHelper;
+use CommerceGuys\Addressing\Model\AddressFormat;
 use CommerceGuys\Addressing\Repository\AddressFormatRepositoryInterface;
 use CommerceGuys\Addressing\Repository\SubdivisionRepositoryInterface;
 use Symfony\Component\Form\FormEvent;
@@ -110,18 +111,19 @@ class GenerateAddressFieldsSubscriber implements EventSubscriberInterface
     /**
      * Gets a list of form fields for the provided address format.
      *
-     * @param AddressFormatInterface $addressFormat
-     * @param array                  $subdivisions  An array of needed subdivisions.
+     * @param AddressFormat $addressFormat
+     * @param array         $subdivisions  An array of needed subdivisions.
      *
      * @return array An array in the $field => $formOptions format.
      */
-    protected function getFormFields(AddressFormatInterface $addressFormat, $subdivisions)
+    protected function getFormFields(AddressFormat $addressFormat, $subdivisions)
     {
         // @todo Add support for having multiple fields in the same line.
         $fields = [];
         $labels = $this->getFieldLabels($addressFormat);
         $requiredFields = $addressFormat->getRequiredFields();
-        $groupedFields = $addressFormat->getGroupedFields();
+        $format = $addressFormat->getFormat();
+        $groupedFields = AddressFormatHelper::getGroupedFields($format);
         foreach ($groupedFields as $lineFields) {
             foreach ($lineFields as $field) {
                 $fields[$field] = [
@@ -146,7 +148,7 @@ class GenerateAddressFieldsSubscriber implements EventSubscriberInterface
     /**
      * Gets the labels for the provided address format's fields.
      *
-     * @param AddressFormatInterface $addressFormat
+     * @param AddressFormat $addressFormat
      *
      * @return array An array of labels keyed by field constants.
      */

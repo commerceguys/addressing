@@ -3,8 +3,9 @@
 namespace CommerceGuys\Addressing\Formatter;
 
 use CommerceGuys\Addressing\Enum\AddressField;
+use CommerceGuys\Addressing\Helper\LocaleHelper;
 use CommerceGuys\Addressing\Model\AddressInterface;
-use CommerceGuys\Addressing\Model\AddressFormatInterface;
+use CommerceGuys\Addressing\Model\AddressFormat;
 use CommerceGuys\Addressing\Repository\AddressFormatRepositoryInterface;
 use CommerceGuys\Addressing\Repository\CountryRepositoryInterface;
 use CommerceGuys\Addressing\Repository\SubdivisionRepositoryInterface;
@@ -147,14 +148,13 @@ class DefaultFormatter implements FormatterInterface
     public function format(AddressInterface $address)
     {
         $countryCode = $address->getCountryCode();
-        $addressFormat = $this->addressFormatRepository->get($countryCode, $address->getLocale());
-        $formatString = $addressFormat->getFormat();
+        $addressFormat = $this->addressFormatRepository->get($countryCode);
         // Add the country to the bottom or the top of the format string,
         // depending on whether the format is minor-to-major or major-to-minor.
-        if (strpos($formatString, AddressField::ADDRESS_LINE1) < strpos($formatString, AddressField::ADDRESS_LINE2)) {
-            $formatString .= "\n" . '%country';
+        if (LocaleHelper::match($addressFormat->getLocale(), $address->getLocale())) {
+            $formatString = '%country' . "\n" . $addressFormat->getLocalFormat();
         } else {
-            $formatString = '%country' . "\n" . $formatString;
+            $formatString = $addressFormat->getFormat() . "\n" . '%country';
         }
 
         $view = $this->buildView($address, $addressFormat);
@@ -182,12 +182,12 @@ class DefaultFormatter implements FormatterInterface
     /**
      * Builds the view for the given address.
      *
-     * @param AddressInterface       $address       The address.
-     * @param AddressFormatInterface $addressFormat The address format.
+     * @param AddressInterface $address       The address.
+     * @param AddressFormat    $addressFormat The address format.
      *
      * @return array The view.
      */
-    protected function buildView(AddressInterface $address, AddressFormatInterface $addressFormat)
+    protected function buildView(AddressInterface $address, AddressFormat $addressFormat)
     {
         $countries = $this->countryRepository->getList($this->locale);
         $values = $this->getValues($address, $addressFormat);
@@ -283,12 +283,12 @@ class DefaultFormatter implements FormatterInterface
     /**
      * Gets the address values used to build the view.
      *
-     * @param AddressInterface       $address       The address.
-     * @param AddressFormatInterface $addressFormat The address format.
+     * @param AddressInterface $address       The address.
+     * @param AddressFormat    $addressFormat The address format.
      *
      * @return array The values, keyed by address field.
      */
-    protected function getValues(AddressInterface $address, AddressFormatInterface $addressFormat)
+    protected function getValues(AddressInterface $address, AddressFormat $addressFormat)
     {
         $values = [];
         foreach (AddressField::getAll() as $field) {

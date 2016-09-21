@@ -31,7 +31,6 @@ class DefinitionTranslatorTest extends \PHPUnit_Framework_TestCase
 
     /**
      * @covers ::translateDefinition
-     * @covers ::getLocaleVariants
      */
     public function testTranslation()
     {
@@ -46,8 +45,6 @@ class DefinitionTranslatorTest extends \PHPUnit_Framework_TestCase
 
     /**
      * @covers ::translateDefinition
-     * @covers ::getDefaultLocale
-     * @covers ::getLocaleVariants
      */
     public function testInvalidLocale()
     {
@@ -60,7 +57,6 @@ class DefinitionTranslatorTest extends \PHPUnit_Framework_TestCase
 
     /**
      * @covers ::translateDefinition
-     * @covers ::getLocaleVariants
      */
     public function testLocaleFallback()
     {

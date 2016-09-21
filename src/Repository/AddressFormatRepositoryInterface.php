@@ -16,18 +16,15 @@ interface AddressFormatRepositoryInterface
      * is returned instead.
      *
      * @param string $countryCode The country code.
-     * @param string $locale      The locale (e.g. fr-FR).
      *
      * @return AddressFormat The address format instance.
      */
-    public function get($countryCode, $locale = null);
+    public function get($countryCode);
 
     /**
      * Returns all address format instances.
      *
-     * @param string $locale The locale (e.g. fr-FR).
-     *
      * @return AddressFormat[] An array of address format instances.
      */
-    public function getAll($locale = null);
+    public function getAll();
 }

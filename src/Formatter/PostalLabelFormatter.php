@@ -4,7 +4,7 @@ namespace CommerceGuys\Addressing\Formatter;
 
 use CommerceGuys\Addressing\Enum\AddressField;
 use CommerceGuys\Addressing\Model\AddressInterface;
-use CommerceGuys\Addressing\Model\AddressFormatInterface;
+use CommerceGuys\Addressing\Model\AddressFormat;
 use CommerceGuys\Addressing\Repository\AddressFormatRepositoryInterface;
 use CommerceGuys\Addressing\Repository\CountryRepositoryInterface;
 use CommerceGuys\Addressing\Repository\SubdivisionRepositoryInterface;
@@ -94,7 +94,7 @@ class PostalLabelFormatter extends DefaultFormatter implements PostalLabelFormat
     /**
      * {@inheritdoc}
      */
-    protected function buildView(AddressInterface $address, AddressFormatInterface $addressFormat)
+    protected function buildView(AddressInterface $address, AddressFormat $addressFormat)
     {
         $view = parent::buildView($address, $addressFormat);
 

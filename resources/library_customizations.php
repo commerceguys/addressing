@@ -19,12 +19,12 @@ function get_address_format_customizations($countryCode) {
     // Switch %organization and %recipient.
     // https://github.com/googlei18n/libaddressinput/issues/83
     $formatCustomizations['DE'] = [
-        'format' => "%organization\n%recipient\n%addressLine1\n%addressLine2\n%postalCode %locality",
+        'format' => '%organization\n%recipient\n%addressLine1\n%addressLine2\n%postalCode %locality',
     ];
     // Make the postal codes required, add administrative area fields (EE, LT).
     // https://github.com/googlei18n/libaddressinput/issues/64
     $formatCustomizations['EE'] = [
-        'format' => "%recipient\n%organization\n%addressLine1\n%addressLine2\n%postalCode %locality %administrativeArea",
+        'format' => '%recipient\n%organization\n%addressLine1\n%addressLine2\n%postalCode %locality %administrativeArea',
         'required_fields' => [
             'recipient',
             'addressLine1',
@@ -34,7 +34,7 @@ function get_address_format_customizations($countryCode) {
         'administrative_area_type' => 'county',
     ];
     $formatCustomizations['LT'] = [
-        'format' => "%organization\n%recipient\n%addressLine1\n%addressLine2\n%postalCode %locality %administrativeArea",
+        'format' => '%organization\n%recipient\n%addressLine1\n%addressLine2\n%postalCode %locality %administrativeArea',
         'required_fields' => [
             'recipient',
             'addressLine1',

@@ -43,7 +43,7 @@ The interface makes no assumptions about mutability.
 The implementing application can extend the interface to provide setters, or implement a value object that uses either [PSR-7 style with* mutators](https://github.com/commerceguys/addressing/blob/master/src/Model/ImmutableAddressInterface) or relies on an AddressBuilder.
 A default [address value object](https://github.com/commerceguys/addressing/blob/master/src/Model/Address.php) is provided that can be used as an example, or mapped by Doctrine (preferably as an embeddable).
 
-The [address format interface](https://github.com/commerceguys/addressing/blob/master/src/Model/AddressFormatInterface.php) has getters for the following country-specific metadata:
+The [address format](https://github.com/commerceguys/addressing/blob/master/src/Model/AddressFormat.php) has getters for the following country-specific metadata:
 
 - Which fields are used, and in which order
 - Which fields are required
@@ -51,7 +51,7 @@ The [address format interface](https://github.com/commerceguys/addressing/blob/m
 - The labels for the administrative area (state, province, parish, etc.), locality (city/post town/district, etc.), dependent locality (neighborhood, suburb, district, etc) and the postal code (postal code or ZIP code)
 - The regular expression pattern for validating postal codes
 
-The [subdivision interface](https://github.com/commerceguys/addressing/blob/master/src/Model/SubdivisionInterface.php) has getters for the following data:
+The [subdivision](https://github.com/commerceguys/addressing/blob/master/src/Model/Subdivision.php) has getters for the following data:
 
 - The subdivision code (used to represent the subdivison on a parcel/envelope, e.g. CA for California)
 - The subdivison name (shown to the user in a dropdown)

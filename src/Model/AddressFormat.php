@@ -9,15 +9,10 @@ use CommerceGuys\Addressing\Enum\LocalityType;
 use CommerceGuys\Addressing\Enum\PostalCodeType;
 
 /**
- * Default address format implementation.
- *
- * Can be mapped and used by Doctrine, for implementing applications that
- * want to allow address formats to be user editable.
+ * Provides metadata for storing and presenting a country's addresses.
  */
-class AddressFormat implements AddressFormatEntityInterface
+class AddressFormat
 {
-    use FormatStringTrait;
-
     /**
      * The country code.
      *
@@ -26,18 +21,53 @@ class AddressFormat implements AddressFormatEntityInterface
     protected $countryCode;
 
     /**
+     * The locale.
+     *
+     * @var string
+     */
+    protected $locale;
+
+    /**
+     * The format string.
+     *
+     * @var string
+     */
+    protected $format;
+
+    /**
+     * The local format string.
+     *
+     * @var string
+     */
+    protected $localFormat;
+
+    /**
+     * The used fields.
+     *
+     * @var array
+     */
+    protected $usedFields = [];
+
+    /**
+     * The used fields, grouped by line.
+     *
+     * @var array
+     */
+    protected $groupedFields = [];
+
+    /**
      * The required fields.
      *
      * @var array
      */
-    protected $requiredFields;
+    protected $requiredFields = [];
 
     /**
      * The fields that need to be uppercased.
      *
      * @var string
      */
-    protected $uppercaseFields;
+    protected $uppercaseFields = [];
 
     /**
      * The administrative area type.
@@ -82,14 +112,74 @@ class AddressFormat implements AddressFormatEntityInterface
     protected $postalCodePrefix;
 
     /**
-     * The locale.
+     * Creates a new AddressFormat instance.
      *
-     * @var string
+     * @param array $definition The definition array.
      */
-    protected $locale;
+    public function __construct(array $definition)
+    {
+        // Validate the presence of required properties.
+        $requiredProperties = [
+            'country_code',  'format', 'required_fields',
+        ];
+        foreach ($requiredProperties as $requiredProperty) {
+            if (empty($definition[$requiredProperty])) {
+                throw new \InvalidArgumentException(sprintf('Missing required property %s.', $requiredProperty));
+            }
+        }
+        // Add defaults for properties that are allowed to be empty.
+        $definition += [
+            'locale' => null,
+            'local_format' => null,
+            'uppercase_fields' => [],
+            'postal_code_pattern' => null,
+            'postal_code_prefix' => null,
+        ];
+        AddressField::assertAllExist($definition['required_fields']);
+        AddressField::assertAllExist($definition['uppercase_fields']);
+        $this->countryCode = $definition['country_code'];
+        $this->locale = $definition['locale'];
+        $this->format = $definition['format'];
+        $this->localFormat = $definition['local_format'];
+        $this->requiredFields = $definition['required_fields'];
+        $this->uppercaseFields = $definition['uppercase_fields'];
+
+        $usedFields = $this->getUsedFields();
+        if (in_array(AddressField::ADMINISTRATIVE_AREA, $usedFields)) {
+            if (isset($definition['administrative_area_type'])) {
+                AdministrativeAreaType::assertExists($definition['administrative_area_type']);
+                $this->administrativeAreaType = $definition['administrative_area_type'];
+            }
+        }
+        if (in_array(AddressField::LOCALITY, $usedFields)) {
+            if (isset($definition['locality_type'])) {
+                LocalityType::assertExists($definition['locality_type']);
+                $this->localityType = $definition['locality_type'];
+            }
+        }
+        if (in_array(AddressField::DEPENDENT_LOCALITY, $usedFields)) {
+            if (isset($definition['dependent_locality_type'])) {
+                DependentLocalityType::assertExists($definition['dependent_locality_type']);
+                $this->dependentLocalityType = $definition['dependent_locality_type'];
+            }
+        }
+        if (in_array(AddressField::POSTAL_CODE, $usedFields)) {
+            if (isset($definition['postal_code_type'])) {
+                PostalCodeType::assertExists($definition['postal_code_type']);
+                $this->postalCodeType = $definition['postal_code_type'];
+            }
+            $this->postalCodePattern = $definition['postal_code_pattern'];
+            $this->postalCodePrefix = $definition['postal_code_prefix'];
+        }
+    }
 
     /**
-     * {@inheritdoc}
+     * Gets the two-letter country code.
+     *
+     * This is a CLDR country code, since CLDR includes additional countries
+     * for addressing purposes, such as Canary Islands (IC).
+     *
+     * @return string The two-letter country code.
      */
     public function getCountryCode()
     {
@@ -97,169 +187,11 @@ class AddressFormat implements AddressFormatEntityInterface
     }
 
     /**
-     * {@inheritdoc}
-     */
-    public function setCountryCode($countryCode)
-    {
-        $this->countryCode = $countryCode;
-
-        return $this;
-    }
-
-    /**
-     * {@inheritdoc}
-     */
-    public function getRequiredFields()
-    {
-        return $this->requiredFields;
-    }
-
-    /**
-     * {@inheritdoc}
-     */
-    public function setRequiredFields(array $requiredFields)
-    {
-        AddressField::assertAllExist($requiredFields);
-        $this->requiredFields = $requiredFields;
-
-        return $this;
-    }
-
-    /**
-     * {@inheritdoc}
-     */
-    public function getUppercaseFields()
-    {
-        return $this->uppercaseFields;
-    }
-
-    /**
-     * {@inheritdoc}
-     */
-    public function setUppercaseFields(array $uppercaseFields)
-    {
-        AddressField::assertAllExist($uppercaseFields);
-        $this->uppercaseFields = $uppercaseFields;
-
-        return $this;
-    }
-
-    /**
-     * {@inheritdoc}
-     */
-    public function getAdministrativeAreaType()
-    {
-        return $this->administrativeAreaType;
-    }
-
-    /**
-     * {@inheritdoc}
-     */
-    public function setAdministrativeAreaType($administrativeAreaType)
-    {
-        AdministrativeAreaType::assertExists($administrativeAreaType);
-        $this->administrativeAreaType = $administrativeAreaType;
-
-        return $this;
-    }
-
-    /**
-     * {@inheritdoc}
-     */
-    public function getLocalityType()
-    {
-        return $this->localityType;
-    }
-
-    /**
-     * {@inheritdoc}
-     */
-    public function setLocalityType($localityType)
-    {
-        LocalityType::assertExists($localityType);
-        $this->localityType = $localityType;
-
-        return $this;
-    }
-
-    /**
-     * {@inheritdoc}
-     */
-    public function getDependentLocalityType()
-    {
-        return $this->dependentLocalityType;
-    }
-
-    /**
-     * {@inheritdoc}
-     */
-    public function setDependentLocalityType($dependentLocalityType)
-    {
-        DependentLocalityType::assertExists($dependentLocalityType);
-        $this->dependentLocalityType = $dependentLocalityType;
-
-        return $this;
-    }
-
-    /**
-     * {@inheritdoc}
-     */
-    public function getPostalCodeType()
-    {
-        return $this->postalCodeType;
-    }
-
-    /**
-     * {@inheritdoc}
-     */
-    public function setPostalCodeType($postalCodeType)
-    {
-        PostalCodeType::assertExists($postalCodeType);
-        $this->postalCodeType = $postalCodeType;
-
-        return $this;
-    }
-
-    /**
-     * {@inheritdoc}
-     */
-    public function getPostalCodePattern()
-    {
-        return $this->postalCodePattern;
-    }
-
-    /**
-     * {@inheritdoc}
-     */
-    public function setPostalCodePattern($postalCodePattern)
-    {
-        $this->postalCodePattern = $postalCodePattern;
-
-        return $this;
-    }
-
-    /**
-     * {@inheritdoc}
-     */
-    public function getPostalCodePrefix()
-    {
-        return $this->postalCodePrefix;
-    }
-
-    /**
-     * {@inheritdoc}
-     */
-    public function setPostalCodePrefix($postalCodePrefix)
-    {
-        $this->postalCodePrefix = $postalCodePrefix;
-
-        return $this;
-    }
-
-    /**
      * Gets the locale.
      *
-     * @return string The locale.
+     * Only defined if the country has a local format.
+     *
+     * @return string|null The locale, if defined.
      */
     public function getLocale()
     {
@@ -267,14 +199,175 @@ class AddressFormat implements AddressFormatEntityInterface
     }
 
     /**
-     * Sets the locale.
+     * Gets the format string.
      *
-     * @param string $locale The locale.
+     * Defines the layout of an address, and consists of tokens (address fields
+     * prefixed with a '%') separated by unix newlines (\n).
+     * Example:
+     * <code>
+     * %recipient
+     * %organization
+     * %addressLine1
+     * %addressLine2
+     * %locality %administrativeArea %postalCode
+     * </code>
+     *
+     * @return string The format string.
      */
-    public function setLocale($locale)
+    public function getFormat()
     {
-        $this->locale = $locale;
+        return $this->format;
+    }
 
-        return $this;
+    /**
+     * Gets the local format string.
+     *
+     * Defined for countries that use a different ordering of fields when the
+     * address is entered in the native script. For example, China uses a
+     * major-to-minor format (country first, recipient last) when the address
+     * is entered in Chinese.
+     *
+     * @return string|null The local format string, if defined.
+     */
+    public function getLocalFormat()
+    {
+        return $this->localFormat;
+    }
+
+    /**
+     * Gets the list of used fields.
+     *
+     * @return array An array of address fields.
+     */
+    public function getUsedFields()
+    {
+        if (empty($this->usedFields)) {
+            $this->usedFields = [];
+            foreach (AddressField::getAll() as $field) {
+                if (strpos($this->format, '%' . $field) !== false) {
+                    $this->usedFields[] = $field;
+                }
+            }
+        }
+
+        return $this->usedFields;
+    }
+
+    /**
+     * Gets the list of used subdivision fields.
+     *
+     * @return array An array of address fields.
+     */
+    public function getUsedSubdivisionFields()
+    {
+        $fields = [
+            AddressField::ADMINISTRATIVE_AREA,
+            AddressField::LOCALITY,
+            AddressField::DEPENDENT_LOCALITY,
+        ];
+        // Remove fields not used by the format, and reset the keys.
+        $fields = array_intersect($fields, $this->getUsedFields());
+        $fields = array_values($fields);
+
+        return $fields;
+    }
+
+    /**
+     * Gets the list of required fields.
+     *
+     * @return array An array of address fields.
+     */
+    public function getRequiredFields()
+    {
+        return $this->requiredFields;
+    }
+
+    /**
+     * Gets the list of fields that need to be uppercased.
+     *
+     * @return array An array of address fields.
+     */
+    public function getUppercaseFields()
+    {
+        return $this->uppercaseFields;
+    }
+
+    /**
+     * Gets the administrative area type.
+     *
+     * Used for presenting the correct label to the end-user.
+     *
+     * @return string|null The administrative area type, or null if the
+     *                     administrative area field isn't used.
+     */
+    public function getAdministrativeAreaType()
+    {
+        return $this->administrativeAreaType;
+    }
+
+    /**
+     * Gets the locality type.
+     *
+     * Used for presenting the correct label to the end-user.
+     *
+     * @return string|null The locality type, or null if the locality field
+     *                     isn't used.
+     */
+    public function getLocalityType()
+    {
+        return $this->localityType;
+    }
+
+    /**
+     * Gets the dependent locality type.
+     *
+     * Used for presenting the correct label to the end-user.
+     *
+     * @return string|null The dependent locality type, or null if the
+     *                     dependent locality field isn't used.
+     */
+    public function getDependentLocalityType()
+    {
+        return $this->dependentLocalityType;
+    }
+
+    /**
+     * Gets the postal code type.
+     *
+     * Used for presenting the correct label to the end-user.
+     *
+     * @return string|null The postal code type, or null if the postal code
+     *                     field isn't used.
+     */
+    public function getPostalCodeType()
+    {
+        return $this->postalCodeType;
+    }
+
+    /**
+     * Gets the postal code pattern.
+     *
+     * This is a regular expression pattern used to validate postal codes.
+     * Ignored if a subdivision defines its own full postal code pattern
+     * (E.g. CN-91, which is Hong Kong when specified as a Chinese province).
+     *
+     * @return string|null The postal code pattern.
+     */
+    public function getPostalCodePattern()
+    {
+        return $this->postalCodePattern;
+    }
+
+    /**
+     * Gets the postal code prefix.
+     *
+     * The prefix is optional and added to postal codes only when formatting
+     * an address for international mailing, as recommended by postal services.
+     *
+     * @return string|null The postal code prefix.
+     */
+    public function getPostalCodePrefix()
+    {
+        return $this->postalCodePrefix;
     }
 }
