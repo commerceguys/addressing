@@ -35,10 +35,6 @@ class LazySubdivisionCollectionTest extends \PHPUnit_Framework_TestCase
 
     /**
      * @covers ::doInitialize
-     *
-     * @uses \CommerceGuys\Addressing\Collection\LazySubdivisionCollection::__construct
-     * @uses \CommerceGuys\Addressing\Collection\LazySubdivisionCollection::getRepository
-     * @uses \CommerceGuys\Addressing\Collection\LazySubdivisionCollection::setRepository
      */
     public function testInitialize()
     {
@@ -65,8 +61,6 @@ class LazySubdivisionCollectionTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::getRepository
      * @covers ::setRepository
-     *
-     * @uses \CommerceGuys\Addressing\Collection\LazySubdivisionCollection::__construct
      */
     public function testRepository()
     {

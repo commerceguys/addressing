@@ -27,8 +27,6 @@ class SubdivisionTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::getParent
      * @covers ::setParent
-     *
-     * @uses \CommerceGuys\Addressing\Model\Subdivision::__construct
      */
     public function testParent()
     {
@@ -44,9 +42,6 @@ class SubdivisionTest extends \PHPUnit_Framework_TestCase
      * @covers ::getChildren
      * @covers ::setChildren
      * @covers ::hasChildren
-     *
-     * @uses \CommerceGuys\Addressing\Model\Subdivision::__construct
-     * @uses \Doctrine\Common\Collections\ArrayCollection
      */
     public function testChildren()
     {
@@ -69,8 +64,6 @@ class SubdivisionTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::getCountryCode
      * @covers ::setCountryCode
-     *
-     * @uses \CommerceGuys\Addressing\Model\Subdivision::__construct
      */
     public function testCountryCode()
     {
@@ -81,8 +74,6 @@ class SubdivisionTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::getId
      * @covers ::setId
-     *
-     * @uses \CommerceGuys\Addressing\Model\Subdivision::__construct
      */
     public function testId()
     {
@@ -93,8 +84,6 @@ class SubdivisionTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::getCode
      * @covers ::setCode
-     *
-     * @uses \CommerceGuys\Addressing\Model\Subdivision::__construct
      */
     public function testCode()
     {
@@ -105,8 +94,6 @@ class SubdivisionTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::getName
      * @covers ::setName
-     *
-     * @uses \CommerceGuys\Addressing\Model\Subdivision::__construct
      */
     public function testName()
     {
@@ -117,8 +104,6 @@ class SubdivisionTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::getPostalCodePattern
      * @covers ::setPostalCodePattern
-     *
-     * @uses \CommerceGuys\Addressing\Model\Subdivision::__construct
      */
     public function testPostalCodePattern()
     {
@@ -129,8 +114,6 @@ class SubdivisionTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::getPostalCodePatternType
      * @covers ::setPostalCodePatternType
-     *
-     * @uses \CommerceGuys\Addressing\Model\Subdivision::__construct
      */
     public function testPostalCodePatternType()
     {
@@ -141,8 +124,6 @@ class SubdivisionTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::getLocale
      * @covers ::setLocale
-     *
-     * @uses \CommerceGuys\Addressing\Model\Subdivision::__construct
      */
     public function testLocale()
     {

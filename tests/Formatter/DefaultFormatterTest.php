@@ -54,12 +54,6 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
 
     /**
      * @covers ::__construct
-     *
-     * @uses \CommerceGuys\Addressing\Formatter\DefaultFormatter::setOptions
-     * @uses \CommerceGuys\Addressing\Formatter\DefaultFormatter::getDefaultOptions
-     * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
-     * @uses \CommerceGuys\Addressing\Repository\CountryRepository
-     * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
      */
     public function testConstructor()
     {
@@ -72,13 +66,6 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::getLocale
      * @covers ::setLocale
-     *
-     * @uses \CommerceGuys\Addressing\Formatter\DefaultFormatter::__construct
-     * @uses \CommerceGuys\Addressing\Formatter\DefaultFormatter::setOptions
-     * @uses \CommerceGuys\Addressing\Formatter\DefaultFormatter::getDefaultOptions
-     * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
-     * @uses \CommerceGuys\Addressing\Repository\CountryRepository
-     * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
      */
     public function testLocale()
     {
@@ -91,12 +78,6 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::setOption
      *
-     * @uses \CommerceGuys\Addressing\Formatter\DefaultFormatter::__construct
-     * @uses \CommerceGuys\Addressing\Formatter\DefaultFormatter::setOptions
-     * @uses \CommerceGuys\Addressing\Formatter\DefaultFormatter::getDefaultOptions
-     * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
-     * @uses \CommerceGuys\Addressing\Repository\CountryRepository
-     * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
      * @expectedException \InvalidArgumentException
      */
     public function testInvalidOption()
@@ -110,13 +91,6 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
      * @covers ::getOption
      * @covers ::setOption
      * @covers ::getDefaultOptions
-     *
-     * @uses \CommerceGuys\Addressing\Formatter\DefaultFormatter::__construct
-     * @uses \CommerceGuys\Addressing\Formatter\DefaultFormatter::setOptions
-     * @uses \CommerceGuys\Addressing\Formatter\DefaultFormatter::getDefaultOptions
-     * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
-     * @uses \CommerceGuys\Addressing\Repository\CountryRepository
-     * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
      */
     public function testOptions()
     {
@@ -135,15 +109,6 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
 
     /**
      * @covers \CommerceGuys\Addressing\Formatter\DefaultFormatter
-     *
-     * @uses \CommerceGuys\Addressing\Model\Address
-     * @uses \CommerceGuys\Addressing\Model\AddressFormat
-     * @uses \CommerceGuys\Addressing\Model\FormatStringTrait
-     * @uses \CommerceGuys\Addressing\Model\Subdivision
-     * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
-     * @uses \CommerceGuys\Addressing\Repository\CountryRepository
-     * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
-     * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      */
     public function testAndorraAddress()
     {
@@ -168,15 +133,6 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
 
     /**
      * @covers \CommerceGuys\Addressing\Formatter\DefaultFormatter
-     *
-     * @uses \CommerceGuys\Addressing\Model\Address
-     * @uses \CommerceGuys\Addressing\Model\AddressFormat
-     * @uses \CommerceGuys\Addressing\Model\FormatStringTrait
-     * @uses \CommerceGuys\Addressing\Model\Subdivision
-     * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
-     * @uses \CommerceGuys\Addressing\Repository\CountryRepository
-     * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
-     * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      */
     public function testElSalvadorAddress()
     {
@@ -234,16 +190,6 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
 
     /**
      * @covers \CommerceGuys\Addressing\Formatter\DefaultFormatter
-     *
-     * @uses \CommerceGuys\Addressing\Collection\LazySubdivisionCollection
-     * @uses \CommerceGuys\Addressing\Model\Address
-     * @uses \CommerceGuys\Addressing\Model\AddressFormat
-     * @uses \CommerceGuys\Addressing\Model\FormatStringTrait
-     * @uses \CommerceGuys\Addressing\Model\Subdivision
-     * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
-     * @uses \CommerceGuys\Addressing\Repository\CountryRepository
-     * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
-     * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      */
     public function testTaiwanAddress()
     {
@@ -295,15 +241,6 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
 
     /**
      * @covers \CommerceGuys\Addressing\Formatter\DefaultFormatter
-     *
-     * @uses \CommerceGuys\Addressing\Model\Address
-     * @uses \CommerceGuys\Addressing\Model\AddressFormat
-     * @uses \CommerceGuys\Addressing\Model\FormatStringTrait
-     * @uses \CommerceGuys\Addressing\Model\Subdivision
-     * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository
-     * @uses \CommerceGuys\Addressing\Repository\CountryRepository
-     * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository
-     * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      */
     public function testUnitedStatesIncompleteAddress()
     {

@@ -110,12 +110,6 @@ class SubdivisionRepositoryTest extends \PHPUnit_Framework_TestCase
      * @covers ::hasData
      * @covers ::createSubdivisionFromDefinitions
      *
-     * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository::__construct
-     * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository::getAll
-     * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository::getDepth
-     * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
-     * @uses \CommerceGuys\Addressing\Model\Subdivision
-     * @uses \CommerceGuys\Addressing\Collection\LazySubdivisionCollection
      * @depends testConstructor
      */
     public function testGet($subdivisionRepository)
@@ -151,8 +145,6 @@ class SubdivisionRepositoryTest extends \PHPUnit_Framework_TestCase
      * @covers ::hasData
      * @covers ::createSubdivisionFromDefinitions
      *
-     * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository::getDepth
-     * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      * @depends testConstructor
      */
     public function testGetInvalidSubdivision($subdivisionRepository)
@@ -170,10 +162,6 @@ class SubdivisionRepositoryTest extends \PHPUnit_Framework_TestCase
      * @covers ::hasData
      * @covers ::createSubdivisionFromDefinitions
      *
-     * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository::getDepth
-     * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
-     * @uses \CommerceGuys\Addressing\Model\Subdivision
-     * @uses \CommerceGuys\Addressing\Collection\LazySubdivisionCollection
      * @depends testConstructor
      */
     public function testGetAll($subdivisionRepository)
@@ -199,8 +187,6 @@ class SubdivisionRepositoryTest extends \PHPUnit_Framework_TestCase
      * @covers ::loadDefinitions
      * @covers ::hasData
      *
-     * @uses \CommerceGuys\Addressing\Repository\SubdivisionRepository::getDepth
-     * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
      * @depends testConstructor
      */
     public function testGetList($subdivisionRepository)

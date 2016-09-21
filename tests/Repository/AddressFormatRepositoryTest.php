@@ -91,9 +91,6 @@ class AddressFormatRepositoryTest extends \PHPUnit_Framework_TestCase
      * @covers ::loadDefinition
      * @covers ::createAddressFormatFromDefinition
      *
-     * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
-     * @uses \CommerceGuys\Addressing\Model\AddressFormat
-     * @uses \CommerceGuys\Addressing\Model\FormatStringTrait
      * @depends testConstructor
      */
     public function testGet($addressFormatRepository)
@@ -130,8 +127,6 @@ class AddressFormatRepositoryTest extends \PHPUnit_Framework_TestCase
      * @covers ::loadDefinition
      * @covers ::createAddressFormatFromDefinition
      *
-     * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
-     * @uses \CommerceGuys\Addressing\Model\AddressFormat
      * @depends testConstructor
      */
     public function testGetNonExistingAddressFormat($addressFormatRepository)
@@ -145,9 +140,6 @@ class AddressFormatRepositoryTest extends \PHPUnit_Framework_TestCase
      * @covers ::loadDefinition
      * @covers ::createAddressFormatFromDefinition
      *
-     * @uses \CommerceGuys\Addressing\Repository\AddressFormatRepository::get
-     * @uses \CommerceGuys\Addressing\Repository\DefinitionTranslatorTrait
-     * @uses \CommerceGuys\Addressing\Model\AddressFormat
      * @depends testConstructor
      */
     public function testGetAll($addressFormatRepository)

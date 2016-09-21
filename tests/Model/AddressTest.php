@@ -11,18 +11,6 @@ class AddressTest extends \PHPUnit_Framework_TestCase
 {
     /**
      * @covers ::__construct
-     *
-     * @uses \CommerceGuys\Addressing\Model\Address::getCountryCode
-     * @uses \CommerceGuys\Addressing\Model\Address::getAdministrativeArea
-     * @uses \CommerceGuys\Addressing\Model\Address::getLocality
-     * @uses \CommerceGuys\Addressing\Model\Address::getDependentLocality
-     * @uses \CommerceGuys\Addressing\Model\Address::getPostalCode
-     * @uses \CommerceGuys\Addressing\Model\Address::getSortingCode
-     * @uses \CommerceGuys\Addressing\Model\Address::getAddressLine1
-     * @uses \CommerceGuys\Addressing\Model\Address::getAddressLine2
-     * @uses \CommerceGuys\Addressing\Model\Address::getOrganization
-     * @uses \CommerceGuys\Addressing\Model\Address::getRecipient
-     * @uses \CommerceGuys\Addressing\Model\Address::getLocale
      */
     public function testConstructor()
     {
@@ -43,8 +31,6 @@ class AddressTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::getCountryCode
      * @covers ::withCountryCode
-     *
-     * @uses \CommerceGuys\Addressing\Model\Address::__construct
      */
     public function testCountryCode()
     {
@@ -55,8 +41,6 @@ class AddressTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::getAdministrativeArea
      * @covers ::withAdministrativeArea
-     *
-     * @uses \CommerceGuys\Addressing\Model\Address::__construct
      */
     public function testAdministrativeArea()
     {
@@ -67,8 +51,6 @@ class AddressTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::getLocality
      * @covers ::withLocality
-     *
-     * @uses \CommerceGuys\Addressing\Model\Address::__construct
      */
     public function testLocality()
     {
@@ -79,8 +61,6 @@ class AddressTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::getDependentLocality
      * @covers ::withDependentLocality
-     *
-     * @uses \CommerceGuys\Addressing\Model\Address::__construct
      */
     public function testDependentLocality()
     {
@@ -92,8 +72,6 @@ class AddressTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::getPostalCode
      * @covers ::withPostalCode
-     *
-     * @uses \CommerceGuys\Addressing\Model\Address::__construct
      */
     public function testPostalCode()
     {
@@ -104,8 +82,6 @@ class AddressTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::getSortingCode
      * @covers ::withSortingCode
-     *
-     * @uses \CommerceGuys\Addressing\Model\Address::__construct
      */
     public function testSortingCode()
     {
@@ -117,8 +93,6 @@ class AddressTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::getAddressLine1
      * @covers ::withAddressLine1
-     *
-     * @uses \CommerceGuys\Addressing\Model\Address::__construct
      */
     public function testAddressLine1()
     {
@@ -129,8 +103,6 @@ class AddressTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::getAddressLine2
      * @covers ::withAddressLine2
-     *
-     * @uses \CommerceGuys\Addressing\Model\Address::__construct
      */
     public function testAddressLine2()
     {
@@ -141,8 +113,6 @@ class AddressTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::getOrganization
      * @covers ::withOrganization
-     *
-     * @uses \CommerceGuys\Addressing\Model\Address::__construct
      */
     public function testOrganization()
     {
@@ -153,8 +123,6 @@ class AddressTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::getRecipient
      * @covers ::withRecipient
-     *
-     * @uses \CommerceGuys\Addressing\Model\Address::__construct
      */
     public function testRecipient()
     {
@@ -165,8 +133,6 @@ class AddressTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::getLocale
      * @covers ::withLocale
-     *
-     * @uses \CommerceGuys\Addressing\Model\Address::__construct
      */
     public function testLocale()
     {
