@@ -12,7 +12,6 @@ Features:
 - Subdivisions (administrative areas, localities, dependent localities) for 40 countries
 - Subdivision translations for all of the parent country's (i.e Canada, Switzerland) official languages.
 - Validation via symfony/validator
-- Form generation via symfony/form (Experimental, unfinished)
 - Postal formatting
 - Zones via the [commerceguys/zone](https://github.com/commerceguys/zone) library.
 

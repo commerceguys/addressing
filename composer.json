@@ -19,7 +19,6 @@
     "suggest": {
         "commerceguys/intl": "to use it as the source of country data",
         "symfony/intl": "to use it as the source of country data",
-        "symfony/form": "to generate Symfony address forms",
         "symfony/validator": "to validate addresses"
     },
     "autoload": {
