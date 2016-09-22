@@ -2,13 +2,13 @@
 
 namespace CommerceGuys\Addressing\Formatter;
 
-use CommerceGuys\Addressing\Enum\AddressField;
-use CommerceGuys\Addressing\Helper\LocaleHelper;
-use CommerceGuys\Addressing\Model\AddressInterface;
-use CommerceGuys\Addressing\Model\AddressFormat;
-use CommerceGuys\Addressing\Repository\AddressFormatRepositoryInterface;
-use CommerceGuys\Addressing\Repository\CountryRepositoryInterface;
-use CommerceGuys\Addressing\Repository\SubdivisionRepositoryInterface;
+use CommerceGuys\Addressing\AddressInterface;
+use CommerceGuys\Addressing\AddressFormat\AddressField;
+use CommerceGuys\Addressing\AddressFormat\AddressFormat;
+use CommerceGuys\Addressing\AddressFormat\AddressFormatRepositoryInterface;
+use CommerceGuys\Addressing\Country\CountryRepositoryInterface;
+use CommerceGuys\Addressing\LocaleHelper;
+use CommerceGuys\Addressing\Subdivision\SubdivisionRepositoryInterface;
 
 /**
  * Formats an address for display.

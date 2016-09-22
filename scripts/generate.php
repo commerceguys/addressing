@@ -10,12 +10,12 @@ date_default_timezone_set('UTC');
 include '../vendor/autoload.php';
 include '../resources/library_customizations.php';
 
-use CommerceGuys\Addressing\Enum\AddressField;
-use CommerceGuys\Addressing\Enum\AdministrativeAreaType;
-use CommerceGuys\Addressing\Enum\DependentLocalityType;
-use CommerceGuys\Addressing\Enum\PostalCodeType;
-use CommerceGuys\Addressing\Helper\LocaleHelper;
-use CommerceGuys\Addressing\Repository\CountryRepository;
+use CommerceGuys\Addressing\AddressFormat\AddressField;
+use CommerceGuys\Addressing\AddressFormat\AdministrativeAreaType;
+use CommerceGuys\Addressing\AddressFormat\DependentLocalityType;
+use CommerceGuys\Addressing\AddressFormat\PostalCodeType;
+use CommerceGuys\Addressing\Country\CountryRepository;
+use CommerceGuys\Addressing\LocaleHelper;
 
 // Make sure aria2 is installed.
 exec('aria2c --version', $ariaVersion);

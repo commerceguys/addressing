@@ -9,12 +9,11 @@
 
 include '../vendor/autoload.php';
 
-use CommerceGuys\Addressing\Enum\AddressField;
-use CommerceGuys\Addressing\Model\Address;
-use CommerceGuys\Addressing\Repository\CountryRepository;
-use CommerceGuys\Addressing\Repository\AddressFormatRepository;
-use CommerceGuys\Addressing\Validator\Constraints\AddressFormat;
-use CommerceGuys\Addressing\Validator\Constraints\Country;
+use CommerceGuys\Addressing\Address;
+use CommerceGuys\Addressing\AddressFormat\AddressField;
+use CommerceGuys\Addressing\AddressFormat\AddressFormatRepository;
+use CommerceGuys\Addressing\Country\CountryRepository;
+use CommerceGuys\Addressing\Validator\Constraints\AddressFormatConstraint;
 use Symfony\Component\Validator\Validation;
 
 $addressFormatRepository = new AddressFormatRepository();
@@ -61,7 +60,7 @@ foreach ($foundCountries as $countryCode) {
       }
 
       $address = $address->withPostalCode($zipExample);
-      $violations = $validator->validate($address, new AddressFormat());
+      $violations = $validator->validate($address, new AddressFormatConstraint());
       $formattedExamples = implode(', ', $zipExamples);
       foreach ($violations as $violation) {
         if ($violation->getPropertyPath() == '[postalCode]') {

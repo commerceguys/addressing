@@ -2,8 +2,8 @@
 
 namespace CommerceGuys\Addressing\Tests\Validator\Constraints;
 
-use CommerceGuys\Addressing\Enum\AddressField;
-use CommerceGuys\Addressing\Model\Address;
+use CommerceGuys\Addressing\Address;
+use CommerceGuys\Addressing\AddressFormat\AddressField;
 use CommerceGuys\Addressing\Validator\Constraints\AddressFormatConstraint;
 use CommerceGuys\Addressing\Validator\Constraints\AddressFormatConstraintValidator;
 use Symfony\Component\Validator\Tests\Constraints\AbstractConstraintValidatorTest;

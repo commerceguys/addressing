@@ -23,7 +23,7 @@ Further backstory can be found in [this blog post](https://drupalcommerce.org/bl
 
 # Data model
 
-The [address interface](https://github.com/commerceguys/addressing/blob/master/src/Model/AddressInterface.php) represents a postal adddress, with getters for the following fields:
+The [address interface](https://github.com/commerceguys/addressing/blob/master/src/AddressInterface.php) represents a postal adddress, with getters for the following fields:
 
 - Country
 - Administrative area
@@ -39,10 +39,10 @@ The [address interface](https://github.com/commerceguys/addressing/blob/master/s
 Field names follow the OASIS [eXtensible Address Language (xAL)](http://www.oasis-open.org/committees/ciq/download.shtml) standard.
 
 The interface makes no assumptions about mutability.
-The implementing application can extend the interface to provide setters, or implement a value object that uses either [PSR-7 style with* mutators](https://github.com/commerceguys/addressing/blob/master/src/Model/ImmutableAddressInterface) or relies on an AddressBuilder.
-A default [address value object](https://github.com/commerceguys/addressing/blob/master/src/Model/Address.php) is provided that can be used as an example, or mapped by Doctrine (preferably as an embeddable).
+The implementing application can extend the interface to provide setters, or implement a value object that uses either [PSR-7 style with* mutators](https://github.com/commerceguys/addressing/blob/master/src/ImmutableAddressInterface) or relies on an AddressBuilder.
+A default [address value object](https://github.com/commerceguys/addressing/blob/master/src/Address.php) is provided that can be used as an example, or mapped by Doctrine (preferably as an embeddable).
 
-The [address format](https://github.com/commerceguys/addressing/blob/master/src/Model/AddressFormat.php) has getters for the following country-specific metadata:
+The [address format](https://github.com/commerceguys/addressing/blob/master/src/AddressFormat/AddressFormat.php) has getters for the following country-specific metadata:
 
 - Which fields are used, and in which order
 - Which fields are required
@@ -50,7 +50,7 @@ The [address format](https://github.com/commerceguys/addressing/blob/master/src/
 - The labels for the administrative area (state, province, parish, etc.), locality (city/post town/district, etc.), dependent locality (neighborhood, suburb, district, etc) and the postal code (postal code or ZIP code)
 - The regular expression pattern for validating postal codes
 
-The [subdivision](https://github.com/commerceguys/addressing/blob/master/src/Model/Subdivision.php) has getters for the following data:
+The [subdivision](https://github.com/commerceguys/addressing/blob/master/src/Subdivision/Subdivision.php) has getters for the following data:
 
 - The subdivision code (used to represent the subdivison on a parcel/envelope, e.g. CA for California)
 - The subdivison name (shown to the user in a dropdown)
@@ -61,8 +61,8 @@ Subdivisions are hierarchical and can have up to three levels:
 Administrative Area -> Locality -> Dependent Locality.
 
 ```php
-use CommerceGuys\Addressing\Repository\AddressFormatRepository;
-use CommerceGuys\Addressing\Repository\SubdivisionRepository;
+use CommerceGuys\Addressing\AddressFormat\AddressFormatRepository;
+use CommerceGuys\Addressing\Subdivision\SubdivisionRepository;
 
 $addressFormatRepository = new AddressFormatRepository();
 $subdivisionRepository = new SubdivisionRepository();
@@ -92,11 +92,11 @@ Addresses are formatted according to the address format, in HTML or text.
 Formats an address for display, always adds the localized country name.
 
 ```php
-use CommerceGuys\Addressing\Model\Address;
+use CommerceGuys\Addressing\Address;
 use CommerceGuys\Addressing\Formatter\DefaultFormatter;
-use CommerceGuys\Addressing\Repository\AddressFormatRepository;
+use CommerceGuys\Addressing\AddressFormat\AddressFormatRepository;
 use CommerceGuys\Addressing\Repository\CountryRepository;
-use CommerceGuys\Addressing\Repository\SubdivisionRepository;
+use CommerceGuys\Addressing\Subdivision\SubdivisionRepository;
 
 $addressFormatRepository = new AddressFormatRepository();
 $countryRepository = new CountryRepository();
@@ -136,11 +136,11 @@ In case of international mail:
 This matches the recommandation given by the Universal Postal Union, to avoid difficulties in countries of transit.
 
 ```php
-use CommerceGuys\Addressing\Model\Address;
+use CommerceGuys\Addressing\Address;
 use CommerceGuys\Addressing\Formatter\PostalLabelFormatter;
-use CommerceGuys\Addressing\Repository\AddressFormatRepository;
+use CommerceGuys\Addressing\AddressFormat\AddressFormatRepository;
 use CommerceGuys\Addressing\Repository\CountryRepository;
-use CommerceGuys\Addressing\Repository\SubdivisionRepository;
+use CommerceGuys\Addressing\Subdivision\SubdivisionRepository;
 
 $addressFormatRepository = new AddressFormatRepository();
 $countryRepository = new CountryRepository();
@@ -176,7 +176,7 @@ Checks performed:
 - The postal code is valid (country and subdivision-level patterns).
 
 ```php
-use CommerceGuys\Addressing\Model\Address;
+use CommerceGuys\Addressing\Address;
 use CommerceGuys\Addressing\Validator\Constraints\AddressFormat;
 use CommerceGuys\Addressing\Validator\Constraints\Country;
 use Symfony\Component\Validator\Validation;

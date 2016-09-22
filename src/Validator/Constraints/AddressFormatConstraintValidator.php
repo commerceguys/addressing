@@ -2,14 +2,14 @@
 
 namespace CommerceGuys\Addressing\Validator\Constraints;
 
-use CommerceGuys\Addressing\Enum\AddressField;
-use CommerceGuys\Addressing\Enum\PatternType;
-use CommerceGuys\Addressing\Model\AddressInterface;
-use CommerceGuys\Addressing\Model\AddressFormat;
-use CommerceGuys\Addressing\Repository\AddressFormatRepository;
-use CommerceGuys\Addressing\Repository\AddressFormatRepositoryInterface;
-use CommerceGuys\Addressing\Repository\SubdivisionRepository;
-use CommerceGuys\Addressing\Repository\SubdivisionRepositoryInterface;
+use CommerceGuys\Addressing\AddressInterface;
+use CommerceGuys\Addressing\AddressFormat\AddressField;
+use CommerceGuys\Addressing\AddressFormat\AddressFormat;
+use CommerceGuys\Addressing\AddressFormat\AddressFormatRepository;
+use CommerceGuys\Addressing\AddressFormat\AddressFormatRepositoryInterface;
+use CommerceGuys\Addressing\Subdivision\PatternType;
+use CommerceGuys\Addressing\Subdivision\SubdivisionRepository;
+use CommerceGuys\Addressing\Subdivision\SubdivisionRepositoryInterface;
 use Symfony\Component\Validator\Constraint;
 use Symfony\Component\Validator\ConstraintValidator;
 use Symfony\Component\Validator\Exception\UnexpectedTypeException;

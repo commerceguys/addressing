@@ -2,11 +2,11 @@
 
 namespace CommerceGuys\Addressing\Tests\Formatter;
 
-use CommerceGuys\Addressing\Model\Address;
+use CommerceGuys\Addressing\Address;
+use CommerceGuys\Addressing\AddressFormat\AddressFormatRepository;
+use CommerceGuys\Addressing\Country\CountryRepository;
 use CommerceGuys\Addressing\Formatter\PostalLabelFormatter;
-use CommerceGuys\Addressing\Repository\AddressFormatRepository;
-use CommerceGuys\Addressing\Repository\CountryRepository;
-use CommerceGuys\Addressing\Repository\SubdivisionRepository;
+use CommerceGuys\Addressing\Subdivision\SubdivisionRepository;
 
 /**
  * @coversDefaultClass \CommerceGuys\Addressing\Formatter\PostalLabelFormatter

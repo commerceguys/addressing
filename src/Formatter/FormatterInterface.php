@@ -2,7 +2,7 @@
 
 namespace CommerceGuys\Addressing\Formatter;
 
-use CommerceGuys\Addressing\Model\AddressInterface;
+use CommerceGuys\Addressing\AddressInterface;
 
 interface FormatterInterface
 {

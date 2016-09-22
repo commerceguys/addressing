@@ -2,7 +2,7 @@
 
 namespace CommerceGuys\Addressing\Validator\Constraints;
 
-use CommerceGuys\Addressing\Enum\AddressField;
+use CommerceGuys\Addressing\AddressFormat\AddressField;
 use Symfony\Component\Validator\Constraint;
 
 /**

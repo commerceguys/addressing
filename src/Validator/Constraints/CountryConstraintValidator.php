@@ -2,8 +2,8 @@
 
 namespace CommerceGuys\Addressing\Validator\Constraints;
 
-use CommerceGuys\Addressing\Repository\CountryRepository;
-use CommerceGuys\Addressing\Repository\CountryRepositoryInterface;
+use CommerceGuys\Addressing\Country\CountryRepository;
+use CommerceGuys\Addressing\Country\CountryRepositoryInterface;
 use Symfony\Component\Validator\Constraint;
 use Symfony\Component\Validator\ConstraintValidator;
 use Symfony\Component\Validator\Exception\UnexpectedTypeException;
