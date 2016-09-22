@@ -3,7 +3,7 @@ addressing
 
 [![Build Status](https://travis-ci.org/commerceguys/addressing.svg?branch=master)](https://travis-ci.org/commerceguys/addressing)
 
-A PHP 5.4+ addressing library, powered by Google's dataset.
+A PHP 5.5+ addressing library, powered by Google's dataset.
 
 Stores and manipulates postal addresses, meant to identify a precise recipient location for shipping or billing purposes.
 
