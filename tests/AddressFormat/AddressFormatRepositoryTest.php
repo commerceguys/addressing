@@ -14,6 +14,8 @@ class AddressFormatRepositoryTest extends \PHPUnit_Framework_TestCase
 {
     /**
      * @covers ::get
+     * @covers ::processDefinition
+     * @covers ::getGenericDefinition
      * @covers ::getDefinitions
      */
     public function testGet()
@@ -32,6 +34,8 @@ class AddressFormatRepositoryTest extends \PHPUnit_Framework_TestCase
 
     /**
      * @covers ::get
+     * @covers ::processDefinition
+     * @covers ::getGenericDefinition
      * @covers ::getDefinitions
      */
     public function testGetNonExistingAddressFormat()
@@ -43,6 +47,8 @@ class AddressFormatRepositoryTest extends \PHPUnit_Framework_TestCase
 
     /**
      * @covers ::getAll
+     * @covers ::processDefinition
+     * @covers ::getGenericDefinition
      * @covers ::getDefinitions
      */
     public function testGetAll()
@@ -50,10 +56,10 @@ class AddressFormatRepositoryTest extends \PHPUnit_Framework_TestCase
         $addressFormatRepository = new AddressFormatRepository();
         $addressFormats = $addressFormatRepository->getAll();
         $this->assertArrayHasKey('ES', $addressFormats);
-        $this->assertArrayHasKey('ZZ', $addressFormats);
+        $this->assertArrayHasKey('RS', $addressFormats);
         $this->assertEquals('ES', $addressFormats['ES']->getCountryCode());
         $this->assertEquals(LocalityType::CITY, $addressFormats['ES']->getLocalityType());
-        $this->assertEquals('ZZ', $addressFormats['ZZ']->getCountryCode());
-        $this->assertEquals(LocalityType::CITY, $addressFormats['ZZ']->getLocalityType());
+        $this->assertEquals('RS', $addressFormats['RS']->getCountryCode());
+        $this->assertEquals(LocalityType::CITY, $addressFormats['RS']->getLocalityType());
     }
 }

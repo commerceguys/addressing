@@ -20,7 +20,9 @@ final class AddressField extends AbstractEnum
     const ADDRESS_LINE1 = 'addressLine1';
     const ADDRESS_LINE2 = 'addressLine2';
     const ORGANIZATION = 'organization';
-    const RECIPIENT = 'recipient';
+    const GIVEN_NAME = 'givenName';
+    const ADDITIONAL_NAME = 'additionalName';
+    const FAMILY_NAME = 'familyName';
 
     /**
      * Gets the tokens (values prefixed with %).

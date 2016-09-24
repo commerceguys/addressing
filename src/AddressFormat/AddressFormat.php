@@ -199,7 +199,7 @@ class AddressFormat
      * prefixed with a '%') separated by unix newlines (\n).
      * Example:
      * <code>
-     * %recipient
+     * %givenName %familyName
      * %organization
      * %addressLine1
      * %addressLine2
@@ -218,7 +218,7 @@ class AddressFormat
      *
      * Defined for countries that use a different ordering of fields when the
      * address is entered in the native script. For example, China uses a
-     * major-to-minor format (country first, recipient last) when the address
+     * major-to-minor format (country first, name last) when the address
      * is entered in Chinese.
      *
      * @return string|null The local format string, if defined.

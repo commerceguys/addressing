@@ -133,9 +133,13 @@ function file_put_php($filename, $data)
     $data = var_export($data, true);
     // The var_export output is terrible, so try to get it as close as possible
     // to the final result.
+    $array_keys = [
+        '0 => ', '1 => ', '2 => ', '3 => ', '4 => ', '5 => ',
+        '6 => ', '7 => ', '8 => ', '9 => ', '10 => ', '11 => ',
+    ];
     $data = str_replace(['array (', "),\n", "=> \n  "], ['[', "],\n", '=> '], $data);
     $data = str_replace('=>   [', '=> [', $data);
-    $data = str_replace(['0 => ', '1 => ', '2 => ', '3 => ', '4 => ', '5 => '], '', $data);
+    $data = str_replace($array_keys, '', $data);
     // Put fields into one row.
     $find = [];
     $replace = [];
@@ -310,16 +314,12 @@ function create_address_format_definition($countryCode, $rawDefinition)
         'required_fields' => convert_fields($rawDefinition['require'], 'required'),
         'uppercase_fields' => convert_fields($rawDefinition['upper'], 'uppercase'),
     ];
-    // Make sure the recipient is always required by default.
-    if (!empty($addressFormat['required_fields']) && !in_array(AddressField::RECIPIENT, $addressFormat['required_fields'])) {
-        $addressFormat['required_fields'] = array_merge([AddressField::RECIPIENT], $addressFormat['required_fields']);
-    }
 
     if (isset($rawDefinition['lfmt']) && $rawDefinition['lfmt'] != $rawDefinition['fmt']) {
-        $addressFormat['format'] = convert_format($rawDefinition['lfmt']);
-        $addressFormat['local_format'] = convert_format($rawDefinition['fmt']);
+        $addressFormat['format'] = convert_format($countryCode, $rawDefinition['lfmt']);
+        $addressFormat['local_format'] = convert_format($countryCode, $rawDefinition['fmt']);
     } else {
-        $addressFormat['format'] = convert_format($rawDefinition['fmt']);
+        $addressFormat['format'] = convert_format($countryCode, $rawDefinition['fmt']);
         // We don't need the locale if there's no local format.
         unset($addressFormat['locale']);
     }
@@ -451,10 +451,22 @@ function process_locale($locale) {
 /**
  * Converts the provided format string into one recognized by the library.
  */
-function convert_format($format)
+function convert_format($countryCode, $format)
 {
     if (empty($format)) {
         return null;
+    }
+    // Expand the recipient token into separate familyName/givenName tokens.
+    // The additionalName field is not used by default.
+    // Hardcode the list of countries that write the family name before the
+    // given name, since the API doesn't give us that info.
+    $reverseCountries = [
+        'KH', 'CN', 'HU', 'JP', 'KO', 'MG', 'TW', 'VN',
+    ];
+    if (in_array($countryCode, $reverseCountries)) {
+        $format = str_replace('%N', '%N3% N1', $format);
+    } else {
+        $format = str_replace('%N', '%N1 %N3', $format);
     }
     // Expand the address token into separate tokens for address lines 1 and 2.
     // Follow the direction of the fields.
@@ -473,7 +485,9 @@ function convert_format($format)
         '%1' => '%' . AddressField::ADDRESS_LINE1,
         '%2' => '%' . AddressField::ADDRESS_LINE2,
         '%O' => '%' . AddressField::ORGANIZATION,
-        '%N' => '%' . AddressField::RECIPIENT,
+        '%N3' => '%' . AddressField::FAMILY_NAME,
+        '%N2' => '%' . AddressField::ADDITIONAL_NAME,
+        '%N1' => '%' . AddressField::GIVEN_NAME,
         '%n' => "\n",
     ];
     $format = strtr($format, $replacements);
@@ -495,6 +509,13 @@ function convert_fields($fields, $type)
         return [];
     }
 
+    // Expand the name token into separate tokens.
+    if ($type == 'required') {
+        // The additional name is never required.
+        $fields = str_replace('N', '79', $fields);
+    } else {
+        $fields = str_replace('N', '789', $fields);
+    }
     // Expand the address token into separate tokens for address lines 1 and 2.
     // For required fields it's enough to require the first line.
     if ($type == 'required') {
@@ -512,7 +533,9 @@ function convert_fields($fields, $type)
         '1' => AddressField::ADDRESS_LINE1,
         '2' => AddressField::ADDRESS_LINE2,
         'O' => AddressField::ORGANIZATION,
-        'N' => AddressField::RECIPIENT,
+        '7' => AddressField::FAMILY_NAME,
+        '8' => AddressField::ADDITIONAL_NAME,
+        '9' => AddressField::GIVEN_NAME,
     ];
 
     $fields = str_split($fields);

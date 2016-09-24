@@ -81,15 +81,6 @@ interface ImmutableAddressInterface extends AddressInterface
     public function withAddressLine2($addressLine2);
 
     /**
-     * Returns an instance with the specified recipient.
-     *
-     * @param string $recipient The recipient.
-     *
-     * @return self A clone of $this.
-     */
-    public function withRecipient($recipient);
-
-    /**
      * Returns an instance with the specified organization.
      *
      * @param string $organization The organization.
@@ -97,6 +88,33 @@ interface ImmutableAddressInterface extends AddressInterface
      * @return self A clone of $this.
      */
     public function withOrganization($organization);
+
+    /**
+     * Returns an instance with the specified given name.
+     *
+     * @param string $givenName The given name.
+     *
+     * @return self A clone of $this.
+     */
+    public function withGivenName($givenName);
+
+    /**
+     * Returns an instance with the specified additional name.
+     *
+     * @param string $additionalName The additional name.
+     *
+     * @return self A clone of $this.
+     */
+    public function withAdditionalName($additionalName);
+
+    /**
+     * Returns an instance with the specified family name.
+     *
+     * @param string $familyName The family name.
+     *
+     * @return self A clone of $this.
+     */
+    public function withFamilyName($familyName);
 
     /**
      * Returns an instance with the specified locale.

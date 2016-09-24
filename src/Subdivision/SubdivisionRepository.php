@@ -179,7 +179,7 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
      *
      * Adds keys and values that were removed from the JSON files for brevity.
      *
-     * @param array $definitions The definitions
+     * @param array $definitions The definitions.
      *
      * @return array The processed definitions.
      */

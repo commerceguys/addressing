@@ -15,9 +15,9 @@ class AddressFormatHelperTest extends \PHPUnit_Framework_TestCase
      */
     public function testGetGroupedFields()
     {
-        $format = "%recipient\n%organization\n%addressLine1\n%addressLine2\n%locality, %postalCode";
+        $format = "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%locality, %postalCode";
         $expectedGroupedFields = [
-            [AddressField::RECIPIENT],
+            [AddressField::GIVEN_NAME, AddressField::FAMILY_NAME],
             [AddressField::ORGANIZATION],
             [AddressField::ADDRESS_LINE1],
             [AddressField::ADDRESS_LINE2],

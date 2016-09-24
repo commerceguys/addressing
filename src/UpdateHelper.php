@@ -3,9 +3,10 @@
 namespace CommerceGuys\Addressing;
 
 /**
- * The 1.0 branch of Addressing introduced one big change:
- * - Subdivision ids were removed, the subdivision code is now stored directly.
- * This change requires updating every stored address.
+ * The 1.0 branch of Addressing introduced two big changes:
+ * - The recipient was split into given_name, additional_name, family_name.
+ * - Subdivision IDs were removed, the subdivision code is now stored directly.
+ * These two changes require updating every stored address.
  * This class provides helpers for performing that update.
  */
 class UpdateHelper
@@ -16,6 +17,32 @@ class UpdateHelper
      * @var array
      */
     static protected $subdivisionUpdateMap = [];
+
+    /**
+     * Splits the recipient into givenName and familyName fields.
+     *
+     * @param string $recipient   The recipient.
+     * @param string $countryCode The country code.
+     *
+     * @return array The result, with givenName and familyName keys.
+     */
+    public static function splitRecipient($recipient, $countryCode)
+    {
+        // Countries that write the family name before the given name.
+        $reverseCountries = [
+            'KH', 'CN', 'HU', 'JP', 'KO', 'MG', 'TW', 'VN',
+        ];
+        $recipientParts = explode(' ', $recipient);
+        if (in_array($countryCode, $reverseCountries)) {
+            $familyName = array_shift($recipientParts);
+            $givenName = implode(' ', $recipientParts);
+        } else {
+            $familyName = array_pop($recipientParts);
+            $givenName = implode(' ', $recipientParts);
+        }
+
+        return ['givenName' => $givenName, 'familyName' => $familyName];
+    }
 
     /**
      * Updates the subdivision.

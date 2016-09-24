@@ -37,7 +37,7 @@ class AddressFormatTest extends \PHPUnit_Framework_TestCase
     {
         $definition = [
             'country_code' => 'US',
-            'format' => "%recipient\n%organization\n%addressLine1\n%addressLine2\n%dependentLocality",
+            'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%dependentLocality",
             'required_fields' => [AddressField::ADDRESS_LINE1],
             'dependent_locality_type' => 'WRONG',
         ];
@@ -66,9 +66,9 @@ class AddressFormatTest extends \PHPUnit_Framework_TestCase
         $definition = [
             'country_code' => 'US',
             'locale' => 'en',
-            'format' => "%recipient\n%organization\n%addressLine1\n%addressLine2\n%locality, %administrativeArea %postalCode",
+            'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%locality, %administrativeArea %postalCode",
             // The local format is made up, US doesn't have one usually.
-            'local_format' => '%postalCode\n%addressLine1\n%organization\n%recipient',
+            'local_format' => '%postalCode\n%addressLine1\n%organization\n%givenName %familyName',
             'required_fields' => [
                 AddressField::ADMINISTRATIVE_AREA,
                 AddressField::LOCALITY,
@@ -110,7 +110,8 @@ class AddressFormatTest extends \PHPUnit_Framework_TestCase
             AddressField::ADDRESS_LINE1,
             AddressField::ADDRESS_LINE2,
             AddressField::ORGANIZATION,
-            AddressField::RECIPIENT,
+            AddressField::GIVEN_NAME,
+            AddressField::FAMILY_NAME,
         ];
         $this->assertEquals($expectedUsedFields, $addressFormat->getUsedFields());
         $expectedUsedSubdivisionFields = [

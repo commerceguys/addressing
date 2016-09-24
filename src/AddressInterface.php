@@ -97,18 +97,36 @@ interface AddressInterface
     public function getAddressLine2();
 
     /**
-     * Gets the recipient.
-     *
-     * @return string The recipient.
-     */
-    public function getRecipient();
-
-    /**
      * Gets the organization.
      *
      * @return string The organization.
      */
     public function getOrganization();
+
+    /**
+     * Gets the given name (i.e first name).
+     *
+     * @return string The given name.
+     */
+    public function getGivenName();
+
+    /**
+     * Gets the additional name.
+     *
+     * Can be used to hold a middle name, or a patronymic.
+     * If a remote API does not have an additional_name/middle_name parameter,
+     * append it to the given name.
+     *
+     * @return string The additional name.
+     */
+    public function getAdditionalName();
+
+    /**
+     * Gets the family name (i.e last name).
+     *
+     * @return string The family name.
+     */
+    public function getFamilyName();
 
     /**
      * Gets the locale.

@@ -73,11 +73,25 @@ class Address implements ImmutableAddressInterface
     protected $organization;
 
     /**
-     * The recipient.
+     * The given name.
      *
      * @var string
      */
-    protected $recipient;
+    protected $givenName;
+
+    /**
+     * The additional name
+     *
+     * @var string
+     */
+    protected $additionalName;
+
+    /**
+     * The family name.
+     *
+     * @var string
+     */
+    protected $familyName;
 
     /**
      * The locale.
@@ -98,7 +112,9 @@ class Address implements ImmutableAddressInterface
      * @param string $addressLine1       The first line of the address block.
      * @param string $addressLine2       The second line of the address block.
      * @param string $organization       The organization.
-     * @param string $recipient          The recipient.
+     * @param string $givenName          The given name.
+     * @param string $additionalName     The additional name.
+     * @param string $familyName         The family name.
      * @param string $locale             The locale. Defaults to 'und'.
      */
     public function __construct(
@@ -111,7 +127,9 @@ class Address implements ImmutableAddressInterface
         $addressLine1 = '',
         $addressLine2 = '',
         $organization = '',
-        $recipient = '',
+        $givenName = '',
+        $additionalName = '',
+        $familyName = '',
         $locale = 'und'
     ) {
         $this->countryCode = $countryCode;
@@ -123,7 +141,9 @@ class Address implements ImmutableAddressInterface
         $this->addressLine1 = $addressLine1;
         $this->addressLine2 = $addressLine2;
         $this->organization = $organization;
-        $this->recipient = $recipient;
+        $this->givenName = $givenName;
+        $this->additionalName = $additionalName;
+        $this->familyName = $familyName;
         $this->locale = $locale;
     }
 
@@ -301,18 +321,56 @@ class Address implements ImmutableAddressInterface
     /**
      * {@inheritdoc}
      */
-    public function getRecipient()
+    public function getGivenName()
     {
-        return $this->recipient;
+        return $this->givenName;
     }
 
     /**
      * {@inheritdoc}
      */
-    public function withRecipient($recipient)
+    public function withGivenName($givenName)
     {
         $new = clone $this;
-        $new->recipient = $recipient;
+        $new->givenName = $givenName;
+
+        return $new;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function getAdditionalName()
+    {
+        return $this->additionalName;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function withAdditionalName($additionalName)
+    {
+        $new = clone $this;
+        $new->additionalName = $additionalName;
+
+        return $new;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function getFamilyName()
+    {
+        return $this->familyName;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function withFamilyName($familyName)
+    {
+        $new = clone $this;
+        $new->familyName = $familyName;
 
         return $new;
     }

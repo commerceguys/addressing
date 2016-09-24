@@ -15,8 +15,8 @@ final class AddressFormatHelper
      * @return array An array of address fields grouped by line, in the same
      *               order as they appear in the format string. For example:
      *               [
-     *                 ['recipient'],
-     *                 ['organization'],
+     *                 [givenName, familyName],
+     *                 [organization],
      *                 [addressLine1],
      *                 [addressLine2],
      *                 [locality, administrativeArea, postalCode]

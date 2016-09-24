@@ -205,7 +205,8 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
             // Any HTML in the fields is supposed to be removed when formatting
             // for text, and escaped when formatting for html.
             ->withOrganization('Giant <h2>Bike</h2> Store')
-            ->withRecipient('Mr. Liu')
+            ->withGivenName('Te-Chiang')
+            ->withFamilyName('Liu')
             ->withLocale('zh-Hant');
         $this->formatter->setLocale('zh-Hant');
 
@@ -220,7 +221,7 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
             '<span class="administrative-area">台北市</span><span class="locality">大安區</span><br>',
             '<span class="address-line1">Sec. 3 Hsin-yi Rd.</span><br>',
             '<span class="organization">Giant &lt;h2&gt;Bike&lt;/h2&gt; Store</span><br>',
-            '<span class="recipient">Mr. Liu</span>',
+            '<span class="family-name">Liu</span> <span class="given-name">Te-Chiang</span>',
             '</p>',
         ];
         $htmlAddress = $this->formatter->format($address);
@@ -232,7 +233,7 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
             '台北市大安區',
             'Sec. 3 Hsin-yi Rd.',
             'Giant Bike Store',
-            'Mr. Liu',
+            'Liu Te-Chiang',
         ];
         $this->formatter->setOption('html', false);
         $textAddress = $this->formatter->format($address);

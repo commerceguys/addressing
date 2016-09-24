@@ -10,6 +10,17 @@ use CommerceGuys\Addressing\UpdateHelper;
 class UpdateHelperTest extends \PHPUnit_Framework_TestCase
 {
     /**
+     * @covers ::splitRecipient
+     */
+    public function testSplitRecipient()
+    {
+        $expectedName = ['givenName' => 'Erzsébet', 'familyName' => 'Báthory'];
+        $this->assertEquals($expectedName, UpdateHelper::splitRecipient('Báthory Erzsébet', 'HU'));
+        $expectedName = ['givenName' => 'Matt', 'familyName' => 'Glaman'];
+        $this->assertEquals($expectedName, UpdateHelper::splitRecipient('Matt Glaman', 'US'));
+    }
+
+    /**
      * @covers ::updateSubdivision
      * @covers ::loadSubdivisionUpdateMap
      */

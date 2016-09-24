@@ -14,7 +14,7 @@ class AddressTest extends \PHPUnit_Framework_TestCase
      */
     public function testConstructor()
     {
-        $address = new Address('US', 'CA', 'Mountain View', 'MV', '94043', '94044', '1600 Amphitheatre Parkway', 'Google Bldg 41', 'Google Inc.', 'John Smith', 'en');
+        $address = new Address('US', 'CA', 'Mountain View', 'MV', '94043', '94044', '1600 Amphitheatre Parkway', 'Google Bldg 41', 'Google Inc.', 'John', '', 'Smith', 'en');
         $this->assertEquals('US', $address->getCountryCode());
         $this->assertEquals('CA', $address->getAdministrativeArea());
         $this->assertEquals('Mountain View', $address->getLocality());
@@ -24,7 +24,8 @@ class AddressTest extends \PHPUnit_Framework_TestCase
         $this->assertEquals('1600 Amphitheatre Parkway', $address->getAddressLine1());
         $this->assertEquals('Google Bldg 41', $address->getAddressLine2());
         $this->assertEquals('Google Inc.', $address->getOrganization());
-        $this->assertEquals('John Smith', $address->getRecipient());
+        $this->assertEquals('John', $address->getGivenName());
+        $this->assertEquals('Smith', $address->getFamilyName());
         $this->assertEquals('en', $address->getLocale());
     }
 
@@ -121,13 +122,33 @@ class AddressTest extends \PHPUnit_Framework_TestCase
     }
 
     /**
-     * @covers ::getRecipient
-     * @covers ::withRecipient
+     * @covers ::getGivenName
+     * @covers ::withGivenName
      */
-    public function testRecipient()
+    public function testGivenName()
     {
-        $address = (new Address())->withRecipient('John Smith');
-        $this->assertEquals('John Smith', $address->getRecipient());
+        $address = (new Address())->withGivenName('John');
+        $this->assertEquals('John', $address->getGivenName());
+    }
+
+    /**
+     * @covers ::getAdditionalName
+     * @covers ::withAdditionalName
+     */
+    public function testAdditionalName()
+    {
+        $address = (new Address())->withAdditionalName('L.');
+        $this->assertEquals('L.', $address->getAdditionalName());
+    }
+
+    /**
+     * @covers ::getFamilyName
+     * @covers ::withFamilyName
+     */
+    public function testFamilyName()
+    {
+        $address = (new Address())->withFamilyName('Smith');
+        $this->assertEquals('Smith', $address->getFamilyName());
     }
 
     /**

@@ -74,7 +74,8 @@ class AddressFormatConstraintValidatorTest extends AbstractConstraintValidatorTe
             ->withLocality("Parròquia d'Andorra la Vella")
             ->withPostalCode('AD500')
             ->withAddressLine1('C. Prat de la Creu, 62-64')
-            ->withRecipient('Antoni Martí Petit');
+            ->withGivenName('Antoni')
+            ->withFamilyName('Martí');
 
         $this->validator->validate($address, $this->constraint);
         $this->assertNoViolation();
@@ -93,7 +94,8 @@ class AddressFormatConstraintValidatorTest extends AbstractConstraintValidatorTe
             ->withLocality('INVALID')
             ->withPostalCode('AD500')
             ->withAddressLine1('C. Prat de la Creu, 62-64')
-            ->withRecipient('Antoni Martí Petit');
+            ->withGivenName('Antoni')
+            ->withFamilyName('Martí');
 
         $this->validator->validate($address, $this->constraint);
         $this->buildViolation($this->constraint->invalidMessage)
@@ -114,7 +116,8 @@ class AddressFormatConstraintValidatorTest extends AbstractConstraintValidatorTe
             ->withLocality('Mountain View')
             ->withPostalCode('94043')
             ->withAddressLine1('1098 Alta Ave')
-            ->withRecipient('John Smith');
+            ->withGivenName('John')
+            ->withFamilyName('Smith');
 
         $this->validator->validate($address, $this->constraint);
         $this->assertNoViolation();
@@ -131,7 +134,8 @@ class AddressFormatConstraintValidatorTest extends AbstractConstraintValidatorTe
             ->withAdministrativeArea('CA')
             // Fails the format-level check.
             ->withPostalCode('909')
-            ->withRecipient('John Smith');
+            ->withGivenName('John')
+            ->withFamilyName('Smith');
 
         $this->validator->validate($address, $this->constraint);
         $this->buildViolation($this->constraint->notBlankMessage)
@@ -159,7 +163,8 @@ class AddressFormatConstraintValidatorTest extends AbstractConstraintValidatorTe
             ->withAddressLine1('1098 Alta Ave')
             // Satisfies the format-level check, fails the subdivision-level one.
             ->withPostalCode('84025')
-            ->withRecipient('John Smith');
+            ->withGivenName('John')
+            ->withFamilyName('Smith');
 
         $this->validator->validate($address, $this->constraint);
         $this->buildViolation($this->constraint->invalidMessage)
@@ -180,7 +185,8 @@ class AddressFormatConstraintValidatorTest extends AbstractConstraintValidatorTe
             ->withLocality('Xicheng Qu')
             ->withPostalCode('123456')
             ->withAddressLine1('Yitiao Lu')
-            ->withRecipient('John Smith');
+            ->withGivenName('John')
+            ->withFamilyName('Smith');
 
         $this->validator->validate($address, $this->constraint);
         $this->assertNoViolation();
@@ -198,7 +204,8 @@ class AddressFormatConstraintValidatorTest extends AbstractConstraintValidatorTe
             ->withPostalCode('10553')
             ->withAddressLine1('Huttenstr. 50')
             ->withOrganization('BMW AG Niederkassung Berlin')
-            ->withRecipient('Herr Diefendorf');
+            ->withGivenName('Dieter')
+            ->withFamilyName('Diefendorf');
 
         $this->validator->validate($address, $this->constraint);
         $this->assertNoViolation();
@@ -224,7 +231,8 @@ class AddressFormatConstraintValidatorTest extends AbstractConstraintValidatorTe
             ->withAdministrativeArea('Co. Donegal')
             ->withLocality('Dublin')
             ->withAddressLine1('7424 118 Avenue NW')
-            ->withRecipient("Conan O'Brien");
+            ->withGivenName('Conan')
+            ->withFamilyName("O'Brien");
 
         $this->validator->validate($address, $this->constraint);
         $this->assertNoViolation();
@@ -248,7 +256,8 @@ class AddressFormatConstraintValidatorTest extends AbstractConstraintValidatorTe
             ->withAdministrativeArea('Beijing Shi')
             ->withLocality('Xicheng Qu')
             ->withPostalCode('InvalidValue')
-            ->withRecipient('John Smith');
+            ->withGivenName('John')
+            ->withFamilyName('Smith');
 
         $this->validator->validate($address, $this->constraint);
         $this->buildViolation($this->constraint->notBlankMessage)
@@ -271,7 +280,8 @@ class AddressFormatConstraintValidatorTest extends AbstractConstraintValidatorTe
             ->withLocality('San Pedro de Atacama')
             ->withPostalCode('')
             ->withAddressLine1('GUSTAVO LE PAIGE ST #159')
-            ->withRecipient('John Smith');
+            ->withGivenName('John')
+            ->withFamilyName('Smith');
 
         $this->validator->validate($address, $this->constraint);
         $this->assertNoViolation();
@@ -285,7 +295,8 @@ class AddressFormatConstraintValidatorTest extends AbstractConstraintValidatorTe
             ->withAdministrativeArea('CA')
             ->withLocality('California')
             ->withAddressLine1('1098 Alta Ave')
-            ->withRecipient('John Smith');
+            ->withGivenName('John')
+            ->withFamilyName('Smith');
 
         $this->validator->validate($address, $this->constraint);
         $this->buildViolation($this->constraint->notBlankMessage)
@@ -307,7 +318,8 @@ class AddressFormatConstraintValidatorTest extends AbstractConstraintValidatorTe
             ->withDependentLocality('Xitun District')
             ->withPostalCode('407')
             ->withAddressLine1('12345 Yitiao Lu')
-            ->withRecipient('John Smith');
+            ->withGivenName('John')
+            ->withFamilyName('Smith');
 
         $this->validator->validate($address, $this->constraint);
         $this->assertNoViolation();
@@ -326,7 +338,8 @@ class AddressFormatConstraintValidatorTest extends AbstractConstraintValidatorTe
             ->withDependentLocality('InvalidValue')
             ->withPostalCode('407')
             ->withAddressLine1('12345 Yitiao Lu')
-            ->withRecipient('John Smith');
+            ->withGivenName('John')
+            ->withFamilyName('Smith');
 
         $this->validator->validate($address, $this->constraint);
         $this->buildViolation($this->constraint->invalidMessage)
@@ -345,7 +358,8 @@ class AddressFormatConstraintValidatorTest extends AbstractConstraintValidatorTe
             ->withAdministrativeArea('CA')
             ->withLocality('Mountain View')
             ->withPostalCode('94043')
-            ->withRecipient('John Smith');
+            ->withGivenName('John')
+            ->withFamilyName('Smith');
 
         $this->validator->validate($address, $this->constraint);
         $this->buildViolation($this->constraint->notBlankMessage)
@@ -366,7 +380,8 @@ class AddressFormatConstraintValidatorTest extends AbstractConstraintValidatorTe
             ->withLocality('Shigeru Miyamoto')
             ->withPostalCode('601-8501')
             ->withAddressLine1('11-1 Kamitoba-hokotate-cho')
-            ->withRecipient('John Smith');
+            ->withGivenName('John')
+            ->withFamilyName('Smith');
 
         $this->validator->validate($address, $this->constraint);
         $this->assertNoViolation();
@@ -384,7 +399,8 @@ class AddressFormatConstraintValidatorTest extends AbstractConstraintValidatorTe
             ->withLocality('Montreal')
             ->withPostalCode('H2b 2y5')
             ->withAddressLine1('11 East St')
-            ->withRecipient('Joe Bloggs');
+            ->withGivenName('Joe')
+            ->withFamilyName('Bloggs');
 
         $this->validator->validate($address, $this->constraint);
         $this->assertNoViolation();
@@ -403,7 +419,8 @@ class AddressFormatConstraintValidatorTest extends AbstractConstraintValidatorTe
             ->withPostalCode('H2b 2y5')
             ->withSortingCode('InvalidValue')
             ->withAddressLine1('11 East St')
-            ->withRecipient('Joe Bloggs');
+            ->withGivenName('Joe')
+            ->withFamilyName('Bloggs');
 
         $this->validator->validate($address, $this->constraint);
         $this->buildViolation($this->constraint->blankMessage)
@@ -418,7 +435,8 @@ class AddressFormatConstraintValidatorTest extends AbstractConstraintValidatorTe
     {
         $allFields = AddressField::getAll();
 
-        $this->constraint->fields = array_diff($allFields, [AddressField::RECIPIENT]);
+        $nameFields = [AddressField::GIVEN_NAME, AddressField::FAMILY_NAME];
+        $this->constraint->fields = array_diff($allFields, $nameFields);
         $address = new Address();
         $address = $address
             ->withCountryCode('CN')
@@ -432,7 +450,8 @@ class AddressFormatConstraintValidatorTest extends AbstractConstraintValidatorTe
         $this->constraint->fields = array_diff($allFields, [AddressField::POSTAL_CODE]);
         $address = $address
             ->withPostalCode('INVALID')
-            ->withRecipient('John Smith');
+            ->withGivenName('John')
+            ->withFamilyName('Smith');
         $this->validator->validate($address, $this->constraint);
         $this->assertNoViolation();
 

@@ -34,7 +34,9 @@ The [address interface](https://github.com/commerceguys/addressing/blob/master/s
 - Address line 1
 - Address line 2
 - Organization
-- Recipient
+- Given name (First name)
+- Additional name (Middle name / Patronymic)
+- Family name (Last name)
 
 Field names follow the OASIS [eXtensible Address Language (xAL)](http://www.oasis-open.org/committees/ciq/download.shtml) standard.
 
