@@ -43,7 +43,7 @@ file_put_contents('raw/url_list.txt', $urlList);
 
 // Invoke aria2 and fetch the data.
 echo "Downloading the raw data from Google's endpoint.\n";
-//exec('cd raw && aria2c -u 16 -i url_list.txt');
+exec('cd raw && aria2c -u 16 -i url_list.txt');
 
 // Create a list of countries for which Google has definitions.
 $foundCountries = ['ZZ'];

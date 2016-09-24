@@ -177,17 +177,17 @@ Checks performed:
 
 ```php
 use CommerceGuys\Addressing\Address;
-use CommerceGuys\Addressing\Validator\Constraints\AddressFormat;
-use CommerceGuys\Addressing\Validator\Constraints\Country;
+use CommerceGuys\Addressing\Validator\Constraints\AddressFormatConstraint;
+use CommerceGuys\Addressing\Validator\Constraints\CountryConstraint;
 use Symfony\Component\Validator\Validation;
 
 $address = new Address('FR');
 
 $validator = Validation::createValidator();
 // Validate the country code, then validate the rest of the address.
-$violations = $validator->validateValue($address->getCountryCode(), new Country());
+$violations = $validator->validate($address->getCountryCode(), new CountryConstraint());
 if (!$violations->count()) {
-  $violations = $validator->validateValue($address, new AddressFormat());
+  $violations = $validator->validate($address, new AddressFormatConstraint());
 }
 ```
 
