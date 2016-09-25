@@ -33,6 +33,7 @@ foreach ($neededDirectories as $neededDirectory) {
 
 $countryRepository = new CountryRepository();
 $countries = $countryRepository->getList();
+ksort($countries);
 $serviceUrl = 'http://i18napis.appspot.com/address';
 
 echo "Generating the url list.\n";
@@ -464,7 +465,7 @@ function convert_format($countryCode, $format)
         'KH', 'CN', 'HU', 'JP', 'KO', 'MG', 'TW', 'VN',
     ];
     if (in_array($countryCode, $reverseCountries)) {
-        $format = str_replace('%N', '%N3% N1', $format);
+        $format = str_replace('%N', '%N3 %N1', $format);
     } else {
         $format = str_replace('%N', '%N1 %N3', $format);
     }
