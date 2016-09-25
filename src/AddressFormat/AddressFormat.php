@@ -106,6 +106,13 @@ class AddressFormat
     protected $postalCodePrefix;
 
     /**
+     * The subdivision depth.
+     *
+     * @var int
+     */
+    protected $subdivisionDepth;
+
+    /**
      * Creates a new AddressFormat instance.
      *
      * @param array $definition The definition array.
@@ -128,6 +135,7 @@ class AddressFormat
             'uppercase_fields' => [],
             'postal_code_pattern' => null,
             'postal_code_prefix' => null,
+            'subdivision_depth' => 0,
         ];
         AddressField::assertAllExist($definition['required_fields']);
         AddressField::assertAllExist($definition['uppercase_fields']);
@@ -137,6 +145,7 @@ class AddressFormat
         $this->localFormat = $definition['local_format'];
         $this->requiredFields = $definition['required_fields'];
         $this->uppercaseFields = $definition['uppercase_fields'];
+        $this->subdivisionDepth = $definition['subdivision_depth'];
 
         $usedFields = $this->getUsedFields();
         if (in_array(AddressField::ADMINISTRATIVE_AREA, $usedFields)) {
@@ -363,5 +372,30 @@ class AddressFormat
     public function getPostalCodePrefix()
     {
         return $this->postalCodePrefix;
+    }
+
+    /**
+     * Gets the subdivision depth.
+     *
+     * Indicates the number of levels of predefined subdivisions.
+     *
+     * Note that a country might use a subdivision field without having
+     * predefined subdivisions for it.
+     * For example, if the locality field is used by the address format, but
+     * the subdivision depth is 1, that means that the field element should be
+     * rendered as a textbox, since there's no known data to put in a dropdown.
+     *
+     * It is also possible to have no subdivisions for specific parents, even
+     * though the country generally has predefined subdivisions at that depth.
+     *
+     * @return int The subdivision depth. Possible values:
+     *             0: no subdivisions have been predefined.
+     *             1: administrative areas.
+     *             2: administrative areas, localities.
+     *             3: administrative areas, localities, dependent localities.
+     */
+    public function getSubdivisionDepth()
+    {
+        return $this->subdivisionDepth;
     }
 }

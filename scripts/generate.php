@@ -98,9 +98,13 @@ foreach ($foundCountries as $countryCode) {
 
     $addressFormats[$countryCode] = $addressFormat;
 }
+// Generate the subdivision depths for each country.
+$depths = generate_subdivision_depths($foundCountries);
+foreach ($depths as $countryCode => $depth) {
+    $addressFormats[$countryCode]['subdivision_depth'] = $depth;
+}
 
 echo "Writing the final definitions to disk.\n";
-
 // Address formats are stored in PHP, then manually transferred to
 // AddressFormatRepository.
 file_put_php('address_formats.php', $addressFormats);
@@ -108,10 +112,6 @@ file_put_php('address_formats.php', $addressFormats);
 foreach ($groupedSubdivisions as $parentId => $subdivisions) {
     file_put_json('subdivision/' . $parentId . '.json', $subdivisions);
 }
-
-// Generate the subdivision depths for each country.
-$depths = generate_subdivision_depths($foundCountries);
-file_put_json('subdivision/depths.json', $depths);
 
 echo "Done.\n";
 
@@ -270,7 +270,7 @@ function generate_subdivision_depths($countries)
         $patterns = [
             'subdivision/' . $countryCode . '.json',
             'subdivision/' . $countryCode . '-*.json',
-            'subdivision/' . $countryCode . '-*-*.json',
+            'subdivision/' . $countryCode . '--*.json',
         ];
         foreach ($patterns as $pattern) {
             if (glob($pattern)) {
@@ -345,6 +345,10 @@ function create_address_format_definition($countryCode, $rawDefinition)
         // Workaround for https://github.com/googlei18n/libaddressinput/issues/71.
         $addressFormat['format'] = str_replace($addressFormat['postal_code_prefix'], '', $addressFormat['format']);
         $addressFormat['local_format'] = str_replace($addressFormat['postal_code_prefix'], '', $addressFormat['local_format']);
+    }
+    // Add the subdivision_depth to the end of the ZZ definition.
+    if ($countryCode == 'ZZ') {
+        $addressFormat['subdivision_depth'] = 0;
     }
 
     // Apply any customizations.

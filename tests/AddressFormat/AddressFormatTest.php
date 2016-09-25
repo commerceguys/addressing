@@ -60,6 +60,7 @@ class AddressFormatTest extends \PHPUnit_Framework_TestCase
      * @covers ::getPostalCodeType
      * @covers ::getPostalCodePattern
      * @covers ::getPostalCodePrefix
+     * @covers ::getSubdivisionDepth
      */
     public function testValid()
     {
@@ -86,6 +87,7 @@ class AddressFormatTest extends \PHPUnit_Framework_TestCase
             'postal_code_pattern' => '(\d{5})(?:[ \-](\d{4}))?',
             // US doesn't use postal code prefixes, fake one for test purposes.
             'postal_code_prefix' => 'US',
+            'subdivision_depth' => 1,
         ];
         $addressFormat = new AddressFormat($definition);
 
@@ -102,6 +104,7 @@ class AddressFormatTest extends \PHPUnit_Framework_TestCase
         $this->assertEquals($definition['postal_code_type'], $addressFormat->getPostalCodeType());
         $this->assertEquals($definition['postal_code_pattern'], $addressFormat->getPostalCodePattern());
         $this->assertEquals($definition['postal_code_prefix'], $addressFormat->getPostalCodePrefix());
+        $this->assertEquals($definition['subdivision_depth'], $addressFormat->getSubdivisionDepth());
 
         $expectedUsedFields = [
             AddressField::ADMINISTRATIVE_AREA,

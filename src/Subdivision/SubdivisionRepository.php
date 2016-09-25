@@ -2,10 +2,19 @@
 
 namespace CommerceGuys\Addressing\Subdivision;
 
+use CommerceGuys\Addressing\AddressFormat\AddressFormatRepository;
+use CommerceGuys\Addressing\AddressFormat\AddressFormatRepositoryInterface;
 use CommerceGuys\Addressing\LocaleHelper;
 
 class SubdivisionRepository implements SubdivisionRepositoryInterface
 {
+    /**
+     * The address format repository.
+     *
+     * @var AddressFormatRepository
+     */
+    protected $addressFormatRepository;
+
     /**
      * The path where subdivision definitions are stored.
      *
@@ -33,20 +42,14 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
     protected $parents = [];
 
     /**
-     * Subdivision depths.
-     *
-     * @var array
-     */
-    protected $depths = [];
-
-    /**
      * Creates a SubdivisionRepository instance.
      *
-     * @param string $definitionPath Path to the subdivision definitions.
-     *                               Defaults to 'resources/subdivision/'.
+     * @param AddressFormatRepositoryInterface $addressFormatRepository The address format repository.
+     * @param string                           $definitionPath          Path to the subdivision definitions.
      */
-    public function __construct($definitionPath = null)
+    public function __construct(AddressFormatRepositoryInterface $addressFormatRepository = null, $definitionPath = null)
     {
+        $this->addressFormatRepository = $addressFormatRepository ?: new AddressFormatRepository();
         $this->definitionPath = $definitionPath ?: __DIR__ . '/../../resources/subdivision/';
     }
 
@@ -98,19 +101,6 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
     }
 
     /**
-     * {@inheritdoc}
-     */
-    public function getDepth($countryCode)
-    {
-        if (empty($this->depths)) {
-            $filename = $this->definitionPath . 'depths.json';
-            $this->depths = json_decode(file_get_contents($filename), true);
-        }
-
-        return isset($this->depths[$countryCode]) ? $this->depths[$countryCode] : 0;
-    }
-
-    /**
      * Checks whether predefined subdivisions exist for the provided parents.
      *
      * @param array $parents The parents (country code, subdivision codes).
@@ -121,7 +111,8 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
     protected function hasData(array $parents)
     {
         $countryCode = $parents[0];
-        $depth = $this->getDepth($countryCode);
+        $addressFormat = $this->addressFormatRepository->get($countryCode);
+        $depth = $addressFormat->getSubdivisionDepth();
         if ($depth == 0) {
             return false;
         }

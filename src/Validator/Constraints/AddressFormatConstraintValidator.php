@@ -103,7 +103,7 @@ class AddressFormatConstraintValidator extends ConstraintValidator
     protected function validateSubdivisions($values, AddressFormat $addressFormat, $constraint)
     {
         $countryCode = $addressFormat->getCountryCode();
-        if ($this->subdivisionRepository->getDepth($countryCode) < 1) {
+        if ($addressFormat->getSubdivisionDepth() < 1) {
             // No predefined subdivisions exist, nothing to validate against.
             return [];
         }
