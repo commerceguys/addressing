@@ -41,8 +41,20 @@ class AddressFormatRepositoryTest extends \PHPUnit_Framework_TestCase
     public function testGetNonExistingAddressFormat()
     {
         $addressFormatRepository = new AddressFormatRepository();
-        $addressFormat = $addressFormatRepository->get('Kitten');
+        $addressFormat = $addressFormatRepository->get('ZZ');
         $this->assertEquals('ZZ', $addressFormat->getCountryCode());
+    }
+
+    /**
+     * @covers ::get
+     *
+     * @expectedException \InvalidArgumentException
+     * @expectedExceptionMessage Invalid country code "Kitten" provided.
+     */
+    public function testGetInvalidAddressFormat()
+    {
+        $addressFormatRepository = new AddressFormatRepository();
+        $addressFormat = $addressFormatRepository->get('Kitten');
     }
 
     /**

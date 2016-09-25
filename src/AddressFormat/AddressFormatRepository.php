@@ -5,27 +5,35 @@ namespace CommerceGuys\Addressing\AddressFormat;
 class AddressFormatRepository implements AddressFormatRepositoryInterface
 {
     /**
+     * The instantiated address formats, keyed by country code.
+     *
+     * @var array
+     */
+    protected $addressFormats = [];
+
+    /**
      * {@inheritdoc}
      */
-    public function get($countryCode, $locale = null)
+    public function get($countryCode)
     {
-        $definitions = $this->getDefinitions();
-        if (isset($definitions[$countryCode])) {
-            $definition = $definitions[$countryCode];
-        } else {
-            $countryCode = 'ZZ';
-            $definition = [];
+        if (!isset($this->addressFormats[$countryCode])) {
+            // Assert the basic country code format (2 uppercase letters).
+            if (strlen($countryCode) != 2 || !ctype_upper($countryCode)) {
+                throw new \InvalidArgumentException(sprintf('Invalid country code "%s" provided.', $countryCode));
+            }
+            $definitions = $this->getDefinitions();
+            $definition = isset($definitions[$countryCode]) ? $definitions[$countryCode] : [];
+            $definition = $this->processDefinition($countryCode, $definition);
+            $this->addressFormats[$countryCode] = new AddressFormat($definition);
         }
-        $definition = $this->processDefinition($countryCode, $definition);
-        $addressFormat = new AddressFormat($definition);
 
-        return $addressFormat;
+        return $this->addressFormats[$countryCode];
     }
 
     /**
      * {@inheritdoc}
      */
-    public function getAll($locale = null)
+    public function getAll()
     {
         $definitions = $this->getDefinitions();
         $addressFormats = [];

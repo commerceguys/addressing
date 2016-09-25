@@ -124,12 +124,7 @@ class SubdivisionRepositoryTest extends \PHPUnit_Framework_TestCase
      */
     public function testGetInvalidSubdivision($subdivisionRepository)
     {
-        // Invalid id.
         $subdivision = $subdivisionRepository->get('FAKE', ['BR']);
-        $this->assertNull($subdivision);
-
-        // Invalid group.
-        $subdivision = $subdivisionRepository->get('SC', ['FAKE']);
         $this->assertNull($subdivision);
     }
 

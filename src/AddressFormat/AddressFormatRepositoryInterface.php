@@ -10,12 +10,11 @@ interface AddressFormatRepositoryInterface
     /**
      * Returns an address format instance matching the provided country code.
      *
-     * If no matching address format was found, the fallback address format (ZZ)
-     * is returned instead.
-     *
      * @param string $countryCode The country code.
      *
      * @return AddressFormat The address format instance.
+     *
+     * @throws \InvalidArgumentException
      */
     public function get($countryCode);
 
