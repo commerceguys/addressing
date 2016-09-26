@@ -145,7 +145,7 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
      *
      * @return array The subdivision definitions.
      */
-    protected function loadDefinitions($parents)
+    protected function loadDefinitions(array $parents)
     {
         $group = $this->buildGroup($parents);
         if (isset($this->definitions[$group])) {
