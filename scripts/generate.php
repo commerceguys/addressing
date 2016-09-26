@@ -24,7 +24,7 @@ if (empty($ariaVersion) || strpos($ariaVersion[0], 'aria2 version') === false) {
 }
 
 // Prepare the filesystem.
-$neededDirectories = ['address_format', 'subdivision', 'raw'];
+$neededDirectories = ['subdivision', 'raw'];
 foreach ($neededDirectories as $neededDirectory) {
     if (!is_dir($neededDirectory)) {
         mkdir($neededDirectory);
