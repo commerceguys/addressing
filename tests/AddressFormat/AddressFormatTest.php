@@ -23,7 +23,6 @@ class AddressFormatTest extends \PHPUnit_Framework_TestCase
     {
         $definition = [
             'country_code' => 'US',
-            'required_fields' => [AddressField::ADDRESS_LINE1],
         ];
         $addressFormat = new AddressFormat($definition);
     }

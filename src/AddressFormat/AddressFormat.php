@@ -120,10 +120,7 @@ class AddressFormat
     public function __construct(array $definition)
     {
         // Validate the presence of required properties.
-        $requiredProperties = [
-            'country_code',  'format', 'required_fields',
-        ];
-        foreach ($requiredProperties as $requiredProperty) {
+        foreach (['country_code', 'format'] as $requiredProperty) {
             if (empty($definition[$requiredProperty])) {
                 throw new \InvalidArgumentException(sprintf('Missing required property %s.', $requiredProperty));
             }
@@ -132,6 +129,7 @@ class AddressFormat
         $definition += [
             'locale' => null,
             'local_format' => null,
+            'required_fields' => [],
             'uppercase_fields' => [],
             'postal_code_pattern' => null,
             'postal_code_prefix' => null,
