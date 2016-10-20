@@ -3,136 +3,163 @@
 	"subdivisions": {
 		"AC": {
 			"name": "Acre",
+			"iso_code": "BR-AC",
 			"postal_code_pattern": "699",
 			"has_children": true
 		},
 		"AL": {
 			"name": "Alagoas",
+			"iso_code": "BR-AL",
 			"postal_code_pattern": "57",
 			"has_children": true
 		},
 		"AP": {
 			"name": "Amapá",
+			"iso_code": "BR-AP",
 			"postal_code_pattern": "689",
 			"has_children": true
 		},
 		"AM": {
 			"name": "Amazonas",
+			"iso_code": "BR-AM",
 			"postal_code_pattern": "69[0-24-8]",
 			"has_children": true
 		},
 		"BA": {
 			"name": "Bahia",
+			"iso_code": "BR-BA",
 			"postal_code_pattern": "4[0-8]",
 			"has_children": true
 		},
 		"CE": {
 			"name": "Ceará",
+			"iso_code": "BR-CE",
 			"postal_code_pattern": "6[0-3]",
 			"has_children": true
 		},
 		"DF": {
 			"name": "Distrito Federal",
+			"iso_code": "BR-DF",
 			"postal_code_pattern": "7[0-1]|72[0-7]|73[0-6]",
 			"has_children": true
 		},
 		"ES": {
 			"name": "Espírito Santo",
+			"iso_code": "BR-ES",
 			"postal_code_pattern": "29",
 			"has_children": true
 		},
 		"GO": {
 			"name": "Goiás",
+			"iso_code": "BR-GO",
 			"postal_code_pattern": "72[89]|73[7-9]|7[4-6]",
 			"has_children": true
 		},
 		"MA": {
 			"name": "Maranhão",
+			"iso_code": "BR-MA",
 			"postal_code_pattern": "65",
 			"has_children": true
 		},
 		"MT": {
 			"name": "Mato Grosso",
+			"iso_code": "BR-MT",
 			"postal_code_pattern": "78[0-8]",
 			"has_children": true
 		},
 		"MS": {
 			"name": "Mato Grosso do Sul",
+			"iso_code": "BR-MS",
 			"postal_code_pattern": "79",
 			"has_children": true
 		},
 		"MG": {
 			"name": "Minas Gerais",
+			"iso_code": "BR-MG",
 			"postal_code_pattern": "3",
 			"has_children": true
 		},
 		"PA": {
 			"name": "Pará",
+			"iso_code": "BR-PA",
 			"postal_code_pattern": "6[6-7]|68[0-8]",
 			"has_children": true
 		},
 		"PB": {
 			"name": "Paraíba",
+			"iso_code": "BR-PB",
 			"postal_code_pattern": "58",
 			"has_children": true
 		},
 		"PR": {
 			"name": "Paraná",
+			"iso_code": "BR-PR",
 			"postal_code_pattern": "8[0-7]",
 			"has_children": true
 		},
 		"PE": {
 			"name": "Pernambuco",
+			"iso_code": "BR-PE",
 			"postal_code_pattern": "5[0-6]",
 			"has_children": true
 		},
 		"PI": {
 			"name": "Piauí",
+			"iso_code": "BR-PI",
 			"postal_code_pattern": "64",
 			"has_children": true
 		},
 		"RJ": {
 			"name": "Rio de Janeiro",
+			"iso_code": "BR-RJ",
 			"postal_code_pattern": "2[0-8]",
 			"has_children": true
 		},
 		"RN": {
 			"name": "Rio Grande do Norte",
+			"iso_code": "BR-RN",
 			"postal_code_pattern": "59",
 			"has_children": true
 		},
 		"RS": {
 			"name": "Rio Grande do Sul",
+			"iso_code": "BR-RS",
 			"postal_code_pattern": "9",
 			"has_children": true
 		},
 		"RO": {
 			"name": "Rondônia",
+			"iso_code": "BR-RO",
 			"postal_code_pattern": "76[89]|789",
 			"has_children": true
 		},
 		"RR": {
 			"name": "Roraima",
+			"iso_code": "BR-RR",
 			"postal_code_pattern": "693",
 			"has_children": true
 		},
 		"SC": {
 			"name": "Santa Catarina",
+			"iso_code": "BR-SC",
 			"postal_code_pattern": "8[89]",
 			"has_children": true
 		},
 		"SP": {
 			"name": "São Paulo",
+			"iso_code": "BR-SP",
 			"postal_code_pattern": "[01][1-9]",
 			"has_children": true
 		},
 		"SE": {
 			"name": "Sergipe",
+			"iso_code": "BR-SE",
 			"postal_code_pattern": "49",
 			"has_children": true
 		},
 		"TO": {
 			"name": "Tocantins",
+			"iso_code": "BR-TO",
 			"postal_code_pattern": "77",
 			"has_children": true
 		}

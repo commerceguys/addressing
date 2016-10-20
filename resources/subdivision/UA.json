@@ -14,11 +14,11 @@
 			"local_code": "Волинська область",
 			"postal_code_pattern": "4[3-5]"
 		},
-		"Dnipropetrovsk Oblast": {
+		"Dnipropetrovsk oblast": {
 			"local_code": "Дніпропетровська область",
 			"postal_code_pattern": "49|5[0-3]"
 		},
-		"Donetsk Oblast": {
+		"Donetsk oblast": {
 			"local_code": "Донецька область",
 			"postal_code_pattern": "8[3-7]"
 		},
@@ -43,7 +43,7 @@
 			"local_name": "Київ",
 			"postal_code_pattern": "0[1-6]"
 		},
-		"Kiev Oblast": {
+		"Kiev oblast": {
 			"local_code": "Київська область",
 			"postal_code_pattern": "0[7-9]"
 		},
@@ -55,7 +55,7 @@
 			"local_code": "Луганська область",
 			"postal_code_pattern": "9[1-4]"
 		},
-		"Lviv Oblast": {
+		"Lviv oblast": {
 			"local_code": "Львівська область",
 			"postal_code_pattern": "79|8[0-2]"
 		},
@@ -63,7 +63,7 @@
 			"local_code": "Миколаївська область",
 			"postal_code_pattern": "5[4-7]"
 		},
-		"Odessa Oblast": {
+		"Odessa oblast": {
 			"local_code": "Одеська область",
 			"postal_code_pattern": "6[5-8]"
 		},
@@ -88,7 +88,7 @@
 			"local_code": "Тернопільська область",
 			"postal_code_pattern": "4[6-8]"
 		},
-		"Kharkiv Oblast": {
+		"Kharkiv oblast": {
 			"local_code": "Харківська область",
 			"postal_code_pattern": "6[1-4]"
 		},

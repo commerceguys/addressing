@@ -7,7 +7,7 @@
 		},
 		"NSW": {
 			"name": "New South Wales",
-			"postal_code_pattern": "1|2[0-57-8]|26[2-9]|261[189]|3500|3585|3586|3644|3707"
+			"postal_code_pattern": "1|2[0-57-8]|26[2-9]|261[189]|3500|358[56]|3644|3707"
 		},
 		"NT": {
 			"name": "Northern Territory",

@@ -34,7 +34,7 @@
 		},
 		"NS": {
 			"local_code": "NS",
-			"local_name": "Nouvelle-Ecosse",
+			"local_name": "Nouvelle-Écosse",
 			"postal_code_pattern": "B"
 		},
 		"NU": {
@@ -49,7 +49,7 @@
 		},
 		"PE": {
 			"local_code": "PE",
-			"local_name": "Ile-du-Prince-Edouard",
+			"local_name": "Île-du-Prince-Édouard",
 			"postal_code_pattern": "C"
 		},
 		"QC": {

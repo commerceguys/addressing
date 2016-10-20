@@ -389,7 +389,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'uppercase_fields' => [
                     'locality', 'postalCode',
                 ],
-                'postal_code_pattern' => '[A-Z]\d{4}[A-Z]|(?:[A-Z]{2})?\d{6}',
+                'postal_code_pattern' => '\d{6}',
             ],
             'EE' => [
                 'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%postalCode %locality %administrativeArea",

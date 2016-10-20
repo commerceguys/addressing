@@ -151,7 +151,7 @@
 			"local_code": "город Москва",
 			"local_name": "Москва",
 			"iso_code": "RU-MOW",
-			"postal_code_pattern": "1(?:0[1-9]|1|2|3[0-5])"
+			"postal_code_pattern": "1(?:0[1-9]|1|2|3[0-5]|4[0-4])"
 		},
 		"Moskovskaya oblast'": {
 			"local_code": "Московская область",
@@ -382,7 +382,7 @@
 		"Tyumenskaya oblast'": {
 			"local_code": "Тюменская область",
 			"iso_code": "RU-TYU",
-			"postal_code_pattern": "62[57]"
+			"postal_code_pattern": "62[5-7]"
 		},
 		"Ulyanovskaya oblast'": {
 			"local_code": "Ульяновская область",
