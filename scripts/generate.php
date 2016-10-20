@@ -98,20 +98,20 @@ foreach ($foundCountries as $countryCode) {
 
     $addressFormats[$countryCode] = $addressFormat;
 }
+
+echo "Writing the final definitions to disk.\n";
+// Subdivisions are stored in JSON.
+foreach ($groupedSubdivisions as $parentId => $subdivisions) {
+    file_put_json('subdivision/' . $parentId . '.json', $subdivisions);
+}
 // Generate the subdivision depths for each country.
 $depths = generate_subdivision_depths($foundCountries);
 foreach ($depths as $countryCode => $depth) {
     $addressFormats[$countryCode]['subdivision_depth'] = $depth;
 }
-
-echo "Writing the final definitions to disk.\n";
 // Address formats are stored in PHP, then manually transferred to
 // AddressFormatRepository.
 file_put_php('address_formats.php', $addressFormats);
-// Subdivisions are stored in JSON.
-foreach ($groupedSubdivisions as $parentId => $subdivisions) {
-    file_put_json('subdivision/' . $parentId . '.json', $subdivisions);
-}
 
 echo "Done.\n";
 
