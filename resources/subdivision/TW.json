@@ -92,7 +92,7 @@
 		},
 		"New Taipei City": {
 			"local_code": "新北市",
-			"iso_code": "TW-TPQ",
+			"iso_code": "TW-NWT",
 			"postal_code_pattern": "20[78]|2[2345]",
 			"has_children": true
 		},

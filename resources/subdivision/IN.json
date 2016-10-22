@@ -157,6 +157,7 @@
 			"postal_code_pattern": "6[0-6]|536"
 		},
 		"Telangana": {
+			"name": "Telangana",
 			"iso_code": "IN-TG",
 			"postal_code_pattern": "5[0-3]"
 		},
@@ -171,6 +172,7 @@
 			"postal_code_pattern": "2[0-35-8]|24[0-7]|26[12]"
 		},
 		"Uttarakhand": {
+			"name": "Uttarakhand",
 			"iso_code": "IN-UT",
 			"postal_code_pattern": "24[46-9]|254|26[23]"
 		},
