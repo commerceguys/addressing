@@ -2,122 +2,98 @@
 	"country_code": "AR",
 	"subdivisions": {
 		"Buenos Aires": {
-			"name": "Buenos Aires",
 			"iso_code": "AR-B",
 			"postal_code_pattern": "B?[1-36-8]"
 		},
 		"Catamarca": {
-			"name": "Catamarca",
 			"iso_code": "AR-K",
 			"postal_code_pattern": "K?[45]"
 		},
 		"Chaco": {
-			"name": "Chaco",
 			"iso_code": "AR-H",
 			"postal_code_pattern": "H?3"
 		},
 		"Chubut": {
-			"name": "Chubut",
 			"iso_code": "AR-U",
 			"postal_code_pattern": "U?[89]"
 		},
 		"Ciudad Autónoma de Buenos Aires": {
-			"name": "Ciudad Autónoma de Buenos Aires",
 			"iso_code": "AR-C",
 			"postal_code_pattern": "C?1"
 		},
 		"Córdoba": {
-			"name": "Córdoba",
 			"iso_code": "AR-X",
 			"postal_code_pattern": "X?[235-8]"
 		},
 		"Corrientes": {
-			"name": "Corrientes",
 			"iso_code": "AR-W",
 			"postal_code_pattern": "W?3"
 		},
 		"Entre Ríos": {
-			"name": "Entre Ríos",
 			"iso_code": "AR-E",
 			"postal_code_pattern": "E?[1-3]"
 		},
 		"Formosa": {
-			"name": "Formosa",
 			"iso_code": "AR-P",
 			"postal_code_pattern": "P?[37]"
 		},
 		"Jujuy": {
-			"name": "Jujuy",
 			"iso_code": "AR-Y",
 			"postal_code_pattern": "Y?4"
 		},
 		"La Pampa": {
-			"name": "La Pampa",
 			"iso_code": "AR-L",
 			"postal_code_pattern": "L?[3568]"
 		},
 		"La Rioja": {
-			"name": "La Rioja",
 			"iso_code": "AR-F",
 			"postal_code_pattern": "F?5"
 		},
 		"Mendoza": {
-			"name": "Mendoza",
 			"iso_code": "AR-M",
 			"postal_code_pattern": "M?[56]"
 		},
 		"Misiones": {
-			"name": "Misiones",
 			"iso_code": "AR-N",
 			"postal_code_pattern": "N?3"
 		},
 		"Neuquén": {
-			"name": "Neuquén",
 			"iso_code": "AR-Q",
 			"postal_code_pattern": "Q?[38]"
 		},
 		"Río Negro": {
-			"name": "Río Negro",
 			"iso_code": "AR-R",
 			"postal_code_pattern": "R?[89]"
 		},
 		"Salta": {
-			"name": "Salta",
 			"iso_code": "AR-A",
 			"postal_code_pattern": "A?[34]"
 		},
 		"San Juan": {
-			"name": "San Juan",
 			"iso_code": "AR-J",
 			"postal_code_pattern": "J?5"
 		},
 		"San Luis": {
-			"name": "San Luis",
 			"iso_code": "AR-D",
 			"postal_code_pattern": "D?[4-6]"
 		},
 		"Santa Cruz": {
-			"name": "Santa Cruz",
 			"iso_code": "AR-Z",
 			"postal_code_pattern": "Z?[89]"
 		},
 		"Santa Fe": {
-			"name": "Santa Fe",
 			"iso_code": "AR-S",
 			"postal_code_pattern": "S?[2368]"
 		},
 		"Santiago del Estero": {
-			"name": "Santiago del Estero",
 			"iso_code": "AR-G",
 			"postal_code_pattern": "G?[2-5]"
 		},
 		"Tierra del Fuego": {
-			"name": "Tierra del Fuego",
 			"iso_code": "AR-V",
 			"postal_code_pattern": "V?9"
 		},
 		"Tucumán": {
-			"name": "Tucumán",
 			"iso_code": "AR-T",
 			"postal_code_pattern": "T?[45]"
 		}

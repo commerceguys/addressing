@@ -7,32 +7,26 @@
 			"postal_code_pattern": "AD50[01]"
 		},
 		"Canillo": {
-			"name": "Canillo",
 			"iso_code": "AD-02",
 			"postal_code_pattern": "AD10[01]"
 		},
 		"Encamp": {
-			"name": "Encamp",
 			"iso_code": "AD-03",
 			"postal_code_pattern": "AD20[01]"
 		},
 		"Escaldes-Engordany": {
-			"name": "Escaldes-Engordany",
 			"iso_code": "AD-08",
 			"postal_code_pattern": "AD70[01]"
 		},
 		"La Massana": {
-			"name": "La Massana",
 			"iso_code": "AD-04",
 			"postal_code_pattern": "AD40[01]"
 		},
 		"Ordino": {
-			"name": "Ordino",
 			"iso_code": "AD-05",
 			"postal_code_pattern": "AD30[01]"
 		},
 		"Sant Julià de Lòria": {
-			"name": "Sant Julià de Lòria",
 			"iso_code": "AD-06",
 			"postal_code_pattern": "AD60[01]"
 		}

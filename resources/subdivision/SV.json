@@ -22,12 +22,10 @@
 			"postal_code_pattern": "CP 14"
 		},
 		"La Libertad": {
-			"name": "La Libertad",
 			"iso_code": "SV-LI",
 			"postal_code_pattern": "CP 15"
 		},
 		"La Paz": {
-			"name": "La Paz",
 			"iso_code": "SV-PA",
 			"postal_code_pattern": "CP 16"
 		},
@@ -42,27 +40,22 @@
 			"postal_code_pattern": "CP 32"
 		},
 		"San Miguel": {
-			"name": "San Miguel",
 			"iso_code": "SV-SM",
 			"postal_code_pattern": "CP 33"
 		},
 		"San Salvador": {
-			"name": "San Salvador",
 			"iso_code": "SV-SS",
 			"postal_code_pattern": "CP 11"
 		},
 		"San Vicente": {
-			"name": "San Vicente",
 			"iso_code": "SV-SV",
 			"postal_code_pattern": "CP 17"
 		},
 		"Santa Ana": {
-			"name": "Santa Ana",
 			"iso_code": "SV-SA",
 			"postal_code_pattern": "CP 22"
 		},
 		"Sonsonate": {
-			"name": "Sonsonate",
 			"iso_code": "SV-SO",
 			"postal_code_pattern": "CP 23"
 		},

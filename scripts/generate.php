@@ -389,7 +389,7 @@ function create_subdivision_definition($countryCode, $rawDefinition)
         if (isset($rawDefinition['name']) && $rawDefinition['key'] != $rawDefinition['name']) {
             $subdivision['local_name'] = $rawDefinition['name'];
         }
-    } elseif (isset($rawDefinition['name'])) {
+    } elseif (isset($rawDefinition['name']) && $rawDefinition['key'] != $rawDefinition['name']) {
         $subdivision['name'] = $rawDefinition['name'];
     }
     if (isset($rawDefinition['isoid'])) {

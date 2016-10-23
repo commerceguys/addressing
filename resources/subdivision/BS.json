@@ -5,70 +5,52 @@
 			"name": "Abaco Islands"
 		},
 		"Acklins": {
-			"name": "Acklins",
 			"iso_code": "BS-AK"
 		},
 		"Andros": {
 			"name": "Andros Island"
 		},
 		"Berry Islands": {
-			"name": "Berry Islands",
 			"iso_code": "BS-BY"
 		},
 		"Bimini": {
-			"name": "Bimini",
 			"iso_code": "BS-BI"
 		},
 		"Cat Island": {
-			"name": "Cat Island",
 			"iso_code": "BS-CI"
 		},
-		"Crooked Island": {
-			"name": "Crooked Island"
-		},
-		"Eleuthera": {
-			"name": "Eleuthera"
-		},
+		"Crooked Island": [],
+		"Eleuthera": [],
 		"Exuma": {
 			"name": "Exuma and Cays",
 			"iso_code": "BS-EX"
 		},
-		"Grand Bahama": {
-			"name": "Grand Bahama"
-		},
+		"Grand Bahama": [],
 		"Harbour Island": {
-			"name": "Harbour Island",
 			"iso_code": "BS-HI"
 		},
 		"Inagua": {
-			"name": "Inagua",
 			"iso_code": "BS-IN"
 		},
 		"Long Island": {
-			"name": "Long Island",
 			"iso_code": "BS-LI"
 		},
 		"Mayaguana": {
-			"name": "Mayaguana",
 			"iso_code": "BS-MG"
 		},
 		"N.P.": {
 			"name": "New Providence"
 		},
 		"Ragged Island": {
-			"name": "Ragged Island",
 			"iso_code": "BS-RI"
 		},
 		"Rum Cay": {
-			"name": "Rum Cay",
 			"iso_code": "BS-RC"
 		},
 		"San Salvador": {
-			"name": "San Salvador",
 			"iso_code": "BS-SS"
 		},
 		"Spanish Wells": {
-			"name": "Spanish Wells",
 			"iso_code": "BS-SW"
 		}
 	}
