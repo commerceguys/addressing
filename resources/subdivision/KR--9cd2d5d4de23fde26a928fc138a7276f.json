@@ -11,6 +11,14 @@
 			"local_code": "상당구",
 			"postal_code_pattern": "28[1-3578]|360"
 		},
+		"Seowon-gu": {
+			"local_code": "서원구",
+			"postal_code_pattern": "28[1-35-8]|362"
+		},
+		"Cheongwon-gu": {
+			"local_code": "청원구",
+			"postal_code_pattern": "28[13-5]|363"
+		},
 		"Heungdeok-gu": {
 			"local_code": "흥덕구",
 			"postal_code_pattern": "28[13-6]|361"

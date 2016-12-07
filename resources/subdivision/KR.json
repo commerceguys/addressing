@@ -69,7 +69,8 @@
 			"local_code": "세종특별자치시",
 			"local_name": "세종",
 			"iso_code": "KR-50",
-			"postal_code_pattern": "30[01]\\d|339[\\-]"
+			"postal_code_pattern": "30[01]\\d|339[\\-]",
+			"has_children": true
 		},
 		"Ulsan": {
 			"local_code": "울산광역시",

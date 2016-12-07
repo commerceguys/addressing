@@ -1,0 +1,52 @@
+{
+	"country_code": "KR",
+	"parents": [
+		"KR",
+		"Sejong"
+	],
+	"locale": "ko",
+	"subdivisions": {
+		"Geumnam-myeon": {
+			"local_code": "금남면"
+		},
+		"Dodam-dong": {
+			"local_code": "도담동"
+		},
+		"Bugang-myeon": {
+			"local_code": "부강면"
+		},
+		"Sojeong-myeon": {
+			"local_code": "소정면"
+		},
+		"Areum-dong": {
+			"local_code": "아름동"
+		},
+		"Yeongi-myeon": {
+			"local_code": "연기면"
+		},
+		"Yeondong-myeon": {
+			"local_code": "연동면"
+		},
+		"Yeonseo-myeon": {
+			"local_code": "연서면"
+		},
+		"Janggun-myeon": {
+			"local_code": "장군면"
+		},
+		"Jeondong-myeon": {
+			"local_code": "전동면"
+		},
+		"Jeonui-myeon": {
+			"local_code": "전의면"
+		},
+		"Jochiwon-eup": {
+			"local_code": "조치원읍"
+		},
+		"Jongchon-dong": {
+			"local_code": "종촌동"
+		},
+		"Hansol-dong": {
+			"local_code": "한솔동"
+		}
+	}
+}

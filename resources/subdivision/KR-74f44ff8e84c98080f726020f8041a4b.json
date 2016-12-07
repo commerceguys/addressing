@@ -42,10 +42,6 @@
 			"local_code": "진천군",
 			"postal_code_pattern": "278|365"
 		},
-		"Cheongwon-gun": {
-			"local_code": "청원군",
-			"postal_code_pattern": "28[13-5]|363"
-		},
 		"Cheongju-si": {
 			"local_code": "청주시",
 			"postal_code_pattern": "36[0-3]",

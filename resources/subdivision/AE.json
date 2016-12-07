@@ -6,6 +6,11 @@
 			"local_code": "أبو ظبي",
 			"iso_code": "AE-AZ"
 		},
+		"Sharjah": {
+			"local_code": "إمارة الشارقةّ",
+			"local_name": "الشارقةّ",
+			"iso_code": "AE-SH"
+		},
 		"Fujairah": {
 			"local_code": "الفجيرة",
 			"iso_code": "AE-FU"
@@ -14,18 +19,15 @@
 			"local_code": "ام القيوين",
 			"iso_code": "AE-UQ"
 		},
-		"Sharjah": {
-			"local_code": "إمارة الشارقةّ",
-			"iso_code": "AE-SH"
-		},
-		"Ras al Khaimah": {
-			"local_code": "إمارة رأس الخيمة",
-			"iso_code": "AE-RK"
-		},
 		"Dubai": {
 			"local_code": "إمارة دبيّ",
 			"local_name": "دبي",
 			"iso_code": "AE-DU"
+		},
+		"Ras al Khaimah": {
+			"local_code": "إمارة رأس الخيمة",
+			"local_name": "رأس الخيمة",
+			"iso_code": "AE-RK"
 		},
 		"Ajman": {
 			"local_code": "عجمان",
