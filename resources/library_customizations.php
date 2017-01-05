@@ -65,6 +65,13 @@ function get_address_format_customizations($countryCode) {
             'postalCode',
         ],
     ];
+    $formatCustomizations['GU'] = [
+        'required_fields' => [
+            'addressLine1',
+            'locality',
+            'postalCode',
+        ],
+    ];
 
     return isset($formatCustomizations[$countryCode]) ? $formatCustomizations[$countryCode] : [];
 }
