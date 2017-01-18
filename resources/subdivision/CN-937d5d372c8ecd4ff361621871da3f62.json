@@ -45,15 +45,16 @@
 			"local_code": "陵水黎族自治县",
 			"local_name": "陵水县"
 		},
-		"Nansha Qundao": {
-			"local_code": "南沙群岛"
-		},
 		"Qionghai Shi": {
 			"local_code": "琼海市"
 		},
 		"Qiongzhong Xian": {
 			"local_code": "琼中黎族苗族自治县",
 			"local_name": "琼中县"
+		},
+		"Sansha Shi": {
+			"local_code": "三沙市",
+			"has_children": true
 		},
 		"Sanya Shi": {
 			"local_code": "三亚市"
@@ -69,13 +70,6 @@
 		},
 		"Wuzhishan Shi": {
 			"local_code": "五指山市"
-		},
-		"Xisha Qundao": {
-			"local_code": "西沙群岛"
-		},
-		"Zhongsha Qundao": {
-			"local_code": "中沙群岛的岛礁及其海域",
-			"local_name": "中沙群岛"
 		}
 	}
 }

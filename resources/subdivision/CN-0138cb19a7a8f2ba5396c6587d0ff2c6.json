@@ -52,12 +52,12 @@
 			"local_code": "武汉市",
 			"has_children": true
 		},
+		"Xiantao Shi": {
+			"local_code": "仙桃市"
+		},
 		"Xianning Shi": {
 			"local_code": "咸宁市",
 			"has_children": true
-		},
-		"Xiantao Shi": {
-			"local_code": "仙桃市"
 		},
 		"Xiangyang Shi": {
 			"local_code": "襄阳市",

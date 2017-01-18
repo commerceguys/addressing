@@ -9,19 +9,19 @@
 	"subdivisions": {
 		"Sangdang-gu": {
 			"local_code": "상당구",
-			"postal_code_pattern": "28[1-3578]|360"
+			"postal_code_pattern": "28[1-3578]"
 		},
 		"Seowon-gu": {
 			"local_code": "서원구",
-			"postal_code_pattern": "28[1-35-8]|362"
+			"postal_code_pattern": "28[1-35-8]"
 		},
 		"Cheongwon-gu": {
 			"local_code": "청원구",
-			"postal_code_pattern": "28[13-5]|363"
+			"postal_code_pattern": "28[13-5]"
 		},
 		"Heungdeok-gu": {
 			"local_code": "흥덕구",
-			"postal_code_pattern": "28[13-6]|361"
+			"postal_code_pattern": "28[13-6]"
 		}
 	}
 }

@@ -99,9 +99,6 @@
 		"Tuen Mun": {
 			"local_code": "屯門"
 		},
-		"Siu Lam Tuen Mun": {
-			"local_code": "屯門小欖"
-		},
 		"Fu Tei Tuen Mun": {
 			"local_code": "屯門虎地"
 		},
@@ -110,6 +107,9 @@
 		},
 		"Lam Tei Tuen Mun": {
 			"local_code": "屯門藍地"
+		},
+		"Siu Lam Tuen Mun": {
+			"local_code": "屯門小欖"
 		},
 		"Kwu Tung": {
 			"local_code": "古洞"
@@ -132,11 +132,11 @@
 		"Tai Wai Sha Tin": {
 			"local_code": "沙田大圍"
 		},
-		"Siu Lek Yuen Sha Tin": {
-			"local_code": "沙田小瀝源"
-		},
 		"Fo Tan Sha Tin": {
 			"local_code": "沙田火炭"
+		},
+		"Siu Lek Yuen Sha Tin": {
+			"local_code": "沙田小瀝源"
 		},
 		"Sha Tau Kok": {
 			"local_code": "沙頭角"

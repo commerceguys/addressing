@@ -8,60 +8,60 @@
 	"subdivisions": {
 		"Gochang-gun": {
 			"local_code": "고창군",
-			"postal_code_pattern": "564|5(?:79|85)"
+			"postal_code_pattern": "564"
 		},
 		"Gunsan-si": {
 			"local_code": "군산시",
-			"postal_code_pattern": "54[01]|573"
+			"postal_code_pattern": "54[01]"
 		},
 		"Gimje-si": {
 			"local_code": "김제시",
-			"postal_code_pattern": "543|576"
+			"postal_code_pattern": "543"
 		},
 		"Namwon-si": {
 			"local_code": "남원시",
-			"postal_code_pattern": "55[78]|590"
+			"postal_code_pattern": "55[78]"
 		},
 		"Muju-gun": {
 			"local_code": "무주군",
-			"postal_code_pattern": "555|568"
+			"postal_code_pattern": "555"
 		},
 		"Buan-gun": {
 			"local_code": "부안군",
-			"postal_code_pattern": "563|579"
+			"postal_code_pattern": "563"
 		},
 		"Sunchang-gun": {
 			"local_code": "순창군",
-			"postal_code_pattern": "560|595"
+			"postal_code_pattern": "560"
 		},
 		"Wanju-gun": {
 			"local_code": "완주군",
-			"postal_code_pattern": "553|565"
+			"postal_code_pattern": "553"
 		},
 		"Iksan-si": {
 			"local_code": "익산시",
-			"postal_code_pattern": "54[56]|570"
+			"postal_code_pattern": "54[56]"
 		},
 		"Imsil-gun": {
 			"local_code": "임실군",
-			"postal_code_pattern": "559|566"
+			"postal_code_pattern": "559"
 		},
 		"Jangsu-gun": {
 			"local_code": "장수군",
-			"postal_code_pattern": "556|597[\\-]8"
+			"postal_code_pattern": "556"
 		},
 		"Jeonju-si": {
 			"local_code": "전주시",
-			"postal_code_pattern": "5(?:4[89]|5[01])|56[01]",
+			"postal_code_pattern": "5(?:4[89]|5[01])",
 			"has_children": true
 		},
 		"Jeongeup-si": {
 			"local_code": "정읍시",
-			"postal_code_pattern": "56[12]|580"
+			"postal_code_pattern": "56[12]"
 		},
 		"Jinan-gun": {
 			"local_code": "진안군",
-			"postal_code_pattern": "554|567"
+			"postal_code_pattern": "554"
 		}
 	}
 }

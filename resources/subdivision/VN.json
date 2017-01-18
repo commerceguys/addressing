@@ -10,6 +10,10 @@
 			"local_code": "Bà Rịa–Vũng Tàu",
 			"iso_code": "VN-43"
 		},
+		"Bac Lieu Province": {
+			"local_code": "Bạc Liêu",
+			"iso_code": "VN-55"
+		},
 		"Bac Giang Province": {
 			"local_code": "Bắc Giang",
 			"iso_code": "VN-54"
@@ -17,10 +21,6 @@
 		"Bac Kan Province": {
 			"local_code": "Bắc Kạn",
 			"iso_code": "VN-53"
-		},
-		"Bac Lieu Province": {
-			"local_code": "Bắc Lieu",
-			"iso_code": "VN-55"
 		},
 		"Bac Ninh Province": {
 			"local_code": "Bắc Ninh",
@@ -56,11 +56,11 @@
 		},
 		"Can Tho City": {
 			"local_code": "Cần Thơ",
-			"iso_code": "VN-48"
+			"iso_code": "VN-CT"
 		},
 		"Da Nang City": {
 			"local_code": "Đà Nẵng",
-			"iso_code": "VN-60"
+			"iso_code": "VN-DN"
 		},
 		"Dak Lak Province": {
 			"local_code": "Đắk Lắk",
@@ -96,11 +96,7 @@
 		},
 		"Hanoi City": {
 			"local_code": "Hà Nội",
-			"iso_code": "VN-64"
-		},
-		"Ha Tay province": {
-			"local_code": "Hà Tây",
-			"iso_code": "VN-15"
+			"iso_code": "VN-HN"
 		},
 		"Ha Tinh Province": {
 			"local_code": "Hà Tĩnh",
@@ -112,13 +108,13 @@
 		},
 		"Haiphong City": {
 			"local_code": "Hải Phòng",
-			"iso_code": "VN-62"
+			"iso_code": "VN-HP"
 		},
 		"Hau Giang Province": {
 			"local_code": "Hậu Giang",
 			"iso_code": "VN-73"
 		},
-		"Hoa binh Province": {
+		"Hoa Binh Province": {
 			"local_code": "Hòa Bình",
 			"iso_code": "VN-14"
 		},
@@ -228,7 +224,7 @@
 		},
 		"Ho Chi Minh City": {
 			"local_code": "Thành phố Hồ Chí Minh",
-			"iso_code": "VN-65"
+			"iso_code": "VN-SG"
 		},
 		"Thua Thien-Hue Province": {
 			"local_code": "Thừa Thiên–Huế",

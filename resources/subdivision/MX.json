@@ -36,7 +36,7 @@
 			"iso_code": "MX-CHH",
 			"postal_code_pattern": "3[1-3]"
 		},
-		"D.F.": {
+		"CDMX": {
 			"name": "Ciudad de México",
 			"iso_code": "MX-DIF",
 			"postal_code_pattern": "0|1[0-6]"

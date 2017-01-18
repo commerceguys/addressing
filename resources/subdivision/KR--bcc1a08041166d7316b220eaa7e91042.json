@@ -9,15 +9,15 @@
 	"subdivisions": {
 		"Deogyang-gu": {
 			"local_code": "덕양구",
-			"postal_code_pattern": "10[245]|41[02]"
+			"postal_code_pattern": "10[245]"
 		},
 		"Ilsandong-gu": {
 			"local_code": "일산동구",
-			"postal_code_pattern": "10[2-4]|410"
+			"postal_code_pattern": "10[2-4]"
 		},
 		"Ilsanseo-gu": {
 			"local_code": "일산서구",
-			"postal_code_pattern": "10[2-4]|411"
+			"postal_code_pattern": "10[2-4]"
 		}
 	}
 }

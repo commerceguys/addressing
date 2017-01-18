@@ -9,15 +9,15 @@
 	"subdivisions": {
 		"Giheung-gu": {
 			"local_code": "기흥구",
-			"postal_code_pattern": "1(?:6[89]|7[01])|446"
+			"postal_code_pattern": "1(?:6[89]|7[01])"
 		},
 		"Suji-gu": {
 			"local_code": "수지구",
-			"postal_code_pattern": "16[89]|448"
+			"postal_code_pattern": "16[89]"
 		},
 		"Cheoin-gu": {
 			"local_code": "처인구",
-			"postal_code_pattern": "1(?:6[89]|7[01])|449"
+			"postal_code_pattern": "1(?:6[89]|7[01])"
 		}
 	}
 }

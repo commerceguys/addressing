@@ -8,35 +8,35 @@
 	"subdivisions": {
 		"Nam-gu": {
 			"local_code": "남구",
-			"postal_code_pattern": "42[45]|705"
+			"postal_code_pattern": "42[45]"
 		},
 		"Dalseo-gu": {
 			"local_code": "달서구",
-			"postal_code_pattern": "42[678]|704"
+			"postal_code_pattern": "42[678]"
 		},
 		"Dalseong-gun": {
 			"local_code": "달성군",
-			"postal_code_pattern": "4(?:29|30)|711"
+			"postal_code_pattern": "4(?:29|30)"
 		},
 		"Dong-gu": {
 			"local_code": "동구",
-			"postal_code_pattern": "41[0-2]|701"
+			"postal_code_pattern": "41[0-2]"
 		},
 		"Buk-gu": {
 			"local_code": "북구",
-			"postal_code_pattern": "41[45]|702"
+			"postal_code_pattern": "41[45]"
 		},
 		"Seo-gu": {
 			"local_code": "서구",
-			"postal_code_pattern": "41[78]|703"
+			"postal_code_pattern": "41[78]"
 		},
 		"Suseong-gu": {
 			"local_code": "수성구",
-			"postal_code_pattern": "42[0-2]|706"
+			"postal_code_pattern": "42[0-2]"
 		},
 		"Jung-gu": {
 			"local_code": "중구",
-			"postal_code_pattern": "419|700"
+			"postal_code_pattern": "419"
 		}
 	}
 }

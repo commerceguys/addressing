@@ -9,11 +9,11 @@
 	"subdivisions": {
 		"Deokjin-gu": {
 			"local_code": "덕진구",
-			"postal_code_pattern": "5(?:4[89]|50)|561"
+			"postal_code_pattern": "5(?:4[89]|50)"
 		},
 		"Wansan-gu": {
 			"local_code": "완산구",
-			"postal_code_pattern": "5(?:4[89]|5[01])560"
+			"postal_code_pattern": "5(?:4[89]|5[01])"
 		}
 	}
 }

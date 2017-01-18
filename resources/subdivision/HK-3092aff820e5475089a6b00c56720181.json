@@ -15,20 +15,11 @@
 		"Kowloon Bay": {
 			"local_code": "九龍灣"
 		},
-		"Yau Yat Chuen": {
-			"local_code": "又一村"
-		},
 		"To Kwa Wan": {
 			"local_code": "土瓜灣"
 		},
 		"Tai Kok Tsui": {
 			"local_code": "大角咀"
-		},
-		"Ngau Chi Wan": {
-			"local_code": "牛池灣"
-		},
-		"Ngau Tau Kok": {
-			"local_code": "牛頭角"
 		},
 		"Shek Kip Mei": {
 			"local_code": "石硤尾"
@@ -101,6 +92,15 @@
 		},
 		"Diamond Hill": {
 			"local_code": "鑽石山"
+		},
+		"Yau Yat Chuen": {
+			"local_code": "又一村"
+		},
+		"Ngau Chi Wan": {
+			"local_code": "牛池灣"
+		},
+		"Ngau Tau Kok": {
+			"local_code": "牛頭角"
 		}
 	}
 }

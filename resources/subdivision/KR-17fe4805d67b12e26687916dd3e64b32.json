@@ -8,95 +8,95 @@
 	"subdivisions": {
 		"Gyeongsan-si": {
 			"local_code": "경산시",
-			"postal_code_pattern": "38[4-6]|712"
+			"postal_code_pattern": "38[4-6]"
 		},
 		"Gyeongju-si": {
 			"local_code": "경주시",
-			"postal_code_pattern": "38[0-2]|780"
+			"postal_code_pattern": "38[0-2]"
 		},
 		"Goryeong-gun": {
 			"local_code": "고령군",
-			"postal_code_pattern": "401|717"
+			"postal_code_pattern": "401"
 		},
 		"Gumi-si": {
 			"local_code": "구미시",
-			"postal_code_pattern": "39[1-4]|730"
+			"postal_code_pattern": "39[1-4]"
 		},
 		"Gunwi-gun": {
 			"local_code": "군위군",
-			"postal_code_pattern": "390|716"
+			"postal_code_pattern": "390"
 		},
 		"Gimcheon-si": {
 			"local_code": "김천시",
-			"postal_code_pattern": "39[56]|740"
+			"postal_code_pattern": "39[56]"
 		},
 		"Mungyeong-si": {
 			"local_code": "문경시",
-			"postal_code_pattern": "3(?:69|70)|745"
+			"postal_code_pattern": "3(?:69|70)"
 		},
 		"Bonghwa-gun": {
 			"local_code": "봉화군",
-			"postal_code_pattern": "362|755[\\-]8"
+			"postal_code_pattern": "362"
 		},
 		"Sangju-si": {
 			"local_code": "상주시",
-			"postal_code_pattern": "37[12]|742"
+			"postal_code_pattern": "37[12]"
 		},
 		"Seongju-gun": {
 			"local_code": "성주군",
-			"postal_code_pattern": "400|719[\\-]8"
+			"postal_code_pattern": "400"
 		},
 		"Andong-si": {
 			"local_code": "안동시",
-			"postal_code_pattern": "36[67]|760"
+			"postal_code_pattern": "36[67]"
 		},
 		"Yeongdeok-gun": {
 			"local_code": "영덕군",
-			"postal_code_pattern": "364|766"
+			"postal_code_pattern": "364"
 		},
 		"Yeongyang-gun": {
 			"local_code": "영양군",
-			"postal_code_pattern": "365|764[\\-]8"
+			"postal_code_pattern": "365"
 		},
 		"Yeongju-si": {
 			"local_code": "영주시",
-			"postal_code_pattern": "36[01]|750"
+			"postal_code_pattern": "36[01]"
 		},
 		"Yeongcheon-si": {
 			"local_code": "영천시",
-			"postal_code_pattern": "38[89]|770"
+			"postal_code_pattern": "38[89]"
 		},
 		"Yecheon-gun": {
 			"local_code": "예천군",
-			"postal_code_pattern": "368|757"
+			"postal_code_pattern": "368"
 		},
 		"Ulleung-gun": {
 			"local_code": "울릉군",
-			"postal_code_pattern": "402|799[\\-]8"
+			"postal_code_pattern": "402"
 		},
 		"Uljin-gun": {
 			"local_code": "울진군",
-			"postal_code_pattern": "363|767"
+			"postal_code_pattern": "363"
 		},
 		"Uiseong-gun": {
 			"local_code": "의성군",
-			"postal_code_pattern": "373|769"
+			"postal_code_pattern": "373"
 		},
 		"Cheongdo-gun": {
 			"local_code": "청도군",
-			"postal_code_pattern": "383|714"
+			"postal_code_pattern": "383"
 		},
 		"Cheongsong-gun": {
 			"local_code": "청송군",
-			"postal_code_pattern": "374|763"
+			"postal_code_pattern": "374"
 		},
 		"Chilgok-gun": {
 			"local_code": "칠곡군",
-			"postal_code_pattern": "39[89]|718"
+			"postal_code_pattern": "39[89]"
 		},
 		"Pohang-si": {
 			"local_code": "포항시",
-			"postal_code_pattern": "37[5-9]|79[01]",
+			"postal_code_pattern": "37[5-9]",
 			"has_children": true
 		}
 	}

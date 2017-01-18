@@ -768,7 +768,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 ],
                 'administrative_area_type' => 'do_si',
                 'dependent_locality_type' => 'district',
-                'postal_code_pattern' => '\d{3}(?:\d{2}|-\d{3})',
+                'postal_code_pattern' => '\d{5}',
                 'subdivision_depth' => 3,
             ],
             'KW' => [

@@ -22,10 +22,6 @@
 			"local_code": "大樹區",
 			"postal_code_pattern": "840"
 		},
-		"Xiaogang District": {
-			"local_code": "小港區",
-			"postal_code_pattern": "812"
-		},
 		"Renwu District": {
 			"local_code": "仁武區",
 			"postal_code_pattern": "814"
@@ -165,6 +161,10 @@
 		"Yancheng District": {
 			"local_code": "鹽埕區",
 			"postal_code_pattern": "803"
+		},
+		"Xiaogang District": {
+			"local_code": "小港區",
+			"postal_code_pattern": "812"
 		}
 	}
 }

@@ -8,75 +8,75 @@
 	"subdivisions": {
 		"Gangneung-si": {
 			"local_code": "강릉시",
-			"postal_code_pattern": "25[4-6]|210"
+			"postal_code_pattern": "25[4-6]"
 		},
 		"Goseong-gun": {
 			"local_code": "고성군",
-			"postal_code_pattern": "247|219"
+			"postal_code_pattern": "247"
 		},
 		"Donghae-si": {
 			"local_code": "동해시",
-			"postal_code_pattern": "25[78]|24[05]"
+			"postal_code_pattern": "25[78]"
 		},
 		"Samcheok-si": {
 			"local_code": "삼척시",
-			"postal_code_pattern": "259|245"
+			"postal_code_pattern": "259"
 		},
 		"Sokcho-si": {
 			"local_code": "속초시",
-			"postal_code_pattern": "24[89]|21[79]"
+			"postal_code_pattern": "24[89]"
 		},
 		"Yanggu-gun": {
 			"local_code": "양구군",
-			"postal_code_pattern": "245|255[\\-]8"
+			"postal_code_pattern": "245"
 		},
 		"Yangyang-gun": {
 			"local_code": "양양군",
-			"postal_code_pattern": "250|215"
+			"postal_code_pattern": "250"
 		},
 		"Yeongwol-gun": {
 			"local_code": "영월군",
-			"postal_code_pattern": "262|230"
+			"postal_code_pattern": "262"
 		},
 		"Wonju-si": {
 			"local_code": "원주시",
-			"postal_code_pattern": "26[3-5]|220"
+			"postal_code_pattern": "26[3-5]"
 		},
 		"Inje-gun": {
 			"local_code": "인제군",
-			"postal_code_pattern": "246|25[02]"
+			"postal_code_pattern": "246"
 		},
 		"Jeongseon-gun": {
 			"local_code": "정선군",
-			"postal_code_pattern": "261|233"
+			"postal_code_pattern": "261"
 		},
 		"Cheorwon-gun": {
 			"local_code": "철원군",
-			"postal_code_pattern": "240|209|269|487[\\-]839"
+			"postal_code_pattern": "240"
 		},
 		"Chuncheon-si": {
 			"local_code": "춘천시",
-			"postal_code_pattern": "24[2-4]|2(?:0[09]|50)"
+			"postal_code_pattern": "24[2-4]"
 		},
 		"Taebaek-si": {
 			"local_code": "태백시",
-			"postal_code_pattern": "260|235"
+			"postal_code_pattern": "260"
 		},
 		"Pyeongchang-gun": {
 			"local_code": "평창군",
-			"postal_code_pattern": "253|232"
+			"postal_code_pattern": "253"
 		},
 		"Hongcheon-gun": {
 			"local_code": "홍천군",
-			"postal_code_pattern": "251|250"
+			"postal_code_pattern": "251"
 		},
 		"Hwacheon-gun": {
 			"local_code": "화천군",
-			"postal_code_pattern": "241|209[\\-]8"
+			"postal_code_pattern": "241"
 		},
 		"Hoengseong-gun": {
 			"local_code": "횡성군",
-			"postal_code_pattern": "252|225"
+			"postal_code_pattern": "252"
 		}
 	}
 }

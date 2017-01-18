@@ -8,76 +8,76 @@
 	"subdivisions": {
 		"Geoje-si": {
 			"local_code": "거제시",
-			"postal_code_pattern": "53[23]|656"
+			"postal_code_pattern": "53[23]"
 		},
 		"Geochang-gun": {
 			"local_code": "거창군",
-			"postal_code_pattern": "501|670"
+			"postal_code_pattern": "501"
 		},
 		"Goseong-gun": {
 			"local_code": "고성군",
-			"postal_code_pattern": "529|638"
+			"postal_code_pattern": "529"
 		},
 		"Gimhae-si": {
 			"local_code": "김해시",
-			"postal_code_pattern": "5(?:0[89]|10)|621"
+			"postal_code_pattern": "5(?:0[89]|10)"
 		},
 		"Namhae-gun": {
 			"local_code": "남해군",
-			"postal_code_pattern": "524|668[\\-]8"
+			"postal_code_pattern": "524"
 		},
 		"Miryang-si": {
 			"local_code": "밀양시",
-			"postal_code_pattern": "504|627"
+			"postal_code_pattern": "504"
 		},
 		"Sacheon-si": {
 			"local_code": "사천시",
-			"postal_code_pattern": "525|664"
+			"postal_code_pattern": "525"
 		},
 		"Sancheong-gun": {
 			"local_code": "산청군",
-			"postal_code_pattern": "522|666"
+			"postal_code_pattern": "522"
 		},
 		"Yangsan-si": {
 			"local_code": "양산시",
-			"postal_code_pattern": "50[56]|626"
+			"postal_code_pattern": "50[56]"
 		},
 		"Uiryeong-gun": {
 			"local_code": "의령군",
-			"postal_code_pattern": "521|636"
+			"postal_code_pattern": "521"
 		},
 		"Jinju-si": {
 			"local_code": "진주시",
-			"postal_code_pattern": "52[6-8]|660"
+			"postal_code_pattern": "52[6-8]"
 		},
 		"Changnyeong-gun": {
 			"local_code": "창녕군",
-			"postal_code_pattern": "503|635"
+			"postal_code_pattern": "503"
 		},
 		"Changwon-si": {
 			"local_code": "창원시",
-			"postal_code_pattern": "51[2-7]|6(?:3[01]|4[125])",
+			"postal_code_pattern": "51[2-7]",
 			"has_children": true
 		},
 		"Tongyeong-si": {
 			"local_code": "통영시",
-			"postal_code_pattern": "53[01]|650"
+			"postal_code_pattern": "53[01]"
 		},
 		"Hadong-gun": {
 			"local_code": "하동군",
-			"postal_code_pattern": "523|667"
+			"postal_code_pattern": "523"
 		},
 		"Haman-gun": {
 			"local_code": "함안군",
-			"postal_code_pattern": "520|637"
+			"postal_code_pattern": "520"
 		},
 		"Hamyang-gun": {
 			"local_code": "함양군",
-			"postal_code_pattern": "500|676"
+			"postal_code_pattern": "500"
 		},
 		"Hapcheon-gun": {
 			"local_code": "합천군",
-			"postal_code_pattern": "502|678"
+			"postal_code_pattern": "502"
 		}
 	}
 }

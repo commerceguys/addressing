@@ -8,67 +8,67 @@
 	"subdivisions": {
 		"Gangseo-gu": {
 			"local_code": "강서구",
-			"postal_code_pattern": "467|618"
+			"postal_code_pattern": "467"
 		},
 		"Geumjeong-gu": {
 			"local_code": "금정구",
-			"postal_code_pattern": "46[23]|609"
+			"postal_code_pattern": "46[23]"
 		},
 		"Gijang-gun": {
 			"local_code": "기장군",
-			"postal_code_pattern": "460|619"
+			"postal_code_pattern": "460"
 		},
 		"Nam-gu": {
 			"local_code": "남구",
-			"postal_code_pattern": "48[45]|608"
+			"postal_code_pattern": "48[45]"
 		},
 		"Dong-gu": {
 			"local_code": "동구",
-			"postal_code_pattern": "48[78]|601"
+			"postal_code_pattern": "48[78]"
 		},
 		"Dongnae-gu": {
 			"local_code": "동래구",
-			"postal_code_pattern": "47[789]|607"
+			"postal_code_pattern": "47[789]"
 		},
 		"Busanjin-gu": {
 			"local_code": "부산진구",
-			"postal_code_pattern": "47[123]|614"
+			"postal_code_pattern": "47[123]"
 		},
 		"Buk-gu": {
 			"local_code": "북구",
-			"postal_code_pattern": "46[56]|616"
+			"postal_code_pattern": "46[56]"
 		},
 		"Sasang-gu": {
 			"local_code": "사상구",
-			"postal_code_pattern": "4(?:69|70)|617"
+			"postal_code_pattern": "4(?:69|70)"
 		},
 		"Saha-gu": {
 			"local_code": "사하구",
-			"postal_code_pattern": "49[345]|604"
+			"postal_code_pattern": "49[345]"
 		},
 		"Seo-gu": {
 			"local_code": "서구",
-			"postal_code_pattern": "492|602"
+			"postal_code_pattern": "492"
 		},
 		"Suyeong-gu": {
 			"local_code": "수영구",
-			"postal_code_pattern": "48[23]|613"
+			"postal_code_pattern": "48[23]"
 		},
 		"Yeonje-gu": {
 			"local_code": "연제구",
-			"postal_code_pattern": "47[56]|611"
+			"postal_code_pattern": "47[56]"
 		},
 		"Yeongdo-gu": {
 			"local_code": "영도구",
-			"postal_code_pattern": "49[01]|606"
+			"postal_code_pattern": "49[01]"
 		},
 		"Jung-gu": {
 			"local_code": "중구",
-			"postal_code_pattern": "489|600"
+			"postal_code_pattern": "489"
 		},
 		"Haeundae-gu": {
 			"local_code": "해운대구",
-			"postal_code_pattern": "48[01]|612"
+			"postal_code_pattern": "48[01]"
 		}
 	}
 }

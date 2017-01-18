@@ -8,23 +8,23 @@
 	"subdivisions": {
 		"Nam-gu": {
 			"local_code": "남구",
-			"postal_code_pattern": "44[67]|680"
+			"postal_code_pattern": "44[67]"
 		},
 		"Dong-gu": {
 			"local_code": "동구",
-			"postal_code_pattern": "44[01]|682"
+			"postal_code_pattern": "44[01]"
 		},
 		"Buk-gu": {
 			"local_code": "북구",
-			"postal_code_pattern": "442|683"
+			"postal_code_pattern": "442"
 		},
 		"Ulju-gun": {
 			"local_code": "울주군",
-			"postal_code_pattern": "4(?:49|50)|689"
+			"postal_code_pattern": "4(?:49|50)"
 		},
 		"Jung-gu": {
 			"local_code": "중구",
-			"postal_code_pattern": "44[45]|681"
+			"postal_code_pattern": "44[45]"
 		}
 	}
 }

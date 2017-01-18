@@ -6,119 +6,119 @@
 			"local_code": "강원도",
 			"local_name": "강원",
 			"iso_code": "KR-42",
-			"postal_code_pattern": "2[456]\\d{2}|2[0-6]\\d[\\-]|487[\\-]839",
+			"postal_code_pattern": "2[456]\\d{2}",
 			"has_children": true
 		},
 		"Gyeonggi-do": {
 			"local_code": "경기도",
 			"local_name": "경기",
 			"iso_code": "KR-41",
-			"postal_code_pattern": "1[0-8]\\d{2}|4(?:1[0-6]|[2-8]\\d)[\\-]",
+			"postal_code_pattern": "1[0-8]\\d{2}",
 			"has_children": true
 		},
 		"Gyeongsangnam-do": {
 			"local_code": "경상남도",
 			"local_name": "경남",
 			"iso_code": "KR-48",
-			"postal_code_pattern": "5[0-3]\\d{2}|6[2-7]\\d[\\-]",
+			"postal_code_pattern": "5[0-3]\\d{2}",
 			"has_children": true
 		},
 		"Gyeongsangbuk-do": {
 			"local_code": "경상북도",
 			"local_name": "경북",
 			"iso_code": "KR-47",
-			"postal_code_pattern": "(?:3[6-9]|40)\\d{2}|7(?:1[2-9]|[3-9]\\d)[\\-]",
+			"postal_code_pattern": "(?:3[6-9]|40)\\d{2}",
 			"has_children": true
 		},
 		"Gwangju": {
 			"local_code": "광주광역시",
 			"local_name": "광주",
 			"iso_code": "KR-29",
-			"postal_code_pattern": "6[12]\\d{2}|50[0-36][\\-]",
+			"postal_code_pattern": "6[12]\\d{2}",
 			"has_children": true
 		},
 		"Daegu": {
 			"local_code": "대구광역시",
 			"local_name": "대구",
 			"iso_code": "KR-27",
-			"postal_code_pattern": "4[12]\\d{2}|7(?:0[0-6]|11)[\\-]",
+			"postal_code_pattern": "4[12]\\d{2}",
 			"has_children": true
 		},
 		"Daejeon": {
 			"local_code": "대전광역시",
 			"local_name": "대전",
 			"iso_code": "KR-30",
-			"postal_code_pattern": "3[45]\\d{2}|30[0-25-6][\\-]",
+			"postal_code_pattern": "3[45]\\d{2}",
 			"has_children": true
 		},
 		"Busan": {
 			"local_code": "부산광역시",
 			"local_name": "부산",
 			"iso_code": "KR-26",
-			"postal_code_pattern": "4[6-9]\\d{2}|6[0-1]\\d[\\-]",
+			"postal_code_pattern": "4[6-9]\\d{2}",
 			"has_children": true
 		},
 		"Seoul": {
 			"local_code": "서울특별시",
 			"local_name": "서울",
 			"iso_code": "KR-11",
-			"postal_code_pattern": "0[1-8]\\d{2}|1[0-5]\\d[\\-]",
+			"postal_code_pattern": "0[1-8]\\d{2}",
 			"has_children": true
 		},
 		"Sejong": {
 			"local_code": "세종특별자치시",
 			"local_name": "세종",
 			"iso_code": "KR-50",
-			"postal_code_pattern": "30[01]\\d|339[\\-]",
+			"postal_code_pattern": "30[01]\\d",
 			"has_children": true
 		},
 		"Ulsan": {
 			"local_code": "울산광역시",
 			"local_name": "울산",
 			"iso_code": "KR-31",
-			"postal_code_pattern": "4[45]\\d{2}|68[0-39][\\-]",
+			"postal_code_pattern": "4[45]\\d{2}",
 			"has_children": true
 		},
 		"Incheon": {
 			"local_code": "인천광역시",
 			"local_name": "인천",
 			"iso_code": "KR-28",
-			"postal_code_pattern": "2[1-3]\\d{2}|4(?:0[0-79]|17)[\\-]",
+			"postal_code_pattern": "2[1-3]\\d{2}",
 			"has_children": true
 		},
 		"Jeollanam-do": {
 			"local_code": "전라남도",
 			"local_name": "전남",
 			"iso_code": "KR-46",
-			"postal_code_pattern": "5[7-9]\\d{2}|5[1-5]\\d[\\-]",
+			"postal_code_pattern": "5[7-9]\\d{2}",
 			"has_children": true
 		},
 		"Jeollabuk-do": {
 			"local_code": "전라북도",
 			"local_name": "전북",
 			"iso_code": "KR-45",
-			"postal_code_pattern": "5[4-6]\\d{2}|5[6-9]\\d[\\-]",
+			"postal_code_pattern": "5[4-6]\\d{2}",
 			"has_children": true
 		},
 		"Jeju-do": {
 			"local_code": "제주특별자치도",
 			"local_name": "제주",
 			"iso_code": "KR-49",
-			"postal_code_pattern": "63[0-356]\\d|69[0579][\\-]",
+			"postal_code_pattern": "63[0-356]\\d",
 			"has_children": true
 		},
 		"Chungcheongnam-do": {
 			"local_code": "충청남도",
 			"local_name": "충남",
 			"iso_code": "KR-44",
-			"postal_code_pattern": "3[1-3]\\d{2}|3(?:[1245]\\d|3[0-8])[\\-]",
+			"postal_code_pattern": "3[1-3]\\d{2}",
 			"has_children": true
 		},
 		"Chungcheongbuk-do": {
 			"local_code": "충청북도",
 			"local_name": "충북",
 			"iso_code": "KR-43",
-			"postal_code_pattern": "2[789]\\d{2}|3[6-9]\\d[\\-]",
+			"postal_code_pattern": "2[789]\\d{2}",
 			"has_children": true
 		}
 	}
