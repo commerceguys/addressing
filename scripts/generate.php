@@ -233,7 +233,7 @@ function generate_subdivisions($countryCode, array $parents, $subdivisionPaths, 
             unset($subdivisions[$group]['locale']);
         }
         // Generate the subdivision.
-        $subdivisions[$group]['subdivisions'][$code] = create_subdivision_definition($countryCode, $definition);
+        $subdivisions[$group]['subdivisions'][$code] = create_subdivision_definition($countryCode, $definition, $code);
 
         if (isset($definition['sub_keys'])) {
             $subdivisions[$group]['subdivisions'][$code]['has_children'] = true;
@@ -378,7 +378,7 @@ function create_address_format_definition($countryCode, $rawDefinition)
 /**
  * Creates a subdivision definition from Google's raw definition.
  */
-function create_subdivision_definition($countryCode, $rawDefinition)
+function create_subdivision_definition($countryCode, $rawDefinition, $subdivisionCode)
 {
     $subdivision = [];
     if (isset($rawDefinition['lname'])) {
@@ -388,9 +388,19 @@ function create_subdivision_definition($countryCode, $rawDefinition)
         $subdivision['local_code'] = $rawDefinition['key'];
         if (isset($rawDefinition['name']) && $rawDefinition['key'] != $rawDefinition['name']) {
             $subdivision['local_name'] = $rawDefinition['name'];
+            $subdivision['name'] = $rawDefinition['lname'];
         }
     } elseif (isset($rawDefinition['name']) && $rawDefinition['key'] != $rawDefinition['name']) {
         $subdivision['name'] = $rawDefinition['name'];
+    }
+    // If the code we're going to use to index this subdivision matches the
+    // local_name and/or name properties, we can safely unset
+    // since we don't want/need any duplicate information here.
+    $keys = ['local_name', 'name'];
+    foreach ($keys as $key) {
+      if (isset($subdivision[$key]) && $subdivision[$key] == $subdivisionCode) {
+        unset($subdivision[$key]);
+      }
     }
     if (isset($rawDefinition['isoid'])) {
         $subdivision['iso_code'] = $countryCode . '-' . $rawDefinition['isoid'];
