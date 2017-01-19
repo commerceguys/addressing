@@ -271,8 +271,8 @@ class DefaultFormatter implements FormatterInterface
     {
         $lines = explode("\n", $output);
         foreach ($lines as $index => $line) {
-            $line = trim(mb_ereg_replace('/^[-,]+/', '', $line, 1));
-            $line = mb_ereg_replace('/\s\s+/', ' ', $line);
+			$line = trim(mb_ereg_replace('^[-,]+', '', $line));
+			$line = mb_ereg_replace('\s\s+', ' ', $line);
             $lines[$index] = $line;
         }
         // Remove empty lines.
