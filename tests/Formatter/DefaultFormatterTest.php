@@ -298,28 +298,28 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
         $this->assertFormattedAddress($expectedTextLines, $textAddress);
     }
 
-	/**
-	 * @covers \CommerceGuys\Addressing\Formatter\DefaultFormatter
-	 */
-	public function testJapaneseAddress()
-	{
-		$Address = new Address();
-		$Address = $Address
-			->withAddressLine1('ファーストネーム' . ' ' . '姓')
-			->withAddressLine2('家の名前があり')
-			->withLocality('愛住町')
-			->withPostalCode('160-0005')
-			->withAdministrativeArea('JP-13')
-			->withCountryCode('JP');
+    /**
+     * @covers \CommerceGuys\Addressing\Formatter\DefaultFormatter
+     */
+    public function testJapaneseAddress()
+    {
+        $Address = new Address();
+        $Address = $Address
+            ->withAddressLine1('ファーストネーム' . ' ' . '姓')
+            ->withAddressLine2('家の名前があり')
+            ->withLocality('愛住町')
+            ->withPostalCode('160-0005')
+            ->withAdministrativeArea('JP-13')
+            ->withCountryCode('JP');
 
-		$this->formatter->setLocale('en');
+        $this->formatter->setLocale('en');
 
-		$actual = $this->formatter->format($Address);
+        $actual = $this->formatter->format($Address);
 
-		$this->assertContains('ファーストネーム', $actual);
-		$this->assertContains('姓', $actual);
-		$this->assertContains('家の名前があり', $actual);
-	}
+        $this->assertContains('ファーストネーム', $actual);
+        $this->assertContains('姓', $actual);
+        $this->assertContains('家の名前があり', $actual);
+    }
 
     /**
      * Asserts that the formatted address is valid.
