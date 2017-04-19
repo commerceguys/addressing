@@ -13,7 +13,7 @@ Features:
 - Subdivision translations for all of the parent country's (i.e Canada, Switzerland) official languages.
 - Validation via symfony/validator
 - Postal formatting
-- Zones via the [commerceguys/zone](https://github.com/commerceguys/zone) library.
+- Zones
 
 The dataset is [stored locally](https://github.com/commerceguys/addressing/tree/master/resources) in JSON format, [generated](https://github.com/commerceguys/addressing/blob/master/scripts/generate.php) from Google's [Address Data Service](https://i18napis.appspot.com/address).
 
@@ -191,6 +191,43 @@ $violations = $validator->validate($address->getCountryCode(), new CountryConstr
 if (!$violations->count()) {
   $violations = $validator->validate($address, new AddressFormatConstraint());
 }
+```
+
+# Zones
+
+[Zones](https://github.com/commerceguys/addressing/blob/master/src/Zone/Zone.php) are [territorial](https://github.com/commerceguys/addressing/blob/master/src/Zone/ZoneTerritory.php) groupings often used for shipping or tax purposes.
+For example, a set of shipping rates associated with a zone where the rates
+become available only if the customer's address belongs to the zone.
+
+A zone can match countries, subdivisions (states/provinces/municipalities), postal codes.
+Postal codes can also be expressed using ranges or regular expressions.
+
+Examples of zones:
+- California and Nevada
+- Belgium, Netherlands, Luxemburg
+- Germany and a set of Austrian postal codes (6691, 6991, 6992, 6993)
+- Austria without specific postal codes (6691, 6991, 6992, 6993)
+
+```php
+use CommerceGuys\Addressing\Address;
+use CommerceGuys\Addressing\Zone\Zone;
+
+// Create the German VAT zone (Germany and 4 Austrian postal codes).
+$zone = new Zone([
+    'id' => 'german_vat',
+    'label' => 'German VAT',
+    'territories' => [
+        ['country_code' => 'DE'],
+        ['country_code' => 'AT', 'included_postal_codes' => '6691, 6991:6993'],
+    ],
+]);
+
+// Check if the provided austrian address matches the German VAT zone.
+$austrianAddress = new Address();
+$austrianAddress = $austrianAddress
+    ->withCountryCode('AT')
+    ->withPostalCode('6992');
+echo $zone->match($austrianAddress); // true
 ```
 
 # Integrations

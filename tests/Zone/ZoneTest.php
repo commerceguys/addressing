@@ -1,0 +1,71 @@
+<?php
+
+namespace CommerceGuys\Addressing\Tests\Zone;
+
+use CommerceGuys\Addressing\Address;
+use CommerceGuys\Addressing\Zone\Zone;
+
+/**
+ * @coversDefaultClass \CommerceGuys\Addressing\Zone\Zone
+ */
+class ZoneTest extends \PHPUnit_Framework_TestCase
+{
+    /**
+     * @covers ::__construct
+     *
+     * @expectedException \InvalidArgumentException
+     */
+    public function testMissingProperty()
+    {
+        $definition = [
+            'id' => 'test',
+        ];
+        $zone = new Zone($definition);
+    }
+
+    /**
+     * @covers ::__construct
+     *
+     * @expectedException \InvalidArgumentException
+     */
+    public function testInvalidTerritories()
+    {
+        $definition = [
+            'id' => 'test',
+            'label' => 'Test',
+            'territories' => 'WRONG',
+        ];
+        $zone = new Zone($definition);
+    }
+
+    /**
+     * @covers ::__construct
+     * @covers ::getId
+     * @covers ::getLabel
+     * @covers ::getTerritories
+     * @covers ::match
+     */
+    public function testValid()
+    {
+        $definition = [
+            'id' => 'de_fr',
+            'label' => 'Germany and France',
+            'territories' => [
+                ['country_code' => 'DE'],
+                ['country_code' => 'FR'],
+            ],
+        ];
+        $zone = new Zone($definition);
+
+        $this->assertEquals($definition['id'], $zone->getId());
+        $this->assertEquals($definition['label'], $zone->getLabel());
+        $this->assertCount(2, $zone->getTerritories());
+        $this->assertEquals($definition['territories'][0]['country_code'], $zone->getTerritories()[0]->getCountryCode());
+        $this->assertEquals($definition['territories'][1]['country_code'], $zone->getTerritories()[1]->getCountryCode());
+
+        $german_address = new Address('DE');
+        $serbian_address = new Address('RS');
+        $this->assertTrue($zone->match($german_address));
+        $this->assertFalse($zone->match($serbian_address));
+    }
+}
