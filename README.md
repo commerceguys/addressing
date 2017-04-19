@@ -79,7 +79,7 @@ foreach ($states as $state) {
 }
 
 // Get the subdivisions for Brazilian state Ceará.
-$municipalities = $subdivisionRepository->getAll(['BR', CA']);
+$municipalities = $subdivisionRepository->getAll(['BR', 'CE']);
 foreach ($states as $state) {
     echo $state->getName();
 }
