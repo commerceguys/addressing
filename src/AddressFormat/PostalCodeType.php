@@ -11,9 +11,10 @@ use CommerceGuys\Enum\AbstractEnum;
  */
 final class PostalCodeType extends AbstractEnum
 {
+    const EIR = 'eircode';
+    const PIN = 'pin';
     const POSTAL = 'postal';
     const ZIP = 'zip';
-    const PIN = 'pin';
 
     /**
      * Gets the default value.

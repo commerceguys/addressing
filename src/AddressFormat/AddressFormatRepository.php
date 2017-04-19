@@ -621,6 +621,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%dependentLocality\n%locality\n%administrativeArea %postalCode",
                 'administrative_area_type' => 'county',
                 'dependent_locality_type' => 'townland',
+                'postal_code_type' => 'eircode',
                 'postal_code_pattern' => '[\dA-Z]{3} ?[\dA-Z]{4}',
                 'subdivision_depth' => 1,
             ],
