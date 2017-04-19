@@ -233,7 +233,7 @@ function generate_subdivisions($countryCode, array $parents, $subdivisionPaths, 
             unset($subdivisions[$group]['locale']);
         }
         // Generate the subdivision.
-        $subdivisions[$group]['subdivisions'][$code] = create_subdivision_definition($countryCode, $definition);
+        $subdivisions[$group]['subdivisions'][$code] = create_subdivision_definition($countryCode, $code, $definition);
 
         if (isset($definition['sub_keys'])) {
             $subdivisions[$group]['subdivisions'][$code]['has_children'] = true;
@@ -378,16 +378,16 @@ function create_address_format_definition($countryCode, $rawDefinition)
 /**
  * Creates a subdivision definition from Google's raw definition.
  */
-function create_subdivision_definition($countryCode, $rawDefinition)
+function create_subdivision_definition($countryCode, $code, $rawDefinition)
 {
     $subdivision = [];
     if (isset($rawDefinition['lname'])) {
-        // The lname was already chosen for the code in the parent function,
-        // don't need to store it as the name cause SubdivisionRepository
-        // optimizes for that.
         $subdivision['local_code'] = $rawDefinition['key'];
         if (isset($rawDefinition['name']) && $rawDefinition['key'] != $rawDefinition['name']) {
             $subdivision['local_name'] = $rawDefinition['name'];
+        }
+        if ($code != $rawDefinition['lname']) {
+            $subdivision['name'] = $rawDefinition['lname'];
         }
     } elseif (isset($rawDefinition['name']) && $rawDefinition['key'] != $rawDefinition['name']) {
         $subdivision['name'] = $rawDefinition['name'];
