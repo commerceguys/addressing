@@ -5,66 +5,79 @@
 		"AB": {
 			"local_code": "AB",
 			"local_name": "Alberta",
+			"name": "Alberta",
 			"postal_code_pattern": "T"
 		},
 		"BC": {
 			"local_code": "BC",
 			"local_name": "Colombie-Britannique",
+			"name": "British Columbia",
 			"postal_code_pattern": "V"
 		},
 		"MB": {
 			"local_code": "MB",
 			"local_name": "Manitoba",
+			"name": "Manitoba",
 			"postal_code_pattern": "R"
 		},
 		"NB": {
 			"local_code": "NB",
 			"local_name": "Nouveau-Brunswick",
+			"name": "New Brunswick",
 			"postal_code_pattern": "E"
 		},
 		"NL": {
 			"local_code": "NL",
 			"local_name": "Terre-Neuve-et-Labrador",
+			"name": "Newfoundland and Labrador",
 			"postal_code_pattern": "A"
 		},
 		"NT": {
 			"local_code": "NT",
 			"local_name": "Territoires du Nord-Ouest",
+			"name": "Northwest Territories",
 			"postal_code_pattern": "X0E|X0G|X1A"
 		},
 		"NS": {
 			"local_code": "NS",
 			"local_name": "Nouvelle-Écosse",
+			"name": "Nova Scotia",
 			"postal_code_pattern": "B"
 		},
 		"NU": {
 			"local_code": "NU",
 			"local_name": "Nunavut",
+			"name": "Nunavut",
 			"postal_code_pattern": "X0A|X0B|X0C"
 		},
 		"ON": {
 			"local_code": "ON",
 			"local_name": "Ontario",
+			"name": "Ontario",
 			"postal_code_pattern": "K|L|M|N|P"
 		},
 		"PE": {
 			"local_code": "PE",
 			"local_name": "Île-du-Prince-Édouard",
+			"name": "Prince Edward Island",
 			"postal_code_pattern": "C"
 		},
 		"QC": {
 			"local_code": "QC",
 			"local_name": "Québec",
+			"name": "Quebec",
 			"postal_code_pattern": "G|H|J|K1A"
 		},
 		"SK": {
 			"local_code": "SK",
 			"local_name": "Saskatchewan",
+			"name": "Saskatchewan",
 			"postal_code_pattern": "S|R8A"
 		},
 		"YT": {
 			"local_code": "YT",
 			"local_name": "Yukon",
+			"name": "Yukon",
 			"postal_code_pattern": "Y"
 		}
 	}
