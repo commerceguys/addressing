@@ -90,15 +90,14 @@ foreach ($foundCountries as $countryCode) {
         array_shift($languages);
     }
 
+    $subdivisionPaths = [];
     if (isset($definition['sub_keys'])) {
-        $subdivisionPaths = [];
         $subdivisionKeys = explode('~', $definition['sub_keys']);
         foreach ($subdivisionKeys as $subdivisionKey) {
             $subdivisionPaths[] = $countryCode . '_' . $subdivisionKey;
         }
-
-        $groupedSubdivisions += generate_subdivisions($countryCode, $countryCode, $subdivisionPaths, $languages);
     }
+    $groupedSubdivisions += generate_subdivisions($countryCode, $countryCode, $subdivisionPaths, $languages);
 
     $addressFormats[$countryCode] = $addressFormat;
 }
@@ -238,6 +237,14 @@ function generate_subdivisions($countryCode, $parentId, $subdivisionPaths, $lang
 
     // Apply any found customizations.
     $customizations = get_subdivision_customizations($parentId);
+    if (!isset($subdivisions[$parentId])) {
+        $subdivisions[$parentId] = [
+            'country_code' => $countryCode,
+            'parent_id' => ($countryCode == $parentId) ? null : $parentId,
+            'locale' => determine_locale([]),
+            'subdivisions' => []
+        ];
+    }
     $subdivisions[$parentId] = apply_subdivision_customizations($subdivisions[$parentId], $customizations);
     // All subdivisions have been removed. Remove the rest of the data.
     if (empty($subdivisions[$parentId]['subdivisions'])) {

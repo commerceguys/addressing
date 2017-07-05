@@ -146,5 +146,176 @@ function get_subdivision_customizations($parentId) {
         ],
     ];
 
+
+    $subdivisionCustomizations['CO'] = [
+        '_replace' => [
+            'CO-DC',
+            'CO-AMA',
+            'CO-ANT',
+            'CO-ARA',
+            'CO-ATL',
+            'CO-BOL',
+            'CO-BOY',
+            'CO-CAL',
+            'CO-CAQ',
+            'CO-CAS',
+            'CO-CAU',
+            'CO-CES',
+            'CO-COR',
+            'CO-CUN',
+            'CO-CHO',
+            'CO-GUA',
+            'CO-GUV',
+            'CO-HUI',
+            'CO-LAG',
+            'CO-MAG',
+            'CO-MET',
+            'CO-NAR',
+            'CO-NSA',
+            'CO-PUT',
+            'CO-QUI',
+            'CO-RIS',
+            'CO-SAP',
+            'CO-SAN',
+            'CO-SUC',
+            'CO-TOL',
+            'CO-VAC',
+            'CO-VAU',
+            'CO-VID',
+        ],
+        'CO-DC' => [
+            'code' => 'DC',
+            'name' => 'Distrito Capital de Bogotá',
+        ],
+        'CO-AMA' => [
+            'code' => 'AMA',
+            'name' => 'Amazonas',
+        ],
+        'CO-ANT' => [
+            'code' => 'ANT',
+            'name' => 'Antioquia',
+        ],
+        'CO-ARA' => [
+            'code' => 'ARA',
+            'name' => 'Arauca',
+        ],
+        'CO-ATL' => [
+            'code' => 'ATL',
+            'name' => 'Atlántico',
+        ],
+        'CO-BOL' => [
+            'code' => 'BOL',
+            'name' => 'Bolívar',
+        ],
+        'CO-BOY' => [
+            'code' => 'BOY',
+            'name' => 'Boyacá',
+        ],
+        'CO-CAL' => [
+            'code' => 'CAL',
+            'name' => 'Caldas',
+        ],
+        'CO-CAQ' => [
+            'code' => 'CAQ',
+            'name' => 'Caquetá',
+        ],
+        'CO-CAS' => [
+            'code' => 'CAS',
+            'name' => 'Casanare',
+        ],
+        'CO-CAU' => [
+            'code' => 'CAU',
+            'name' => 'Cauca',
+        ],
+        'CO-CES' => [
+            'code' => 'CES',
+            'name' => 'Cesar',
+        ],
+        'CO-COR' => [
+            'code' => 'COR',
+            'name' => 'Córdoba',
+        ],
+        'CO-CUN' => [
+            'code' => 'CUN',
+            'name' => 'Cundinamarca',
+        ],
+        'CO-CHO' => [
+            'code' => 'CHO',
+            'name' => 'Chocó',
+        ],
+        'CO-GUA' => [
+            'code' => 'GUA',
+            'name' => 'Guainía',
+        ],
+        'CO-GUV' => [
+            'code' => 'GUV',
+            'name' => 'Guaviare',
+        ],
+        'CO-HUI' => [
+            'code' => 'HUI',
+            'name' => 'Huila',
+        ],
+        'CO-LAG' => [
+            'code' => 'LAG',
+            'name' => 'La Guajira',
+        ],
+        'CO-MAG' => [
+            'code' => 'MAG',
+            'name' => 'Magdalena',
+        ],
+        'CO-MET' => [
+            'code' => 'MET',
+            'name' => 'Meta',
+        ],
+        'CO-NAR' => [
+            'code' => 'NAR',
+            'name' => 'Nariño',
+        ],
+        'CO-NSA' => [
+            'code' => 'NSA',
+            'name' => 'Norte de Santander',
+        ],
+        'CO-PUT' => [
+            'code' => 'PUT',
+            'name' => 'Putumayo',
+        ],
+        'CO-QUI' => [
+            'code' => 'QUI',
+            'name' => 'Quindío',
+        ],
+        'CO-RIS' => [
+            'code' => 'RIS',
+            'name' => 'Risaralda',
+        ],
+        'CO-SAP' => [
+            'code' => 'SAP',
+            'name' => 'San Andrés, Providencia y Santa Catalina',
+        ],
+        'CO-SAN' => [
+            'code' => 'SAN',
+            'name' => 'Santander',
+        ],
+        'CO-SUC' => [
+            'code' => 'SUC',
+            'name' => 'Sucre',
+        ],
+        'CO-TOL' => [
+            'code' => 'TOL',
+            'name' => 'Tolima',
+        ],
+        'CO-VAC' => [
+            'code' => 'VAC',
+            'name' => 'Valle del Cauca',
+        ],
+        'CO-VAU' => [
+            'code' => 'VAU',
+            'name' => 'Vaupés',
+        ],
+        'CO-VID' => [
+            'code' => 'VID',
+            'name' => 'Vichada',
+        ],
+    ];
+
     return isset($subdivisionCustomizations[$parentId]) ? $subdivisionCustomizations[$parentId] : [];
 }
