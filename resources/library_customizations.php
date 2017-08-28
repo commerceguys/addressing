@@ -17,6 +17,17 @@
  */
 function get_address_format_customizations($countryCode) {
     $formatCustomizations = [];
+
+    $formatCustomizations['CO'] = [
+        'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%locality, %administrativeArea, %postalCode",
+        'required_fields' => [
+            'addressLine1',
+            'locality',
+            'administrativeArea',
+        ],
+        'administrative_area_type' => 'department',
+    ];
+
     // Switch %organization and %recipient.
     // https://github.com/googlei18n/libaddressinput/issues/83
     $formatCustomizations['DE'] = [
@@ -120,7 +131,7 @@ function get_subdivision_customizations($group) {
             'ARA' => 'ATL',
             'ANT' => 'ARA',
             'AMA' => 'ANT',
-            'DC' => 'AMA'
+            'DC' => 'AMA',
         ],
         'DC' => [
             'name' => 'Distrito Capital de Bogotá',
@@ -286,7 +297,7 @@ function get_subdivision_customizations($group) {
             'name' => 'Vichada',
             'iso_code' => 'CO-VID',
             'postal_code_pattern' => '99\d{4}',
-        ]
+        ],
     ];
 
     // 'Islas Baleares' -> 'Balears'.
