@@ -155,6 +155,7 @@ function file_put_php($filename, $data)
     $data = str_replace('  ', '    ', $data);
     // Unescape backslashes.
     $data = str_replace('\\\\', '\\', $data);
+    $data = substr($data, 0, -1)."]";
     $data = '<?php' . "\n\n" . '$data = ' . $data . ';';
     file_put_contents($filename, $data);
 }
