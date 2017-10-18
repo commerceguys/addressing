@@ -97,7 +97,7 @@ Formats an address for display, always adds the localized country name.
 use CommerceGuys\Addressing\Address;
 use CommerceGuys\Addressing\Formatter\DefaultFormatter;
 use CommerceGuys\Addressing\AddressFormat\AddressFormatRepository;
-use CommerceGuys\Addressing\Repository\CountryRepository;
+use CommerceGuys\Addressing\Country\CountryRepository;
 use CommerceGuys\Addressing\Subdivision\SubdivisionRepository;
 
 $addressFormatRepository = new AddressFormatRepository();
@@ -141,7 +141,7 @@ This matches the recommandation given by the Universal Postal Union, to avoid di
 use CommerceGuys\Addressing\Address;
 use CommerceGuys\Addressing\Formatter\PostalLabelFormatter;
 use CommerceGuys\Addressing\AddressFormat\AddressFormatRepository;
-use CommerceGuys\Addressing\Repository\CountryRepository;
+use CommerceGuys\Addressing\Country\CountryRepository;
 use CommerceGuys\Addressing\Subdivision\SubdivisionRepository;
 
 $addressFormatRepository = new AddressFormatRepository();
