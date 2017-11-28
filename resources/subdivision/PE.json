@@ -1,0 +1,111 @@
+{
+	"country_code": "PE",
+	"parent_id": null,
+	"locale": "und",
+	"subdivisions": {
+		"PE-LMA": {
+			"code": "LMA",
+			"name": "Municipalidad Metropolitana de Lima"
+		},
+		"PE-AMA": {
+			"code": "AMA",
+			"name": "Amazonas"
+		},
+		"PE-ANC": {
+			"code": "ANC",
+			"name": "Ancash"
+		},
+		"PE-APU": {
+			"code": "APU",
+			"name": "Apurímac"
+		},
+		"PE-ARE": {
+			"code": "ARE",
+			"name": "Arequipa"
+		},
+		"PE-AYA": {
+			"code": "AYA",
+			"name": "Ayacucho"
+		},
+		"PE-CAJ": {
+			"code": "CAJ",
+			"name": "Cajamarca"
+		},
+		"PE-CUS": {
+			"code": "CUS",
+			"name": "Cusco"
+		},
+		"PE-CAL": {
+			"code": "CAL",
+			"name": "El Callao"
+		},
+		"PE-HUV": {
+			"code": "HUV",
+			"name": "Huancavelica"
+		},
+		"PE-HUC": {
+			"code": "HUC",
+			"name": "Huánuco"
+		},
+		"PE-ICA": {
+			"code": "ICA",
+			"name": "Ica"
+		},
+		"PE-JUN": {
+			"code": "JUN",
+			"name": "Junín"
+		},
+		"PE-LAL": {
+			"code": "LAL",
+			"name": "La Libertad"
+		},
+		"PE-LAM": {
+			"code": "LAM",
+			"name": "Lambayeque"
+		},
+		"PE-LIM": {
+			"code": "LIM",
+			"name": "Lima"
+		},
+		"PE-LOR": {
+			"code": "LOR",
+			"name": "Loreto"
+		},
+		"PE-MDD": {
+			"code": "MDD",
+			"name": "Madre de Dios"
+		},
+		"PE-MOQ": {
+			"code": "MOQ",
+			"name": "Moquegua"
+		},
+		"PE-PAS": {
+			"code": "PAS",
+			"name": "	Pasco"
+		},
+		"PE-Piura": {
+			"code": "Piura",
+			"name": "Piura"
+		},
+		"PE-PUN": {
+			"code": "PUN",
+			"name": "Puno"
+		},
+		"PE-SAM": {
+			"code": "SAM",
+			"name": "San Martín"
+		},
+		"PE-TAC": {
+			"code": "TAC",
+			"name": "Tacna"
+		},
+		"PE-TUM": {
+			"code": "TUM",
+			"name": "Tumbes"
+		},
+		"PE-UCA": {
+			"code": "UCA",
+			"name": "Ucayali"
+		}
+	}
+}
