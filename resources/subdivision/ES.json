@@ -1,10 +1,6 @@
 {
 	"country_code": "ES",
 	"subdivisions": {
-		"A Coruña": {
-			"iso_code": "ES-C",
-			"postal_code_pattern": "15"
-		},
 		"Álava": {
 			"iso_code": "ES-VI",
 			"postal_code_pattern": "01"
@@ -106,6 +102,10 @@
 			"iso_code": "ES-J",
 			"postal_code_pattern": "23"
 		},
+		"La Coruña": {
+			"iso_code": "ES-C",
+			"postal_code_pattern": "15"
+		},
 		"La Rioja": {
 			"iso_code": "ES-LO",
 			"postal_code_pattern": "26"
@@ -118,7 +118,7 @@
 			"iso_code": "ES-LE",
 			"postal_code_pattern": "24"
 		},
-		"Lleida": {
+		"Lérida": {
 			"iso_code": "ES-L",
 			"postal_code_pattern": "25"
 		},

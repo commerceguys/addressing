@@ -80,7 +80,7 @@
 		},
 		"Yangcheon-gu": {
 			"local_code": "양천구",
-			"postal_code_pattern": "0(?:78|8[01])"
+			"postal_code_pattern": "0(?:7[89]|8[01])"
 		},
 		"Yeongdeungpo-gu": {
 			"local_code": "영등포구",

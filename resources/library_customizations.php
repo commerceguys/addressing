@@ -22,16 +22,6 @@ function get_address_format_customizations($countryCode) {
     $formatCustomizations['DE'] = [
         'format' => '%organization\n%givenName %familyName\n%addressLine1\n%addressLine2\n%postalCode %locality',
     ];
-    // Remove the administrative area.
-    // https://github.com/googlei18n/libaddressinput/issues/115
-    $formatCustomizations['GU'] = [
-        'format' => '%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%locality %postalCode',
-         'required_fields' => [
-             'addressLine1',
-             'locality',
-             'postalCode',
-         ],
-    ];
     // Make the postal codes required, add administrative area fields (EE, LT).
     // https://github.com/googlei18n/libaddressinput/issues/64
     $formatCustomizations['EE'] = [
