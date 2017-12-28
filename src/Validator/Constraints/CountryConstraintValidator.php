@@ -44,15 +44,9 @@ class CountryConstraintValidator extends ConstraintValidator
         $value = (string) $value;
 
         if (!isset($countries[$value])) {
-            if ($this->context instanceof \Symfony\Component\Validator\Context\ExecutionContextInterface) {
-                $this->context->buildViolation($constraint->message)
-                    ->setParameter('{{ value }}', $this->formatValue($value))
-                    ->addViolation();
-            } else {
-                $this->buildViolation($constraint->message)
-                    ->setParameter('{{ value }}', $this->formatValue($value))
-                    ->addViolation();
-            }
+            $this->context->buildViolation($constraint->message)
+                ->setParameter('{{ value }}', $this->formatValue($value))
+                ->addViolation();
         }
     }
 }

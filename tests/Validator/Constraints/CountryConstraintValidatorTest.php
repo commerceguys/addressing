@@ -4,12 +4,12 @@ namespace CommerceGuys\Addressing\Tests\Validator\Constraints;
 
 use CommerceGuys\Addressing\Validator\Constraints\CountryConstraint;
 use CommerceGuys\Addressing\Validator\Constraints\CountryConstraintValidator;
-use Symfony\Component\Validator\Tests\Constraints\AbstractConstraintValidatorTest;
+use Symfony\Component\Validator\Test\ConstraintValidatorTestCase;
 
 /**
  * @coversDefaultClass \CommerceGuys\Addressing\Validator\Constraints\CountryConstraintValidator
  */
-class CountryConstraintValidatorTest extends AbstractConstraintValidatorTest
+class CountryConstraintValidatorTest extends ConstraintValidatorTestCase
 {
     /**
      * @var CountryConstraint

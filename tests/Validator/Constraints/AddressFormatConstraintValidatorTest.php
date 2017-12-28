@@ -6,12 +6,12 @@ use CommerceGuys\Addressing\Address;
 use CommerceGuys\Addressing\AddressFormat\AddressField;
 use CommerceGuys\Addressing\Validator\Constraints\AddressFormatConstraint;
 use CommerceGuys\Addressing\Validator\Constraints\AddressFormatConstraintValidator;
-use Symfony\Component\Validator\Tests\Constraints\AbstractConstraintValidatorTest;
+use Symfony\Component\Validator\Test\ConstraintValidatorTestCase;
 
 /**
  * @coversDefaultClass \CommerceGuys\Addressing\Validator\Constraints\AddressFormatConstraintValidator
  */
-class AddressFormatConstraintValidatorTest extends AbstractConstraintValidatorTest
+class AddressFormatConstraintValidatorTest extends ConstraintValidatorTestCase
 {
     /**
      * @var AddressFormatConstraint

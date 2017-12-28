@@ -187,8 +187,6 @@ class AddressFormatConstraintValidator extends ConstraintValidator
     /**
      * Adds a violation.
      *
-     * Accounts for differences between Symfony versions.
-     *
      * @param string $field          The field.
      * @param string        $message        The error message.
      * @param mixed         $invalidValue   The invalid, validated value.
@@ -196,17 +194,10 @@ class AddressFormatConstraintValidator extends ConstraintValidator
      */
     protected function addViolation($field, $message, $invalidValue, AddressFormat $addressFormat)
     {
-        if ($this->context instanceof \Symfony\Component\Validator\Context\ExecutionContextInterface) {
-            $this->context->buildViolation($message)
-                ->atPath('[' . $field . ']')
-                ->setInvalidValue($invalidValue)
-                ->addViolation();
-        } else {
-            $this->buildViolation($message)
-                ->atPath('[' . $field . ']')
-                ->setInvalidValue($invalidValue)
-                ->addViolation();
-        }
+        $this->context->buildViolation($message)
+            ->atPath('[' . $field . ']')
+            ->setInvalidValue($invalidValue)
+            ->addViolation();
     }
 
     /**

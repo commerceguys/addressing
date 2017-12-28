@@ -10,8 +10,8 @@
         "commerceguys/enum": "~1.0"
     },
     "require-dev": {
-        "symfony/validator": ">=2.3",
-        "symfony/intl": ">=2.3",
+        "symfony/validator": ">=3.2",
+        "symfony/intl": ">=3.2",
         "phpunit/phpunit": "~4.0",
         "mikey179/vfsStream": "1.*",
         "squizlabs/php_codesniffer": "2.*"
