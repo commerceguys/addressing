@@ -78,7 +78,7 @@ class Subdivision
     /**
      * The children.
      *
-     * @param SubdivisionEntityInterface[]
+     * @param Subdivision[]
      */
     protected $children;
 
