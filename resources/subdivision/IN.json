@@ -79,7 +79,7 @@
 		},
 		"Lakshadweep": {
 			"iso_code": "IN-LD",
-			"postal_code_pattern": "673"
+			"postal_code_pattern": "682"
 		},
 		"Madhya Pradesh": {
 			"iso_code": "IN-MP",
@@ -111,7 +111,7 @@
 		},
 		"Puducherry": {
 			"iso_code": "IN-PY",
-			"postal_code_pattern": "605"
+			"postal_code_pattern": "60[579]"
 		},
 		"Punjab": {
 			"iso_code": "IN-PB",

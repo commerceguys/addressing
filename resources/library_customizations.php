@@ -49,22 +49,6 @@ function get_address_format_customizations($countryCode) {
             'postalCode',
         ],
     ];
-    // Make the postal code required for CZ and SK.
-    // https://github.com/googlei18n/libaddressinput/issues/88
-    $formatCustomizations['CZ'] = [
-        'required_fields' => [
-            'addressLine1',
-            'locality',
-            'postalCode',
-        ],
-    ];
-    $formatCustomizations['SK'] = [
-        'required_fields' => [
-            'addressLine1',
-            'locality',
-            'postalCode',
-        ],
-    ];
 
     return isset($formatCustomizations[$countryCode]) ? $formatCustomizations[$countryCode] : [];
 }

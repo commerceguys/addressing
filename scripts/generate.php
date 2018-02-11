@@ -337,8 +337,6 @@ function create_address_format_definition($countryCode, $rawDefinition)
         // Workaround for https://github.com/googlei18n/libaddressinput/issues/72.
         if ($rawDefinition['postprefix'] == 'PR') {
             $rawDefinition['postprefix'] = 'PR ';
-        } elseif ($rawDefinition['postprefix'] == 'SI-') {
-            $rawDefinition['postprefix'] = 'SI- ';
         }
 
         $addressFormat['postal_code_prefix'] = $rawDefinition['postprefix'];
@@ -350,6 +348,13 @@ function create_address_format_definition($countryCode, $rawDefinition)
     // Add the subdivision_depth to the end of the ZZ definition.
     if ($countryCode == 'ZZ') {
         $addressFormat['subdivision_depth'] = 0;
+    }
+    // Remove multiple spaces in the formats.
+    if (!empty($addressFormat['format'])) {
+        $addressFormat['format'] = preg_replace('/[[:blank:]]+/', ' ', $addressFormat['format']);
+    }
+    if (!empty($addressFormat['local_format'])) {
+        $addressFormat['local_format'] = preg_replace('/[[:blank:]]+/', ' ', $addressFormat['local_format']);
     }
 
     // Apply any customizations.

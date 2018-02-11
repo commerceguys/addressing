@@ -147,9 +147,8 @@
 			"iso_code": "RU-MAG",
 			"postal_code_pattern": "68[56]"
 		},
-		"gorod Moskva": {
-			"local_code": "город Москва",
-			"local_name": "Москва",
+		"Moskva": {
+			"local_code": "Москва",
 			"iso_code": "RU-MOW",
 			"postal_code_pattern": "1(?:0[1-9]|1|2|3[0-5]|4[0-4])"
 		},
@@ -323,9 +322,8 @@
 			"iso_code": "RU-SAM",
 			"postal_code_pattern": "44[3-6]"
 		},
-		"gorod Sankt-Peterburg": {
-			"local_code": "город Санкт-Петербург",
-			"local_name": "Санкт-Петербург",
+		"Sankt-Peterburg": {
+			"local_code": "Санкт-Петербург",
 			"iso_code": "RU-SPE",
 			"postal_code_pattern": "19"
 		},
@@ -344,9 +342,8 @@
 			"iso_code": "RU-SVE",
 			"postal_code_pattern": "62[0-4]"
 		},
-		"gorod Sevastopol'": {
-			"local_code": "город Севастополь",
-			"local_name": "Севастополь",
+		"Sevastopol'": {
+			"local_code": "Севастополь",
 			"postal_code_pattern": "299"
 		},
 		"Smolenskaya oblast'": {

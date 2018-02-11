@@ -1241,7 +1241,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
             'SI' => [
                 'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%postalCode %locality",
                 'postal_code_pattern' => '\d{4}',
-                'postal_code_prefix' => 'SI- ',
+                'postal_code_prefix' => 'SI-',
             ],
             'SJ' => [
                 'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%postalCode %locality",
