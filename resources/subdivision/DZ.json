@@ -1,0 +1,246 @@
+{
+	"country_code": "DZ",
+	"locale": "fr",
+	"subdivisions": {
+		"Adrar": {
+			"local_code": "أدرار",
+			"iso_code": "DZ-01",
+			"postal_code_pattern": "01"
+		},
+		"Aïn Defla": {
+			"local_code": "عين الدفلى",
+			"iso_code": "DZ-44",
+			"postal_code_pattern": "44"
+		},
+		"Aïn Témouchent": {
+			"local_code": "عين تموشنت",
+			"iso_code": "DZ-46",
+			"postal_code_pattern": "46"
+		},
+		"Alger": {
+			"local_code": "الجزائر",
+			"iso_code": "DZ-16",
+			"postal_code_pattern": "16"
+		},
+		"Annaba": {
+			"local_code": "عنابة",
+			"iso_code": "DZ-23",
+			"postal_code_pattern": "23"
+		},
+		"Batna": {
+			"local_code": "باتنة",
+			"iso_code": "DZ-05",
+			"postal_code_pattern": "05"
+		},
+		"Béchar": {
+			"local_code": "بشار",
+			"iso_code": "DZ-08",
+			"postal_code_pattern": "08"
+		},
+		"Béjaïa": {
+			"local_code": "بجاية",
+			"iso_code": "DZ-06",
+			"postal_code_pattern": "06"
+		},
+		"Biskra": {
+			"local_code": "بسكرة",
+			"iso_code": "DZ-07",
+			"postal_code_pattern": "07"
+		},
+		"Blida": {
+			"local_code": "البليدة",
+			"iso_code": "DZ-09",
+			"postal_code_pattern": "09"
+		},
+		"Bordj Bou Arréridj": {
+			"local_code": "برج بوعريريج",
+			"iso_code": "DZ-34",
+			"postal_code_pattern": "34"
+		},
+		"Bouira": {
+			"local_code": "البويرة",
+			"iso_code": "DZ-10",
+			"postal_code_pattern": "10"
+		},
+		"Boumerdès": {
+			"local_code": "بومرداس",
+			"iso_code": "DZ-35",
+			"postal_code_pattern": "35"
+		},
+		"Chlef": {
+			"local_code": "الشلف",
+			"iso_code": "DZ-02",
+			"postal_code_pattern": "02"
+		},
+		"Constantine": {
+			"local_code": "قسنطينة",
+			"iso_code": "DZ-25",
+			"postal_code_pattern": "25"
+		},
+		"Djelfa": {
+			"local_code": "الجلفة",
+			"iso_code": "DZ-17",
+			"postal_code_pattern": "17"
+		},
+		"El Bayadh": {
+			"local_code": "البيض",
+			"iso_code": "DZ-32",
+			"postal_code_pattern": "32"
+		},
+		"El Oued": {
+			"local_code": "الوادي",
+			"iso_code": "DZ-39",
+			"postal_code_pattern": "39"
+		},
+		"El Tarf": {
+			"local_code": "الطارف",
+			"iso_code": "DZ-36",
+			"postal_code_pattern": "36"
+		},
+		"Ghardaïa": {
+			"local_code": "غرداية",
+			"iso_code": "DZ-47",
+			"postal_code_pattern": "47"
+		},
+		"Guelma": {
+			"local_code": "قالمة",
+			"iso_code": "DZ-24",
+			"postal_code_pattern": "24"
+		},
+		"Illizi": {
+			"local_code": "اليزي",
+			"iso_code": "DZ-33",
+			"postal_code_pattern": "33"
+		},
+		"Jijel": {
+			"local_code": "جيجل",
+			"iso_code": "DZ-18",
+			"postal_code_pattern": "18"
+		},
+		"Khenchela": {
+			"local_code": "خنشلة",
+			"iso_code": "DZ-40",
+			"postal_code_pattern": "40"
+		},
+		"Laghouat": {
+			"local_code": "الأغواط",
+			"iso_code": "DZ-03",
+			"postal_code_pattern": "03"
+		},
+		"M'sila": {
+			"local_code": "المسيلة",
+			"iso_code": "DZ-28",
+			"postal_code_pattern": "28"
+		},
+		"Mascara": {
+			"local_code": "معسكر",
+			"iso_code": "DZ-29",
+			"postal_code_pattern": "29"
+		},
+		"Médéa": {
+			"local_code": "المدية",
+			"iso_code": "DZ-26",
+			"postal_code_pattern": "26"
+		},
+		"Mila": {
+			"local_code": "ميلة",
+			"iso_code": "DZ-43",
+			"postal_code_pattern": "43"
+		},
+		"Mostaganem": {
+			"local_code": "مستغانم",
+			"iso_code": "DZ-27",
+			"postal_code_pattern": "27"
+		},
+		"Naama": {
+			"local_code": "النعامة",
+			"iso_code": "DZ-45",
+			"postal_code_pattern": "45"
+		},
+		"Oran": {
+			"local_code": "وهران",
+			"iso_code": "DZ-31",
+			"postal_code_pattern": "31"
+		},
+		"Ouargla": {
+			"local_code": "ورقلة",
+			"iso_code": "DZ-30",
+			"postal_code_pattern": "30"
+		},
+		"Oum el Bouaghi": {
+			"local_code": "أم البواقي",
+			"iso_code": "DZ-04",
+			"postal_code_pattern": "04"
+		},
+		"Relizane": {
+			"local_code": "غليزان",
+			"iso_code": "DZ-48",
+			"postal_code_pattern": "48"
+		},
+		"Saïda": {
+			"local_code": "سعيدة",
+			"iso_code": "DZ-20",
+			"postal_code_pattern": "20"
+		},
+		"Sétif": {
+			"local_code": "سطيف",
+			"iso_code": "DZ-19",
+			"postal_code_pattern": "19"
+		},
+		"Sidi Bel Abbès": {
+			"local_code": "سيدي بلعباس",
+			"iso_code": "DZ-22",
+			"postal_code_pattern": "22"
+		},
+		"Skikda": {
+			"local_code": "سكيكدة",
+			"iso_code": "DZ-21",
+			"postal_code_pattern": "21"
+		},
+		"Souk Ahras": {
+			"local_code": "سوق أهراس",
+			"iso_code": "DZ-41",
+			"postal_code_pattern": "41"
+		},
+		"Tamanrasset": {
+			"local_code": "تمنراست",
+			"iso_code": "DZ-11",
+			"postal_code_pattern": "11"
+		},
+		"Tébessa": {
+			"local_code": "تبسة",
+			"iso_code": "DZ-12",
+			"postal_code_pattern": "12"
+		},
+		"Tiaret": {
+			"local_code": "تيارت",
+			"iso_code": "DZ-14",
+			"postal_code_pattern": "14"
+		},
+		"Tindouf": {
+			"local_code": "تندوف",
+			"iso_code": "DZ-37",
+			"postal_code_pattern": "37"
+		},
+		"Tipaza": {
+			"local_code": "تيبازة",
+			"iso_code": "DZ-42",
+			"postal_code_pattern": "42"
+		},
+		"Tissemsilt": {
+			"local_code": "تسمسيلت",
+			"iso_code": "DZ-38",
+			"postal_code_pattern": "38"
+		},
+		"Tizi Ouzou": {
+			"local_code": "تيزي وزو",
+			"iso_code": "DZ-15",
+			"postal_code_pattern": "15"
+		},
+		"Tlemcen": {
+			"local_code": "تلمسان",
+			"iso_code": "DZ-13",
+			"postal_code_pattern": "13"
+		}
+	}
+}
