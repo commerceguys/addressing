@@ -2,7 +2,7 @@
 
 namespace CommerceGuys\Addressing\AddressFormat;
 
-use CommerceGuys\Enum\AbstractEnum;
+use CommerceGuys\Addressing\AbstractEnum;
 
 /**
  * Enumerates available administrative area types.
