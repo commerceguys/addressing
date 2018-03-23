@@ -1,0 +1,79 @@
+{
+	"country_code": "IQ",
+	"parent_id": null,
+	"locale": "und",
+	"subdivisions": {
+		"IQ-AN": {
+			"code": "AN",
+			"name": "Al Anbar"
+		},
+		"IQ-AR": {
+			"code": "AR",
+			"name": "Erbil"
+		},
+		"IQ-BA": {
+			"code": "BA",
+			"name": "Basra"
+		},
+		"IQ-BB": {
+			"code": "BB",
+			"name": "Babylon"
+		},
+		"IQ-BG": {
+			"code": "BG",
+			"name": "Baghdad"
+		},
+		"IQ-DA": {
+			"code": "DA",
+			"name": "Dohuk"
+		},
+		"IQ-DI": {
+			"code": "DI",
+			"name": "Diyala"
+		},
+		"IQ-DQ": {
+			"code": "DQ",
+			"name": "Dhi Qar"
+		},
+		"IQ-KA": {
+			"code": "KA",
+			"name": "Karbala"
+		},
+		"IQ-KI": {
+			"code": "KI",
+			"name": "Kirkuk"
+		},
+		"IQ-MA": {
+			"code": "MA",
+			"name": "Maysan"
+		},
+		"IQ-MU": {
+			"code": "MU",
+			"name": "Al Muthanna"
+		},
+		"IQ-NA": {
+			"code": "NA",
+			"name": "Najaf"
+		},
+		"IQ-NI": {
+			"code": "NI",
+			"name": "Nineveh"
+		},
+		"IQ-QA": {
+			"code": "QA",
+			"name": "Al-Qādisiyyah"
+		},
+		"IQ-SD": {
+			"code": "SD",
+			"name": "Saladin"
+		},
+		"IQ-SU": {
+			"code": "SU",
+			"name": "Sulaymaniyah"
+		},
+		"IQ-WA": {
+			"code": "WA",
+			"name": "Wasit"
+		}
+	}
+}

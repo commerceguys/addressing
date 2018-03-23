@@ -1,0 +1,71 @@
+{
+	"country_code": "PW",
+	"parent_id": null,
+	"locale": "und",
+	"subdivisions": {
+		"PW-002": {
+			"code": "002",
+			"name": "Aimeliik"
+		},
+		"PW-004": {
+			"code": "004",
+			"name": "Airai"
+		},
+		"PW-010": {
+			"code": "010",
+			"name": "Angaur"
+		},
+		"PW-050": {
+			"code": "050",
+			"name": "Hatohobei"
+		},
+		"PW-100": {
+			"code": 100,
+			"name": "Kayangel"
+		},
+		"PW-150": {
+			"code": 150,
+			"name": "Koror"
+		},
+		"PW-212": {
+			"code": 212,
+			"name": "Melekeok"
+		},
+		"PW-214": {
+			"code": 214,
+			"name": "Ngaraard"
+		},
+		"PW-218": {
+			"code": 218,
+			"name": "Ngarchelong"
+		},
+		"PW-222": {
+			"code": 222,
+			"name": "Ngardmau"
+		},
+		"PW-224": {
+			"code": 224,
+			"name": "Ngatpang"
+		},
+		"PW-226": {
+			"code": 226,
+			"name": "Ngchesar"
+		},
+		"PW-227": {
+			"code": 227,
+			"name": "Ngeremlengui"
+		},
+		"PW-228": {
+			"code": 228,
+			"name": "Ngiwal"
+		},
+		"PW-350": {
+			"code": 350,
+			"name": "Peleliu"
+		},
+		"PW-370": {
+			"code": 370,
+			"name": "Sonsorol"
+		}
+	}
+}

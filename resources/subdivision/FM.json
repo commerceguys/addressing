@@ -1,0 +1,23 @@
+{
+	"country_code": "FM",
+	"parent_id": null,
+	"locale": "und",
+	"subdivisions": {
+		"FM-KSA": {
+			"code": "KSA",
+			"name": "Kosrae"
+		},
+		"FM-PNI": {
+			"code": "PNI",
+			"name": "Pohnpei"
+		},
+		"FM-TRK": {
+			"code": "TRK",
+			"name": "Chuuk"
+		},
+		"FM-YAP": {
+			"code": "YAP",
+			"name": "Yap"
+		}
+	}
+}

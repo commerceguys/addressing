@@ -1,0 +1,95 @@
+{
+	"country_code": "PG",
+	"parent_id": null,
+	"locale": "und",
+	"subdivisions": {
+		"PG-CPK": {
+			"code": "CPK",
+			"name": "Chimbu"
+		},
+		"PG-CPM": {
+			"code": "CPM",
+			"name": "Central"
+		},
+		"PG-EBR": {
+			"code": "EBR",
+			"name": "East New Britain"
+		},
+		"PG-EHG": {
+			"code": "EHG",
+			"name": "Eastern Highlands"
+		},
+		"PG-EPW": {
+			"code": "EPW",
+			"name": "Enga"
+		},
+		"PG-ESW": {
+			"code": "ESW",
+			"name": "East Sepik"
+		},
+		"PG-GPK": {
+			"code": "GPK",
+			"name": "Gulf"
+		},
+		"PG-HLA": {
+			"code": "HLA",
+			"name": "Hela"
+		},
+		"PG-JWK": {
+			"code": "JWK",
+			"name": "Jiwaka"
+		},
+		"PG-MBA": {
+			"code": "MBA",
+			"name": "Milne Bay"
+		},
+		"PG-MPL": {
+			"code": "MPL",
+			"name": "Morobe"
+		},
+		"PG-MPM": {
+			"code": "MPM",
+			"name": "Madang"
+		},
+		"PG-MRL": {
+			"code": "MRL",
+			"name": "Manus"
+		},
+		"PG-NCD": {
+			"code": "NCD",
+			"name": "Port Moresby"
+		},
+		"PG-NIK": {
+			"code": "NIK",
+			"name": "New Ireland"
+		},
+		"PG-NPP": {
+			"code": "NPP",
+			"name": "Oro"
+		},
+		"PG-NSB": {
+			"code": "NSB",
+			"name": "Bougainville"
+		},
+		"PG-SAN": {
+			"code": "SAN",
+			"name": "Sandaun"
+		},
+		"PG-SHM": {
+			"code": "SHM",
+			"name": "Southern Highlands"
+		},
+		"PG-WBK": {
+			"code": "WBK",
+			"name": "West New Britain"
+		},
+		"PG-WHM": {
+			"code": "WHM",
+			"name": "Western Highlands"
+		},
+		"PG-WPD": {
+			"code": "WPD",
+			"name": "Western"
+		}
+	}
+}

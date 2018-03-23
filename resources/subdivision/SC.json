@@ -1,0 +1,107 @@
+{
+	"country_code": "SC",
+	"parent_id": null,
+	"locale": "und",
+	"subdivisions": {
+		"SC-01": {
+			"code": "01",
+			"name": "Anse aux Pins"
+		},
+		"SC-02": {
+			"code": "02",
+			"name": "Anse Boileau"
+		},
+		"SC-03": {
+			"code": "03",
+			"name": "Anse Etoile"
+		},
+		"SC-04": {
+			"code": "04",
+			"name": "Au Cap"
+		},
+		"SC-05": {
+			"code": "05",
+			"name": "Anse Royale"
+		},
+		"SC-06": {
+			"code": "06",
+			"name": "Baie Lazare"
+		},
+		"SC-07": {
+			"code": "07",
+			"name": "Baie Sainte Anne"
+		},
+		"SC-08": {
+			"code": "08",
+			"name": "Beau Vallon"
+		},
+		"SC-09": {
+			"code": "09",
+			"name": "Bel Air"
+		},
+		"SC-10": {
+			"code": 10,
+			"name": "Bel Ombre"
+		},
+		"SC-11": {
+			"code": 11,
+			"name": "Cascade"
+		},
+		"SC-12": {
+			"code": 12,
+			"name": "Glacis"
+		},
+		"SC-13": {
+			"code": 13,
+			"name": "Grand’Anse Mahé"
+		},
+		"SC-14": {
+			"code": 14,
+			"name": "Grand’Anse Praslin"
+		},
+		"SC-15": {
+			"code": 15,
+			"name": "La Digue"
+		},
+		"SC-16": {
+			"code": 16,
+			"name": "La Rivière Anglaise"
+		},
+		"SC-17": {
+			"code": 17,
+			"name": "Mont Buxton"
+		},
+		"SC-18": {
+			"code": 18,
+			"name": "Mont Fleuri"
+		},
+		"SC-19": {
+			"code": 19,
+			"name": "Plaisance"
+		},
+		"SC-20": {
+			"code": 20,
+			"name": "Pointe La Rue"
+		},
+		"SC-21": {
+			"code": 21,
+			"name": "Port Glaud"
+		},
+		"SC-22": {
+			"code": 22,
+			"name": "Saint Louis"
+		},
+		"SC-23": {
+			"code": 23,
+			"name": "Takamaka"
+		},
+		"SC-24": {
+			"code": 24,
+			"name": "Les Mamelles"
+		},
+		"SC-25": {
+			"code": 25,
+			"name": "Roche Caiman"
+		}
+	}
+}

@@ -1,0 +1,51 @@
+{
+	"country_code": "BB",
+	"parent_id": null,
+	"locale": "und",
+	"subdivisions": {
+		"BB-01": {
+			"code": "01",
+			"name": "Christ Church"
+		},
+		"BB-02": {
+			"code": "02",
+			"name": "Saint Andrew"
+		},
+		"BB-03": {
+			"code": "03",
+			"name": "Saint George"
+		},
+		"BB-04": {
+			"code": "04",
+			"name": "Saint James"
+		},
+		"BB-05": {
+			"code": "05",
+			"name": "Saint John"
+		},
+		"BB-06": {
+			"code": "06",
+			"name": "Saint Joseph"
+		},
+		"BB-07": {
+			"code": "07",
+			"name": "Saint Lucy"
+		},
+		"BB-08": {
+			"code": "08",
+			"name": "Saint Michael"
+		},
+		"BB-09": {
+			"code": "09",
+			"name": "Saint Peter"
+		},
+		"BB-10": {
+			"code": 10,
+			"name": "Saint Philip"
+		},
+		"BB-11": {
+			"code": 11,
+			"name": "Saint Thomas"
+		}
+	}
+}

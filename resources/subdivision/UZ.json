@@ -1,0 +1,63 @@
+{
+	"country_code": "UZ",
+	"parent_id": null,
+	"locale": "und",
+	"subdivisions": {
+		"UZ-AN": {
+			"code": "AN",
+			"name": "Andijan"
+		},
+		"UZ-BU": {
+			"code": "BU",
+			"name": "Bukhara"
+		},
+		"UZ-FA": {
+			"code": "FA",
+			"name": "Fergana"
+		},
+		"UZ-JI": {
+			"code": "JI",
+			"name": "Jizzakh"
+		},
+		"UZ-NG": {
+			"code": "NG",
+			"name": "Namangan"
+		},
+		"UZ-NW": {
+			"code": "NW",
+			"name": "Navoiy"
+		},
+		"UZ-QA": {
+			"code": "QA",
+			"name": "Qashqadaryo"
+		},
+		"UZ-QR": {
+			"code": "QR",
+			"name": "Karakalpakstan"
+		},
+		"UZ-SA": {
+			"code": "SA",
+			"name": "Samarqand"
+		},
+		"UZ-SI": {
+			"code": "SI",
+			"name": "Sirdaryo"
+		},
+		"UZ-SU": {
+			"code": "SU",
+			"name": "Surxondaryo"
+		},
+		"UZ-TK": {
+			"code": "TK",
+			"name": "Tashkent"
+		},
+		"UZ-TO": {
+			"code": "TO",
+			"name": "Tashkent Province"
+		},
+		"UZ-XO": {
+			"code": "XO",
+			"name": "Xorazm"
+		}
+	}
+}

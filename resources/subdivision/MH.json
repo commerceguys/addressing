@@ -1,0 +1,111 @@
+{
+	"country_code": "MH",
+	"parent_id": null,
+	"locale": "und",
+	"subdivisions": {
+		"MH-ALK": {
+			"code": "ALK",
+			"name": "Ailuk Atoll"
+		},
+		"MH-ALL": {
+			"code": "ALL",
+			"name": "Ailinglaplap Atoll"
+		},
+		"MH-ARN": {
+			"code": "ARN",
+			"name": "Arno"
+		},
+		"MH-AUR": {
+			"code": "AUR",
+			"name": "Aur Atoll"
+		},
+		"MH-EBO": {
+			"code": "EBO",
+			"name": "Ebon Atoll"
+		},
+		"MH-ENI": {
+			"code": "ENI",
+			"name": "Enewetak Atoll"
+		},
+		"MH-JAB": {
+			"code": "JAB",
+			"name": "Jabat Island"
+		},
+		"MH-JAL": {
+			"code": "JAL",
+			"name": "Jaluit Atoll"
+		},
+		"MH-KIL": {
+			"code": "KIL",
+			"name": "Kili Island"
+		},
+		"MH-KWA": {
+			"code": "KWA",
+			"name": "Kwajalein"
+		},
+		"MH-L": {
+			"code": "L",
+			"name": "Ralik Chain"
+		},
+		"MH-LAE": {
+			"code": "LAE",
+			"name": "Lae Atoll"
+		},
+		"MH-LIB": {
+			"code": "LIB",
+			"name": "Lib Island"
+		},
+		"MH-LIK": {
+			"code": "LIK",
+			"name": "Likiep Atoll"
+		},
+		"MH-MAJ": {
+			"code": "MAJ",
+			"name": "Majuro"
+		},
+		"MH-MAL": {
+			"code": "MAL",
+			"name": "Maloelap Atoll"
+		},
+		"MH-MEJ": {
+			"code": "MEJ",
+			"name": "Mejit Island"
+		},
+		"MH-MIL": {
+			"code": "MIL",
+			"name": "Mili Atoll"
+		},
+		"MH-NMK": {
+			"code": "NMK",
+			"name": "Namdrik Atoll"
+		},
+		"MH-NMU": {
+			"code": "NMU",
+			"name": "Namu Atoll"
+		},
+		"MH-RON": {
+			"code": "RON",
+			"name": "Rongelap Atoll"
+		},
+		"MH-T": {
+			"code": "T",
+			"name": "Ratak Chain"
+		},
+		"MH-UJA": {
+			"code": "UJA",
+			"name": "Ujae Atoll"
+		},
+		"MH-UTI": {
+			"code": "UTI",
+			"name": "Utirik Atoll"
+		},
+		"MH-WTH": {
+			"code": "WTH",
+			"name": "Wotho Atoll"
+		},
+		"MH-WTJ": {
+			"code": "WTJ",
+			"name": "Wotje Atoll"
+		}
+	}
+}

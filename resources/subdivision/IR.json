@@ -1,0 +1,131 @@
+{
+	"country_code": "IR",
+	"parent_id": null,
+	"locale": "und",
+	"subdivisions": {
+		"IR-01": {
+			"code": "01",
+			"name": "East Azerbaijan"
+		},
+		"IR-02": {
+			"code": "02",
+			"name": "West Azarbaijan"
+		},
+		"IR-03": {
+			"code": "03",
+			"name": "Ardabil"
+		},
+		"IR-04": {
+			"code": "04",
+			"name": "Isfahan"
+		},
+		"IR-05": {
+			"code": "05",
+			"name": "Ilam"
+		},
+		"IR-06": {
+			"code": "06",
+			"name": "Bushehr"
+		},
+		"IR-07": {
+			"code": "07",
+			"name": "Tehran"
+		},
+		"IR-08": {
+			"code": "08",
+			"name": "Chaharmahal and Bakhtiari"
+		},
+		"IR-10": {
+			"code": 10,
+			"name": "Khuzestan"
+		},
+		"IR-11": {
+			"code": 11,
+			"name": "Zanjan"
+		},
+		"IR-12": {
+			"code": 12,
+			"name": "Semnan"
+		},
+		"IR-13": {
+			"code": 13,
+			"name": "Sistan and Baluchestan"
+		},
+		"IR-14": {
+			"code": 14,
+			"name": "Fars"
+		},
+		"IR-15": {
+			"code": 15,
+			"name": "Kerman"
+		},
+		"IR-16": {
+			"code": 16,
+			"name": "Kurdistan"
+		},
+		"IR-17": {
+			"code": 17,
+			"name": "Kermanshah"
+		},
+		"IR-18": {
+			"code": 18,
+			"name": "Kohgiluyeh and Boyer-Ahmad"
+		},
+		"IR-19": {
+			"code": 19,
+			"name": "Gilan"
+		},
+		"IR-20": {
+			"code": 20,
+			"name": "Lorestan"
+		},
+		"IR-21": {
+			"code": 21,
+			"name": "Mazandaran"
+		},
+		"IR-22": {
+			"code": 22,
+			"name": "Markazi"
+		},
+		"IR-23": {
+			"code": 23,
+			"name": "Hormozgan"
+		},
+		"IR-24": {
+			"code": 24,
+			"name": "Hamadan"
+		},
+		"IR-25": {
+			"code": 25,
+			"name": "Yazd"
+		},
+		"IR-26": {
+			"code": 26,
+			"name": "Qom"
+		},
+		"IR-27": {
+			"code": 27,
+			"name": "Golestan"
+		},
+		"IR-28": {
+			"code": 28,
+			"name": "Qazvin"
+		},
+		"IR-29": {
+			"code": 29,
+			"name": "South Khorasan"
+		},
+		"IR-30": {
+			"code": 30,
+			"name": "Razavi Khorasan"
+		},
+		"IR-31": {
+			"code": 31,
+			"name": "North Khorasan"
+		},
+		"IR-32": {
+			"code": 32,
+			"name": "Alborz"
+		}
+	}
+}

@@ -1,0 +1,35 @@
+{
+	"country_code": "CR",
+	"parent_id": null,
+	"locale": "und",
+	"subdivisions": {
+		"CR-A": {
+			"code": "A",
+			"name": "Alajuela"
+		},
+		"CR-C": {
+			"code": "C",
+			"name": "Cartago"
+		},
+		"CR-G": {
+			"code": "G",
+			"name": "Guanacaste"
+		},
+		"CR-H": {
+			"code": "H",
+			"name": "Heredia"
+		},
+		"CR-L": {
+			"code": "L",
+			"name": "Limón"
+		},
+		"CR-P": {
+			"code": "P",
+			"name": "Puntarenas"
+		},
+		"CR-SJ": {
+			"code": "SJ",
+			"name": "San José"
+		}
+	}
+}
