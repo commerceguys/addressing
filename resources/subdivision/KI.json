@@ -1,0 +1,19 @@
+{
+	"country_code": "KI",
+	"parent_id": null,
+	"locale": "und",
+	"subdivisions": {
+		"KI-G": {
+			"code": "G",
+			"name": "Gilbert Islands"
+		},
+		"KI-L": {
+			"code": "L",
+			"name": "Line Islands"
+		},
+		"KI-P": {
+			"code": "P",
+			"name": "Phoenix Islands"
+		}
+	}
+}

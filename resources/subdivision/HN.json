@@ -1,0 +1,79 @@
+{
+	"country_code": "HN",
+	"parent_id": null,
+	"locale": "und",
+	"subdivisions": {
+		"HN-AT": {
+			"code": "AT",
+			"name": "Atlántida"
+		},
+		"HN-CH": {
+			"code": "CH",
+			"name": "Choluteca"
+		},
+		"HN-CL": {
+			"code": "CL",
+			"name": "Colón"
+		},
+		"HN-CM": {
+			"code": "CM",
+			"name": "Comayagua"
+		},
+		"HN-CP": {
+			"code": "CP",
+			"name": "Copán"
+		},
+		"HN-CR": {
+			"code": "CR",
+			"name": "Cortés"
+		},
+		"HN-EP": {
+			"code": "EP",
+			"name": "El Paraíso"
+		},
+		"HN-FM": {
+			"code": "FM",
+			"name": "Francisco Morazán"
+		},
+		"HN-GD": {
+			"code": "GD",
+			"name": "Gracias a Dios"
+		},
+		"HN-IB": {
+			"code": "IB",
+			"name": "Bay Islands"
+		},
+		"HN-IN": {
+			"code": "IN",
+			"name": "Intibucá"
+		},
+		"HN-LE": {
+			"code": "LE",
+			"name": "Lempira"
+		},
+		"HN-LP": {
+			"code": "LP",
+			"name": "La Paz"
+		},
+		"HN-OC": {
+			"code": "OC",
+			"name": "Ocotepeque"
+		},
+		"HN-OL": {
+			"code": "OL",
+			"name": "Olancho"
+		},
+		"HN-SB": {
+			"code": "SB",
+			"name": "Santa Bárbara"
+		},
+		"HN-VA": {
+			"code": "VA",
+			"name": "Valle"
+		},
+		"HN-YO": {
+			"code": "YO",
+			"name": "Yoro"
+		}
+	}
+}

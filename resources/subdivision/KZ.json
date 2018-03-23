@@ -1,0 +1,75 @@
+{
+	"country_code": "KZ",
+	"parent_id": null,
+	"locale": "und",
+	"subdivisions": {
+		"KZ-AKM": {
+			"code": "AKM",
+			"name": "Akmola"
+		},
+		"KZ-AKT": {
+			"code": "AKT",
+			"name": "Aktobe"
+		},
+		"KZ-ALA": {
+			"code": "ALA",
+			"name": "Almaty"
+		},
+		"KZ-ALM": {
+			"code": "ALM",
+			"name": "Almaty Region"
+		},
+		"KZ-AST": {
+			"code": "AST",
+			"name": "Astana"
+		},
+		"KZ-ATY": {
+			"code": "ATY",
+			"name": "Atyrau"
+		},
+		"KZ-BAY": {
+			"code": "BAY",
+			"name": "Bayqongyr"
+		},
+		"KZ-KAR": {
+			"code": "KAR",
+			"name": "Karagandy"
+		},
+		"KZ-KUS": {
+			"code": "KUS",
+			"name": "Kostanay"
+		},
+		"KZ-KZY": {
+			"code": "KZY",
+			"name": "Kyzylorda"
+		},
+		"KZ-MAN": {
+			"code": "MAN",
+			"name": "Mangystau"
+		},
+		"KZ-PAV": {
+			"code": "PAV",
+			"name": "Pavlodar"
+		},
+		"KZ-SEV": {
+			"code": "SEV",
+			"name": "North Kazakhstan"
+		},
+		"KZ-VOS": {
+			"code": "VOS",
+			"name": "East Kazakhstan"
+		},
+		"KZ-YUZ": {
+			"code": "YUZ",
+			"name": "South Kazakhstan"
+		},
+		"KZ-ZAP": {
+			"code": "ZAP",
+			"name": "West Kazakhstan"
+		},
+		"KZ-ZHA": {
+			"code": "ZHA",
+			"name": "Jambyl"
+		}
+	}
+}

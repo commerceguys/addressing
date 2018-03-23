@@ -1,0 +1,67 @@
+{
+	"country_code": "EE",
+	"parent_id": null,
+	"locale": "und",
+	"subdivisions": {
+		"EE-37": {
+			"code": 37,
+			"name": "Harju"
+		},
+		"EE-39": {
+			"code": 39,
+			"name": "Hiiu"
+		},
+		"EE-44": {
+			"code": 44,
+			"name": "Ida-Viru"
+		},
+		"EE-49": {
+			"code": 49,
+			"name": "Jõgeva"
+		},
+		"EE-51": {
+			"code": 51,
+			"name": "Järva"
+		},
+		"EE-57": {
+			"code": 57,
+			"name": "Lääne"
+		},
+		"EE-59": {
+			"code": 59,
+			"name": "Lääne-Viru"
+		},
+		"EE-65": {
+			"code": 65,
+			"name": "Põlva"
+		},
+		"EE-67": {
+			"code": 67,
+			"name": "Pärnu"
+		},
+		"EE-70": {
+			"code": 70,
+			"name": "Rapla"
+		},
+		"EE-74": {
+			"code": 74,
+			"name": "Saare"
+		},
+		"EE-78": {
+			"code": 78,
+			"name": "Tartu"
+		},
+		"EE-82": {
+			"code": 82,
+			"name": "Valga"
+		},
+		"EE-84": {
+			"code": 84,
+			"name": "Viljandi"
+		},
+		"EE-86": {
+			"code": 86,
+			"name": "Võru"
+		}
+	}
+}

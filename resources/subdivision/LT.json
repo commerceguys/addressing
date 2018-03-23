@@ -1,0 +1,287 @@
+{
+	"country_code": "LT",
+	"parent_id": null,
+	"locale": "und",
+	"subdivisions": {
+		"LT-01": {
+			"code": "01",
+			"name": "Akmenė"
+		},
+		"LT-02": {
+			"code": "02",
+			"name": "Alytus Municipality"
+		},
+		"LT-03": {
+			"code": "03",
+			"name": "Alytus"
+		},
+		"LT-04": {
+			"code": "04",
+			"name": "Anykščiai"
+		},
+		"LT-05": {
+			"code": "05",
+			"name": "Birštonas"
+		},
+		"LT-06": {
+			"code": "06",
+			"name": "Biržai"
+		},
+		"LT-07": {
+			"code": "07",
+			"name": "Druskininkai"
+		},
+		"LT-08": {
+			"code": "08",
+			"name": "Elektrėnai"
+		},
+		"LT-09": {
+			"code": "09",
+			"name": "Ignalina"
+		},
+		"LT-10": {
+			"code": 10,
+			"name": "Jonava"
+		},
+		"LT-11": {
+			"code": 11,
+			"name": "Joniškis"
+		},
+		"LT-12": {
+			"code": 12,
+			"name": "Jurbarkas"
+		},
+		"LT-13": {
+			"code": 13,
+			"name": "Kaišiadorys"
+		},
+		"LT-14": {
+			"code": 14,
+			"name": "Kalvarija"
+		},
+		"LT-15": {
+			"code": 15,
+			"name": "Kauno Municipality"
+		},
+		"LT-16": {
+			"code": 16,
+			"name": "Kaunas"
+		},
+		"LT-17": {
+			"code": 17,
+			"name": "Kazlų Rūda"
+		},
+		"LT-18": {
+			"code": 18,
+			"name": "Kėdainiai"
+		},
+		"LT-19": {
+			"code": 19,
+			"name": "Kelmė"
+		},
+		"LT-20": {
+			"code": 20,
+			"name": "Klaipėdos Municipality"
+		},
+		"LT-21": {
+			"code": 21,
+			"name": "Klaipėda"
+		},
+		"LT-22": {
+			"code": 22,
+			"name": "Kretinga"
+		},
+		"LT-23": {
+			"code": 23,
+			"name": "Kupiškis"
+		},
+		"LT-24": {
+			"code": 24,
+			"name": "Lazdijai"
+		},
+		"LT-25": {
+			"code": 25,
+			"name": "Marijampolė"
+		},
+		"LT-26": {
+			"code": 26,
+			"name": "Mažeikiai"
+		},
+		"LT-27": {
+			"code": 27,
+			"name": "Molėtai"
+		},
+		"LT-28": {
+			"code": 28,
+			"name": "Neringa"
+		},
+		"LT-29": {
+			"code": 29,
+			"name": "Pagėgiai"
+		},
+		"LT-30": {
+			"code": 30,
+			"name": "Pakruojis"
+		},
+		"LT-31": {
+			"code": 31,
+			"name": "Palanga"
+		},
+		"LT-32": {
+			"code": 32,
+			"name": "Panevėžio Municipality"
+		},
+		"LT-33": {
+			"code": 33,
+			"name": "Panevėžys"
+		},
+		"LT-34": {
+			"code": 34,
+			"name": "Pasvalys"
+		},
+		"LT-35": {
+			"code": 35,
+			"name": "Plungė"
+		},
+		"LT-36": {
+			"code": 36,
+			"name": "Prienai"
+		},
+		"LT-37": {
+			"code": 37,
+			"name": "Radviliškis"
+		},
+		"LT-38": {
+			"code": 38,
+			"name": "Raseiniai"
+		},
+		"LT-39": {
+			"code": 39,
+			"name": "Rietavas"
+		},
+		"LT-40": {
+			"code": 40,
+			"name": "Rokiškis"
+		},
+		"LT-41": {
+			"code": 41,
+			"name": "Šakiai"
+		},
+		"LT-42": {
+			"code": 42,
+			"name": "Šalčininkai"
+		},
+		"LT-43": {
+			"code": 43,
+			"name": "Šiaulių Municipality"
+		},
+		"LT-44": {
+			"code": 44,
+			"name": "Šiauliai"
+		},
+		"LT-45": {
+			"code": 45,
+			"name": "Šilalė"
+		},
+		"LT-46": {
+			"code": 46,
+			"name": "Šilutė"
+		},
+		"LT-47": {
+			"code": 47,
+			"name": "Širvintos"
+		},
+		"LT-48": {
+			"code": 48,
+			"name": "Skuodas"
+		},
+		"LT-49": {
+			"code": 49,
+			"name": "Švenčionys"
+		},
+		"LT-50": {
+			"code": 50,
+			"name": "Tauragė"
+		},
+		"LT-51": {
+			"code": 51,
+			"name": "Telšiai"
+		},
+		"LT-52": {
+			"code": 52,
+			"name": "Trakai"
+		},
+		"LT-53": {
+			"code": 53,
+			"name": "Ukmergė"
+		},
+		"LT-54": {
+			"code": 54,
+			"name": "Utena"
+		},
+		"LT-55": {
+			"code": 55,
+			"name": "Varėna"
+		},
+		"LT-56": {
+			"code": 56,
+			"name": "Vilkaviškis"
+		},
+		"LT-57": {
+			"code": 57,
+			"name": "Vilniaus Municipality"
+		},
+		"LT-58": {
+			"code": 58,
+			"name": "Vilnius"
+		},
+		"LT-59": {
+			"code": 59,
+			"name": "Visaginas"
+		},
+		"LT-60": {
+			"code": 60,
+			"name": "Zarasai"
+		},
+		"LT-AL": {
+			"code": "AL",
+			"name": "Alytus County"
+		},
+		"LT-KL": {
+			"code": "KL",
+			"name": "Klaipėda County"
+		},
+		"LT-KU": {
+			"code": "KU",
+			"name": "Kaunas County"
+		},
+		"LT-MR": {
+			"code": "MR",
+			"name": "Marijampolė County"
+		},
+		"LT-PN": {
+			"code": "PN",
+			"name": "Panevėžys County"
+		},
+		"LT-SA": {
+			"code": "SA",
+			"name": "Šiauliai County"
+		},
+		"LT-TA": {
+			"code": "TA",
+			"name": "Tauragė County"
+		},
+		"LT-TE": {
+			"code": "TE",
+			"name": "Telšiai County"
+		},
+		"LT-UT": {
+			"code": "UT",
+			"name": "Utena County"
+		},
+		"LT-VL": {
+			"code": "VL",
+			"name": "Vilnius County"
+		}
+	}
+}

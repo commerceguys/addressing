@@ -1,0 +1,35 @@
+{
+	"country_code": "BY",
+	"parent_id": null,
+	"locale": "und",
+	"subdivisions": {
+		"BY-BR": {
+			"code": "BR",
+			"name": "Brest"
+		},
+		"BY-HM": {
+			"code": "HM",
+			"name": "Minsk"
+		},
+		"BY-HO": {
+			"code": "HO",
+			"name": "Homel"
+		},
+		"BY-HR": {
+			"code": "HR",
+			"name": "Hrodna"
+		},
+		"BY-MA": {
+			"code": "MA",
+			"name": "Magileu"
+		},
+		"BY-MI": {
+			"code": "MI",
+			"name": "Minsk Region"
+		},
+		"BY-VI": {
+			"code": "VI",
+			"name": "Vitebsk"
+		}
+	}
+}

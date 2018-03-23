@@ -1,0 +1,95 @@
+{
+	"country_code": "MN",
+	"parent_id": null,
+	"locale": "und",
+	"subdivisions": {
+		"MN-1": {
+			"code": 1,
+			"name": "Ulaanbaatar"
+		},
+		"MN-035": {
+			"code": "035",
+			"name": "Orkhon"
+		},
+		"MN-037": {
+			"code": "037",
+			"name": "Darkhan-Uul"
+		},
+		"MN-039": {
+			"code": "039",
+			"name": "Khentii"
+		},
+		"MN-041": {
+			"code": "041",
+			"name": "Khövsgöl"
+		},
+		"MN-043": {
+			"code": "043",
+			"name": "Khovd"
+		},
+		"MN-046": {
+			"code": "046",
+			"name": "Uvs"
+		},
+		"MN-047": {
+			"code": "047",
+			"name": "Töv"
+		},
+		"MN-049": {
+			"code": "049",
+			"name": "Selenge"
+		},
+		"MN-051": {
+			"code": "051",
+			"name": "Sükhbaatar"
+		},
+		"MN-053": {
+			"code": "053",
+			"name": "Ömnögovi"
+		},
+		"MN-055": {
+			"code": "055",
+			"name": "Övörkhangai"
+		},
+		"MN-057": {
+			"code": "057",
+			"name": "Zavkhan"
+		},
+		"MN-059": {
+			"code": "059",
+			"name": "Dundgovi"
+		},
+		"MN-061": {
+			"code": "061",
+			"name": "Dornod"
+		},
+		"MN-063": {
+			"code": "063",
+			"name": "Dornogovi"
+		},
+		"MN-064": {
+			"code": "064",
+			"name": "Govisümber"
+		},
+		"MN-065": {
+			"code": "065",
+			"name": "Govi-Altai"
+		},
+		"MN-067": {
+			"code": "067",
+			"name": "Bulgan"
+		},
+		"MN-069": {
+			"code": "069",
+			"name": "Bayankhongor"
+		},
+		"MN-071": {
+			"code": "071",
+			"name": "Bayan-Ölgii"
+		},
+		"MN-073": {
+			"code": "073",
+			"name": "Arkhangai"
+		}
+	}
+}
