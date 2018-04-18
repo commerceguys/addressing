@@ -1,14 +1,14 @@
 <?php
 
 /**
- * Generates the JSON files stored in resources/address_format and resources/subdivision.
+ * Generates address formats, and the JSON files stored in resources/subdivision.
  */
 
 set_time_limit(0);
 date_default_timezone_set('UTC');
 
-include '../vendor/autoload.php';
-include '../resources/library_customizations.php';
+include __DIR__ . '/../vendor/autoload.php';
+include __DIR__ . '/../resources/library_customizations.php';
 
 use CommerceGuys\Addressing\AddressFormat\AddressField;
 use CommerceGuys\Addressing\AddressFormat\AdministrativeAreaType;
@@ -17,34 +17,18 @@ use CommerceGuys\Addressing\AddressFormat\PostalCodeType;
 use CommerceGuys\Addressing\Country\CountryRepository;
 use CommerceGuys\Addressing\LocaleHelper;
 
-// Make sure aria2 is installed.
-exec('aria2c --version', $ariaVersion);
-if (empty($ariaVersion) || strpos($ariaVersion[0], 'aria2 version') === false) {
-    die('aria2 must be installed.');
-}
-
-// Prepare the filesystem.
-$neededDirectories = ['subdivision', 'raw'];
-foreach ($neededDirectories as $neededDirectory) {
-    if (!is_dir($neededDirectory)) {
-        mkdir($neededDirectory);
-    }
-}
-
 $countryRepository = new CountryRepository();
 $countries = $countryRepository->getList();
 ksort($countries);
 $serviceUrl = 'https://chromium-i18n.appspot.com/ssl-address';
 
-echo "Generating the url list.\n";
+// Make sure we're starting from a clean slate.
+if (is_dir(__DIR__ . '/subdivision')) {
+    die('The subdivision/ directory must not exist.');
+}
 
-// Generate the url list for aria2.
-$urlList = generate_url_list();
-file_put_contents('raw/url_list.txt', $urlList);
-
-// Invoke aria2 and fetch the data.
-echo "Downloading the raw data from Google's endpoint.\n";
-exec('cd raw && aria2c -u 16 -i url_list.txt');
+// Prepare the filesystem.
+mkdir(__DIR__ . '/subdivision');
 
 // Create a list of countries for which Google has definitions.
 $foundCountries = ['ZZ'];
@@ -58,13 +42,11 @@ foreach ($countries as $countryCode => $countryName) {
 }
 
 echo "Converting the raw definitions into the expected format.\n";
-
-// Process the raw definitions and convert them into the expected format.
 $genericDefinition = null;
 $addressFormats = [];
 $groupedSubdivisions = [];
 foreach ($foundCountries as $countryCode) {
-    $definition = file_get_contents('raw/' . $countryCode . '.json');
+    $definition = file_get_contents(__DIR__ . '/assets/google/' . $countryCode . '.json');
     $definition = json_decode($definition, true);
     $extraKeys = array_diff(array_keys($definition), ['id', 'key', 'name']);
     if (empty($extraKeys)) {
@@ -103,7 +85,7 @@ foreach ($foundCountries as $countryCode) {
 echo "Writing the final definitions to disk.\n";
 // Subdivisions are stored in JSON.
 foreach ($groupedSubdivisions as $parentId => $subdivisions) {
-    file_put_json('subdivision/' . $parentId . '.json', $subdivisions);
+    file_put_json(__DIR__ . '/subdivision/' . $parentId . '.json', $subdivisions);
 }
 // Generate the subdivision depths for each country.
 $depths = generate_subdivision_depths($foundCountries);
@@ -112,7 +94,7 @@ foreach ($depths as $countryCode => $depth) {
 }
 // Address formats are stored in PHP, then manually transferred to
 // AddressFormatRepository.
-file_put_php('address_formats.php', $addressFormats);
+file_put_php(__DIR__ . '/address_formats.php', $addressFormats);
 
 echo "Done.\n";
 
@@ -161,34 +143,6 @@ function file_put_php($filename, $data)
 }
 
 /**
- * Generates a list of all urls that need to be downloaded using aria2.
- */
-function generate_url_list()
-{
-    global $serviceUrl;
-
-    $index = file_get_contents($serviceUrl);
-    // Get all links that start with /ssl-address/data.
-    // This avoids the /address/examples urls which aren't needed.
-    preg_match_all("/<a\shref=\'\/ssl-address\/data\/([^\"]*)\'>/siU", $index, $matches);
-    // Assemble the urls
-    $list = array_map(function ($href) use ($serviceUrl) {
-        // Replace the url encoded single slash with a real one.
-        $href = str_replace('&#39;', "'", $href);
-        // Convert 'US/CA' into 'US_CA.json'.
-        $filename = str_replace('/', '_', $href) . '.json';
-        $url = $serviceUrl . '/data/' . $href;
-        // aria2 expects the out= parameter to be in the next row,
-        // indented by two spaces.
-        $url .= "\n  out=$filename";
-
-        return $url;
-    }, $matches[1]);
-
-    return implode("\n", $list);
-}
-
-/**
  * Recursively generates subdivision definitions.
  */
 function generate_subdivisions($countryCode, array $parents, $subdivisionPaths, $languages)
@@ -196,7 +150,7 @@ function generate_subdivisions($countryCode, array $parents, $subdivisionPaths, 
     $group = build_group($parents);
     $subdivisions = [];
     foreach ($subdivisionPaths as $subdivisionPath) {
-        $definition = file_get_contents('raw/' . $subdivisionPath . '.json');
+        $definition = file_get_contents(__DIR__ . '/assets/google/' . $subdivisionPath . '.json');
         $definition = json_decode($definition, true);
         // The lname is usable as a latin code when the key is non-latin.
         $code = $definition['key'];
@@ -223,7 +177,7 @@ function generate_subdivisions($countryCode, array $parents, $subdivisionPaths, 
         // here is Canada (with French), it will do.
         $translationLanguage = reset($languages);
         if ($translationLanguage) {
-            $translation = file_get_contents('raw/' . $subdivisionPath . '--' . $translationLanguage . '.json');
+            $translation = file_get_contents(__DIR__ . '/assets/google/' . $subdivisionPath . '--' . $translationLanguage . '.json');
             $translation = json_decode($translation, true);
             $subdivisions[$group]['locale'] = LocaleHelper::canonicalize($translationLanguage);
             $definition['lname'] = $definition['name'];
@@ -269,9 +223,9 @@ function generate_subdivision_depths($countries)
     $depths = [];
     foreach ($countries as $countryCode) {
         $patterns = [
-            'subdivision/' . $countryCode . '.json',
-            'subdivision/' . $countryCode . '-*.json',
-            'subdivision/' . $countryCode . '--*.json',
+            __DIR__ . '/subdivision/' . $countryCode . '.json',
+            __DIR__ . '/subdivision/' . $countryCode . '-*.json',
+            __DIR__ . '/subdivision/' . $countryCode . '--*.json',
         ];
         foreach ($patterns as $pattern) {
             if (glob($pattern)) {
