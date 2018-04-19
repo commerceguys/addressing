@@ -15,7 +15,7 @@ use CommerceGuys\Addressing\AddressFormat\AdministrativeAreaType;
 use CommerceGuys\Addressing\AddressFormat\DependentLocalityType;
 use CommerceGuys\Addressing\AddressFormat\PostalCodeType;
 use CommerceGuys\Addressing\Country\CountryRepository;
-use CommerceGuys\Addressing\LocaleHelper;
+use CommerceGuys\Addressing\Locale;
 
 $countryRepository = new CountryRepository();
 $countries = $countryRepository->getList();
@@ -179,7 +179,7 @@ function generate_subdivisions($countryCode, array $parents, $subdivisionPaths, 
         if ($translationLanguage) {
             $translation = file_get_contents(__DIR__ . '/assets/google/' . $subdivisionPath . '--' . $translationLanguage . '.json');
             $translation = json_decode($translation, true);
-            $subdivisions[$group]['locale'] = LocaleHelper::canonicalize($translationLanguage);
+            $subdivisions[$group]['locale'] = Locale::canonicalize($translationLanguage);
             $definition['lname'] = $definition['name'];
             $definition['name'] = $translation['name'];
         }
@@ -410,7 +410,7 @@ function process_locale($locale) {
     if ($locale == 'zh') {
         $locale = 'zh-hans';
     }
-    return LocaleHelper::canonicalize($locale);
+    return Locale::canonicalize($locale);
 }
 
 /**

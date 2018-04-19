@@ -16,6 +16,11 @@ if (empty($ariaVersion) || strpos($ariaVersion[0], 'aria2 version') === false) {
 mkdir(__DIR__ . '/assets');
 mkdir(__DIR__ . '/assets/google');
 
+// Fetch country data (CLDR).
+echo "Fetching country data.\n";
+exec('git clone https://github.com/unicode-cldr/cldr-core.git ' . __DIR__ . '/assets/cldr-core');
+exec('git clone https://github.com/unicode-cldr/cldr-localenames-full.git ' . __DIR__ . '/assets/cldr-localenames-full');
+
 // Fetch address data (Google).
 echo "Generating the url list.\n";
 $urlList = generate_url_list();

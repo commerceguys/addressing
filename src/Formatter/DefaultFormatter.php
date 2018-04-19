@@ -7,7 +7,7 @@ use CommerceGuys\Addressing\AddressFormat\AddressField;
 use CommerceGuys\Addressing\AddressFormat\AddressFormat;
 use CommerceGuys\Addressing\AddressFormat\AddressFormatRepositoryInterface;
 use CommerceGuys\Addressing\Country\CountryRepositoryInterface;
-use CommerceGuys\Addressing\LocaleHelper;
+use CommerceGuys\Addressing\Locale;
 use CommerceGuys\Addressing\Subdivision\SubdivisionRepositoryInterface;
 
 /**
@@ -151,7 +151,7 @@ class DefaultFormatter implements FormatterInterface
         $addressFormat = $this->addressFormatRepository->get($countryCode);
         // Add the country to the bottom or the top of the format string,
         // depending on whether the format is minor-to-major or major-to-minor.
-        if (LocaleHelper::match($addressFormat->getLocale(), $address->getLocale())) {
+        if (Locale::matchCandidates($addressFormat->getLocale(), $address->getLocale())) {
             $formatString = '%country' . "\n" . $addressFormat->getLocalFormat();
         } else {
             $formatString = $addressFormat->getFormat() . "\n" . '%country';
@@ -315,7 +315,7 @@ class DefaultFormatter implements FormatterInterface
             // Remember the original value so that it can be used for $parents.
             $originalValues[$field] = $values[$field];
             // Replace the value with the expected code.
-            $useLocalName = LocaleHelper::match($address->getLocale(), $subdivision->getLocale());
+            $useLocalName = Locale::matchCandidates($address->getLocale(), $subdivision->getLocale());
             $values[$field] = $useLocalName ? $subdivision->getLocalCode() : $subdivision->getCode();
             if (!$subdivision->hasChildren()) {
                 // The current subdivision has no children, stop.

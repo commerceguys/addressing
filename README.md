@@ -3,29 +3,31 @@ addressing
 
 [![Build Status](https://travis-ci.org/commerceguys/addressing.svg?branch=master)](https://travis-ci.org/commerceguys/addressing)
 
-A PHP 5.5+ addressing library, powered by Google's dataset.
+A PHP 5.5+ addressing library, powered by CLDR and Google's dataset.
 
 Stores and manipulates postal addresses, meant to identify a precise recipient location for shipping or billing purposes.
 
 Features:
+- Countries, with translations for over 250 locales
 - Address formats for 200 countries
 - Subdivisions (administrative areas, localities, dependent localities) for 40 countries
-- Subdivision translations for all of the parent country's (i.e Canada, Switzerland) official languages.
+- Subdivision translations for all of the parent country's (i.e Canada, Switzerland) official languages
 - Validation via symfony/validator
 - Postal formatting
 - Zones
 
-The dataset is [stored locally](https://github.com/commerceguys/addressing/tree/master/resources) in JSON format, [generated](https://github.com/commerceguys/addressing/blob/master/scripts/generate.php) from Google's [Address Data Service](https://i18napis.appspot.com/address).
-
-The CLDR country list is used (via [symfony/intl](https://github.com/symfony/intl) or [commerceguys/intl](https://github.com/commerceguys/intl)), because it includes additional countries for addressing purposes, such as Canary Islands (IC).
+The dataset is [stored locally](https://github.com/commerceguys/addressing/tree/master/resources) in JSON format.
+Countries are generated from [CLDR](http://cldr.unicode.org) v33. Address formats and subdivisions are generated from Google's [Address Data Service](https://chromium-i18n.appspot.com/ssl-address).
 
 Further backstory can be found in [this blog post](https://drupalcommerce.org/blog/16864/commerce-2x-stories-addressing).
+
+Also check out [commerceguys/intl](https://github.com/commerceguys/intl) for CLDR-powered languages/currencies/number formatting.
 
 # Data model
 
 The [address interface](https://github.com/commerceguys/addressing/blob/master/src/AddressInterface.php) represents a postal adddress, with getters for the following fields:
 
-- Country
+- Country code
 - Administrative area
 - Locality (City)
 - Dependent Locality
@@ -44,7 +46,7 @@ The interface makes no assumptions about mutability.
 The implementing application can extend the interface to provide setters, or implement a value object that uses either [PSR-7 style with* mutators](https://github.com/commerceguys/addressing/blob/master/src/ImmutableAddressInterface) or relies on an AddressBuilder.
 A default [address value object](https://github.com/commerceguys/addressing/blob/master/src/Address.php) is provided that can be used as an example, or mapped by Doctrine (preferably as an embeddable).
 
-The [address format](https://github.com/commerceguys/addressing/blob/master/src/AddressFormat/AddressFormat.php) has getters for the following country-specific metadata:
+The [address format](https://github.com/commerceguys/addressing/blob/master/src/AddressFormat/AddressFormat.php) provides the following information:
 
 - Which fields are used, and in which order
 - Which fields are required
@@ -52,7 +54,14 @@ The [address format](https://github.com/commerceguys/addressing/blob/master/src/
 - The labels for the administrative area (state, province, parish, etc.), locality (city/post town/district, etc.), dependent locality (neighborhood, suburb, district, etc) and the postal code (postal code or ZIP code)
 - The regular expression pattern for validating postal codes
 
-The [subdivision](https://github.com/commerceguys/addressing/blob/master/src/Subdivision/Subdivision.php) has getters for the following data:
+The [country](https://github.com/commerceguys/addressing/blob/master/src/Country/Country.php) provides the following information:
+
+- The country name.
+- The numeric and three-letter country codes.
+- The official currency code, when known.
+- The timezones which the country spans.
+
+The [subdivision](https://github.com/commerceguys/addressing/blob/master/src/Subdivision/Subdivision.php) provides the following information:
 
 - The subdivision code (used to represent the subdivison on a parcel/envelope, e.g. CA for California)
 - The subdivison name (shown to the user in a dropdown)
@@ -64,10 +73,25 @@ Administrative Area -> Locality -> Dependent Locality.
 
 ```php
 use CommerceGuys\Addressing\AddressFormat\AddressFormatRepository;
+use CommerceGuys\Addressing\Country\CountryRepository;
 use CommerceGuys\Addressing\Subdivision\SubdivisionRepository;
 
+$countryRepository = new CountryRepository();
 $addressFormatRepository = new AddressFormatRepository();
 $subdivisionRepository = new SubdivisionRepository();
+
+// Get the country list (countryCode => name), in French.
+$countryList = $countryRepository->getList('fr-FR');
+
+// Get the country object for Brazil.
+$brazil = $countryRepository->get('BR');
+echo $brazil->getThreeLetterCode(); // BRA
+echo $brazil->getName(); // Brazil
+echo $brazil->getCurrencyCode(); // BRL
+print_r($brazil->getTimezones());
+
+// Get all country objects.
+$countries = $countryRepository->getAll();
 
 // Get the address format for Brazil.
 $addressFormat = $addressFormatRepository->get('BR');
