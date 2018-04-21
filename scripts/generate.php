@@ -57,6 +57,11 @@ foreach ($foundCountries as $countryCode) {
         // Fix for Macao, which has latin and non-latin formats, but no lang.
         $definition['lang'] = 'zh';
     }
+    if ($countryCode == 'CO') {
+        // Fix for Colombia, wich don't have sub_keys definitions.
+        // This may throw a php warning since the file CO_VID.json will not exist
+        $definition['sub_keys'] = 'VID';
+    }
     $addressFormat = create_address_format_definition($countryCode, $definition);
 
     // Get the French subdivision names for Canada.
