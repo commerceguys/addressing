@@ -56,20 +56,6 @@ function get_address_format_customizations($countryCode) {
  * Returns the subdivision customizations for the provided group.
  */
 function get_subdivision_customizations($group) {
-    // 'Islas Baleares' -> 'Balears'.
-    // https://github.com/googlei18n/libaddressinput/issues/48
-    $subdivisionCustomizations['ES'] = [
-        '_remove' => ['Islas Baleares'],
-        '_add' => [
-            // Add 'Balears' before 'Barcelona'.
-            'Balears' => 'Barcelona',
-        ],
-        'Balears' => [
-            'name' => 'Balears',
-            'iso_code' => 'ES-PM',
-            'postal_code_pattern' => '07',
-        ],
-    ];
     // 'Estado de México' => 'México'.
     // https://github.com/googlei18n/libaddressinput/issues/49
     $subdivisionCustomizations['MX'] = [

@@ -87,6 +87,9 @@ echo "Writing the final definitions to disk.\n";
 foreach ($groupedSubdivisions as $parentId => $subdivisions) {
     file_put_json(__DIR__ . '/subdivision/' . $parentId . '.json', $subdivisions);
 }
+// Replace subdivision/ES.json with the old resources/subdivision/ES.json, to
+// get around a dataset regression (https://github.com/googlei18n/libaddressinput/issues/160).
+copy(__DIR__ . '/../resources/subdivision/ES.json', __DIR__ . '/subdivision/ES.json');
 // Generate the subdivision depths for each country.
 $depths = generate_subdivision_depths($foundCountries);
 foreach ($depths as $countryCode => $depth) {
