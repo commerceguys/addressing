@@ -114,14 +114,14 @@ function file_put_json($filename, $data)
  */
 function file_put_php($filename, $data)
 {
-    $data = var_export($data, true);
+    $data = var_export($data, true) . ';';
     // The var_export output is terrible, so try to get it as close as possible
     // to the final result.
     $array_keys = [
         '0 => ', '1 => ', '2 => ', '3 => ', '4 => ', '5 => ',
         '6 => ', '7 => ', '8 => ', '9 => ', '10 => ', '11 => ',
     ];
-    $data = str_replace(['array (', "),\n", "=> \n  "], ['[', "],\n", '=> '], $data);
+    $data = str_replace(['array (', "),\n", ');', "=> \n  "], ['[', "],\n", '];', '=> '], $data);
     $data = str_replace('=>   [', '=> [', $data);
     $data = str_replace($array_keys, '', $data);
     // Put fields into one row.
@@ -138,7 +138,7 @@ function file_put_php($filename, $data)
     $data = str_replace('  ', '    ', $data);
     // Unescape backslashes.
     $data = str_replace('\\\\', '\\', $data);
-    $data = '<?php' . "\n\n" . '$data = ' . $data . ';';
+    $data = '<?php' . "\n\n" . '$data = ' . $data;
     file_put_contents($filename, $data);
 }
 
