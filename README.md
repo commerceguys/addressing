@@ -9,8 +9,8 @@ Stores and manipulates postal addresses, meant to identify a precise recipient l
 
 Features:
 - Countries, with translations for over 250 locales
-- Address formats for 200 countries
-- Subdivisions (administrative areas, localities, dependent localities) for 40 countries
+- Address formats for over 200 countries
+- Subdivisions (administrative areas, localities, dependent localities) for 44 countries
 - Subdivision translations for all of the parent country's (i.e Canada, Switzerland) official languages
 - Validation via symfony/validator
 - Postal formatting

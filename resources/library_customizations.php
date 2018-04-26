@@ -8,7 +8,6 @@
  *
  * @todo
  * PE subdivisions (https://github.com/googlei18n/libaddressinput/issues/50)
- * MZ https://github.com/googlei18n/libaddressinput/issues/58
  * Other points raised in https://github.com/googlei18n/libaddressinput/issues/49
  */
 
