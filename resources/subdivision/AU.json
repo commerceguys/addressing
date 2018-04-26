@@ -3,34 +3,42 @@
 	"subdivisions": {
 		"ACT": {
 			"name": "Australian Capital Territory",
+			"iso_code": "AU-ACT",
 			"postal_code_pattern": "29|2540|260|261[0-8]|02|2620"
 		},
 		"NSW": {
 			"name": "New South Wales",
+			"iso_code": "AU-NSW",
 			"postal_code_pattern": "1|2[0-57-8]|26[2-9]|261[189]|3500|358[56]|3644|3707"
 		},
 		"NT": {
 			"name": "Northern Territory",
+			"iso_code": "AU-NT",
 			"postal_code_pattern": "0[89]"
 		},
 		"QLD": {
 			"name": "Queensland",
+			"iso_code": "AU-QLD",
 			"postal_code_pattern": "[49]"
 		},
 		"SA": {
 			"name": "South Australia",
+			"iso_code": "AU-SA",
 			"postal_code_pattern": "5|0872"
 		},
 		"TAS": {
 			"name": "Tasmania",
+			"iso_code": "AU-TAS",
 			"postal_code_pattern": "7"
 		},
 		"VIC": {
 			"name": "Victoria",
+			"iso_code": "AU-VIC",
 			"postal_code_pattern": "[38]"
 		},
 		"WA": {
 			"name": "Western Australia",
+			"iso_code": "AU-WA",
 			"postal_code_pattern": "6|0872"
 		}
 	}

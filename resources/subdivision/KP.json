@@ -1,0 +1,50 @@
+{
+	"country_code": "KP",
+	"locale": "ko",
+	"subdivisions": {
+		"Kangwon": {
+			"local_code": "강원도",
+			"iso_code": "KP-07"
+		},
+		"Rason": {
+			"local_code": "라선 특별시",
+			"iso_code": "KP-13"
+		},
+		"Ryanggang": {
+			"local_code": "량강도",
+			"iso_code": "KP-10"
+		},
+		"Chagang": {
+			"local_code": "자강도",
+			"iso_code": "KP-04"
+		},
+		"South Pyongan": {
+			"local_code": "평안 남도",
+			"iso_code": "KP-02"
+		},
+		"North Pyongan": {
+			"local_code": "평안 북도",
+			"iso_code": "KP-03"
+		},
+		"Pyongyang": {
+			"local_code": "평양 직할시",
+			"iso_code": "KP-01"
+		},
+		"South Hamgyong": {
+			"local_code": "함경 남도",
+			"iso_code": "KP-08"
+		},
+		"North Hamgyong": {
+			"local_code": "함경 북도",
+			"iso_code": "KP-09"
+		},
+		"South Hwanghae": {
+			"local_code": "황해남도",
+			"iso_code": "KP-05"
+		},
+		"North Hwanghae": {
+			"local_code": "황해북도",
+			"iso_code": "KP-06"
+		}
+	}
+}

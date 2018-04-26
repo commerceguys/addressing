@@ -1,0 +1,38 @@
+{
+	"country_code": "MZ",
+	"subdivisions": {
+		"Cabo Delgado": {
+			"iso_code": "MZ-P"
+		},
+		"Cidade de Maputo": {
+			"iso_code": "MZ-MPM"
+		},
+		"Gaza": {
+			"iso_code": "MZ-G"
+		},
+		"Inhambane": {
+			"iso_code": "MZ-I"
+		},
+		"Manica": {
+			"iso_code": "MZ-B"
+		},
+		"Maputo": {
+			"iso_code": "MZ-L"
+		},
+		"Nampula": {
+			"iso_code": "MZ-N"
+		},
+		"Niassa": {
+			"iso_code": "MZ-A"
+		},
+		"Sofala": {
+			"iso_code": "MZ-S"
+		},
+		"Tete": {
+			"iso_code": "MZ-T"
+		},
+		"Zambezia": {
+			"iso_code": "MZ-Q"
+		}
+	}
+}

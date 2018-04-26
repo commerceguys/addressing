@@ -338,6 +338,10 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 ],
                 'postal_code_pattern' => '\d{4,5}|\d{3}-\d{4}',
             ],
+            'CU' => [
+                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%administrativeArea%locality\n%postalCode",
+                'postal_code_pattern' => '\d{5}',
+            ],
             'CV' => [
                 'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%postalCode %locality\n%administrativeArea",
                 'administrative_area_type' => 'island',
@@ -712,10 +716,10 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
             ],
             'JP' => [
                 'locale' => 'ja',
-                'format' => "%familyName %givenName\n%organization\n%addressLine1\n%addressLine2\n%locality, %administrativeArea\n%postalCode",
-                'local_format' => "〒%postalCode\n%administrativeArea%locality\n%addressLine2\n%addressLine1\n%organization\n%familyName %givenName",
+                'format' => "%familyName %givenName\n%organization\n%addressLine1\n%addressLine2, %administrativeArea\n%postalCode",
+                'local_format' => "〒%postalCode\n%administrativeArea\n%addressLine2\n%addressLine1\n%organization\n%familyName %givenName",
                 'required_fields' => [
-                    'addressLine1', 'locality', 'administrativeArea', 'postalCode',
+                    'addressLine1', 'administrativeArea', 'postalCode',
                 ],
                 'uppercase_fields' => [
                     'administrativeArea',
@@ -754,6 +758,12 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                     'addressLine1', 'locality', 'administrativeArea',
                 ],
                 'administrative_area_type' => 'island',
+                'subdivision_depth' => 1,
+            ],
+            'KP' => [
+                'locale' => 'ko',
+                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%locality\n%administrativeArea, %postalCode",
+                'local_format' => "%postalCode\n%administrativeArea\n%locality\n%addressLine2\n%addressLine1\n%organization\n%givenName %familyName",
                 'subdivision_depth' => 1,
             ],
             'KR' => [
@@ -979,8 +989,9 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'subdivision_depth' => 1,
             ],
             'MZ' => [
-                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%postalCode %locality",
+                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%postalCode %locality%administrativeArea",
                 'postal_code_pattern' => '\d{4}',
+                'subdivision_depth' => 1,
             ],
             'NC' => [
                 'format' => "%organization\n%givenName %familyName\n%addressLine1\n%addressLine2\n%postalCode %locality %sortingCode",
@@ -1211,6 +1222,11 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                     'administrativeArea',
                 ],
                 'administrative_area_type' => 'island',
+            ],
+            'SD' => [
+                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%locality\n%postalCode",
+                'locality_type' => 'district',
+                'postal_code_pattern' => '\d{5}',
             ],
             'SE' => [
                 'format' => "%organization\n%givenName %familyName\n%addressLine1\n%addressLine2\n%postalCode %locality",
@@ -1463,7 +1479,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
             ],
             'VN' => [
                 'format' => "%familyName %givenName\n%organization\n%addressLine1\n%addressLine2\n%locality\n%administrativeArea %postalCode",
-                'postal_code_pattern' => '\d{6}',
+                'postal_code_pattern' => '\d{5}\d?',
                 'subdivision_depth' => 1,
             ],
             'WF' => [

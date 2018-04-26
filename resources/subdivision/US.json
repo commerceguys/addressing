@@ -3,10 +3,12 @@
 	"subdivisions": {
 		"AL": {
 			"name": "Alabama",
+			"iso_code": "US-AL",
 			"postal_code_pattern": "3[56]"
 		},
 		"AK": {
 			"name": "Alaska",
+			"iso_code": "US-AK",
 			"postal_code_pattern": "99[5-9]"
 		},
 		"AS": {
@@ -15,10 +17,12 @@
 		},
 		"AZ": {
 			"name": "Arizona",
+			"iso_code": "US-AZ",
 			"postal_code_pattern": "8[56]"
 		},
 		"AR": {
 			"name": "Arkansas",
+			"iso_code": "US-AR",
 			"postal_code_pattern": "71[6-9]|72"
 		},
 		"AA": {
@@ -35,30 +39,37 @@
 		},
 		"CA": {
 			"name": "California",
+			"iso_code": "US-CA",
 			"postal_code_pattern": "9[0-5]|96[01]"
 		},
 		"CO": {
 			"name": "Colorado",
+			"iso_code": "US-CO",
 			"postal_code_pattern": "8[01]"
 		},
 		"CT": {
 			"name": "Connecticut",
+			"iso_code": "US-CT",
 			"postal_code_pattern": "06"
 		},
 		"DE": {
 			"name": "Delaware",
+			"iso_code": "US-DE",
 			"postal_code_pattern": "19[7-9]"
 		},
 		"DC": {
 			"name": "District of Columbia",
+			"iso_code": "US-DC",
 			"postal_code_pattern": "20[02-5]|569"
 		},
 		"FL": {
 			"name": "Florida",
+			"iso_code": "US-FL",
 			"postal_code_pattern": "3[23]|34[1-9]"
 		},
 		"GA": {
 			"name": "Georgia",
+			"iso_code": "US-GA",
 			"postal_code_pattern": "3[01]|398|39901"
 		},
 		"GU": {
@@ -67,38 +78,47 @@
 		},
 		"HI": {
 			"name": "Hawaii",
+			"iso_code": "US-HI",
 			"postal_code_pattern": "967[0-8]|9679[0-8]|968"
 		},
 		"ID": {
 			"name": "Idaho",
+			"iso_code": "US-ID",
 			"postal_code_pattern": "83[2-9]"
 		},
 		"IL": {
 			"name": "Illinois",
+			"iso_code": "US-IL",
 			"postal_code_pattern": "6[0-2]"
 		},
 		"IN": {
 			"name": "Indiana",
+			"iso_code": "US-IN",
 			"postal_code_pattern": "4[67]"
 		},
 		"IA": {
 			"name": "Iowa",
+			"iso_code": "US-IA",
 			"postal_code_pattern": "5[0-2]"
 		},
 		"KS": {
 			"name": "Kansas",
+			"iso_code": "US-KS",
 			"postal_code_pattern": "6[67]"
 		},
 		"KY": {
 			"name": "Kentucky",
+			"iso_code": "US-KY",
 			"postal_code_pattern": "4[01]|42[0-7]"
 		},
 		"LA": {
 			"name": "Louisiana",
+			"iso_code": "US-LA",
 			"postal_code_pattern": "70|71[0-5]"
 		},
 		"ME": {
 			"name": "Maine",
+			"iso_code": "US-ME",
 			"postal_code_pattern": "039|04"
 		},
 		"MH": {
@@ -107,14 +127,17 @@
 		},
 		"MD": {
 			"name": "Maryland",
+			"iso_code": "US-MD",
 			"postal_code_pattern": "20[6-9]|21"
 		},
 		"MA": {
 			"name": "Massachusetts",
+			"iso_code": "US-MA",
 			"postal_code_pattern": "01|02[0-7]|05501|05544"
 		},
 		"MI": {
 			"name": "Michigan",
+			"iso_code": "US-MI",
 			"postal_code_pattern": "4[89]"
 		},
 		"FM": {
@@ -123,50 +146,62 @@
 		},
 		"MN": {
 			"name": "Minnesota",
+			"iso_code": "US-MN",
 			"postal_code_pattern": "55|56[0-7]"
 		},
 		"MS": {
 			"name": "Mississippi",
+			"iso_code": "US-MS",
 			"postal_code_pattern": "38[6-9]|39[0-7]"
 		},
 		"MO": {
 			"name": "Missouri",
+			"iso_code": "US-MO",
 			"postal_code_pattern": "6[3-5]"
 		},
 		"MT": {
 			"name": "Montana",
+			"iso_code": "US-MT",
 			"postal_code_pattern": "59"
 		},
 		"NE": {
 			"name": "Nebraska",
+			"iso_code": "US-NE",
 			"postal_code_pattern": "6[89]"
 		},
 		"NV": {
 			"name": "Nevada",
+			"iso_code": "US-NV",
 			"postal_code_pattern": "889|89"
 		},
 		"NH": {
 			"name": "New Hampshire",
+			"iso_code": "US-NH",
 			"postal_code_pattern": "03[0-8]"
 		},
 		"NJ": {
 			"name": "New Jersey",
+			"iso_code": "US-NJ",
 			"postal_code_pattern": "0[78]"
 		},
 		"NM": {
 			"name": "New Mexico",
+			"iso_code": "US-NM",
 			"postal_code_pattern": "87|88[0-4]"
 		},
 		"NY": {
 			"name": "New York",
+			"iso_code": "US-NY",
 			"postal_code_pattern": "1[0-4]|06390|00501|00544"
 		},
 		"NC": {
 			"name": "North Carolina",
+			"iso_code": "US-NC",
 			"postal_code_pattern": "2[78]"
 		},
 		"ND": {
 			"name": "North Dakota",
+			"iso_code": "US-ND",
 			"postal_code_pattern": "58"
 		},
 		"MP": {
@@ -175,14 +210,17 @@
 		},
 		"OH": {
 			"name": "Ohio",
+			"iso_code": "US-OH",
 			"postal_code_pattern": "4[3-5]"
 		},
 		"OK": {
 			"name": "Oklahoma",
+			"iso_code": "US-OK",
 			"postal_code_pattern": "7[34]"
 		},
 		"OR": {
 			"name": "Oregon",
+			"iso_code": "US-OR",
 			"postal_code_pattern": "97"
 		},
 		"PW": {
@@ -191,6 +229,7 @@
 		},
 		"PA": {
 			"name": "Pennsylvania",
+			"iso_code": "US-PA",
 			"postal_code_pattern": "1[5-8]|19[0-6]"
 		},
 		"PR": {
@@ -199,30 +238,37 @@
 		},
 		"RI": {
 			"name": "Rhode Island",
+			"iso_code": "US-RI",
 			"postal_code_pattern": "02[89]"
 		},
 		"SC": {
 			"name": "South Carolina",
+			"iso_code": "US-SC",
 			"postal_code_pattern": "29"
 		},
 		"SD": {
 			"name": "South Dakota",
+			"iso_code": "US-SD",
 			"postal_code_pattern": "57"
 		},
 		"TN": {
 			"name": "Tennessee",
+			"iso_code": "US-TN",
 			"postal_code_pattern": "37|38[0-5]"
 		},
 		"TX": {
 			"name": "Texas",
+			"iso_code": "US-TX",
 			"postal_code_pattern": "7[5-9]|885|73301|73344"
 		},
 		"UT": {
 			"name": "Utah",
+			"iso_code": "US-UT",
 			"postal_code_pattern": "84"
 		},
 		"VT": {
 			"name": "Vermont",
+			"iso_code": "US-VT",
 			"postal_code_pattern": "05"
 		},
 		"VI": {
@@ -231,22 +277,27 @@
 		},
 		"VA": {
 			"name": "Virginia",
+			"iso_code": "US-VA",
 			"postal_code_pattern": "201|2[23]|24[0-6]"
 		},
 		"WA": {
 			"name": "Washington",
+			"iso_code": "US-WA",
 			"postal_code_pattern": "98|99[0-4]"
 		},
 		"WV": {
 			"name": "West Virginia",
+			"iso_code": "US-WV",
 			"postal_code_pattern": "24[7-9]|2[56]"
 		},
 		"WI": {
 			"name": "Wisconsin",
+			"iso_code": "US-WI",
 			"postal_code_pattern": "5[34]"
 		},
 		"WY": {
 			"name": "Wyoming",
+			"iso_code": "US-WY",
 			"postal_code_pattern": "82|83[01]|83414"
 		}
 	}
