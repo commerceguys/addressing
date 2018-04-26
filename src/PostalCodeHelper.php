@@ -64,16 +64,17 @@ class PostalCodeHelper
      */
     protected static function buildList($postalCodes)
     {
-        $postalCodeList = explode(',', $postalCodes);
-        foreach ($postalCodeList as $index => &$postalCodeItem) {
-            $postalCodeItem = trim($postalCodeItem);
-            if (strpos($postalCodeItem, ':') !== false) {
-                $postalCodeRange = explode(':', $postalCodeItem);
+        $postalCodeList = [];
+        foreach (explode(',', $postalCodes) as $postalCode) {
+            $postalCode = trim($postalCode);
+            if (strpos($postalCode, ':') !== false) {
+                $postalCodeRange = explode(':', $postalCode);
                 if (is_numeric($postalCodeRange[0]) && is_numeric($postalCodeRange[1])) {
                     $postalCodeRange = range($postalCodeRange[0], $postalCodeRange[1]);
                     $postalCodeList = array_merge($postalCodeList, $postalCodeRange);
                 }
-                unset($postalCodeList[$index]);
+            } else {
+                $postalCodeList[] = $postalCode;
             }
         }
 

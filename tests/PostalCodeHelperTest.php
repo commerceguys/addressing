@@ -28,5 +28,8 @@ class PostalCodeHelperTest extends \PHPUnit_Framework_TestCase
         $excludeRule = '35';
         $this->assertEquals(true, PostalCodeHelper::match('34', $includeRule, $excludeRule));
         $this->assertEquals(false, PostalCodeHelper::match('35', $includeRule, $excludeRule));
+
+        $this->assertEquals(true, PostalCodeHelper::match('5', '5:7, 10:20', ''));
+        $this->assertEquals(true, PostalCodeHelper::match('7', '5:7, 10:20', ''));
     }
 }
