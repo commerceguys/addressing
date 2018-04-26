@@ -716,10 +716,10 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
             ],
             'JP' => [
                 'locale' => 'ja',
-                'format' => "%familyName %givenName\n%organization\n%addressLine1\n%addressLine2, %administrativeArea\n%postalCode",
-                'local_format' => "〒%postalCode\n%administrativeArea\n%addressLine2\n%addressLine1\n%organization\n%familyName %givenName",
+                'format' => "%familyName %givenName\n%organization\n%addressLine1\n%addressLine2\n%locality, %administrativeArea\n%postalCode",
+                'local_format' => "〒%postalCode\n%administrativeArea%locality\n%addressLine2\n%addressLine1\n%organization\n%familyName %givenName",
                 'required_fields' => [
-                    'addressLine1', 'administrativeArea', 'postalCode',
+                    'addressLine1', 'locality', 'administrativeArea', 'postalCode',
                 ],
                 'uppercase_fields' => [
                     'administrativeArea',
