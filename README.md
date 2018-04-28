@@ -3,17 +3,17 @@ addressing
 
 [![Build Status](https://travis-ci.org/commerceguys/addressing.svg?branch=master)](https://travis-ci.org/commerceguys/addressing)
 
-A PHP 5.5+ addressing library, powered by CLDR and Google's dataset.
+A PHP 5.5+ addressing library, powered by CLDR and Google's address data.
 
-Stores and manipulates postal addresses, meant to identify a precise recipient location for shipping or billing purposes.
+Manipulates postal addresses, meant to identify a precise recipient location for shipping or billing purposes.
 
 Features:
 - Countries, with translations for over 250 locales
 - Address formats for over 200 countries
 - Subdivisions (administrative areas, localities, dependent localities) for 44 countries
-- Subdivision translations for all of the parent country's (i.e Canada, Switzerland) official languages
+- Both latin and local subdivision names, when relevant (e.g: Okinawa / 沖縄県)
+- Formatting, in HTML or plain text.
 - Validation via symfony/validator
-- Postal formatting
 - Zones
 
 The dataset is [stored locally](https://github.com/commerceguys/addressing/tree/master/resources) in JSON format.
@@ -151,7 +151,7 @@ echo $formatter->format($address);
 
 ## PostalLabelFormatter
 
-Takes care of uppercasing fields where required by the format (to faciliate automated mail sorting).
+Takes care of uppercasing fields where required by the format (to facilitate automated mail sorting).
 
 Requires specifying the origin country code, allowing it to differentiate between domestic and international mail.
 In case of domestic mail, the country name is not displayed at all.
@@ -159,7 +159,7 @@ In case of international mail:
 
 1. The postal code is prefixed with the destination's postal code prefix.
 2. The country name is added to the formatted address, in both the current locale and English.
-This matches the recommandation given by the Universal Postal Union, to avoid difficulties in countries of transit.
+This matches the recommendation given by the Universal Postal Union, to avoid difficulties in countries of transit.
 
 ```php
 use CommerceGuys\Addressing\Address;

@@ -1,7 +1,7 @@
 {
     "name": "commerceguys/addressing",
     "type": "library",
-    "description": "Addressing library powered by Google's address data.",
+    "description": "Addressing library powered by CLDR and Google's address data.",
     "keywords": ["postal", "address", "internationalization", "localization"],
     "license": "MIT",
     "require": {
