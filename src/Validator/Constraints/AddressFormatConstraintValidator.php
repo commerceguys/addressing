@@ -167,7 +167,7 @@ class AddressFormatConstraintValidator extends ConstraintValidator
         if ($fullPattern) {
             // The pattern must match the provided value completely.
             preg_match('/' . $fullPattern . '/i', $postalCode, $matches);
-            if (!isset($matches[0]) || $matches[0] != $postalCode) {
+            if (!isset($matches[0]) || $matches[0] !== $postalCode) {
                 $this->addViolation(AddressField::POSTAL_CODE, $constraint->invalidMessage, $postalCode, $addressFormat);
 
                 return;
