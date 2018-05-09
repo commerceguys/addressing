@@ -437,12 +437,7 @@ function convert_format($countryCode, $format)
         $format = str_replace('%N', '%N1 %N3', $format);
     }
     // Expand the address token into separate tokens for address lines 1 and 2.
-    // Follow the direction of the fields.
-    if (strpos($format, '%N') < strpos($format, '%A')) {
-        $format = str_replace('%A', '%1%n%2', $format);
-    } else {
-        $format = str_replace('%A', '%2%n%1', $format);
-    }
+    $format = str_replace('%A', '%1%n%2', $format);
 
     $replacements = [
         '%S' => '%' . AddressField::ADMINISTRATIVE_AREA,

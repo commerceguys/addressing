@@ -138,8 +138,8 @@ class PostalLabelFormatterTest extends \PHPUnit_Framework_TestCase
             'JAPON - JAPAN',
             '〒04',
             '北海道Some City',
-            'Address Line 2',
             'Address Line 1',
+            'Address Line 2',
         ];
         $this->formatter->setOriginCountryCode('FR');
         $this->formatter->setLocale('fr');
