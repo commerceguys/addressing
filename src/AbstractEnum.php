@@ -39,7 +39,7 @@ abstract class AbstractEnum
      *
      * @param string $value The value.
      *
-     * @return bool The key if found, false otherwise.
+     * @return string|false The key if found, false otherwise.
      */
     public static function getKey($value)
     {
@@ -74,7 +74,7 @@ abstract class AbstractEnum
     }
 
     /**
-     * Asserts that all provided valus are defined.
+     * Asserts that all provided values are defined.
      *
      * @param array $values The values.
      */
