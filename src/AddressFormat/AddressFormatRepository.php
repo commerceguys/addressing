@@ -326,10 +326,11 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
             'CO' => [
                 'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%locality, %administrativeArea, %postalCode",
                 'required_fields' => [
-                    'addressLine1', 'administrativeArea',
+                    'addressLine1', 'locality', 'administrativeArea',
                 ],
                 'administrative_area_type' => 'department',
                 'postal_code_pattern' => '\d{6}',
+                'subdivision_depth' => 1,
             ],
             'CR' => [
                 'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%administrativeArea, %locality\n%postalCode",

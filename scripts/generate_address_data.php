@@ -69,15 +69,14 @@ foreach ($foundCountries as $countryCode) {
         array_shift($languages);
     }
 
+    $subdivisionPaths = [];
     if (isset($definition['sub_keys'])) {
-        $subdivisionPaths = [];
         $subdivisionKeys = explode('~', $definition['sub_keys']);
         foreach ($subdivisionKeys as $subdivisionKey) {
             $subdivisionPaths[] = $countryCode . '_' . $subdivisionKey;
         }
-
-        $groupedSubdivisions += generate_subdivisions($countryCode, [$countryCode], $subdivisionPaths, $languages);
     }
+    $groupedSubdivisions += generate_subdivisions($countryCode, [$countryCode], $subdivisionPaths, $languages);
 
     $addressFormats[$countryCode] = $addressFormat;
 }
@@ -152,6 +151,14 @@ function generate_subdivisions($countryCode, array $parents, $subdivisionPaths, 
 {
     $group = build_group($parents);
     $subdivisions = [];
+    $subdivisions[$group] = [
+        'country_code' => $countryCode,
+    ];
+    if (count($parents) > 1) {
+        // A single parent is the same as the country code, hence unnecessary.
+        $subdivisions[$group]['parents'] = $parents;
+    }
+
     foreach ($subdivisionPaths as $subdivisionPath) {
         $definition = file_get_contents(__DIR__ . '/assets/google/' . $subdivisionPath . '.json');
         $definition = json_decode($definition, true);
@@ -160,20 +167,9 @@ function generate_subdivisions($countryCode, array $parents, $subdivisionPaths, 
         if (isset($definition['lname'])) {
             $code = $definition['lname'];
         }
-        if (!isset($subdivisions[$group])) {
-            $subdivisions[$group] = [
-                'country_code' => $countryCode,
-                'parents' => $parents,
-                'locale' => '',
-            ];
-            if (isset($definition['lang']) && isset($definition['lname'])) {
-                // Only add the locale if there's a local name.
-                $subdivisions[$group]['locale'] = process_locale($definition['lang']);
-            }
-            if (count($subdivisions[$group]['parents']) < 2) {
-              // A single parent is the same as the country code.
-              unset($subdivisions[$group]['parents']);
-            }
+        if (empty($subdivisions[$group]['locale']) && isset($definition['lang'], $definition['lname'])) {
+            // Only add the locale if there's a local name.
+            $subdivisions[$group]['locale'] = process_locale($definition['lang']);
         }
         // (Ab)use the local_name field to hold latin translations. This allows
         // us to support only a single translation, but since our only example
@@ -206,16 +202,11 @@ function generate_subdivisions($countryCode, array $parents, $subdivisionPaths, 
             $subdivisions += generate_subdivisions($countryCode, $childParents, $subdivisionChildrenPaths, $languages);
         }
     }
-
     // Apply any found customizations.
     $customizations = get_subdivision_customizations($group);
     $subdivisions[$group] = apply_subdivision_customizations($subdivisions[$group], $customizations);
-    // All subdivisions have been removed. Remove the rest of the data.
-    if (empty($subdivisions[$group]['subdivisions'])) {
-        unset($subdivisions[$group]);
-    }
 
-    return $subdivisions;
+    return !empty($subdivisions[$group]['subdivisions']) ? $subdivisions : [];
 }
 
 /**
@@ -374,7 +365,8 @@ function create_subdivision_definition($countryCode, $code, $rawDefinition)
 /**
  * Applies subdivision customizations.
  */
-function apply_subdivision_customizations($subdivisions, $customizations) {
+function apply_subdivision_customizations($subdivisions, $customizations)
+{
     if (empty($customizations)) {
         return $subdivisions;
     }
@@ -383,6 +375,7 @@ function apply_subdivision_customizations($subdivisions, $customizations) {
         '_remove' => [],
         '_replace' => [],
         '_add' => [],
+        '_add_after' => [],
     ];
 
     foreach ($customizations['_remove'] as $removeId) {
@@ -391,7 +384,10 @@ function apply_subdivision_customizations($subdivisions, $customizations) {
     foreach ($customizations['_replace'] as $replaceId) {
         $subdivisions['subdivisions'][$replaceId] = $customizations[$replaceId];
     }
-    foreach ($customizations['_add'] as $addId => $nextId) {
+    foreach ($customizations['_add'] as $addId) {
+        $subdivisions['subdivisions'][$addId] = $customizations[$addId];
+    }
+    foreach ($customizations['_add_after'] as $addId => $nextId) {
         $position = array_search($nextId, array_keys($subdivisions['subdivisions']));
         $new = [
             $addId => $customizations[$addId],
