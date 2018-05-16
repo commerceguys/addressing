@@ -431,12 +431,11 @@ class AddressFormatConstraintValidatorTest extends ConstraintValidatorTestCase
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatConstraintValidator
      */
-    public function testConstraintFields()
+    public function testHiddenRequiredFields()
     {
-        $allFields = AddressField::getAll();
-
+        // Confirm that it is possible to omit required name fields.
         $nameFields = [AddressField::GIVEN_NAME, AddressField::FAMILY_NAME];
-        $this->constraint->fields = array_diff($allFields, $nameFields);
+        $this->constraint->fields = array_diff(AddressField::getAll(), $nameFields);
         $address = new Address();
         $address = $address
             ->withCountryCode('CN')
@@ -446,26 +445,51 @@ class AddressFormatConstraintValidatorTest extends ConstraintValidatorTestCase
             ->withAddressLine1('Yitiao Lu');
         $this->validator->validate($address, $this->constraint);
         $this->assertNoViolation();
+    }
 
-        $this->constraint->fields = array_diff($allFields, [AddressField::POSTAL_CODE]);
+    /**
+     * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatConstraintValidator
+     */
+    public function testHiddenPostalCodeField()
+    {
+        // Confirm that postal code validation is skipped.
+        $this->constraint->fields = array_diff(AddressField::getAll(), [AddressField::POSTAL_CODE]);
+        $address = new Address();
         $address = $address
-            ->withPostalCode('INVALID')
-            ->withGivenName('John')
-            ->withFamilyName('Smith');
-        $this->validator->validate($address, $this->constraint);
-        $this->assertNoViolation();
-
-        $this->constraint->fields = array_diff($allFields, [AddressField::ADMINISTRATIVE_AREA]);
-        $address = $address
-            ->withAdministrativeArea('INVALID')
-            ->withPostalCode('123456');
-        $this->validator->validate($address, $this->constraint);
-        $this->assertNoViolation();
-
-        $address = $address
+            ->withCountryCode('CN')
             ->withAdministrativeArea('Beijing Shi')
-            ->withLocality('INVALID');
+            ->withLocality('Xicheng Qu')
+            ->withAddressLine1('Yitiao Lu')
+            ->withGivenName('John')
+            ->withFamilyName('Smith')
+            ->withPostalCode('INVALID');
         $this->validator->validate($address, $this->constraint);
-        $this->assertNoViolation();
+        $this->buildViolation($this->constraint->blankMessage)
+            ->atPath('[postalCode]')
+            ->setInvalidValue('INVALID')
+            ->assertRaised();
+    }
+
+    /**
+     * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatConstraintValidator
+     */
+    public function testHiddenSubdivisionField()
+    {
+        // Confirm that subdivision validation is skipped.
+        $this->constraint->fields = array_diff(AddressField::getAll(), [AddressField::ADMINISTRATIVE_AREA]);
+        $address = new Address();
+        $address = $address
+            ->withCountryCode('CN')
+            ->withLocality('Xicheng Qu')
+            ->withPostalCode('123456')
+            ->withAddressLine1('Yitiao Lu')
+            ->withGivenName('John')
+            ->withFamilyName('Smith')
+            ->withAdministrativeArea('INVALID');
+        $this->validator->validate($address, $this->constraint);
+        $this->buildViolation($this->constraint->blankMessage)
+            ->atPath('[administrativeArea]')
+            ->setInvalidValue('INVALID')
+            ->assertRaised();
     }
 }

@@ -74,18 +74,19 @@ class AddressFormatConstraintValidator extends ConstraintValidator
      */
     protected function validateFields($values, AddressFormat $addressFormat, $constraint)
     {
+        $usedFields = array_intersect($addressFormat->getUsedFields(), $constraint->fields);
         // Validate the presence of required fields.
         $requiredFields = $addressFormat->getRequiredFields();
         foreach ($requiredFields as $field) {
-            if (empty($values[$field]) && in_array($field, $constraint->fields)) {
+            if (empty($values[$field]) && in_array($field, $usedFields)) {
                 $this->addViolation($field, $constraint->notBlankMessage, $values[$field], $addressFormat);
             }
         }
 
         // Validate the absence of unused fields.
-        $unusedFields = array_diff(AddressField::getAll(), $addressFormat->getUsedFields());
+        $unusedFields = array_diff(AddressField::getAll(), $usedFields);
         foreach ($unusedFields as $field) {
-            if (!empty($values[$field]) && in_array($field, $constraint->fields)) {
+            if (!empty($values[$field])) {
                 $this->addViolation($field, $constraint->blankMessage, $values[$field], $addressFormat);
             }
         }
