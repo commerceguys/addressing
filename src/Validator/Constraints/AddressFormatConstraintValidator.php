@@ -57,24 +57,11 @@ class AddressFormatConstraintValidator extends ConstraintValidator
             return;
         }
 
-        $values = $this->extractAddressValues($address);
+        /** @var AddressFormatConstraint $constraint */
         $addressFormat = $this->addressFormatRepository->get($address->getCountryCode());
-
-        $this->validateFields($values, $addressFormat, $constraint);
-        $subdivisions = $this->validateSubdivisions($values, $addressFormat, $constraint);
-        $this->validatePostalCode($address->getPostalCode(), $subdivisions, $addressFormat, $constraint);
-    }
-
-    /**
-     * Validates the provided field values.
-     *
-     * @param array         $values        The field values, keyed by field constants.
-     * @param AddressFormat $addressFormat The address format.
-     * @param Constraint    $constraint    The constraint.
-     */
-    protected function validateFields($values, AddressFormat $addressFormat, $constraint)
-    {
         $usedFields = array_intersect($addressFormat->getUsedFields(), $constraint->fields);
+        $values = $this->extractAddressValues($address);
+
         // Validate the presence of required fields.
         $requiredFields = $addressFormat->getRequiredFields();
         foreach ($requiredFields as $field) {
@@ -90,14 +77,20 @@ class AddressFormatConstraintValidator extends ConstraintValidator
                 $this->addViolation($field, $constraint->blankMessage, $values[$field], $addressFormat);
             }
         }
+
+        // Validate subdivisions and the postal code.
+        $subdivisions = $this->validateSubdivisions($values, $addressFormat, $constraint);
+        if (in_array(AddressField::POSTAL_CODE, $usedFields)) {
+            $this->validatePostalCode($address->getPostalCode(), $subdivisions, $addressFormat, $constraint);
+        }
     }
 
     /**
      * Validates the provided subdivision values.
      *
-     * @param array         $values        The field values, keyed by field constants.
-     * @param AddressFormat $addressFormat The address format.
-     * @param Constraint    $constraint    The constraint.
+     * @param array                   $values        The field values, keyed by field constants.
+     * @param AddressFormat           $addressFormat The address format.
+     * @param AddressFormatConstraint $constraint    The constraint.
      *
      * @return array An array of found valid subdivisions.
      */
@@ -137,14 +130,14 @@ class AddressFormatConstraintValidator extends ConstraintValidator
     /**
      * Validates the provided postal code.
      *
-     * @param string        $postalCode    The postal code.
-     * @param array         $subdivisions  An array of found valid subdivisions.
-     * @param AddressFormat $addressFormat The address format.
-     * @param Constraint    $constraint    The constraint.
+     * @param string                  $postalCode    The postal code.
+     * @param array                   $subdivisions  An array of found valid subdivisions.
+     * @param AddressFormat           $addressFormat The address format.
+     * @param AddressFormatConstraint $constraint    The constraint.
      */
     protected function validatePostalCode($postalCode, array $subdivisions, AddressFormat $addressFormat, $constraint)
     {
-        if (empty($postalCode) || !in_array(AddressField::POSTAL_CODE, $constraint->fields)) {
+        if (empty($postalCode)) {
             // Nothing to validate.
             return;
         }
