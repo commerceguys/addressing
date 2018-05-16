@@ -2,6 +2,8 @@
 
 namespace CommerceGuys\Addressing\Validator\Constraints;
 
+use CommerceGuys\Addressing\AddressFormat\AddressFormatHelper;
+use CommerceGuys\Addressing\AddressFormat\FieldHelper;
 use CommerceGuys\Addressing\AddressInterface;
 use CommerceGuys\Addressing\AddressFormat\AddressField;
 use CommerceGuys\Addressing\AddressFormat\AddressFormat;
@@ -50,7 +52,6 @@ class AddressFormatConstraintValidator extends ConstraintValidator
         if (!($value instanceof AddressInterface)) {
             throw new UnexpectedTypeException($value, 'AddressInterface');
         }
-
         $address = $value;
         $countryCode = $address->getCountryCode();
         if ($countryCode === null || $countryCode === '') {
@@ -58,14 +59,15 @@ class AddressFormatConstraintValidator extends ConstraintValidator
         }
 
         /** @var AddressFormatConstraint $constraint */
-        $addressFormat = $this->addressFormatRepository->get($address->getCountryCode());
-        $usedFields = array_intersect($addressFormat->getUsedFields(), $constraint->fields);
+        $fieldOverrides = $constraint->fieldOverrides;
+        $addressFormat = $this->addressFormatRepository->get($countryCode);
+        $usedFields = array_diff($addressFormat->getUsedFields(), $fieldOverrides->getHiddenFields());
         $values = $this->extractAddressValues($address);
 
         // Validate the presence of required fields.
-        $requiredFields = $addressFormat->getRequiredFields();
+        $requiredFields = FieldHelper::getRequiredFields($addressFormat, $fieldOverrides);
         foreach ($requiredFields as $field) {
-            if (empty($values[$field]) && in_array($field, $usedFields)) {
+            if (empty($values[$field])) {
                 $this->addViolation($field, $constraint->notBlankMessage, $values[$field], $addressFormat);
             }
         }
@@ -96,17 +98,18 @@ class AddressFormatConstraintValidator extends ConstraintValidator
      */
     protected function validateSubdivisions($values, AddressFormat $addressFormat, $constraint)
     {
-        $countryCode = $addressFormat->getCountryCode();
         if ($addressFormat->getSubdivisionDepth() < 1) {
             // No predefined subdivisions exist, nothing to validate against.
             return [];
         }
 
+        $countryCode = $addressFormat->getCountryCode();
         $subdivisionFields = $addressFormat->getUsedSubdivisionFields();
+        $hiddenFields = $constraint->fieldOverrides->getHiddenFields();
         $parents = [];
         $subdivisions = [];
         foreach ($subdivisionFields as $index => $field) {
-            if (empty($values[$field]) || !in_array($field, $constraint->fields)) {
+            if (empty($values[$field]) || in_array($field, $hiddenFields)) {
                 // The field is empty or validation is disabled.
                 break;
             }

@@ -4,6 +4,8 @@ namespace CommerceGuys\Addressing\Tests\Validator\Constraints;
 
 use CommerceGuys\Addressing\Address;
 use CommerceGuys\Addressing\AddressFormat\AddressField;
+use CommerceGuys\Addressing\AddressFormat\FieldOverride;
+use CommerceGuys\Addressing\AddressFormat\FieldOverrides;
 use CommerceGuys\Addressing\Validator\Constraints\AddressFormatConstraint;
 use CommerceGuys\Addressing\Validator\Constraints\AddressFormatConstraintValidator;
 use Symfony\Component\Validator\Test\ConstraintValidatorTestCase;
@@ -431,11 +433,15 @@ class AddressFormatConstraintValidatorTest extends ConstraintValidatorTestCase
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatConstraintValidator
      */
-    public function testHiddenRequiredFields()
+    public function testOverriddenRequiredFields()
     {
         // Confirm that it is possible to omit required name fields.
+        // Intentionally uses the deprecated fields setting to confirm
+        // that the BC layer works.
         $nameFields = [AddressField::GIVEN_NAME, AddressField::FAMILY_NAME];
-        $this->constraint->fields = array_diff(AddressField::getAll(), $nameFields);
+        $this->constraint = new AddressFormatConstraint([
+            'fields' => array_diff(AddressField::getAll(), $nameFields),
+        ]);
         $address = new Address();
         $address = $address
             ->withCountryCode('CN')
@@ -443,6 +449,15 @@ class AddressFormatConstraintValidatorTest extends ConstraintValidatorTestCase
             ->withLocality('Xicheng Qu')
             ->withPostalCode('123456')
             ->withAddressLine1('Yitiao Lu');
+        $this->validator->validate($address, $this->constraint);
+        $this->assertNoViolation();
+
+        // Confirm that an optional override works the same way.
+        $this->constraint->fields = [];
+        $this->constraint->fieldOverrides = new FieldOverrides([
+            AddressField::GIVEN_NAME => FieldOverride::OPTIONAL,
+            AddressField::FAMILY_NAME => FieldOverride::OPTIONAL,
+        ]);
         $this->validator->validate($address, $this->constraint);
         $this->assertNoViolation();
     }
@@ -453,7 +468,9 @@ class AddressFormatConstraintValidatorTest extends ConstraintValidatorTestCase
     public function testHiddenPostalCodeField()
     {
         // Confirm that postal code validation is skipped.
-        $this->constraint->fields = array_diff(AddressField::getAll(), [AddressField::POSTAL_CODE]);
+        $this->constraint->fieldOverrides = new FieldOverrides([
+            AddressField::POSTAL_CODE => FieldOverride::HIDDEN,
+        ]);
         $address = new Address();
         $address = $address
             ->withCountryCode('CN')
@@ -476,7 +493,9 @@ class AddressFormatConstraintValidatorTest extends ConstraintValidatorTestCase
     public function testHiddenSubdivisionField()
     {
         // Confirm that subdivision validation is skipped.
-        $this->constraint->fields = array_diff(AddressField::getAll(), [AddressField::ADMINISTRATIVE_AREA]);
+        $this->constraint->fieldOverrides = new FieldOverrides([
+            AddressField::ADMINISTRATIVE_AREA => FieldOverride::HIDDEN,
+        ]);
         $address = new Address();
         $address = $address
             ->withCountryCode('CN')
