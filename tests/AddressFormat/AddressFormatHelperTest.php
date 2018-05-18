@@ -4,14 +4,14 @@ namespace CommerceGuys\Addressing\Tests\AddressFormat;
 
 use CommerceGuys\Addressing\AddressFormat\AddressField;
 use CommerceGuys\Addressing\AddressFormat\AddressFormat;
-use CommerceGuys\Addressing\AddressFormat\FieldHelper;
+use CommerceGuys\Addressing\AddressFormat\AddressFormatHelper;
 use CommerceGuys\Addressing\AddressFormat\FieldOverride;
 use CommerceGuys\Addressing\AddressFormat\FieldOverrides;
 
 /**
- * @coversDefaultClass \CommerceGuys\Addressing\AddressFormat\FieldHelper
+ * @coversDefaultClass \CommerceGuys\Addressing\AddressFormat\AddressFormatHelper
  */
-class FieldHelperTest extends \PHPUnit_Framework_TestCase
+class AddressFormatHelperTest extends \PHPUnit_Framework_TestCase
 {
     /**
      * @covers ::getGroupedFields
@@ -19,7 +19,6 @@ class FieldHelperTest extends \PHPUnit_Framework_TestCase
     public function testGetGroupedFields()
     {
         $format = "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%locality, %postalCode";
-        $fieldOverrides = new FieldOverrides([]);
         $expectedGroupedFields = [
             [AddressField::GIVEN_NAME, AddressField::FAMILY_NAME],
             [AddressField::ORGANIZATION],
@@ -27,7 +26,7 @@ class FieldHelperTest extends \PHPUnit_Framework_TestCase
             [AddressField::ADDRESS_LINE2],
             [AddressField::LOCALITY, AddressField::POSTAL_CODE],
         ];
-        $this->assertEquals($expectedGroupedFields, FieldHelper::getGroupedFields($format, $fieldOverrides));
+        $this->assertEquals($expectedGroupedFields, AddressFormatHelper::getGroupedFields($format));
 
         $fieldOverrides = new FieldOverrides([
             AddressField::ORGANIZATION => FieldOverride::HIDDEN,
@@ -39,7 +38,7 @@ class FieldHelperTest extends \PHPUnit_Framework_TestCase
             [AddressField::ADDRESS_LINE2],
             [AddressField::POSTAL_CODE],
         ];
-        $this->assertEquals($expectedGroupedFields, FieldHelper::getGroupedFields($format, $fieldOverrides));
+        $this->assertEquals($expectedGroupedFields, AddressFormatHelper::getGroupedFields($format, $fieldOverrides));
     }
 
     /**
@@ -62,7 +61,7 @@ class FieldHelperTest extends \PHPUnit_Framework_TestCase
             AddressField::LOCALITY,
             AddressField::POSTAL_CODE,
         ];
-        $this->assertEquals($expectedRequiredFields, FieldHelper::getRequiredFields($addressFormat, $fieldOverrides));
+        $this->assertEquals($expectedRequiredFields, AddressFormatHelper::getRequiredFields($addressFormat, $fieldOverrides));
 
         $fieldOverrides = new FieldOverrides([
             AddressField::ADMINISTRATIVE_AREA => FieldOverride::HIDDEN,
@@ -73,6 +72,6 @@ class FieldHelperTest extends \PHPUnit_Framework_TestCase
             AddressField::LOCALITY,
             AddressField::ADDRESS_LINE1,
         ];
-        $this->assertEquals($expectedRequiredFields, FieldHelper::getRequiredFields($addressFormat, $fieldOverrides));
+        $this->assertEquals($expectedRequiredFields, AddressFormatHelper::getRequiredFields($addressFormat, $fieldOverrides));
     }
 }

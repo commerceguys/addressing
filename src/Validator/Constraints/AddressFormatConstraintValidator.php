@@ -3,7 +3,6 @@
 namespace CommerceGuys\Addressing\Validator\Constraints;
 
 use CommerceGuys\Addressing\AddressFormat\AddressFormatHelper;
-use CommerceGuys\Addressing\AddressFormat\FieldHelper;
 use CommerceGuys\Addressing\AddressInterface;
 use CommerceGuys\Addressing\AddressFormat\AddressField;
 use CommerceGuys\Addressing\AddressFormat\AddressFormat;
@@ -65,7 +64,7 @@ class AddressFormatConstraintValidator extends ConstraintValidator
         $values = $this->extractAddressValues($address);
 
         // Validate the presence of required fields.
-        $requiredFields = FieldHelper::getRequiredFields($addressFormat, $fieldOverrides);
+        $requiredFields = AddressFormatHelper::getRequiredFields($addressFormat, $fieldOverrides);
         foreach ($requiredFields as $field) {
             if (empty($values[$field])) {
                 $this->addViolation($field, $constraint->notBlankMessage, $values[$field], $addressFormat);

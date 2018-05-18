@@ -3,9 +3,9 @@
 namespace CommerceGuys\Addressing\AddressFormat;
 
 /**
- * Handles fields, respecting field overrides.
+ * Provides helpers for handling address formats.
  */
-final class FieldHelper
+final class AddressFormatHelper
 {
     /**
      * Gets the list of used fields, grouped by line.
@@ -27,10 +27,10 @@ final class FieldHelper
      *                 [locality, administrativeArea, postalCode]
      *               ]
      */
-    public static function getGroupedFields($formatString, FieldOverrides $fieldOverrides)
+    public static function getGroupedFields($formatString, FieldOverrides $fieldOverrides = null)
     {
         $groupedFields = [];
-        $hiddenFields = $fieldOverrides->getHiddenFields();
+        $hiddenFields = $fieldOverrides ? $fieldOverrides->getHiddenFields() : [];
         $expression = '/\%(' . implode('|', AddressField::getAll()) . ')/';
         $formatLines = explode("\n", $formatString);
         foreach ($formatLines as $index => $formatLine) {
