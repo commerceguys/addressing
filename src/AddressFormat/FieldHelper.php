@@ -3,14 +3,16 @@
 namespace CommerceGuys\Addressing\AddressFormat;
 
 /**
- * Provides helpers for handling address formats.
+ * Provides additional logic for handling fields.
  */
-final class AddressFormatHelper
+final class FieldHelper
 {
     /**
      * Gets the list of used fields, grouped by line.
      *
      * Used for generating address forms.
+     *
+     * @param string $formatString The format string.
      *
      * @return array An array of address fields grouped by line, in the same
      *               order as they appear in the format string. For example:
@@ -22,11 +24,11 @@ final class AddressFormatHelper
      *                 [locality, administrativeArea, postalCode]
      *               ]
      */
-    public static function getGroupedFields($format)
+    public static function getGroupedFields($formatString)
     {
         $groupedFields = [];
         $expression = '/\%(' . implode('|', AddressField::getAll()) . ')/';
-        $formatLines = explode("\n", $format);
+        $formatLines = explode("\n", $formatString);
         foreach ($formatLines as $index => $formatLine) {
             preg_match_all($expression, $formatLine, $foundTokens);
             foreach ($foundTokens[0] as $token) {

@@ -3,12 +3,12 @@
 namespace CommerceGuys\Addressing\Tests\AddressFormat;
 
 use CommerceGuys\Addressing\AddressFormat\AddressField;
-use CommerceGuys\Addressing\AddressFormat\AddressFormatHelper;
+use CommerceGuys\Addressing\AddressFormat\FieldHelper;
 
 /**
- * @coversDefaultClass \CommerceGuys\Addressing\AddressFormat\AddressFormatHelper
+ * @coversDefaultClass \CommerceGuys\Addressing\AddressFormat\FieldHelper
  */
-class AddressFormatHelperTest extends \PHPUnit_Framework_TestCase
+class FieldHelperTest extends \PHPUnit_Framework_TestCase
 {
     /**
      * @covers ::getGroupedFields
@@ -23,6 +23,6 @@ class AddressFormatHelperTest extends \PHPUnit_Framework_TestCase
             [AddressField::ADDRESS_LINE2],
             [AddressField::LOCALITY, AddressField::POSTAL_CODE],
         ];
-        $this->assertEquals($expectedGroupedFields, AddressFormatHelper::getGroupedFields($format));
+        $this->assertEquals($expectedGroupedFields, FieldHelper::getGroupedFields($format));
     }
 }
