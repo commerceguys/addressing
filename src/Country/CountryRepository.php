@@ -101,6 +101,7 @@ class CountryRepository implements CountryRepositoryInterface
      */
     public function get($countryCode, $locale = null)
     {
+        $countryCode = strtoupper($countryCode);
         $baseDefinitions = $this->getBaseDefinitions();
         if (!isset($baseDefinitions[$countryCode])) {
             throw new UnknownCountryException($countryCode);

@@ -70,8 +70,8 @@ class CountryRepositoryTest extends \PHPUnit_Framework_TestCase
         $this->assertEquals('EUR', $country->getCurrencyCode());
         $this->assertEquals('es', $country->getLocale());
 
-        // Default locale.
-        $country = $countryRepository->get('FR');
+        // Default locale, lowercase country code.
+        $country = $countryRepository->get('fr');
         $this->assertInstanceOf('CommerceGuys\\Addressing\\Country\\Country', $country);
         $this->assertEquals('FR', $country->getCountryCode());
         $this->assertEquals('Frankreich', $country->getName());

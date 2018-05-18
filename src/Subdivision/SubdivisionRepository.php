@@ -210,7 +210,7 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
             throw new \InvalidArgumentException('The $parents argument must not be empty.');
         }
         $countryCode = array_shift($parents);
-        $group = $countryCode;
+        $group = strtoupper($countryCode);
         if ($parents) {
             // A dash per key allows the depth to be guessed later.
             $group .= str_repeat('-', count($parents));

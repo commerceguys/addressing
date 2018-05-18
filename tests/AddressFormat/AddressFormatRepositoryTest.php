@@ -30,6 +30,10 @@ class AddressFormatRepositoryTest extends \PHPUnit_Framework_TestCase
         $this->assertEquals(LocalityType::CITY, $addressFormat->getLocalityType());
         $this->assertEquals(PostalCodeType::POSTAL, $addressFormat->getPostalCodeType());
         $this->assertEquals('\\d{5}', $addressFormat->getPostalCodePattern());
+
+        // Confirm that passing a lowercase country code works.
+        $anotherAddressFormat = $addressFormatRepository->get('es');
+        $this->assertSame($anotherAddressFormat, $addressFormat);
     }
 
     /**
@@ -43,18 +47,6 @@ class AddressFormatRepositoryTest extends \PHPUnit_Framework_TestCase
         $addressFormatRepository = new AddressFormatRepository();
         $addressFormat = $addressFormatRepository->get('ZZ');
         $this->assertEquals('ZZ', $addressFormat->getCountryCode());
-    }
-
-    /**
-     * @covers ::get
-     *
-     * @expectedException \InvalidArgumentException
-     * @expectedExceptionMessage Invalid country code "Kitten" provided.
-     */
-    public function testGetInvalidAddressFormat()
-    {
-        $addressFormatRepository = new AddressFormatRepository();
-        $addressFormat = $addressFormatRepository->get('Kitten');
     }
 
     /**

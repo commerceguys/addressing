@@ -16,11 +16,8 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
      */
     public function get($countryCode)
     {
+        $countryCode = strtoupper($countryCode);
         if (!isset($this->addressFormats[$countryCode])) {
-            // Assert the basic country code format (2 uppercase letters).
-            if (strlen($countryCode) != 2 || !ctype_upper($countryCode)) {
-                throw new \InvalidArgumentException(sprintf('Invalid country code "%s" provided.', $countryCode));
-            }
             $definitions = $this->getDefinitions();
             $definition = isset($definitions[$countryCode]) ? $definitions[$countryCode] : [];
             $definition = $this->processDefinition($countryCode, $definition);
