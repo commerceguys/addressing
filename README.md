@@ -128,8 +128,8 @@ $addressFormatRepository = new AddressFormatRepository();
 $countryRepository = new CountryRepository();
 $subdivisionRepository = new SubdivisionRepository();
 $formatter = new DefaultFormatter($addressFormatRepository, $countryRepository, $subdivisionRepository);
-// Options passed to the constructor or setOption / setOptions allow turning
-// off html rendering, customizing the wrapper element and its attributes.
+// Options passed to the constructor or format() allow turning off
+// html rendering, customizing the wrapper element and its attributes.
 
 $address = new Address();
 $address = $address
@@ -171,9 +171,9 @@ use CommerceGuys\Addressing\Subdivision\SubdivisionRepository;
 $addressFormatRepository = new AddressFormatRepository();
 $countryRepository = new CountryRepository();
 $subdivisionRepository = new SubdivisionRepository();
-// Defaults to text rendering. Requires setting the origin country code
-// (e.g. 'FR') through the constructor or the setter, before calling format().
-$formatter = new PostalLabelFormatter($addressFormatRepository, $countryRepository, $subdivisionRepository, 'FR', 'fr');
+// Defaults to text rendering. Requires passing the "origin_country"
+// (e.g. 'FR') to the constructor or to format().
+$formatter = new PostalLabelFormatter($addressFormatRepository, $countryRepository, $subdivisionRepository, ['locale' => 'fr]);
 
 $address = new Address();
 $address = $address
@@ -182,7 +182,7 @@ $address = $address
     ->withLocality('Mountain View')
     ->withAddressLine1('1098 Alta Ave');
 
-echo $formatter->format($address);
+echo $formatter->format($address, ['origin_country' => 'FR']);
 
 /** Output:
 1098 Alta Ave

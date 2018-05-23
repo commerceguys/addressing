@@ -7,54 +7,18 @@ use CommerceGuys\Addressing\AddressInterface;
 interface FormatterInterface
 {
     /**
-     * Gets the locale.
-     *
-     * @return string The locale.
-     */
-    public function getLocale();
-
-    /**
-     * Sets the locale.
-     *
-     * @param string $locale The locale.
-     */
-    public function setLocale($locale);
-
-    /**
-     * Gets the options.
-     *
-     * @return array $options The options.
-     */
-    public function getOptions();
-
-    /**
-     * Sets the options.
-     *
-     * @param array $options The options.
-     */
-    public function setOptions(array $options);
-
-    /**
-     * Gets the option with the provided key.
-     *
-     * @return array $options The options.
-     */
-    public function getOption($key);
-
-    /**
-     * Sets the option with the provided key.
-     *
-     * @param string $key   The key.
-     * @param string $value The new value.
-     */
-    public function setOption($key, $value);
-
-    /**
      * Formats an address.
      *
+     * Supported options:
+     * - locale (default: 'en'): The locale to use for the country name.
+     * - html (default: true): Whether to output HTML.
+     * - html_tag (default: 'p'): The wrapper HTML element to use.
+     * - html_attributes: The attributes to set on the wrapper HTML element.
+     *
      * @param AddressInterface $address The address.
+     * @param array            $options The formatting options.
      *
      * @return string The formatted address.
      */
-    public function format(AddressInterface $address);
+    public function format(AddressInterface $address, array $options = []);
 }

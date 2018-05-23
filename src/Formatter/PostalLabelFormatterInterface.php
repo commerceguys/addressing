@@ -2,19 +2,24 @@
 
 namespace CommerceGuys\Addressing\Formatter;
 
-interface PostalLabelFormatterInterface extends FormatterInterface
+use CommerceGuys\Addressing\AddressInterface;
+
+interface PostalLabelFormatterInterface
 {
     /**
-     * Gets the origin country code.
+     * Formats an address for a postal label.
      *
-     * @return string The origin country code.
-     */
-    public function getOriginCountryCode();
-
-    /**
-     * Sets the origin country code.
+     * Supported options:
+     * - locale (default: 'en'): The locale to use for the country name.
+     * - html (default: false): Whether to output HTML.
+     * - html_tag (default: 'p'): The wrapper HTML element to use.
+     * - html_attributes: The attributes to set on the wrapper HTML element.
+     * - origin_country: The origin country code. E.g. 'FR' for France.
      *
-     * @param string $originCountryCode The origin country code.
+     * @param AddressInterface $address The address.
+     * @param array            $options The formatting options.
+     *
+     * @return string The formatted address.
      */
-    public function setOriginCountryCode($originCountryCode);
+    public function format(AddressInterface $address, array $options = []);
 }

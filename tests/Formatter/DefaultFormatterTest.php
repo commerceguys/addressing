@@ -64,47 +64,21 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
     }
 
     /**
-     * @covers ::getLocale
-     * @covers ::setLocale
+     * @covers ::__construct
+     * @expectedException \InvalidArgumentException
      */
-    public function testLocale()
+    public function testUnrecognizedOption()
     {
-        $formatter = new DefaultFormatter($this->addressFormatRepository, $this->countryRepository, $this->subdivisionRepository, 'en');
-        $this->assertEquals('en', $formatter->getLocale());
-        $formatter->setLocale('fr');
-        $this->assertEquals('fr', $formatter->getLocale());
+        $formatter = new DefaultFormatter($this->addressFormatRepository, $this->countryRepository, $this->subdivisionRepository, ['unrecognized' => '123']);
     }
 
     /**
-     * @covers ::setOption
-     *
+     * @covers ::__construct
      * @expectedException \InvalidArgumentException
      */
     public function testInvalidOption()
     {
-        $this->formatter->setOption('invalid', 'new value');
-    }
-
-    /**
-     * @covers ::getOptions
-     * @covers ::setOptions
-     * @covers ::getOption
-     * @covers ::setOption
-     * @covers ::getDefaultOptions
-     */
-    public function testOptions()
-    {
-        $formatter = new DefaultFormatter($this->addressFormatRepository, $this->countryRepository, $this->subdivisionRepository, 'en', ['html' => false]);
-
-        $expectedOptions = [
-            'html' => false,
-            'html_tag' => 'p',
-            'html_attributes' => ['translate' => 'no'],
-        ];
-        $this->assertEquals($expectedOptions, $formatter->getOptions());
-        $this->assertEquals('p', $formatter->getOption('html_tag'));
-        $formatter->setOption('html_tag', 'div');
-        $this->assertEquals('div', $formatter->getOption('html_tag'));
+        $formatter = new DefaultFormatter($this->addressFormatRepository, $this->countryRepository, $this->subdivisionRepository, ['html' => 'INVALID']);
     }
 
     /**
@@ -126,8 +100,7 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
             "AD500 Parròquia d'Andorra la Vella",
             'Andorra',
         ];
-        $this->formatter->setOption('html', false);
-        $textAddress = $this->formatter->format($address);
+        $textAddress = $this->formatter->format($address, ['html' => false]);
         $this->assertFormattedAddress($expectedTextLines, $textAddress);
     }
 
@@ -160,8 +133,7 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
             'Ahuachapán',
             'El Salvador',
         ];
-        $this->formatter->setOption('html', false);
-        $textAddress = $this->formatter->format($address);
+        $textAddress = $this->formatter->format($address, ['html' => false]);
         $this->assertFormattedAddress($expectedTextLines, $textAddress);
 
         $address = $address->withPostalCode('CP 2101');
@@ -173,7 +145,6 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
             '<span class="country">El Salvador</span>',
             '</p>',
         ];
-        $this->formatter->setOption('html', true);
         $htmlAddress = $this->formatter->format($address);
         $this->assertFormattedAddress($expectedHtmlLines, $htmlAddress);
 
@@ -183,8 +154,7 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
             'Ahuachapán',
             'El Salvador',
         ];
-        $this->formatter->setOption('html', false);
-        $textAddress = $this->formatter->format($address);
+        $textAddress = $this->formatter->format($address, ['html' => false]);
         $this->assertFormattedAddress($expectedTextLines, $textAddress);
     }
 
@@ -208,11 +178,6 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
             ->withGivenName('Te-Chiang')
             ->withFamilyName('Liu')
             ->withLocale('zh-Hant');
-        $this->formatter->setLocale('zh-Hant');
-
-        // Test adding a new wrapper attribute, and passing a value as an array.
-        $options = ['translate' => 'no', 'class' => ['address', 'postal-address']];
-        $this->formatter->setOption('html_attributes', $options);
 
         $expectedHtmlLines = [
             '<p translate="no" class="address postal-address">',
@@ -224,7 +189,14 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
             '<span class="family-name">Liu</span> <span class="given-name">Te-Chiang</span>',
             '</p>',
         ];
-        $htmlAddress = $this->formatter->format($address);
+        // Test wrapper attributes and a custom locale.
+        $htmlAddress = $this->formatter->format($address, [
+            'locale' => 'zh-Hant',
+            'html_attributes' => [
+                'translate' => 'no',
+                'class' => ['address', 'postal-address'],
+            ],
+        ]);
         $this->assertFormattedAddress($expectedHtmlLines, $htmlAddress);
 
         $expectedTextLines = [
@@ -235,8 +207,10 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
             'Giant Bike Store',
             'Liu Te-Chiang',
         ];
-        $this->formatter->setOption('html', false);
-        $textAddress = $this->formatter->format($address);
+        $textAddress = $this->formatter->format($address, [
+            'locale' => 'zh-Hant',
+            'html' => false,
+        ]);
         $this->assertFormattedAddress($expectedTextLines, $textAddress);
     }
 
@@ -268,8 +242,7 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
             'CA 94043',
             'United States',
         ];
-        $this->formatter->setOption('html', false);
-        $textAddress = $this->formatter->format($address);
+        $textAddress = $this->formatter->format($address, ['html' => false]);
         $this->assertFormattedAddress($expectedTextLines, $textAddress);
 
         // Now add the locality, but remove the administrative area.
@@ -284,7 +257,6 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
             '<span class="country">United States</span>',
             '</p>',
         ];
-        $this->formatter->setOption('html', true);
         $htmlAddress = $this->formatter->format($address);
         $this->assertFormattedAddress($expectedHtmlLines, $htmlAddress);
 
@@ -293,8 +265,7 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
             'Mountain View, 94043',
             'United States',
         ];
-        $this->formatter->setOption('html', false);
-        $textAddress = $this->formatter->format($address);
+        $textAddress = $this->formatter->format($address, ['html' => false]);
         $this->assertFormattedAddress($expectedTextLines, $textAddress);
     }
 

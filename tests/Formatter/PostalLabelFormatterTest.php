@@ -55,7 +55,7 @@ class PostalLabelFormatterTest extends \PHPUnit_Framework_TestCase
     /**
      * @covers ::format
      *
-     * @expectedException \RuntimeException
+     * @expectedException \InvalidArgumentException
      */
     public function testMissingOriginCountryCode()
     {
@@ -64,23 +64,12 @@ class PostalLabelFormatterTest extends \PHPUnit_Framework_TestCase
     }
 
     /**
-     * @covers ::getOriginCountryCode
-     * @covers ::setOriginCountryCode
-     */
-    public function testOriginCountryCode()
-    {
-        $this->formatter->setOriginCountryCode('FR');
-        $this->assertEquals('FR', $this->formatter->getOriginCountryCode('FR'));
-    }
-
-    /**
      * @covers \CommerceGuys\Addressing\Formatter\PostalLabelFormatter
      */
     public function testEmptyAddress()
     {
         $expectedLines = [];
-        $this->formatter->setOriginCountryCode('US');
-        $formattedAddress = $this->formatter->format(new Address('US'), 'US');
+        $formattedAddress = $this->formatter->format(new Address('US'), ['origin_country' => 'US']);
         $this->assertFormattedAddress($expectedLines, $formattedAddress);
     }
 
@@ -102,8 +91,7 @@ class PostalLabelFormatterTest extends \PHPUnit_Framework_TestCase
             '1098 Alta Ave',
             'MT VIEW, CA 94043',
         ];
-        $this->formatter->setOriginCountryCode('US');
-        $formattedAddress = $this->formatter->format($address);
+        $formattedAddress = $this->formatter->format($address, ['origin_country' => 'US']);
         $this->assertFormattedAddress($expectedLines, $formattedAddress);
 
         // Test a US address formatted for sending from France.
@@ -112,9 +100,10 @@ class PostalLabelFormatterTest extends \PHPUnit_Framework_TestCase
             'MT VIEW, CA 94043',
             'ÉTATS-UNIS - UNITED STATES',
         ];
-        $this->formatter->setOriginCountryCode('FR');
-        $this->formatter->setLocale('fr');
-        $formattedAddress = $this->formatter->format($address, 'FR', 'fr');
+        $formattedAddress = $this->formatter->format($address, [
+            'locale' => 'fr',
+            'origin_country' => 'FR',
+        ]);
         $this->assertFormattedAddress($expectedLines, $formattedAddress);
     }
 
@@ -141,9 +130,10 @@ class PostalLabelFormatterTest extends \PHPUnit_Framework_TestCase
             'Address Line 1',
             'Address Line 2',
         ];
-        $this->formatter->setOriginCountryCode('FR');
-        $this->formatter->setLocale('fr');
-        $formattedAddress = $this->formatter->format($address);
+        $formattedAddress = $this->formatter->format($address, [
+            'locale' => 'fr',
+            'origin_country' => 'FR',
+        ]);
         $this->assertFormattedAddress($expectedLines, $formattedAddress);
     }
 
@@ -162,8 +152,7 @@ class PostalLabelFormatterTest extends \PHPUnit_Framework_TestCase
         $expectedLines = [
             '8047 Herrliberg',
         ];
-        $this->formatter->setOriginCountryCode('CH');
-        $formattedAddress = $this->formatter->format($address);
+        $formattedAddress = $this->formatter->format($address, ['origin_country' => 'CH']);
         $this->assertFormattedAddress($expectedLines, $formattedAddress);
 
         // International mail should have the postal code prefix added.
@@ -171,8 +160,7 @@ class PostalLabelFormatterTest extends \PHPUnit_Framework_TestCase
             'CH-8047 Herrliberg',
             'SWITZERLAND',
         ];
-        $this->formatter->setOriginCountryCode('FR');
-        $formattedAddress = $this->formatter->format($address);
+        $formattedAddress = $this->formatter->format($address, ['origin_country' => 'FR']);
         $this->assertFormattedAddress($expectedLines, $formattedAddress);
     }
 

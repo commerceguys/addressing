@@ -40,18 +40,16 @@ class DefaultFormatter implements FormatterInterface
     protected $subdivisionRepository;
 
     /**
-     * The locale.
-     *
-     * @var string
-     */
-    protected $locale;
-
-    /**
-     * The options.
+     * The default options.
      *
      * @var array
      */
-    protected $options = [];
+    protected $defaultOptions = [
+        'locale' => 'en',
+        'html' => true,
+        'html_tag' => 'p',
+        'html_attributes' => ['translate' => 'no'],
+    ];
 
     /**
      * Creates a DefaultFormatter instance.
@@ -59,94 +57,24 @@ class DefaultFormatter implements FormatterInterface
      * @param AddressFormatRepositoryInterface $addressFormatRepository
      * @param CountryRepositoryInterface       $countryRepository
      * @param SubdivisionRepositoryInterface   $subdivisionRepository
-     * @param string                           $locale
-     * @param array                            $options
+     * @param array                            $defaultOptions
      */
-    public function __construct(AddressFormatRepositoryInterface $addressFormatRepository, CountryRepositoryInterface $countryRepository, SubdivisionRepositoryInterface $subdivisionRepository, $locale = null, array $options = [])
+    public function __construct(AddressFormatRepositoryInterface $addressFormatRepository, CountryRepositoryInterface $countryRepository, SubdivisionRepositoryInterface $subdivisionRepository, array $defaultOptions = [])
     {
+        $this->validateOptions($defaultOptions);
         $this->addressFormatRepository = $addressFormatRepository;
         $this->countryRepository = $countryRepository;
         $this->subdivisionRepository = $subdivisionRepository;
-        $this->locale = $locale;
-        $this->setOptions($options);
+        $this->defaultOptions = array_replace($this->defaultOptions, $defaultOptions);
     }
 
     /**
      * {@inheritdoc}
      */
-    public function getLocale()
+    public function format(AddressInterface $address, array $options = [])
     {
-        return $this->locale;
-    }
-
-    /**
-     * {@inheritdoc}
-     */
-    public function setLocale($locale)
-    {
-        $this->locale = $locale;
-
-        return $this;
-    }
-
-    /**
-     * {@inheritdoc}
-     */
-    public function getOptions()
-    {
-        return $this->options;
-    }
-
-    /**
-     * {@inheritdoc}
-     */
-    public function setOptions(array $options)
-    {
-        $this->options = $options + $this->getDefaultOptions();
-
-        return $this;
-    }
-
-    /**
-     * {@inheritdoc}
-     */
-    public function getOption($key)
-    {
-        return array_key_exists($key, $this->options) ? $this->options[$key] : null;
-    }
-
-    /**
-     * {@inheritdoc}
-     */
-    public function setOption($key, $value)
-    {
-        if (!array_key_exists($key, $this->getDefaultOptions())) {
-            throw new \InvalidArgumentException(sprintf('Invalid option "%s".', $key));
-        }
-        $this->options[$key] = $value;
-
-        return $this;
-    }
-
-    /**
-     * Gets the default options.
-     *
-     * @return array The default options.
-     */
-    protected function getDefaultOptions()
-    {
-        return [
-            'html' => true,
-            'html_tag' => 'p',
-            'html_attributes' => ['translate' => 'no'],
-        ];
-    }
-
-    /**
-     * {@inheritdoc}
-     */
-    public function format(AddressInterface $address)
-    {
+        $this->validateOptions($options);
+        $options = array_replace($this->defaultOptions, $options);
         $countryCode = $address->getCountryCode();
         $addressFormat = $this->addressFormatRepository->get($countryCode);
         // Add the country to the bottom or the top of the format string,
@@ -157,7 +85,7 @@ class DefaultFormatter implements FormatterInterface
             $formatString = $addressFormat->getFormat() . "\n" . '%country';
         }
 
-        $view = $this->buildView($address, $addressFormat);
+        $view = $this->buildView($address, $addressFormat, $options);
         $view = $this->renderView($view);
         // Insert the rendered elements into the format string.
         $replacements = [];
@@ -167,12 +95,12 @@ class DefaultFormatter implements FormatterInterface
         $output = strtr($formatString, $replacements);
         $output = $this->cleanupOutput($output);
 
-        if (!empty($this->options['html'])) {
+        if (!empty($options['html'])) {
             $output = nl2br($output, false);
             // Add the HTML wrapper element.
-            $attributes = $this->renderAttributes($this->options['html_attributes']);
-            $prefix = '<' . $this->options['html_tag'] . ' ' . $attributes . '>' . "\n";
-            $suffix = "\n" . '</' . $this->options['html_tag'] . '>';
+            $attributes = $this->renderAttributes($options['html_attributes']);
+            $prefix = '<' . $options['html_tag'] . ' ' . $attributes . '>' . "\n";
+            $suffix = "\n" . '</' . $options['html_tag'] . '>';
             $output = $prefix . $output . $suffix;
         }
 
@@ -180,20 +108,46 @@ class DefaultFormatter implements FormatterInterface
     }
 
     /**
+     * Validates the provided options.
+     *
+     * Ensures the absence of unknown keys, correct data types and values.
+     *
+     * @param array $options The options.
+     *
+     * @throws \InvalidArgumentException
+     */
+    protected function validateOptions(array $options)
+    {
+        foreach ($options as $option => $value) {
+            if (!array_key_exists($option, $this->defaultOptions)) {
+                throw new \InvalidArgumentException(sprintf('Unrecognized option "%s".', $option));
+            }
+        }
+        if (isset($options['html']) && !is_bool($options['html'])) {
+            throw new \InvalidArgumentException('The option "html" must be a boolean.');
+        }
+        if (isset($options['html_attributes']) && !is_array($options['html_attributes'])) {
+            throw new \InvalidArgumentException('The option "html_attributes" must be an array.');
+        }
+    }
+
+    /**
      * Builds the view for the given address.
      *
      * @param AddressInterface $address       The address.
      * @param AddressFormat    $addressFormat The address format.
+     * @param array            $options       The formatting options.
      *
      * @return array The view.
      */
-    protected function buildView(AddressInterface $address, AddressFormat $addressFormat)
+    protected function buildView(AddressInterface $address, AddressFormat $addressFormat, array $options)
     {
-        $countries = $this->countryRepository->getList($this->locale);
+        $countries = $this->countryRepository->getList($options['locale']);
         $values = $this->getValues($address, $addressFormat);
 
         $view = [];
         $view['country'] = [
+            'html' => $options['html'],
             'html_tag' => 'span',
             'html_attributes' => ['class' => 'country'],
             'value' => $countries[$address->getCountryCode()],
@@ -203,6 +157,7 @@ class DefaultFormatter implements FormatterInterface
             // it's snake_case and not camelCase.
             $class = str_replace('_', '-', strtolower(AddressField::getKey($field)));
             $view[$field] = [
+                'html' => $options['html'],
                 'html_tag' => 'span',
                 'html_attributes' => ['class' => $class],
                 'value' => $values[$field],
@@ -227,7 +182,7 @@ class DefaultFormatter implements FormatterInterface
                 continue;
             }
 
-            if (!empty($this->options['html'])) {
+            if (!empty($element['html'])) {
                 $attributes = $this->renderAttributes($element['html_attributes']);
                 $prefix = '<' . $element['html_tag'] . ' ' . $attributes . '>';
                 $suffix = '</' . $element['html_tag'] . '>';
