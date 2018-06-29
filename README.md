@@ -173,7 +173,7 @@ $countryRepository = new CountryRepository();
 $subdivisionRepository = new SubdivisionRepository();
 // Defaults to text rendering. Requires passing the "origin_country"
 // (e.g. 'FR') to the constructor or to format().
-$formatter = new PostalLabelFormatter($addressFormatRepository, $countryRepository, $subdivisionRepository, ['locale' => 'fr]);
+$formatter = new PostalLabelFormatter($addressFormatRepository, $countryRepository, $subdivisionRepository, ['locale' => 'fr']);
 
 $address = new Address();
 $address = $address
