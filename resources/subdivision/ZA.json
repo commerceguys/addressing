@@ -1,0 +1,43 @@
+{
+	"country_code": "ZA",
+	"parent_id": null,
+	"locale": "und",
+	"subdivisions": {
+		"ZA-EC": {
+			"code": "EC",
+			"name": "Eastern Cape"
+		},
+		"ZA-FS": {
+			"code": "FS",
+			"name": "Free"
+		},
+		"ZA-GT": {
+			"code": "GT",
+			"name": "Gauteng"
+		},
+		"ZA-LP": {
+			"code": "LP",
+			"name": "Limpopo"
+		},
+		"ZA-MP": {
+			"code": "MP",
+			"name": "Mpumalanga"
+		},
+		"ZA-NC": {
+			"code": "NC",
+			"name": "Northern Cape"
+		},
+		"ZA-NL": {
+			"code": "NL",
+			"name": "KwaZulu-Natal"
+		},
+		"ZA-NW": {
+			"code": "NW",
+			"name": "North West"
+		},
+		"ZA-WC": {
+			"code": "WC",
+			"name": "Western Cape"
+		}
+	}
+}
