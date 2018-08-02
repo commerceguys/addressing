@@ -1,0 +1,83 @@
+{
+	"country_code": "NZ",
+	"parent_id": null,
+	"locale": "und",
+	"subdivisions": {
+		"NZ-AUK": {
+			"code": "AUK",
+			"name": "Auckland"
+		},
+		"NZ-BOP": {
+			"code": "BOP",
+			"name": "Bay of Plenty"
+		},
+		"NZ-CAN": {
+			"code": "CAN",
+			"name": "Canterbury"
+		},
+		"NZ-CIT": {
+			"code": "CIT",
+			"name": "Chatham Islands"
+		},
+		"NZ-GIS": {
+			"code": "GIS",
+			"name": "Gisborne"
+		},
+		"NZ-HKB": {
+			"code": "HKB",
+			"name": "Hawke’s Bay"
+		},
+		"NZ-MBH": {
+			"code": "MBH",
+			"name": "Marl"
+		},
+		"NZ-MWT": {
+			"code": "MWT",
+			"name": "Manawatu-Wanganui"
+		},
+		"NZ-N": {
+			"code": "N",
+			"name": "North Island"
+		},
+		"NZ-NSN": {
+			"code": "NSN",
+			"name": "Nelson"
+		},
+		"NZ-NTL": {
+			"code": "NTL",
+			"name": "Northland"
+		},
+		"NZ-OTA": {
+			"code": "OTA",
+			"name": "Otago"
+		},
+		"NZ-S": {
+			"code": "S",
+			"name": "South Island"
+		},
+		"NZ-STL": {
+			"code": "STL",
+			"name": "Southland"
+		},
+		"NZ-TAS": {
+			"code": "TAS",
+			"name": "Tasman"
+		},
+		"NZ-TKI": {
+			"code": "TKI",
+			"name": "Taranaki"
+		},
+		"NZ-WGN": {
+			"code": "WGN",
+			"name": "Wellington"
+		},
+		"NZ-WKO": {
+			"code": "WKO",
+			"name": "Waikato"
+		},
+		"NZ-WTC": {
+			"code": "WTC",
+			"name": "West Coast"
+		}
+	}
+}
