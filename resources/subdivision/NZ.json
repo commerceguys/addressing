@@ -25,7 +25,7 @@
 		},
 		"NZ-HKB": {
 			"code": "HKB",
-			"name": "Hawke’s Bay"
+			"name": "Hawke's Bay"
 		},
 		"NZ-MBH": {
 			"code": "MBH",
@@ -34,10 +34,6 @@
 		"NZ-MWT": {
 			"code": "MWT",
 			"name": "Manawatu-Wanganui"
-		},
-		"NZ-N": {
-			"code": "N",
-			"name": "North Island"
 		},
 		"NZ-NSN": {
 			"code": "NSN",
@@ -50,10 +46,6 @@
 		"NZ-OTA": {
 			"code": "OTA",
 			"name": "Otago"
-		},
-		"NZ-S": {
-			"code": "S",
-			"name": "South Island"
 		},
 		"NZ-STL": {
 			"code": "STL",
