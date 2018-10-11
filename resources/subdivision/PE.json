@@ -1,0 +1,83 @@
+{
+	"country_code": "PE",
+	"subdivisions": {
+		"Amazonas": {
+			"iso_code": "PE-AMA"
+		},
+		"Áncash": {
+			"iso_code": "PE-ANC"
+		},
+		"Apurímac": {
+			"iso_code": "PE-APU"
+		},
+		"Arequipa": {
+			"iso_code": "PE-ARE"
+		},
+		"Ayacucho": {
+			"iso_code": "PE-AYA"
+		},
+		"Cajamarca": {
+			"iso_code": "PE-CAJ"
+		},
+		"Callao": {
+			"iso_code": "PE-CAL"
+		},
+		"Cuzco": {
+			"iso_code": "PE-CUS"
+		},
+		"Gobierno Regional de Lima": {
+			"iso_code": "PE-LIM"
+		},
+		"Huancavelica": {
+			"iso_code": "PE-HUV"
+		},
+		"Huánuco": {
+			"iso_code": "PE-HUC"
+		},
+		"Ica": {
+			"iso_code": "PE-ICA"
+		},
+		"Junín": {
+			"iso_code": "PE-JUN"
+		},
+		"La Libertad": {
+			"iso_code": "PE-LAL"
+		},
+		"Lambayeque": {
+			"iso_code": "PE-LAM"
+		},
+		"Loreto": {
+			"iso_code": "PE-LOR"
+		},
+		"Madre de Dios": {
+			"iso_code": "PE-MDD"
+		},
+		"Moquegua": {
+			"iso_code": "PE-MOQ"
+		},
+		"Municipalidad Metropolitana de Lima": {
+			"iso_code": "PE-LMA"
+		},
+		"Pasco": {
+			"iso_code": "PE-PAS"
+		},
+		"Piura": {
+			"iso_code": "PE-PIU"
+		},
+		"Puno": {
+			"iso_code": "PE-PUN"
+		},
+		"San Martín": {
+			"iso_code": "PE-SAM"
+		},
+		"Tacna": {
+			"iso_code": "PE-TAC"
+		},
+		"Tumbes": {
+			"iso_code": "PE-TUM"
+		},
+		"Ucayali": {
+			"iso_code": "PE-UCA"
+		}
+	}
+}

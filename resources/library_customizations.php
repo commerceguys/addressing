@@ -241,19 +241,5 @@ function get_subdivision_customizations($group) {
         ],
     ];
 
-    // 'Estado de México' => 'México'.
-    // https://github.com/googlei18n/libaddressinput/issues/49
-    $subdivisionCustomizations['MX'] = [
-        '_remove' => ['MEX'],
-        '_add_after' => [
-            'MEX' => 'MIC',
-        ],
-        'MEX' => [
-            'name' => 'México',
-            'iso_code' => 'MX-MEX',
-            'postal_code_pattern' => '5[0-7]',
-        ],
-    ];
-
     return isset($subdivisionCustomizations[$group]) ? $subdivisionCustomizations[$group] : [];
 }

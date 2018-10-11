@@ -1,0 +1,53 @@
+{
+	"country_code": "CU",
+	"subdivisions": {
+		"Artemisa": {
+			"iso_code": "CU-15"
+		},
+		"Camagüey": {
+			"iso_code": "CU-09"
+		},
+		"Ciego de Ávila": {
+			"iso_code": "CU-08"
+		},
+		"Cienfuegos": {
+			"iso_code": "CU-06"
+		},
+		"Granma": {
+			"iso_code": "CU-12"
+		},
+		"Guantánamo": {
+			"iso_code": "CU-14"
+		},
+		"Holguín": {
+			"iso_code": "CU-11"
+		},
+		"Isla de la Juventud": {
+			"iso_code": "CU-99"
+		},
+		"La Habana": {
+			"iso_code": "CU-03"
+		},
+		"Las Tunas": {
+			"iso_code": "CU-10"
+		},
+		"Matanzas": {
+			"iso_code": "CU-04"
+		},
+		"Mayabeque": {
+			"iso_code": "CU-16"
+		},
+		"Pinar del Río": {
+			"iso_code": "CU-01"
+		},
+		"Sancti Spíritus": {
+			"iso_code": "CU-07"
+		},
+		"Santiago de Cuba": {
+			"iso_code": "CU-13"
+		},
+		"Villa Clara": {
+			"iso_code": "CU-05"
+		}
+	}
+}

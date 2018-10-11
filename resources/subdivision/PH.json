@@ -117,13 +117,17 @@
 			"iso_code": "PH-DAS",
 			"postal_code_pattern": "80[01]"
 		},
-		"Davao Occidental": [],
+		"Davao Occidental": {
+			"iso_code": "PH-DVO",
+			"postal_code_pattern": "801[1-5]"
+		},
 		"Davao Oriental": {
 			"iso_code": "PH-DAO",
 			"postal_code_pattern": "82[01]"
 		},
 		"Dinagat Islands": {
-			"iso_code": "PH-DIN"
+			"iso_code": "PH-DIN",
+			"postal_code_pattern": "84[12]"
 		},
 		"Eastern Samar": {
 			"iso_code": "PH-EAS",
@@ -281,7 +285,8 @@
 			"postal_code_pattern": "95[01]"
 		},
 		"Southern Leyte": {
-			"iso_code": "PH-SLE"
+			"iso_code": "PH-SLE",
+			"postal_code_pattern": "66[10]"
 		},
 		"Sultan Kudarat": {
 			"iso_code": "PH-SUK",
@@ -293,7 +298,7 @@
 		},
 		"Surigao del Norte": {
 			"iso_code": "PH-SUN",
-			"postal_code_pattern": "84[02]"
+			"postal_code_pattern": "84[0-2]"
 		},
 		"Surigao del Sur": {
 			"iso_code": "PH-SUR",
