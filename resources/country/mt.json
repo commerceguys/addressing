@@ -9,7 +9,6 @@
 	"CY": "Ċipru",
 	"CV": "Cape Verde",
 	"EA": "Ceuta u Melilla",
-	"CN": "China",
 	"KM": "Comoros",
 	"CW": "Curaçao",
 	"DG": "Diego Garcia",
@@ -31,6 +30,7 @@
 	"BV": "Gżira Bouvet",
 	"NF": "Gżira Norfolk",
 	"CL": "iċ-Ċili",
+	"CN": "iċ-Ċina",
 	"TD": "iċ-Chad",
 	"DK": "id-Danimarka",
 	"BS": "il-Bahamas",
@@ -95,6 +95,7 @@
 	"CG": "il-Kongo - Brazzaville",
 	"KR": "il-Korea t’Isfel",
 	"KP": "il-Korea ta’ Fuq",
+	"XK": "il-Kosovo",
 	"CI": "il-Kosta tal-Avorju",
 	"HR": "il-Kroazja",
 	"KW": "il-Kuwajt",
@@ -177,7 +178,6 @@
 	"IL": "Iżrael",
 	"JE": "Jersey",
 	"KI": "Kiribati",
-	"XK": "Kosovo",
 	"CU": "Kuba",
 	"AF": "l-Afganistan",
 	"ZA": "l-Afrika t’Isfel",
@@ -208,6 +208,7 @@
 	"IT": "l-Italja",
 	"IS": "l-iżlanda",
 	"SE": "l-Iżvezja",
+	"CH": "l-Iżvizzera",
 	"OM": "l-Oman",
 	"UG": "l-Uganda",
 	"UA": "l-Ukrajna",
@@ -253,6 +254,5 @@
 	"TA": "Tristan da Cunha",
 	"TV": "Tuvalu",
 	"VU": "Vanuatu",
-	"WF": "Wallis u Futuna",
-	"CH": "Żvizzera"
+	"WF": "Wallis u Futuna"
 }

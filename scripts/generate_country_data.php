@@ -135,6 +135,7 @@ function generate_base_data(array $englishData, array $codeMappings, array $curr
     $ignoredCountries = [
         'AN', // Netherlands Antilles, no longer exists.
         'EU', 'QO', // European Union, Outlying Oceania. Not countries.
+        'XA', 'XB',
         'ZZ', // Unknown region
     ];
 
