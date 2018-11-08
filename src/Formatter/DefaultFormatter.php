@@ -150,7 +150,7 @@ class DefaultFormatter implements FormatterInterface
             'html' => $options['html'],
             'html_tag' => 'span',
             'html_attributes' => ['class' => 'country'],
-            'value' => $countries[$address->getCountryCode()],
+            'value' => isset($countries[$address->getCountryCode()]) ? $countries[$address->getCountryCode()] : $address->getCountryCode(),
         ];
         foreach ($addressFormat->getUsedFields() as $field) {
             // The constant is more suitable as a class than the value since
