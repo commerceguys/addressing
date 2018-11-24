@@ -1,0 +1,174 @@
+{
+	"country_code": "RO",
+	"locale": "ro",
+	"subdivisions": {
+		"AB": {
+			"name": "Alba",
+			"iso_code": "RO-AB",
+		},
+		"AR": {
+			"name": "Arad",
+			"iso_code": "RO-AR",
+		},
+		"AG": {
+			"name": "Argeş",
+			"iso_code": "RO-AG",
+		},
+		"BC": {
+			"name": "Bacău",
+			"iso_code": "RO-BC",
+		},
+		"BH": {
+			"name": "Bihor",
+			"iso_code": "RO-BH",
+		},
+		"BN": {
+			"name": "Bistriţa-Năsăud",
+			"iso_code": "RO-BN",
+		},
+		"BT": {
+			"name": "Botoşani",
+			"iso_code": "RO-BT",
+		},
+		"BR": {
+			"name": "Brăila",
+			"iso_code": "RO-BR",
+		},
+		"BV": {
+			"name": "Braşov",
+			"iso_code": "RO-BV",
+		},
+		"B": {
+			"name": "Bucureşti",
+			"iso_code": "RO-B",
+		},
+		"BZ": {
+			"name": "Buzău",
+			"iso_code": "RO-BZ",
+		},
+		"CS": {
+			"name": "Caraş-Severin",
+			"iso_code": "RO-CS",
+		},
+		"CL": {
+			"name": "Călărași",
+			"iso_code": "RO-CL",
+		},
+		"CJ": {
+			"name": "Cluj",
+			"iso_code": "RO-CJ",
+		},
+		"CT": {
+			"name": "Constanţa",
+			"iso_code": "RO-CT",
+		},
+		"CV": {
+			"name": "Covasna",
+			"iso_code": "RO-CV",
+		},
+		"DB": {
+			"name": "Dâmboviţa",
+			"iso_code": "RO-DB",
+		},
+		"DJ": {
+			"name": "Dolj",
+			"iso_code": "RO-DJ",
+		},
+		"GL": {
+			"name": "Galaţi",
+			"iso_code": "RO-GL",
+		},
+		"GR": {
+			"name": "Giurgiu",
+			"iso_code": "RO-GR",
+		},
+		"GJ": {
+			"name": "Gorj",
+			"iso_code": "RO-GJ",
+		},
+		"HR": {
+			"name": "Harghita",
+			"iso_code": "RO-HR",
+		},
+		"HD": {
+			"name": "Hunedoara",
+			"iso_code": "RO-HD",
+		},
+		"IL": {
+			"name": "Ialomiţa",
+			"iso_code": "RO-IL",
+		},
+		"IS": {
+			"name": "Iași",
+			"iso_code": "RO-IS",
+		},
+		"IF": {
+			"name": "Ilfov",
+			"iso_code": "RO-IF",
+		},
+		"MM": {
+			"name": "Maramureş",
+			"iso_code": "RO-MM",
+		},
+		"MH": {
+			"name": "Mehedinţi",
+			"iso_code": "RO-MH",
+		},
+		"MS": {
+			"name": "Mureş",
+			"iso_code": "RO-MS",
+		},
+		"NT": {
+			"name": "Neamţ",
+			"iso_code": "RO-NT",
+		},
+		"OT": {
+			"name": "Olt",
+			"iso_code": "RO-OT",
+		},
+		"PH": {
+			"name": "Prahova",
+			"iso_code": "RO-PH",
+		},
+		"SJ": {
+			"name": "Sălaj",
+			"iso_code": "RO-SJ",
+		},
+		"SM": {
+			"name": "Satu Mare",
+			"iso_code": "RO-SM",
+		},
+		"SB": {
+			"name": "Sibiu",
+			"iso_code": "RO-SB",
+		},
+		"SV": {
+			"name": "Suceava",
+			"iso_code": "RO-SV",
+		},
+		"TR": {
+			"name": "Teleorman",
+			"iso_code": "RO-TR",
+		},
+		"TM": {
+			"name": "Timiş",
+			"iso_code": "RO-TM",
+		},
+		"TL": {
+			"name": "Tulcea",
+			"iso_code": "RO-TL",
+		},
+		"VL": {
+			"name": "Vâlcea",
+			"iso_code": "RO-VL",
+		},
+		"VS": {
+			"name": "Vaslui",
+			"iso_code": "RO-VS",
+		},
+		"VN": {
+			"name": "Vrancea",
+			"iso_code": "RO-VN",
+		},
+	}
+}
