@@ -1205,9 +1205,9 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'postal_code_pattern' => '\d{5,6}',
             ],
             'RU' => [
-                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%locality\n%administrativeArea\n%postalCode",
+                'format' => "%familyName %givenName %additionalName\n%organization\n%addressLine1 %addressLine2\n%locality\n%administrativeArea\n%postalCode",
                 'required_fields' => [
-                    'addressLine1', 'locality', 'administrativeArea', 'postalCode',
+                    'familyName', 'givenName', 'additionalName', 'addressLine1', 'locality', 'administrativeArea', 'postalCode',
                 ],
                 'uppercase_fields' => [
                     'addressLine1', 'addressLine2', 'locality',
