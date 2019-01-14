@@ -1,6 +1,6 @@
 {
 	"locale": "en",
-	"format": "%organization\n%recipient\n%addressLine1\n%addressLine2\n%locality %administrativeArea %postalCode",
+	"format": "%organization\n%recipient\n%addressLine1\n%addressLine2\n%locality, %administrativeArea %postalCode",
 	"required_fields": [
 		"recipient",
 		"addressLine1",
