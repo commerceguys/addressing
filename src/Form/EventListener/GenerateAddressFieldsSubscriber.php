@@ -166,6 +166,7 @@ class GenerateAddressFieldsSubscriber implements EventSubscriberInterface
             AdministrativeAreaType::PREFECTURE => 'Prefecture',
             AdministrativeAreaType::PROVINCE => 'Province',
             AdministrativeAreaType::STATE => 'State',
+            AdministrativeAreaType::REGION => 'Region',
             LocalityType::CITY => 'City',
             LocalityType::DISTRICT => 'District',
             LocalityType::POST_TOWN => 'Post Town',

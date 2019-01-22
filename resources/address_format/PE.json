@@ -9,7 +9,7 @@
 	"uppercase_fields": [
 		"locality"
 	],
-	"administrative_area_type": "province",
+	"administrative_area_type": "region",
 	"locality_type": "city",
 	"postal_code_type": "postal",
 	"postal_code_pattern": "(?:LIMA \\d{1,2}|CALLAO 0?\\d)|[0-2]\\d{4}"
