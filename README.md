@@ -22,7 +22,10 @@ Countries are generated from [CLDR](http://cldr.unicode.org) v34. Address format
 Further backstory can be found in [this blog post](https://drupalcommerce.org/blog/16864/commerce-2x-stories-addressing).
 
 Also check out [commerceguys/intl](https://github.com/commerceguys/intl) for CLDR-powered languages/currencies/number formatting.
-
+# Installation
+```bash
+$ composer require commerceguys/addressing
+```
 # Data model
 
 The [address interface](https://github.com/commerceguys/addressing/blob/master/src/AddressInterface.php) represents a postal adddress, with getters for the following fields:
