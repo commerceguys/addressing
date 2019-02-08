@@ -17,7 +17,7 @@
 			"iso_code": "NI-CO",
 			"postal_code_pattern": "5[56]"
 		},
-		"Esteli": {
+		"Estelí": {
 			"iso_code": "NI-ES",
 			"postal_code_pattern": "3[12]"
 		},
@@ -29,7 +29,7 @@
 			"iso_code": "NI-JI",
 			"postal_code_pattern": "6[56]"
 		},
-		"Leon": {
+		"León": {
 			"iso_code": "NI-LE",
 			"postal_code_pattern": "2[12]"
 		},
@@ -53,15 +53,15 @@
 			"iso_code": "NI-NS",
 			"postal_code_pattern": "3[7-9]"
 		},
-		"Raan": {
+		"Región Autónoma de la Costa Caribe Norte": {
 			"iso_code": "NI-AN",
 			"postal_code_pattern": "7[12]"
 		},
-		"Raas": {
+		"Región Autónoma de la Costa Caribe Sur": {
 			"iso_code": "NI-AS",
 			"postal_code_pattern": "8[1-3]"
 		},
-		"Rio San Juan": {
+		"Río San Juan": {
 			"iso_code": "NI-SJ",
 			"postal_code_pattern": "9[12]"
 		},
