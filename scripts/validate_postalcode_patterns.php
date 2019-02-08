@@ -46,7 +46,7 @@ foreach ($foundCountries as $countryCode) {
     continue;
   }
 
-  $definition = file_get_contents('raw/' . $countryCode . '.json');
+  $definition = file_get_contents('assets/google/' . $countryCode . '.json');
   $definition = json_decode($definition, TRUE);
   // If country definition has zip examples, check if they pass validation.
   if (isset($definition['zipex'])) {
