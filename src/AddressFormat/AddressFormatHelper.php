@@ -24,6 +24,7 @@ final class AddressFormatHelper
      *                 [organization],
      *                 [addressLine1],
      *                 [addressLine2],
+     *                 [addressLine3],
      *                 [locality, administrativeArea, postalCode]
      *               ]
      */

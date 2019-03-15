@@ -14,7 +14,7 @@ class AddressTest extends \PHPUnit_Framework_TestCase
      */
     public function testConstructor()
     {
-        $address = new Address('US', 'CA', 'Mountain View', 'MV', '94043', '94044', '1600 Amphitheatre Parkway', 'Google Bldg 41', 'Google Inc.', 'John', '', 'Smith', 'en');
+        $address = new Address('US', 'CA', 'Mountain View', 'MV', '94043', '94044', '1600 Amphitheatre Parkway', 'Google Bldg 41', 'Office 35', 'Google Inc.', 'John', '', 'Smith', 'en');
         $this->assertEquals('US', $address->getCountryCode());
         $this->assertEquals('CA', $address->getAdministrativeArea());
         $this->assertEquals('Mountain View', $address->getLocality());
@@ -23,6 +23,7 @@ class AddressTest extends \PHPUnit_Framework_TestCase
         $this->assertEquals('94044', $address->getSortingCode());
         $this->assertEquals('1600 Amphitheatre Parkway', $address->getAddressLine1());
         $this->assertEquals('Google Bldg 41', $address->getAddressLine2());
+        $this->assertEquals('Office 35', $address->getAddressLine3());
         $this->assertEquals('Google Inc.', $address->getOrganization());
         $this->assertEquals('John', $address->getGivenName());
         $this->assertEquals('Smith', $address->getFamilyName());

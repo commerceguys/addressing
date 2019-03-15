@@ -81,6 +81,15 @@ interface ImmutableAddressInterface extends AddressInterface
     public function withAddressLine2($addressLine2);
 
     /**
+     * Returns an instance with the specified third line of address block.
+     *
+     * @param string $addressLine3 The third line of the address block.
+     *
+     * @return self A clone of $this.
+     */
+    public function withAddressLine3($addressLine3);
+
+    /**
      * Returns an instance with the specified organization.
      *
      * @param string $organization The organization.

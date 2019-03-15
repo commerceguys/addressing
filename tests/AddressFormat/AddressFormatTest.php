@@ -66,7 +66,7 @@ class AddressFormatTest extends \PHPUnit_Framework_TestCase
         $definition = [
             'country_code' => 'US',
             'locale' => 'en',
-            'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%locality, %administrativeArea %postalCode",
+            'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%locality, %administrativeArea %postalCode",
             // The local format is made up, US doesn't have one usually.
             'local_format' => '%postalCode\n%addressLine1\n%organization\n%givenName %familyName',
             'required_fields' => [
@@ -111,6 +111,7 @@ class AddressFormatTest extends \PHPUnit_Framework_TestCase
             AddressField::POSTAL_CODE,
             AddressField::ADDRESS_LINE1,
             AddressField::ADDRESS_LINE2,
+            AddressField::ADDRESS_LINE3,
             AddressField::ORGANIZATION,
             AddressField::GIVEN_NAME,
             AddressField::FAMILY_NAME,

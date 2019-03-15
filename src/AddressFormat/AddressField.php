@@ -19,6 +19,7 @@ final class AddressField extends AbstractEnum
     const SORTING_CODE = 'sortingCode';
     const ADDRESS_LINE1 = 'addressLine1';
     const ADDRESS_LINE2 = 'addressLine2';
+    const ADDRESS_LINE3 = 'addressLine3';
     const ORGANIZATION = 'organization';
     const GIVEN_NAME = 'givenName';
     const ADDITIONAL_NAME = 'additionalName';

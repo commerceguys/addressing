@@ -210,6 +210,7 @@ class AddressFormat
      * %organization
      * %addressLine1
      * %addressLine2
+     * %addressLine3
      * %locality %administrativeArea %postalCode
      * </code>
      *
