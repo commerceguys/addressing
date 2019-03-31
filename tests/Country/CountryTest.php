@@ -14,7 +14,7 @@ class CountryTest extends \PHPUnit_Framework_TestCase
      */
     public function testMissingProperty()
     {
-        $this->setExpectedException('\InvalidArgumentException', 'Missing required property "country_code".');
+        $this->setExpectedException(\InvalidArgumentException::class, 'Missing required property "country_code".');
         $country = new Country([]);
     }
 

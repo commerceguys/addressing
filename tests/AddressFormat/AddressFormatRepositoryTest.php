@@ -2,6 +2,7 @@
 
 namespace CommerceGuys\Addressing\Tests\AddressFormat;
 
+use CommerceGuys\Addressing\AddressFormat\AddressFormat;
 use CommerceGuys\Addressing\AddressFormat\AddressFormatRepository;
 use CommerceGuys\Addressing\AddressFormat\AdministrativeAreaType;
 use CommerceGuys\Addressing\AddressFormat\LocalityType;
@@ -24,7 +25,7 @@ class AddressFormatRepositoryTest extends \PHPUnit_Framework_TestCase
         $addressFormat = $addressFormatRepository->get('ES');
         // Confirm that the right class has been returned, a known value has
         // been successfully populated, and defaults have been merged.
-        $this->assertInstanceOf('CommerceGuys\Addressing\AddressFormat\AddressFormat', $addressFormat);
+        $this->assertInstanceOf(AddressFormat::class, $addressFormat);
         $this->assertEquals('ES', $addressFormat->getCountryCode());
         $this->assertEquals(AdministrativeAreaType::PROVINCE, $addressFormat->getAdministrativeAreaType());
         $this->assertEquals(LocalityType::CITY, $addressFormat->getLocalityType());
