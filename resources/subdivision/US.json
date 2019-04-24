@@ -157,7 +157,7 @@
 		"MO": {
 			"name": "Missouri",
 			"iso_code": "US-MO",
-			"postal_code_pattern": "6[3-5]"
+			"postal_code_pattern": "6[3-6]"
 		},
 		"MT": {
 			"name": "Montana",
