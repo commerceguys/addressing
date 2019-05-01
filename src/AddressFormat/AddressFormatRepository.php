@@ -1529,6 +1529,10 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%postalCode %locality",
                 'postal_code_pattern' => '\d{5}',
             ],
+            'ZW' => [
+                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%locality, %administrativeArea",
+                'subdivision_depth' => 1,
+            ],
         ];
         // @codingStandardsIgnoreEnd
 
