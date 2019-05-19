@@ -106,6 +106,13 @@ class AddressFormat
     protected $postalCodePrefix;
 
     /**
+     * An example postal code which follows the postal code pattern.
+     *
+     * @var string
+     */
+    protected $postalCodeExample;
+
+    /**
      * The subdivision depth.
      *
      * @var int
@@ -370,6 +377,21 @@ class AddressFormat
     public function getPostalCodePrefix()
     {
         return $this->postalCodePrefix;
+    }
+
+    /**
+     * Gets the postal code example.
+     *
+     * This is an example postal code used to provide additional context to the
+     * end-user. It can be displayed as a placeholder, field description or as
+     * part of the validation.
+     * (E.g. Zip code 12345 is not valid for Louisana (Example: 70001).
+     *
+     * @return string|null A valid postal code example.
+     */
+    public function getPostalCodeExample()
+    {
+        return $this->postalCodeExample;
     }
 
     /**
