@@ -121,6 +121,7 @@ class Subdivision
             'iso_code' => [],
             'postal_code_pattern' => null,
             'postal_code_pattern_type' => PatternType::getDefault(),
+            'postal_code_example' => null,
             'children' => new ArrayCollection(),
         ];
 
@@ -134,6 +135,7 @@ class Subdivision
         $this->isoCode = $definition['iso_code'];
         $this->postalCodePattern = $definition['postal_code_pattern'];
         $this->postalCodePatternType = $definition['postal_code_pattern_type'];
+        $this->postalCodeExample = $definition['postal_code_example'];
         $this->children = $definition['children'];
     }
 
