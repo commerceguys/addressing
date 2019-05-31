@@ -140,6 +140,7 @@ class AddressFormat
             'uppercase_fields' => [],
             'postal_code_pattern' => null,
             'postal_code_prefix' => null,
+            'postal_code_example' => null,
             'subdivision_depth' => 0,
         ];
         AddressField::assertAllExist($definition['required_fields']);
@@ -178,6 +179,7 @@ class AddressFormat
             }
             $this->postalCodePattern = $definition['postal_code_pattern'];
             $this->postalCodePrefix = $definition['postal_code_prefix'];
+            $this->postalCodeExample = $definition['postal_code_example'];
         }
     }
 
