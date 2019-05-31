@@ -1000,6 +1000,10 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'postal_code_pattern' => '\d{4}',
                 'subdivision_depth' => 1,
             ],
+            'NA' => [
+                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%localityn%postalCode",
+                'postal_code_pattern' => '\d{5}',
+            ],
             'NC' => [
                 'format' => "%organization\n%givenName %familyName\n%addressLine1\n%addressLine2\n%postalCode %locality %sortingCode",
                 'required_fields' => [
@@ -1195,6 +1199,9 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
             ],
             'RO' => [
                 'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%postalCode %locality",
+                'required_fields' => [
+                    'addressLine1', 'locality', 'postalCode',
+                ],
                 'uppercase_fields' => [
                     'addressLine1', 'addressLine2', 'locality',
                 ],
