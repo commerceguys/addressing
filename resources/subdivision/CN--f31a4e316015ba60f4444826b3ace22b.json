@@ -8,28 +8,36 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Danjiangkou Shi": {
-			"local_code": "丹江口市"
+			"local_code": "丹江口市",
+			"postal_code_example": "442700"
 		},
 		"Fang Xian": {
-			"local_code": "房县"
+			"local_code": "房县",
+			"postal_code_example": "442100"
 		},
 		"Maojian Qu": {
-			"local_code": "茅箭区"
+			"local_code": "茅箭区",
+			"postal_code_example": "442012"
 		},
 		"Yunxi Xian": {
-			"local_code": "郧西县"
+			"local_code": "郧西县",
+			"postal_code_example": "442600"
 		},
 		"Yun Xian": {
-			"local_code": "郧县"
+			"local_code": "郧县",
+			"postal_code_example": "442500"
 		},
 		"Zhangwan Qu": {
-			"local_code": "张湾区"
+			"local_code": "张湾区",
+			"postal_code_example": "442001"
 		},
 		"Zhushan Xian": {
-			"local_code": "竹山县"
+			"local_code": "竹山县",
+			"postal_code_example": "442200"
 		},
 		"Zhuxi Xian": {
-			"local_code": "竹溪县"
+			"local_code": "竹溪县",
+			"postal_code_example": "442300"
 		}
 	}
 }

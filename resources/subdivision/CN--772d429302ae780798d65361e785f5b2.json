@@ -8,44 +8,57 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Chenbei Xinqu": {
-			"local_code": "沈北新区"
+			"local_code": "沈北新区",
+			"postal_code_example": "110121"
 		},
 		"Shenhe Qu": {
-			"local_code": "沈河区"
+			"local_code": "沈河区",
+			"postal_code_example": "110011"
 		},
 		"Dadong Qu": {
-			"local_code": "大东区"
+			"local_code": "大东区",
+			"postal_code_example": "110041"
 		},
 		"Faku Xian": {
-			"local_code": "法库县"
+			"local_code": "法库县",
+			"postal_code_example": "110400"
 		},
 		"Heping Qu": {
-			"local_code": "和平区"
+			"local_code": "和平区",
+			"postal_code_example": "110001"
 		},
 		"Huanggu Qu": {
-			"local_code": "皇姑区"
+			"local_code": "皇姑区",
+			"postal_code_example": "110031"
 		},
 		"Hunnan Qu": {
 			"local_code": "东陵区",
-			"local_name": "浑南区"
+			"local_name": "浑南区",
+			"postal_code_example": "110015"
 		},
 		"Kangping Xian": {
-			"local_code": "康平县"
+			"local_code": "康平县",
+			"postal_code_example": "110400"
 		},
 		"Liaozhong Xian": {
-			"local_code": "辽中县"
+			"local_code": "辽中县",
+			"postal_code_example": "110200"
 		},
 		"Sujiatun Qu": {
-			"local_code": "苏家屯区"
+			"local_code": "苏家屯区",
+			"postal_code_example": "110101"
 		},
 		"Tiexi Qu": {
-			"local_code": "铁西区"
+			"local_code": "铁西区",
+			"postal_code_example": "110021"
 		},
 		"Xinmin Shi": {
-			"local_code": "新民市"
+			"local_code": "新民市",
+			"postal_code_example": "110300"
 		},
 		"Yuhong Qu": {
-			"local_code": "于洪区"
+			"local_code": "于洪区",
+			"postal_code_example": "110024"
 		}
 	}
 }

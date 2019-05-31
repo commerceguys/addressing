@@ -8,22 +8,28 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Dantu Qu": {
-			"local_code": "丹徒区"
+			"local_code": "丹徒区",
+			"postal_code_example": "212001"
 		},
 		"Danyang Shi": {
-			"local_code": "丹阳市"
+			"local_code": "丹阳市",
+			"postal_code_example": "212300"
 		},
 		"Jingkou Qu": {
-			"local_code": "京口区"
+			"local_code": "京口区",
+			"postal_code_example": "226001"
 		},
 		"Jurong Shi": {
-			"local_code": "句容市"
+			"local_code": "句容市",
+			"postal_code_example": "212400"
 		},
 		"Runzhou Qu": {
-			"local_code": "润州区"
+			"local_code": "润州区",
+			"postal_code_example": "212004"
 		},
 		"Yangzhong Shi": {
-			"local_code": "扬中市"
+			"local_code": "扬中市",
+			"postal_code_example": "212200"
 		}
 	}
 }

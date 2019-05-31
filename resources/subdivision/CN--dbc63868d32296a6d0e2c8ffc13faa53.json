@@ -8,26 +8,33 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Changji Shi": {
-			"local_code": "昌吉市"
+			"local_code": "昌吉市",
+			"postal_code_example": "831100"
 		},
 		"Fukang Shi": {
-			"local_code": "阜康市"
+			"local_code": "阜康市",
+			"postal_code_example": "831500"
 		},
 		"Hutubi Xian": {
-			"local_code": "呼图壁县"
+			"local_code": "呼图壁县",
+			"postal_code_example": "831200"
 		},
 		"Jimsar Xian": {
-			"local_code": "吉木萨尔县"
+			"local_code": "吉木萨尔县",
+			"postal_code_example": "831700"
 		},
 		"Manas Xian": {
-			"local_code": "玛纳斯县"
+			"local_code": "玛纳斯县",
+			"postal_code_example": "832200"
 		},
 		"Mori Xian": {
 			"local_code": "木垒哈萨克自治县",
-			"local_name": "木垒县"
+			"local_name": "木垒县",
+			"postal_code_example": "831900"
 		},
 		"Qitai Xian": {
-			"local_code": "奇台县"
+			"local_code": "奇台县",
+			"postal_code_example": "831800"
 		}
 	}
 }

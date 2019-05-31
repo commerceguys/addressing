@@ -8,19 +8,24 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Da'an Shi": {
-			"local_code": "大安市"
+			"local_code": "大安市",
+			"postal_code_example": "131300"
 		},
 		"Taobei Qu": {
-			"local_code": "洮北区"
+			"local_code": "洮北区",
+			"postal_code_example": "137000"
 		},
 		"Taonan Shi": {
-			"local_code": "洮南市"
+			"local_code": "洮南市",
+			"postal_code_example": "137100"
 		},
 		"Tongyu Xian": {
-			"local_code": "通榆县"
+			"local_code": "通榆县",
+			"postal_code_example": "137200"
 		},
 		"Zhenlai Xian": {
-			"local_code": "镇赉县"
+			"local_code": "镇赉县",
+			"postal_code_example": "137300"
 		}
 	}
 }

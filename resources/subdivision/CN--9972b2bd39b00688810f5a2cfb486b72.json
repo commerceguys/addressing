@@ -8,19 +8,24 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Changning Xian": {
-			"local_code": "昌宁县"
+			"local_code": "昌宁县",
+			"postal_code_example": "678100"
 		},
 		"Longling Xian": {
-			"local_code": "龙陵县"
+			"local_code": "龙陵县",
+			"postal_code_example": "678300"
 		},
 		"Longyang Qu": {
-			"local_code": "隆阳区"
+			"local_code": "隆阳区",
+			"postal_code_example": "678000"
 		},
 		"Shidian Xian": {
-			"local_code": "施甸县"
+			"local_code": "施甸县",
+			"postal_code_example": "678200"
 		},
 		"Tengchong Xian": {
-			"local_code": "腾冲县"
+			"local_code": "腾冲县",
+			"postal_code_example": "679100"
 		}
 	}
 }

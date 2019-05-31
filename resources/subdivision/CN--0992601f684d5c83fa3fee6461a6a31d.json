@@ -8,19 +8,24 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Hanshan Xian": {
-			"local_code": "含山县"
+			"local_code": "含山县",
+			"postal_code_example": "238100"
 		},
 		"He Xian": {
-			"local_code": "和县"
+			"local_code": "和县",
+			"postal_code_example": "238200"
 		},
 		"Juchao Qu": {
-			"local_code": "居巢区"
+			"local_code": "居巢区",
+			"postal_code_example": "238000"
 		},
 		"Lujiang Xian": {
-			"local_code": "庐江县"
+			"local_code": "庐江县",
+			"postal_code_example": "231500"
 		},
 		"Wuwei Xian": {
-			"local_code": "无为县"
+			"local_code": "无为县",
+			"postal_code_example": "238300"
 		}
 	}
 }

@@ -8,16 +8,20 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Baijiantan Qu": {
-			"local_code": "白碱滩区"
+			"local_code": "白碱滩区",
+			"postal_code_example": "834009"
 		},
 		"Dushanzi Qu": {
-			"local_code": "独山子区"
+			"local_code": "独山子区",
+			"postal_code_example": "838600"
 		},
 		"Karamay Qu": {
-			"local_code": "克拉玛依区"
+			"local_code": "克拉玛依区",
+			"postal_code_example": "834018"
 		},
 		"Orku Qu": {
-			"local_code": "乌尔禾区"
+			"local_code": "乌尔禾区",
+			"postal_code_example": "834014"
 		}
 	}
 }

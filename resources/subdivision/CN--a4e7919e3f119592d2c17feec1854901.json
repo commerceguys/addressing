@@ -8,25 +8,32 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Bengshan Qu": {
-			"local_code": "蚌山区"
+			"local_code": "蚌山区",
+			"postal_code_example": "233000"
 		},
 		"Guzhen Xian": {
-			"local_code": "固镇县"
+			"local_code": "固镇县",
+			"postal_code_example": "233700"
 		},
 		"Huaiyuan Xian": {
-			"local_code": "怀远县"
+			"local_code": "怀远县",
+			"postal_code_example": "233400"
 		},
 		"Huaishang Qu": {
-			"local_code": "淮上区"
+			"local_code": "淮上区",
+			"postal_code_example": "233002"
 		},
 		"Longzihu Qu": {
-			"local_code": "龙子湖区"
+			"local_code": "龙子湖区",
+			"postal_code_example": "233000"
 		},
 		"Wuhe Xian": {
-			"local_code": "五河县"
+			"local_code": "五河县",
+			"postal_code_example": "233300"
 		},
 		"Yuhui Qu": {
-			"local_code": "禹会区"
+			"local_code": "禹会区",
+			"postal_code_example": "233010"
 		}
 	}
 }

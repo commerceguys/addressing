@@ -8,13 +8,16 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Dawukou Qu": {
-			"local_code": "大武口区"
+			"local_code": "大武口区",
+			"postal_code_example": "753000"
 		},
 		"Huinong Qu": {
-			"local_code": "惠农区"
+			"local_code": "惠农区",
+			"postal_code_example": "753200"
 		},
 		"Pingluo Xian": {
-			"local_code": "平罗县"
+			"local_code": "平罗县",
+			"postal_code_example": "753400"
 		}
 	}
 }

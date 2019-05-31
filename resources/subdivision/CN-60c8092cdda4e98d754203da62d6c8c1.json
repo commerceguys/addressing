@@ -7,122 +7,160 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Banan Qu": {
-			"local_code": "巴南区"
+			"local_code": "巴南区",
+			"postal_code_example": "401320"
 		},
 		"Beibei Qu": {
-			"local_code": "北碚区"
+			"local_code": "北碚区",
+			"postal_code_example": "400700"
 		},
 		"Bishan Xian": {
-			"local_code": "璧山县"
+			"local_code": "璧山县",
+			"postal_code_example": "402760"
 		},
 		"Chengkou Xian": {
-			"local_code": "城口县"
+			"local_code": "城口县",
+			"postal_code_example": "405900"
 		},
 		"Dadukou Qu": {
-			"local_code": "大渡口区"
+			"local_code": "大渡口区",
+			"postal_code_example": "400080"
 		},
 		"Dazu Qu": {
-			"local_code": "大足区"
+			"local_code": "大足区",
+			"postal_code_example": "402360"
 		},
 		"Dianjiang Xian": {
-			"local_code": "垫江县"
+			"local_code": "垫江县",
+			"postal_code_example": "408300"
 		},
 		"Fengdu Xian": {
-			"local_code": "丰都县"
+			"local_code": "丰都县",
+			"postal_code_example": "408200"
 		},
 		"Fengjie Xian": {
-			"local_code": "奉节县"
+			"local_code": "奉节县",
+			"postal_code_example": "404600"
 		},
 		"Fuling Qu": {
-			"local_code": "涪陵区"
+			"local_code": "涪陵区",
+			"postal_code_example": "408000"
 		},
 		"Hechuan Qu": {
-			"local_code": "合川区"
+			"local_code": "合川区",
+			"postal_code_example": "401520"
 		},
 		"Jiangbei Qu": {
-			"local_code": "江北区"
+			"local_code": "江北区",
+			"postal_code_example": "400020"
 		},
 		"Jiangjin Qu": {
-			"local_code": "江津区"
+			"local_code": "江津区",
+			"postal_code_example": "402260"
 		},
 		"Jiulongpo Qu": {
-			"local_code": "九龙坡区"
+			"local_code": "九龙坡区",
+			"postal_code_example": "400050"
 		},
 		"Kai Xian": {
-			"local_code": "开县"
+			"local_code": "开县",
+			"postal_code_example": "405400"
 		},
 		"Liangping Xian": {
-			"local_code": "梁平县"
+			"local_code": "梁平县",
+			"postal_code_example": "405200"
 		},
 		"Nan'an Qu": {
-			"local_code": "南岸区"
+			"local_code": "南岸区",
+			"postal_code_example": "400064"
 		},
 		"Nanchuan Qu": {
-			"local_code": "南川区"
+			"local_code": "南川区",
+			"postal_code_example": "408400"
 		},
 		"Pengshui Xian": {
 			"local_code": "彭水苗族土家族自治县",
-			"local_name": "彭水县"
+			"local_name": "彭水县",
+			"postal_code_example": "409600"
 		},
 		"Qijiang Qu": {
-			"local_code": "綦江区"
+			"local_code": "綦江区",
+			"postal_code_example": "401420"
 		},
 		"Qianjiang Qu": {
-			"local_code": "黔江区"
+			"local_code": "黔江区",
+			"postal_code_example": "409700"
 		},
 		"Rongchang Xian": {
-			"local_code": "荣昌县"
+			"local_code": "荣昌县",
+			"postal_code_example": "402460"
 		},
 		"Shapingba Qu": {
-			"local_code": "沙坪坝区"
+			"local_code": "沙坪坝区",
+			"postal_code_example": "400030"
 		},
 		"Shizhu Xian": {
 			"local_code": "石柱土家族自治县",
-			"local_name": "石柱县"
+			"local_name": "石柱县",
+			"postal_code_example": "409100"
 		},
 		"Tongliang Xian": {
-			"local_code": "铜梁县"
+			"local_code": "铜梁县",
+			"postal_code_example": "402560"
 		},
 		"Tongnan Xian": {
-			"local_code": "潼南县"
+			"local_code": "潼南县",
+			"postal_code_example": "402660"
 		},
 		"Wanzhou Qu": {
-			"local_code": "万州区"
+			"local_code": "万州区",
+			"postal_code_example": "404000"
 		},
 		"Wushan Xian": {
-			"local_code": "巫山县"
+			"local_code": "巫山县",
+			"postal_code_example": "404700"
 		},
 		"Wuxi Xian": {
-			"local_code": "巫溪县"
+			"local_code": "巫溪县",
+			"postal_code_example": "405800"
 		},
 		"Wulong Xian": {
-			"local_code": "武隆县"
+			"local_code": "武隆县",
+			"postal_code_example": "408500"
 		},
 		"Xiushan Xian": {
 			"local_code": "秀山土家族苗族自治县",
-			"local_name": "秀山县"
+			"local_name": "秀山县",
+			"postal_code_example": "409900"
 		},
 		"Yongchuan Qu": {
-			"local_code": "永川区"
+			"local_code": "永川区",
+			"postal_code_example": "402160"
 		},
 		"Youyang Xian": {
 			"local_code": "酉阳土家族苗族自治县",
-			"local_name": "酉阳县"
+			"local_name": "酉阳县",
+			"postal_code_example": "409800"
 		},
 		"Yubei Qu": {
-			"local_code": "渝北区"
+			"local_code": "渝北区",
+			"postal_code_example": "401120"
 		},
 		"Yuzhong Qu": {
-			"local_code": "渝中区"
+			"local_code": "渝中区",
+			"postal_code_example": "400010"
 		},
 		"Yunyang Xian": {
-			"local_code": "云阳县"
+			"local_code": "云阳县",
+			"postal_code_example": "445000"
 		},
 		"Changshou Qu": {
-			"local_code": "长寿区"
+			"local_code": "长寿区",
+			"postal_code_example": "401220"
 		},
 		"Zhong Xian": {
-			"local_code": "忠县"
+			"local_code": "忠县",
+			"postal_code_example": "443000"
 		}
 	}
 }

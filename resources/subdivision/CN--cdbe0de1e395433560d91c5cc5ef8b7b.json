@@ -8,25 +8,32 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Liancheng Xian": {
-			"local_code": "连城县"
+			"local_code": "连城县",
+			"postal_code_example": "366200"
 		},
 		"Shanghang Xian": {
-			"local_code": "上杭县"
+			"local_code": "上杭县",
+			"postal_code_example": "366300"
 		},
 		"Wuping Xian": {
-			"local_code": "武平县"
+			"local_code": "武平县",
+			"postal_code_example": "364300"
 		},
 		"Xinluo Qu": {
-			"local_code": "新罗区"
+			"local_code": "新罗区",
+			"postal_code_example": "364000"
 		},
 		"Yongding Xian": {
-			"local_code": "永定县"
+			"local_code": "永定县",
+			"postal_code_example": "364100"
 		},
 		"Zhangping Shi": {
-			"local_code": "漳平市"
+			"local_code": "漳平市",
+			"postal_code_example": "364400"
 		},
 		"Changting Xian": {
-			"local_code": "长汀县"
+			"local_code": "长汀县",
+			"postal_code_example": "366300"
 		}
 	}
 }

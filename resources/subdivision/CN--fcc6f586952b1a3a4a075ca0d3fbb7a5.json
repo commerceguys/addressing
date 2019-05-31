@@ -8,31 +8,40 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Changshu Shi": {
-			"local_code": "常熟市"
+			"local_code": "常熟市",
+			"postal_code_example": "215500"
 		},
 		"Gusu Qu": {
-			"local_code": "姑苏区"
+			"local_code": "姑苏区",
+			"postal_code_example": "215000"
 		},
 		"Huqiu Qu": {
-			"local_code": "虎丘区"
+			"local_code": "虎丘区",
+			"postal_code_example": "215004"
 		},
 		"Kunshan Shi": {
-			"local_code": "昆山市"
+			"local_code": "昆山市",
+			"postal_code_example": "215300"
 		},
 		"Taicang Shi": {
-			"local_code": "太仓市"
+			"local_code": "太仓市",
+			"postal_code_example": "215400"
 		},
 		"Wujiang Qu": {
-			"local_code": "吴江区"
+			"local_code": "吴江区",
+			"postal_code_example": "215200"
 		},
 		"Wuzhong Qu": {
-			"local_code": "吴中区"
+			"local_code": "吴中区",
+			"postal_code_example": "215128"
 		},
 		"Xiangcheng Qu": {
-			"local_code": "相城区"
+			"local_code": "相城区",
+			"postal_code_example": "215131"
 		},
 		"Zhangjiagang Shi": {
-			"local_code": "张家港市"
+			"local_code": "张家港市",
+			"postal_code_example": "215600"
 		}
 	}
 }

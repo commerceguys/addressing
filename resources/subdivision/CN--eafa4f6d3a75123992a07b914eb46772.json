@@ -8,22 +8,28 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Haicang Qu": {
-			"local_code": "海沧区"
+			"local_code": "海沧区",
+			"postal_code_example": "361022"
 		},
 		"Huli Qu": {
-			"local_code": "湖里区"
+			"local_code": "湖里区",
+			"postal_code_example": "361006"
 		},
 		"Jimei Qu": {
-			"local_code": "集美区"
+			"local_code": "集美区",
+			"postal_code_example": "361021"
 		},
 		"Siming Qu": {
-			"local_code": "思明区"
+			"local_code": "思明区",
+			"postal_code_example": "361001"
 		},
 		"Tong'an Qu": {
-			"local_code": "同安区"
+			"local_code": "同安区",
+			"postal_code_example": "361100"
 		},
 		"Xiang'an Qu": {
-			"local_code": "翔安区"
+			"local_code": "翔安区",
+			"postal_code_example": "361003"
 		}
 	}
 }

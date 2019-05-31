@@ -8,37 +8,48 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Dongshan Xian": {
-			"local_code": "东山县"
+			"local_code": "东山县",
+			"postal_code_example": "363400"
 		},
 		"Hua'an Xian": {
-			"local_code": "华安县"
+			"local_code": "华安县",
+			"postal_code_example": "363800"
 		},
 		"Longhai Shi": {
-			"local_code": "龙海市"
+			"local_code": "龙海市",
+			"postal_code_example": "363100"
 		},
 		"Longwen Qu": {
-			"local_code": "龙文区"
+			"local_code": "龙文区",
+			"postal_code_example": "363005"
 		},
 		"Nanjing Xian": {
-			"local_code": "南靖县"
+			"local_code": "南靖县",
+			"postal_code_example": "363600"
 		},
 		"Pinghe Xian": {
-			"local_code": "平和县"
+			"local_code": "平和县",
+			"postal_code_example": "363700"
 		},
 		"Xiangcheng Qu": {
-			"local_code": "芗城区"
+			"local_code": "芗城区",
+			"postal_code_example": "363000"
 		},
 		"Yunxiao Xian": {
-			"local_code": "云霄县"
+			"local_code": "云霄县",
+			"postal_code_example": "363300"
 		},
 		"Zhangpu Xian": {
-			"local_code": "漳浦县"
+			"local_code": "漳浦县",
+			"postal_code_example": "363200"
 		},
 		"Changtai Xian": {
-			"local_code": "长泰县"
+			"local_code": "长泰县",
+			"postal_code_example": "363900"
 		},
 		"Zhao'an Xian": {
-			"local_code": "诏安县"
+			"local_code": "诏安县",
+			"postal_code_example": "363500"
 		}
 	}
 }

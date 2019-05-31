@@ -8,38 +8,49 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Dao Xian": {
-			"local_code": "道县"
+			"local_code": "道县",
+			"postal_code_example": "425300"
 		},
 		"Dong'an Xian": {
-			"local_code": "东安县"
+			"local_code": "东安县",
+			"postal_code_example": "425900"
 		},
 		"Jianghua Xian": {
 			"local_code": "江华瑶族自治县",
-			"local_name": "江华县"
+			"local_name": "江华县",
+			"postal_code_example": "425500"
 		},
 		"Jiangyong Xian": {
-			"local_code": "江永县"
+			"local_code": "江永县",
+			"postal_code_example": "425400"
 		},
 		"Lanshan Xian": {
-			"local_code": "蓝山县"
+			"local_code": "蓝山县",
+			"postal_code_example": "425800"
 		},
 		"Lengshuitan Qu": {
-			"local_code": "冷水滩区"
+			"local_code": "冷水滩区",
+			"postal_code_example": "425000"
 		},
 		"Lingling Qu": {
-			"local_code": "零陵区"
+			"local_code": "零陵区",
+			"postal_code_example": "425007"
 		},
 		"Ningyuan Xian": {
-			"local_code": "宁远县"
+			"local_code": "宁远县",
+			"postal_code_example": "425600"
 		},
 		"Qiyang Xian": {
-			"local_code": "祁阳县"
+			"local_code": "祁阳县",
+			"postal_code_example": "421700"
 		},
 		"Shuangpai Xian": {
-			"local_code": "双牌县"
+			"local_code": "双牌县",
+			"postal_code_example": "425200"
 		},
 		"Xintian Xian": {
-			"local_code": "新田县"
+			"local_code": "新田县",
+			"postal_code_example": "425700"
 		}
 	}
 }

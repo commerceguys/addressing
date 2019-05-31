@@ -8,22 +8,28 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Arxan Shi": {
-			"local_code": "阿尔山市"
+			"local_code": "阿尔山市",
+			"postal_code_example": "137800"
 		},
 		"Horqin Youyi Qianqi": {
-			"local_code": "科尔沁右翼前旗"
+			"local_code": "科尔沁右翼前旗",
+			"postal_code_example": "137400"
 		},
 		"Horqin Youyi Zhongqi": {
-			"local_code": "科尔沁右翼中旗"
+			"local_code": "科尔沁右翼中旗",
+			"postal_code_example": "029300"
 		},
 		"Tuquan Xian": {
-			"local_code": "突泉县"
+			"local_code": "突泉县",
+			"postal_code_example": "137500"
 		},
 		"Ulan Hot Shi": {
-			"local_code": "乌兰浩特市"
+			"local_code": "乌兰浩特市",
+			"postal_code_example": "137401"
 		},
 		"Jalaid Qi": {
-			"local_code": "扎赉特旗"
+			"local_code": "扎赉特旗",
+			"postal_code_example": "137600"
 		}
 	}
 }

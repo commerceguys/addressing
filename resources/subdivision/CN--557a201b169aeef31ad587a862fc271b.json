@@ -8,19 +8,24 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Gangbei Qu": {
-			"local_code": "港北区"
+			"local_code": "港北区",
+			"postal_code_example": "537100"
 		},
 		"Gangnan Qu": {
-			"local_code": "港南区"
+			"local_code": "港南区",
+			"postal_code_example": "537130"
 		},
 		"Guiping Shi": {
-			"local_code": "桂平市"
+			"local_code": "桂平市",
+			"postal_code_example": "537200"
 		},
 		"Pingnan Xian": {
-			"local_code": "平南县"
+			"local_code": "平南县",
+			"postal_code_example": "537300"
 		},
 		"Tantang Qu": {
-			"local_code": "覃塘区"
+			"local_code": "覃塘区",
+			"postal_code_example": "537121"
 		}
 	}
 }

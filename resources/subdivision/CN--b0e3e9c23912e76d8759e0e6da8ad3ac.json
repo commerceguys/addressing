@@ -8,19 +8,24 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Gonghe Xian": {
-			"local_code": "共和县"
+			"local_code": "共和县",
+			"postal_code_example": "813000"
 		},
 		"Guide Xian": {
-			"local_code": "贵德县"
+			"local_code": "贵德县",
+			"postal_code_example": "811700"
 		},
 		"Guinan Xian": {
-			"local_code": "贵南县"
+			"local_code": "贵南县",
+			"postal_code_example": "813100"
 		},
 		"Tongde Xian": {
-			"local_code": "同德县"
+			"local_code": "同德县",
+			"postal_code_example": "813200"
 		},
 		"Xinghai Xian": {
-			"local_code": "兴海县"
+			"local_code": "兴海县",
+			"postal_code_example": "813300"
 		}
 	}
 }

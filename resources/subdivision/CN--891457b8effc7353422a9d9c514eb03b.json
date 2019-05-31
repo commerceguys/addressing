@@ -8,19 +8,24 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Anyuan Qu": {
-			"local_code": "安源区"
+			"local_code": "安源区",
+			"postal_code_example": "337035"
 		},
 		"Lianhua Xian": {
-			"local_code": "莲花县"
+			"local_code": "莲花县",
+			"postal_code_example": "337100"
 		},
 		"Luxi Xian": {
-			"local_code": "芦溪县"
+			"local_code": "芦溪县",
+			"postal_code_example": "337253"
 		},
 		"Shangli Xian": {
-			"local_code": "上栗县"
+			"local_code": "上栗县",
+			"postal_code_example": "337300"
 		},
 		"Xiangdong Qu": {
-			"local_code": "湘东区"
+			"local_code": "湘东区",
+			"postal_code_example": "337016"
 		}
 	}
 }

@@ -8,52 +8,68 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Cengong Xian": {
-			"local_code": "岑巩县"
+			"local_code": "岑巩县",
+			"postal_code_example": "557800"
 		},
 		"Congjiang Xian": {
-			"local_code": "从江县"
+			"local_code": "从江县",
+			"postal_code_example": "557400"
 		},
 		"Danzhai Xian": {
-			"local_code": "丹寨县"
+			"local_code": "丹寨县",
+			"postal_code_example": "557500"
 		},
 		"Huangping Xian": {
-			"local_code": "黄平县"
+			"local_code": "黄平县",
+			"postal_code_example": "556100"
 		},
 		"Jianhe Xian": {
-			"local_code": "剑河县"
+			"local_code": "剑河县",
+			"postal_code_example": "556400"
 		},
 		"Jinping Xian": {
-			"local_code": "锦屏县"
+			"local_code": "锦屏县",
+			"postal_code_example": "556700"
 		},
 		"Kaili Shi": {
-			"local_code": "凯里市"
+			"local_code": "凯里市",
+			"postal_code_example": "556000"
 		},
 		"Leishan Xian": {
-			"local_code": "雷山县"
+			"local_code": "雷山县",
+			"postal_code_example": "557100"
 		},
 		"Liping Xian": {
-			"local_code": "黎平县"
+			"local_code": "黎平县",
+			"postal_code_example": "557300"
 		},
 		"Majiang Xian": {
-			"local_code": "麻江县"
+			"local_code": "麻江县",
+			"postal_code_example": "557600"
 		},
 		"Rongjiang Xian": {
-			"local_code": "榕江县"
+			"local_code": "榕江县",
+			"postal_code_example": "557200"
 		},
 		"Sansui Xian": {
-			"local_code": "三穗县"
+			"local_code": "三穗县",
+			"postal_code_example": "556500"
 		},
 		"Shibing Xian": {
-			"local_code": "施秉县"
+			"local_code": "施秉县",
+			"postal_code_example": "556200"
 		},
 		"Taijiang Xian": {
-			"local_code": "台江县"
+			"local_code": "台江县",
+			"postal_code_example": "556300"
 		},
 		"Tianzhu Xian": {
-			"local_code": "天柱县"
+			"local_code": "天柱县",
+			"postal_code_example": "556600"
 		},
 		"Zhenyuan Xian": {
-			"local_code": "镇远县"
+			"local_code": "镇远县",
+			"postal_code_example": "557700"
 		}
 	}
 }

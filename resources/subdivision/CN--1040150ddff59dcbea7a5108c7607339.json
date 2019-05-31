@@ -8,27 +8,34 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Dongzhou Qu": {
-			"local_code": "东洲区"
+			"local_code": "东洲区",
+			"postal_code_example": "113003"
 		},
 		"Fushun Xian": {
-			"local_code": "抚顺县"
+			"local_code": "抚顺县",
+			"postal_code_example": "113006"
 		},
 		"Qingyuan Xian": {
 			"local_code": "清原满族自治县",
-			"local_name": "清原县"
+			"local_name": "清原县",
+			"postal_code_example": "113300"
 		},
 		"Shuncheng Qu": {
-			"local_code": "顺城区"
+			"local_code": "顺城区",
+			"postal_code_example": "113006"
 		},
 		"Wanghua Qu": {
-			"local_code": "望花区"
+			"local_code": "望花区",
+			"postal_code_example": "113001"
 		},
 		"Xinbin Xian": {
 			"local_code": "新宾满族自治县",
-			"local_name": "新宾县"
+			"local_name": "新宾县",
+			"postal_code_example": "113200"
 		},
 		"Xinfu Qu": {
-			"local_code": "新抚区"
+			"local_code": "新抚区",
+			"postal_code_example": "113008"
 		}
 	}
 }

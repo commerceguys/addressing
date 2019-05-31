@@ -8,28 +8,36 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Chiping Xian": {
-			"local_code": "茌平县"
+			"local_code": "茌平县",
+			"postal_code_example": "252100"
 		},
 		"Dong'e Xian": {
-			"local_code": "东阿县"
+			"local_code": "东阿县",
+			"postal_code_example": "252200"
 		},
 		"Dongchangfu Qu": {
-			"local_code": "东昌府区"
+			"local_code": "东昌府区",
+			"postal_code_example": "252000"
 		},
 		"Gaotang Xian": {
-			"local_code": "高唐县"
+			"local_code": "高唐县",
+			"postal_code_example": "252800"
 		},
 		"Guan Xian": {
-			"local_code": "冠县"
+			"local_code": "冠县",
+			"postal_code_example": "252500"
 		},
 		"Linqing Shi": {
-			"local_code": "临清市"
+			"local_code": "临清市",
+			"postal_code_example": "252600"
 		},
 		"Shen Xian": {
-			"local_code": "莘县"
+			"local_code": "莘县",
+			"postal_code_example": "252400"
 		},
 		"Yanggu Xian": {
-			"local_code": "阳谷县"
+			"local_code": "阳谷县",
+			"postal_code_example": "252300"
 		}
 	}
 }

@@ -8,13 +8,16 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Chao'an Xian": {
-			"local_code": "潮安县"
+			"local_code": "潮安县",
+			"postal_code_example": "515638"
 		},
 		"Raoping Xian": {
-			"local_code": "饶平县"
+			"local_code": "饶平县",
+			"postal_code_example": "515700"
 		},
 		"Xiangqiao Qu": {
-			"local_code": "湘桥区"
+			"local_code": "湘桥区",
+			"postal_code_example": "521000"
 		}
 	}
 }

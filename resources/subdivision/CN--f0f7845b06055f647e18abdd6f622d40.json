@@ -8,79 +8,104 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Anguo Shi": {
-			"local_code": "安国市"
+			"local_code": "安国市",
+			"postal_code_example": "071200"
 		},
 		"Anxin Xian": {
-			"local_code": "安新县"
+			"local_code": "安新县",
+			"postal_code_example": "071600"
 		},
 		"Beishi Qu": {
-			"local_code": "北市区"
+			"local_code": "北市区",
+			"postal_code_example": "071000"
 		},
 		"Boye Xian": {
-			"local_code": "博野县"
+			"local_code": "博野县",
+			"postal_code_example": "071300"
 		},
 		"Dingxing Xian": {
-			"local_code": "定兴县"
+			"local_code": "定兴县",
+			"postal_code_example": "074200"
 		},
 		"Dingzhou Shi": {
-			"local_code": "定州市"
+			"local_code": "定州市",
+			"postal_code_example": "073000"
 		},
 		"Fuping Xian": {
-			"local_code": "阜平县"
+			"local_code": "阜平县",
+			"postal_code_example": "073200"
 		},
 		"Gaobeidian Shi": {
-			"local_code": "高碑店市"
+			"local_code": "高碑店市",
+			"postal_code_example": "074000"
 		},
 		"Gaoyang Xian": {
-			"local_code": "高阳县"
+			"local_code": "高阳县",
+			"postal_code_example": "071500"
 		},
 		"Laishui Xian": {
-			"local_code": "涞水县"
+			"local_code": "涞水县",
+			"postal_code_example": "074100"
 		},
 		"Laiyuan Xian": {
-			"local_code": "涞源县"
+			"local_code": "涞源县",
+			"postal_code_example": "074300"
 		},
 		"Li Xian": {
-			"local_code": "蠡县"
+			"local_code": "蠡县",
+			"postal_code_example": "071400"
 		},
 		"Mancheng Xian": {
-			"local_code": "满城县"
+			"local_code": "满城县",
+			"postal_code_example": "072150"
 		},
 		"Nanshi Qu": {
-			"local_code": "南市区"
+			"local_code": "南市区",
+			"postal_code_example": "071000"
 		},
 		"Qingyuan Xian": {
-			"local_code": "清苑县"
+			"local_code": "清苑县",
+			"postal_code_example": "071100"
 		},
 		"Quyang Xian": {
-			"local_code": "曲阳县"
+			"local_code": "曲阳县",
+			"postal_code_example": "073100"
 		},
 		"Rongcheng Xian": {
-			"local_code": "容城县"
+			"local_code": "容城县",
+			"postal_code_example": "071700"
 		},
 		"Shunping Xian": {
-			"local_code": "顺平县"
+			"local_code": "顺平县",
+			"postal_code_example": "072250"
 		},
 		"Tang Xian": {
-			"local_code": "唐县"
+			"local_code": "唐县",
+			"postal_code_example": "072350"
 		},
 		"Wangdu Xian": {
-			"local_code": "望都县"
+			"local_code": "望都县",
+			"postal_code_example": "072450"
 		},
 		"Xinshi Qu": {
-			"local_code": "新市区"
+			"local_code": "新市区",
+			"postal_code_example": "071052"
 		},
 		"Xiong Xian": {
-			"local_code": "雄县"
+			"local_code": "雄县",
+			"postal_code_example": "071800"
 		},
 		"Xushui Xian": {
-			"local_code": "徐水县"
+			"local_code": "徐水县",
+			"postal_code_example": "072550"
 		},
 		"Yi Xian": {
-			"local_code": "易县"
+			"local_code": "易县",
+			"postal_code_example": "074200"
 		},
 		"Zhuozhou Shi": {
-			"local_code": "涿州市"
+			"local_code": "涿州市",
+			"postal_code_example": "072750"
 		}
 	}
 }

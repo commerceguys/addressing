@@ -8,16 +8,20 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Changjiang Qu": {
-			"local_code": "昌江区"
+			"local_code": "昌江区",
+			"postal_code_example": "333000"
 		},
 		"Fuliang Xian": {
-			"local_code": "浮梁县"
+			"local_code": "浮梁县",
+			"postal_code_example": "333400"
 		},
 		"Leping Shi": {
-			"local_code": "乐平市"
+			"local_code": "乐平市",
+			"postal_code_example": "333300"
 		},
 		"Zhushan Qu": {
-			"local_code": "珠山区"
+			"local_code": "珠山区",
+			"postal_code_example": "333001"
 		}
 	}
 }

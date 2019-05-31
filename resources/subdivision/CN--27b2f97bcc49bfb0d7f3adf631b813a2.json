@@ -8,25 +8,32 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Anlu Shi": {
-			"local_code": "安陆市"
+			"local_code": "安陆市",
+			"postal_code_example": "432600"
 		},
 		"Dawu Xian": {
-			"local_code": "大悟县"
+			"local_code": "大悟县",
+			"postal_code_example": "432800"
 		},
 		"Hanchuan Shi": {
-			"local_code": "汉川市"
+			"local_code": "汉川市",
+			"postal_code_example": "432300"
 		},
 		"Xiaochang Xian": {
-			"local_code": "孝昌县"
+			"local_code": "孝昌县",
+			"postal_code_example": "432900"
 		},
 		"Xiaonan Qu": {
-			"local_code": "孝南区"
+			"local_code": "孝南区",
+			"postal_code_example": "432100"
 		},
 		"Yingcheng Shi": {
-			"local_code": "应城市"
+			"local_code": "应城市",
+			"postal_code_example": "432400"
 		},
 		"Yunmeng Xian": {
-			"local_code": "云梦县"
+			"local_code": "云梦县",
+			"postal_code_example": "432500"
 		}
 	}
 }

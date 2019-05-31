@@ -8,28 +8,36 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Funing Xian": {
-			"local_code": "富宁县"
+			"local_code": "富宁县",
+			"postal_code_example": "663400"
 		},
 		"Guangnan Xian": {
-			"local_code": "广南县"
+			"local_code": "广南县",
+			"postal_code_example": "663300"
 		},
 		"Malipo Xian": {
-			"local_code": "麻栗坡县"
+			"local_code": "麻栗坡县",
+			"postal_code_example": "663600"
 		},
 		"Maguan Xian": {
-			"local_code": "马关县"
+			"local_code": "马关县",
+			"postal_code_example": "663700"
 		},
 		"Qiubei Xian": {
-			"local_code": "丘北县"
+			"local_code": "丘北县",
+			"postal_code_example": "663200"
 		},
 		"Wenshan Xian": {
-			"local_code": "文山县"
+			"local_code": "文山县",
+			"postal_code_example": "663000"
 		},
 		"Xichou Xian": {
-			"local_code": "西畴县"
+			"local_code": "西畴县",
+			"postal_code_example": "663500"
 		},
 		"Yanshan Xian": {
-			"local_code": "砚山县"
+			"local_code": "砚山县",
+			"postal_code_example": "663100"
 		}
 	}
 }

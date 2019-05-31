@@ -8,28 +8,36 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Anlong Xian": {
-			"local_code": "安龙县"
+			"local_code": "安龙县",
+			"postal_code_example": "552400"
 		},
 		"Ceheng Xian": {
-			"local_code": "册亨县"
+			"local_code": "册亨县",
+			"postal_code_example": "552200"
 		},
 		"Pu'an Xian": {
-			"local_code": "普安县"
+			"local_code": "普安县",
+			"postal_code_example": "561500"
 		},
 		"Qinglong Xian": {
-			"local_code": "晴隆县"
+			"local_code": "晴隆县",
+			"postal_code_example": "561400"
 		},
 		"Wangmo Xian": {
-			"local_code": "望谟县"
+			"local_code": "望谟县",
+			"postal_code_example": "552300"
 		},
 		"Xingren Xian": {
-			"local_code": "兴仁县"
+			"local_code": "兴仁县",
+			"postal_code_example": "562300"
 		},
 		"Xingyi Shi": {
-			"local_code": "兴义市"
+			"local_code": "兴义市",
+			"postal_code_example": "562400"
 		},
 		"Zhenfeng Xian": {
-			"local_code": "贞丰县"
+			"local_code": "贞丰县",
+			"postal_code_example": "562200"
 		}
 	}
 }

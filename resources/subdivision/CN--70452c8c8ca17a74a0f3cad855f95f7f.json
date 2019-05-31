@@ -8,45 +8,57 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Chenxi Xian": {
-			"local_code": "辰溪县"
+			"local_code": "辰溪县",
+			"postal_code_example": "419500"
 		},
 		"Hecheng Qu": {
-			"local_code": "鹤城区"
+			"local_code": "鹤城区",
+			"postal_code_example": "418000"
 		},
 		"Hongjiang Shi": {
-			"local_code": "洪江市"
+			"local_code": "洪江市",
+			"postal_code_example": "418200"
 		},
 		"Huitong Xian": {
-			"local_code": "会同县"
+			"local_code": "会同县",
+			"postal_code_example": "418300"
 		},
 		"Jingzhou Xian": {
 			"local_code": "靖州苗族侗族自治县",
-			"local_name": "靖州县"
+			"local_name": "靖州县",
+			"postal_code_example": "418400"
 		},
 		"Mayang Xian": {
 			"local_code": "麻阳苗族自治县",
-			"local_name": "麻阳县"
+			"local_name": "麻阳县",
+			"postal_code_example": "419400"
 		},
 		"Tongdao Xian": {
 			"local_code": "通道侗族自治县",
-			"local_name": "通道县"
+			"local_name": "通道县",
+			"postal_code_example": "418500"
 		},
 		"Xinhuang Xian": {
 			"local_code": "新晃侗族自治县",
-			"local_name": "新晃县"
+			"local_name": "新晃县",
+			"postal_code_example": "419200"
 		},
 		"Xupu Xian": {
-			"local_code": "溆浦县"
+			"local_code": "溆浦县",
+			"postal_code_example": "419300"
 		},
 		"Yuanling Xian": {
-			"local_code": "沅陵县"
+			"local_code": "沅陵县",
+			"postal_code_example": "419600"
 		},
 		"Zhijiang Xian": {
 			"local_code": "芷江侗族自治县",
-			"local_name": "芷江县"
+			"local_name": "芷江县",
+			"postal_code_example": "419100"
 		},
 		"Zhongfang Xian": {
-			"local_code": "中方县"
+			"local_code": "中方县",
+			"postal_code_example": "418005"
 		}
 	}
 }

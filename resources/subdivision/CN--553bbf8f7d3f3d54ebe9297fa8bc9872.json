@@ -8,34 +8,44 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Biyang Xian": {
-			"local_code": "泌阳县"
+			"local_code": "泌阳县",
+			"postal_code_example": "463700"
 		},
 		"Pingyu Xian": {
-			"local_code": "平舆县"
+			"local_code": "平舆县",
+			"postal_code_example": "463400"
 		},
 		"Queshan Xian": {
-			"local_code": "确山县"
+			"local_code": "确山县",
+			"postal_code_example": "463200"
 		},
 		"Runan Xian": {
-			"local_code": "汝南县"
+			"local_code": "汝南县",
+			"postal_code_example": "463300"
 		},
 		"Shangcai Xian": {
-			"local_code": "上蔡县"
+			"local_code": "上蔡县",
+			"postal_code_example": "463800"
 		},
 		"Suiping Xian": {
-			"local_code": "遂平县"
+			"local_code": "遂平县",
+			"postal_code_example": "463100"
 		},
 		"Xiping Xian": {
-			"local_code": "西平县"
+			"local_code": "西平县",
+			"postal_code_example": "463900"
 		},
 		"Xincai Xian": {
-			"local_code": "新蔡县"
+			"local_code": "新蔡县",
+			"postal_code_example": "463500"
 		},
 		"Yicheng Qu": {
-			"local_code": "驿城区"
+			"local_code": "驿城区",
+			"postal_code_example": "463000"
 		},
 		"Zhengyang Xian": {
-			"local_code": "正阳县"
+			"local_code": "正阳县",
+			"postal_code_example": "463600"
 		}
 	}
 }

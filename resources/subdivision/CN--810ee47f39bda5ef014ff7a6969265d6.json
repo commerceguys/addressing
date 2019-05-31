@@ -8,22 +8,28 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Keqiao Qu": {
-			"local_code": "柯桥区"
+			"local_code": "柯桥区",
+			"postal_code_example": "312000"
 		},
 		"Shangyu Shi": {
-			"local_code": "上虞市"
+			"local_code": "上虞市",
+			"postal_code_example": "312300"
 		},
 		"Shengzhou Shi": {
-			"local_code": "嵊州市"
+			"local_code": "嵊州市",
+			"postal_code_example": "312400"
 		},
 		"Xinchang Xian": {
-			"local_code": "新昌县"
+			"local_code": "新昌县",
+			"postal_code_example": "312500"
 		},
 		"Yuecheng Qu": {
-			"local_code": "越城区"
+			"local_code": "越城区",
+			"postal_code_example": "312000"
 		},
 		"Zhuji Shi": {
-			"local_code": "诸暨市"
+			"local_code": "诸暨市",
+			"postal_code_example": "311800"
 		}
 	}
 }

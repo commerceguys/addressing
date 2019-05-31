@@ -8,16 +8,20 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Daishan Xian": {
-			"local_code": "岱山县"
+			"local_code": "岱山县",
+			"postal_code_example": "316200"
 		},
 		"Dinghai Qu": {
-			"local_code": "定海区"
+			"local_code": "定海区",
+			"postal_code_example": "316000"
 		},
 		"Putuo Qu": {
-			"local_code": "普陀区"
+			"local_code": "普陀区",
+			"postal_code_example": "316100"
 		},
 		"Shengsi Xian": {
-			"local_code": "嵊泗县"
+			"local_code": "嵊泗县",
+			"postal_code_example": "202450"
 		}
 	}
 }

@@ -8,20 +8,25 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Fuyu Xian": {
-			"local_code": "扶余县"
+			"local_code": "扶余县",
+			"postal_code_example": "131203"
 		},
 		"Qian'an Xian": {
-			"local_code": "乾安县"
+			"local_code": "乾安县",
+			"postal_code_example": "131400"
 		},
 		"Ningjiang Qu": {
-			"local_code": "宁江区"
+			"local_code": "宁江区",
+			"postal_code_example": "138000"
 		},
 		"Qian Gorlos Xian": {
 			"local_code": "前郭尔罗斯蒙古族自治县",
-			"local_name": "前郭尔罗斯县"
+			"local_name": "前郭尔罗斯县",
+			"postal_code_example": "131100"
 		},
 		"Changling Xian": {
-			"local_code": "长岭县"
+			"local_code": "长岭县",
+			"postal_code_example": "131500"
 		}
 	}
 }

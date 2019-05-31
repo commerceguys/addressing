@@ -8,58 +8,76 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Ngamring Xian": {
-			"local_code": "昂仁县"
+			"local_code": "昂仁县",
+			"postal_code_example": "858500"
 		},
 		"Bainang Xian": {
-			"local_code": "白朗县"
+			"local_code": "白朗县",
+			"postal_code_example": "857300"
 		},
 		"Dinggyê Xian": {
-			"local_code": "定结县"
+			"local_code": "定结县",
+			"postal_code_example": "857900"
 		},
 		"Tingri Xian": {
-			"local_code": "定日县"
+			"local_code": "定日县",
+			"postal_code_example": "858200"
 		},
 		"Gamba Xian": {
-			"local_code": "岗巴县"
+			"local_code": "岗巴县",
+			"postal_code_example": "857700"
 		},
 		"Gyirong Xian": {
-			"local_code": "吉隆县"
+			"local_code": "吉隆县",
+			"postal_code_example": "858700"
 		},
 		"Gyangzê Xian": {
-			"local_code": "江孜县"
+			"local_code": "江孜县",
+			"postal_code_example": "857400"
 		},
 		"Kangmar Xian": {
-			"local_code": "康马县"
+			"local_code": "康马县",
+			"postal_code_example": "857500"
 		},
 		"Lhazê Xian": {
-			"local_code": "拉孜县"
+			"local_code": "拉孜县",
+			"postal_code_example": "858100"
 		},
 		"Namling Xian": {
-			"local_code": "南木林县"
+			"local_code": "南木林县",
+			"postal_code_example": "857100"
 		},
 		"Nyalam Xian": {
-			"local_code": "聂拉木县"
+			"local_code": "聂拉木县",
+			"postal_code_example": "858300"
 		},
 		"Rinbung Xian": {
-			"local_code": "仁布县"
+			"local_code": "仁布县",
+			"postal_code_example": "857200"
 		},
 		"Xigazê Shi": {
-			"local_code": "日喀则市"
+			"local_code": "日喀则市",
+			"postal_code_example": "857000"
 		},
 		"Saga Xian": {
-			"local_code": "萨嘎县"
+			"local_code": "萨嘎县",
+			"postal_code_example": "858600"
 		},
 		"Sa'gya Xian": {
-			"local_code": "萨迦县"
+			"local_code": "萨迦县",
+			"postal_code_example": "857800"
 		},
 		"Xaitongmoin Xian": {
-			"local_code": "谢通门县"
+			"local_code": "谢通门县",
+			"postal_code_example": "858900"
 		},
 		"Yadong Xian": {
-			"local_code": "亚东县"
+			"local_code": "亚东县",
+			"postal_code_example": "857600"
 		},
 		"Zhongba Xian": {
-			"local_code": "仲巴县"
+			"local_code": "仲巴县",
+			"postal_code_example": "858800"
 		}
 	}
 }

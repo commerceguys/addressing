@@ -8,22 +8,28 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Bagongshan Qu": {
-			"local_code": "八公山区"
+			"local_code": "八公山区",
+			"postal_code_example": "232072"
 		},
 		"Datong Qu": {
-			"local_code": "大通区"
+			"local_code": "大通区",
+			"postal_code_example": "232033"
 		},
 		"Fengtai Xian": {
-			"local_code": "凤台县"
+			"local_code": "凤台县",
+			"postal_code_example": "232100"
 		},
 		"Panji Qu": {
-			"local_code": "潘集区"
+			"local_code": "潘集区",
+			"postal_code_example": "232082"
 		},
 		"Tianjia'an Qu": {
-			"local_code": "田家庵区"
+			"local_code": "田家庵区",
+			"postal_code_example": "232000"
 		},
 		"Xiejiaji Qu": {
-			"local_code": "谢家集区"
+			"local_code": "谢家集区",
+			"postal_code_example": "232052"
 		}
 	}
 }

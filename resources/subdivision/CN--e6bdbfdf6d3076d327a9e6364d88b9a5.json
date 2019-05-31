@@ -8,28 +8,36 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Dalad Qi": {
-			"local_code": "达拉特旗"
+			"local_code": "达拉特旗",
+			"postal_code_example": "014300"
 		},
 		"Dongsheng Qu": {
-			"local_code": "东胜区"
+			"local_code": "东胜区",
+			"postal_code_example": "017000"
 		},
 		"Otog Qi": {
-			"local_code": "鄂托克旗"
+			"local_code": "鄂托克旗",
+			"postal_code_example": "016100"
 		},
 		"Otog Qianqi": {
-			"local_code": "鄂托克前旗"
+			"local_code": "鄂托克前旗",
+			"postal_code_example": "016200"
 		},
 		"Hanggin Qi": {
-			"local_code": "杭锦旗"
+			"local_code": "杭锦旗",
+			"postal_code_example": "017400"
 		},
 		"Uxin Qi": {
-			"local_code": "乌审旗"
+			"local_code": "乌审旗",
+			"postal_code_example": "017300"
 		},
 		"Ejin Qi": {
-			"local_code": "伊金霍洛旗"
+			"local_code": "伊金霍洛旗",
+			"postal_code_example": "017200"
 		},
 		"Jungar Qi": {
-			"local_code": "准格尔旗"
+			"local_code": "准格尔旗",
+			"postal_code_example": "010425"
 		}
 	}
 }

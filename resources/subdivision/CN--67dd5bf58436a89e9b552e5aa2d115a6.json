@@ -8,28 +8,36 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Deqing Xian": {
-			"local_code": "德庆县"
+			"local_code": "德庆县",
+			"postal_code_example": "526600"
 		},
 		"Dinghu Qu": {
-			"local_code": "鼎湖区"
+			"local_code": "鼎湖区",
+			"postal_code_example": "526070"
 		},
 		"Duanzhou Qu": {
-			"local_code": "端州区"
+			"local_code": "端州区",
+			"postal_code_example": "526040"
 		},
 		"Fengkai Xian": {
-			"local_code": "封开县"
+			"local_code": "封开县",
+			"postal_code_example": "526500"
 		},
 		"Gaoyao Shi": {
-			"local_code": "高要市"
+			"local_code": "高要市",
+			"postal_code_example": "526100"
 		},
 		"Guangning Xian": {
-			"local_code": "广宁县"
+			"local_code": "广宁县",
+			"postal_code_example": "526300"
 		},
 		"Huaiji Xian": {
-			"local_code": "怀集县"
+			"local_code": "怀集县",
+			"postal_code_example": "526400"
 		},
 		"Sihui Shi": {
-			"local_code": "四会市"
+			"local_code": "四会市",
+			"postal_code_example": "526200"
 		}
 	}
 }

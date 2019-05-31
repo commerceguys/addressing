@@ -8,40 +8,52 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Binyang Xian": {
-			"local_code": "宾阳县"
+			"local_code": "宾阳县",
+			"postal_code_example": "530400"
 		},
 		"Heng Xian": {
-			"local_code": "横县"
+			"local_code": "横县",
+			"postal_code_example": "530300"
 		},
 		"Jiangnan Qu": {
-			"local_code": "江南区"
+			"local_code": "江南区",
+			"postal_code_example": "530031"
 		},
 		"Liangqing Qu": {
-			"local_code": "良庆区"
+			"local_code": "良庆区",
+			"postal_code_example": "530012"
 		},
 		"Long'an Xian": {
-			"local_code": "隆安县"
+			"local_code": "隆安县",
+			"postal_code_example": "532700"
 		},
 		"Mashan Xian": {
-			"local_code": "马山县"
+			"local_code": "马山县",
+			"postal_code_example": "530600"
 		},
 		"Qingxiu Qu": {
-			"local_code": "青秀区"
+			"local_code": "青秀区",
+			"postal_code_example": "530022"
 		},
 		"Shanglin Xian": {
-			"local_code": "上林县"
+			"local_code": "上林县",
+			"postal_code_example": "530500"
 		},
 		"Wuming Xian": {
-			"local_code": "武鸣县"
+			"local_code": "武鸣县",
+			"postal_code_example": "530100"
 		},
 		"Xixiangtang Qu": {
-			"local_code": "西乡塘区"
+			"local_code": "西乡塘区",
+			"postal_code_example": "530001"
 		},
 		"Xingning Qu": {
-			"local_code": "兴宁区"
+			"local_code": "兴宁区",
+			"postal_code_example": "530012"
 		},
 		"Yongning Qu": {
-			"local_code": "邕宁区"
+			"local_code": "邕宁区",
+			"postal_code_example": "530200"
 		}
 	}
 }

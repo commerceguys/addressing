@@ -8,28 +8,36 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Heshui Xian": {
-			"local_code": "合水县"
+			"local_code": "合水县",
+			"postal_code_example": "745400"
 		},
 		"Huachi Xian": {
-			"local_code": "华池县"
+			"local_code": "华池县",
+			"postal_code_example": "745600"
 		},
 		"Huan Xian": {
-			"local_code": "环县"
+			"local_code": "环县",
+			"postal_code_example": "745700"
 		},
 		"Ning Xian": {
-			"local_code": "宁县"
+			"local_code": "宁县",
+			"postal_code_example": "745200"
 		},
 		"Qingcheng Xian": {
-			"local_code": "庆城县"
+			"local_code": "庆城县",
+			"postal_code_example": "745100"
 		},
 		"Xifeng Qu": {
-			"local_code": "西峰区"
+			"local_code": "西峰区",
+			"postal_code_example": "745000"
 		},
 		"Zhenyuan Xian": {
-			"local_code": "镇原县"
+			"local_code": "镇原县",
+			"postal_code_example": "744500"
 		},
 		"Zhengning Xian": {
-			"local_code": "正宁县"
+			"local_code": "正宁县",
+			"postal_code_example": "745300"
 		}
 	}
 }

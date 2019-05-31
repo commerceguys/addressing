@@ -8,46 +8,60 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Bin Xian": {
-			"local_code": "彬县"
+			"local_code": "彬县",
+			"postal_code_example": "713500"
 		},
 		"Chunhua Xian": {
-			"local_code": "淳化县"
+			"local_code": "淳化县",
+			"postal_code_example": "711200"
 		},
 		"Qian Xian": {
-			"local_code": "乾县"
+			"local_code": "乾县",
+			"postal_code_example": "713300"
 		},
 		"Jingyang Xian": {
-			"local_code": "泾阳县"
+			"local_code": "泾阳县",
+			"postal_code_example": "713700"
 		},
 		"Liquan Xian": {
-			"local_code": "礼泉县"
+			"local_code": "礼泉县",
+			"postal_code_example": "713200"
 		},
 		"Qindu Qu": {
-			"local_code": "秦都区"
+			"local_code": "秦都区",
+			"postal_code_example": "712000"
 		},
 		"Sanyuan Xian": {
-			"local_code": "三原县"
+			"local_code": "三原县",
+			"postal_code_example": "713800"
 		},
 		"Weicheng Qu": {
-			"local_code": "渭城区"
+			"local_code": "渭城区",
+			"postal_code_example": "712000"
 		},
 		"Wugong Xian": {
-			"local_code": "武功县"
+			"local_code": "武功县",
+			"postal_code_example": "712200"
 		},
 		"Xingping Shi": {
-			"local_code": "兴平市"
+			"local_code": "兴平市",
+			"postal_code_example": "713100"
 		},
 		"Xunyi Xian": {
-			"local_code": "旬邑县"
+			"local_code": "旬邑县",
+			"postal_code_example": "711300"
 		},
 		"Yangling Qu": {
-			"local_code": "杨凌区"
+			"local_code": "杨凌区",
+			"postal_code_example": "712100"
 		},
 		"Yongshou Xian": {
-			"local_code": "永寿县"
+			"local_code": "永寿县",
+			"postal_code_example": "713400"
 		},
 		"Changwu Xian": {
-			"local_code": "长武县"
+			"local_code": "长武县",
+			"postal_code_example": "713600"
 		}
 	}
 }

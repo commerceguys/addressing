@@ -8,61 +8,80 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Baixiang Xian": {
-			"local_code": "柏乡县"
+			"local_code": "柏乡县",
+			"postal_code_example": "055450"
 		},
 		"Guangzong Xian": {
-			"local_code": "广宗县"
+			"local_code": "广宗县",
+			"postal_code_example": "054600"
 		},
 		"Julu Xian": {
-			"local_code": "巨鹿县"
+			"local_code": "巨鹿县",
+			"postal_code_example": "055250"
 		},
 		"Lincheng Xian": {
-			"local_code": "临城县"
+			"local_code": "临城县",
+			"postal_code_example": "054300"
 		},
 		"Linxi Xian": {
-			"local_code": "临西县"
+			"local_code": "临西县",
+			"postal_code_example": "054900"
 		},
 		"Longyao Xian": {
-			"local_code": "隆尧县"
+			"local_code": "隆尧县",
+			"postal_code_example": "055350"
 		},
 		"Nangong Shi": {
-			"local_code": "南宫市"
+			"local_code": "南宫市",
+			"postal_code_example": "055750"
 		},
 		"Nanhe Xian": {
-			"local_code": "南和县"
+			"local_code": "南和县",
+			"postal_code_example": "054400"
 		},
 		"Neiqiu Xian": {
-			"local_code": "内丘县"
+			"local_code": "内丘县",
+			"postal_code_example": "054200"
 		},
 		"Ningjin Xian": {
-			"local_code": "宁晋县"
+			"local_code": "宁晋县",
+			"postal_code_example": "055550"
 		},
 		"Pingxiang Xian": {
-			"local_code": "平乡县"
+			"local_code": "平乡县",
+			"postal_code_example": "054500"
 		},
 		"Qiaodong Qu": {
-			"local_code": "桥东区"
+			"local_code": "桥东区",
+			"postal_code_example": "054001"
 		},
 		"Qiaoxi Qu": {
-			"local_code": "桥西区"
+			"local_code": "桥西区",
+			"postal_code_example": "054000"
 		},
 		"Qinghe Xian": {
-			"local_code": "清河县"
+			"local_code": "清河县",
+			"postal_code_example": "054800"
 		},
 		"Ren Xian": {
-			"local_code": "任县"
+			"local_code": "任县",
+			"postal_code_example": "055150"
 		},
 		"Shahe Shi": {
-			"local_code": "沙河市"
+			"local_code": "沙河市",
+			"postal_code_example": "054100"
 		},
 		"Wei Xian": {
-			"local_code": "威县"
+			"local_code": "威县",
+			"postal_code_example": "054700"
 		},
 		"Xinhe Xian": {
-			"local_code": "新河县"
+			"local_code": "新河县",
+			"postal_code_example": "051730"
 		},
 		"Xingtai Xian": {
-			"local_code": "邢台县"
+			"local_code": "邢台县",
+			"postal_code_example": "054001"
 		}
 	}
 }

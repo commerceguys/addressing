@@ -8,34 +8,44 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Guangze Xian": {
-			"local_code": "光泽县"
+			"local_code": "光泽县",
+			"postal_code_example": "354100"
 		},
 		"Jian'ou Shi": {
-			"local_code": "建瓯市"
+			"local_code": "建瓯市",
+			"postal_code_example": "353100"
 		},
 		"Jianyang Shi": {
-			"local_code": "建阳市"
+			"local_code": "建阳市",
+			"postal_code_example": "354200"
 		},
 		"Pucheng Xian": {
-			"local_code": "浦城县"
+			"local_code": "浦城县",
+			"postal_code_example": "353400"
 		},
 		"Shaowu Shi": {
-			"local_code": "邵武市"
+			"local_code": "邵武市",
+			"postal_code_example": "354000"
 		},
 		"Shunchang Xian": {
-			"local_code": "顺昌县"
+			"local_code": "顺昌县",
+			"postal_code_example": "353200"
 		},
 		"Songxi Xian": {
-			"local_code": "松溪县"
+			"local_code": "松溪县",
+			"postal_code_example": "353500"
 		},
 		"Wuyishan Shi": {
-			"local_code": "武夷山市"
+			"local_code": "武夷山市",
+			"postal_code_example": "354300"
 		},
 		"Yanping Qu": {
-			"local_code": "延平区"
+			"local_code": "延平区",
+			"postal_code_example": "353000"
 		},
 		"Zhenghe Xian": {
-			"local_code": "政和县"
+			"local_code": "政和县",
+			"postal_code_example": "353600"
 		}
 	}
 }

@@ -8,46 +8,57 @@
 	"subdivisions": {
 		"Baoding Shi": {
 			"local_code": "保定市",
+			"postal_code_example": "071052",
 			"has_children": true
 		},
 		"Cangzhou Shi": {
 			"local_code": "沧州市",
+			"postal_code_example": "061001",
 			"has_children": true
 		},
 		"Chengde Shi": {
 			"local_code": "承德市",
+			"postal_code_example": "067000",
 			"has_children": true
 		},
 		"Handan Shi": {
 			"local_code": "邯郸市",
+			"postal_code_example": "056002",
 			"has_children": true
 		},
 		"Hengshui Shi": {
 			"local_code": "衡水市",
+			"postal_code_example": "053000",
 			"has_children": true
 		},
 		"Langfang Shi": {
 			"local_code": "廊坊市",
+			"postal_code_example": "065000",
 			"has_children": true
 		},
 		"Qinhuangdao Shi": {
 			"local_code": "秦皇岛市",
+			"postal_code_example": "066000",
 			"has_children": true
 		},
 		"Shijiazhuang Shi": {
 			"local_code": "石家庄市",
+			"postal_code_example": "050011",
 			"has_children": true
 		},
 		"Tangshan Shi": {
 			"local_code": "唐山市",
+			"postal_code_example": "063006",
 			"has_children": true
 		},
 		"Xingtai Shi": {
 			"local_code": "邢台市",
+			"postal_code_example": "054001",
 			"has_children": true
 		},
 		"Zhangjiakou Shi": {
 			"local_code": "张家口市",
+			"postal_code_example": "075061",
 			"has_children": true
 		}
 	}

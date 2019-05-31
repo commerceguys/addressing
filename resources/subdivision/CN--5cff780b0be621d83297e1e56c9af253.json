@@ -8,29 +8,37 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Bijie Shi": {
-			"local_code": "毕节市"
+			"local_code": "毕节市",
+			"postal_code_example": "551700"
 		},
 		"Dafang Xian": {
-			"local_code": "大方县"
+			"local_code": "大方县",
+			"postal_code_example": "551600"
 		},
 		"Hezhang Xian": {
-			"local_code": "赫章县"
+			"local_code": "赫章县",
+			"postal_code_example": "553200"
 		},
 		"Jinsha Xian": {
-			"local_code": "金沙县"
+			"local_code": "金沙县",
+			"postal_code_example": "551800"
 		},
 		"Nayong Xian": {
-			"local_code": "纳雍县"
+			"local_code": "纳雍县",
+			"postal_code_example": "553300"
 		},
 		"Qianxi Xian": {
-			"local_code": "黔西县"
+			"local_code": "黔西县",
+			"postal_code_example": "551500"
 		},
 		"Weining Xian": {
 			"local_code": "威宁彝族回族苗族自治县",
-			"local_name": "威宁县"
+			"local_name": "威宁县",
+			"postal_code_example": "553100"
 		},
 		"Zhijin Xian": {
-			"local_code": "织金县"
+			"local_code": "织金县",
+			"postal_code_example": "552100"
 		}
 	}
 }

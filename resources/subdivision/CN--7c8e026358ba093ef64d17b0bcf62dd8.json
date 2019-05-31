@@ -8,22 +8,28 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Beiliu Shi": {
-			"local_code": "北流市"
+			"local_code": "北流市",
+			"postal_code_example": "537400"
 		},
 		"Bobai Xian": {
-			"local_code": "博白县"
+			"local_code": "博白县",
+			"postal_code_example": "537600"
 		},
 		"Luchuan Xian": {
-			"local_code": "陆川县"
+			"local_code": "陆川县",
+			"postal_code_example": "537700"
 		},
 		"Rong Xian": {
-			"local_code": "容县"
+			"local_code": "容县",
+			"postal_code_example": "537500"
 		},
 		"Xingye Xian": {
-			"local_code": "兴业县"
+			"local_code": "兴业县",
+			"postal_code_example": "537800"
 		},
 		"Yuzhou Qu": {
-			"local_code": "玉州区"
+			"local_code": "玉州区",
+			"postal_code_example": "537000"
 		}
 	}
 }

@@ -8,19 +8,24 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Boluo Xian": {
-			"local_code": "博罗县"
+			"local_code": "博罗县",
+			"postal_code_example": "516100"
 		},
 		"Huicheng Qu": {
-			"local_code": "惠城区"
+			"local_code": "惠城区",
+			"postal_code_example": "516001"
 		},
 		"Huidong Xian": {
-			"local_code": "惠东县"
+			"local_code": "惠东县",
+			"postal_code_example": "516300"
 		},
 		"Huiyang Qu": {
-			"local_code": "惠阳区"
+			"local_code": "惠阳区",
+			"postal_code_example": "516200"
 		},
 		"Longmen Xian": {
-			"local_code": "龙门县"
+			"local_code": "龙门县",
+			"postal_code_example": "516800"
 		}
 	}
 }

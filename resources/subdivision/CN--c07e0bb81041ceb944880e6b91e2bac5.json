@@ -8,31 +8,40 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Furong Qu": {
-			"local_code": "芙蓉区"
+			"local_code": "芙蓉区",
+			"postal_code_example": "410011"
 		},
 		"Kaifu Qu": {
-			"local_code": "开福区"
+			"local_code": "开福区",
+			"postal_code_example": "410005"
 		},
 		"Liuyang Shi": {
-			"local_code": "浏阳市"
+			"local_code": "浏阳市",
+			"postal_code_example": "410300"
 		},
 		"Ningxiang Xian": {
-			"local_code": "宁乡县"
+			"local_code": "宁乡县",
+			"postal_code_example": "410600"
 		},
 		"Tianxin Qu": {
-			"local_code": "天心区"
+			"local_code": "天心区",
+			"postal_code_example": "410002"
 		},
 		"Wangcheng Qu": {
-			"local_code": "望城区"
+			"local_code": "望城区",
+			"postal_code_example": "410200"
 		},
 		"Yuhua Qu": {
-			"local_code": "雨花区"
+			"local_code": "雨花区",
+			"postal_code_example": "410007"
 		},
 		"Yuelu Qu": {
-			"local_code": "岳麓区"
+			"local_code": "岳麓区",
+			"postal_code_example": "410006"
 		},
 		"Changsha Xian": {
-			"local_code": "长沙县"
+			"local_code": "长沙县",
+			"postal_code_example": "410100"
 		}
 	}
 }

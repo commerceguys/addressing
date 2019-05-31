@@ -8,75 +8,93 @@
 	"subdivisions": {
 		"Aksu Diqu": {
 			"local_code": "阿克苏地区",
+			"postal_code_example": "843000",
 			"has_children": true
 		},
 		"Ala'er Shi": {
-			"local_code": "阿拉尔市"
+			"local_code": "阿拉尔市",
+			"postal_code_example": "843300"
 		},
 		"Altay Shi": {
 			"local_code": "阿勒泰地区",
+			"postal_code_example": "836500",
 			"has_children": true
 		},
 		"Bayingolin Zhou": {
 			"local_code": "巴音郭楞蒙古自治州",
 			"local_name": "巴音郭楞州",
+			"postal_code_example": "841000",
 			"has_children": true
 		},
 		"Bortala Zhou": {
 			"local_code": "博尔塔拉蒙古自治州",
 			"local_name": "博尔塔拉州",
+			"postal_code_example": "833400",
 			"has_children": true
 		},
 		"Changji Zhou": {
 			"local_code": "昌吉回族自治州",
 			"local_name": "昌吉州",
+			"postal_code_example": "831100",
 			"has_children": true
 		},
 		"Hami Diqu": {
 			"local_code": "哈密地区",
+			"postal_code_example": "839000",
 			"has_children": true
 		},
 		"Hotan Diqu": {
 			"local_code": "和田地区",
+			"postal_code_example": "848000",
 			"has_children": true
 		},
 		"Kashi Diqu": {
 			"local_code": "喀什地区",
+			"postal_code_example": "844000",
 			"has_children": true
 		},
 		"Karamay Shi": {
 			"local_code": "克拉玛依市",
+			"postal_code_example": "834000",
 			"has_children": true
 		},
 		"Kizilsu Zhou": {
 			"local_code": "克孜勒苏柯尔克孜自治州",
 			"local_name": "克孜勒苏州",
+			"postal_code_example": "845350",
 			"has_children": true
 		},
 		"Shihezi Shi": {
-			"local_code": "石河子市"
+			"local_code": "石河子市",
+			"postal_code_example": "832001"
 		},
 		"Tacheng Diqu": {
 			"local_code": "塔城地区",
+			"postal_code_example": "834700",
 			"has_children": true
 		},
 		"Tumushuke Shi": {
-			"local_code": "图木舒克市"
+			"local_code": "图木舒克市",
+			"postal_code_example": "843806"
 		},
 		"Turpan Diqu": {
 			"local_code": "吐鲁番地区",
+			"postal_code_example": "838000",
 			"has_children": true
 		},
 		"Ürümqi Shi": {
 			"local_code": "乌鲁木齐市",
+			"postal_code_example": "830002",
 			"has_children": true
 		},
 		"Wujiaqu Shi": {
-			"local_code": "五家渠市"
+			"local_code": "五家渠市",
+			"postal_code_example": "831300"
 		},
 		"Ili Zhou": {
 			"local_code": "伊犁哈萨克自治州",
 			"local_name": "伊犁州",
+			"postal_code_example": "835000",
 			"has_children": true
 		}
 	}

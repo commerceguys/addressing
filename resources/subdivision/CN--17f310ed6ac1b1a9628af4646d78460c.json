@@ -8,21 +8,26 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Gucheng Qu": {
-			"local_code": "古城区"
+			"local_code": "古城区",
+			"postal_code_example": "674100"
 		},
 		"Huaping Xian": {
-			"local_code": "华坪县"
+			"local_code": "华坪县",
+			"postal_code_example": "674800"
 		},
 		"Ninglang Xian": {
 			"local_code": "宁蒗彝族自治县",
-			"local_name": "宁蒗县"
+			"local_name": "宁蒗县",
+			"postal_code_example": "674300"
 		},
 		"Yongsheng Xian": {
-			"local_code": "永胜县"
+			"local_code": "永胜县",
+			"postal_code_example": "674200"
 		},
 		"Yulong Xian": {
 			"local_code": "玉龙纳西族自治县",
-			"local_name": "玉龙县"
+			"local_name": "玉龙县",
+			"postal_code_example": "674100"
 		}
 	}
 }

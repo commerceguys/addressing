@@ -8,25 +8,32 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Beizhen Shi": {
-			"local_code": "北镇市"
+			"local_code": "北镇市",
+			"postal_code_example": "121300"
 		},
 		"Guta Qu": {
-			"local_code": "古塔区"
+			"local_code": "古塔区",
+			"postal_code_example": "121001"
 		},
 		"Heishan Xian": {
-			"local_code": "黑山县"
+			"local_code": "黑山县",
+			"postal_code_example": "121400"
 		},
 		"Linghai Shi": {
-			"local_code": "凌海市"
+			"local_code": "凌海市",
+			"postal_code_example": "121200"
 		},
 		"Linghe Qu": {
-			"local_code": "凌河区"
+			"local_code": "凌河区",
+			"postal_code_example": "121000"
 		},
 		"Taihe Qu": {
-			"local_code": "太和区"
+			"local_code": "太和区",
+			"postal_code_example": "121011"
 		},
 		"Yi Xian": {
-			"local_code": "义县"
+			"local_code": "义县",
+			"postal_code_example": "121100"
 		}
 	}
 }

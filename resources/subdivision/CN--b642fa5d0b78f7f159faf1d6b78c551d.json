@@ -8,13 +8,16 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Doumen Qu": {
-			"local_code": "斗门区"
+			"local_code": "斗门区",
+			"postal_code_example": "519100"
 		},
 		"Jinwan Qu": {
-			"local_code": "金湾区"
+			"local_code": "金湾区",
+			"postal_code_example": "519090"
 		},
 		"Xiangzhou Qu": {
-			"local_code": "香洲区"
+			"local_code": "香洲区",
+			"postal_code_example": "519000"
 		}
 	}
 }

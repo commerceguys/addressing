@@ -8,43 +8,56 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Hejin Shi": {
-			"local_code": "河津市"
+			"local_code": "河津市",
+			"postal_code_example": "043300"
 		},
 		"Jishan Xian": {
-			"local_code": "稷山县"
+			"local_code": "稷山县",
+			"postal_code_example": "043200"
 		},
 		"Jiang Xian": {
-			"local_code": "绛县"
+			"local_code": "绛县",
+			"postal_code_example": "043600"
 		},
 		"Linyi Xian": {
-			"local_code": "临猗县"
+			"local_code": "临猗县",
+			"postal_code_example": "044100"
 		},
 		"Pinglu Xian": {
-			"local_code": "平陆县"
+			"local_code": "平陆县",
+			"postal_code_example": "044300"
 		},
 		"Ruicheng Xian": {
-			"local_code": "芮城县"
+			"local_code": "芮城县",
+			"postal_code_example": "044600"
 		},
 		"Wanrong Xian": {
-			"local_code": "万荣县"
+			"local_code": "万荣县",
+			"postal_code_example": "044200"
 		},
 		"Wenxi Xian": {
-			"local_code": "闻喜县"
+			"local_code": "闻喜县",
+			"postal_code_example": "043800"
 		},
 		"Xia Xian": {
-			"local_code": "夏县"
+			"local_code": "夏县",
+			"postal_code_example": "044400"
 		},
 		"Xinjiang Xian": {
-			"local_code": "新绛县"
+			"local_code": "新绛县",
+			"postal_code_example": "043100"
 		},
 		"Yanhu Qu": {
-			"local_code": "盐湖区"
+			"local_code": "盐湖区",
+			"postal_code_example": "044300"
 		},
 		"Yongji Shi": {
-			"local_code": "永济市"
+			"local_code": "永济市",
+			"postal_code_example": "044500"
 		},
 		"Yuanqu Xian": {
-			"local_code": "垣曲县"
+			"local_code": "垣曲县",
+			"postal_code_example": "043700"
 		}
 	}
 }

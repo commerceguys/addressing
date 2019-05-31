@@ -8,40 +8,52 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Fengqiu Xian": {
-			"local_code": "封丘县"
+			"local_code": "封丘县",
+			"postal_code_example": "453300"
 		},
 		"Fengquan Qu": {
-			"local_code": "凤泉区"
+			"local_code": "凤泉区",
+			"postal_code_example": "453011"
 		},
 		"Hongqi Qu": {
-			"local_code": "红旗区"
+			"local_code": "红旗区",
+			"postal_code_example": "453000"
 		},
 		"Huixian Shi": {
-			"local_code": "辉县市"
+			"local_code": "辉县市",
+			"postal_code_example": "453600"
 		},
 		"Huojia Xian": {
-			"local_code": "获嘉县"
+			"local_code": "获嘉县",
+			"postal_code_example": "453800"
 		},
 		"Muye Qu": {
-			"local_code": "牧野区"
+			"local_code": "牧野区",
+			"postal_code_example": "453002"
 		},
 		"Weibin Qu": {
-			"local_code": "卫滨区"
+			"local_code": "卫滨区",
+			"postal_code_example": "453000"
 		},
 		"Weihui Shi": {
-			"local_code": "卫辉市"
+			"local_code": "卫辉市",
+			"postal_code_example": "453100"
 		},
 		"Xinxiang Xian": {
-			"local_code": "新乡县"
+			"local_code": "新乡县",
+			"postal_code_example": "453700"
 		},
 		"Yanjin Xian": {
-			"local_code": "延津县"
+			"local_code": "延津县",
+			"postal_code_example": "453200"
 		},
 		"Yuanyang Xian": {
-			"local_code": "原阳县"
+			"local_code": "原阳县",
+			"postal_code_example": "453500"
 		},
 		"Changyuan Xian": {
-			"local_code": "长垣县"
+			"local_code": "长垣县",
+			"postal_code_example": "453400"
 		}
 	}
 }

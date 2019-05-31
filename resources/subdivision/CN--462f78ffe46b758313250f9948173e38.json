@@ -8,49 +8,63 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Anning Shi": {
-			"local_code": "安宁市"
+			"local_code": "安宁市",
+			"postal_code_example": "650300"
 		},
 		"Chenggong Qu": {
-			"local_code": "呈贡区"
+			"local_code": "呈贡区",
+			"postal_code_example": "650500"
 		},
 		"Dongchuan Qu": {
-			"local_code": "东川区"
+			"local_code": "东川区",
+			"postal_code_example": "654100"
 		},
 		"Fumin Xian": {
-			"local_code": "富民县"
+			"local_code": "富民县",
+			"postal_code_example": "650400"
 		},
 		"Guandu Qu": {
-			"local_code": "官渡区"
+			"local_code": "官渡区",
+			"postal_code_example": "650220"
 		},
 		"Jinning Xian": {
-			"local_code": "晋宁县"
+			"local_code": "晋宁县",
+			"postal_code_example": "650600"
 		},
 		"Luquan Xian": {
 			"local_code": "禄劝彝族苗族自治县",
-			"local_name": "禄劝县"
+			"local_name": "禄劝县",
+			"postal_code_example": "651500"
 		},
 		"Panlong Qu": {
-			"local_code": "盘龙区"
+			"local_code": "盘龙区",
+			"postal_code_example": "650051"
 		},
 		"Shilin Xian": {
 			"local_code": "石林彝族自治县",
-			"local_name": "石林县"
+			"local_name": "石林县",
+			"postal_code_example": "652200"
 		},
 		"Songming Xian": {
-			"local_code": "嵩明县"
+			"local_code": "嵩明县",
+			"postal_code_example": "651700"
 		},
 		"Wuhua Qu": {
-			"local_code": "五华区"
+			"local_code": "五华区",
+			"postal_code_example": "650032"
 		},
 		"Xishan Qu": {
-			"local_code": "西山区"
+			"local_code": "西山区",
+			"postal_code_example": "650100"
 		},
 		"Xundian Xian": {
 			"local_code": "寻甸回族彝族自治县",
-			"local_name": "寻甸县"
+			"local_name": "寻甸县",
+			"postal_code_example": "655200"
 		},
 		"Yiliang Xian": {
-			"local_code": "宜良县"
+			"local_code": "宜良县",
+			"postal_code_example": "652100"
 		}
 	}
 }

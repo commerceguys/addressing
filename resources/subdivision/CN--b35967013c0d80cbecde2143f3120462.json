@@ -8,37 +8,48 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Decheng Qu": {
-			"local_code": "德城区"
+			"local_code": "德城区",
+			"postal_code_example": "253011"
 		},
 		"Leling Shi": {
-			"local_code": "乐陵市"
+			"local_code": "乐陵市",
+			"postal_code_example": "253600"
 		},
 		"Linyi Xian": {
-			"local_code": "临邑县"
+			"local_code": "临邑县",
+			"postal_code_example": "251500"
 		},
 		"Ling Xian": {
-			"local_code": "陵县"
+			"local_code": "陵县",
+			"postal_code_example": "253500"
 		},
 		"Ningjin Xian": {
-			"local_code": "宁津县"
+			"local_code": "宁津县",
+			"postal_code_example": "253400"
 		},
 		"Pingyuan Xian": {
-			"local_code": "平原县"
+			"local_code": "平原县",
+			"postal_code_example": "253100"
 		},
 		"Qihe Xian": {
-			"local_code": "齐河县"
+			"local_code": "齐河县",
+			"postal_code_example": "251100"
 		},
 		"Qingyun Xian": {
-			"local_code": "庆云县"
+			"local_code": "庆云县",
+			"postal_code_example": "253700"
 		},
 		"Wucheng Xian": {
-			"local_code": "武城县"
+			"local_code": "武城县",
+			"postal_code_example": "253300"
 		},
 		"Xiajin Xian": {
-			"local_code": "夏津县"
+			"local_code": "夏津县",
+			"postal_code_example": "253200"
 		},
 		"Yucheng Shi": {
-			"local_code": "禹城市"
+			"local_code": "禹城市",
+			"postal_code_example": "251200"
 		}
 	}
 }

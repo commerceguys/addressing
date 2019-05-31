@@ -8,16 +8,20 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Akqi Xian": {
-			"local_code": "阿合奇县"
+			"local_code": "阿合奇县",
+			"postal_code_example": "843500"
 		},
 		"Akto Xian": {
-			"local_code": "阿克陶县"
+			"local_code": "阿克陶县",
+			"postal_code_example": "845550"
 		},
 		"Artux Shi": {
-			"local_code": "阿图什市"
+			"local_code": "阿图什市",
+			"postal_code_example": "845350"
 		},
 		"Wuqia Xian": {
-			"local_code": "乌恰县"
+			"local_code": "乌恰县",
+			"postal_code_example": "845450"
 		}
 	}
 }

@@ -8,22 +8,28 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Chibi Shi": {
-			"local_code": "赤壁市"
+			"local_code": "赤壁市",
+			"postal_code_example": "437300"
 		},
 		"Chongyang Xian": {
-			"local_code": "崇阳县"
+			"local_code": "崇阳县",
+			"postal_code_example": "437500"
 		},
 		"Jiayu Xian": {
-			"local_code": "嘉鱼县"
+			"local_code": "嘉鱼县",
+			"postal_code_example": "437200"
 		},
 		"Tongcheng Xian": {
-			"local_code": "通城县"
+			"local_code": "通城县",
+			"postal_code_example": "437400"
 		},
 		"Tongshan Xian": {
-			"local_code": "通山县"
+			"local_code": "通山县",
+			"postal_code_example": "437600"
 		},
 		"Xian'an Qu": {
-			"local_code": "咸安区"
+			"local_code": "咸安区",
+			"postal_code_example": "437000"
 		}
 	}
 }

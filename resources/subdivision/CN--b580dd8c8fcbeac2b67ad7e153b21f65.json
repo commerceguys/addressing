@@ -8,25 +8,32 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Daxin Xian": {
-			"local_code": "大新县"
+			"local_code": "大新县",
+			"postal_code_example": "532300"
 		},
 		"Fusui Xian": {
-			"local_code": "扶绥县"
+			"local_code": "扶绥县",
+			"postal_code_example": "532100"
 		},
 		"Jiangzhou Qu": {
-			"local_code": "江洲区"
+			"local_code": "江洲区",
+			"postal_code_example": "532200"
 		},
 		"Longzhou Xian": {
-			"local_code": "龙州县"
+			"local_code": "龙州县",
+			"postal_code_example": "532400"
 		},
 		"Ningming Xian": {
-			"local_code": "宁明县"
+			"local_code": "宁明县",
+			"postal_code_example": "532500"
 		},
 		"Pingxiang Shi": {
-			"local_code": "凭祥市"
+			"local_code": "凭祥市",
+			"postal_code_example": "532600"
 		},
 		"Tiandeng Xian": {
-			"local_code": "天等县"
+			"local_code": "天等县",
+			"postal_code_example": "532800"
 		}
 	}
 }

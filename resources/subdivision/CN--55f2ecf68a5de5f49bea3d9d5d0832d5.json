@@ -8,19 +8,24 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Anji Xian": {
-			"local_code": "安吉县"
+			"local_code": "安吉县",
+			"postal_code_example": "313300"
 		},
 		"Deqing Xian": {
-			"local_code": "德清县"
+			"local_code": "德清县",
+			"postal_code_example": "313200"
 		},
 		"Nanxun Qu": {
-			"local_code": "南浔区"
+			"local_code": "南浔区",
+			"postal_code_example": "313009"
 		},
 		"Wuxing Qu": {
-			"local_code": "吴兴区"
+			"local_code": "吴兴区",
+			"postal_code_example": "313000"
 		},
 		"Changxing Xian": {
-			"local_code": "长兴县"
+			"local_code": "长兴县",
+			"postal_code_example": "313100"
 		}
 	}
 }

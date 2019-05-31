@@ -8,22 +8,28 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Danling Xian": {
-			"local_code": "丹棱县"
+			"local_code": "丹棱县",
+			"postal_code_example": "620200"
 		},
 		"Dongpo Qu": {
-			"local_code": "东坡区"
+			"local_code": "东坡区",
+			"postal_code_example": "620010"
 		},
 		"Hongya Xian": {
-			"local_code": "洪雅县"
+			"local_code": "洪雅县",
+			"postal_code_example": "620360"
 		},
 		"Pengshan Xian": {
-			"local_code": "彭山县"
+			"local_code": "彭山县",
+			"postal_code_example": "620860"
 		},
 		"Qingshen Xian": {
-			"local_code": "青神县"
+			"local_code": "青神县",
+			"postal_code_example": "620460"
 		},
 		"Renshou Xian": {
-			"local_code": "仁寿县"
+			"local_code": "仁寿县",
+			"postal_code_example": "620500"
 		}
 	}
 }

@@ -8,28 +8,36 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Beitang Qu": {
-			"local_code": "北塘区"
+			"local_code": "北塘区",
+			"postal_code_example": "214044"
 		},
 		"Binhu Qu": {
-			"local_code": "滨湖区"
+			"local_code": "滨湖区",
+			"postal_code_example": "214062"
 		},
 		"Chong'an Qu": {
-			"local_code": "崇安区"
+			"local_code": "崇安区",
+			"postal_code_example": "214002"
 		},
 		"Huishan Qu": {
-			"local_code": "惠山区"
+			"local_code": "惠山区",
+			"postal_code_example": "214187"
 		},
 		"Jiangyin Shi": {
-			"local_code": "江阴市"
+			"local_code": "江阴市",
+			"postal_code_example": "214400"
 		},
 		"Nanchang Qu": {
-			"local_code": "南长区"
+			"local_code": "南长区",
+			"postal_code_example": "214021"
 		},
 		"Xishan Qu": {
-			"local_code": "锡山区"
+			"local_code": "锡山区",
+			"postal_code_example": "214101"
 		},
 		"Yixing Shi": {
-			"local_code": "宜兴市"
+			"local_code": "宜兴市",
+			"postal_code_example": "214200"
 		}
 	}
 }

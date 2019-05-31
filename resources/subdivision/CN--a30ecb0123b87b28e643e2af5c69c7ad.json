@@ -8,45 +8,58 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Dangyang Shi": {
-			"local_code": "当阳市"
+			"local_code": "当阳市",
+			"postal_code_example": "444100"
 		},
 		"Dianjun Qu": {
-			"local_code": "点军区"
+			"local_code": "点军区",
+			"postal_code_example": "443006"
 		},
 		"Wufeng Xian": {
 			"local_code": "五峰土家族自治县",
-			"local_name": "五峰县"
+			"local_name": "五峰县",
+			"postal_code_example": "443400"
 		},
 		"Wujiagang Qu": {
-			"local_code": "伍家岗区"
+			"local_code": "伍家岗区",
+			"postal_code_example": "443001"
 		},
 		"Xiling Qu": {
-			"local_code": "西陵区"
+			"local_code": "西陵区",
+			"postal_code_example": "443000"
 		},
 		"Xiaoting Qu": {
-			"local_code": "猇亭区"
+			"local_code": "猇亭区",
+			"postal_code_example": "443007"
 		},
 		"Xingshan Xian": {
-			"local_code": "兴山县"
+			"local_code": "兴山县",
+			"postal_code_example": "443711"
 		},
 		"Yiling Qu": {
-			"local_code": "夷陵区"
+			"local_code": "夷陵区",
+			"postal_code_example": "443100"
 		},
 		"Yidu Shi": {
-			"local_code": "宜都市"
+			"local_code": "宜都市",
+			"postal_code_example": "443300"
 		},
 		"Yuan'an Xian": {
-			"local_code": "远安县"
+			"local_code": "远安县",
+			"postal_code_example": "444200"
 		},
 		"Changyang Xian": {
 			"local_code": "长阳土家族自治县",
-			"local_name": "长阳县"
+			"local_name": "长阳县",
+			"postal_code_example": "443500"
 		},
 		"Zhijiang Shi": {
-			"local_code": "枝江市"
+			"local_code": "枝江市",
+			"postal_code_example": "443200"
 		},
 		"Zigui Xian": {
-			"local_code": "秭归县"
+			"local_code": "秭归县",
+			"postal_code_example": "443600"
 		}
 	}
 }

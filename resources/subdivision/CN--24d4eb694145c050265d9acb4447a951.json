@@ -8,13 +8,16 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Echeng Qu": {
-			"local_code": "鄂城区"
+			"local_code": "鄂城区",
+			"postal_code_example": "436000"
 		},
 		"Huarong Qu": {
-			"local_code": "华容区"
+			"local_code": "华容区",
+			"postal_code_example": "436030"
 		},
 		"Liangzihu Qu": {
-			"local_code": "梁子湖区"
+			"local_code": "梁子湖区",
+			"postal_code_example": "436064"
 		}
 	}
 }

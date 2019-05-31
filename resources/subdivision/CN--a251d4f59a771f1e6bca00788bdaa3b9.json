@@ -9,41 +9,52 @@
 	"subdivisions": {
 		"Bama Xian": {
 			"local_code": "巴马瑶族自治县",
-			"local_name": "巴马县"
+			"local_name": "巴马县",
+			"postal_code_example": "547500"
 		},
 		"Dahua Xian": {
 			"local_code": "大化瑶族自治县",
-			"local_name": "大化县"
+			"local_name": "大化县",
+			"postal_code_example": "530800"
 		},
 		"Donglan Xian": {
-			"local_code": "东兰县"
+			"local_code": "东兰县",
+			"postal_code_example": "547400"
 		},
 		"Du'an Xian": {
 			"local_code": "都安瑶族自治县",
-			"local_name": "都安县"
+			"local_name": "都安县",
+			"postal_code_example": "530700"
 		},
 		"Fengshan Xian": {
-			"local_code": "凤山县"
+			"local_code": "凤山县",
+			"postal_code_example": "547600"
 		},
 		"Huanjiang Xian": {
 			"local_code": "环江毛南族自治县",
-			"local_name": "环江县"
+			"local_name": "环江县",
+			"postal_code_example": "547100"
 		},
 		"Jinchengjiang Qu": {
-			"local_code": "金城江区"
+			"local_code": "金城江区",
+			"postal_code_example": "547000"
 		},
 		"Luocheng Xian": {
 			"local_code": "罗城仫佬族自治县",
-			"local_name": "罗城县"
+			"local_name": "罗城县",
+			"postal_code_example": "546400"
 		},
 		"Nandan Xian": {
-			"local_code": "南丹县"
+			"local_code": "南丹县",
+			"postal_code_example": "547200"
 		},
 		"Tian'e Xian": {
-			"local_code": "天峨县"
+			"local_code": "天峨县",
+			"postal_code_example": "547300"
 		},
 		"Yizhou Shi": {
-			"local_code": "宜州市"
+			"local_code": "宜州市",
+			"postal_code_example": "546300"
 		}
 	}
 }

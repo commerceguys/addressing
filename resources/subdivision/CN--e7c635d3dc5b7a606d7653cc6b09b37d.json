@@ -8,34 +8,44 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Huaiyin Qu": {
-			"local_code": "槐荫区"
+			"local_code": "槐荫区",
+			"postal_code_example": "250021"
 		},
 		"Jiyang Xian": {
-			"local_code": "济阳县"
+			"local_code": "济阳县",
+			"postal_code_example": "251400"
 		},
 		"Licheng Qu": {
-			"local_code": "历城区"
+			"local_code": "历城区",
+			"postal_code_example": "250100"
 		},
 		"Lixia Qu": {
-			"local_code": "历下区"
+			"local_code": "历下区",
+			"postal_code_example": "250013"
 		},
 		"Pingyin Xian": {
-			"local_code": "平阴县"
+			"local_code": "平阴县",
+			"postal_code_example": "250400"
 		},
 		"Shanghe Xian": {
-			"local_code": "商河县"
+			"local_code": "商河县",
+			"postal_code_example": "251600"
 		},
 		"Shizhong Qu": {
-			"local_code": "市中区"
+			"local_code": "市中区",
+			"postal_code_example": "250001"
 		},
 		"Tianqiao Qu": {
-			"local_code": "天桥区"
+			"local_code": "天桥区",
+			"postal_code_example": "250031"
 		},
 		"Zhangqiu Shi": {
-			"local_code": "章丘市"
+			"local_code": "章丘市",
+			"postal_code_example": "250200"
 		},
 		"Changqing Qu": {
-			"local_code": "长清区"
+			"local_code": "长清区",
+			"postal_code_example": "250300"
 		}
 	}
 }

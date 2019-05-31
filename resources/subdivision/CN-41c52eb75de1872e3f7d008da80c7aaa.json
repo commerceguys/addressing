@@ -7,55 +7,72 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Baoshan Qu": {
-			"local_code": "宝山区"
+			"local_code": "宝山区",
+			"postal_code_example": "201900"
 		},
 		"Chongming Xian": {
-			"local_code": "崇明县"
+			"local_code": "崇明县",
+			"postal_code_example": "201500"
 		},
 		"Fengxian Qu": {
-			"local_code": "奉贤区"
+			"local_code": "奉贤区",
+			"postal_code_example": "201400"
 		},
 		"Hongkou Qu": {
-			"local_code": "虹口区"
+			"local_code": "虹口区",
+			"postal_code_example": "200080"
 		},
 		"Huangpu Qu": {
-			"local_code": "黄浦区"
+			"local_code": "黄浦区",
+			"postal_code_example": "200002"
 		},
 		"Jiading Qu": {
-			"local_code": "嘉定区"
+			"local_code": "嘉定区",
+			"postal_code_example": "201800"
 		},
 		"Jinshan Qu": {
-			"local_code": "金山区"
+			"local_code": "金山区",
+			"postal_code_example": "201500"
 		},
 		"Jing'an Qu": {
-			"local_code": "静安区"
+			"local_code": "静安区",
+			"postal_code_example": "200040"
 		},
 		"Minhang Qu": {
-			"local_code": "闵行区"
+			"local_code": "闵行区",
+			"postal_code_example": "201100"
 		},
 		"Pudong Xinqu": {
-			"local_code": "浦东新区"
+			"local_code": "浦东新区",
+			"postal_code_example": "200120"
 		},
 		"Putuo Qu": {
-			"local_code": "普陀区"
+			"local_code": "普陀区",
+			"postal_code_example": "200063"
 		},
 		"Qingpu Qu": {
-			"local_code": "青浦区"
+			"local_code": "青浦区",
+			"postal_code_example": "201700"
 		},
 		"Songjiang Qu": {
-			"local_code": "松江区"
+			"local_code": "松江区",
+			"postal_code_example": "201600"
 		},
 		"Xuhui Qu": {
-			"local_code": "徐汇区"
+			"local_code": "徐汇区",
+			"postal_code_example": "200030"
 		},
 		"Yangpu Qu": {
-			"local_code": "杨浦区"
+			"local_code": "杨浦区",
+			"postal_code_example": "200082"
 		},
 		"Zhabei Qu": {
-			"local_code": "闸北区"
+			"local_code": "闸北区",
+			"postal_code_example": "200070"
 		},
 		"Changning Qu": {
-			"local_code": "长宁区"
+			"local_code": "长宁区",
+			"postal_code_example": "200050"
 		}
 	}
 }

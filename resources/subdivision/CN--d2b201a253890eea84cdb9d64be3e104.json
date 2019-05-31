@@ -8,40 +8,51 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Anxi Xian": {
-			"local_code": "安溪县"
+			"local_code": "安溪县",
+			"postal_code_example": "362400"
 		},
 		"Dehua Xian": {
-			"local_code": "德化县"
+			"local_code": "德化县",
+			"postal_code_example": "362500"
 		},
 		"Fengze Qu": {
-			"local_code": "丰泽区"
+			"local_code": "丰泽区",
+			"postal_code_example": "362000"
 		},
 		"Hui'an Xian": {
-			"local_code": "惠安县"
+			"local_code": "惠安县",
+			"postal_code_example": "362100"
 		},
 		"Jinmen Xian": {
 			"local_code": "金门县"
 		},
 		"Jinjiang Shi": {
-			"local_code": "晋江市"
+			"local_code": "晋江市",
+			"postal_code_example": "362200"
 		},
 		"Licheng Qu": {
-			"local_code": "鲤城区"
+			"local_code": "鲤城区",
+			"postal_code_example": "362000"
 		},
 		"Luojiang Qu": {
-			"local_code": "洛江区"
+			"local_code": "洛江区",
+			"postal_code_example": "362000"
 		},
 		"Nan'an Shi": {
-			"local_code": "南安市"
+			"local_code": "南安市",
+			"postal_code_example": "362300"
 		},
 		"Quangang Qu": {
-			"local_code": "泉港区"
+			"local_code": "泉港区",
+			"postal_code_example": "362801"
 		},
 		"Shishi Shi": {
-			"local_code": "石狮市"
+			"local_code": "石狮市",
+			"postal_code_example": "362700"
 		},
 		"Yongchun Xian": {
-			"local_code": "永春县"
+			"local_code": "永春县",
+			"postal_code_example": "362600"
 		}
 	}
 }

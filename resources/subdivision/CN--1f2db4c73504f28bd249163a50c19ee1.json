@@ -8,23 +8,29 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Donggang Shi": {
-			"local_code": "东港市"
+			"local_code": "东港市",
+			"postal_code_example": "118300"
 		},
 		"Fengcheng Shi": {
-			"local_code": "凤城市"
+			"local_code": "凤城市",
+			"postal_code_example": "118100"
 		},
 		"Kuandian Xian": {
 			"local_code": "宽甸满族自治县",
-			"local_name": "宽甸县"
+			"local_name": "宽甸县",
+			"postal_code_example": "118200"
 		},
 		"Yuanbao Qu": {
-			"local_code": "元宝区"
+			"local_code": "元宝区",
+			"postal_code_example": "118000"
 		},
 		"Zhen'an Qu": {
-			"local_code": "振安区"
+			"local_code": "振安区",
+			"postal_code_example": "118001"
 		},
 		"Zhenxing Qu": {
-			"local_code": "振兴区"
+			"local_code": "振兴区",
+			"postal_code_example": "118002"
 		}
 	}
 }

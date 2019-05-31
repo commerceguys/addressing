@@ -8,56 +8,73 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Butuo Xian": {
-			"local_code": "布拖县"
+			"local_code": "布拖县",
+			"postal_code_example": "615350"
 		},
 		"Dechang Xian": {
-			"local_code": "德昌县"
+			"local_code": "德昌县",
+			"postal_code_example": "615500"
 		},
 		"Ganluo Xian": {
-			"local_code": "甘洛县"
+			"local_code": "甘洛县",
+			"postal_code_example": "616850"
 		},
 		"Huidong Xian": {
-			"local_code": "会东县"
+			"local_code": "会东县",
+			"postal_code_example": "615200"
 		},
 		"Huili Xian": {
-			"local_code": "会理县"
+			"local_code": "会理县",
+			"postal_code_example": "615100"
 		},
 		"Jinyang Xian": {
-			"local_code": "金阳县"
+			"local_code": "金阳县",
+			"postal_code_example": "616250"
 		},
 		"Leibo Xian": {
-			"local_code": "雷波县"
+			"local_code": "雷波县",
+			"postal_code_example": "616550"
 		},
 		"Meigu Xian": {
-			"local_code": "美姑县"
+			"local_code": "美姑县",
+			"postal_code_example": "616450"
 		},
 		"Mianning Xian": {
-			"local_code": "冕宁县"
+			"local_code": "冕宁县",
+			"postal_code_example": "615600"
 		},
 		"Muli Xian": {
 			"local_code": "木里藏族自治县",
-			"local_name": "木里县"
+			"local_name": "木里县",
+			"postal_code_example": "615800"
 		},
 		"Ningnan Xian": {
-			"local_code": "宁南县"
+			"local_code": "宁南县",
+			"postal_code_example": "615400"
 		},
 		"Puge Xian": {
-			"local_code": "普格县"
+			"local_code": "普格县",
+			"postal_code_example": "615300"
 		},
 		"Xichang Shi": {
-			"local_code": "西昌市"
+			"local_code": "西昌市",
+			"postal_code_example": "615000"
 		},
 		"Xide Xian": {
-			"local_code": "喜德县"
+			"local_code": "喜德县",
+			"postal_code_example": "616750"
 		},
 		"Yanyuan Xian": {
-			"local_code": "盐源县"
+			"local_code": "盐源县",
+			"postal_code_example": "615700"
 		},
 		"Yuexi Xian": {
-			"local_code": "越西县"
+			"local_code": "越西县",
+			"postal_code_example": "616650"
 		},
 		"Zhaojue Xian": {
-			"local_code": "昭觉县"
+			"local_code": "昭觉县",
+			"postal_code_example": "616150"
 		}
 	}
 }

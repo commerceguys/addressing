@@ -8,25 +8,32 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Haining Shi": {
-			"local_code": "海宁市"
+			"local_code": "海宁市",
+			"postal_code_example": "314400"
 		},
 		"Haiyan Xian": {
-			"local_code": "海盐县"
+			"local_code": "海盐县",
+			"postal_code_example": "314300"
 		},
 		"Jiashan Xian": {
-			"local_code": "嘉善县"
+			"local_code": "嘉善县",
+			"postal_code_example": "314100"
 		},
 		"Nanhu Qu": {
-			"local_code": "南湖区"
+			"local_code": "南湖区",
+			"postal_code_example": "314001"
 		},
 		"Pinghu Shi": {
-			"local_code": "平湖市"
+			"local_code": "平湖市",
+			"postal_code_example": "314200"
 		},
 		"Tongxiang Shi": {
-			"local_code": "桐乡市"
+			"local_code": "桐乡市",
+			"postal_code_example": "314500"
 		},
 		"Xiuzhou Qu": {
-			"local_code": "秀洲区"
+			"local_code": "秀洲区",
+			"postal_code_example": "314001"
 		}
 	}
 }

@@ -8,25 +8,32 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Anding Qu": {
-			"local_code": "安定区"
+			"local_code": "安定区",
+			"postal_code_example": "743000"
 		},
 		"Lintao Xian": {
-			"local_code": "临洮县"
+			"local_code": "临洮县",
+			"postal_code_example": "730500"
 		},
 		"Longxi Xian": {
-			"local_code": "陇西县"
+			"local_code": "陇西县",
+			"postal_code_example": "748100"
 		},
 		"Min Xian": {
-			"local_code": "岷县"
+			"local_code": "岷县",
+			"postal_code_example": "748400"
 		},
 		"Tongwei Xian": {
-			"local_code": "通渭县"
+			"local_code": "通渭县",
+			"postal_code_example": "743300"
 		},
 		"Weiyuan Xian": {
-			"local_code": "渭源县"
+			"local_code": "渭源县",
+			"postal_code_example": "748200"
 		},
 		"Zhang Xian": {
-			"local_code": "漳县"
+			"local_code": "漳县",
+			"postal_code_example": "748300"
 		}
 	}
 }

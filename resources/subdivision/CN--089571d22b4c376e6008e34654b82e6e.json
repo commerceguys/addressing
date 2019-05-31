@@ -8,25 +8,32 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Gulin Xian": {
-			"local_code": "古蔺县"
+			"local_code": "古蔺县",
+			"postal_code_example": "646500"
 		},
 		"Hejiang Xian": {
-			"local_code": "合江县"
+			"local_code": "合江县",
+			"postal_code_example": "646200"
 		},
 		"Jiangyang Qu": {
-			"local_code": "江阳区"
+			"local_code": "江阳区",
+			"postal_code_example": "646000"
 		},
 		"Longmatan Qu": {
-			"local_code": "龙马潭区"
+			"local_code": "龙马潭区",
+			"postal_code_example": "646000"
 		},
 		"Lu Xian": {
-			"local_code": "泸县"
+			"local_code": "泸县",
+			"postal_code_example": "646106"
 		},
 		"Naxi Qu": {
-			"local_code": "纳溪区"
+			"local_code": "纳溪区",
+			"postal_code_example": "646300"
 		},
 		"Xuyong Xian": {
-			"local_code": "叙永县"
+			"local_code": "叙永县",
+			"postal_code_example": "646400"
 		}
 	}
 }

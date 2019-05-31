@@ -8,28 +8,36 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Chongchuan Qu": {
-			"local_code": "崇川区"
+			"local_code": "崇川区",
+			"postal_code_example": "226001"
 		},
 		"Gangzha Qu": {
-			"local_code": "港闸区"
+			"local_code": "港闸区",
+			"postal_code_example": "226001"
 		},
 		"Hai'an Xian": {
-			"local_code": "海安县"
+			"local_code": "海安县",
+			"postal_code_example": "226600"
 		},
 		"Haimen Shi": {
-			"local_code": "海门市"
+			"local_code": "海门市",
+			"postal_code_example": "226100"
 		},
 		"Qidong Shi": {
-			"local_code": "启东市"
+			"local_code": "启东市",
+			"postal_code_example": "226200"
 		},
 		"Rudong Xian": {
-			"local_code": "如东县"
+			"local_code": "如东县",
+			"postal_code_example": "226400"
 		},
 		"Rugao Shi": {
-			"local_code": "如皋市"
+			"local_code": "如皋市",
+			"postal_code_example": "226500"
 		},
 		"Tongzhou Shi": {
-			"local_code": "通州市"
+			"local_code": "通州市",
+			"postal_code_example": "226300"
 		}
 	}
 }

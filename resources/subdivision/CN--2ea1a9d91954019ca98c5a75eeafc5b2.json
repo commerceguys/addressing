@@ -8,34 +8,43 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Chengjiang Xian": {
-			"local_code": "澄江县"
+			"local_code": "澄江县",
+			"postal_code_example": "652500"
 		},
 		"Eshan Xian": {
 			"local_code": "峨山彝族自治县",
-			"local_name": "峨山县"
+			"local_name": "峨山县",
+			"postal_code_example": "653200"
 		},
 		"Hongta Qu": {
-			"local_code": "红塔区"
+			"local_code": "红塔区",
+			"postal_code_example": "653100"
 		},
 		"Huaning Xian": {
-			"local_code": "华宁县"
+			"local_code": "华宁县",
+			"postal_code_example": "652800"
 		},
 		"Jiangchuan Xian": {
-			"local_code": "江川县"
+			"local_code": "江川县",
+			"postal_code_example": "652600"
 		},
 		"Tonghai Xian": {
-			"local_code": "通海县"
+			"local_code": "通海县",
+			"postal_code_example": "652700"
 		},
 		"Xinping Xian": {
 			"local_code": "新平彝族傣族自治县",
-			"local_name": "新平县"
+			"local_name": "新平县",
+			"postal_code_example": "653400"
 		},
 		"Yimen Xian": {
-			"local_code": "易门县"
+			"local_code": "易门县",
+			"postal_code_example": "651100"
 		},
 		"Yuanjiang Xian": {
 			"local_code": "元江哈尼族彝族傣族自治县",
-			"local_name": "元江县"
+			"local_name": "元江县",
+			"postal_code_example": "653300"
 		}
 	}
 }

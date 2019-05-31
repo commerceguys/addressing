@@ -8,22 +8,28 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Helan Xian": {
-			"local_code": "贺兰县"
+			"local_code": "贺兰县",
+			"postal_code_example": "750200"
 		},
 		"Jinfeng Qu": {
-			"local_code": "金凤区"
+			"local_code": "金凤区",
+			"postal_code_example": "750011"
 		},
 		"Lingwu Shi": {
-			"local_code": "灵武市"
+			"local_code": "灵武市",
+			"postal_code_example": "750400"
 		},
 		"Xixia Qu": {
-			"local_code": "西夏区"
+			"local_code": "西夏区",
+			"postal_code_example": "750027"
 		},
 		"Xingqing Qu": {
-			"local_code": "兴庆区"
+			"local_code": "兴庆区",
+			"postal_code_example": "750001"
 		},
 		"Yongning Xian": {
-			"local_code": "永宁县"
+			"local_code": "永宁县",
+			"postal_code_example": "750100"
 		}
 	}
 }

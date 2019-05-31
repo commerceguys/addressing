@@ -8,54 +8,67 @@
 	"subdivisions": {
 		"Changzhou Shi": {
 			"local_code": "常州市",
+			"postal_code_example": "213003",
 			"has_children": true
 		},
 		"Huai'an Shi": {
 			"local_code": "淮安市",
+			"postal_code_example": "223001",
 			"has_children": true
 		},
 		"Lianyungang Shi": {
 			"local_code": "连云港市",
+			"postal_code_example": "222002",
 			"has_children": true
 		},
 		"Nanjing Shi": {
 			"local_code": "南京市",
+			"postal_code_example": "210008",
 			"has_children": true
 		},
 		"Nantong Shi": {
 			"local_code": "南通市",
+			"postal_code_example": "226001",
 			"has_children": true
 		},
 		"Suzhou Shi": {
 			"local_code": "苏州市",
+			"postal_code_example": "215002",
 			"has_children": true
 		},
 		"Suqian Shi": {
 			"local_code": "宿迁市",
+			"postal_code_example": "223800",
 			"has_children": true
 		},
 		"Taizhou Shi": {
 			"local_code": "泰州市",
+			"postal_code_example": "225300",
 			"has_children": true
 		},
 		"Wuxi Shi": {
 			"local_code": "无锡市",
+			"postal_code_example": "214001",
 			"has_children": true
 		},
 		"Xuzhou Shi": {
 			"local_code": "徐州市",
+			"postal_code_example": "221003",
 			"has_children": true
 		},
 		"Yancheng Shi": {
 			"local_code": "盐城市",
+			"postal_code_example": "224005",
 			"has_children": true
 		},
 		"Yangzhou Shi": {
 			"local_code": "扬州市",
+			"postal_code_example": "225002",
 			"has_children": true
 		},
 		"Zhenjiang Shi": {
 			"local_code": "镇江市",
+			"postal_code_example": "212001",
 			"has_children": true
 		}
 	}

@@ -8,46 +8,57 @@
 	"subdivisions": {
 		"Fuzhou Shi": {
 			"local_code": "抚州市",
+			"postal_code_example": "344000",
 			"has_children": true
 		},
 		"Ganzhou Shi": {
 			"local_code": "赣州市",
+			"postal_code_example": "341000",
 			"has_children": true
 		},
 		"Ji'an Shi": {
 			"local_code": "吉安市",
+			"postal_code_example": "343000",
 			"has_children": true
 		},
 		"Jingdezhen Shi": {
 			"local_code": "景德镇市",
+			"postal_code_example": "333000",
 			"has_children": true
 		},
 		"Jiujiang Shi": {
 			"local_code": "九江市",
+			"postal_code_example": "332000",
 			"has_children": true
 		},
 		"Nanchang Shi": {
 			"local_code": "南昌市",
+			"postal_code_example": "330008",
 			"has_children": true
 		},
 		"Pingxiang Shi": {
 			"local_code": "萍乡市",
+			"postal_code_example": "337002",
 			"has_children": true
 		},
 		"Shangrao Shi": {
 			"local_code": "上饶市",
+			"postal_code_example": "334000",
 			"has_children": true
 		},
 		"Xinyu Shi": {
 			"local_code": "新余市",
+			"postal_code_example": "336525",
 			"has_children": true
 		},
 		"Yichun shi": {
 			"local_code": "宜春市",
+			"postal_code_example": "336000",
 			"has_children": true
 		},
 		"Yingtan Shi": {
 			"local_code": "鹰潭市",
+			"postal_code_example": "335001",
 			"has_children": true
 		}
 	}

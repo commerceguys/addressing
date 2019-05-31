@@ -8,39 +8,48 @@
 	"subdivisions": {
 		"Baicheng Shi": {
 			"local_code": "白城市",
+			"postal_code_example": "137000",
 			"has_children": true
 		},
 		"Baishan Shi": {
 			"local_code": "白山市",
+			"postal_code_example": "134300",
 			"has_children": true
 		},
 		"Jilin Shi": {
 			"local_code": "吉林市",
+			"postal_code_example": "132011",
 			"has_children": true
 		},
 		"Liaoyuan Shi": {
 			"local_code": "辽源市",
+			"postal_code_example": "136200",
 			"has_children": true
 		},
 		"Siping Shi": {
 			"local_code": "四平市",
+			"postal_code_example": "136000",
 			"has_children": true
 		},
 		"Songyuan Shi": {
 			"local_code": "松原市",
+			"postal_code_example": "138000",
 			"has_children": true
 		},
 		"Tonghua Shi": {
 			"local_code": "通化市",
+			"postal_code_example": "134001",
 			"has_children": true
 		},
 		"Yanbian Zhou": {
 			"local_code": "延边朝鲜族自治州",
 			"local_name": "延边州",
+			"postal_code_example": "133000",
 			"has_children": true
 		},
 		"Changchun Shi": {
 			"local_code": "长春市",
+			"postal_code_example": "130061",
 			"has_children": true
 		}
 	}

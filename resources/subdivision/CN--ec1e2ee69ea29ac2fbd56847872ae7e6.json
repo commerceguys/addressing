@@ -8,41 +8,53 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Duyun Shi": {
-			"local_code": "都匀市"
+			"local_code": "都匀市",
+			"postal_code_example": "558000"
 		},
 		"Dushan Xian": {
-			"local_code": "独山县"
+			"local_code": "独山县",
+			"postal_code_example": "558200"
 		},
 		"Fuquan Shi": {
-			"local_code": "福泉市"
+			"local_code": "福泉市",
+			"postal_code_example": "550500"
 		},
 		"Guiding Xian": {
-			"local_code": "贵定县"
+			"local_code": "贵定县",
+			"postal_code_example": "551300"
 		},
 		"Huishui Xian": {
-			"local_code": "惠水县"
+			"local_code": "惠水县",
+			"postal_code_example": "550600"
 		},
 		"Libo Xian": {
-			"local_code": "荔波县"
+			"local_code": "荔波县",
+			"postal_code_example": "558400"
 		},
 		"Longli Xian": {
-			"local_code": "龙里县"
+			"local_code": "龙里县",
+			"postal_code_example": "551200"
 		},
 		"Luodian Xian": {
-			"local_code": "罗甸县"
+			"local_code": "罗甸县",
+			"postal_code_example": "550100"
 		},
 		"Pingtang Xian": {
-			"local_code": "平塘县"
+			"local_code": "平塘县",
+			"postal_code_example": "558300"
 		},
 		"Sandu Xian": {
 			"local_code": "三都水族自治县",
-			"local_name": "三都县"
+			"local_name": "三都县",
+			"postal_code_example": "558100"
 		},
 		"Weng'an Xian": {
-			"local_code": "瓮安县"
+			"local_code": "瓮安县",
+			"postal_code_example": "550400"
 		},
 		"Changshun Xian": {
-			"local_code": "长顺县"
+			"local_code": "长顺县",
+			"postal_code_example": "550700"
 		}
 	}
 }

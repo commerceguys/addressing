@@ -8,58 +8,76 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Batang Xian": {
-			"local_code": "巴塘县"
+			"local_code": "巴塘县",
+			"postal_code_example": "627650"
 		},
 		"Baiyu Xian": {
-			"local_code": "白玉县"
+			"local_code": "白玉县",
+			"postal_code_example": "627150"
 		},
 		"Danba Xian": {
-			"local_code": "丹巴县"
+			"local_code": "丹巴县",
+			"postal_code_example": "626300"
 		},
 		"Dawu Xian": {
-			"local_code": "道孚县"
+			"local_code": "道孚县",
+			"postal_code_example": "626400"
 		},
 		"Daocheng Xian": {
-			"local_code": "稻城县"
+			"local_code": "稻城县",
+			"postal_code_example": "627750"
 		},
 		"Dêrong Xian": {
-			"local_code": "得荣县"
+			"local_code": "得荣县",
+			"postal_code_example": "627950"
 		},
 		"Dêgê Xian": {
-			"local_code": "德格县"
+			"local_code": "德格县",
+			"postal_code_example": "627250"
 		},
 		"Garzê Xian": {
-			"local_code": "甘孜县"
+			"local_code": "甘孜县",
+			"postal_code_example": "626700"
 		},
 		"Jiulong Xian": {
-			"local_code": "九龙县"
+			"local_code": "九龙县",
+			"postal_code_example": "616200"
 		},
 		"Kangding Xian": {
-			"local_code": "康定县"
+			"local_code": "康定县",
+			"postal_code_example": "626000"
 		},
 		"Litang Xian": {
-			"local_code": "理塘县"
+			"local_code": "理塘县",
+			"postal_code_example": "624300"
 		},
 		"Luding Xian": {
-			"local_code": "泸定县"
+			"local_code": "泸定县",
+			"postal_code_example": "626100"
 		},
 		"Luhuo Xian": {
-			"local_code": "炉霍县"
+			"local_code": "炉霍县",
+			"postal_code_example": "626500"
 		},
 		"Sêrtar Xian": {
-			"local_code": "色达县"
+			"local_code": "色达县",
+			"postal_code_example": "626600"
 		},
 		"Sêrxü Xian": {
-			"local_code": "石渠县"
+			"local_code": "石渠县",
+			"postal_code_example": "627350"
 		},
 		"Xiangcheng Xian": {
-			"local_code": "乡城县"
+			"local_code": "乡城县",
+			"postal_code_example": "627850"
 		},
 		"Xinlong Xian": {
-			"local_code": "新龙县"
+			"local_code": "新龙县",
+			"postal_code_example": "626800"
 		},
 		"Yajiang Xian": {
-			"local_code": "雅江县"
+			"local_code": "雅江县",
+			"postal_code_example": "627450"
 		}
 	}
 }

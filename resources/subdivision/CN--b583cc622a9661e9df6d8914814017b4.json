@@ -8,28 +8,36 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Anning Qu": {
-			"local_code": "安宁区"
+			"local_code": "安宁区",
+			"postal_code_example": "730070"
 		},
 		"Chengguan Qu": {
-			"local_code": "城关区"
+			"local_code": "城关区",
+			"postal_code_example": "730030"
 		},
 		"Gaolan Xian": {
-			"local_code": "皋兰县"
+			"local_code": "皋兰县",
+			"postal_code_example": "730200"
 		},
 		"Honggu Qu": {
-			"local_code": "红古区"
+			"local_code": "红古区",
+			"postal_code_example": "730080"
 		},
 		"Qilihe Qu": {
-			"local_code": "七里河区"
+			"local_code": "七里河区",
+			"postal_code_example": "730050"
 		},
 		"Xigu Qu": {
-			"local_code": "西固区"
+			"local_code": "西固区",
+			"postal_code_example": "730060"
 		},
 		"Yongdeng Xian": {
-			"local_code": "永登县"
+			"local_code": "永登县",
+			"postal_code_example": "730300"
 		},
 		"Yuzhong Xian": {
-			"local_code": "榆中县"
+			"local_code": "榆中县",
+			"postal_code_example": "730100"
 		}
 	}
 }

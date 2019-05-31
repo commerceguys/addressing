@@ -8,40 +8,51 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Chengde Xian": {
-			"local_code": "承德县"
+			"local_code": "承德县",
+			"postal_code_example": "067400"
 		},
 		"Fengning Xian": {
 			"local_code": "丰宁满族自治县",
-			"local_name": "丰宁县"
+			"local_name": "丰宁县",
+			"postal_code_example": "068350"
 		},
 		"Kuancheng Xian": {
 			"local_code": "宽城满族自治县",
-			"local_name": "宽城县"
+			"local_name": "宽城县",
+			"postal_code_example": "067600"
 		},
 		"Longhua Xian": {
-			"local_code": "隆化县"
+			"local_code": "隆化县",
+			"postal_code_example": "068150"
 		},
 		"Luanping Xian": {
-			"local_code": "滦平县"
+			"local_code": "滦平县",
+			"postal_code_example": "068250"
 		},
 		"Pingquan Xian": {
-			"local_code": "平泉县"
+			"local_code": "平泉县",
+			"postal_code_example": "067500"
 		},
 		"Shuangluan Qu": {
-			"local_code": "双滦区"
+			"local_code": "双滦区",
+			"postal_code_example": "067000"
 		},
 		"Shuangqiao Qu": {
-			"local_code": "双桥区"
+			"local_code": "双桥区",
+			"postal_code_example": "067000"
 		},
 		"Weichang Xian": {
 			"local_code": "围场满族蒙古族自治县",
-			"local_name": "围场县"
+			"local_name": "围场县",
+			"postal_code_example": "068450"
 		},
 		"Xinglong Xian": {
-			"local_code": "兴隆县"
+			"local_code": "兴隆县",
+			"postal_code_example": "067300"
 		},
 		"Yingshouyingzi Kuangqu": {
-			"local_code": "鹰手营子矿区"
+			"local_code": "鹰手营子矿区",
+			"postal_code_example": "067000"
 		}
 	}
 }

@@ -8,49 +8,64 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Chanhe Huizu Qu": {
-			"local_code": "瀍河回族区"
+			"local_code": "瀍河回族区",
+			"postal_code_example": "471002"
 		},
 		"Jili Qu": {
-			"local_code": "吉利区"
+			"local_code": "吉利区",
+			"postal_code_example": "471012"
 		},
 		"Jianxi Qu": {
-			"local_code": "涧西区"
+			"local_code": "涧西区",
+			"postal_code_example": "471003"
 		},
 		"Laocheng Qu": {
-			"local_code": "老城区"
+			"local_code": "老城区",
+			"postal_code_example": "471002"
 		},
 		"Luanchuan Xian": {
-			"local_code": "栾川县"
+			"local_code": "栾川县",
+			"postal_code_example": "471500"
 		},
 		"Luolong Qu": {
-			"local_code": "洛龙区"
+			"local_code": "洛龙区",
+			"postal_code_example": "471000"
 		},
 		"Luoning Xian": {
-			"local_code": "洛宁县"
+			"local_code": "洛宁县",
+			"postal_code_example": "471700"
 		},
 		"Mengjin Xian": {
-			"local_code": "孟津县"
+			"local_code": "孟津县",
+			"postal_code_example": "471100"
 		},
 		"Ruyang Xian": {
-			"local_code": "汝阳县"
+			"local_code": "汝阳县",
+			"postal_code_example": "471200"
 		},
 		"Song Xian": {
-			"local_code": "嵩县"
+			"local_code": "嵩县",
+			"postal_code_example": "471400"
 		},
 		"Xigong Qu": {
-			"local_code": "西工区"
+			"local_code": "西工区",
+			"postal_code_example": "471000"
 		},
 		"Xin'an Xian": {
-			"local_code": "新安县"
+			"local_code": "新安县",
+			"postal_code_example": "471800"
 		},
 		"Yanshi Shi": {
-			"local_code": "偃师市"
+			"local_code": "偃师市",
+			"postal_code_example": "471900"
 		},
 		"Yichuan Xian": {
-			"local_code": "伊川县"
+			"local_code": "伊川县",
+			"postal_code_example": "471300"
 		},
 		"Yiyang Xian": {
-			"local_code": "宜阳县"
+			"local_code": "宜阳县",
+			"postal_code_example": "471600"
 		}
 	}
 }

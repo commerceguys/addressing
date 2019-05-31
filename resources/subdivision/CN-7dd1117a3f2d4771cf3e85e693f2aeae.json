@@ -8,22 +8,27 @@
 	"subdivisions": {
 		"Guyuan Shi": {
 			"local_code": "固原市",
+			"postal_code_example": "756000",
 			"has_children": true
 		},
 		"Shizuishan Shi": {
 			"local_code": "石嘴山市",
+			"postal_code_example": "753000",
 			"has_children": true
 		},
 		"Wuzhong Shi": {
 			"local_code": "吴忠市",
+			"postal_code_example": "751100",
 			"has_children": true
 		},
 		"Yinchuan Shi": {
 			"local_code": "银川市",
+			"postal_code_example": "750004",
 			"has_children": true
 		},
 		"Zhongwei Shi": {
 			"local_code": "中卫市",
+			"postal_code_example": "751700",
 			"has_children": true
 		}
 	}

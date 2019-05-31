@@ -9,39 +9,47 @@
 		"Golog Zhou": {
 			"local_code": "果洛藏族自治州",
 			"local_name": "果洛州",
+			"postal_code_example": "814000",
 			"has_children": true
 		},
 		"Haibei Zhou": {
 			"local_code": "海北藏族自治州",
 			"local_name": "海北州",
+			"postal_code_example": "812200",
 			"has_children": true
 		},
 		"Haidong Shi": {
 			"local_code": "海东市",
+			"postal_code_example": "810600",
 			"has_children": true
 		},
 		"Hainan Zhou": {
 			"local_code": "海南藏族自治州",
 			"local_name": "海南州",
+			"postal_code_example": "813000",
 			"has_children": true
 		},
 		"Haixi Zhou": {
 			"local_code": "海西蒙古族藏族自治州",
 			"local_name": "海西州",
+			"postal_code_example": "817000",
 			"has_children": true
 		},
 		"Huangnan Zhou": {
 			"local_code": "黄南藏族自治州",
 			"local_name": "黄南州",
+			"postal_code_example": "811300",
 			"has_children": true
 		},
 		"Xining Shi": {
 			"local_code": "西宁市",
+			"postal_code_example": "810000",
 			"has_children": true
 		},
 		"Yushu Zhou": {
 			"local_code": "玉树藏族自治州",
 			"local_name": "玉树州",
+			"postal_code_example": "815000",
 			"has_children": true
 		}
 	}

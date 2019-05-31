@@ -8,22 +8,28 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Bayuquan Qu": {
-			"local_code": "鲅鱼圈区"
+			"local_code": "鲅鱼圈区",
+			"postal_code_example": "115007"
 		},
 		"Dashiqiao Shi": {
-			"local_code": "大石桥市"
+			"local_code": "大石桥市",
+			"postal_code_example": "115100"
 		},
 		"Gaizhou Shi": {
-			"local_code": "盖州市"
+			"local_code": "盖州市",
+			"postal_code_example": "115200"
 		},
 		"Laobian Qu": {
-			"local_code": "老边区"
+			"local_code": "老边区",
+			"postal_code_example": "115005"
 		},
 		"Xishi Qu": {
-			"local_code": "西市区"
+			"local_code": "西市区",
+			"postal_code_example": "115004"
 		},
 		"Zhanqian Qu": {
-			"local_code": "站前区"
+			"local_code": "站前区",
+			"postal_code_example": "115002"
 		}
 	}
 }

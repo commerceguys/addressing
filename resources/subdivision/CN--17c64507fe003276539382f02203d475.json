@@ -8,22 +8,28 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Guanghan Shi": {
-			"local_code": "广汉市"
+			"local_code": "广汉市",
+			"postal_code_example": "618300"
 		},
 		"Jingyang Qu": {
-			"local_code": "旌阳区"
+			"local_code": "旌阳区",
+			"postal_code_example": "618000"
 		},
 		"Luojiang Xian": {
-			"local_code": "罗江县"
+			"local_code": "罗江县",
+			"postal_code_example": "618500"
 		},
 		"Mianzhu Shi": {
-			"local_code": "绵竹市"
+			"local_code": "绵竹市",
+			"postal_code_example": "618200"
 		},
 		"Shifang Shi": {
-			"local_code": "什邡市"
+			"local_code": "什邡市",
+			"postal_code_example": "618400"
 		},
 		"Zhongjiang Xian": {
-			"local_code": "中江县"
+			"local_code": "中江县",
+			"postal_code_example": "618300"
 		}
 	}
 }

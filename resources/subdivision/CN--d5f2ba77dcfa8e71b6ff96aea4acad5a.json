@@ -8,10 +8,12 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Zengdu Qu": {
-			"local_code": "曾都区"
+			"local_code": "曾都区",
+			"postal_code_example": "441300"
 		},
 		"Guangshui Shi": {
-			"local_code": "广水市"
+			"local_code": "广水市",
+			"postal_code_example": "432700"
 		}
 	}
 }

@@ -6,14 +6,29 @@
 	],
 	"locale": "ko",
 	"subdivisions": {
+		"Goun-dong": {
+			"local_code": "고운동"
+		},
 		"Geumnam-myeon": {
 			"local_code": "금남면"
+		},
+		"Daepyeong-dong": {
+			"local_code": "대평동"
 		},
 		"Dodam-dong": {
 			"local_code": "도담동"
 		},
+		"Boram-dong": {
+			"local_code": "보람동"
+		},
 		"Bugang-myeon": {
 			"local_code": "부강면"
+		},
+		"Saerom-dong": {
+			"local_code": "새롬동"
+		},
+		"Sodam-dong": {
+			"local_code": "소담동"
 		},
 		"Sojeong-myeon": {
 			"local_code": "소정면"

@@ -8,37 +8,48 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Gaochun Qu": {
-			"local_code": "高淳区"
+			"local_code": "高淳区",
+			"postal_code_example": "211300"
 		},
 		"Gulou Qu": {
-			"local_code": "鼓楼区"
+			"local_code": "鼓楼区",
+			"postal_code_example": "210009"
 		},
 		"Jianye Qu": {
-			"local_code": "建邺区"
+			"local_code": "建邺区",
+			"postal_code_example": "210004"
 		},
 		"Jiangning Qu": {
-			"local_code": "江宁区"
+			"local_code": "江宁区",
+			"postal_code_example": "211100"
 		},
 		"Lishui Qu": {
-			"local_code": "溧水区"
+			"local_code": "溧水区",
+			"postal_code_example": "211200"
 		},
 		"Liuhe Qu": {
-			"local_code": "六合区"
+			"local_code": "六合区",
+			"postal_code_example": "211500"
 		},
 		"Pukou Qu": {
-			"local_code": "浦口区"
+			"local_code": "浦口区",
+			"postal_code_example": "211800"
 		},
 		"Qixia Qu": {
-			"local_code": "栖霞区"
+			"local_code": "栖霞区",
+			"postal_code_example": "210046"
 		},
 		"Qinhuai Qu": {
-			"local_code": "秦淮区"
+			"local_code": "秦淮区",
+			"postal_code_example": "210001"
 		},
 		"Xuanwu Qu": {
-			"local_code": "玄武区"
+			"local_code": "玄武区",
+			"postal_code_example": "210018"
 		},
 		"Yuhuatai Qu": {
-			"local_code": "雨花台区"
+			"local_code": "雨花台区",
+			"postal_code_example": "210012"
 		}
 	}
 }

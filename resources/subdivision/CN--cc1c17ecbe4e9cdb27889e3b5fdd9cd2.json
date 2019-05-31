@@ -8,34 +8,44 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Amdo Xian": {
-			"local_code": "安多县"
+			"local_code": "安多县",
+			"postal_code_example": "853400"
 		},
 		"Baqên Xian": {
-			"local_code": "巴青县"
+			"local_code": "巴青县",
+			"postal_code_example": "852100"
 		},
 		"Bangoin Xian": {
-			"local_code": "班戈县"
+			"local_code": "班戈县",
+			"postal_code_example": "852500"
 		},
 		"Biru Xian": {
-			"local_code": "比如县"
+			"local_code": "比如县",
+			"postal_code_example": "852300"
 		},
 		"Lhari Xian": {
-			"local_code": "嘉黎县"
+			"local_code": "嘉黎县",
+			"postal_code_example": "852400"
 		},
 		"Nagqu Xian": {
-			"local_code": "那曲县"
+			"local_code": "那曲县",
+			"postal_code_example": "852000"
 		},
 		"Nyima Xian": {
-			"local_code": "尼玛县"
+			"local_code": "尼玛县",
+			"postal_code_example": "853200"
 		},
 		"Nyainrong Xian": {
-			"local_code": "聂荣县"
+			"local_code": "聂荣县",
+			"postal_code_example": "853500"
 		},
 		"Xainza Xian": {
-			"local_code": "申扎县"
+			"local_code": "申扎县",
+			"postal_code_example": "853100"
 		},
 		"Sog Xian": {
-			"local_code": "索县"
+			"local_code": "索县",
+			"postal_code_example": "852200"
 		}
 	}
 }

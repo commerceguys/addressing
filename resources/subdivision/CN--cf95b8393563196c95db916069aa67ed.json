@@ -8,34 +8,44 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Chaoyang Qu": {
-			"local_code": "朝阳区"
+			"local_code": "朝阳区",
+			"postal_code_example": "130061"
 		},
 		"Dehui Shi": {
-			"local_code": "德惠市"
+			"local_code": "德惠市",
+			"postal_code_example": "130300"
 		},
 		"Erdao Qu": {
-			"local_code": "二道区"
+			"local_code": "二道区",
+			"postal_code_example": "130031"
 		},
 		"Jiutai Shi": {
-			"local_code": "九台市"
+			"local_code": "九台市",
+			"postal_code_example": "130500"
 		},
 		"Kuancheng Qu": {
-			"local_code": "宽城区"
+			"local_code": "宽城区",
+			"postal_code_example": "130051"
 		},
 		"Lüyuan Qu": {
-			"local_code": "绿园区"
+			"local_code": "绿园区",
+			"postal_code_example": "130062"
 		},
 		"Nanguan Qu": {
-			"local_code": "南关区"
+			"local_code": "南关区",
+			"postal_code_example": "130041"
 		},
 		"Nong'an Xian": {
-			"local_code": "农安县"
+			"local_code": "农安县",
+			"postal_code_example": "130200"
 		},
 		"Shuangyang Qu": {
-			"local_code": "双阳区"
+			"local_code": "双阳区",
+			"postal_code_example": "130600"
 		},
 		"Yushu Shi": {
-			"local_code": "榆树市"
+			"local_code": "榆树市",
+			"postal_code_example": "130400"
 		}
 	}
 }

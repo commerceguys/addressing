@@ -8,43 +8,56 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Aba Xian": {
-			"local_code": "阿坝县"
+			"local_code": "阿坝县",
+			"postal_code_example": "624600"
 		},
 		"Heishui Xian": {
-			"local_code": "黑水县"
+			"local_code": "黑水县",
+			"postal_code_example": "623500"
 		},
 		"Hongyuan Xian": {
-			"local_code": "红原县"
+			"local_code": "红原县",
+			"postal_code_example": "624400"
 		},
 		"Jinchuan Xian": {
-			"local_code": "金川县"
+			"local_code": "金川县",
+			"postal_code_example": "624100"
 		},
 		"Jiuzhaigou Xian": {
-			"local_code": "九寨沟县"
+			"local_code": "九寨沟县",
+			"postal_code_example": "623400"
 		},
 		"Li Xian": {
-			"local_code": "理县"
+			"local_code": "理县",
+			"postal_code_example": "623100"
 		},
 		"Barkam Xian": {
-			"local_code": "马尔康县"
+			"local_code": "马尔康县",
+			"postal_code_example": "624000"
 		},
 		"Mao Xian": {
-			"local_code": "茂县"
+			"local_code": "茂县",
+			"postal_code_example": "623200"
 		},
 		"Zamtang Xian": {
-			"local_code": "壤塘县"
+			"local_code": "壤塘县",
+			"postal_code_example": "624300"
 		},
 		"Zoǐgê Xian": {
-			"local_code": "若尔盖县"
+			"local_code": "若尔盖县",
+			"postal_code_example": "624500"
 		},
 		"Songpan Xian": {
-			"local_code": "松潘县"
+			"local_code": "松潘县",
+			"postal_code_example": "623300"
 		},
 		"Wenchuan Xian": {
-			"local_code": "汶川县"
+			"local_code": "汶川县",
+			"postal_code_example": "623000"
 		},
 		"Xiaojin Xian": {
-			"local_code": "小金县"
+			"local_code": "小金县",
+			"postal_code_example": "624200"
 		}
 	}
 }

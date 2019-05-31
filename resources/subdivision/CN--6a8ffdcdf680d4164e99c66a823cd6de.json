@@ -8,16 +8,20 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Lingshan Xian": {
-			"local_code": "灵山县"
+			"local_code": "灵山县",
+			"postal_code_example": "535400"
 		},
 		"Pubei Xian": {
-			"local_code": "浦北县"
+			"local_code": "浦北县",
+			"postal_code_example": "535300"
 		},
 		"Qinbei Qu": {
-			"local_code": "钦北区"
+			"local_code": "钦北区",
+			"postal_code_example": "535000"
 		},
 		"Qinnan Qu": {
-			"local_code": "钦南区"
+			"local_code": "钦南区",
+			"postal_code_example": "535000"
 		}
 	}
 }

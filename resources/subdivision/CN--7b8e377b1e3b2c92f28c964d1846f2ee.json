@@ -8,52 +8,68 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Ang'angxi Qu": {
-			"local_code": "昂昂溪区"
+			"local_code": "昂昂溪区",
+			"postal_code_example": "161031"
 		},
 		"Baiquan Xian": {
-			"local_code": "拜泉县"
+			"local_code": "拜泉县",
+			"postal_code_example": "164700"
 		},
 		"Hulan Ergi Qu": {
-			"local_code": "富拉尔基区"
+			"local_code": "富拉尔基区",
+			"postal_code_example": "161041"
 		},
 		"Fuyu Xian": {
-			"local_code": "富裕县"
+			"local_code": "富裕县",
+			"postal_code_example": "161200"
 		},
 		"Gannan Xian": {
-			"local_code": "甘南县"
+			"local_code": "甘南县",
+			"postal_code_example": "162100"
 		},
 		"Jianhua Qu": {
-			"local_code": "建华区"
+			"local_code": "建华区",
+			"postal_code_example": "161006"
 		},
 		"Kedong Xian": {
-			"local_code": "克东县"
+			"local_code": "克东县",
+			"postal_code_example": "164800"
 		},
 		"Keshan Xian": {
-			"local_code": "克山县"
+			"local_code": "克山县",
+			"postal_code_example": "161600"
 		},
 		"Longjiang Xian": {
-			"local_code": "龙江县"
+			"local_code": "龙江县",
+			"postal_code_example": "161100"
 		},
 		"Longsha Qu": {
-			"local_code": "龙沙区"
+			"local_code": "龙沙区",
+			"postal_code_example": "161000"
 		},
 		"Meilisi Daurzu Qu": {
-			"local_code": "梅里斯达斡尔族区"
+			"local_code": "梅里斯达斡尔族区",
+			"postal_code_example": "161021"
 		},
 		"Nehe Shi": {
-			"local_code": "讷河市"
+			"local_code": "讷河市",
+			"postal_code_example": "161300"
 		},
 		"Nianzishan Qu": {
-			"local_code": "碾子山区"
+			"local_code": "碾子山区",
+			"postal_code_example": "161046"
 		},
 		"Tailai Xian": {
-			"local_code": "泰来县"
+			"local_code": "泰来县",
+			"postal_code_example": "162400"
 		},
 		"Tiefeng Qu": {
-			"local_code": "铁锋区"
+			"local_code": "铁锋区",
+			"postal_code_example": "161000"
 		},
 		"Yi'an Xian": {
-			"local_code": "依安县"
+			"local_code": "依安县",
+			"postal_code_example": "161500"
 		}
 	}
 }

@@ -9,25 +9,31 @@
 	"subdivisions": {
 		"Huzhu Xian": {
 			"local_code": "互助土族自治县",
-			"local_name": "互助县"
+			"local_name": "互助县",
+			"postal_code_example": "810500"
 		},
 		"Hualong Xian": {
 			"local_code": "化隆回族自治县",
-			"local_name": "化隆县"
+			"local_name": "化隆县",
+			"postal_code_example": "810900"
 		},
 		"Ledu Qu": {
-			"local_code": "乐都区"
+			"local_code": "乐都区",
+			"postal_code_example": "810700"
 		},
 		"Minhe Xian": {
 			"local_code": "民和回族土族自治县",
-			"local_name": "民和县"
+			"local_name": "民和县",
+			"postal_code_example": "810800"
 		},
 		"Ping'an Xian": {
-			"local_code": "平安县"
+			"local_code": "平安县",
+			"postal_code_example": "810600"
 		},
 		"Xunhua Xian": {
 			"local_code": "循化撒拉族自治县",
-			"local_name": "循化县"
+			"local_name": "循化县",
+			"postal_code_example": "811100"
 		}
 	}
 }

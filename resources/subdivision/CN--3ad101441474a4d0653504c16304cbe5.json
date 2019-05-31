@@ -8,17 +8,21 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Gulang Xian": {
-			"local_code": "古浪县"
+			"local_code": "古浪县",
+			"postal_code_example": "733100"
 		},
 		"Liangzhou Qu": {
-			"local_code": "凉州区"
+			"local_code": "凉州区",
+			"postal_code_example": "733000"
 		},
 		"Minqin Xian": {
-			"local_code": "民勤县"
+			"local_code": "民勤县",
+			"postal_code_example": "733300"
 		},
 		"Tianzhu Xian": {
 			"local_code": "天祝藏族自治县",
-			"local_name": "天祝县"
+			"local_name": "天祝县",
+			"postal_code_example": "733200"
 		}
 	}
 }

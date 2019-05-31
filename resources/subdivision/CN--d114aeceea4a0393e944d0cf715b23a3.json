@@ -8,22 +8,28 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Cheng Qu": {
-			"local_code": "城区"
+			"local_code": "城区",
+			"postal_code_example": "048000"
 		},
 		"Gaoping Shi": {
-			"local_code": "高平市"
+			"local_code": "高平市",
+			"postal_code_example": "048400"
 		},
 		"Lingchuan Xian": {
-			"local_code": "陵川县"
+			"local_code": "陵川县",
+			"postal_code_example": "048300"
 		},
 		"Qinshui Xian": {
-			"local_code": "沁水县"
+			"local_code": "沁水县",
+			"postal_code_example": "048200"
 		},
 		"Yangcheng Xian": {
-			"local_code": "阳城县"
+			"local_code": "阳城县",
+			"postal_code_example": "048100"
 		},
 		"Zezhou Xian": {
-			"local_code": "泽州县"
+			"local_code": "泽州县",
+			"postal_code_example": "048012"
 		}
 	}
 }

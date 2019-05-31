@@ -8,31 +8,40 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Chikan Qu": {
-			"local_code": "赤坎区"
+			"local_code": "赤坎区",
+			"postal_code_example": "524033"
 		},
 		"Leizhou Shi": {
-			"local_code": "雷州市"
+			"local_code": "雷州市",
+			"postal_code_example": "524200"
 		},
 		"Lianjiang Shi": {
-			"local_code": "廉江市"
+			"local_code": "廉江市",
+			"postal_code_example": "524400"
 		},
 		"Mazhang Qu": {
-			"local_code": "麻章区"
+			"local_code": "麻章区",
+			"postal_code_example": "524003"
 		},
 		"Potou Qu": {
-			"local_code": "坡头区"
+			"local_code": "坡头区",
+			"postal_code_example": "524057"
 		},
 		"Suixi Xian": {
-			"local_code": "遂溪县"
+			"local_code": "遂溪县",
+			"postal_code_example": "524300"
 		},
 		"Wuchuan Shi": {
-			"local_code": "吴川市"
+			"local_code": "吴川市",
+			"postal_code_example": "524500"
 		},
 		"Xiashan Qu": {
-			"local_code": "霞山区"
+			"local_code": "霞山区",
+			"postal_code_example": "524002"
 		},
 		"Xuwen Xian": {
-			"local_code": "徐闻县"
+			"local_code": "徐闻县",
+			"postal_code_example": "524100"
 		}
 	}
 }

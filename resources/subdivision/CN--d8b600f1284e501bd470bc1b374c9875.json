@@ -9,30 +9,38 @@
 	"subdivisions": {
 		"Cangyuan Xian": {
 			"local_code": "沧源佤族自治县",
-			"local_name": "沧源县"
+			"local_name": "沧源县",
+			"postal_code_example": "677400"
 		},
 		"Fengqing Xian": {
-			"local_code": "凤庆县"
+			"local_code": "凤庆县",
+			"postal_code_example": "675900"
 		},
 		"Gengma Xian": {
 			"local_code": "耿马傣族佤族自治县",
-			"local_name": "耿马县"
+			"local_name": "耿马县",
+			"postal_code_example": "677500"
 		},
 		"Linxiang Qu": {
-			"local_code": "临翔区"
+			"local_code": "临翔区",
+			"postal_code_example": "677000"
 		},
 		"Shuangjiang Xian": {
 			"local_code": "双江拉祜族佤族布朗族傣族自治县",
-			"local_name": "双江县"
+			"local_name": "双江县",
+			"postal_code_example": "677300"
 		},
 		"Yongde Xian": {
-			"local_code": "永德县"
+			"local_code": "永德县",
+			"postal_code_example": "677600"
 		},
 		"Yun Xian": {
-			"local_code": "云县"
+			"local_code": "云县",
+			"postal_code_example": "675800"
 		},
 		"Zhenkang Xian": {
-			"local_code": "镇康县"
+			"local_code": "镇康县",
+			"postal_code_example": "677704"
 		}
 	}
 }

@@ -8,13 +8,16 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Jinghong Shi": {
-			"local_code": "景洪市"
+			"local_code": "景洪市",
+			"postal_code_example": "666100"
 		},
 		"Menghai Xian": {
-			"local_code": "勐海县"
+			"local_code": "勐海县",
+			"postal_code_example": "666200"
 		},
 		"Mengla Xian": {
-			"local_code": "勐腊县"
+			"local_code": "勐腊县",
+			"postal_code_example": "666300"
 		}
 	}
 }

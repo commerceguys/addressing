@@ -8,70 +8,92 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Gaoyi Xian": {
-			"local_code": "高邑县"
+			"local_code": "高邑县",
+			"postal_code_example": "051330"
 		},
 		"Gaocheng Qu": {
-			"local_code": "藁城区"
+			"local_code": "藁城区",
+			"postal_code_example": "052160"
 		},
 		"Jinzhou Shi": {
-			"local_code": "晋州市"
+			"local_code": "晋州市",
+			"postal_code_example": "052260"
 		},
 		"Jingxing Kuangqu": {
-			"local_code": "井陉矿区"
+			"local_code": "井陉矿区",
+			"postal_code_example": "050100"
 		},
 		"Jingxing Xian": {
-			"local_code": "井陉县"
+			"local_code": "井陉县",
+			"postal_code_example": "050300"
 		},
 		"Lingshou Xian": {
-			"local_code": "灵寿县"
+			"local_code": "灵寿县",
+			"postal_code_example": "050500"
 		},
 		"Luquan Qu": {
-			"local_code": "鹿泉区"
+			"local_code": "鹿泉区",
+			"postal_code_example": "050200"
 		},
 		"Luancheng Qu": {
-			"local_code": "栾城区"
+			"local_code": "栾城区",
+			"postal_code_example": "051430"
 		},
 		"Pingshan Xian": {
-			"local_code": "平山县"
+			"local_code": "平山县",
+			"postal_code_example": "050400"
 		},
 		"Qiaoxi Qu": {
-			"local_code": "桥西区"
+			"local_code": "桥西区",
+			"postal_code_example": "050051"
 		},
 		"Shenze Xian": {
-			"local_code": "深泽县"
+			"local_code": "深泽县",
+			"postal_code_example": "052560"
 		},
 		"Wuji Xian": {
-			"local_code": "无极县"
+			"local_code": "无极县",
+			"postal_code_example": "052460"
 		},
 		"Xinji Shi": {
-			"local_code": "辛集市"
+			"local_code": "辛集市",
+			"postal_code_example": "052360"
 		},
 		"Xinhua Qu": {
-			"local_code": "新华区"
+			"local_code": "新华区",
+			"postal_code_example": "050051"
 		},
 		"Xinle Shi": {
-			"local_code": "新乐市"
+			"local_code": "新乐市",
+			"postal_code_example": "050700"
 		},
 		"Xingtang Xian": {
-			"local_code": "行唐县"
+			"local_code": "行唐县",
+			"postal_code_example": "050600"
 		},
 		"Yuhua Qu": {
-			"local_code": "裕华区"
+			"local_code": "裕华区",
+			"postal_code_example": "050081"
 		},
 		"Yuanshi Xian": {
-			"local_code": "元氏县"
+			"local_code": "元氏县",
+			"postal_code_example": "051130"
 		},
 		"Zanhuang Xian": {
-			"local_code": "赞皇县"
+			"local_code": "赞皇县",
+			"postal_code_example": "051230"
 		},
 		"Chang'an Qu": {
-			"local_code": "长安区"
+			"local_code": "长安区",
+			"postal_code_example": "050011"
 		},
 		"Zhao Xian": {
-			"local_code": "赵县"
+			"local_code": "赵县",
+			"postal_code_example": "051530"
 		},
 		"Zhengding Xian": {
-			"local_code": "正定县"
+			"local_code": "正定县",
+			"postal_code_example": "050800"
 		}
 	}
 }

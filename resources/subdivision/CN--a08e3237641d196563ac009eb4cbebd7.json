@@ -8,19 +8,24 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Shaoshan Shi": {
-			"local_code": "韶山市"
+			"local_code": "韶山市",
+			"postal_code_example": "411300"
 		},
 		"Xiangtan Xian": {
-			"local_code": "湘潭县"
+			"local_code": "湘潭县",
+			"postal_code_example": "411200"
 		},
 		"Xiangxiang Shi": {
-			"local_code": "湘乡市"
+			"local_code": "湘乡市",
+			"postal_code_example": "411400"
 		},
 		"Yuhu Qu": {
-			"local_code": "雨湖区"
+			"local_code": "雨湖区",
+			"postal_code_example": "411100"
 		},
 		"Yuetang Qu": {
-			"local_code": "岳塘区"
+			"local_code": "岳塘区",
+			"postal_code_example": "411101"
 		}
 	}
 }

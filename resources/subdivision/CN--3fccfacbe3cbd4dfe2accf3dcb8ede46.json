@@ -8,32 +8,41 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Bohu Xian": {
-			"local_code": "博湖县"
+			"local_code": "博湖县",
+			"postal_code_example": "841400"
 		},
 		"Hejing Xian": {
-			"local_code": "和静县"
+			"local_code": "和静县",
+			"postal_code_example": "841300"
 		},
 		"Hoxud Xian": {
-			"local_code": "和硕县"
+			"local_code": "和硕县",
+			"postal_code_example": "841200"
 		},
 		"Korla Shi": {
-			"local_code": "库尔勒市"
+			"local_code": "库尔勒市",
+			"postal_code_example": "841000"
 		},
 		"Luntai Xian": {
-			"local_code": "轮台县"
+			"local_code": "轮台县",
+			"postal_code_example": "841600"
 		},
 		"Qiemo Xian": {
-			"local_code": "且末县"
+			"local_code": "且末县",
+			"postal_code_example": "841900"
 		},
 		"Ruoqiang Xian": {
-			"local_code": "若羌县"
+			"local_code": "若羌县",
+			"postal_code_example": "841800"
 		},
 		"Yuli Xian": {
-			"local_code": "尉犁县"
+			"local_code": "尉犁县",
+			"postal_code_example": "841500"
 		},
 		"Yanqi Xian": {
 			"local_code": "焉耆回族自治县",
-			"local_name": "焉耆县"
+			"local_name": "焉耆县",
+			"postal_code_example": "841100"
 		}
 	}
 }

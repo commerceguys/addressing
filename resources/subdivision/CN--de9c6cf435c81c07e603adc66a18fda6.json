@@ -8,13 +8,16 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Haibowan Qu": {
-			"local_code": "海勃湾区"
+			"local_code": "海勃湾区",
+			"postal_code_example": "016000"
 		},
 		"Hainan Qu": {
-			"local_code": "海南区"
+			"local_code": "海南区",
+			"postal_code_example": "016030"
 		},
 		"Ud Qu": {
-			"local_code": "乌达区"
+			"local_code": "乌达区",
+			"postal_code_example": "016040"
 		}
 	}
 }

@@ -8,22 +8,28 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Fan Xian": {
-			"local_code": "范县"
+			"local_code": "范县",
+			"postal_code_example": "457500"
 		},
 		"Hualong Qu": {
-			"local_code": "华龙区"
+			"local_code": "华龙区",
+			"postal_code_example": "457001"
 		},
 		"Nanle Xian": {
-			"local_code": "南乐县"
+			"local_code": "南乐县",
+			"postal_code_example": "457400"
 		},
 		"Puyang Xian": {
-			"local_code": "濮阳县"
+			"local_code": "濮阳县",
+			"postal_code_example": "457100"
 		},
 		"Qingfeng Xian": {
-			"local_code": "清丰县"
+			"local_code": "清丰县",
+			"postal_code_example": "457300"
 		},
 		"Taiqian Xian": {
-			"local_code": "台前县"
+			"local_code": "台前县",
+			"postal_code_example": "457600"
 		}
 	}
 }

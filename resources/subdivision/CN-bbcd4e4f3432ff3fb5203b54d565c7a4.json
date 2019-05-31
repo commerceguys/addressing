@@ -8,59 +8,73 @@
 	"subdivisions": {
 		"Baiyin Shi": {
 			"local_code": "白银市",
+			"postal_code_example": "730900",
 			"has_children": true
 		},
 		"Dingxi Shi": {
 			"local_code": "定西市",
+			"postal_code_example": "743000",
 			"has_children": true
 		},
 		"Gannan Zhou": {
 			"local_code": "甘南藏族自治州",
 			"local_name": "甘南州",
+			"postal_code_example": "747004",
 			"has_children": true
 		},
 		"Jiayuguan Shi": {
-			"local_code": "嘉峪关市"
+			"local_code": "嘉峪关市",
+			"postal_code_example": "735100"
 		},
 		"Jinchang Shi": {
 			"local_code": "金昌市",
+			"postal_code_example": "737100",
 			"has_children": true
 		},
 		"Jiuquan Shi": {
 			"local_code": "酒泉市",
+			"postal_code_example": "735000",
 			"has_children": true
 		},
 		"Lanzhou Shi": {
 			"local_code": "兰州市",
+			"postal_code_example": "730030",
 			"has_children": true
 		},
 		"Linxia Zhou": {
 			"local_code": "临夏回族自治州",
 			"local_name": "临夏州",
+			"postal_code_example": "731100",
 			"has_children": true
 		},
 		"Longnan Shi": {
 			"local_code": "陇南市",
+			"postal_code_example": "742500",
 			"has_children": true
 		},
 		"Pingliang Shi": {
 			"local_code": "平凉市",
+			"postal_code_example": "744000",
 			"has_children": true
 		},
 		"Qingyang Shi": {
 			"local_code": "庆阳市",
+			"postal_code_example": "745000",
 			"has_children": true
 		},
 		"Tianshui Shi": {
 			"local_code": "天水市",
+			"postal_code_example": "741000",
 			"has_children": true
 		},
 		"Wuwei Shi": {
 			"local_code": "武威市",
+			"postal_code_example": "733000",
 			"has_children": true
 		},
 		"Zhangye Shi": {
 			"local_code": "张掖市",
+			"postal_code_example": "734000",
 			"has_children": true
 		}
 	}

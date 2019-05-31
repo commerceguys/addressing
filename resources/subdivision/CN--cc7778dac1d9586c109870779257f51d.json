@@ -8,40 +8,52 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Dexing Shi": {
-			"local_code": "德兴市"
+			"local_code": "德兴市",
+			"postal_code_example": "334200"
 		},
 		"Guangfeng Xian": {
-			"local_code": "广丰县"
+			"local_code": "广丰县",
+			"postal_code_example": "334600"
 		},
 		"Hengfeng Xian": {
-			"local_code": "横峰县"
+			"local_code": "横峰县",
+			"postal_code_example": "334300"
 		},
 		"Poyang Xian": {
-			"local_code": "鄱阳县"
+			"local_code": "鄱阳县",
+			"postal_code_example": "333100"
 		},
 		"Yanshan Xian": {
-			"local_code": "铅山县"
+			"local_code": "铅山县",
+			"postal_code_example": "334500"
 		},
 		"Shangrao Xian": {
-			"local_code": "上饶县"
+			"local_code": "上饶县",
+			"postal_code_example": "334100"
 		},
 		"Wannian Xian": {
-			"local_code": "万年县"
+			"local_code": "万年县",
+			"postal_code_example": "335500"
 		},
 		"Wuyuan Xian": {
-			"local_code": "婺源县"
+			"local_code": "婺源县",
+			"postal_code_example": "333200"
 		},
 		"Xinzhou Qu": {
-			"local_code": "信州区"
+			"local_code": "信州区",
+			"postal_code_example": "334000"
 		},
 		"Yiyang Xian": {
-			"local_code": "弋阳县"
+			"local_code": "弋阳县",
+			"postal_code_example": "334400"
 		},
 		"Yugan Xian": {
-			"local_code": "余干县"
+			"local_code": "余干县",
+			"postal_code_example": "335100"
 		},
 		"Yushan Xian": {
-			"local_code": "玉山县"
+			"local_code": "玉山县",
+			"postal_code_example": "334700"
 		}
 	}
 }

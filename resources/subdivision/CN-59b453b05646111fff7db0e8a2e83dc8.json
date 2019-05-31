@@ -8,58 +8,72 @@
 	"subdivisions": {
 		"Anshan Shi": {
 			"local_code": "鞍山市",
+			"postal_code_example": "114001",
 			"has_children": true
 		},
 		"Benxi Shi": {
 			"local_code": "本溪市",
+			"postal_code_example": "117000",
 			"has_children": true
 		},
 		"Chaoyang Shi": {
 			"local_code": "朝阳市",
+			"postal_code_example": "122000",
 			"has_children": true
 		},
 		"Dalian Shi": {
 			"local_code": "大连市",
+			"postal_code_example": "116011",
 			"has_children": true
 		},
 		"Dandong Shi": {
 			"local_code": "丹东市",
+			"postal_code_example": "118000",
 			"has_children": true
 		},
 		"Fushun Shi": {
 			"local_code": "抚顺市",
+			"postal_code_example": "113008",
 			"has_children": true
 		},
 		"Fuxin Shi": {
 			"local_code": "阜新市",
+			"postal_code_example": "123000",
 			"has_children": true
 		},
 		"Huludao Shi": {
 			"local_code": "葫芦岛市",
+			"postal_code_example": "125000",
 			"has_children": true
 		},
 		"Jinzhou Shi": {
 			"local_code": "锦州市",
+			"postal_code_example": "121000",
 			"has_children": true
 		},
 		"Liaoyang Shi": {
 			"local_code": "辽阳市",
+			"postal_code_example": "111000",
 			"has_children": true
 		},
 		"Panjin Shi": {
 			"local_code": "盘锦市",
+			"postal_code_example": "124010",
 			"has_children": true
 		},
 		"Shenyang Shi": {
 			"local_code": "沈阳市",
+			"postal_code_example": "110013",
 			"has_children": true
 		},
 		"Tieling Shi": {
 			"local_code": "铁岭市",
+			"postal_code_example": "112000",
 			"has_children": true
 		},
 		"Yingkou Shi": {
 			"local_code": "营口市",
+			"postal_code_example": "115003",
 			"has_children": true
 		}
 	}

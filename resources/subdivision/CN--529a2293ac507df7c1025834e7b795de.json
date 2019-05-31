@@ -8,22 +8,28 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Baima Xian": {
-			"local_code": "班玛县"
+			"local_code": "班玛县",
+			"postal_code_example": "814300"
 		},
 		"Tarlag Xian": {
-			"local_code": "达日县"
+			"local_code": "达日县",
+			"postal_code_example": "814200"
 		},
 		"Gadê Xian": {
-			"local_code": "甘德县"
+			"local_code": "甘德县",
+			"postal_code_example": "814100"
 		},
 		"Jigzhi Xian": {
-			"local_code": "久治县"
+			"local_code": "久治县",
+			"postal_code_example": "624700"
 		},
 		"Madoi Xian": {
-			"local_code": "玛多县"
+			"local_code": "玛多县",
+			"postal_code_example": "813500"
 		},
 		"Maqên Xian": {
-			"local_code": "玛沁县"
+			"local_code": "玛沁县",
+			"postal_code_example": "814000"
 		}
 	}
 }

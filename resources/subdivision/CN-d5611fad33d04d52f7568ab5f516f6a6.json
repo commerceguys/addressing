@@ -8,54 +8,67 @@
 	"subdivisions": {
 		"Daqing Shi": {
 			"local_code": "大庆市",
+			"postal_code_example": "163311",
 			"has_children": true
 		},
 		"Da Hinggan Ling Diqu": {
 			"local_code": "大兴安岭地区",
+			"postal_code_example": "165000",
 			"has_children": true
 		},
 		"Harbin Shi": {
 			"local_code": "哈尔滨市",
+			"postal_code_example": "150010",
 			"has_children": true
 		},
 		"Hegang Shi": {
 			"local_code": "鹤岗市",
+			"postal_code_example": "154100",
 			"has_children": true
 		},
 		"Heihe Shi": {
 			"local_code": "黑河市",
+			"postal_code_example": "164300",
 			"has_children": true
 		},
 		"Jixi Shi": {
 			"local_code": "鸡西市",
+			"postal_code_example": "158100",
 			"has_children": true
 		},
 		"Jiamusi Shi": {
 			"local_code": "佳木斯市",
+			"postal_code_example": "154002",
 			"has_children": true
 		},
 		"Mudanjiang Shi": {
 			"local_code": "牡丹江市",
+			"postal_code_example": "157000",
 			"has_children": true
 		},
 		"Qitaihe Shi": {
 			"local_code": "七台河市",
+			"postal_code_example": "154600",
 			"has_children": true
 		},
 		"Qiqihar Shi": {
 			"local_code": "齐齐哈尔市",
+			"postal_code_example": "161005",
 			"has_children": true
 		},
 		"Shuangyashan Shi": {
 			"local_code": "双鸭山市",
+			"postal_code_example": "155100",
 			"has_children": true
 		},
 		"Suihua Shi": {
 			"local_code": "绥化市",
+			"postal_code_example": "152000",
 			"has_children": true
 		},
 		"Yichun Shi": {
 			"local_code": "伊春市",
+			"postal_code_example": "153000",
 			"has_children": true
 		}
 	}

@@ -8,37 +8,48 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Anping Xian": {
-			"local_code": "安平县"
+			"local_code": "安平县",
+			"postal_code_example": "053600"
 		},
 		"Fucheng Xian": {
-			"local_code": "阜城县"
+			"local_code": "阜城县",
+			"postal_code_example": "053700"
 		},
 		"Gucheng Xian": {
-			"local_code": "故城县"
+			"local_code": "故城县",
+			"postal_code_example": "053800"
 		},
 		"Jizhou Shi": {
-			"local_code": "冀州市"
+			"local_code": "冀州市",
+			"postal_code_example": "053200"
 		},
 		"Jing Xian": {
-			"local_code": "景县"
+			"local_code": "景县",
+			"postal_code_example": "053500"
 		},
 		"Raoyang Xian": {
-			"local_code": "饶阳县"
+			"local_code": "饶阳县",
+			"postal_code_example": "053900"
 		},
 		"Shenzhou Shi": {
-			"local_code": "深州市"
+			"local_code": "深州市",
+			"postal_code_example": "053800"
 		},
 		"Taocheng Qu": {
-			"local_code": "桃城区"
+			"local_code": "桃城区",
+			"postal_code_example": "053000"
 		},
 		"Wuqiang Xian": {
-			"local_code": "武强县"
+			"local_code": "武强县",
+			"postal_code_example": "053300"
 		},
 		"Wuyi Xian": {
-			"local_code": "武邑县"
+			"local_code": "武邑县",
+			"postal_code_example": "053400"
 		},
 		"Zaoqiang Xian": {
-			"local_code": "枣强县"
+			"local_code": "枣强县",
+			"postal_code_example": "053100"
 		}
 	}
 }

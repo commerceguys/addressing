@@ -8,74 +8,90 @@
 	"subdivisions": {
 		"Baoshan Shi": {
 			"local_code": "保山市",
+			"postal_code_example": "678000",
 			"has_children": true
 		},
 		"Chuxiong Zhou": {
 			"local_code": "楚雄彝族自治州",
 			"local_name": "楚雄州",
+			"postal_code_example": "675000",
 			"has_children": true
 		},
 		"Dali Zhou": {
 			"local_code": "大理白族自治州",
 			"local_name": "大理州",
+			"postal_code_example": "671000",
 			"has_children": true
 		},
 		"Dehong Zhou": {
 			"local_code": "德宏傣族景颇族自治州",
 			"local_name": "德宏州",
+			"postal_code_example": "678400",
 			"has_children": true
 		},
 		"Dêqên Zhou": {
 			"local_code": "迪庆藏族自治州",
 			"local_name": "迪庆州",
+			"postal_code_example": "674400",
 			"has_children": true
 		},
 		"Honghe Zhou": {
 			"local_code": "红河哈尼族彝族自治州",
 			"local_name": "红河州",
+			"postal_code_example": "661400",
 			"has_children": true
 		},
 		"Kunming Shi": {
 			"local_code": "昆明市",
+			"postal_code_example": "650011",
 			"has_children": true
 		},
 		"Lijiang Shi": {
 			"local_code": "丽江市",
+			"postal_code_example": "674100",
 			"has_children": true
 		},
 		"Lincang Shi": {
 			"local_code": "临沧市",
+			"postal_code_example": "677000",
 			"has_children": true
 		},
 		"Nujiang Zhou": {
 			"local_code": "怒江傈僳族自治州",
 			"local_name": "怒江州",
+			"postal_code_example": "673100",
 			"has_children": true
 		},
 		"Puer Shi": {
 			"local_code": "普洱市",
+			"postal_code_example": "665000",
 			"has_children": true
 		},
 		"Qujing Shi": {
 			"local_code": "曲靖市",
+			"postal_code_example": "655000",
 			"has_children": true
 		},
 		"Wenshan Zhou": {
 			"local_code": "文山壮族苗族自治州",
 			"local_name": "文山州",
+			"postal_code_example": "663000",
 			"has_children": true
 		},
 		"Xishuangbanna Zhou": {
 			"local_code": "西双版纳傣族自治州",
 			"local_name": "西双版纳州",
+			"postal_code_example": "666100",
 			"has_children": true
 		},
 		"Yuxi Shi": {
 			"local_code": "玉溪市",
+			"postal_code_example": "653100",
 			"has_children": true
 		},
 		"Zhaotong Shi": {
 			"local_code": "昭通市",
+			"postal_code_example": "657000",
 			"has_children": true
 		}
 	}

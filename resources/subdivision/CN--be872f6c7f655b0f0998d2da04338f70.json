@@ -8,32 +8,41 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"An Xian": {
-			"local_code": "安县"
+			"local_code": "安县",
+			"postal_code_example": "622650"
 		},
 		"Beichuan Xian": {
 			"local_code": "北川羌族自治县",
-			"local_name": "北川县"
+			"local_name": "北川县",
+			"postal_code_example": "622750"
 		},
 		"Fucheng Qu": {
-			"local_code": "涪城区"
+			"local_code": "涪城区",
+			"postal_code_example": "621000"
 		},
 		"Jiangyou Shi": {
-			"local_code": "江油市"
+			"local_code": "江油市",
+			"postal_code_example": "621700"
 		},
 		"Pingwu Xian": {
-			"local_code": "平武县"
+			"local_code": "平武县",
+			"postal_code_example": "622550"
 		},
 		"Santai Xian": {
-			"local_code": "三台县"
+			"local_code": "三台县",
+			"postal_code_example": "621100"
 		},
 		"Yanting Xian": {
-			"local_code": "盐亭县"
+			"local_code": "盐亭县",
+			"postal_code_example": "621600"
 		},
 		"Youxian Qu": {
-			"local_code": "游仙区"
+			"local_code": "游仙区",
+			"postal_code_example": "621022"
 		},
 		"Zitong Xian": {
-			"local_code": "梓潼县"
+			"local_code": "梓潼县",
+			"postal_code_example": "622150"
 		}
 	}
 }

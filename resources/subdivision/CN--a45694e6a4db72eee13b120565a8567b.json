@@ -8,37 +8,48 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Chongren Xian": {
-			"local_code": "崇仁县"
+			"local_code": "崇仁县",
+			"postal_code_example": "344200"
 		},
 		"Dongxiang Xian": {
-			"local_code": "东乡县"
+			"local_code": "东乡县",
+			"postal_code_example": "331800"
 		},
 		"Guangchang Xian": {
-			"local_code": "广昌县"
+			"local_code": "广昌县",
+			"postal_code_example": "344900"
 		},
 		"Jinxi Xian": {
-			"local_code": "金溪县"
+			"local_code": "金溪县",
+			"postal_code_example": "344800"
 		},
 		"Le'an Xian": {
-			"local_code": "乐安县"
+			"local_code": "乐安县",
+			"postal_code_example": "344300"
 		},
 		"Lichuan Xian": {
-			"local_code": "黎川县"
+			"local_code": "黎川县",
+			"postal_code_example": "344600"
 		},
 		"Linchuan Qu": {
-			"local_code": "临川区"
+			"local_code": "临川区",
+			"postal_code_example": "344000"
 		},
 		"Nancheng Xian": {
-			"local_code": "南城县"
+			"local_code": "南城县",
+			"postal_code_example": "344700"
 		},
 		"Nanfeng Xian": {
-			"local_code": "南丰县"
+			"local_code": "南丰县",
+			"postal_code_example": "344500"
 		},
 		"Yihuang Xian": {
-			"local_code": "宜黄县"
+			"local_code": "宜黄县",
+			"postal_code_example": "344400"
 		},
 		"Zixi Xian": {
-			"local_code": "资溪县"
+			"local_code": "资溪县",
+			"postal_code_example": "335300"
 		}
 	}
 }

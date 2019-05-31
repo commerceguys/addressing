@@ -8,22 +8,28 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Weidu Qu": {
-			"local_code": "魏都区"
+			"local_code": "魏都区",
+			"postal_code_example": "461000"
 		},
 		"Xiangcheng Xian": {
-			"local_code": "襄城县"
+			"local_code": "襄城县",
+			"postal_code_example": "461700"
 		},
 		"Xuchang Xian": {
-			"local_code": "许昌县"
+			"local_code": "许昌县",
+			"postal_code_example": "461100"
 		},
 		"Yanling Xian": {
-			"local_code": "鄢陵县"
+			"local_code": "鄢陵县",
+			"postal_code_example": "461200"
 		},
 		"Yuzhou Shi": {
-			"local_code": "禹州市"
+			"local_code": "禹州市",
+			"postal_code_example": "461670"
 		},
 		"Changge Shi": {
-			"local_code": "长葛市"
+			"local_code": "长葛市",
+			"postal_code_example": "461500"
 		}
 	}
 }

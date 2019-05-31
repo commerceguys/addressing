@@ -8,22 +8,28 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Hubin Qu": {
-			"local_code": "湖滨区"
+			"local_code": "湖滨区",
+			"postal_code_example": "472000"
 		},
 		"Lingbao Shi": {
-			"local_code": "灵宝市"
+			"local_code": "灵宝市",
+			"postal_code_example": "472500"
 		},
 		"Lushi Xian": {
-			"local_code": "卢氏县"
+			"local_code": "卢氏县",
+			"postal_code_example": "472200"
 		},
 		"Mianchi Xian": {
-			"local_code": "渑池县"
+			"local_code": "渑池县",
+			"postal_code_example": "472400"
 		},
 		"Shan Xian": {
-			"local_code": "陕县"
+			"local_code": "陕县",
+			"postal_code_example": "472100"
 		},
 		"Yima Shi": {
-			"local_code": "义马市"
+			"local_code": "义马市",
+			"postal_code_example": "472300"
 		}
 	}
 }

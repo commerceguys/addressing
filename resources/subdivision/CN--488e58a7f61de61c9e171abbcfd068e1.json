@@ -8,25 +8,32 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Jintan Shi": {
-			"local_code": "金坛市"
+			"local_code": "金坛市",
+			"postal_code_example": "213200"
 		},
 		"Liyang Shi": {
-			"local_code": "溧阳市"
+			"local_code": "溧阳市",
+			"postal_code_example": "213300"
 		},
 		"Qishuyan Qu": {
-			"local_code": "戚墅堰区"
+			"local_code": "戚墅堰区",
+			"postal_code_example": "213011"
 		},
 		"Tianning Qu": {
-			"local_code": "天宁区"
+			"local_code": "天宁区",
+			"postal_code_example": "213003"
 		},
 		"Wujin Qu": {
-			"local_code": "武进区"
+			"local_code": "武进区",
+			"postal_code_example": "213161"
 		},
 		"Xinbei Qu": {
-			"local_code": "新北区"
+			"local_code": "新北区",
+			"postal_code_example": "213001"
 		},
 		"Zhonglou Qu": {
-			"local_code": "钟楼区"
+			"local_code": "钟楼区",
+			"postal_code_example": "213002"
 		}
 	}
 }

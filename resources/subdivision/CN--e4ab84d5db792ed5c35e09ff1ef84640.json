@@ -8,19 +8,24 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Dongbao Qu": {
-			"local_code": "东宝区"
+			"local_code": "东宝区",
+			"postal_code_example": "448004"
 		},
 		"Duodao Qu": {
-			"local_code": "掇刀区"
+			"local_code": "掇刀区",
+			"postal_code_example": "448004"
 		},
 		"Jingshan Xian": {
-			"local_code": "京山县"
+			"local_code": "京山县",
+			"postal_code_example": "431800"
 		},
 		"Shayang Xian": {
-			"local_code": "沙洋县"
+			"local_code": "沙洋县",
+			"postal_code_example": "448200"
 		},
 		"Zhongxiang Shi": {
-			"local_code": "钟祥市"
+			"local_code": "钟祥市",
+			"postal_code_example": "431900"
 		}
 	}
 }

@@ -8,26 +8,33 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Gangu Xian": {
-			"local_code": "甘谷县"
+			"local_code": "甘谷县",
+			"postal_code_example": "741200"
 		},
 		"Maiji Qu": {
-			"local_code": "麦积区"
+			"local_code": "麦积区",
+			"postal_code_example": "741020"
 		},
 		"Qin'an Xian": {
-			"local_code": "秦安县"
+			"local_code": "秦安县",
+			"postal_code_example": "741600"
 		},
 		"Qinzhou Qu": {
-			"local_code": "秦州区"
+			"local_code": "秦州区",
+			"postal_code_example": "741000"
 		},
 		"Qingshui Xian": {
-			"local_code": "清水县"
+			"local_code": "清水县",
+			"postal_code_example": "741400"
 		},
 		"Wushan Xian": {
-			"local_code": "武山县"
+			"local_code": "武山县",
+			"postal_code_example": "741300"
 		},
 		"Zhangjiachuan Xian": {
 			"local_code": "张家川回族自治县",
-			"local_name": "张家川县"
+			"local_name": "张家川县",
+			"postal_code_example": "741500"
 		}
 	}
 }

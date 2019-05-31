@@ -8,13 +8,16 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Haiyuan Xian": {
-			"local_code": "海原县"
+			"local_code": "海原县",
+			"postal_code_example": "751800"
 		},
 		"Shapotou Qu": {
-			"local_code": "沙坡头区"
+			"local_code": "沙坡头区",
+			"postal_code_example": "751700"
 		},
 		"Zhongning Xian": {
-			"local_code": "中宁县"
+			"local_code": "中宁县",
+			"postal_code_example": "751200"
 		}
 	}
 }

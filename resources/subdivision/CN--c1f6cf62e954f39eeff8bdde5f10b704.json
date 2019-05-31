@@ -8,16 +8,20 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Litong Qu": {
-			"local_code": "利通区"
+			"local_code": "利通区",
+			"postal_code_example": "751100"
 		},
 		"Qingtongxia Shi": {
-			"local_code": "青铜峡市"
+			"local_code": "青铜峡市",
+			"postal_code_example": "751600"
 		},
 		"Tongxin Xian": {
-			"local_code": "同心县"
+			"local_code": "同心县",
+			"postal_code_example": "751300"
 		},
 		"Yanchi Xian": {
-			"local_code": "盐池县"
+			"local_code": "盐池县",
+			"postal_code_example": "751500"
 		}
 	}
 }

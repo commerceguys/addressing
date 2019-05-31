@@ -8,28 +8,36 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Baojing Xian": {
-			"local_code": "保靖县"
+			"local_code": "保靖县",
+			"postal_code_example": "416500"
 		},
 		"Fenghuang Xian": {
-			"local_code": "凤凰县"
+			"local_code": "凤凰县",
+			"postal_code_example": "416200"
 		},
 		"Guzhang Xian": {
-			"local_code": "古丈县"
+			"local_code": "古丈县",
+			"postal_code_example": "416300"
 		},
 		"Huayuan Xian": {
-			"local_code": "花垣县"
+			"local_code": "花垣县",
+			"postal_code_example": "416400"
 		},
 		"Jishou Shi": {
-			"local_code": "吉首市"
+			"local_code": "吉首市",
+			"postal_code_example": "416000"
 		},
 		"Longshan Xian": {
-			"local_code": "龙山县"
+			"local_code": "龙山县",
+			"postal_code_example": "416800"
 		},
 		"Luxi Xian": {
-			"local_code": "泸溪县"
+			"local_code": "泸溪县",
+			"postal_code_example": "416100"
 		},
 		"Yongshun Xian": {
-			"local_code": "永顺县"
+			"local_code": "永顺县",
+			"postal_code_example": "416700"
 		}
 	}
 }

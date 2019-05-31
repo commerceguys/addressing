@@ -8,67 +8,84 @@
 	"subdivisions": {
 		"Ezhou Shi": {
 			"local_code": "鄂州市",
+			"postal_code_example": "436000",
 			"has_children": true
 		},
 		"Enshi Zhou": {
 			"local_code": "恩施土家族苗族自治州",
 			"local_name": "恩施州",
+			"postal_code_example": "445000",
 			"has_children": true
 		},
 		"Huanggang Shi": {
 			"local_code": "黄冈市",
+			"postal_code_example": "438000",
 			"has_children": true
 		},
 		"Huangshi Shi": {
 			"local_code": "黄石市",
+			"postal_code_example": "435003",
 			"has_children": true
 		},
 		"Jingmen Shi": {
 			"local_code": "荆门市",
+			"postal_code_example": "448000",
 			"has_children": true
 		},
 		"Jingzhou Shi": {
 			"local_code": "荆州市",
+			"postal_code_example": "434000",
 			"has_children": true
 		},
 		"Qianjiang Shi": {
-			"local_code": "潜江市"
+			"local_code": "潜江市",
+			"postal_code_example": "433100"
 		},
 		"Shennongjia Linqu": {
-			"local_code": "神农架林区"
+			"local_code": "神农架林区",
+			"postal_code_example": "442400"
 		},
 		"Shiyan Shi": {
 			"local_code": "十堰市",
+			"postal_code_example": "442000",
 			"has_children": true
 		},
 		"Suizhou Shi": {
 			"local_code": "随州市",
+			"postal_code_example": "441300",
 			"has_children": true
 		},
 		"Tianmen Shi": {
-			"local_code": "天门市"
+			"local_code": "天门市",
+			"postal_code_example": "431700"
 		},
 		"Wuhan Shi": {
 			"local_code": "武汉市",
+			"postal_code_example": "430014",
 			"has_children": true
 		},
 		"Xiantao Shi": {
-			"local_code": "仙桃市"
+			"local_code": "仙桃市",
+			"postal_code_example": "433000"
 		},
 		"Xianning Shi": {
 			"local_code": "咸宁市",
+			"postal_code_example": "437000",
 			"has_children": true
 		},
 		"Xiangyang Shi": {
 			"local_code": "襄阳市",
+			"postal_code_example": "441021",
 			"has_children": true
 		},
 		"Xiaogan Shi": {
 			"local_code": "孝感市",
+			"postal_code_example": "432100",
 			"has_children": true
 		},
 		"Yichang Shi": {
 			"local_code": "宜昌市",
+			"postal_code_example": "443000",
 			"has_children": true
 		}
 	}

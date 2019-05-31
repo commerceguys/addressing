@@ -8,25 +8,32 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Baita Qu": {
-			"local_code": "白塔区"
+			"local_code": "白塔区",
+			"postal_code_example": "111000"
 		},
 		"Dengta Shi": {
-			"local_code": "灯塔市"
+			"local_code": "灯塔市",
+			"postal_code_example": "111300"
 		},
 		"Gongzhangling Qu": {
-			"local_code": "弓长岭区"
+			"local_code": "弓长岭区",
+			"postal_code_example": "111008"
 		},
 		"Hongwei Qu": {
-			"local_code": "宏伟区"
+			"local_code": "宏伟区",
+			"postal_code_example": "111003"
 		},
 		"Liaoyang Xian": {
-			"local_code": "辽阳县"
+			"local_code": "辽阳县",
+			"postal_code_example": "111200"
 		},
 		"Taizihe Qu": {
-			"local_code": "太子河区"
+			"local_code": "太子河区",
+			"postal_code_example": "111000"
 		},
 		"Wensheng Qu": {
-			"local_code": "文圣区"
+			"local_code": "文圣区",
+			"postal_code_example": "111000"
 		}
 	}
 }

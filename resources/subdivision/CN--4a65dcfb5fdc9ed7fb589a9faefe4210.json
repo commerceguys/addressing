@@ -8,23 +8,29 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Gongzhuling Shi": {
-			"local_code": "公主岭市"
+			"local_code": "公主岭市",
+			"postal_code_example": "136100"
 		},
 		"Lishu Xian": {
-			"local_code": "梨树县"
+			"local_code": "梨树县",
+			"postal_code_example": "136500"
 		},
 		"Shuangliao Shi": {
-			"local_code": "双辽市"
+			"local_code": "双辽市",
+			"postal_code_example": "136400"
 		},
 		"Tiedong Qu": {
-			"local_code": "铁东区"
+			"local_code": "铁东区",
+			"postal_code_example": "136001"
 		},
 		"Tiexi Qu": {
-			"local_code": "铁西区"
+			"local_code": "铁西区",
+			"postal_code_example": "136000"
 		},
 		"Yitong Xian": {
 			"local_code": "伊通满族自治县",
-			"local_name": "伊通县"
+			"local_name": "伊通县",
+			"postal_code_example": "130700"
 		}
 	}
 }

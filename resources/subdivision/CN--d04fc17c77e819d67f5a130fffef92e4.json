@@ -8,22 +8,28 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Gaogang Qu": {
-			"local_code": "高港区"
+			"local_code": "高港区",
+			"postal_code_example": "225321"
 		},
 		"Hailing Qu": {
-			"local_code": "海陵区"
+			"local_code": "海陵区",
+			"postal_code_example": "225300"
 		},
 		"Jiangyan Shi": {
-			"local_code": "姜堰市"
+			"local_code": "姜堰市",
+			"postal_code_example": "225500"
 		},
 		"Jingjiang Shi": {
-			"local_code": "靖江市"
+			"local_code": "靖江市",
+			"postal_code_example": "214500"
 		},
 		"Taixing Shi": {
-			"local_code": "泰兴市"
+			"local_code": "泰兴市",
+			"postal_code_example": "225400"
 		},
 		"Xinghua Shi": {
-			"local_code": "兴化市"
+			"local_code": "兴化市",
+			"postal_code_example": "225700"
 		}
 	}
 }

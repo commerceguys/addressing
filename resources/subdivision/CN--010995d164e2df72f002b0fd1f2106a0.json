@@ -8,19 +8,24 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Guang'an Qu": {
-			"local_code": "广安区"
+			"local_code": "广安区",
+			"postal_code_example": "638550"
 		},
 		"Huaying Shi": {
-			"local_code": "华蓥市"
+			"local_code": "华蓥市",
+			"postal_code_example": "638600"
 		},
 		"Linshui Xian": {
-			"local_code": "邻水县"
+			"local_code": "邻水县",
+			"postal_code_example": "638500"
 		},
 		"Wusheng Xian": {
-			"local_code": "武胜县"
+			"local_code": "武胜县",
+			"postal_code_example": "638400"
 		},
 		"Yuechi Xian": {
-			"local_code": "岳池县"
+			"local_code": "岳池县",
+			"postal_code_example": "638300"
 		}
 	}
 }

@@ -8,22 +8,28 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Chindu Xian": {
-			"local_code": "称多县"
+			"local_code": "称多县",
+			"postal_code_example": "815100"
 		},
 		"Nangqên Xian": {
-			"local_code": "囊谦县"
+			"local_code": "囊谦县",
+			"postal_code_example": "815200"
 		},
 		"Qumarlêb Xian": {
-			"local_code": "曲麻莱县"
+			"local_code": "曲麻莱县",
+			"postal_code_example": "815500"
 		},
 		"Yushu Xian": {
-			"local_code": "玉树县"
+			"local_code": "玉树县",
+			"postal_code_example": "815000"
 		},
 		"Zadoi Xian": {
-			"local_code": "杂多县"
+			"local_code": "杂多县",
+			"postal_code_example": "815300"
 		},
 		"Zhidoi Xian": {
-			"local_code": "治多县"
+			"local_code": "治多县",
+			"postal_code_example": "815400"
 		}
 	}
 }

@@ -8,40 +8,52 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Changning Shi": {
-			"local_code": "常宁市"
+			"local_code": "常宁市",
+			"postal_code_example": "421500"
 		},
 		"Hengdong Xian": {
-			"local_code": "衡东县"
+			"local_code": "衡东县",
+			"postal_code_example": "421400"
 		},
 		"Hengnan Xian": {
-			"local_code": "衡南县"
+			"local_code": "衡南县",
+			"postal_code_example": "421001"
 		},
 		"Hengshan Xian": {
-			"local_code": "衡山县"
+			"local_code": "衡山县",
+			"postal_code_example": "421300"
 		},
 		"Hengyang Xian": {
-			"local_code": "衡阳县"
+			"local_code": "衡阳县",
+			"postal_code_example": "421200"
 		},
 		"Leiyang Shi": {
-			"local_code": "耒阳市"
+			"local_code": "耒阳市",
+			"postal_code_example": "421800"
 		},
 		"Nanyue Qu": {
-			"local_code": "南岳区"
+			"local_code": "南岳区",
+			"postal_code_example": "421000"
 		},
 		"Qidong Xian": {
-			"local_code": "祁东县"
+			"local_code": "祁东县",
+			"postal_code_example": "421600"
 		},
 		"Shigu Qu": {
-			"local_code": "石鼓区"
+			"local_code": "石鼓区",
+			"postal_code_example": "421001"
 		},
 		"Yanfeng Qu": {
-			"local_code": "雁峰区"
+			"local_code": "雁峰区",
+			"postal_code_example": "421001"
 		},
 		"Zhengxiang Qu": {
-			"local_code": "蒸湘区"
+			"local_code": "蒸湘区",
+			"postal_code_example": "421001"
 		},
 		"Zhuhui Qu": {
-			"local_code": "珠晖区"
+			"local_code": "珠晖区",
+			"postal_code_example": "421002"
 		}
 	}
 }

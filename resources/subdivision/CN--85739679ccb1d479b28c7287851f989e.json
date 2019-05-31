@@ -8,34 +8,44 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Dongfeng Qu": {
-			"local_code": "东风区"
+			"local_code": "东风区",
+			"postal_code_example": "154005"
 		},
 		"Fuyuan Xian": {
-			"local_code": "抚远县"
+			"local_code": "抚远县",
+			"postal_code_example": "156500"
 		},
 		"Fujin Shi": {
-			"local_code": "富锦市"
+			"local_code": "富锦市",
+			"postal_code_example": "156100"
 		},
 		"Huachuan Xian": {
-			"local_code": "桦川县"
+			"local_code": "桦川县",
+			"postal_code_example": "154300"
 		},
 		"Huanan Xian": {
-			"local_code": "桦南县"
+			"local_code": "桦南县",
+			"postal_code_example": "154400"
 		},
 		"Jiao Qu": {
-			"local_code": "郊区"
+			"local_code": "郊区",
+			"postal_code_example": "154004"
 		},
 		"Qianjin Qu": {
-			"local_code": "前进区"
+			"local_code": "前进区",
+			"postal_code_example": "154002"
 		},
 		"Tangyuan Xian": {
-			"local_code": "汤原县"
+			"local_code": "汤原县",
+			"postal_code_example": "154700"
 		},
 		"Tongjiang Shi": {
-			"local_code": "同江市"
+			"local_code": "同江市",
+			"postal_code_example": "156400"
 		},
 		"Xiangyang Qu": {
-			"local_code": "向阳区"
+			"local_code": "向阳区",
+			"postal_code_example": "154002"
 		}
 	}
 }

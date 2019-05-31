@@ -8,16 +8,20 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Anyue Xian": {
-			"local_code": "安岳县"
+			"local_code": "安岳县",
+			"postal_code_example": "642350"
 		},
 		"Jianyang Shi": {
-			"local_code": "简阳市"
+			"local_code": "简阳市",
+			"postal_code_example": "641400"
 		},
 		"Lezhi Xian": {
-			"local_code": "乐至县"
+			"local_code": "乐至县",
+			"postal_code_example": "641500"
 		},
 		"Yanjiang Qu": {
-			"local_code": "雁江区"
+			"local_code": "雁江区",
+			"postal_code_example": "641300"
 		}
 	}
 }

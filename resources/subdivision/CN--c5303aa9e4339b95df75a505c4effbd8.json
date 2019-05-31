@@ -8,19 +8,24 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Luoding Shi": {
-			"local_code": "罗定市"
+			"local_code": "罗定市",
+			"postal_code_example": "527200"
 		},
 		"Xinxing Xian": {
-			"local_code": "新兴县"
+			"local_code": "新兴县",
+			"postal_code_example": "527400"
 		},
 		"Yunan Xian": {
-			"local_code": "郁南县"
+			"local_code": "郁南县",
+			"postal_code_example": "527100"
 		},
 		"Yun'an Xian": {
-			"local_code": "云安县"
+			"local_code": "云安县",
+			"postal_code_example": "527500"
 		},
 		"Yuncheng Qu": {
-			"local_code": "云城区"
+			"local_code": "云城区",
+			"postal_code_example": "527300"
 		}
 	}
 }

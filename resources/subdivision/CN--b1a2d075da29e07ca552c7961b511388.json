@@ -8,34 +8,44 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Fengcheng Shi": {
-			"local_code": "丰城市"
+			"local_code": "丰城市",
+			"postal_code_example": "331100"
 		},
 		"Fengxin Xian": {
-			"local_code": "奉新县"
+			"local_code": "奉新县",
+			"postal_code_example": "330700"
 		},
 		"Gao'an Shi": {
-			"local_code": "高安市"
+			"local_code": "高安市",
+			"postal_code_example": "330800"
 		},
 		"Jing'an Xian": {
-			"local_code": "靖安县"
+			"local_code": "靖安县",
+			"postal_code_example": "330600"
 		},
 		"Shanggao Xian": {
-			"local_code": "上高县"
+			"local_code": "上高县",
+			"postal_code_example": "336400"
 		},
 		"Tonggu Xian": {
-			"local_code": "铜鼓县"
+			"local_code": "铜鼓县",
+			"postal_code_example": "336200"
 		},
 		"Wanzai Xian": {
-			"local_code": "万载县"
+			"local_code": "万载县",
+			"postal_code_example": "336100"
 		},
 		"Yifeng Xian": {
-			"local_code": "宜丰县"
+			"local_code": "宜丰县",
+			"postal_code_example": "336300"
 		},
 		"Yuanzhou Qu": {
-			"local_code": "袁州区"
+			"local_code": "袁州区",
+			"postal_code_example": "336000"
 		},
 		"Zhangshu Shi": {
-			"local_code": "樟树市"
+			"local_code": "樟树市",
+			"postal_code_example": "331200"
 		}
 	}
 }

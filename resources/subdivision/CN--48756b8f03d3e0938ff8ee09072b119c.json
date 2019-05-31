@@ -8,41 +8,53 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Debao Xian": {
-			"local_code": "德保县"
+			"local_code": "德保县",
+			"postal_code_example": "533700"
 		},
 		"Jingxi Xian": {
-			"local_code": "靖西县"
+			"local_code": "靖西县",
+			"postal_code_example": "533800"
 		},
 		"Leye Xian": {
-			"local_code": "乐业县"
+			"local_code": "乐业县",
+			"postal_code_example": "533200"
 		},
 		"Lingyun Xian": {
-			"local_code": "凌云县"
+			"local_code": "凌云县",
+			"postal_code_example": "533100"
 		},
 		"Longlin Xian": {
 			"local_code": "隆林各族自治县",
-			"local_name": "隆林县"
+			"local_name": "隆林县",
+			"postal_code_example": "533500"
 		},
 		"Napo Xian": {
-			"local_code": "那坡县"
+			"local_code": "那坡县",
+			"postal_code_example": "533900"
 		},
 		"Pingguo Xian": {
-			"local_code": "平果县"
+			"local_code": "平果县",
+			"postal_code_example": "531400"
 		},
 		"Tiandong Xian": {
-			"local_code": "田东县"
+			"local_code": "田东县",
+			"postal_code_example": "531500"
 		},
 		"Tianlin Xian": {
-			"local_code": "田林县"
+			"local_code": "田林县",
+			"postal_code_example": "533300"
 		},
 		"Tianyang Xian": {
-			"local_code": "田阳县"
+			"local_code": "田阳县",
+			"postal_code_example": "533600"
 		},
 		"Xilin Xian": {
-			"local_code": "西林县"
+			"local_code": "西林县",
+			"postal_code_example": "533500"
 		},
 		"Youjiang Qu": {
-			"local_code": "右江区"
+			"local_code": "右江区",
+			"postal_code_example": "533000"
 		}
 	}
 }

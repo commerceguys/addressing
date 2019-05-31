@@ -8,17 +8,21 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Babu Qu": {
-			"local_code": "八步区"
+			"local_code": "八步区",
+			"postal_code_example": "542800"
 		},
 		"Fuchuan Xian": {
 			"local_code": "富川瑶族自治县",
-			"local_name": "富川县"
+			"local_name": "富川县",
+			"postal_code_example": "542700"
 		},
 		"Zhaoping Xian": {
-			"local_code": "昭平县"
+			"local_code": "昭平县",
+			"postal_code_example": "546800"
 		},
 		"Zhongshan Xian": {
-			"local_code": "钟山县"
+			"local_code": "钟山县",
+			"postal_code_example": "542600"
 		}
 	}
 }

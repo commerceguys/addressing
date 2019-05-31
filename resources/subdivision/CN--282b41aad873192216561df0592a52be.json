@@ -8,37 +8,48 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Zongyang Xian": {
-			"local_code": "枞阳县"
+			"local_code": "枞阳县",
+			"postal_code_example": "246700"
 		},
 		"Daguan Qu": {
-			"local_code": "大观区"
+			"local_code": "大观区",
+			"postal_code_example": "246004"
 		},
 		"Huaining Xian": {
-			"local_code": "怀宁县"
+			"local_code": "怀宁县",
+			"postal_code_example": "246100"
 		},
 		"Qianshan Xian": {
-			"local_code": "潜山县"
+			"local_code": "潜山县",
+			"postal_code_example": "246300"
 		},
 		"Susong Xian": {
-			"local_code": "宿松县"
+			"local_code": "宿松县",
+			"postal_code_example": "246500"
 		},
 		"Taihu Xian": {
-			"local_code": "太湖县"
+			"local_code": "太湖县",
+			"postal_code_example": "246400"
 		},
 		"Tongcheng Shi": {
-			"local_code": "桐城市"
+			"local_code": "桐城市",
+			"postal_code_example": "231402"
 		},
 		"Wangjiang Xian": {
-			"local_code": "望江县"
+			"local_code": "望江县",
+			"postal_code_example": "246200"
 		},
 		"Yixiu Qu": {
-			"local_code": "宜秀区"
+			"local_code": "宜秀区",
+			"postal_code_example": "246003"
 		},
 		"Yingjiang Qu": {
-			"local_code": "迎江区"
+			"local_code": "迎江区",
+			"postal_code_example": "246003"
 		},
 		"Yuexi Xian": {
-			"local_code": "岳西县"
+			"local_code": "岳西县",
+			"postal_code_example": "246600"
 		}
 	}
 }

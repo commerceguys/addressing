@@ -8,43 +8,56 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Binjiang Qu": {
-			"local_code": "滨江区"
+			"local_code": "滨江区",
+			"postal_code_example": "310051"
 		},
 		"Chun'an Xian": {
-			"local_code": "淳安县"
+			"local_code": "淳安县",
+			"postal_code_example": "311700"
 		},
 		"Fuyang Shi": {
-			"local_code": "富阳市"
+			"local_code": "富阳市",
+			"postal_code_example": "311400"
 		},
 		"Gongshu Qu": {
-			"local_code": "拱墅区"
+			"local_code": "拱墅区",
+			"postal_code_example": "310011"
 		},
 		"Jiande Shi": {
-			"local_code": "建德市"
+			"local_code": "建德市",
+			"postal_code_example": "311600"
 		},
 		"Jianggan Qu": {
-			"local_code": "江干区"
+			"local_code": "江干区",
+			"postal_code_example": "310002"
 		},
 		"Lin'an Shi": {
-			"local_code": "临安市"
+			"local_code": "临安市",
+			"postal_code_example": "311300"
 		},
 		"Shangcheng Qu": {
-			"local_code": "上城区"
+			"local_code": "上城区",
+			"postal_code_example": "311500"
 		},
 		"Tonglu Xian": {
-			"local_code": "桐庐县"
+			"local_code": "桐庐县",
+			"postal_code_example": "311500"
 		},
 		"Xihu Qu": {
-			"local_code": "西湖区"
+			"local_code": "西湖区",
+			"postal_code_example": "310013"
 		},
 		"Xiacheng Qu": {
-			"local_code": "下城区"
+			"local_code": "下城区",
+			"postal_code_example": "310006"
 		},
 		"Xiaoshan Qu": {
-			"local_code": "萧山区"
+			"local_code": "萧山区",
+			"postal_code_example": "311200"
 		},
 		"Yuhang Qu": {
-			"local_code": "余杭区"
+			"local_code": "余杭区",
+			"postal_code_example": "311000"
 		}
 	}
 }

@@ -8,25 +8,32 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Dengkou Xian": {
-			"local_code": "磴口县"
+			"local_code": "磴口县",
+			"postal_code_example": "015200"
 		},
 		"Hanggin Houqi": {
-			"local_code": "杭锦后旗"
+			"local_code": "杭锦后旗",
+			"postal_code_example": "015400"
 		},
 		"Linhe Qu": {
-			"local_code": "临河区"
+			"local_code": "临河区",
+			"postal_code_example": "015001"
 		},
 		"Urad Houqi": {
-			"local_code": "乌拉特后旗"
+			"local_code": "乌拉特后旗",
+			"postal_code_example": "015500"
 		},
 		"Urad Qianqi": {
-			"local_code": "乌拉特前旗"
+			"local_code": "乌拉特前旗",
+			"postal_code_example": "014400"
 		},
 		"Urad Zhongqi": {
-			"local_code": "乌拉特中旗"
+			"local_code": "乌拉特中旗",
+			"postal_code_example": "015300"
 		},
 		"Wuyuan Xian": {
-			"local_code": "五原县"
+			"local_code": "五原县",
+			"postal_code_example": "015100"
 		}
 	}
 }

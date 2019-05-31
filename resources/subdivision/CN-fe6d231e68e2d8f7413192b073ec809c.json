@@ -7,52 +7,68 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Baodi Qu": {
-			"local_code": "宝坻区"
+			"local_code": "宝坻区",
+			"postal_code_example": "301800"
 		},
 		"Beichen Qu": {
-			"local_code": "北辰区"
+			"local_code": "北辰区",
+			"postal_code_example": "300400"
 		},
 		"Binhai Xinqu": {
-			"local_code": "滨海新区"
+			"local_code": "滨海新区",
+			"postal_code_example": "300050"
 		},
 		"Dongli Qu": {
-			"local_code": "东丽区"
+			"local_code": "东丽区",
+			"postal_code_example": "300300"
 		},
 		"Heping Qu": {
-			"local_code": "和平区"
+			"local_code": "和平区",
+			"postal_code_example": "300041"
 		},
 		"Hebei Qu": {
-			"local_code": "河北区"
+			"local_code": "河北区",
+			"postal_code_example": "300143"
 		},
 		"Hedong Qu": {
-			"local_code": "河东区"
+			"local_code": "河东区",
+			"postal_code_example": "300171"
 		},
 		"Hexi Qu": {
-			"local_code": "河西区"
+			"local_code": "河西区",
+			"postal_code_example": "300202"
 		},
 		"Hongqiao Qu": {
-			"local_code": "红桥区"
+			"local_code": "红桥区",
+			"postal_code_example": "300131"
 		},
 		"Ji Xian": {
-			"local_code": "蓟县"
+			"local_code": "蓟县",
+			"postal_code_example": "301900"
 		},
 		"Jinnan Qu": {
-			"local_code": "津南区"
+			"local_code": "津南区",
+			"postal_code_example": "300350"
 		},
 		"Jinghai Xian": {
-			"local_code": "静海县"
+			"local_code": "静海县",
+			"postal_code_example": "301600"
 		},
 		"Nankai Qu": {
-			"local_code": "南开区"
+			"local_code": "南开区",
+			"postal_code_example": "300100"
 		},
 		"Ninghe Xian": {
-			"local_code": "宁河县"
+			"local_code": "宁河县",
+			"postal_code_example": "301500"
 		},
 		"Wuqing Qu": {
-			"local_code": "武清区"
+			"local_code": "武清区",
+			"postal_code_example": "301700"
 		},
 		"Xiqing Qu": {
-			"local_code": "西青区"
+			"local_code": "西青区",
+			"postal_code_example": "300380"
 		}
 	}
 }

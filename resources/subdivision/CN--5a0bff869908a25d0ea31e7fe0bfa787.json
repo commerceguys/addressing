@@ -8,55 +8,72 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Chicheng Xian": {
-			"local_code": "赤城县"
+			"local_code": "赤城县",
+			"postal_code_example": "075500"
 		},
 		"Chongli Xian": {
-			"local_code": "崇礼县"
+			"local_code": "崇礼县",
+			"postal_code_example": "076350"
 		},
 		"Guyuan Xian": {
-			"local_code": "沽源县"
+			"local_code": "沽源县",
+			"postal_code_example": "076550"
 		},
 		"Huai'an Xian": {
-			"local_code": "怀安县"
+			"local_code": "怀安县",
+			"postal_code_example": "076150"
 		},
 		"Huailai Xian": {
-			"local_code": "怀来县"
+			"local_code": "怀来县",
+			"postal_code_example": "075400"
 		},
 		"Kangbao Xian": {
-			"local_code": "康保县"
+			"local_code": "康保县",
+			"postal_code_example": "076650"
 		},
 		"Qiaodong Qu": {
-			"local_code": "桥东区"
+			"local_code": "桥东区",
+			"postal_code_example": "075000"
 		},
 		"Qiaoxi Qu": {
-			"local_code": "桥西区"
+			"local_code": "桥西区",
+			"postal_code_example": "075061"
 		},
 		"Shangyi Xian": {
-			"local_code": "尚义县"
+			"local_code": "尚义县",
+			"postal_code_example": "076750"
 		},
 		"Wanquan Xian": {
-			"local_code": "万全县"
+			"local_code": "万全县",
+			"postal_code_example": "076250"
 		},
 		"Yu Xian": {
-			"local_code": "蔚县"
+			"local_code": "蔚县",
+			"postal_code_example": "075700"
 		},
 		"Xiahuayuan Qu": {
-			"local_code": "下花园区"
+			"local_code": "下花园区",
+			"postal_code_example": "075300"
 		},
 		"Xuanhua Qu": {
-			"local_code": "宣化区"
+			"local_code": "宣化区",
+			"postal_code_example": "075100"
 		},
 		"Xuanhua Xian": {
-			"local_code": "宣化县"
+			"local_code": "宣化县",
+			"postal_code_example": "075100"
 		},
 		"Yangyuan Xian": {
-			"local_code": "阳原县"
+			"local_code": "阳原县",
+			"postal_code_example": "075800"
 		},
 		"Zhangbei Xian": {
-			"local_code": "张北县"
+			"local_code": "张北县",
+			"postal_code_example": "076450"
 		},
 		"Zhuolu Xian": {
-			"local_code": "涿鹿县"
+			"local_code": "涿鹿县",
+			"postal_code_example": "075600"
 		}
 	}
 }

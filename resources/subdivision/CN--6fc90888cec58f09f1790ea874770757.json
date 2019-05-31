@@ -8,28 +8,36 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Holingol Shi": {
-			"local_code": "霍林郭勒市"
+			"local_code": "霍林郭勒市",
+			"postal_code_example": "029200"
 		},
 		"Kailu Xian": {
-			"local_code": "开鲁县"
+			"local_code": "开鲁县",
+			"postal_code_example": "028400"
 		},
 		"Horqin Qu": {
-			"local_code": "科尔沁区"
+			"local_code": "科尔沁区",
+			"postal_code_example": "028000"
 		},
 		"Horqin Zuoyi Houqi": {
-			"local_code": "科尔沁左翼后旗"
+			"local_code": "科尔沁左翼后旗",
+			"postal_code_example": "028100"
 		},
 		"Horqin Zuoyi Zhongqi": {
-			"local_code": "科尔沁左翼中旗"
+			"local_code": "科尔沁左翼中旗",
+			"postal_code_example": "029300"
 		},
 		"Hure Qi": {
-			"local_code": "库伦旗"
+			"local_code": "库伦旗",
+			"postal_code_example": "028200"
 		},
 		"Naiman Qi": {
-			"local_code": "奈曼旗"
+			"local_code": "奈曼旗",
+			"postal_code_example": "028300"
 		},
 		"Jarud Qi": {
-			"local_code": "扎鲁特旗"
+			"local_code": "扎鲁特旗",
+			"postal_code_example": "029100"
 		}
 	}
 }

@@ -8,57 +8,74 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Diecai Qu": {
-			"local_code": "叠彩区"
+			"local_code": "叠彩区",
+			"postal_code_example": "541001"
 		},
 		"Gongcheng Xian": {
 			"local_code": "恭城瑶族自治县",
-			"local_name": "恭城县"
+			"local_name": "恭城县",
+			"postal_code_example": "542500"
 		},
 		"Guanyang Xian": {
-			"local_code": "灌阳县"
+			"local_code": "灌阳县",
+			"postal_code_example": "541600"
 		},
 		"Lipu Xian": {
-			"local_code": "荔浦县"
+			"local_code": "荔浦县",
+			"postal_code_example": "546600"
 		},
 		"Lingui Qu": {
-			"local_code": "临桂区"
+			"local_code": "临桂区",
+			"postal_code_example": "541100"
 		},
 		"Lingchuan Xian": {
-			"local_code": "灵川县"
+			"local_code": "灵川县",
+			"postal_code_example": "541200"
 		},
 		"Longsheng Xian": {
 			"local_code": "龙胜各族自治县",
-			"local_name": "龙胜县"
+			"local_name": "龙胜县",
+			"postal_code_example": "541700"
 		},
 		"Pingle Xian": {
-			"local_code": "平乐县"
+			"local_code": "平乐县",
+			"postal_code_example": "542400"
 		},
 		"Qixing Qu": {
-			"local_code": "七星区"
+			"local_code": "七星区",
+			"postal_code_example": "541004"
 		},
 		"Quanzhou Xian": {
-			"local_code": "全州县"
+			"local_code": "全州县",
+			"postal_code_example": "541500"
 		},
 		"Xiangshan Qu": {
-			"local_code": "象山区"
+			"local_code": "象山区",
+			"postal_code_example": "541002"
 		},
 		"Xing'an Xian": {
-			"local_code": "兴安县"
+			"local_code": "兴安县",
+			"postal_code_example": "541300"
 		},
 		"Xiufeng Qu": {
-			"local_code": "秀峰区"
+			"local_code": "秀峰区",
+			"postal_code_example": "541001"
 		},
 		"Yanshan Qu": {
-			"local_code": "雁山区"
+			"local_code": "雁山区",
+			"postal_code_example": "541006"
 		},
 		"Yangshuo Xian": {
-			"local_code": "阳朔县"
+			"local_code": "阳朔县",
+			"postal_code_example": "541900"
 		},
 		"Yongfu Xian": {
-			"local_code": "永福县"
+			"local_code": "永福县",
+			"postal_code_example": "541800"
 		},
 		"Ziyuan Xian": {
-			"local_code": "资源县"
+			"local_code": "资源县",
+			"postal_code_example": "541400"
 		}
 	}
 }

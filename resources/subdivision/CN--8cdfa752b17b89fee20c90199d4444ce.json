@@ -8,34 +8,44 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Ganjingzi Qu": {
-			"local_code": "甘井子区"
+			"local_code": "甘井子区",
+			"postal_code_example": "116033"
 		},
 		"Jinzhou Qu": {
-			"local_code": "金州区"
+			"local_code": "金州区",
+			"postal_code_example": "116100"
 		},
 		"Lüshunkou Qu": {
-			"local_code": "旅顺口区"
+			"local_code": "旅顺口区",
+			"postal_code_example": "116041"
 		},
 		"Pulandian Shi": {
-			"local_code": "普兰店市"
+			"local_code": "普兰店市",
+			"postal_code_example": "116200"
 		},
 		"Shahekou Qu": {
-			"local_code": "沙河口区"
+			"local_code": "沙河口区",
+			"postal_code_example": "116021"
 		},
 		"Wafangdian Shi": {
-			"local_code": "瓦房店市"
+			"local_code": "瓦房店市",
+			"postal_code_example": "116300"
 		},
 		"Xigang Qu": {
-			"local_code": "西岗区"
+			"local_code": "西岗区",
+			"postal_code_example": "116001"
 		},
 		"Changhai Xian": {
-			"local_code": "长海县"
+			"local_code": "长海县",
+			"postal_code_example": "116500"
 		},
 		"Zhongshan Qu": {
-			"local_code": "中山区"
+			"local_code": "中山区",
+			"postal_code_example": "116001"
 		},
 		"Zhuanghe Shi": {
-			"local_code": "庄河市"
+			"local_code": "庄河市",
+			"postal_code_example": "116400"
 		}
 	}
 }

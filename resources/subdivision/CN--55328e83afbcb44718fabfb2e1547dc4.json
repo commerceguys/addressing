@@ -8,22 +8,28 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Anhua Xian": {
-			"local_code": "安化县"
+			"local_code": "安化县",
+			"postal_code_example": "413500"
 		},
 		"Heshan Qu": {
-			"local_code": "赫山区"
+			"local_code": "赫山区",
+			"postal_code_example": "413002"
 		},
 		"Nan Xian": {
-			"local_code": "南县"
+			"local_code": "南县",
+			"postal_code_example": "413200"
 		},
 		"Taojiang Xian": {
-			"local_code": "桃江县"
+			"local_code": "桃江县",
+			"postal_code_example": "413400"
 		},
 		"Yuanjiang Shi": {
-			"local_code": "沅江市"
+			"local_code": "沅江市",
+			"postal_code_example": "413100"
 		},
 		"Ziyang Qu": {
-			"local_code": "资阳区"
+			"local_code": "资阳区",
+			"postal_code_example": "413000"
 		}
 	}
 }

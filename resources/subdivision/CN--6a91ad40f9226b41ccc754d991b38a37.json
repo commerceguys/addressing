@@ -8,28 +8,36 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Têwo Xian": {
-			"local_code": "迭部县"
+			"local_code": "迭部县",
+			"postal_code_example": "747400"
 		},
 		"Hezuo Shi": {
-			"local_code": "合作市"
+			"local_code": "合作市",
+			"postal_code_example": "747000"
 		},
 		"Lintan Xian": {
-			"local_code": "临潭县"
+			"local_code": "临潭县",
+			"postal_code_example": "747500"
 		},
 		"Luqu Xian": {
-			"local_code": "碌曲县"
+			"local_code": "碌曲县",
+			"postal_code_example": "747200"
 		},
 		"Maqu Xian": {
-			"local_code": "玛曲县"
+			"local_code": "玛曲县",
+			"postal_code_example": "747300"
 		},
 		"Xiahe Xian": {
-			"local_code": "夏河县"
+			"local_code": "夏河县",
+			"postal_code_example": "747100"
 		},
 		"Zhugqu Xian": {
-			"local_code": "舟曲县"
+			"local_code": "舟曲县",
+			"postal_code_example": "746300"
 		},
 		"Jonê Xian": {
-			"local_code": "卓尼县"
+			"local_code": "卓尼县",
+			"postal_code_example": "747600"
 		}
 	}
 }

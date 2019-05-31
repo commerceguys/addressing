@@ -7,6 +7,7 @@
 			"local_name": "강원",
 			"iso_code": "KR-42",
 			"postal_code_pattern": "2[456]\\d{2}",
+			"postal_code_example": "25627",
 			"has_children": true
 		},
 		"Gyeonggi-do": {
@@ -14,6 +15,7 @@
 			"local_name": "경기",
 			"iso_code": "KR-41",
 			"postal_code_pattern": "1[0-8]\\d{2}",
+			"postal_code_example": "12410",
 			"has_children": true
 		},
 		"Gyeongsangnam-do": {
@@ -21,6 +23,7 @@
 			"local_name": "경남",
 			"iso_code": "KR-48",
 			"postal_code_pattern": "5[0-3]\\d{2}",
+			"postal_code_example": "53286",
 			"has_children": true
 		},
 		"Gyeongsangbuk-do": {
@@ -28,6 +31,7 @@
 			"local_name": "경북",
 			"iso_code": "KR-47",
 			"postal_code_pattern": "(?:3[6-9]|40)\\d{2}",
+			"postal_code_example": "38540",
 			"has_children": true
 		},
 		"Gwangju": {
@@ -35,6 +39,7 @@
 			"local_name": "광주",
 			"iso_code": "KR-29",
 			"postal_code_pattern": "6[12]\\d{2}",
+			"postal_code_example": "62394",
 			"has_children": true
 		},
 		"Daegu": {
@@ -42,6 +47,7 @@
 			"local_name": "대구",
 			"iso_code": "KR-27",
 			"postal_code_pattern": "4[12]\\d{2}",
+			"postal_code_example": "42456",
 			"has_children": true
 		},
 		"Daejeon": {
@@ -49,6 +55,7 @@
 			"local_name": "대전",
 			"iso_code": "KR-30",
 			"postal_code_pattern": "3[45]\\d{2}",
+			"postal_code_example": "34316",
 			"has_children": true
 		},
 		"Busan": {
@@ -56,6 +63,7 @@
 			"local_name": "부산",
 			"iso_code": "KR-26",
 			"postal_code_pattern": "4[6-9]\\d{2}",
+			"postal_code_example": "46706",
 			"has_children": true
 		},
 		"Seoul": {
@@ -63,6 +71,7 @@
 			"local_name": "서울",
 			"iso_code": "KR-11",
 			"postal_code_pattern": "0[1-8]\\d{2}",
+			"postal_code_example": "06321",
 			"has_children": true
 		},
 		"Sejong": {
@@ -70,6 +79,7 @@
 			"local_name": "세종",
 			"iso_code": "KR-50",
 			"postal_code_pattern": "30[01]\\d",
+			"postal_code_example": "30065",
 			"has_children": true
 		},
 		"Ulsan": {
@@ -77,6 +87,7 @@
 			"local_name": "울산",
 			"iso_code": "KR-31",
 			"postal_code_pattern": "4[45]\\d{2}",
+			"postal_code_example": "44782",
 			"has_children": true
 		},
 		"Incheon": {
@@ -84,6 +95,7 @@
 			"local_name": "인천",
 			"iso_code": "KR-28",
 			"postal_code_pattern": "2[1-3]\\d{2}",
+			"postal_code_example": "23024",
 			"has_children": true
 		},
 		"Jeollanam-do": {
@@ -91,6 +103,7 @@
 			"local_name": "전남",
 			"iso_code": "KR-46",
 			"postal_code_pattern": "5[7-9]\\d{2}",
+			"postal_code_example": "59222",
 			"has_children": true
 		},
 		"Jeollabuk-do": {
@@ -98,6 +111,7 @@
 			"local_name": "전북",
 			"iso_code": "KR-45",
 			"postal_code_pattern": "5[4-6]\\d{2}",
+			"postal_code_example": "56445",
 			"has_children": true
 		},
 		"Jeju-do": {
@@ -105,6 +119,7 @@
 			"local_name": "제주",
 			"iso_code": "KR-49",
 			"postal_code_pattern": "63[0-356]\\d",
+			"postal_code_example": "63563",
 			"has_children": true
 		},
 		"Chungcheongnam-do": {
@@ -112,6 +127,7 @@
 			"local_name": "충남",
 			"iso_code": "KR-44",
 			"postal_code_pattern": "3[1-3]\\d{2}",
+			"postal_code_example": "32832",
 			"has_children": true
 		},
 		"Chungcheongbuk-do": {
@@ -119,6 +135,7 @@
 			"local_name": "충북",
 			"iso_code": "KR-43",
 			"postal_code_pattern": "2[789]\\d{2}",
+			"postal_code_example": "28006",
 			"has_children": true
 		}
 	}

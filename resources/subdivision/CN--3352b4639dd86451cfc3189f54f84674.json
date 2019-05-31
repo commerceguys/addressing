@@ -8,16 +8,20 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Liuzhi Tequ": {
-			"local_code": "六枝特区"
+			"local_code": "六枝特区",
+			"postal_code_example": "553400"
 		},
 		"Pan Xian": {
-			"local_code": "盘县"
+			"local_code": "盘县",
+			"postal_code_example": "561611"
 		},
 		"Shuicheng Xian": {
-			"local_code": "水城县"
+			"local_code": "水城县",
+			"postal_code_example": "553000"
 		},
 		"Zhongshan Qu": {
-			"local_code": "钟山区"
+			"local_code": "钟山区",
+			"postal_code_example": "553000"
 		}
 	}
 }

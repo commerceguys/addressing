@@ -8,28 +8,36 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Baoqing Xian": {
-			"local_code": "宝清县"
+			"local_code": "宝清县",
+			"postal_code_example": "155600"
 		},
 		"Baoshan Qu": {
-			"local_code": "宝山区"
+			"local_code": "宝山区",
+			"postal_code_example": "155131"
 		},
 		"Jixian Xian": {
-			"local_code": "集贤县"
+			"local_code": "集贤县",
+			"postal_code_example": "155900"
 		},
 		"Jianshan Qu": {
-			"local_code": "尖山区"
+			"local_code": "尖山区",
+			"postal_code_example": "155100"
 		},
 		"Lingdong Qu": {
-			"local_code": "岭东区"
+			"local_code": "岭东区",
+			"postal_code_example": "155120"
 		},
 		"Raohe Xian": {
-			"local_code": "饶河县"
+			"local_code": "饶河县",
+			"postal_code_example": "155700"
 		},
 		"Sifangtai Qu": {
-			"local_code": "四方台区"
+			"local_code": "四方台区",
+			"postal_code_example": "155130"
 		},
 		"Youyi Xian": {
-			"local_code": "友谊县"
+			"local_code": "友谊县",
+			"postal_code_example": "155800"
 		}
 	}
 }

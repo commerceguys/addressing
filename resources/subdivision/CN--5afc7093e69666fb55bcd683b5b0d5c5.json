@@ -8,37 +8,48 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Anren Xian": {
-			"local_code": "安仁县"
+			"local_code": "安仁县",
+			"postal_code_example": "423600"
 		},
 		"Beihu Qu": {
-			"local_code": "北湖区"
+			"local_code": "北湖区",
+			"postal_code_example": "423000"
 		},
 		"Guidong Xian": {
-			"local_code": "桂东县"
+			"local_code": "桂东县",
+			"postal_code_example": "423500"
 		},
 		"Guiyang Xian": {
-			"local_code": "桂阳县"
+			"local_code": "桂阳县",
+			"postal_code_example": "424400"
 		},
 		"Jiahe Xian": {
-			"local_code": "嘉禾县"
+			"local_code": "嘉禾县",
+			"postal_code_example": "424500"
 		},
 		"Linwu Xian": {
-			"local_code": "临武县"
+			"local_code": "临武县",
+			"postal_code_example": "424300"
 		},
 		"Rucheng Xian": {
-			"local_code": "汝城县"
+			"local_code": "汝城县",
+			"postal_code_example": "424100"
 		},
 		"Suxian Qu": {
-			"local_code": "苏仙区"
+			"local_code": "苏仙区",
+			"postal_code_example": "423000"
 		},
 		"Yizhang Xian": {
-			"local_code": "宜章县"
+			"local_code": "宜章县",
+			"postal_code_example": "424200"
 		},
 		"Yongxing Xian": {
-			"local_code": "永兴县"
+			"local_code": "永兴县",
+			"postal_code_example": "423300"
 		},
 		"Zixing Shi": {
-			"local_code": "资兴市"
+			"local_code": "资兴市",
+			"postal_code_example": "423400"
 		}
 	}
 }

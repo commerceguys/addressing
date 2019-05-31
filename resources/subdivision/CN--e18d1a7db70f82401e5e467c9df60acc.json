@@ -8,43 +8,56 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Caidian Qu": {
-			"local_code": "蔡甸区"
+			"local_code": "蔡甸区",
+			"postal_code_example": "430100"
 		},
 		"Dongxihu Qu": {
-			"local_code": "东西湖区"
+			"local_code": "东西湖区",
+			"postal_code_example": "430040"
 		},
 		"Hannan Qu": {
-			"local_code": "汉南区"
+			"local_code": "汉南区",
+			"postal_code_example": "430090"
 		},
 		"Hanyang Qu": {
-			"local_code": "汉阳区"
+			"local_code": "汉阳区",
+			"postal_code_example": "430050"
 		},
 		"Hongshan Qu": {
-			"local_code": "洪山区"
+			"local_code": "洪山区",
+			"postal_code_example": "430070"
 		},
 		"Huangpi Qu": {
-			"local_code": "黄陂区"
+			"local_code": "黄陂区",
+			"postal_code_example": "432200"
 		},
 		"Jiang'an Qu": {
-			"local_code": "江岸区"
+			"local_code": "江岸区",
+			"postal_code_example": "430014"
 		},
 		"Jianghan Qu": {
-			"local_code": "江汉区"
+			"local_code": "江汉区",
+			"postal_code_example": "430021"
 		},
 		"Jiangxia Qu": {
-			"local_code": "江夏区"
+			"local_code": "江夏区",
+			"postal_code_example": "430200"
 		},
 		"Qiaokou Qu": {
-			"local_code": "硚口区"
+			"local_code": "硚口区",
+			"postal_code_example": "430033"
 		},
 		"Qingshan Qu": {
-			"local_code": "青山区"
+			"local_code": "青山区",
+			"postal_code_example": "430080"
 		},
 		"Wuchang Qu": {
-			"local_code": "武昌区"
+			"local_code": "武昌区",
+			"postal_code_example": "430061"
 		},
 		"Xinzhou Qu": {
-			"local_code": "新洲区"
+			"local_code": "新洲区",
+			"postal_code_example": "431400"
 		}
 	}
 }

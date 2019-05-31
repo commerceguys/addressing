@@ -8,40 +8,52 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Ar Horqin Qi": {
-			"local_code": "阿鲁科尔沁旗"
+			"local_code": "阿鲁科尔沁旗",
+			"postal_code_example": "025550"
 		},
 		"Aohan Qi": {
-			"local_code": "敖汉旗"
+			"local_code": "敖汉旗",
+			"postal_code_example": "024300"
 		},
 		"Bairin Youqi": {
-			"local_code": "巴林右旗"
+			"local_code": "巴林右旗",
+			"postal_code_example": "025150"
 		},
 		"Bairin Zuoqi": {
-			"local_code": "巴林左旗"
+			"local_code": "巴林左旗",
+			"postal_code_example": "025450"
 		},
 		"Hongshan Qu": {
-			"local_code": "红山区"
+			"local_code": "红山区",
+			"postal_code_example": "024001"
 		},
 		"Harqin Qi": {
-			"local_code": "喀喇沁旗"
+			"local_code": "喀喇沁旗",
+			"postal_code_example": "024400"
 		},
 		"Hexigten Qi": {
-			"local_code": "克什克腾旗"
+			"local_code": "克什克腾旗",
+			"postal_code_example": "025350"
 		},
 		"Linxi Xian": {
-			"local_code": "林西县"
+			"local_code": "林西县",
+			"postal_code_example": "025250"
 		},
 		"Ningcheng Xian": {
-			"local_code": "宁城县"
+			"local_code": "宁城县",
+			"postal_code_example": "024200"
 		},
 		"Songshan Qu": {
-			"local_code": "松山区"
+			"local_code": "松山区",
+			"postal_code_example": "024001"
 		},
 		"Ongniud Qi": {
-			"local_code": "翁牛特旗"
+			"local_code": "翁牛特旗",
+			"postal_code_example": "024500"
 		},
 		"Yuanbaoshan Qu": {
-			"local_code": "元宝山区"
+			"local_code": "元宝山区",
+			"postal_code_example": "024070"
 		}
 	}
 }

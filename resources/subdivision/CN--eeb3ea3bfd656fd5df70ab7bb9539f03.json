@@ -8,16 +8,20 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Dongxing Shi": {
-			"local_code": "东兴市"
+			"local_code": "东兴市",
+			"postal_code_example": "538100"
 		},
 		"Fangcheng Qu": {
-			"local_code": "防城区"
+			"local_code": "防城区",
+			"postal_code_example": "538021"
 		},
 		"Gangkou Qu": {
-			"local_code": "港口区"
+			"local_code": "港口区",
+			"postal_code_example": "538001"
 		},
 		"Shangsi Xian": {
-			"local_code": "上思县"
+			"local_code": "上思县",
+			"postal_code_example": "535500"
 		}
 	}
 }

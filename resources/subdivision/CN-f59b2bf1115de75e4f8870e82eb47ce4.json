@@ -7,52 +7,68 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Changping Qu": {
-			"local_code": "昌平区"
+			"local_code": "昌平区",
+			"postal_code_example": "102200"
 		},
 		"Chaoyang Qu": {
-			"local_code": "朝阳区"
+			"local_code": "朝阳区",
+			"postal_code_example": "100020"
 		},
 		"Daxing Qu": {
-			"local_code": "大兴区"
+			"local_code": "大兴区",
+			"postal_code_example": "102600"
 		},
 		"Dongcheng Qu": {
-			"local_code": "东城区"
+			"local_code": "东城区",
+			"postal_code_example": "100010"
 		},
 		"Fangshan Qu": {
-			"local_code": "房山区"
+			"local_code": "房山区",
+			"postal_code_example": "102400"
 		},
 		"Fengtai Qu": {
-			"local_code": "丰台区"
+			"local_code": "丰台区",
+			"postal_code_example": "100071"
 		},
 		"Haidian Qu": {
-			"local_code": "海淀区"
+			"local_code": "海淀区",
+			"postal_code_example": "100080"
 		},
 		"Huairou Qu": {
-			"local_code": "怀柔区"
+			"local_code": "怀柔区",
+			"postal_code_example": "101400"
 		},
 		"Mentougou Qu": {
-			"local_code": "门头沟区"
+			"local_code": "门头沟区",
+			"postal_code_example": "102300"
 		},
 		"Miyun Xian": {
-			"local_code": "密云县"
+			"local_code": "密云县",
+			"postal_code_example": "101500"
 		},
 		"Pinggu Qu": {
-			"local_code": "平谷区"
+			"local_code": "平谷区",
+			"postal_code_example": "101200"
 		},
 		"Shijingshan Qu": {
-			"local_code": "石景山区"
+			"local_code": "石景山区",
+			"postal_code_example": "100043"
 		},
 		"Shunyi Qu": {
-			"local_code": "顺义区"
+			"local_code": "顺义区",
+			"postal_code_example": "101300"
 		},
 		"Tongzhou Qu": {
-			"local_code": "通州区"
+			"local_code": "通州区",
+			"postal_code_example": "101149"
 		},
 		"Xicheng Qu": {
-			"local_code": "西城区"
+			"local_code": "西城区",
+			"postal_code_example": "100032"
 		},
 		"Yanqing Xian": {
-			"local_code": "延庆县"
+			"local_code": "延庆县",
+			"postal_code_example": "102100"
 		}
 	}
 }

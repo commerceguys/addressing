@@ -8,19 +8,24 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Huilai Xian": {
-			"local_code": "惠来县"
+			"local_code": "惠来县",
+			"postal_code_example": "515200"
 		},
 		"Jiedong Xian": {
-			"local_code": "揭东县"
+			"local_code": "揭东县",
+			"postal_code_example": "515554"
 		},
 		"Jiexi Xian": {
-			"local_code": "揭西县"
+			"local_code": "揭西县",
+			"postal_code_example": "515400"
 		},
 		"Puning Shi": {
-			"local_code": "普宁市"
+			"local_code": "普宁市",
+			"postal_code_example": "515300"
 		},
 		"Rongcheng Qu": {
-			"local_code": "榕城区"
+			"local_code": "榕城区",
+			"postal_code_example": "522095"
 		}
 	}
 }

@@ -8,31 +8,40 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Baokang Xian": {
-			"local_code": "保康县"
+			"local_code": "保康县",
+			"postal_code_example": "441600"
 		},
 		"Fancheng Qu": {
-			"local_code": "樊城区"
+			"local_code": "樊城区",
+			"postal_code_example": "441001"
 		},
 		"Gucheng Xian": {
-			"local_code": "谷城县"
+			"local_code": "谷城县",
+			"postal_code_example": "441700"
 		},
 		"Laohekou Shi": {
-			"local_code": "老河口市"
+			"local_code": "老河口市",
+			"postal_code_example": "441800"
 		},
 		"Nanzhang Xian": {
-			"local_code": "南漳县"
+			"local_code": "南漳县",
+			"postal_code_example": "441500"
 		},
 		"Xiangcheng Qu": {
-			"local_code": "襄城区"
+			"local_code": "襄城区",
+			"postal_code_example": "441021"
 		},
 		"Xiangzhou Qu": {
-			"local_code": "襄州区"
+			"local_code": "襄州区",
+			"postal_code_example": "441100"
 		},
 		"Yicheng Shi": {
-			"local_code": "宜城市"
+			"local_code": "宜城市",
+			"postal_code_example": "441400"
 		},
 		"Zaoyang Shi": {
-			"local_code": "枣阳市"
+			"local_code": "枣阳市",
+			"postal_code_example": "441200"
 		}
 	}
 }

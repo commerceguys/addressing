@@ -8,34 +8,44 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Chuxiong Shi": {
-			"local_code": "楚雄市"
+			"local_code": "楚雄市",
+			"postal_code_example": "675000"
 		},
 		"Dayao Xian": {
-			"local_code": "大姚县"
+			"local_code": "大姚县",
+			"postal_code_example": "675400"
 		},
 		"Lufeng Xian": {
-			"local_code": "禄丰县"
+			"local_code": "禄丰县",
+			"postal_code_example": "651200"
 		},
 		"Mouding Xian": {
-			"local_code": "牟定县"
+			"local_code": "牟定县",
+			"postal_code_example": "675500"
 		},
 		"Nanhua Xian": {
-			"local_code": "南华县"
+			"local_code": "南华县",
+			"postal_code_example": "675200"
 		},
 		"Shuangbai Xian": {
-			"local_code": "双柏县"
+			"local_code": "双柏县",
+			"postal_code_example": "675100"
 		},
 		"Wuding Xian": {
-			"local_code": "武定县"
+			"local_code": "武定县",
+			"postal_code_example": "651600"
 		},
 		"Yao'an Xian": {
-			"local_code": "姚安县"
+			"local_code": "姚安县",
+			"postal_code_example": "675300"
 		},
 		"Yongren Xian": {
-			"local_code": "永仁县"
+			"local_code": "永仁县",
+			"postal_code_example": "651400"
 		},
 		"Yuanmou Xian": {
-			"local_code": "元谋县"
+			"local_code": "元谋县",
+			"postal_code_example": "651300"
 		}
 	}
 }

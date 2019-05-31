@@ -38,7 +38,7 @@
 		"Daman and Diu": {
 			"name": "Daman & Diu",
 			"iso_code": "IN-DD",
-			"postal_code_pattern": "396"
+			"postal_code_pattern": "396|362"
 		},
 		"Delhi": {
 			"iso_code": "IN-DL",

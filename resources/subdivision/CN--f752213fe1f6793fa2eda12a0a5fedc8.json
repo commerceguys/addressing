@@ -8,16 +8,20 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Dangtu Xian": {
-			"local_code": "当涂县"
+			"local_code": "当涂县",
+			"postal_code_example": "243100"
 		},
 		"Huashan Qu": {
-			"local_code": "花山区"
+			"local_code": "花山区",
+			"postal_code_example": "243000"
 		},
 		"Jinjiazhuang Qu": {
-			"local_code": "金家庄区"
+			"local_code": "金家庄区",
+			"postal_code_example": "243021"
 		},
 		"Yushan Qu": {
-			"local_code": "雨山区"
+			"local_code": "雨山区",
+			"postal_code_example": "243011"
 		}
 	}
 }

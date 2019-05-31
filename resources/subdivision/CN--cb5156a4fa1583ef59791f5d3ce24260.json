@@ -8,40 +8,52 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Anqiu Shi": {
-			"local_code": "安丘市"
+			"local_code": "安丘市",
+			"postal_code_example": "262100"
 		},
 		"Changle Xian": {
-			"local_code": "昌乐县"
+			"local_code": "昌乐县",
+			"postal_code_example": "262400"
 		},
 		"Changyi Shi": {
-			"local_code": "昌邑市"
+			"local_code": "昌邑市",
+			"postal_code_example": "261300"
 		},
 		"Fangzi Qu": {
-			"local_code": "坊子区"
+			"local_code": "坊子区",
+			"postal_code_example": "261200"
 		},
 		"Gaomi Shi": {
-			"local_code": "高密市"
+			"local_code": "高密市",
+			"postal_code_example": "261500"
 		},
 		"Hanting Qu": {
-			"local_code": "寒亭区"
+			"local_code": "寒亭区",
+			"postal_code_example": "261100"
 		},
 		"Kuiwen Qu": {
-			"local_code": "奎文区"
+			"local_code": "奎文区",
+			"postal_code_example": "261041"
 		},
 		"Linqu Xian": {
-			"local_code": "临朐县"
+			"local_code": "临朐县",
+			"postal_code_example": "262600"
 		},
 		"Qingzhou Shi": {
-			"local_code": "青州市"
+			"local_code": "青州市",
+			"postal_code_example": "262500"
 		},
 		"Shouguang Shi": {
-			"local_code": "寿光市"
+			"local_code": "寿光市",
+			"postal_code_example": "262700"
 		},
 		"Weicheng Qu": {
-			"local_code": "潍城区"
+			"local_code": "潍城区",
+			"postal_code_example": "261021"
 		},
 		"Zhucheng Shi": {
-			"local_code": "诸城市"
+			"local_code": "诸城市",
+			"postal_code_example": "262200"
 		}
 	}
 }

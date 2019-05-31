@@ -8,37 +8,48 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Qahar Youyi Houqi": {
-			"local_code": "察哈尔右翼后旗"
+			"local_code": "察哈尔右翼后旗",
+			"postal_code_example": "012400"
 		},
 		"Qahar Youyi Qianqi": {
-			"local_code": "察哈尔右翼前旗"
+			"local_code": "察哈尔右翼前旗",
+			"postal_code_example": "012200"
 		},
 		"Qahar Youyi Zhongqi": {
-			"local_code": "察哈尔右翼中旗"
+			"local_code": "察哈尔右翼中旗",
+			"postal_code_example": "013550"
 		},
 		"Fengzhen Shi": {
-			"local_code": "丰镇市"
+			"local_code": "丰镇市",
+			"postal_code_example": "012100"
 		},
 		"Huade Xian": {
-			"local_code": "化德县"
+			"local_code": "化德县",
+			"postal_code_example": "013350"
 		},
 		"Jining Qu": {
-			"local_code": "集宁区"
+			"local_code": "集宁区",
+			"postal_code_example": "012000"
 		},
 		"Liangcheng Xian": {
-			"local_code": "凉城县"
+			"local_code": "凉城县",
+			"postal_code_example": "013750"
 		},
 		"Shangdu Xian": {
-			"local_code": "商都县"
+			"local_code": "商都县",
+			"postal_code_example": "013450"
 		},
 		"Dorbod Qi": {
-			"local_code": "四子王旗"
+			"local_code": "四子王旗",
+			"postal_code_example": "011800"
 		},
 		"Xinghe Xian": {
-			"local_code": "兴和县"
+			"local_code": "兴和县",
+			"postal_code_example": "013650"
 		},
 		"Zhuozi Xian": {
-			"local_code": "卓资县"
+			"local_code": "卓资县",
+			"postal_code_example": "012300"
 		}
 	}
 }

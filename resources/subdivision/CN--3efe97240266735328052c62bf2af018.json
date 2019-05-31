@@ -8,58 +8,76 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Acheng Qu": {
-			"local_code": "阿城区"
+			"local_code": "阿城区",
+			"postal_code_example": "150300"
 		},
 		"Bayan Xian": {
-			"local_code": "巴彦县"
+			"local_code": "巴彦县",
+			"postal_code_example": "151800"
 		},
 		"Bin Xian": {
-			"local_code": "宾县"
+			"local_code": "宾县",
+			"postal_code_example": "150400"
 		},
 		"Daoli Qu": {
-			"local_code": "道里区"
+			"local_code": "道里区",
+			"postal_code_example": "150010"
 		},
 		"Daowai Qu": {
-			"local_code": "道外区"
+			"local_code": "道外区",
+			"postal_code_example": "150020"
 		},
 		"Fangzheng Xian": {
-			"local_code": "方正县"
+			"local_code": "方正县",
+			"postal_code_example": "150800"
 		},
 		"Hulan Qu": {
-			"local_code": "呼兰区"
+			"local_code": "呼兰区",
+			"postal_code_example": "150500"
 		},
 		"Mulan Xian": {
-			"local_code": "木兰县"
+			"local_code": "木兰县",
+			"postal_code_example": "151900"
 		},
 		"Nangang Qu": {
-			"local_code": "南岗区"
+			"local_code": "南岗区",
+			"postal_code_example": "150006"
 		},
 		"Pingfang Qu": {
-			"local_code": "平房区"
+			"local_code": "平房区",
+			"postal_code_example": "150060"
 		},
 		"Shangzhi Shi": {
-			"local_code": "尚志市"
+			"local_code": "尚志市",
+			"postal_code_example": "150600"
 		},
 		"Shuangcheng Shi": {
-			"local_code": "双城市"
+			"local_code": "双城市",
+			"postal_code_example": "150100"
 		},
 		"Sonbgei Qu": {
-			"local_code": "松北区"
+			"local_code": "松北区",
+			"postal_code_example": "150056"
 		},
 		"Tonghe Xian": {
-			"local_code": "通河县"
+			"local_code": "通河县",
+			"postal_code_example": "150900"
 		},
 		"Wuchang Shi": {
-			"local_code": "五常市"
+			"local_code": "五常市",
+			"postal_code_example": "150200"
 		},
 		"Xiangfang Qu": {
-			"local_code": "香坊区"
+			"local_code": "香坊区",
+			"postal_code_example": "150036"
 		},
 		"Yanshou Xian": {
-			"local_code": "延寿县"
+			"local_code": "延寿县",
+			"postal_code_example": "150700"
 		},
 		"Yilan Xian": {
-			"local_code": "依兰县"
+			"local_code": "依兰县",
+			"postal_code_example": "154800"
 		}
 	}
 }

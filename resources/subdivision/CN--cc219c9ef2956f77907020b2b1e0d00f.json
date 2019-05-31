@@ -8,61 +8,80 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Cheng'an Xian": {
-			"local_code": "成安县"
+			"local_code": "成安县",
+			"postal_code_example": "056700"
 		},
 		"Ci Xian": {
-			"local_code": "磁县"
+			"local_code": "磁县",
+			"postal_code_example": "056600"
 		},
 		"Congtai Qu": {
-			"local_code": "丛台区"
+			"local_code": "丛台区",
+			"postal_code_example": "056004"
 		},
 		"Daming Xian": {
-			"local_code": "大名县"
+			"local_code": "大名县",
+			"postal_code_example": "056900"
 		},
 		"Feixiang Xian": {
-			"local_code": "肥乡县"
+			"local_code": "肥乡县",
+			"postal_code_example": "057550"
 		},
 		"Fengfeng Kuangqu": {
-			"local_code": "峰峰矿区"
+			"local_code": "峰峰矿区",
+			"postal_code_example": "056200"
 		},
 		"Fuxing Qu": {
-			"local_code": "复兴区"
+			"local_code": "复兴区",
+			"postal_code_example": "056003"
 		},
 		"Guantao Xian": {
-			"local_code": "馆陶县"
+			"local_code": "馆陶县",
+			"postal_code_example": "057750"
 		},
 		"Guangping Xian": {
-			"local_code": "广平县"
+			"local_code": "广平县",
+			"postal_code_example": "057650"
 		},
 		"Handan Xian": {
-			"local_code": "邯郸县"
+			"local_code": "邯郸县",
+			"postal_code_example": "056100"
 		},
 		"Hanshan Qu": {
-			"local_code": "邯山区"
+			"local_code": "邯山区",
+			"postal_code_example": "056001"
 		},
 		"Jize Xian": {
-			"local_code": "鸡泽县"
+			"local_code": "鸡泽县",
+			"postal_code_example": "057350"
 		},
 		"Linzhang Xian": {
-			"local_code": "临漳县"
+			"local_code": "临漳县",
+			"postal_code_example": "056600"
 		},
 		"Qiu Xian": {
-			"local_code": "邱县"
+			"local_code": "邱县",
+			"postal_code_example": "057450"
 		},
 		"Quzhou Xian": {
-			"local_code": "曲周县"
+			"local_code": "曲周县",
+			"postal_code_example": "057250"
 		},
 		"She Xian": {
-			"local_code": "涉县"
+			"local_code": "涉县",
+			"postal_code_example": "056500"
 		},
 		"Wei Xian": {
-			"local_code": "魏县"
+			"local_code": "魏县",
+			"postal_code_example": "056800"
 		},
 		"Wu'an Shi": {
-			"local_code": "武安市"
+			"local_code": "武安市",
+			"postal_code_example": "056300"
 		},
 		"Yongnian Xian": {
-			"local_code": "永年县"
+			"local_code": "永年县",
+			"postal_code_example": "057150"
 		}
 	}
 }

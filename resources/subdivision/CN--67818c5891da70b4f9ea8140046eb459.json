@@ -8,43 +8,56 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Dengzhou Shi": {
-			"local_code": "邓州市"
+			"local_code": "邓州市",
+			"postal_code_example": "474150"
 		},
 		"Fangcheng Xian": {
-			"local_code": "方城县"
+			"local_code": "方城县",
+			"postal_code_example": "473200"
 		},
 		"Nanzhao Xian": {
-			"local_code": "南召县"
+			"local_code": "南召县",
+			"postal_code_example": "474650"
 		},
 		"Neixiang Xian": {
-			"local_code": "内乡县"
+			"local_code": "内乡县",
+			"postal_code_example": "474350"
 		},
 		"Sheqi Xian": {
-			"local_code": "社旗县"
+			"local_code": "社旗县",
+			"postal_code_example": "473300"
 		},
 		"Tanghe Xian": {
-			"local_code": "唐河县"
+			"local_code": "唐河县",
+			"postal_code_example": "473400"
 		},
 		"Tongbai Xian": {
-			"local_code": "桐柏县"
+			"local_code": "桐柏县",
+			"postal_code_example": "474750"
 		},
 		"Wancheng Qu": {
-			"local_code": "宛城区"
+			"local_code": "宛城区",
+			"postal_code_example": "473001"
 		},
 		"Wolong Qu": {
-			"local_code": "卧龙区"
+			"local_code": "卧龙区",
+			"postal_code_example": "473003"
 		},
 		"Xixia Xian": {
-			"local_code": "西峡县"
+			"local_code": "西峡县",
+			"postal_code_example": "474550"
 		},
 		"Xichuan Xian": {
-			"local_code": "淅川县"
+			"local_code": "淅川县",
+			"postal_code_example": "474450"
 		},
 		"Xinye Xian": {
-			"local_code": "新野县"
+			"local_code": "新野县",
+			"postal_code_example": "473500"
 		},
 		"Zhenping Xian": {
-			"local_code": "镇平县"
+			"local_code": "镇平县",
+			"postal_code_example": "474250"
 		}
 	}
 }

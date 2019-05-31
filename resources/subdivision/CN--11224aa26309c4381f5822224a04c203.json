@@ -8,16 +8,20 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Haicheng Qu": {
-			"local_code": "海城区"
+			"local_code": "海城区",
+			"postal_code_example": "536000"
 		},
 		"Hepu Xian": {
-			"local_code": "合浦县"
+			"local_code": "合浦县",
+			"postal_code_example": "536100"
 		},
 		"Tieshangang Qu": {
-			"local_code": "铁山港区"
+			"local_code": "铁山港区",
+			"postal_code_example": "536017"
 		},
 		"Yinhai Qu": {
-			"local_code": "银海区"
+			"local_code": "银海区",
+			"postal_code_example": "536000"
 		}
 	}
 }

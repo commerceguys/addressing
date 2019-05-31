@@ -8,25 +8,32 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Dachuan Qu": {
-			"local_code": "达川区"
+			"local_code": "达川区",
+			"postal_code_example": "635000"
 		},
 		"Dazhu Xian": {
-			"local_code": "大竹县"
+			"local_code": "大竹县",
+			"postal_code_example": "635100"
 		},
 		"Kaijiang Xian": {
-			"local_code": "开江县"
+			"local_code": "开江县",
+			"postal_code_example": "636250"
 		},
 		"Qu Xian": {
-			"local_code": "渠县"
+			"local_code": "渠县",
+			"postal_code_example": "635200"
 		},
 		"Tongzhou Qu": {
-			"local_code": "通川区"
+			"local_code": "通川区",
+			"postal_code_example": "635000"
 		},
 		"Wanyuan Shi": {
-			"local_code": "万源市"
+			"local_code": "万源市",
+			"postal_code_example": "636350"
 		},
 		"Xuanhan Xian": {
-			"local_code": "宣汉县"
+			"local_code": "宣汉县",
+			"postal_code_example": "636150"
 		}
 	}
 }

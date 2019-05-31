@@ -8,22 +8,28 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Huairen Xian": {
-			"local_code": "怀仁县"
+			"local_code": "怀仁县",
+			"postal_code_example": "038300"
 		},
 		"Pinglu Qu": {
-			"local_code": "平鲁区"
+			"local_code": "平鲁区",
+			"postal_code_example": "038600"
 		},
 		"Shanyin Xian": {
-			"local_code": "山阴县"
+			"local_code": "山阴县",
+			"postal_code_example": "036900"
 		},
 		"Shuocheng Qu": {
-			"local_code": "朔城区"
+			"local_code": "朔城区",
+			"postal_code_example": "038500"
 		},
 		"Ying Xian": {
-			"local_code": "应县"
+			"local_code": "应县",
+			"postal_code_example": "037600"
 		},
 		"Youyu Xian": {
-			"local_code": "右玉县"
+			"local_code": "右玉县",
+			"postal_code_example": "037200"
 		}
 	}
 }

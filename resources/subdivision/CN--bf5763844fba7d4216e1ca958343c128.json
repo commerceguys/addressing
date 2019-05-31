@@ -9,34 +9,44 @@
 	"subdivisions": {
 		"Qapqal Xian": {
 			"local_code": "察布查尔锡伯自治县",
-			"local_name": "察布查尔县"
+			"local_name": "察布查尔县",
+			"postal_code_example": "835300"
 		},
 		"Gongliu Xian": {
-			"local_code": "巩留县"
+			"local_code": "巩留县",
+			"postal_code_example": "835400"
 		},
 		"Huocheng Xian": {
-			"local_code": "霍城县"
+			"local_code": "霍城县",
+			"postal_code_example": "835200"
 		},
 		"Kuytun Shi": {
-			"local_code": "奎屯市"
+			"local_code": "奎屯市",
+			"postal_code_example": "833200"
 		},
 		"Nilka Xian": {
-			"local_code": "尼勒克县"
+			"local_code": "尼勒克县",
+			"postal_code_example": "835700"
 		},
 		"Tekes Xian": {
-			"local_code": "特克斯县"
+			"local_code": "特克斯县",
+			"postal_code_example": "835500"
 		},
 		"Xinyuan Xian": {
-			"local_code": "新源县"
+			"local_code": "新源县",
+			"postal_code_example": "835800"
 		},
 		"Yining Shi": {
-			"local_code": "伊宁市"
+			"local_code": "伊宁市",
+			"postal_code_example": "835000"
 		},
 		"Yining Xian": {
-			"local_code": "伊宁县"
+			"local_code": "伊宁县",
+			"postal_code_example": "835100"
 		},
 		"Zhaosu Xian": {
-			"local_code": "昭苏县"
+			"local_code": "昭苏县",
+			"postal_code_example": "835600"
 		}
 	}
 }

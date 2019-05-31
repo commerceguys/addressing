@@ -8,46 +8,60 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Baode Xian": {
-			"local_code": "保德县"
+			"local_code": "保德县",
+			"postal_code_example": "036600"
 		},
 		"Dai Xian": {
-			"local_code": "代县"
+			"local_code": "代县",
+			"postal_code_example": "034200"
 		},
 		"Dingxiang Xian": {
-			"local_code": "定襄县"
+			"local_code": "定襄县",
+			"postal_code_example": "035400"
 		},
 		"Fanshi Xian": {
-			"local_code": "繁峙县"
+			"local_code": "繁峙县",
+			"postal_code_example": "034300"
 		},
 		"Hequ Xian": {
-			"local_code": "河曲县"
+			"local_code": "河曲县",
+			"postal_code_example": "036500"
 		},
 		"Jingle Xian": {
-			"local_code": "静乐县"
+			"local_code": "静乐县",
+			"postal_code_example": "035100"
 		},
 		"Kelan Xian": {
-			"local_code": "岢岚县"
+			"local_code": "岢岚县",
+			"postal_code_example": "036300"
 		},
 		"Ningwu Xian": {
-			"local_code": "宁武县"
+			"local_code": "宁武县",
+			"postal_code_example": "036700"
 		},
 		"Pianguan Xian": {
-			"local_code": "偏关县"
+			"local_code": "偏关县",
+			"postal_code_example": "036400"
 		},
 		"Shenchi Xian": {
-			"local_code": "神池县"
+			"local_code": "神池县",
+			"postal_code_example": "036100"
 		},
 		"Wutai Xian": {
-			"local_code": "五台县"
+			"local_code": "五台县",
+			"postal_code_example": "035500"
 		},
 		"Wuzhai Xian": {
-			"local_code": "五寨县"
+			"local_code": "五寨县",
+			"postal_code_example": "036200"
 		},
 		"Xinfu Qu": {
-			"local_code": "忻府区"
+			"local_code": "忻府区",
+			"postal_code_example": "034000"
 		},
 		"Yuanping Shi": {
-			"local_code": "原平市"
+			"local_code": "原平市",
+			"postal_code_example": "034100"
 		}
 	}
 }

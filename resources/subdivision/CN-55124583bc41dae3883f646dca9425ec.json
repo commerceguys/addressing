@@ -8,46 +8,57 @@
 	"subdivisions": {
 		"Hangzhou Shi": {
 			"local_code": "杭州市",
+			"postal_code_example": "310026",
 			"has_children": true
 		},
 		"Huzhou Shi": {
 			"local_code": "湖州市",
+			"postal_code_example": "313000",
 			"has_children": true
 		},
 		"Jiaxing Shi": {
 			"local_code": "嘉兴市",
+			"postal_code_example": "314000",
 			"has_children": true
 		},
 		"Jinhua Shi": {
 			"local_code": "金华市",
+			"postal_code_example": "321000",
 			"has_children": true
 		},
 		"Lishui Shi": {
 			"local_code": "丽水市",
+			"postal_code_example": "323000",
 			"has_children": true
 		},
 		"Ningbo Shi": {
 			"local_code": "宁波市",
+			"postal_code_example": "315000",
 			"has_children": true
 		},
 		"Quzhou Shi": {
 			"local_code": "衢州市",
+			"postal_code_example": "324002",
 			"has_children": true
 		},
 		"Shaoxing Shi": {
 			"local_code": "绍兴市",
+			"postal_code_example": "312000",
 			"has_children": true
 		},
 		"Taizhou Shi": {
 			"local_code": "台州市",
+			"postal_code_example": "318000",
 			"has_children": true
 		},
 		"Wenzhou Shi": {
 			"local_code": "温州市",
+			"postal_code_example": "325000",
 			"has_children": true
 		},
 		"Zhoushan Shi": {
 			"local_code": "舟山市",
+			"postal_code_example": "316000",
 			"has_children": true
 		}
 	}

@@ -8,22 +8,28 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Dongyuan Xian": {
-			"local_code": "东源县"
+			"local_code": "东源县",
+			"postal_code_example": "517500"
 		},
 		"Heping Xian": {
-			"local_code": "和平县"
+			"local_code": "和平县",
+			"postal_code_example": "517200"
 		},
 		"Lianping Xian": {
-			"local_code": "连平县"
+			"local_code": "连平县",
+			"postal_code_example": "517100"
 		},
 		"Longchuan Xian": {
-			"local_code": "龙川县"
+			"local_code": "龙川县",
+			"postal_code_example": "517300"
 		},
 		"Yuancheng Qu": {
-			"local_code": "源城区"
+			"local_code": "源城区",
+			"postal_code_example": "517000"
 		},
 		"Zijin Xian": {
-			"local_code": "紫金县"
+			"local_code": "紫金县",
+			"postal_code_example": "517400"
 		}
 	}
 }

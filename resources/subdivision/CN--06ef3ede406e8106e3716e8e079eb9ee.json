@@ -8,34 +8,44 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Hong'an Xian": {
-			"local_code": "红安县"
+			"local_code": "红安县",
+			"postal_code_example": "438401"
 		},
 		"Huangmei Xian": {
-			"local_code": "黄梅县"
+			"local_code": "黄梅县",
+			"postal_code_example": "435500"
 		},
 		"Huangzhou Qu": {
-			"local_code": "黄州区"
+			"local_code": "黄州区",
+			"postal_code_example": "438000"
 		},
 		"Luotian Xian": {
-			"local_code": "罗田县"
+			"local_code": "罗田县",
+			"postal_code_example": "438600"
 		},
 		"Macheng Shi": {
-			"local_code": "麻城市"
+			"local_code": "麻城市",
+			"postal_code_example": "438300"
 		},
 		"Qichun Xian": {
-			"local_code": "蕲春县"
+			"local_code": "蕲春县",
+			"postal_code_example": "435300"
 		},
 		"Tuanfeng Xian": {
-			"local_code": "团风县"
+			"local_code": "团风县",
+			"postal_code_example": "438000"
 		},
 		"Wuxue Shi": {
-			"local_code": "武穴市"
+			"local_code": "武穴市",
+			"postal_code_example": "435400"
 		},
 		"Xishui Xian": {
-			"local_code": "浠水县"
+			"local_code": "浠水县",
+			"postal_code_example": "438200"
 		},
 		"Yingshan Xian": {
-			"local_code": "英山县"
+			"local_code": "英山县",
+			"postal_code_example": "438700"
 		}
 	}
 }

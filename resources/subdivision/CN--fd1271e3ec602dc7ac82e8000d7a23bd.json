@@ -8,25 +8,32 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Huoqiu Xian": {
-			"local_code": "霍邱县"
+			"local_code": "霍邱县",
+			"postal_code_example": "237400"
 		},
 		"Huoshan Xian": {
-			"local_code": "霍山县"
+			"local_code": "霍山县",
+			"postal_code_example": "237200"
 		},
 		"Jin'an Qu": {
-			"local_code": "金安区"
+			"local_code": "金安区",
+			"postal_code_example": "237005"
 		},
 		"Jinzhai Xian": {
-			"local_code": "金寨县"
+			"local_code": "金寨县",
+			"postal_code_example": "237300"
 		},
 		"Shou Xian": {
-			"local_code": "寿县"
+			"local_code": "寿县",
+			"postal_code_example": "232200"
 		},
 		"Shucheng Xian": {
-			"local_code": "舒城县"
+			"local_code": "舒城县",
+			"postal_code_example": "231300"
 		},
 		"Yu'an Qu": {
-			"local_code": "裕安区"
+			"local_code": "裕安区",
+			"postal_code_example": "237000"
 		}
 	}
 }

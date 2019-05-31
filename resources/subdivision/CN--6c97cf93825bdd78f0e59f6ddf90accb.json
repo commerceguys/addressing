@@ -8,34 +8,44 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Baiyun Qu": {
-			"local_code": "白云区"
+			"local_code": "白云区",
+			"postal_code_example": "550014"
 		},
 		"Guanshanhu Qu": {
-			"local_code": "观山湖区"
+			"local_code": "观山湖区",
+			"postal_code_example": "550009"
 		},
 		"Huaxi Qu": {
-			"local_code": "花溪区"
+			"local_code": "花溪区",
+			"postal_code_example": "550025"
 		},
 		"Kaiyang Xian": {
-			"local_code": "开阳县"
+			"local_code": "开阳县",
+			"postal_code_example": "550300"
 		},
 		"Nanming Qu": {
-			"local_code": "南明区"
+			"local_code": "南明区",
+			"postal_code_example": "550002"
 		},
 		"Qingzhen Shi": {
-			"local_code": "清镇市"
+			"local_code": "清镇市",
+			"postal_code_example": "551400"
 		},
 		"Wudang Qu": {
-			"local_code": "乌当区"
+			"local_code": "乌当区",
+			"postal_code_example": "550018"
 		},
 		"Xifeng Xian": {
-			"local_code": "息烽县"
+			"local_code": "息烽县",
+			"postal_code_example": "551100"
 		},
 		"Xiuwen Xian": {
-			"local_code": "修文县"
+			"local_code": "修文县",
+			"postal_code_example": "550200"
 		},
 		"Yunyan Qu": {
-			"local_code": "云岩区"
+			"local_code": "云岩区",
+			"postal_code_example": "550001"
 		}
 	}
 }

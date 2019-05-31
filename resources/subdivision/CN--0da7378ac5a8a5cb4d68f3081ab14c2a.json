@@ -8,37 +8,48 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Cheng Qu": {
-			"local_code": "城区"
+			"local_code": "城区",
+			"postal_code_example": "037008"
 		},
 		"Datong Xian": {
-			"local_code": "大同县"
+			"local_code": "大同县",
+			"postal_code_example": "037300"
 		},
 		"Guangling Xian": {
-			"local_code": "广灵县"
+			"local_code": "广灵县",
+			"postal_code_example": "037500"
 		},
 		"Hunyuan Xian": {
-			"local_code": "浑源县"
+			"local_code": "浑源县",
+			"postal_code_example": "037400"
 		},
 		"Kuang Qu": {
-			"local_code": "矿区"
+			"local_code": "矿区",
+			"postal_code_example": "037001"
 		},
 		"Lingqiu Xian": {
-			"local_code": "灵丘县"
+			"local_code": "灵丘县",
+			"postal_code_example": "034400"
 		},
 		"Nanjiao Qu": {
-			"local_code": "南郊区"
+			"local_code": "南郊区",
+			"postal_code_example": "037001"
 		},
 		"Tianzhen Xian": {
-			"local_code": "天镇县"
+			"local_code": "天镇县",
+			"postal_code_example": "038200"
 		},
 		"Xinrong Qu": {
-			"local_code": "新荣区"
+			"local_code": "新荣区",
+			"postal_code_example": "037002"
 		},
 		"Yanggao Xian": {
-			"local_code": "阳高县"
+			"local_code": "阳高县",
+			"postal_code_example": "038100"
 		},
 		"Zuoyun Xian": {
-			"local_code": "左云县"
+			"local_code": "左云县",
+			"postal_code_example": "037100"
 		}
 	}
 }

@@ -8,19 +8,24 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Lengshuijiang Shi": {
-			"local_code": "冷水江市"
+			"local_code": "冷水江市",
+			"postal_code_example": "417500"
 		},
 		"Lianyuan Shi": {
-			"local_code": "涟源市"
+			"local_code": "涟源市",
+			"postal_code_example": "417100"
 		},
 		"Louxing Qu": {
-			"local_code": "娄星区"
+			"local_code": "娄星区",
+			"postal_code_example": "417000"
 		},
 		"Shuangfeng Xian": {
-			"local_code": "双峰县"
+			"local_code": "双峰县",
+			"postal_code_example": "417700"
 		},
 		"Xinhua Xian": {
-			"local_code": "新化县"
+			"local_code": "新化县",
+			"postal_code_example": "417600"
 		}
 	}
 }

@@ -8,41 +8,53 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Beita Qu": {
-			"local_code": "北塔区"
+			"local_code": "北塔区",
+			"postal_code_example": "422001"
 		},
 		"Chengbu Xian": {
 			"local_code": "城步苗族自治县",
-			"local_name": "城步县"
+			"local_name": "城步县",
+			"postal_code_example": "422500"
 		},
 		"Daxiang Qu": {
-			"local_code": "大祥区"
+			"local_code": "大祥区",
+			"postal_code_example": "422000"
 		},
 		"Dongkou Xian": {
-			"local_code": "洞口县"
+			"local_code": "洞口县",
+			"postal_code_example": "422300"
 		},
 		"Longhui Xian": {
-			"local_code": "隆回县"
+			"local_code": "隆回县",
+			"postal_code_example": "422200"
 		},
 		"Shaodong Xian": {
-			"local_code": "邵东县"
+			"local_code": "邵东县",
+			"postal_code_example": "422800"
 		},
 		"Shaoyang Xian": {
-			"local_code": "邵阳县"
+			"local_code": "邵阳县",
+			"postal_code_example": "422100"
 		},
 		"Shuangqing Qu": {
-			"local_code": "双清区"
+			"local_code": "双清区",
+			"postal_code_example": "422001"
 		},
 		"Suining Xian": {
-			"local_code": "绥宁县"
+			"local_code": "绥宁县",
+			"postal_code_example": "422600"
 		},
 		"Wugang Shi": {
-			"local_code": "武冈市"
+			"local_code": "武冈市",
+			"postal_code_example": "422400"
 		},
 		"Xinning Xian": {
-			"local_code": "新宁县"
+			"local_code": "新宁县",
+			"postal_code_example": "422700"
 		},
 		"Xinshao Xian": {
-			"local_code": "新邵县"
+			"local_code": "新邵县",
+			"postal_code_example": "422900"
 		}
 	}
 }

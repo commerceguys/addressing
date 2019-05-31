@@ -8,35 +8,45 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Anci Qu": {
-			"local_code": "安次区"
+			"local_code": "安次区",
+			"postal_code_example": "065000"
 		},
 		"Bazhou Shi": {
-			"local_code": "霸州市"
+			"local_code": "霸州市",
+			"postal_code_example": "065700"
 		},
 		"Dachang Xian": {
 			"local_code": "大厂回族自治县",
-			"local_name": "大厂县"
+			"local_name": "大厂县",
+			"postal_code_example": "065300"
 		},
 		"Daicheng Xian": {
-			"local_code": "大城县"
+			"local_code": "大城县",
+			"postal_code_example": "065900"
 		},
 		"Gu'an Xian": {
-			"local_code": "固安县"
+			"local_code": "固安县",
+			"postal_code_example": "065500"
 		},
 		"Guangyang Qu": {
-			"local_code": "广阳区"
+			"local_code": "广阳区",
+			"postal_code_example": "065000"
 		},
 		"Sanhe Shi": {
-			"local_code": "三河市"
+			"local_code": "三河市",
+			"postal_code_example": "065200"
 		},
 		"Wen'an Xian": {
-			"local_code": "文安县"
+			"local_code": "文安县",
+			"postal_code_example": "065800"
 		},
 		"Xianghe Xian": {
-			"local_code": "香河县"
+			"local_code": "香河县",
+			"postal_code_example": "065400"
 		},
 		"Yongqing Xian": {
-			"local_code": "永清县"
+			"local_code": "永清县",
+			"postal_code_example": "065600"
 		}
 	}
 }

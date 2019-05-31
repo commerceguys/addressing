@@ -8,16 +8,20 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Dawa Xian": {
-			"local_code": "大洼县"
+			"local_code": "大洼县",
+			"postal_code_example": "124200"
 		},
 		"Panshan Xian": {
-			"local_code": "盘山县"
+			"local_code": "盘山县",
+			"postal_code_example": "124000"
 		},
 		"Shuangtaizi Qu": {
-			"local_code": "双台子区"
+			"local_code": "双台子区",
+			"postal_code_example": "124000"
 		},
 		"Xinglongtai Qu": {
-			"local_code": "兴隆台区"
+			"local_code": "兴隆台区",
+			"postal_code_example": "124010"
 		}
 	}
 }

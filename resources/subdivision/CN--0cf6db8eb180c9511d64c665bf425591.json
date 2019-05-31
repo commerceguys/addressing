@@ -8,26 +8,33 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Beipiao Shi": {
-			"local_code": "北票市"
+			"local_code": "北票市",
+			"postal_code_example": "122100"
 		},
 		"Chaoyang Xian": {
-			"local_code": "朝阳县"
+			"local_code": "朝阳县",
+			"postal_code_example": "122000"
 		},
 		"Jianping Xian": {
-			"local_code": "建平县"
+			"local_code": "建平县",
+			"postal_code_example": "122400"
 		},
 		"Harqin Zuoyi Xian": {
 			"local_code": "喀喇沁左翼蒙古族自治县",
-			"local_name": "喀喇沁左翼县"
+			"local_name": "喀喇沁左翼县",
+			"postal_code_example": "122300"
 		},
 		"Lingyuan Shi": {
-			"local_code": "凌源市"
+			"local_code": "凌源市",
+			"postal_code_example": "122500"
 		},
 		"Longcheng Qu": {
-			"local_code": "龙城区"
+			"local_code": "龙城区",
+			"postal_code_example": "122000"
 		},
 		"Shuangta Qu": {
-			"local_code": "双塔区"
+			"local_code": "双塔区",
+			"postal_code_example": "122000"
 		}
 	}
 }

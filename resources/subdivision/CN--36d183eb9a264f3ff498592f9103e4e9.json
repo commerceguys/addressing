@@ -9,26 +9,33 @@
 	"subdivisions": {
 		"Aksay Xian": {
 			"local_code": "阿克塞哈萨克族自治县",
-			"local_name": "阿克塞县"
+			"local_name": "阿克塞县",
+			"postal_code_example": "736400"
 		},
 		"Dunhuang Shi": {
-			"local_code": "敦煌市"
+			"local_code": "敦煌市",
+			"postal_code_example": "736200"
 		},
 		"Guazhou Xian": {
-			"local_code": "瓜州县"
+			"local_code": "瓜州县",
+			"postal_code_example": "736100"
 		},
 		"Jinta Xian": {
-			"local_code": "金塔县"
+			"local_code": "金塔县",
+			"postal_code_example": "735300"
 		},
 		"Subei Xian": {
 			"local_code": "肃北蒙古族自治县",
-			"local_name": "肃北县"
+			"local_name": "肃北县",
+			"postal_code_example": "736300"
 		},
 		"Suzhou Qu": {
-			"local_code": "肃州区"
+			"local_code": "肃州区",
+			"postal_code_example": "735000"
 		},
 		"Yumen Shi": {
-			"local_code": "玉门市"
+			"local_code": "玉门市",
+			"postal_code_example": "735200"
 		}
 	}
 }

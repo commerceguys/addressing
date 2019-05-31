@@ -8,19 +8,24 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Dongxing Qu": {
-			"local_code": "东兴区"
+			"local_code": "东兴区",
+			"postal_code_example": "641100"
 		},
 		"Longchang Xian": {
-			"local_code": "隆昌县"
+			"local_code": "隆昌县",
+			"postal_code_example": "642150"
 		},
 		"Shizhong Qu": {
-			"local_code": "市中区"
+			"local_code": "市中区",
+			"postal_code_example": "641000"
 		},
 		"Weiyuan Xian": {
-			"local_code": "威远县"
+			"local_code": "威远县",
+			"postal_code_example": "642450"
 		},
 		"Zizhong Xian": {
-			"local_code": "资中县"
+			"local_code": "资中县",
+			"postal_code_example": "641200"
 		}
 	}
 }

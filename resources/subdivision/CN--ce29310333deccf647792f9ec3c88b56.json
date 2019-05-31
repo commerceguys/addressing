@@ -8,13 +8,16 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Shanshan Xian": {
-			"local_code": "鄯善县"
+			"local_code": "鄯善县",
+			"postal_code_example": "838200"
 		},
 		"Turpan Shi": {
-			"local_code": "吐鲁番市"
+			"local_code": "吐鲁番市",
+			"postal_code_example": "838000"
 		},
 		"Toksun Xian": {
-			"local_code": "托克逊县"
+			"local_code": "托克逊县",
+			"postal_code_example": "838100"
 		}
 	}
 }

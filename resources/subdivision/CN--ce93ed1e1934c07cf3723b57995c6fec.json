@@ -8,25 +8,32 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Danfeng Xian": {
-			"local_code": "丹凤县"
+			"local_code": "丹凤县",
+			"postal_code_example": "726200"
 		},
 		"Luonan Xian": {
-			"local_code": "洛南县"
+			"local_code": "洛南县",
+			"postal_code_example": "726100"
 		},
 		"Shanyang Xian": {
-			"local_code": "山阳县"
+			"local_code": "山阳县",
+			"postal_code_example": "726400"
 		},
 		"Shangnan Xian": {
-			"local_code": "商南县"
+			"local_code": "商南县",
+			"postal_code_example": "726300"
 		},
 		"Shangzhou Qu": {
-			"local_code": "商州区"
+			"local_code": "商州区",
+			"postal_code_example": "726000"
 		},
 		"Zhashui Xian": {
-			"local_code": "柞水县"
+			"local_code": "柞水县",
+			"postal_code_example": "711400"
 		},
 		"Zhen'an Xian": {
-			"local_code": "镇安县"
+			"local_code": "镇安县",
+			"postal_code_example": "711500"
 		}
 	}
 }
