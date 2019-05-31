@@ -385,7 +385,7 @@ class AddressFormat
      * This is an example postal code used to provide additional context to the
      * end-user. It can be displayed as a placeholder, field description or as
      * part of the validation.
-     * (E.g. Zip code 12345 is not valid for Louisana (Example: 70001).
+     * E.g. Zip code 12345 is not valid for Louisana (Valid example: 70001).
      *
      * @return string|null A valid postal code example.
      */
