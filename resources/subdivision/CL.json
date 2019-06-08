@@ -43,6 +43,10 @@
 			"iso_code": "CL-LR",
 			"has_children": true
 		},
+		"Ñuble": {
+			"iso_code": "CL-NU",
+			"has_children": true
+		},
 		"Magallanes": {
 			"name": "Magallanes y de la Antártica Chilena",
 			"iso_code": "CL-MA",
