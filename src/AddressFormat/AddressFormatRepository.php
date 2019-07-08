@@ -1183,6 +1183,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
 		'uppercase_fields' => [
                     'locality', 'administrativeArea',
                 ],
+		'postal_code_pattern' => '\d{4}',
 		'subdivision_depth' => 1,
             ],
             'QA' => [
