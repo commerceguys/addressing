@@ -1179,8 +1179,11 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'postal_code_pattern' => '(969(?:39|40))(?:[ \-](\d{4}))?',
             ],
             'PY' => [
-                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%postalCode %locality",
-                'postal_code_pattern' => '\d{4}',
+                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%postalCode %locality %administrativeArea",
+		'uppercase_fields' => [
+                    'locality', 'administrativeArea',
+                ],
+		'subdivision_depth' => 1,
             ],
             'QA' => [
                 'uppercase_fields' => [
