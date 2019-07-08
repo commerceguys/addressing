@@ -1,0 +1,59 @@
+{
+	"country_code": "PY",
+	"subdivisions": {
+		"Asunción": {
+			"iso_code": "PY-ASU"
+		},
+		"Concepción": {
+			"iso_code": "PY-1"
+		},
+		"San Pedro": {
+			"iso_code": "PY-2"
+		},
+		"Cordillera": {
+			"iso_code": "PY-3"
+		},
+		"Guairá": {
+			"iso_code": "PY-4"
+		},
+		"Caaguazú": {
+			"iso_code": "PY-5"
+		},
+		"Caazapá": {
+			"iso_code": "PY-6"
+		},
+		"Itapúa": {
+			"iso_code": "PY-7"
+		},
+		"Misiones": {
+			"iso_code": "PY-8"
+		},
+		"Paraguarí": {
+			"iso_code": "PY-9"
+		},
+		"Alto Paraná": {
+			"iso_code": "PY-10"
+		},
+		"Central": {
+			"iso_code": "PY-11"
+		},
+		"Ñeembucú": {
+			"iso_code": "PY-12"
+		},
+		"Amambay": {
+			"iso_code": "PY-13"
+		},
+		"Canindeyú": {
+			"iso_code": "PY-14"
+		},
+		"Presidente Hayes": {
+			"iso_code": "PY-15"
+		},
+		"Alto Paraguay": {
+			"iso_code": "PY-16"
+		},
+		"Boquerón": {
+			"iso_code": "PY-19"
+		}
+	}
+}
