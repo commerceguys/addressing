@@ -7,6 +7,10 @@
 			"postal_code_pattern": "29|2540|260|261[0-8]|02|2620",
 			"postal_code_example": "0200"
 		},
+		"JBT": {
+			"name": "Jervis Bay Territory",
+			"postal_code_pattern": "2540"
+		},
 		"NSW": {
 			"name": "New South Wales",
 			"iso_code": "AU-NSW",
