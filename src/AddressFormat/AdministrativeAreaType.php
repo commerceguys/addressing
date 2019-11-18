@@ -23,6 +23,7 @@ final class AdministrativeAreaType extends AbstractEnum
     const PREFECTURE = 'prefecture';
     const PROVINCE = 'province';
     const STATE = 'state';
+    const CANTON = 'canton';
 
     /**
      * Gets the default value.
