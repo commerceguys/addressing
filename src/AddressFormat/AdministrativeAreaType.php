@@ -12,6 +12,7 @@ use CommerceGuys\Addressing\AbstractEnum;
 final class AdministrativeAreaType extends AbstractEnum
 {
     const AREA = 'area';
+    const CANTON = 'canton';
     const COUNTY = 'county';
     const DEPARTMENT = 'department';
     const DISTRICT = 'district';
