@@ -11,7 +11,7 @@
     "require-dev": {
         "symfony/validator": ">=3.2",
         "phpunit/phpunit": "~4.0",
-        "mikey179/vfsStream": "1.*",
+        "mikey179/vfsstream": "1.*",
         "squizlabs/php_codesniffer": "2.*"
     },
     "suggest": {
