@@ -3,11 +3,12 @@
 namespace CommerceGuys\Addressing\Tests\Subdivision;
 
 use CommerceGuys\Addressing\Subdivision\LazySubdivisionCollection;
+use PHPUnit\Framework\TestCase;
 
 /**
  * @coversDefaultClass \CommerceGuys\Addressing\Subdivision\LazySubdivisionCollection
  */
-class LazySubdivisionCollectionTest extends \PHPUnit_Framework_TestCase
+final class LazySubdivisionCollectionTest extends TestCase
 {
     /**
      * @var LazySubdivisionCollection
@@ -17,7 +18,7 @@ class LazySubdivisionCollectionTest extends \PHPUnit_Framework_TestCase
     /**
      * {@inheritdoc}
      */
-    public function setUp()
+    protected function setUp()
     {
         $this->collection = new LazySubdivisionCollection(['BR', 'Porto Acre']);
     }

@@ -3,11 +3,12 @@
 namespace CommerceGuys\Addressing\Tests;
 
 use CommerceGuys\Addressing\Subdivision\PatternType;
+use PHPUnit\Framework\TestCase;
 
 /**
  * @coversDefaultClass \CommerceGuys\Addressing\AbstractEnum
  */
-class AbstractEnumTest extends \PHPUnit_Framework_TestCase
+final class AbstractEnumTest extends TestCase
 {
     /**
      * @covers ::getAll

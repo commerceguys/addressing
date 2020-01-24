@@ -5,11 +5,12 @@ namespace CommerceGuys\Addressing\Tests\Subdivision;
 use CommerceGuys\Addressing\Subdivision\Subdivision;
 use CommerceGuys\Addressing\Subdivision\SubdivisionRepository;
 use org\bovigo\vfs\vfsStream;
+use PHPUnit\Framework\TestCase;
 
 /**
  * @coversDefaultClass \CommerceGuys\Addressing\Subdivision\SubdivisionRepository
  */
-class SubdivisionRepositoryTest extends \PHPUnit_Framework_TestCase
+final class SubdivisionRepositoryTest extends TestCase
 {
     /**
      * Subdivisions.

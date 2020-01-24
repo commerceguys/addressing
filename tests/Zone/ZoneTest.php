@@ -4,11 +4,12 @@ namespace CommerceGuys\Addressing\Tests\Zone;
 
 use CommerceGuys\Addressing\Address;
 use CommerceGuys\Addressing\Zone\Zone;
+use PHPUnit\Framework\TestCase;
 
 /**
  * @coversDefaultClass \CommerceGuys\Addressing\Zone\Zone
  */
-class ZoneTest extends \PHPUnit_Framework_TestCase
+final class ZoneTest extends TestCase
 {
     /**
      * @covers ::__construct

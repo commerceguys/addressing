@@ -3,7 +3,7 @@ addressing
 
 [![Build Status](https://travis-ci.org/commerceguys/addressing.svg?branch=master)](https://travis-ci.org/commerceguys/addressing)
 
-A PHP 5.5+ addressing library, powered by CLDR and Google's address data.
+A PHP 7.0+ addressing library, powered by CLDR and Google's address data.
 
 Manipulates postal addresses, meant to identify a precise recipient location for shipping or billing purposes.
 

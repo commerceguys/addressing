@@ -13,7 +13,7 @@ use Symfony\Component\Validator\Test\ConstraintValidatorTestCase;
 /**
  * @coversDefaultClass \CommerceGuys\Addressing\Validator\Constraints\AddressFormatConstraintValidator
  */
-class AddressFormatConstraintValidatorTest extends ConstraintValidatorTestCase
+final class AddressFormatConstraintValidatorTest extends ConstraintValidatorTestCase
 {
     /**
      * @var AddressFormatConstraint
@@ -23,7 +23,7 @@ class AddressFormatConstraintValidatorTest extends ConstraintValidatorTestCase
     /**
      * {@inheritdoc}
      */
-    public function setUp()
+    protected function setUp()
     {
         $this->constraint = new AddressFormatConstraint();
 

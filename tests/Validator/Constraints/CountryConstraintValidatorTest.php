@@ -9,7 +9,7 @@ use Symfony\Component\Validator\Test\ConstraintValidatorTestCase;
 /**
  * @coversDefaultClass \CommerceGuys\Addressing\Validator\Constraints\CountryConstraintValidator
  */
-class CountryConstraintValidatorTest extends ConstraintValidatorTestCase
+final class CountryConstraintValidatorTest extends ConstraintValidatorTestCase
 {
     /**
      * @var CountryConstraint
@@ -19,7 +19,7 @@ class CountryConstraintValidatorTest extends ConstraintValidatorTestCase
     /**
      * {@inheritdoc}
      */
-    public function setUp()
+    protected function setUp()
     {
         $this->constraint = new CountryConstraint();
 

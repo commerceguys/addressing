@@ -3,11 +3,12 @@
 namespace CommerceGuys\Addressing\Tests;
 
 use CommerceGuys\Addressing\PostalCodeHelper;
+use PHPUnit\Framework\TestCase;
 
 /**
  * @coversDefaultClass \CommerceGuys\Addressing\PostalCodeHelper
  */
-class PostalCodeHelperTest extends \PHPUnit_Framework_TestCase
+final class PostalCodeHelperTest extends TestCase
 {
     /**
      * @covers ::match

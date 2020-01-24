@@ -5,11 +5,12 @@ namespace CommerceGuys\Addressing\Tests\Country;
 use CommerceGuys\Addressing\Country\Country;
 use CommerceGuys\Addressing\Country\CountryRepository;
 use org\bovigo\vfs\vfsStream;
+use PHPUnit\Framework\TestCase;
 
 /**
  * @coversDefaultClass \CommerceGuys\Addressing\Country\CountryRepository
  */
-class CountryRepositoryTest extends \PHPUnit_Framework_TestCase
+final class CountryRepositoryTest extends TestCase
 {
     /**
      * Country definitions.

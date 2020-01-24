@@ -7,11 +7,12 @@ use CommerceGuys\Addressing\AddressFormat\AddressFormatRepository;
 use CommerceGuys\Addressing\AddressFormat\AdministrativeAreaType;
 use CommerceGuys\Addressing\AddressFormat\LocalityType;
 use CommerceGuys\Addressing\AddressFormat\PostalCodeType;
+use PHPUnit\Framework\TestCase;
 
 /**
  * @coversDefaultClass \CommerceGuys\Addressing\AddressFormat\AddressFormatRepository
  */
-class AddressFormatRepositoryTest extends \PHPUnit_Framework_TestCase
+final class AddressFormatRepositoryTest extends TestCase
 {
     /**
      * @covers ::get

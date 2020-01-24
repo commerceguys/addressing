@@ -3,18 +3,20 @@
 namespace CommerceGuys\Addressing\Tests\Country;
 
 use CommerceGuys\Addressing\Country\Country;
+use PHPUnit\Framework\TestCase;
 
 /**
  * @coversDefaultClass \CommerceGuys\Addressing\Country\Country
  */
-class CountryTest extends \PHPUnit_Framework_TestCase
+final class CountryTest extends TestCase
 {
     /**
      * @covers ::__construct
      */
     public function testMissingProperty()
     {
-        $this->setExpectedException(\InvalidArgumentException::class, 'Missing required property "country_code".');
+        $this->expectException(\InvalidArgumentException::class);
+        $this->expectExceptionMessage('Missing required property "country_code".');
         $country = new Country([]);
     }
 

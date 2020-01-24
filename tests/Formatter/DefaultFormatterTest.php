@@ -7,11 +7,12 @@ use CommerceGuys\Addressing\AddressFormat\AddressFormatRepository;
 use CommerceGuys\Addressing\Country\CountryRepository;
 use CommerceGuys\Addressing\Formatter\DefaultFormatter;
 use CommerceGuys\Addressing\Subdivision\SubdivisionRepository;
+use PHPUnit\Framework\TestCase;
 
 /**
  * @coversDefaultClass \CommerceGuys\Addressing\Formatter\DefaultFormatter
  */
-class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
+final class DefaultFormatterTest extends TestCase
 {
     /**
      * The address format repository.
@@ -44,7 +45,7 @@ class DefaultFormatterTest extends \PHPUnit_Framework_TestCase
     /**
      * {@inheritdoc}
      */
-    public function setUp()
+    protected function setUp()
     {
         $this->addressFormatRepository = new AddressFormatRepository();
         $this->countryRepository = new CountryRepository();
