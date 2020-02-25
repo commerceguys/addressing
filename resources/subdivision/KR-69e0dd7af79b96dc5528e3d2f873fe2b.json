@@ -6,18 +6,30 @@
 	],
 	"locale": "ko",
 	"subdivisions": {
+		"Garam-dong": {
+			"local_code": "가람동"
+		},		
 		"Goun-dong": {
 			"local_code": "고운동"
 		},
 		"Geumnam-myeon": {
 			"local_code": "금남면"
 		},
+		"Naseong-dong": {
+			"local_code": "나성동"
+		},
+		"Dajeong-dong": {
+			"local_code": "다정동"
+		},		
 		"Daepyeong-dong": {
 			"local_code": "대평동"
 		},
 		"Dodam-dong": {
 			"local_code": "도담동"
 		},
+		"Bangok-dong": {
+			"local_code": "반곡동"
+		},		
 		"Boram-dong": {
 			"local_code": "보람동"
 		},
@@ -36,6 +48,9 @@
 		"Areum-dong": {
 			"local_code": "아름동"
 		},
+		"Ujin-dong": {
+			"local_code": "어진동"
+		},		
 		"Yeongi-myeon": {
 			"local_code": "연기면"
 		},
