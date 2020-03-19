@@ -726,7 +726,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'format' => "%familyName %givenName\n%organization\n%addressLine1\n%addressLine2\n%locality, %administrativeArea\n%postalCode",
                 'local_format' => "〒%postalCode\n%administrativeArea%locality\n%addressLine1\n%addressLine2\n%organization\n%familyName %givenName",
                 'required_fields' => [
-                    'addressLine1', 'locality', 'administrativeArea', 'postalCode',
+                    'addressLine1', 'administrativeArea', 'postalCode',
                 ],
                 'uppercase_fields' => [
                     'administrativeArea',
@@ -972,7 +972,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
             'MX' => [
                 'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%dependentLocality\n%postalCode %locality, %administrativeArea",
                 'required_fields' => [
-                    'addressLine1', 'locality', 'postalCode',
+                    'addressLine1', 'locality', 'administrativeArea', 'postalCode',
                 ],
                 'uppercase_fields' => [
                     'locality', 'administrativeArea', 'postalCode',

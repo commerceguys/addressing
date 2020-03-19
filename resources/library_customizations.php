@@ -29,6 +29,11 @@ function get_address_format_customizations($countryCode) {
     $formatCustomizations['DE'] = [
         'format' => '%organization\n%givenName %familyName\n%addressLine1\n%addressLine2\n%postalCode %locality',
     ];
+    // Revert the removal of %sortingCode.
+    // https://github.com/google/libaddressinput/issues/177
+    $formatCustomizations['FR'] = [
+        'format' => '%organization\n%givenName %familyName\n%addressLine1\n%addressLine2\n%postalCode %locality %sortingCode',
+    ];
     // Make the postal codes required, add administrative area fields (EE, LT).
     // https://github.com/googlei18n/libaddressinput/issues/64
     $formatCustomizations['EE'] = [
@@ -39,6 +44,12 @@ function get_address_format_customizations($countryCode) {
             'postalCode',
         ],
         'administrative_area_type' => 'county',
+    ];
+    // Revert the removal of %locality.
+    // https://github.com/google/libaddressinput/issues/177
+    $formatCustomizations['JP'] = [
+        'format' => '%familyName %givenName\n%organization\n%addressLine1\n%addressLine2\n%locality, %administrativeArea\n%postalCode',
+        'local_format' => '〒%postalCode\n%administrativeArea%locality\n%addressLine1\n%addressLine2\n%organization\n%familyName %givenName',
     ];
     $formatCustomizations['LT'] = [
         'format' => '%organization\n%givenName %familyName\n%addressLine1\n%addressLine2\n%postalCode %locality %administrativeArea',

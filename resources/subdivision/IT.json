@@ -466,6 +466,11 @@
 			"iso_code": "IT-SO",
 			"postal_code_pattern": "23[01]"
 		},
+		"SD": {
+			"name": "Sud Sardegna",
+			"iso_code": "IT-SD",
+			"postal_code_pattern": "090[1-5][0-9]|0906[0-6]"
+		},
 		"TA": {
 			"name": "Taranto",
 			"iso_code": "IT-TA",
