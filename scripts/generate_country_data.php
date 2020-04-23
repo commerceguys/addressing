@@ -262,15 +262,15 @@ function discover_locales() {
         'ha', 'ig', 'jgo', 'jmc', 'kab', 'kam', 'kea', 'kde', 'ki', 'kkj',
         'kln', 'khq', 'ksb', 'ksf', 'lag', 'luo', 'luy', 'lu', 'lg', 'ln',
         'mas', 'mer', 'mua', 'mgo', 'mgh', 'mfe', 'naq', 'nd', 'nmg', 'nnh',
-        'nus', 'nyn', 'om', 'rof', 'rwk', 'saq', 'seh', 'ses', 'sbp', 'sg',
-        'shi', 'sn', 'teo', 'ti', 'tzm', 'twq', 'vai', 'vai-Latn', 'vun',
+        'nus', 'nyn', 'om', 'pcm', 'rof', 'rwk', 'saq', 'seh', 'ses', 'sbp',
+        'sg', 'shi', 'sn', 'teo', 'ti', 'tzm', 'twq', 'vai', 'vai-Latn', 'vun',
         'wo', 'xog', 'xh', 'zgh', 'yav', 'yo', 'zu',
         // Europe secondary languages.
         'br', 'dsb', 'fo', 'fur', 'fy', 'hsb', 'ksh', 'kw', 'nds', 'or', 'rm',
         'se', 'smn', 'wae',
         // Other infrequently used locales.
         'ceb', 'ccp', 'chr', 'ckb', 'haw', 'ii', 'jv', 'kl', 'kn', 'lkt',
-        'lrc', 'mi', 'mzn', 'os', 'qu', 'row', 'sah', 'tt', 'ug', 'yi',
+        'lrc', 'mi', 'mzn', 'os', 'qu', 'row', 'sah', 'su', 'tt', 'ug', 'yi',
         // Special "grouping" locales.
         'root', 'en-US-POSIX',
     ];
