@@ -8,43 +8,56 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Baqiao Qu": {
-			"local_code": "灞桥区"
+			"local_code": "灞桥区",
+			"postal_code_example": "710038"
 		},
 		"Beilin Qu": {
-			"local_code": "碑林区"
+			"local_code": "碑林区",
+			"postal_code_example": "710001"
 		},
 		"Gaoling Xian": {
-			"local_code": "高陵县"
+			"local_code": "高陵县",
+			"postal_code_example": "710200"
 		},
 		"Hu Xian": {
-			"local_code": "户县"
+			"local_code": "户县",
+			"postal_code_example": "710300"
 		},
 		"Lantian Xian": {
-			"local_code": "蓝田县"
+			"local_code": "蓝田县",
+			"postal_code_example": "710500"
 		},
 		"Lianhu Qu": {
-			"local_code": "莲湖区"
+			"local_code": "莲湖区",
+			"postal_code_example": "710003"
 		},
 		"Lintong Qu": {
-			"local_code": "临潼区"
+			"local_code": "临潼区",
+			"postal_code_example": "710600"
 		},
 		"Weiyang Qu": {
-			"local_code": "未央区"
+			"local_code": "未央区",
+			"postal_code_example": "710016"
 		},
 		"Xincheng Qu": {
-			"local_code": "新城区"
+			"local_code": "新城区",
+			"postal_code_example": "710005"
 		},
 		"Yanliang Qu": {
-			"local_code": "阎良区"
+			"local_code": "阎良区",
+			"postal_code_example": "710089"
 		},
 		"Yanta Qu": {
-			"local_code": "雁塔区"
+			"local_code": "雁塔区",
+			"postal_code_example": "710061"
 		},
 		"Chang'an Qu": {
-			"local_code": "长安区"
+			"local_code": "长安区",
+			"postal_code_example": "710100"
 		},
 		"Zhouzhi Xian": {
-			"local_code": "周至县"
+			"local_code": "周至县",
+			"postal_code_example": "710400"
 		}
 	}
 }

@@ -8,26 +8,33 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Emin Xian": {
-			"local_code": "额敏县"
+			"local_code": "额敏县",
+			"postal_code_example": "834600"
 		},
 		"Hoboksar Xian": {
 			"local_code": "和布克赛尔蒙古自治县",
-			"local_name": "和布克赛尔县"
+			"local_name": "和布克赛尔县",
+			"postal_code_example": "834400"
 		},
 		"Shawan Xian": {
-			"local_code": "沙湾县"
+			"local_code": "沙湾县",
+			"postal_code_example": "832100"
 		},
 		"Tachung Shi": {
-			"local_code": "塔城市"
+			"local_code": "塔城市",
+			"postal_code_example": "834300"
 		},
 		"Toli Xian": {
-			"local_code": "托里县"
+			"local_code": "托里县",
+			"postal_code_example": "834500"
 		},
 		"Usu Shi": {
-			"local_code": "乌苏市"
+			"local_code": "乌苏市",
+			"postal_code_example": "833000"
 		},
 		"Yumin Xian": {
-			"local_code": "裕民县"
+			"local_code": "裕民县",
+			"postal_code_example": "834800"
 		}
 	}
 }

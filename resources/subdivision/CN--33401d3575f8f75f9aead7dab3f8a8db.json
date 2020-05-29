@@ -8,37 +8,48 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Baishui Xian": {
-			"local_code": "白水县"
+			"local_code": "白水县",
+			"postal_code_example": "715600"
 		},
 		"Chengcheng Xian": {
-			"local_code": "澄城县"
+			"local_code": "澄城县",
+			"postal_code_example": "715200"
 		},
 		"Dali Xian": {
-			"local_code": "大荔县"
+			"local_code": "大荔县",
+			"postal_code_example": "715100"
 		},
 		"Fuping Xian": {
-			"local_code": "富平县"
+			"local_code": "富平县",
+			"postal_code_example": "711700"
 		},
 		"Hancheng Shi": {
-			"local_code": "韩城市"
+			"local_code": "韩城市",
+			"postal_code_example": "715400"
 		},
 		"Heyang Xian": {
-			"local_code": "合阳县"
+			"local_code": "合阳县",
+			"postal_code_example": "715300"
 		},
 		"Hua Xian": {
-			"local_code": "华县"
+			"local_code": "华县",
+			"postal_code_example": "714100"
 		},
 		"Huayin Shi": {
-			"local_code": "华阴市"
+			"local_code": "华阴市",
+			"postal_code_example": "714200"
 		},
 		"Linwei Qu": {
-			"local_code": "临渭区"
+			"local_code": "临渭区",
+			"postal_code_example": "714000"
 		},
 		"Pucheng Xian": {
-			"local_code": "蒲城县"
+			"local_code": "蒲城县",
+			"postal_code_example": "715500"
 		},
 		"Tongguan Xian": {
-			"local_code": "潼关县"
+			"local_code": "潼关县",
+			"postal_code_example": "714300"
 		}
 	}
 }

@@ -8,70 +8,87 @@
 	"subdivisions": {
 		"Binzhou shi": {
 			"local_code": "滨州市",
+			"postal_code_example": "256619",
 			"has_children": true
 		},
 		"Dezhou Shi": {
 			"local_code": "德州市",
+			"postal_code_example": "253012",
 			"has_children": true
 		},
 		"Dongying Shi": {
 			"local_code": "东营市",
+			"postal_code_example": "257093",
 			"has_children": true
 		},
 		"Heze Shi": {
 			"local_code": "菏泽市",
+			"postal_code_example": "274020",
 			"has_children": true
 		},
 		"Jinan Shi": {
 			"local_code": "济南市",
+			"postal_code_example": "250001",
 			"has_children": true
 		},
 		"Jining Shi": {
 			"local_code": "济宁市",
+			"postal_code_example": "272119",
 			"has_children": true
 		},
 		"Laiwu Shi": {
 			"local_code": "莱芜市",
+			"postal_code_example": "271100",
 			"has_children": true
 		},
 		"Liaocheng Shi": {
 			"local_code": "聊城市",
+			"postal_code_example": "252052",
 			"has_children": true
 		},
 		"Linyi Shi": {
 			"local_code": "临沂市",
+			"postal_code_example": "276001",
 			"has_children": true
 		},
 		"Qingdao Shi": {
 			"local_code": "青岛市",
+			"postal_code_example": "266001",
 			"has_children": true
 		},
 		"Rizhao Shi": {
 			"local_code": "日照市",
+			"postal_code_example": "276800",
 			"has_children": true
 		},
 		"Tai'an Shi": {
 			"local_code": "泰安市",
+			"postal_code_example": "271000",
 			"has_children": true
 		},
 		"Weihai Shi": {
 			"local_code": "威海市",
+			"postal_code_example": "264200",
 			"has_children": true
 		},
 		"Weifang shi": {
 			"local_code": "潍坊市",
+			"postal_code_example": "261041",
 			"has_children": true
 		},
 		"Yantai Shi": {
 			"local_code": "烟台市",
+			"postal_code_example": "264001",
 			"has_children": true
 		},
 		"Zaozhuang Shi": {
 			"local_code": "枣庄市",
+			"postal_code_example": "277101",
 			"has_children": true
 		},
 		"Zibo Shi": {
 			"local_code": "淄博市",
+			"postal_code_example": "255039",
 			"has_children": true
 		}
 	}

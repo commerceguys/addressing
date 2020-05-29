@@ -8,34 +8,44 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Anda Shi": {
-			"local_code": "安达市"
+			"local_code": "安达市",
+			"postal_code_example": "151400"
 		},
 		"Beilin Qu": {
-			"local_code": "北林区"
+			"local_code": "北林区",
+			"postal_code_example": "152000"
 		},
 		"Hailun Shi": {
-			"local_code": "海伦市"
+			"local_code": "海伦市",
+			"postal_code_example": "152300"
 		},
 		"Lanxi Xian": {
-			"local_code": "兰西县"
+			"local_code": "兰西县",
+			"postal_code_example": "151500"
 		},
 		"Mingshui Xian": {
-			"local_code": "明水县"
+			"local_code": "明水县",
+			"postal_code_example": "151700"
 		},
 		"Qinggang Xian": {
-			"local_code": "青冈县"
+			"local_code": "青冈县",
+			"postal_code_example": "151600"
 		},
 		"Qing'an Xian": {
-			"local_code": "庆安县"
+			"local_code": "庆安县",
+			"postal_code_example": "152400"
 		},
 		"Suileng Xian": {
-			"local_code": "绥棱县"
+			"local_code": "绥棱县",
+			"postal_code_example": "152200"
 		},
 		"Wangkui Xian": {
-			"local_code": "望奎县"
+			"local_code": "望奎县",
+			"postal_code_example": "152101"
 		},
 		"Zhaodong Shi": {
-			"local_code": "肇东市"
+			"local_code": "肇东市",
+			"postal_code_example": "151100"
 		}
 	}
 }

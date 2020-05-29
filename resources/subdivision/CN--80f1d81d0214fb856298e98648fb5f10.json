@@ -8,40 +8,52 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Chencang Qu": {
-			"local_code": "陈仓区"
+			"local_code": "陈仓区",
+			"postal_code_example": "721300"
 		},
 		"Feng Xian": {
-			"local_code": "凤县"
+			"local_code": "凤县",
+			"postal_code_example": "721700"
 		},
 		"Fengxiang Xian": {
-			"local_code": "凤翔县"
+			"local_code": "凤翔县",
+			"postal_code_example": "721400"
 		},
 		"Fufeng Xian": {
-			"local_code": "扶风县"
+			"local_code": "扶风县",
+			"postal_code_example": "722200"
 		},
 		"Jintai Qu": {
-			"local_code": "金台区"
+			"local_code": "金台区",
+			"postal_code_example": "721001"
 		},
 		"Linyou Xian": {
-			"local_code": "麟游县"
+			"local_code": "麟游县",
+			"postal_code_example": "721500"
 		},
 		"Long Xian": {
-			"local_code": "陇县"
+			"local_code": "陇县",
+			"postal_code_example": "721200"
 		},
 		"Mei Xian": {
-			"local_code": "眉县"
+			"local_code": "眉县",
+			"postal_code_example": "722300"
 		},
 		"Qishan Xian": {
-			"local_code": "岐山县"
+			"local_code": "岐山县",
+			"postal_code_example": "722400"
 		},
 		"Qianyang Xian": {
-			"local_code": "千阳县"
+			"local_code": "千阳县",
+			"postal_code_example": "721100"
 		},
 		"Taibai Xian": {
-			"local_code": "太白县"
+			"local_code": "太白县",
+			"postal_code_example": "721600"
 		},
 		"Weibin Qu": {
-			"local_code": "渭滨区"
+			"local_code": "渭滨区",
+			"postal_code_example": "721000"
 		}
 	}
 }

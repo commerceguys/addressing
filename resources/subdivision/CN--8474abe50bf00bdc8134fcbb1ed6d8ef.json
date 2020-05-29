@@ -8,40 +8,52 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Abag Qi": {
-			"local_code": "阿巴嘎旗"
+			"local_code": "阿巴嘎旗",
+			"postal_code_example": "011400"
 		},
 		"Dong Ujimqin Qi": {
-			"local_code": "东乌珠穆沁旗"
+			"local_code": "东乌珠穆沁旗",
+			"postal_code_example": "026300"
 		},
 		"Duolun Xian": {
-			"local_code": "多伦县"
+			"local_code": "多伦县",
+			"postal_code_example": "027300"
 		},
 		"Erenhot Shi": {
-			"local_code": "二连浩特市"
+			"local_code": "二连浩特市",
+			"postal_code_example": "011100"
 		},
 		"Sonid Youqi": {
-			"local_code": "苏尼特右旗"
+			"local_code": "苏尼特右旗",
+			"postal_code_example": "011200"
 		},
 		"Sonid Zuoqi": {
-			"local_code": "苏尼特左旗"
+			"local_code": "苏尼特左旗",
+			"postal_code_example": "011300"
 		},
 		"Taibus Qi": {
-			"local_code": "太仆寺旗"
+			"local_code": "太仆寺旗",
+			"postal_code_example": "027000"
 		},
 		"Xi Ujimqin Qi": {
-			"local_code": "西乌珠穆沁旗"
+			"local_code": "西乌珠穆沁旗",
+			"postal_code_example": "026200"
 		},
 		"Xilinhot Shi": {
-			"local_code": "锡林浩特市"
+			"local_code": "锡林浩特市",
+			"postal_code_example": "026021"
 		},
 		"Xianghuang Qi": {
-			"local_code": "镶黄旗"
+			"local_code": "镶黄旗",
+			"postal_code_example": "013250"
 		},
 		"Zhenglan Qi": {
-			"local_code": "正蓝旗"
+			"local_code": "正蓝旗",
+			"postal_code_example": "027200"
 		},
 		"Zhengxiangbai Qi": {
-			"local_code": "正镶白旗"
+			"local_code": "正镶白旗",
+			"postal_code_example": "013800"
 		}
 	}
 }

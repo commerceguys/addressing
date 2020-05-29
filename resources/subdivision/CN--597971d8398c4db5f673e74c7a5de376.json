@@ -8,19 +8,24 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Linying Xian": {
-			"local_code": "临颍县"
+			"local_code": "临颍县",
+			"postal_code_example": "462600"
 		},
 		"Wuyang Xian": {
-			"local_code": "舞阳县"
+			"local_code": "舞阳县",
+			"postal_code_example": "462400"
 		},
 		"Yancheng Qu": {
-			"local_code": "郾城区"
+			"local_code": "郾城区",
+			"postal_code_example": "462300"
 		},
 		"Yuanhui Qu": {
-			"local_code": "源汇区"
+			"local_code": "源汇区",
+			"postal_code_example": "462000"
 		},
 		"Zhaoling Qu": {
-			"local_code": "召陵区"
+			"local_code": "召陵区",
+			"postal_code_example": "462300"
 		}
 	}
 }

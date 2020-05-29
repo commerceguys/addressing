@@ -8,16 +8,20 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Cheng Qu": {
-			"local_code": "城区"
+			"local_code": "城区",
+			"postal_code_example": "516601"
 		},
 		"Haifeng Xian": {
-			"local_code": "海丰县"
+			"local_code": "海丰县",
+			"postal_code_example": "516400"
 		},
 		"Lufeng Shi": {
-			"local_code": "陆丰市"
+			"local_code": "陆丰市",
+			"postal_code_example": "516500"
 		},
 		"Luhe Xian": {
-			"local_code": "陆河县"
+			"local_code": "陆河县",
+			"postal_code_example": "516700"
 		}
 	}
 }

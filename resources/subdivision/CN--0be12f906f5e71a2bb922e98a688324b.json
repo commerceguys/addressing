@@ -8,34 +8,44 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Shenqiu Xian": {
-			"local_code": "沈丘县"
+			"local_code": "沈丘县",
+			"postal_code_example": "466300"
 		},
 		"Chuanhui Qu": {
-			"local_code": "川汇区"
+			"local_code": "川汇区",
+			"postal_code_example": "466000"
 		},
 		"Dancheng Xian": {
-			"local_code": "郸城县"
+			"local_code": "郸城县",
+			"postal_code_example": "477150"
 		},
 		"Fugou Xian": {
-			"local_code": "扶沟县"
+			"local_code": "扶沟县",
+			"postal_code_example": "461300"
 		},
 		"Huaiyang Xian": {
-			"local_code": "淮阳县"
+			"local_code": "淮阳县",
+			"postal_code_example": "466700"
 		},
 		"Luyi Xian": {
-			"local_code": "鹿邑县"
+			"local_code": "鹿邑县",
+			"postal_code_example": "477200"
 		},
 		"Shangshui Xian": {
-			"local_code": "商水县"
+			"local_code": "商水县",
+			"postal_code_example": "466100"
 		},
 		"Taikang Xian": {
-			"local_code": "太康县"
+			"local_code": "太康县",
+			"postal_code_example": "461400"
 		},
 		"Xihua Xian": {
-			"local_code": "西华县"
+			"local_code": "西华县",
+			"postal_code_example": "466600"
 		},
 		"Xiangcheng Shi": {
-			"local_code": "项城市"
+			"local_code": "项城市",
+			"postal_code_example": "466200"
 		}
 	}
 }

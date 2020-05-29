@@ -8,16 +8,20 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Jiao Qu": {
-			"local_code": "郊区"
+			"local_code": "郊区",
+			"postal_code_example": "244000"
 		},
 		"Shizishan Qu": {
-			"local_code": "狮子山区"
+			"local_code": "狮子山区",
+			"postal_code_example": "244031"
 		},
 		"Tongguanshan Qu": {
-			"local_code": "铜官山区"
+			"local_code": "铜官山区",
+			"postal_code_example": "244000"
 		},
 		"Tongling Xian": {
-			"local_code": "铜陵县"
+			"local_code": "铜陵县",
+			"postal_code_example": "244100"
 		}
 	}
 }

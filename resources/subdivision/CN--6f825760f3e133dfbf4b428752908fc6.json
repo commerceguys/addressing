@@ -8,31 +8,40 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Chengzihe Qu": {
-			"local_code": "城子河区"
+			"local_code": "城子河区",
+			"postal_code_example": "158170"
 		},
 		"Keyao Qu": {
-			"local_code": "滴道区"
+			"local_code": "滴道区",
+			"postal_code_example": "158150"
 		},
 		"Hengshan Qu": {
-			"local_code": "恒山区"
+			"local_code": "恒山区",
+			"postal_code_example": "158130"
 		},
 		"Hulin Shi": {
-			"local_code": "虎林市"
+			"local_code": "虎林市",
+			"postal_code_example": "158400"
 		},
 		"Jidong Xian": {
-			"local_code": "鸡东县"
+			"local_code": "鸡东县",
+			"postal_code_example": "158200"
 		},
 		"Jiguan Qu": {
-			"local_code": "鸡冠区"
+			"local_code": "鸡冠区",
+			"postal_code_example": "158100"
 		},
 		"Lishu Qu": {
-			"local_code": "梨树区"
+			"local_code": "梨树区",
+			"postal_code_example": "158160"
 		},
 		"Mashan Qu": {
-			"local_code": "麻山区"
+			"local_code": "麻山区",
+			"postal_code_example": "158180"
 		},
 		"Mishan Shi": {
-			"local_code": "密山市"
+			"local_code": "密山市",
+			"postal_code_example": "158300"
 		}
 	}
 }

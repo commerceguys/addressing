@@ -8,19 +8,24 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Anju Qu": {
-			"local_code": "安居区"
+			"local_code": "安居区",
+			"postal_code_example": "629000"
 		},
 		"Chuanshan Qu": {
-			"local_code": "船山区"
+			"local_code": "船山区",
+			"postal_code_example": "629000"
 		},
 		"Daying Xian": {
-			"local_code": "大英县"
+			"local_code": "大英县",
+			"postal_code_example": "629300"
 		},
 		"Pengxi Xian": {
-			"local_code": "蓬溪县"
+			"local_code": "蓬溪县",
+			"postal_code_example": "629100"
 		},
 		"Shehong Xian": {
-			"local_code": "射洪县"
+			"local_code": "射洪县",
+			"postal_code_example": "629200"
 		}
 	}
 }

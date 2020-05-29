@@ -8,22 +8,28 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Aihui Qu": {
-			"local_code": "爱辉区"
+			"local_code": "爱辉区",
+			"postal_code_example": "164300"
 		},
 		"Bei'an Shi": {
-			"local_code": "北安市"
+			"local_code": "北安市",
+			"postal_code_example": "164000"
 		},
 		"Nenjiang Xian": {
-			"local_code": "嫩江县"
+			"local_code": "嫩江县",
+			"postal_code_example": "161400"
 		},
 		"Sunwu Xian": {
-			"local_code": "孙吴县"
+			"local_code": "孙吴县",
+			"postal_code_example": "164200"
 		},
 		"Wudalianchi Shi": {
-			"local_code": "五大连池市"
+			"local_code": "五大连池市",
+			"postal_code_example": "164100"
 		},
 		"Xunke Xian": {
-			"local_code": "逊克县"
+			"local_code": "逊克县",
+			"postal_code_example": "164400"
 		}
 	}
 }

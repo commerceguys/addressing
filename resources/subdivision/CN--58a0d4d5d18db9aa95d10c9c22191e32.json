@@ -9,23 +9,29 @@
 	"subdivisions": {
 		"Benxi Xian": {
 			"local_code": "本溪满族自治县",
-			"local_name": "本溪县"
+			"local_name": "本溪县",
+			"postal_code_example": "117100"
 		},
 		"Huanren Xian": {
 			"local_code": "桓仁满族自治县",
-			"local_name": "桓仁县"
+			"local_name": "桓仁县",
+			"postal_code_example": "117200"
 		},
 		"Mingshan Qu": {
-			"local_code": "明山区"
+			"local_code": "明山区",
+			"postal_code_example": "117021"
 		},
 		"Nanfen Qu": {
-			"local_code": "南芬区"
+			"local_code": "南芬区",
+			"postal_code_example": "117014"
 		},
 		"Pingshan Qu": {
-			"local_code": "平山区"
+			"local_code": "平山区",
+			"postal_code_example": "117000"
 		},
 		"Xihu Qu": {
-			"local_code": "溪湖区"
+			"local_code": "溪湖区",
+			"postal_code_example": "117002"
 		}
 	}
 }

@@ -4,7 +4,8 @@
 		"ACT": {
 			"name": "Australian Capital Territory",
 			"iso_code": "AU-ACT",
-			"postal_code_pattern": "29|2540|260|261[0-8]|02|2620"
+			"postal_code_pattern": "29|2540|260|261[0-8]|02|2620",
+			"postal_code_example": "0200"
 		},
 		"JBT": {
 			"name": "Jervis Bay Territory",
@@ -13,37 +14,44 @@
 		"NSW": {
 			"name": "New South Wales",
 			"iso_code": "AU-NSW",
-			"postal_code_pattern": "1|2[0-57-8]|26[2-9]|261[189]|3500|358[56]|3644|3707"
+			"postal_code_pattern": "1|2[0-57-8]|26[2-9]|261[189]|3500|358[56]|3644|3707",
+			"postal_code_example": "1000"
 		},
 		"NT": {
 			"name": "Northern Territory",
 			"iso_code": "AU-NT",
-			"postal_code_pattern": "0[89]"
+			"postal_code_pattern": "0[89]",
+			"postal_code_example": "0800"
 		},
 		"QLD": {
 			"name": "Queensland",
 			"iso_code": "AU-QLD",
-			"postal_code_pattern": "[49]"
+			"postal_code_pattern": "[49]",
+			"postal_code_example": "4000"
 		},
 		"SA": {
 			"name": "South Australia",
 			"iso_code": "AU-SA",
-			"postal_code_pattern": "5|0872"
+			"postal_code_pattern": "5|0872",
+			"postal_code_example": "5000"
 		},
 		"TAS": {
 			"name": "Tasmania",
 			"iso_code": "AU-TAS",
-			"postal_code_pattern": "7"
+			"postal_code_pattern": "7",
+			"postal_code_example": "7000"
 		},
 		"VIC": {
 			"name": "Victoria",
 			"iso_code": "AU-VIC",
-			"postal_code_pattern": "[38]"
+			"postal_code_pattern": "[38]",
+			"postal_code_example": "3000"
 		},
 		"WA": {
 			"name": "Western Australia",
 			"iso_code": "AU-WA",
-			"postal_code_pattern": "6|0872"
+			"postal_code_pattern": "6|0872",
+			"postal_code_example": "6000"
 		}
 	}
 }

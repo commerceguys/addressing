@@ -8,19 +8,24 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Dongying Qu": {
-			"local_code": "东营区"
+			"local_code": "东营区",
+			"postal_code_example": "257029"
 		},
 		"Guangrao Xian": {
-			"local_code": "广饶县"
+			"local_code": "广饶县",
+			"postal_code_example": "257300"
 		},
 		"Hekou Qu": {
-			"local_code": "河口区"
+			"local_code": "河口区",
+			"postal_code_example": "257200"
 		},
 		"Kenli Xian": {
-			"local_code": "垦利县"
+			"local_code": "垦利县",
+			"postal_code_example": "257500"
 		},
 		"Lijin Xian": {
-			"local_code": "利津县"
+			"local_code": "利津县",
+			"postal_code_example": "257400"
 		}
 	}
 }

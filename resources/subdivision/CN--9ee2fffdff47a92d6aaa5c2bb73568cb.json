@@ -8,34 +8,44 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Gulou Qu": {
-			"local_code": "鼓楼区"
+			"local_code": "鼓楼区",
+			"postal_code_example": "475000"
 		},
 		"Jinming Qu": {
-			"local_code": "金明区"
+			"local_code": "金明区",
+			"postal_code_example": "475002"
 		},
 		"Kaifeng Xian": {
-			"local_code": "开封县"
+			"local_code": "开封县",
+			"postal_code_example": "475100"
 		},
 		"Lankao Xian": {
-			"local_code": "兰考县"
+			"local_code": "兰考县",
+			"postal_code_example": "475300"
 		},
 		"Longting Qu": {
-			"local_code": "龙亭区"
+			"local_code": "龙亭区",
+			"postal_code_example": "475100"
 		},
 		"Qi Xian": {
-			"local_code": "杞县"
+			"local_code": "杞县",
+			"postal_code_example": "475200"
 		},
 		"Shunhe Huizu Qu": {
-			"local_code": "顺河回族区"
+			"local_code": "顺河回族区",
+			"postal_code_example": "475000"
 		},
 		"Tongxu Xian": {
-			"local_code": "通许县"
+			"local_code": "通许县",
+			"postal_code_example": "475400"
 		},
 		"Weishi Xian": {
-			"local_code": "尉氏县"
+			"local_code": "尉氏县",
+			"postal_code_example": "475500"
 		},
 		"Yuwangtai Qu": {
-			"local_code": "禹王台区"
+			"local_code": "禹王台区",
+			"postal_code_example": "475003"
 		}
 	}
 }

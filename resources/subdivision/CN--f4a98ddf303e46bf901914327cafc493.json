@@ -8,22 +8,28 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Da'an Qu": {
-			"local_code": "大安区"
+			"local_code": "大安区",
+			"postal_code_example": "643010"
 		},
 		"Fushun Xian": {
-			"local_code": "富顺县"
+			"local_code": "富顺县",
+			"postal_code_example": "643200"
 		},
 		"Gongjing Qu": {
-			"local_code": "贡井区"
+			"local_code": "贡井区",
+			"postal_code_example": "643020"
 		},
 		"Rong Xian": {
-			"local_code": "荣县"
+			"local_code": "荣县",
+			"postal_code_example": "643100"
 		},
 		"Yantan Qu": {
-			"local_code": "沿滩区"
+			"local_code": "沿滩区",
+			"postal_code_example": "643030"
 		},
 		"Ziliujing Qu": {
-			"local_code": "自流井区"
+			"local_code": "自流井区",
+			"postal_code_example": "643000"
 		}
 	}
 }

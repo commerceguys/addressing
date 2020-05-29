@@ -8,34 +8,44 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Gujiao Shi": {
-			"local_code": "古交市"
+			"local_code": "古交市",
+			"postal_code_example": "030200"
 		},
 		"Jiancaoping Qu": {
-			"local_code": "尖草坪区"
+			"local_code": "尖草坪区",
+			"postal_code_example": "030003"
 		},
 		"Jinyuan Qu": {
-			"local_code": "晋源区"
+			"local_code": "晋源区",
+			"postal_code_example": "030025"
 		},
 		"Loufan Xian": {
-			"local_code": "娄烦县"
+			"local_code": "娄烦县",
+			"postal_code_example": "030300"
 		},
 		"Qingxu Xian": {
-			"local_code": "清徐县"
+			"local_code": "清徐县",
+			"postal_code_example": "030400"
 		},
 		"Wanbailin Qu": {
-			"local_code": "万柏林区"
+			"local_code": "万柏林区",
+			"postal_code_example": "030027"
 		},
 		"Xiaodian Qu": {
-			"local_code": "小店区"
+			"local_code": "小店区",
+			"postal_code_example": "030032"
 		},
 		"Xinghualing Qu": {
-			"local_code": "杏花岭区"
+			"local_code": "杏花岭区",
+			"postal_code_example": "030001"
 		},
 		"Yangqu Xian": {
-			"local_code": "阳曲县"
+			"local_code": "阳曲县",
+			"postal_code_example": "030100"
 		},
 		"Yingze Qu": {
-			"local_code": "迎泽区"
+			"local_code": "迎泽区",
+			"postal_code_example": "030024"
 		}
 	}
 }

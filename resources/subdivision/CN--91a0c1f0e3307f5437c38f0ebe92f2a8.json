@@ -8,25 +8,32 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Coqên Xian": {
-			"local_code": "措勤县"
+			"local_code": "措勤县",
+			"postal_code_example": "859300"
 		},
 		"Gar Xian": {
-			"local_code": "噶尔县"
+			"local_code": "噶尔县",
+			"postal_code_example": "859001"
 		},
 		"Gêrzê Xian": {
-			"local_code": "改则县"
+			"local_code": "改则县",
+			"postal_code_example": "859200"
 		},
 		"Gê'gyai Xian": {
-			"local_code": "革吉县"
+			"local_code": "革吉县",
+			"postal_code_example": "859100"
 		},
 		"Burang Xian": {
-			"local_code": "普兰县"
+			"local_code": "普兰县",
+			"postal_code_example": "859500"
 		},
 		"Rutog Xian": {
-			"local_code": "日土县"
+			"local_code": "日土县",
+			"postal_code_example": "859700"
 		},
 		"Zanda Xian": {
-			"local_code": "札达县"
+			"local_code": "札达县",
+			"postal_code_example": "859600"
 		}
 	}
 }

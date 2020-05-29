@@ -8,34 +8,44 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Baihe Xian": {
-			"local_code": "白河县"
+			"local_code": "白河县",
+			"postal_code_example": "725800"
 		},
 		"Hanbin Qu": {
-			"local_code": "汉滨区"
+			"local_code": "汉滨区",
+			"postal_code_example": "725000"
 		},
 		"Hanyin Xian": {
-			"local_code": "汉阴县"
+			"local_code": "汉阴县",
+			"postal_code_example": "725100"
 		},
 		"Langao Xian": {
-			"local_code": "岚皋县"
+			"local_code": "岚皋县",
+			"postal_code_example": "725400"
 		},
 		"Ningshan Xian": {
-			"local_code": "宁陕县"
+			"local_code": "宁陕县",
+			"postal_code_example": "711600"
 		},
 		"Pingli Xian": {
-			"local_code": "平利县"
+			"local_code": "平利县",
+			"postal_code_example": "725500"
 		},
 		"Shiquan Xian": {
-			"local_code": "石泉县"
+			"local_code": "石泉县",
+			"postal_code_example": "725200"
 		},
 		"Xunyang Xian": {
-			"local_code": "旬阳县"
+			"local_code": "旬阳县",
+			"postal_code_example": "725700"
 		},
 		"Zhenping Xian": {
-			"local_code": "镇坪县"
+			"local_code": "镇坪县",
+			"postal_code_example": "725600"
 		},
 		"Ziyang Xian": {
-			"local_code": "紫阳县"
+			"local_code": "紫阳县",
+			"postal_code_example": "725300"
 		}
 	}
 }

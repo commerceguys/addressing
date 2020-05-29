@@ -8,25 +8,32 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Chaonan Qu": {
-			"local_code": "潮南区"
+			"local_code": "潮南区",
+			"postal_code_example": "515144"
 		},
 		"Chaoyang Qu": {
-			"local_code": "潮阳区"
+			"local_code": "潮阳区",
+			"postal_code_example": "515100"
 		},
 		"Chenghai Qu": {
-			"local_code": "澄海区"
+			"local_code": "澄海区",
+			"postal_code_example": "515800"
 		},
 		"Haojiang Qu": {
-			"local_code": "濠江区"
+			"local_code": "濠江区",
+			"postal_code_example": "515071"
 		},
 		"Jinping Qu": {
-			"local_code": "金平区"
+			"local_code": "金平区",
+			"postal_code_example": "515041"
 		},
 		"Longhu Qu": {
-			"local_code": "龙湖区"
+			"local_code": "龙湖区",
+			"postal_code_example": "515041"
 		},
 		"Nan'ao Xian": {
-			"local_code": "南澳县"
+			"local_code": "南澳县",
+			"postal_code_example": "515900"
 		}
 	}
 }

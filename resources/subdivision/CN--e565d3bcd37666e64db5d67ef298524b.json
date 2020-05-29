@@ -8,22 +8,28 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Jianchang Xian": {
-			"local_code": "建昌县"
+			"local_code": "建昌县",
+			"postal_code_example": "125300"
 		},
 		"Lianshan Qu": {
-			"local_code": "连山区"
+			"local_code": "连山区",
+			"postal_code_example": "125001"
 		},
 		"Longgang Qu": {
-			"local_code": "龙港区"
+			"local_code": "龙港区",
+			"postal_code_example": "125004"
 		},
 		"Nanpiao Qu": {
-			"local_code": "南票区"
+			"local_code": "南票区",
+			"postal_code_example": "125027"
 		},
 		"Suizhong Xian": {
-			"local_code": "绥中县"
+			"local_code": "绥中县",
+			"postal_code_example": "125200"
 		},
 		"Xingcheng Shi": {
-			"local_code": "兴城市"
+			"local_code": "兴城市",
+			"postal_code_example": "125100"
 		}
 	}
 }

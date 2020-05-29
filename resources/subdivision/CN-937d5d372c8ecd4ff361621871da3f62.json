@@ -8,68 +8,87 @@
 	"subdivisions": {
 		"Baisha Xian": {
 			"local_code": "白沙黎族自治县",
-			"local_name": "白沙县"
+			"local_name": "白沙县",
+			"postal_code_example": "572800"
 		},
 		"Baoting Xian": {
 			"local_code": "保亭黎族苗族自治县",
-			"local_name": "保亭县"
+			"local_name": "保亭县",
+			"postal_code_example": "572300"
 		},
 		"Changjiang Xian": {
 			"local_code": "昌江黎族自治县",
-			"local_name": "昌江县"
+			"local_name": "昌江县",
+			"postal_code_example": "572700"
 		},
 		"Chengmai Xian": {
-			"local_code": "澄迈县"
+			"local_code": "澄迈县",
+			"postal_code_example": "571900"
 		},
 		"Danzhou Shi": {
-			"local_code": "儋州市"
+			"local_code": "儋州市",
+			"postal_code_example": "571700"
 		},
 		"Ding'an Xian": {
-			"local_code": "定安县"
+			"local_code": "定安县",
+			"postal_code_example": "571200"
 		},
 		"Dongfang Shi": {
-			"local_code": "东方市"
+			"local_code": "东方市",
+			"postal_code_example": "572600"
 		},
 		"Haikou Shi": {
 			"local_code": "海口市",
+			"postal_code_example": "570102",
 			"has_children": true
 		},
 		"Ledong Xian": {
 			"local_code": "乐东黎族自治县",
-			"local_name": "乐东县"
+			"local_name": "乐东县",
+			"postal_code_example": "572500"
 		},
 		"Lingao Xian": {
-			"local_code": "临高县"
+			"local_code": "临高县",
+			"postal_code_example": "571800"
 		},
 		"Lingshui Xian": {
 			"local_code": "陵水黎族自治县",
-			"local_name": "陵水县"
+			"local_name": "陵水县",
+			"postal_code_example": "572400"
 		},
 		"Qionghai Shi": {
-			"local_code": "琼海市"
+			"local_code": "琼海市",
+			"postal_code_example": "571400"
 		},
 		"Qiongzhong Xian": {
 			"local_code": "琼中黎族苗族自治县",
-			"local_name": "琼中县"
+			"local_name": "琼中县",
+			"postal_code_example": "572900"
 		},
 		"Sansha Shi": {
 			"local_code": "三沙市",
+			"postal_code_example": "573100",
 			"has_children": true
 		},
 		"Sanya Shi": {
-			"local_code": "三亚市"
+			"local_code": "三亚市",
+			"postal_code_example": "572002"
 		},
 		"Tunchang Xian": {
-			"local_code": "屯昌县"
+			"local_code": "屯昌县",
+			"postal_code_example": "571600"
 		},
 		"Wanning Shi": {
-			"local_code": "万宁市"
+			"local_code": "万宁市",
+			"postal_code_example": "571500"
 		},
 		"Wenchang Shi": {
-			"local_code": "文昌市"
+			"local_code": "文昌市",
+			"postal_code_example": "571300"
 		},
 		"Wuzhishan Shi": {
-			"local_code": "五指山市"
+			"local_code": "五指山市",
+			"postal_code_example": "572200"
 		}
 	}
 }

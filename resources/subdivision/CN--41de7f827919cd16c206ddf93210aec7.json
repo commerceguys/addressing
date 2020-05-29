@@ -8,26 +8,33 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Chengbei Qu": {
-			"local_code": "城北区"
+			"local_code": "城北区",
+			"postal_code_example": "810001"
 		},
 		"Chengdong Qu": {
-			"local_code": "城东区"
+			"local_code": "城东区",
+			"postal_code_example": "810000"
 		},
 		"Chengxi Qu": {
-			"local_code": "城西区"
+			"local_code": "城西区",
+			"postal_code_example": "810001"
 		},
 		"Chengzhong Qu": {
-			"local_code": "城中区"
+			"local_code": "城中区",
+			"postal_code_example": "810000"
 		},
 		"Datong Xian": {
 			"local_code": "大通回族土族自治县",
-			"local_name": "大通县"
+			"local_name": "大通县",
+			"postal_code_example": "810100"
 		},
 		"Huangyuan Xian": {
-			"local_code": "湟源县"
+			"local_code": "湟源县",
+			"postal_code_example": "812100"
 		},
 		"Huangzhong Xian": {
-			"local_code": "湟中县"
+			"local_code": "湟中县",
+			"postal_code_example": "811600"
 		}
 	}
 }

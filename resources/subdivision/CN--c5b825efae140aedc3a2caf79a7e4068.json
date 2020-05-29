@@ -8,25 +8,32 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Cangwu Xian": {
-			"local_code": "苍梧县"
+			"local_code": "苍梧县",
+			"postal_code_example": "543100"
 		},
 		"Cenxi Shi": {
-			"local_code": "岑溪市"
+			"local_code": "岑溪市",
+			"postal_code_example": "543200"
 		},
 		"Dieshan Qu": {
-			"local_code": "蝶山区"
+			"local_code": "蝶山区",
+			"postal_code_example": "543002"
 		},
 		"Mengshan Xian": {
-			"local_code": "蒙山县"
+			"local_code": "蒙山县",
+			"postal_code_example": "546700"
 		},
 		"Teng Xian": {
-			"local_code": "藤县"
+			"local_code": "藤县",
+			"postal_code_example": "543300"
 		},
 		"Wanxiu Qu": {
-			"local_code": "万秀区"
+			"local_code": "万秀区",
+			"postal_code_example": "543000"
 		},
 		"Changzhou Qu": {
-			"local_code": "长洲区"
+			"local_code": "长洲区",
+			"postal_code_example": "543002"
 		}
 	}
 }

@@ -8,18 +8,22 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Fugong Xian": {
-			"local_code": "福贡县"
+			"local_code": "福贡县",
+			"postal_code_example": "673400"
 		},
 		"Gongshan Xian": {
 			"local_code": "贡山独龙族怒族自治县",
-			"local_name": "贡山县"
+			"local_name": "贡山县",
+			"postal_code_example": "673500"
 		},
 		"Lanping Xian": {
 			"local_code": "兰坪白族普米族自治县",
-			"local_name": "兰坪县"
+			"local_name": "兰坪县",
+			"postal_code_example": "671400"
 		},
 		"Lushui Xian": {
-			"local_code": "泸水县"
+			"local_code": "泸水县",
+			"postal_code_example": "673200"
 		}
 	}
 }

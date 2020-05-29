@@ -8,25 +8,32 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Huangshan Qu": {
-			"local_code": "黄山区"
+			"local_code": "黄山区",
+			"postal_code_example": "242700"
 		},
 		"Huizhou Qu": {
-			"local_code": "徽州区"
+			"local_code": "徽州区",
+			"postal_code_example": "245061"
 		},
 		"Qimen Xian": {
-			"local_code": "祁门县"
+			"local_code": "祁门县",
+			"postal_code_example": "245600"
 		},
 		"She Xian": {
-			"local_code": "歙县"
+			"local_code": "歙县",
+			"postal_code_example": "245200"
 		},
 		"Tunxi Qu": {
-			"local_code": "屯溪区"
+			"local_code": "屯溪区",
+			"postal_code_example": "245000"
 		},
 		"Xiuning Xian": {
-			"local_code": "休宁县"
+			"local_code": "休宁县",
+			"postal_code_example": "245400"
 		},
 		"Yi Xian": {
-			"local_code": "黟县"
+			"local_code": "黟县",
+			"postal_code_example": "245500"
 		}
 	}
 }

@@ -8,13 +8,16 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Guixi Shi": {
-			"local_code": "贵溪市"
+			"local_code": "贵溪市",
+			"postal_code_example": "335400"
 		},
 		"Yujiang Xian": {
-			"local_code": "余江县"
+			"local_code": "余江县",
+			"postal_code_example": "335200"
 		},
 		"Yuehu Qu": {
-			"local_code": "月湖区"
+			"local_code": "月湖区",
+			"postal_code_example": "335000"
 		}
 	}
 }

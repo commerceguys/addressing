@@ -8,25 +8,32 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Baoying Xian": {
-			"local_code": "宝应县"
+			"local_code": "宝应县",
+			"postal_code_example": "225800"
 		},
 		"Gaoyou Shi": {
-			"local_code": "高邮市"
+			"local_code": "高邮市",
+			"postal_code_example": "225600"
 		},
 		"Guangling Qu": {
-			"local_code": "广陵区"
+			"local_code": "广陵区",
+			"postal_code_example": "225002"
 		},
 		"Hanjiang Qu": {
-			"local_code": "邗江区"
+			"local_code": "邗江区",
+			"postal_code_example": "225002"
 		},
 		"Jiangdu Shi": {
-			"local_code": "江都市"
+			"local_code": "江都市",
+			"postal_code_example": "225200"
 		},
 		"Weiyang Qu": {
-			"local_code": "维扬区"
+			"local_code": "维扬区",
+			"postal_code_example": "225002"
 		},
 		"Yizheng Shi": {
-			"local_code": "仪征市"
+			"local_code": "仪征市",
+			"postal_code_example": "211400"
 		}
 	}
 }

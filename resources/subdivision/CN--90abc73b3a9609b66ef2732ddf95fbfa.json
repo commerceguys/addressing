@@ -9,38 +9,49 @@
 	"subdivisions": {
 		"Ebian Xian": {
 			"local_code": "峨边彝族自治县",
-			"local_name": "峨边县"
+			"local_name": "峨边县",
+			"postal_code_example": "614300"
 		},
 		"Emeishan Shi": {
-			"local_code": "峨眉山市"
+			"local_code": "峨眉山市",
+			"postal_code_example": "614200"
 		},
 		"Jiajiang Xian": {
-			"local_code": "夹江县"
+			"local_code": "夹江县",
+			"postal_code_example": "614100"
 		},
 		"Qianwei Xian": {
-			"local_code": "犍为县"
+			"local_code": "犍为县",
+			"postal_code_example": "614400"
 		},
 		"Jinkouhe Qu": {
-			"local_code": "金口河区"
+			"local_code": "金口河区",
+			"postal_code_example": "614700"
 		},
 		"Jingyan Xian": {
-			"local_code": "井研县"
+			"local_code": "井研县",
+			"postal_code_example": "613100"
 		},
 		"Mabian Xian": {
 			"local_code": "马边彝族自治县",
-			"local_name": "马边县"
+			"local_name": "马边县",
+			"postal_code_example": "614600"
 		},
 		"Muchuan Xian": {
-			"local_code": "沐川县"
+			"local_code": "沐川县",
+			"postal_code_example": "614500"
 		},
 		"Shawan Qu": {
-			"local_code": "沙湾区"
+			"local_code": "沙湾区",
+			"postal_code_example": "614900"
 		},
 		"Shizhong Qu": {
-			"local_code": "市中区"
+			"local_code": "市中区",
+			"postal_code_example": "614000"
 		},
 		"Wutongqiao Qu": {
-			"local_code": "五通桥区"
+			"local_code": "五通桥区",
+			"postal_code_example": "614800"
 		}
 	}
 }

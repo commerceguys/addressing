@@ -8,61 +8,80 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Chenghua Qu": {
-			"local_code": "成华区"
+			"local_code": "成华区",
+			"postal_code_example": "610051"
 		},
 		"Chongzhou Shi": {
-			"local_code": "崇州市"
+			"local_code": "崇州市",
+			"postal_code_example": "611230"
 		},
 		"Dayi Xian": {
-			"local_code": "大邑县"
+			"local_code": "大邑县",
+			"postal_code_example": "611330"
 		},
 		"Dujiangyan Shi": {
-			"local_code": "都江堰市"
+			"local_code": "都江堰市",
+			"postal_code_example": "611830"
 		},
 		"Jinniu Qu": {
-			"local_code": "金牛区"
+			"local_code": "金牛区",
+			"postal_code_example": "610036"
 		},
 		"Jintang Xian": {
-			"local_code": "金堂县"
+			"local_code": "金堂县",
+			"postal_code_example": "610400"
 		},
 		"Jinjiang Qu": {
-			"local_code": "锦江区"
+			"local_code": "锦江区",
+			"postal_code_example": "610011"
 		},
 		"Longquanyi Qu": {
-			"local_code": "龙泉驿区"
+			"local_code": "龙泉驿区",
+			"postal_code_example": "610100"
 		},
 		"Pengzhou Shi": {
-			"local_code": "彭州市"
+			"local_code": "彭州市",
+			"postal_code_example": "611930"
 		},
 		"Pi Xian": {
-			"local_code": "郫县"
+			"local_code": "郫县",
+			"postal_code_example": "611730"
 		},
 		"Pujiang Xian": {
-			"local_code": "蒲江县"
+			"local_code": "蒲江县",
+			"postal_code_example": "611630"
 		},
 		"Qingbaijiang Qu": {
-			"local_code": "青白江区"
+			"local_code": "青白江区",
+			"postal_code_example": "610300"
 		},
 		"Qingyang Qu": {
-			"local_code": "青羊区"
+			"local_code": "青羊区",
+			"postal_code_example": "610031"
 		},
 		"Qionglai Shi": {
-			"local_code": "邛崃市"
+			"local_code": "邛崃市",
+			"postal_code_example": "611530"
 		},
 		"Shuangliu Xian": {
-			"local_code": "双流县"
+			"local_code": "双流县",
+			"postal_code_example": "610200"
 		},
 		"Wenjiang Qu": {
-			"local_code": "温江区"
+			"local_code": "温江区",
+			"postal_code_example": "611130"
 		},
 		"Wuhou Qu": {
-			"local_code": "武侯区"
+			"local_code": "武侯区",
+			"postal_code_example": "610041"
 		},
 		"Xindu Qu": {
-			"local_code": "新都区"
+			"local_code": "新都区",
+			"postal_code_example": "610500"
 		},
 		"Xinjin Xian": {
-			"local_code": "新津县"
+			"local_code": "新津县",
+			"postal_code_example": "611430"
 		}
 	}
 }

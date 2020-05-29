@@ -8,48 +8,62 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Chishui Shi": {
-			"local_code": "赤水市"
+			"local_code": "赤水市",
+			"postal_code_example": "564700"
 		},
 		"Daozhen Xian": {
 			"local_code": "道真仡佬族苗族自治县",
-			"local_name": "道真县"
+			"local_name": "道真县",
+			"postal_code_example": "563500"
 		},
 		"Fenggang Xian": {
-			"local_code": "凤冈县"
+			"local_code": "凤冈县",
+			"postal_code_example": "564200"
 		},
 		"Honghuagang Qu": {
-			"local_code": "红花岗区"
+			"local_code": "红花岗区",
+			"postal_code_example": "563000"
 		},
 		"Huichuan Qu": {
-			"local_code": "汇川区"
+			"local_code": "汇川区",
+			"postal_code_example": "563000"
 		},
 		"Meitan Xian": {
-			"local_code": "湄潭县"
+			"local_code": "湄潭县",
+			"postal_code_example": "564100"
 		},
 		"Renhuai Shi": {
-			"local_code": "仁怀市"
+			"local_code": "仁怀市",
+			"postal_code_example": "564500"
 		},
 		"Suiyang Xian": {
-			"local_code": "绥阳县"
+			"local_code": "绥阳县",
+			"postal_code_example": "563300"
 		},
 		"Tongzi Xian": {
-			"local_code": "桐梓县"
+			"local_code": "桐梓县",
+			"postal_code_example": "563200"
 		},
 		"Wuchuan Xian": {
 			"local_code": "务川仡佬族苗族自治县",
-			"local_name": "务川县"
+			"local_name": "务川县",
+			"postal_code_example": "564300"
 		},
 		"Xishui Xian": {
-			"local_code": "习水县"
+			"local_code": "习水县",
+			"postal_code_example": "564600"
 		},
 		"Yuqing Xian": {
-			"local_code": "余庆县"
+			"local_code": "余庆县",
+			"postal_code_example": "564400"
 		},
 		"Zheng'an Xian": {
-			"local_code": "正安县"
+			"local_code": "正安县",
+			"postal_code_example": "563400"
 		},
 		"Zunyi Xian": {
-			"local_code": "遵义县"
+			"local_code": "遵义县",
+			"postal_code_example": "563100"
 		}
 	}
 }

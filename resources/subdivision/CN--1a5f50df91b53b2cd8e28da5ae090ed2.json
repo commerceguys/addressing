@@ -8,16 +8,20 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Huancui Qu": {
-			"local_code": "环翠区"
+			"local_code": "环翠区",
+			"postal_code_example": "264200"
 		},
 		"Rongcheng Shi": {
-			"local_code": "荣成市"
+			"local_code": "荣成市",
+			"postal_code_example": "264300"
 		},
 		"Rushan Shi": {
-			"local_code": "乳山市"
+			"local_code": "乳山市",
+			"postal_code_example": "264500"
 		},
 		"Wendeng Qu": {
-			"local_code": "文登区"
+			"local_code": "文登区",
+			"postal_code_example": "264400"
 		}
 	}
 }

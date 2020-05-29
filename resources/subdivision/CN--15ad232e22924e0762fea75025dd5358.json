@@ -8,19 +8,24 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Dianbai Qu": {
-			"local_code": "电白区"
+			"local_code": "电白区",
+			"postal_code_example": "525400"
 		},
 		"Gaozhou Shi": {
-			"local_code": "高州市"
+			"local_code": "高州市",
+			"postal_code_example": "525200"
 		},
 		"Huazhou Shi": {
-			"local_code": "化州市"
+			"local_code": "化州市",
+			"postal_code_example": "525100"
 		},
 		"Maonan Qu": {
-			"local_code": "茂南区"
+			"local_code": "茂南区",
+			"postal_code_example": "525011"
 		},
 		"Xinyi Shi": {
-			"local_code": "信宜市"
+			"local_code": "信宜市",
+			"postal_code_example": "525300"
 		}
 	}
 }

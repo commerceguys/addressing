@@ -8,16 +8,20 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Longhua Qu": {
-			"local_code": "龙华区"
+			"local_code": "龙华区",
+			"postal_code_example": "570105"
 		},
 		"Meilan Qu": {
-			"local_code": "美兰区"
+			"local_code": "美兰区",
+			"postal_code_example": "570203"
 		},
 		"Qiongshan Qu": {
-			"local_code": "琼山区"
+			"local_code": "琼山区",
+			"postal_code_example": "571100"
 		},
 		"Xiuying Qu": {
-			"local_code": "秀英区"
+			"local_code": "秀英区",
+			"postal_code_example": "570311"
 		}
 	}
 }

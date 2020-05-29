@@ -8,28 +8,36 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Cangxi Xian": {
-			"local_code": "苍溪县"
+			"local_code": "苍溪县",
+			"postal_code_example": "628400"
 		},
 		"Chaotian Qu": {
-			"local_code": "朝天区"
+			"local_code": "朝天区",
+			"postal_code_example": "628012"
 		},
 		"Jiange Xian": {
-			"local_code": "剑阁县"
+			"local_code": "剑阁县",
+			"postal_code_example": "628300"
 		},
 		"Lizhou Qu": {
-			"local_code": "利州区"
+			"local_code": "利州区",
+			"postal_code_example": "628000"
 		},
 		"Qingchuan Xian": {
-			"local_code": "青川县"
+			"local_code": "青川县",
+			"postal_code_example": "628100"
 		},
 		"Shizhong Qu": {
-			"local_code": "市中区"
+			"local_code": "市中区",
+			"postal_code_example": "628017"
 		},
 		"Wangcang Xian": {
-			"local_code": "旺苍县"
+			"local_code": "旺苍县",
+			"postal_code_example": "628200"
 		},
 		"Yuanba Qu": {
-			"local_code": "元坝区"
+			"local_code": "元坝区",
+			"postal_code_example": "628021"
 		}
 	}
 }

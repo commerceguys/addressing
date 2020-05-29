@@ -8,17 +8,21 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Gangca Xian": {
-			"local_code": "刚察县"
+			"local_code": "刚察县",
+			"postal_code_example": "812300"
 		},
 		"Haiyan Xian": {
-			"local_code": "海晏县"
+			"local_code": "海晏县",
+			"postal_code_example": "812200"
 		},
 		"Menyuan Xian": {
 			"local_code": "门源回族自治县",
-			"local_name": "门源县"
+			"local_name": "门源县",
+			"postal_code_example": "810300"
 		},
 		"Qilian Xian": {
-			"local_code": "祁连县"
+			"local_code": "祁连县",
+			"postal_code_example": "810400"
 		}
 	}
 }

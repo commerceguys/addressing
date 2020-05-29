@@ -8,70 +8,87 @@
 	"subdivisions": {
 		"Anyang Shi": {
 			"local_code": "安阳市",
+			"postal_code_example": "455000",
 			"has_children": true
 		},
 		"Hebi Shi": {
 			"local_code": "鹤壁市",
+			"postal_code_example": "458030",
 			"has_children": true
 		},
 		"Jiaozuo Shi": {
 			"local_code": "焦作市",
+			"postal_code_example": "454002",
 			"has_children": true
 		},
 		"Kaifeng Shi": {
 			"local_code": "开封市",
+			"postal_code_example": "475001",
 			"has_children": true
 		},
 		"Luoyang Shi": {
 			"local_code": "洛阳市",
+			"postal_code_example": "471000",
 			"has_children": true
 		},
 		"Luohe Shi": {
 			"local_code": "漯河市",
+			"postal_code_example": "462000",
 			"has_children": true
 		},
 		"Nanyang Shi": {
 			"local_code": "南阳市",
+			"postal_code_example": "473002",
 			"has_children": true
 		},
 		"Pingdingshan Shi": {
 			"local_code": "平顶山市",
+			"postal_code_example": "467000",
 			"has_children": true
 		},
 		"Puyang Shi": {
 			"local_code": "濮阳市",
+			"postal_code_example": "457000",
 			"has_children": true
 		},
 		"Sanmenxia Shi": {
 			"local_code": "三门峡市",
+			"postal_code_example": "472000",
 			"has_children": true
 		},
 		"Shangqiu Shi": {
 			"local_code": "商丘市",
+			"postal_code_example": "476000",
 			"has_children": true
 		},
 		"Xinxiang Shi": {
 			"local_code": "新乡市",
+			"postal_code_example": "453000",
 			"has_children": true
 		},
 		"Xinyang Shi": {
 			"local_code": "信阳市",
+			"postal_code_example": "464000",
 			"has_children": true
 		},
 		"Xuchang Shi": {
 			"local_code": "许昌市",
+			"postal_code_example": "461000",
 			"has_children": true
 		},
 		"Zhengzhou Shi": {
 			"local_code": "郑州市",
+			"postal_code_example": "450006",
 			"has_children": true
 		},
 		"Zhoukou Shi": {
 			"local_code": "周口市",
+			"postal_code_example": "466000",
 			"has_children": true
 		},
 		"Zhumadian Shi": {
 			"local_code": "驻马店市",
+			"postal_code_example": "463000",
 			"has_children": true
 		}
 	}

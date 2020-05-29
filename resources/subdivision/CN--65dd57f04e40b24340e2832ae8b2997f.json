@@ -8,40 +8,52 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Chengyang Qu": {
-			"local_code": "城阳区"
+			"local_code": "城阳区",
+			"postal_code_example": "266041"
 		},
 		"Huangdao Qu": {
-			"local_code": "黄岛区"
+			"local_code": "黄岛区",
+			"postal_code_example": "266500"
 		},
 		"Jimo Shi": {
-			"local_code": "即墨市"
+			"local_code": "即墨市",
+			"postal_code_example": "266200"
 		},
 		"Jiaonan Shi": {
-			"local_code": "胶南市"
+			"local_code": "胶南市",
+			"postal_code_example": "266400"
 		},
 		"Jiaozhou Shi": {
-			"local_code": "胶州市"
+			"local_code": "胶州市",
+			"postal_code_example": "266300"
 		},
 		"Laixi Shi": {
-			"local_code": "莱西市"
+			"local_code": "莱西市",
+			"postal_code_example": "266600"
 		},
 		"Laoshan Qu": {
-			"local_code": "崂山区"
+			"local_code": "崂山区",
+			"postal_code_example": "266100"
 		},
 		"Licang Qu": {
-			"local_code": "李沧区"
+			"local_code": "李沧区",
+			"postal_code_example": "266021"
 		},
 		"Pingdu Shi": {
-			"local_code": "平度市"
+			"local_code": "平度市",
+			"postal_code_example": "266700"
 		},
 		"Shibei Qu": {
-			"local_code": "市北区"
+			"local_code": "市北区",
+			"postal_code_example": "266011"
 		},
 		"Shinan Qu": {
-			"local_code": "市南区"
+			"local_code": "市南区",
+			"postal_code_example": "266001"
 		},
 		"Sifang Qu": {
-			"local_code": "四方区"
+			"local_code": "四方区",
+			"postal_code_example": "266031"
 		}
 	}
 }

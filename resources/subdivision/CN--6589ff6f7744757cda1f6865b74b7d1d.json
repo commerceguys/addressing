@@ -8,34 +8,44 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Aimin Qu": {
-			"local_code": "爱民区"
+			"local_code": "爱民区",
+			"postal_code_example": "157009"
 		},
 		"Dong'an Qu": {
-			"local_code": "东安区"
+			"local_code": "东安区",
+			"postal_code_example": "157000"
 		},
 		"Dongning Xian": {
-			"local_code": "东宁县"
+			"local_code": "东宁县",
+			"postal_code_example": "157200"
 		},
 		"Hailin Shi": {
-			"local_code": "海林市"
+			"local_code": "海林市",
+			"postal_code_example": "157100"
 		},
 		"Linkou Xian": {
-			"local_code": "林口县"
+			"local_code": "林口县",
+			"postal_code_example": "157600"
 		},
 		"Muling Shi": {
-			"local_code": "穆棱市"
+			"local_code": "穆棱市",
+			"postal_code_example": "157500"
 		},
 		"Ning'an Shi": {
-			"local_code": "宁安市"
+			"local_code": "宁安市",
+			"postal_code_example": "157400"
 		},
 		"Suifenhe Shi": {
-			"local_code": "绥芬河市"
+			"local_code": "绥芬河市",
+			"postal_code_example": "157300"
 		},
 		"Xi'an Qu": {
-			"local_code": "西安区"
+			"local_code": "西安区",
+			"postal_code_example": "157000"
 		},
 		"Yangming Qu": {
-			"local_code": "阳明区"
+			"local_code": "阳明区",
+			"postal_code_example": "157013"
 		}
 	}
 }

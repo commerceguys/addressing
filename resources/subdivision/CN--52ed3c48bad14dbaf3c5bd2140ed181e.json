@@ -8,28 +8,36 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Chengguan Qu": {
-			"local_code": "城关区"
+			"local_code": "城关区",
+			"postal_code_example": "850000"
 		},
 		"Dagzê Xian": {
-			"local_code": "达孜县"
+			"local_code": "达孜县",
+			"postal_code_example": "850100"
 		},
 		"Damxung Xian": {
-			"local_code": "当雄县"
+			"local_code": "当雄县",
+			"postal_code_example": "851500"
 		},
 		"Doilungdêqên Xian": {
-			"local_code": "堆龙德庆县"
+			"local_code": "堆龙德庆县",
+			"postal_code_example": "851400"
 		},
 		"Lhünzhub Xian": {
-			"local_code": "林周县"
+			"local_code": "林周县",
+			"postal_code_example": "851600"
 		},
 		"Maizhokunggar Xian": {
-			"local_code": "墨竹工卡县"
+			"local_code": "墨竹工卡县",
+			"postal_code_example": "850200"
 		},
 		"Nyêmo Xian": {
-			"local_code": "尼木县"
+			"local_code": "尼木县",
+			"postal_code_example": "851300"
 		},
 		"Qüxü Xian": {
-			"local_code": "曲水县"
+			"local_code": "曲水县",
+			"postal_code_example": "850600"
 		}
 	}
 }

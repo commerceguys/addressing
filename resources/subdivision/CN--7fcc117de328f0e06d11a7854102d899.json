@@ -8,28 +8,36 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Antu Xian": {
-			"local_code": "安图县"
+			"local_code": "安图县",
+			"postal_code_example": "133600"
 		},
 		"Dunhua Shi": {
-			"local_code": "敦化市"
+			"local_code": "敦化市",
+			"postal_code_example": "133700"
 		},
 		"Helong Shi": {
-			"local_code": "和龙市"
+			"local_code": "和龙市",
+			"postal_code_example": "133500"
 		},
 		"Hunchun Shi": {
-			"local_code": "珲春市"
+			"local_code": "珲春市",
+			"postal_code_example": "133300"
 		},
 		"Longjing Shi": {
-			"local_code": "龙井市"
+			"local_code": "龙井市",
+			"postal_code_example": "133400"
 		},
 		"Tumen Shi": {
-			"local_code": "图们市"
+			"local_code": "图们市",
+			"postal_code_example": "133100"
 		},
 		"Wangqing Xian": {
-			"local_code": "汪清县"
+			"local_code": "汪清县",
+			"postal_code_example": "133200"
 		},
 		"Yanji Shi": {
-			"local_code": "延吉市"
+			"local_code": "延吉市",
+			"postal_code_example": "133000"
 		}
 	}
 }

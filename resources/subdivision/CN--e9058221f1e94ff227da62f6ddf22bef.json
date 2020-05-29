@@ -8,43 +8,55 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Binchuan Xian": {
-			"local_code": "宾川县"
+			"local_code": "宾川县",
+			"postal_code_example": "671600"
 		},
 		"Dali Shi": {
-			"local_code": "大理市"
+			"local_code": "大理市",
+			"postal_code_example": "671000"
 		},
 		"Eryuan Xian": {
-			"local_code": "洱源县"
+			"local_code": "洱源县",
+			"postal_code_example": "671200"
 		},
 		"Heqing Xian": {
-			"local_code": "鹤庆县"
+			"local_code": "鹤庆县",
+			"postal_code_example": "671500"
 		},
 		"Jianchuan Xian": {
-			"local_code": "剑川县"
+			"local_code": "剑川县",
+			"postal_code_example": "671300"
 		},
 		"Midu Xian": {
-			"local_code": "弥渡县"
+			"local_code": "弥渡县",
+			"postal_code_example": "675600"
 		},
 		"Nanjian Xian": {
 			"local_code": "南涧彝族自治县",
-			"local_name": "南涧县"
+			"local_name": "南涧县",
+			"postal_code_example": "675700"
 		},
 		"Weishan Xian": {
 			"local_code": "巍山彝族回族自治县",
-			"local_name": "巍山县"
+			"local_name": "巍山县",
+			"postal_code_example": "672400"
 		},
 		"Xiangyun Xian": {
-			"local_code": "祥云县"
+			"local_code": "祥云县",
+			"postal_code_example": "672100"
 		},
 		"Yangbi Xian": {
 			"local_code": "漾濞彝族自治县",
-			"local_name": "漾濞县"
+			"local_name": "漾濞县",
+			"postal_code_example": "672500"
 		},
 		"Yongping Xian": {
-			"local_code": "永平县"
+			"local_code": "永平县",
+			"postal_code_example": "672600"
 		},
 		"Yunlong Xian": {
-			"local_code": "云龙县"
+			"local_code": "云龙县",
+			"postal_code_example": "672700"
 		}
 	}
 }

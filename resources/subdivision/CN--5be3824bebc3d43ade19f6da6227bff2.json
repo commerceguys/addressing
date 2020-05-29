@@ -8,16 +8,20 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Bazhou Qu": {
-			"local_code": "巴州区"
+			"local_code": "巴州区",
+			"postal_code_example": "636600"
 		},
 		"Nanjiang Xian": {
-			"local_code": "南江县"
+			"local_code": "南江县",
+			"postal_code_example": "635600"
 		},
 		"Pingchang Xian": {
-			"local_code": "平昌县"
+			"local_code": "平昌县",
+			"postal_code_example": "636400"
 		},
 		"Tongjiang Xian": {
-			"local_code": "通江县"
+			"local_code": "通江县",
+			"postal_code_example": "636700"
 		}
 	}
 }

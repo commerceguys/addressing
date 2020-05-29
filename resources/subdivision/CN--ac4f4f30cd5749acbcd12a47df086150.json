@@ -8,25 +8,32 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Bomi Xian": {
-			"local_code": "波密县"
+			"local_code": "波密县",
+			"postal_code_example": "860300"
 		},
 		"Zayü Xian": {
-			"local_code": "察隅县"
+			"local_code": "察隅县",
+			"postal_code_example": "860600"
 		},
 		"Gongbo'gyamda Xian": {
-			"local_code": "工布江达县"
+			"local_code": "工布江达县",
+			"postal_code_example": "860200"
 		},
 		"Nang Xian": {
-			"local_code": "朗县"
+			"local_code": "朗县",
+			"postal_code_example": "860400"
 		},
 		"Nyingchi Xian": {
-			"local_code": "林芝县"
+			"local_code": "林芝县",
+			"postal_code_example": "860100"
 		},
 		"Mainling Xian": {
-			"local_code": "米林县"
+			"local_code": "米林县",
+			"postal_code_example": "860500"
 		},
 		"Mêtog Xian": {
-			"local_code": "墨脱县"
+			"local_code": "墨脱县",
+			"postal_code_example": "860700"
 		}
 	}
 }

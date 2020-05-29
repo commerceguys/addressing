@@ -8,84 +8,105 @@
 	"subdivisions": {
 		"Chaozhou Shi": {
 			"local_code": "潮州市",
+			"postal_code_example": "521000",
 			"has_children": true
 		},
 		"Dongguan Shi": {
-			"local_code": "东莞市"
+			"local_code": "东莞市",
+			"postal_code_example": "523003"
 		},
 		"Foshan Shi": {
 			"local_code": "佛山市",
+			"postal_code_example": "528000",
 			"has_children": true
 		},
 		"Guangzhou Shi": {
 			"local_code": "广州市",
+			"postal_code_example": "510130",
 			"has_children": true
 		},
 		"Heyuan Shi": {
 			"local_code": "河源市",
+			"postal_code_example": "517001",
 			"has_children": true
 		},
 		"Huizhou Shi": {
 			"local_code": "惠州市",
+			"postal_code_example": "516001",
 			"has_children": true
 		},
 		"Jiangmen Shi": {
 			"local_code": "江门市",
+			"postal_code_example": "529020",
 			"has_children": true
 		},
 		"Jieyang Shi": {
 			"local_code": "揭阳市",
+			"postal_code_example": "522000",
 			"has_children": true
 		},
 		"Maoming Shi": {
 			"local_code": "茂名市",
+			"postal_code_example": "525011",
 			"has_children": true
 		},
 		"Meizhou Shi": {
 			"local_code": "梅州市",
+			"postal_code_example": "514021",
 			"has_children": true
 		},
 		"Qingyuan Shi": {
 			"local_code": "清远市",
+			"postal_code_example": "511500",
 			"has_children": true
 		},
 		"Shantou Shi": {
 			"local_code": "汕头市",
+			"postal_code_example": "515031",
 			"has_children": true
 		},
 		"Shanwei Shi": {
 			"local_code": "汕尾市",
+			"postal_code_example": "516601",
 			"has_children": true
 		},
 		"Shaoguan Shi": {
 			"local_code": "韶关市",
+			"postal_code_example": "512000",
 			"has_children": true
 		},
 		"Shenzhen Shi": {
 			"local_code": "深圳市",
+			"postal_code_example": "518027",
 			"has_children": true
 		},
 		"Yangjiang Shi": {
 			"local_code": "阳江市",
+			"postal_code_example": "529525",
 			"has_children": true
 		},
 		"Yunfu Shi": {
 			"local_code": "云浮市",
+			"postal_code_example": "527300",
 			"has_children": true
 		},
 		"Zhanjiang Shi": {
 			"local_code": "湛江市",
+			"postal_code_example": "524038",
 			"has_children": true
 		},
 		"Zhaoqing Shi": {
 			"local_code": "肇庆市",
+			"postal_code_example": "526060",
 			"has_children": true
 		},
 		"Zhongshan Shi": {
-			"local_code": "中山市"
+			"local_code": "中山市",
+			"postal_code_example": "528403"
 		},
 		"Zhuhai Shi": {
 			"local_code": "珠海市",
+			"postal_code_example": "519000",
 			"has_children": true
 		}
 	}

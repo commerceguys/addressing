@@ -8,16 +8,20 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Jiangcheng Qu": {
-			"local_code": "江城区"
+			"local_code": "江城区",
+			"postal_code_example": "529525"
 		},
 		"Yangchun Shi": {
-			"local_code": "阳春市"
+			"local_code": "阳春市",
+			"postal_code_example": "529611"
 		},
 		"Yangdong Xian": {
-			"local_code": "阳东县"
+			"local_code": "阳东县",
+			"postal_code_example": "529931"
 		},
 		"Yangxi Xian": {
-			"local_code": "阳西县"
+			"local_code": "阳西县",
+			"postal_code_example": "529800"
 		}
 	}
 }

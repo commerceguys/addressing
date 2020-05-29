@@ -8,53 +8,69 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Cang Xian": {
-			"local_code": "沧县"
+			"local_code": "沧县",
+			"postal_code_example": "061000"
 		},
 		"Dongguang Xian": {
-			"local_code": "东光县"
+			"local_code": "东光县",
+			"postal_code_example": "061600"
 		},
 		"Haixing Xian": {
-			"local_code": "海兴县"
+			"local_code": "海兴县",
+			"postal_code_example": "061200"
 		},
 		"Hejian Shi": {
-			"local_code": "河间市"
+			"local_code": "河间市",
+			"postal_code_example": "062450"
 		},
 		"Huanghua Shi": {
-			"local_code": "黄骅市"
+			"local_code": "黄骅市",
+			"postal_code_example": "061100"
 		},
 		"Mengcun Xian": {
 			"local_code": "孟村回族自治县",
-			"local_name": "孟村县"
+			"local_name": "孟村县",
+			"postal_code_example": "061400"
 		},
 		"Nanpi Xian": {
-			"local_code": "南皮县"
+			"local_code": "南皮县",
+			"postal_code_example": "061500"
 		},
 		"Botou Shi": {
-			"local_code": "泊头市"
+			"local_code": "泊头市",
+			"postal_code_example": "062150"
 		},
 		"Qing Xian": {
-			"local_code": "青县"
+			"local_code": "青县",
+			"postal_code_example": "062650"
 		},
 		"Renqiu Shi": {
-			"local_code": "任丘市"
+			"local_code": "任丘市",
+			"postal_code_example": "062550"
 		},
 		"Suning Xian": {
-			"local_code": "肃宁县"
+			"local_code": "肃宁县",
+			"postal_code_example": "062350"
 		},
 		"Wuqiao Xian": {
-			"local_code": "吴桥县"
+			"local_code": "吴桥县",
+			"postal_code_example": "061800"
 		},
 		"Xian Xian": {
-			"local_code": "献县"
+			"local_code": "献县",
+			"postal_code_example": "062250"
 		},
 		"Xinhua Qu": {
-			"local_code": "新华区"
+			"local_code": "新华区",
+			"postal_code_example": "061000"
 		},
 		"Yanshan Xian": {
-			"local_code": "盐山县"
+			"local_code": "盐山县",
+			"postal_code_example": "061300"
 		},
 		"Yunhe Qu": {
-			"local_code": "运河区"
+			"local_code": "运河区",
+			"postal_code_example": "061000"
 		}
 	}
 }

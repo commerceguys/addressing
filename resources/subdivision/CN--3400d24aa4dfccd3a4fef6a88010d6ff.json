@@ -8,19 +8,24 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Delhi Shi": {
-			"local_code": "德令哈市"
+			"local_code": "德令哈市",
+			"postal_code_example": "817000"
 		},
 		"Dulan Xian": {
-			"local_code": "都兰县"
+			"local_code": "都兰县",
+			"postal_code_example": "816100"
 		},
 		"Golmud Shi": {
-			"local_code": "格尔木市"
+			"local_code": "格尔木市",
+			"postal_code_example": "816000"
 		},
 		"Tianjun Xian": {
-			"local_code": "天峻县"
+			"local_code": "天峻县",
+			"postal_code_example": "817200"
 		},
 		"Ulan Xian": {
-			"local_code": "乌兰县"
+			"local_code": "乌兰县",
+			"postal_code_example": "817100"
 		}
 	}
 }

@@ -8,41 +8,50 @@
 	"subdivisions": {
 		"Anshun Shi": {
 			"local_code": "安顺市",
+			"postal_code_example": "561000",
 			"has_children": true
 		},
 		"Bijie Diqu": {
 			"local_code": "毕节地区",
+			"postal_code_example": "551700",
 			"has_children": true
 		},
 		"Guiyang Shi": {
 			"local_code": "贵阳市",
+			"postal_code_example": "550003",
 			"has_children": true
 		},
 		"Liupanshui Shi": {
 			"local_code": "六盘水市",
+			"postal_code_example": "553001",
 			"has_children": true
 		},
 		"Qiandongnan Zhou": {
 			"local_code": "黔东南苗族侗族自治州",
 			"local_name": "黔东南州",
+			"postal_code_example": "556000",
 			"has_children": true
 		},
 		"Qiannan Zhou": {
 			"local_code": "黔南布依族苗族自治州",
 			"local_name": "黔南州",
+			"postal_code_example": "558000",
 			"has_children": true
 		},
 		"Qianxinan Zhou": {
 			"local_code": "黔西南布依族苗族自治州",
 			"local_name": "黔西南州",
+			"postal_code_example": "562400",
 			"has_children": true
 		},
 		"Tongren Diqu": {
 			"local_code": "铜仁地区",
+			"postal_code_example": "554300",
 			"has_children": true
 		},
 		"Zunyi Shi": {
 			"local_code": "遵义市",
+			"postal_code_example": "563000",
 			"has_children": true
 		}
 	}

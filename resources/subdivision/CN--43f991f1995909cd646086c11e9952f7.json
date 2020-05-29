@@ -8,16 +8,20 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Duji Qu": {
-			"local_code": "杜集区"
+			"local_code": "杜集区",
+			"postal_code_example": "235047"
 		},
 		"Lieshan Qu": {
-			"local_code": "烈山区"
+			"local_code": "烈山区",
+			"postal_code_example": "235025"
 		},
 		"Suixi Xian": {
-			"local_code": "濉溪县"
+			"local_code": "濉溪县",
+			"postal_code_example": "235100"
 		},
 		"Xiangshan Qu": {
-			"local_code": "相山区"
+			"local_code": "相山区",
+			"postal_code_example": "235000"
 		}
 	}
 }

@@ -8,28 +8,36 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Fanchang Xian": {
-			"local_code": "繁昌县"
+			"local_code": "繁昌县",
+			"postal_code_example": "241200"
 		},
 		"Jinghu Qu": {
-			"local_code": "镜湖区"
+			"local_code": "镜湖区",
+			"postal_code_example": "241000"
 		},
 		"Jiujiang Qu": {
-			"local_code": "鸠江区"
+			"local_code": "鸠江区",
+			"postal_code_example": "241000"
 		},
 		"Nanling Xian": {
-			"local_code": "南陵县"
+			"local_code": "南陵县",
+			"postal_code_example": "241300"
 		},
 		"Sanshan Qu": {
-			"local_code": "三山区"
+			"local_code": "三山区",
+			"postal_code_example": "241000"
 		},
 		"Wuwei Xian": {
-			"local_code": "无为县"
+			"local_code": "无为县",
+			"postal_code_example": "241000"
 		},
 		"Wuhu Xian": {
-			"local_code": "芜湖县"
+			"local_code": "芜湖县",
+			"postal_code_example": "241100"
 		},
 		"Yijiang Qu": {
-			"local_code": "弋江区"
+			"local_code": "弋江区",
+			"postal_code_example": "241002"
 		}
 	}
 }

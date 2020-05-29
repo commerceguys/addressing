@@ -8,28 +8,36 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Boshan Qu": {
-			"local_code": "博山区"
+			"local_code": "博山区",
+			"postal_code_example": "255200"
 		},
 		"Gaoqing Xian": {
-			"local_code": "高青县"
+			"local_code": "高青县",
+			"postal_code_example": "256300"
 		},
 		"Huantai Xian": {
-			"local_code": "桓台县"
+			"local_code": "桓台县",
+			"postal_code_example": "256400"
 		},
 		"Linzi Qu": {
-			"local_code": "临淄区"
+			"local_code": "临淄区",
+			"postal_code_example": "255400"
 		},
 		"Yiyuan Xian": {
-			"local_code": "沂源县"
+			"local_code": "沂源县",
+			"postal_code_example": "256100"
 		},
 		"Zhangdian Qu": {
-			"local_code": "张店区"
+			"local_code": "张店区",
+			"postal_code_example": "255022"
 		},
 		"Zhoucun Qu": {
-			"local_code": "周村区"
+			"local_code": "周村区",
+			"postal_code_example": "255300"
 		},
 		"Zichuan Qu": {
-			"local_code": "淄川区"
+			"local_code": "淄川区",
+			"postal_code_example": "255100"
 		}
 	}
 }

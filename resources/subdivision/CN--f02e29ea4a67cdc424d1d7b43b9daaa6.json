@@ -8,40 +8,52 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Dengfeng Shi": {
-			"local_code": "登封市"
+			"local_code": "登封市",
+			"postal_code_example": "452470"
 		},
 		"Erqi Qu": {
-			"local_code": "二七区"
+			"local_code": "二七区",
+			"postal_code_example": "450000"
 		},
 		"Gongyi Shi": {
-			"local_code": "巩义市"
+			"local_code": "巩义市",
+			"postal_code_example": "451250"
 		},
 		"Guancheng Huizu Qu": {
-			"local_code": "管城回族区"
+			"local_code": "管城回族区",
+			"postal_code_example": "450000"
 		},
 		"Huiji Qu": {
-			"local_code": "惠济区"
+			"local_code": "惠济区",
+			"postal_code_example": "450053"
 		},
 		"Jinshui Qu": {
-			"local_code": "金水区"
+			"local_code": "金水区",
+			"postal_code_example": "450003"
 		},
 		"Shangjie Qu": {
-			"local_code": "上街区"
+			"local_code": "上街区",
+			"postal_code_example": "450041"
 		},
 		"Xinmi Shi": {
-			"local_code": "新密市"
+			"local_code": "新密市",
+			"postal_code_example": "452370"
 		},
 		"Xinzheng Shi": {
-			"local_code": "新郑市"
+			"local_code": "新郑市",
+			"postal_code_example": "451150"
 		},
 		"Xingyang Shi": {
-			"local_code": "荥阳市"
+			"local_code": "荥阳市",
+			"postal_code_example": "450100"
 		},
 		"Zhongmu Xian": {
-			"local_code": "中牟县"
+			"local_code": "中牟县",
+			"postal_code_example": "451450"
 		},
 		"Zhongyuan Qu": {
-			"local_code": "中原区"
+			"local_code": "中原区",
+			"postal_code_example": "450007"
 		}
 	}
 }

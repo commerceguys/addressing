@@ -8,16 +8,20 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Cili Xian": {
-			"local_code": "慈利县"
+			"local_code": "慈利县",
+			"postal_code_example": "427200"
 		},
 		"Sangzhi Xian": {
-			"local_code": "桑植县"
+			"local_code": "桑植县",
+			"postal_code_example": "427100"
 		},
 		"Wulingyuan Qu": {
-			"local_code": "武陵源区"
+			"local_code": "武陵源区",
+			"postal_code_example": "427400"
 		},
 		"Yongding Qu": {
-			"local_code": "永定区"
+			"local_code": "永定区",
+			"postal_code_example": "427000"
 		}
 	}
 }

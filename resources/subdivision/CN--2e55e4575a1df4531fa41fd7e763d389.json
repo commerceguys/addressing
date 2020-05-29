@@ -8,28 +8,36 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Dabu Xian": {
-			"local_code": "大埔县"
+			"local_code": "大埔县",
+			"postal_code_example": "514200"
 		},
 		"Fengshun Xian": {
-			"local_code": "丰顺县"
+			"local_code": "丰顺县",
+			"postal_code_example": "514300"
 		},
 		"Jiaoling Xian": {
-			"local_code": "蕉岭县"
+			"local_code": "蕉岭县",
+			"postal_code_example": "514100"
 		},
 		"Meijiang Qu": {
-			"local_code": "梅江区"
+			"local_code": "梅江区",
+			"postal_code_example": "514000"
 		},
 		"Mei Xian": {
-			"local_code": "梅县"
+			"local_code": "梅县",
+			"postal_code_example": "514733"
 		},
 		"Pingyuan Xian": {
-			"local_code": "平远县"
+			"local_code": "平远县",
+			"postal_code_example": "514600"
 		},
 		"Wuhua Xian": {
-			"local_code": "五华县"
+			"local_code": "五华县",
+			"postal_code_example": "514400"
 		},
 		"Xingning Shi": {
-			"local_code": "兴宁市"
+			"local_code": "兴宁市",
+			"postal_code_example": "514500"
 		}
 	}
 }

@@ -8,28 +8,36 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Badong Xian": {
-			"local_code": "巴东县"
+			"local_code": "巴东县",
+			"postal_code_example": "444300"
 		},
 		"Enshi Shi": {
-			"local_code": "恩施市"
+			"local_code": "恩施市",
+			"postal_code_example": "445000"
 		},
 		"Hefeng Xian": {
-			"local_code": "鹤峰县"
+			"local_code": "鹤峰县",
+			"postal_code_example": "445800"
 		},
 		"Jianshi Xian": {
-			"local_code": "建始县"
+			"local_code": "建始县",
+			"postal_code_example": "445300"
 		},
 		"Laifeng Xian": {
-			"local_code": "来凤县"
+			"local_code": "来凤县",
+			"postal_code_example": "445700"
 		},
 		"Lichuan Shi": {
-			"local_code": "利川市"
+			"local_code": "利川市",
+			"postal_code_example": "445400"
 		},
 		"Xianfeng Xian": {
-			"local_code": "咸丰县"
+			"local_code": "咸丰县",
+			"postal_code_example": "445600"
 		},
 		"Xuan'en Xian": {
-			"local_code": "宣恩县"
+			"local_code": "宣恩县",
+			"postal_code_example": "445500"
 		}
 	}
 }

@@ -8,22 +8,28 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Daye Shi": {
-			"local_code": "大冶市"
+			"local_code": "大冶市",
+			"postal_code_example": "435100"
 		},
 		"Huangshigang Qu": {
-			"local_code": "黄石港区"
+			"local_code": "黄石港区",
+			"postal_code_example": "435000"
 		},
 		"Tieshan Qu": {
-			"local_code": "铁山区"
+			"local_code": "铁山区",
+			"postal_code_example": "435006"
 		},
 		"Xisaishan Qu": {
-			"local_code": "西塞山区"
+			"local_code": "西塞山区",
+			"postal_code_example": "435001"
 		},
 		"Xialu Qu": {
-			"local_code": "下陆区"
+			"local_code": "下陆区",
+			"postal_code_example": "435005"
 		},
 		"Yangxin Xian": {
-			"local_code": "阳新县"
+			"local_code": "阳新县",
+			"postal_code_example": "435200"
 		}
 	}
 }

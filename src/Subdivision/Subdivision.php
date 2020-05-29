@@ -76,6 +76,13 @@ class Subdivision
     protected $postalCodePatternType;
 
     /**
+     * An example postal code which follows the postal code pattern.
+     *
+     * @var string
+     */
+    protected $postalCodeExample;
+
+    /**
      * The children.
      *
      * @param Subdivision[]
@@ -114,6 +121,7 @@ class Subdivision
             'iso_code' => [],
             'postal_code_pattern' => null,
             'postal_code_pattern_type' => PatternType::getDefault(),
+            'postal_code_example' => null,
             'children' => new ArrayCollection(),
         ];
 
@@ -127,6 +135,7 @@ class Subdivision
         $this->isoCode = $definition['iso_code'];
         $this->postalCodePattern = $definition['postal_code_pattern'];
         $this->postalCodePatternType = $definition['postal_code_pattern_type'];
+        $this->postalCodeExample = $definition['postal_code_example'];
         $this->children = $definition['children'];
     }
 
@@ -254,6 +263,21 @@ class Subdivision
     public function getPostalCodePatternType()
     {
         return $this->postalCodePatternType;
+    }
+
+    /**
+     * Gets the postal code example.
+     *
+     * This is an example postal code used to provide additional context to the
+     * end-user. It can be displayed as a placeholder, field description or as
+     * part of the validation.
+     * E.g. Zip code 12345 is not valid for Louisana (Valid example: 70001).
+     *
+     * @return string|null A valid postal code example.
+     */
+    public function getPostalCodeExample()
+    {
+        return $this->postalCodeExample;
     }
 
     /**

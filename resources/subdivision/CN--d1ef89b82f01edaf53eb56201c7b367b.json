@@ -8,22 +8,28 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Changshan Xian": {
-			"local_code": "常山县"
+			"local_code": "常山县",
+			"postal_code_example": "324200"
 		},
 		"Jiangshan Shi": {
-			"local_code": "江山市"
+			"local_code": "江山市",
+			"postal_code_example": "324100"
 		},
 		"Kaihua Xian": {
-			"local_code": "开化县"
+			"local_code": "开化县",
+			"postal_code_example": "324300"
 		},
 		"Kecheng Qu": {
-			"local_code": "柯城区"
+			"local_code": "柯城区",
+			"postal_code_example": "324000"
 		},
 		"Longyou Xian": {
-			"local_code": "龙游县"
+			"local_code": "龙游县",
+			"postal_code_example": "324400"
 		},
 		"Qujiang Qu": {
-			"local_code": "衢江区"
+			"local_code": "衢江区",
+			"postal_code_example": "324022"
 		}
 	}
 }

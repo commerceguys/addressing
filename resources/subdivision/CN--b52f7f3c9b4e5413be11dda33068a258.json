@@ -8,37 +8,48 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Chenggu Xian": {
-			"local_code": "城固县"
+			"local_code": "城固县",
+			"postal_code_example": "723200"
 		},
 		"Foping Xian": {
-			"local_code": "佛坪县"
+			"local_code": "佛坪县",
+			"postal_code_example": "723400"
 		},
 		"Hantai Qu": {
-			"local_code": "汉台区"
+			"local_code": "汉台区",
+			"postal_code_example": "723000"
 		},
 		"Liuba Xian": {
-			"local_code": "留坝县"
+			"local_code": "留坝县",
+			"postal_code_example": "724100"
 		},
 		"Lüeyang Xian": {
-			"local_code": "略阳县"
+			"local_code": "略阳县",
+			"postal_code_example": "724300"
 		},
 		"Mian Xian": {
-			"local_code": "勉县"
+			"local_code": "勉县",
+			"postal_code_example": "724200"
 		},
 		"Nanzheng Xian": {
-			"local_code": "南郑县"
+			"local_code": "南郑县",
+			"postal_code_example": "723100"
 		},
 		"Ningqiang Xian": {
-			"local_code": "宁强县"
+			"local_code": "宁强县",
+			"postal_code_example": "724400"
 		},
 		"Xixiang Xian": {
-			"local_code": "西乡县"
+			"local_code": "西乡县",
+			"postal_code_example": "723500"
 		},
 		"Yang Xian": {
-			"local_code": "洋县"
+			"local_code": "洋县",
+			"postal_code_example": "723300"
 		},
 		"Zhenba Xian": {
-			"local_code": "镇巴县"
+			"local_code": "镇巴县",
+			"postal_code_example": "723600"
 		}
 	}
 }

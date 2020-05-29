@@ -8,26 +8,33 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Beidaihe Qu": {
-			"local_code": "北戴河区"
+			"local_code": "北戴河区",
+			"postal_code_example": "066100"
 		},
 		"Changli Xian": {
-			"local_code": "昌黎县"
+			"local_code": "昌黎县",
+			"postal_code_example": "066600"
 		},
 		"Funing Xian": {
-			"local_code": "抚宁县"
+			"local_code": "抚宁县",
+			"postal_code_example": "066300"
 		},
 		"Haigang Qu": {
-			"local_code": "海港区"
+			"local_code": "海港区",
+			"postal_code_example": "066000"
 		},
 		"Lulong Xian": {
-			"local_code": "卢龙县"
+			"local_code": "卢龙县",
+			"postal_code_example": "066400"
 		},
 		"Qinglong Xian": {
 			"local_code": "青龙满族自治县",
-			"local_name": "青龙县"
+			"local_name": "青龙县",
+			"postal_code_example": "066500"
 		},
 		"Shanhaiguan Qu": {
-			"local_code": "山海关区"
+			"local_code": "山海关区",
+			"postal_code_example": "066200"
 		}
 	}
 }

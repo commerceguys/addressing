@@ -8,16 +8,20 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Dongfeng Xian": {
-			"local_code": "东丰县"
+			"local_code": "东丰县",
+			"postal_code_example": "136300"
 		},
 		"Dongliao Xian": {
-			"local_code": "东辽县"
+			"local_code": "东辽县",
+			"postal_code_example": "136600"
 		},
 		"Longshan Qu": {
-			"local_code": "龙山区"
+			"local_code": "龙山区",
+			"postal_code_example": "136200"
 		},
 		"Xi'an Qu": {
-			"local_code": "西安区"
+			"local_code": "西安区",
+			"postal_code_example": "136201"
 		}
 	}
 }

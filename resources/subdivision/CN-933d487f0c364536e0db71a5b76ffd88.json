@@ -8,59 +8,73 @@
 	"subdivisions": {
 		"Changde Shi": {
 			"local_code": "常德市",
+			"postal_code_example": "415000",
 			"has_children": true
 		},
 		"Chenzhou Shi": {
 			"local_code": "郴州市",
+			"postal_code_example": "423000",
 			"has_children": true
 		},
 		"Hengyang Shi": {
 			"local_code": "衡阳市",
+			"postal_code_example": "421001",
 			"has_children": true
 		},
 		"Huaihua Shi": {
 			"local_code": "怀化市",
+			"postal_code_example": "418000",
 			"has_children": true
 		},
 		"Loudi Shi": {
 			"local_code": "娄底市",
+			"postal_code_example": "417000",
 			"has_children": true
 		},
 		"Shaoyang Shi": {
 			"local_code": "邵阳市",
+			"postal_code_example": "422000",
 			"has_children": true
 		},
 		"Xiangtan Shi": {
 			"local_code": "湘潭市",
+			"postal_code_example": "411100",
 			"has_children": true
 		},
 		"Xiangxi Zhou": {
 			"local_code": "湘西土家族苗族自治州",
 			"local_name": "湘西州",
+			"postal_code_example": "416000",
 			"has_children": true
 		},
 		"Yiyang Shi": {
 			"local_code": "益阳市",
+			"postal_code_example": "413000",
 			"has_children": true
 		},
 		"Yongzhou Shi": {
 			"local_code": "永州市",
+			"postal_code_example": "425000",
 			"has_children": true
 		},
 		"Yueyang Shi": {
 			"local_code": "岳阳市",
+			"postal_code_example": "414000",
 			"has_children": true
 		},
 		"Zhangjiajie Shi": {
 			"local_code": "张家界市",
+			"postal_code_example": "427000",
 			"has_children": true
 		},
 		"Changsha Shi": {
 			"local_code": "长沙市",
+			"postal_code_example": "410005",
 			"has_children": true
 		},
 		"Zhuzhou Shi": {
 			"local_code": "株洲市",
+			"postal_code_example": "412000",
 			"has_children": true
 		}
 	}

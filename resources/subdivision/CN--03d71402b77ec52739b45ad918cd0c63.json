@@ -8,30 +8,38 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Fogang Xian": {
-			"local_code": "佛冈县"
+			"local_code": "佛冈县",
+			"postal_code_example": "511600"
 		},
 		"Liannan Xian": {
 			"local_code": "连南瑶族自治县",
-			"local_name": "连南县"
+			"local_name": "连南县",
+			"postal_code_example": "513300"
 		},
 		"Lianshan Xian": {
 			"local_code": "连山壮族瑶族自治县",
-			"local_name": "连山县"
+			"local_name": "连山县",
+			"postal_code_example": "513200"
 		},
 		"Lianzhou Shi": {
-			"local_code": "连州市"
+			"local_code": "连州市",
+			"postal_code_example": "513401"
 		},
 		"Qingcheng Qu": {
-			"local_code": "清城区"
+			"local_code": "清城区",
+			"postal_code_example": "511500"
 		},
 		"Qingxin Xian": {
-			"local_code": "清新县"
+			"local_code": "清新县",
+			"postal_code_example": "511800"
 		},
 		"Yangshan Xian": {
-			"local_code": "阳山县"
+			"local_code": "阳山县",
+			"postal_code_example": "513100"
 		},
 		"Yingde Shi": {
-			"local_code": "英德市"
+			"local_code": "英德市",
+			"postal_code_example": "513000"
 		}
 	}
 }

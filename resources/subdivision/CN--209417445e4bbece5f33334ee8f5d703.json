@@ -8,37 +8,48 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Baiyun Qu": {
-			"local_code": "白云区"
+			"local_code": "白云区",
+			"postal_code_example": "510080"
 		},
 		"Conghua Qu": {
-			"local_code": "从化区"
+			"local_code": "从化区",
+			"postal_code_example": "510900"
 		},
 		"Panyu Qu": {
-			"local_code": "番禺区"
+			"local_code": "番禺区",
+			"postal_code_example": "511400"
 		},
 		"Haizhu Qu": {
-			"local_code": "海珠区"
+			"local_code": "海珠区",
+			"postal_code_example": "510220"
 		},
 		"Huadu Qu": {
-			"local_code": "花都区"
+			"local_code": "花都区",
+			"postal_code_example": "510800"
 		},
 		"Huangpu Qu": {
-			"local_code": "黄埔区"
+			"local_code": "黄埔区",
+			"postal_code_example": "510700"
 		},
 		"Liwan Qu": {
-			"local_code": "荔湾区"
+			"local_code": "荔湾区",
+			"postal_code_example": "510145"
 		},
 		"Nansha Qu": {
-			"local_code": "南沙区"
+			"local_code": "南沙区",
+			"postal_code_example": "510080"
 		},
 		"Tianhe Qu": {
-			"local_code": "天河区"
+			"local_code": "天河区",
+			"postal_code_example": "510630"
 		},
 		"Yuexiu Qu": {
-			"local_code": "越秀区"
+			"local_code": "越秀区",
+			"postal_code_example": "510030"
 		},
 		"Zengcheng Qu": {
-			"local_code": "增城区"
+			"local_code": "增城区",
+			"postal_code_example": "511300"
 		}
 	}
 }

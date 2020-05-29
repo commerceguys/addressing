@@ -8,40 +8,52 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Dingbian Xian": {
-			"local_code": "定边县"
+			"local_code": "定边县",
+			"postal_code_example": "718600"
 		},
 		"Fugu Xian": {
-			"local_code": "府谷县"
+			"local_code": "府谷县",
+			"postal_code_example": "719400"
 		},
 		"Hengshan Xian": {
-			"local_code": "横山县"
+			"local_code": "横山县",
+			"postal_code_example": "719200"
 		},
 		"Jia Xian": {
-			"local_code": "佳县"
+			"local_code": "佳县",
+			"postal_code_example": "719200"
 		},
 		"Jingbian Xian": {
-			"local_code": "靖边县"
+			"local_code": "靖边县",
+			"postal_code_example": "718500"
 		},
 		"Mizhi Xian": {
-			"local_code": "米脂县"
+			"local_code": "米脂县",
+			"postal_code_example": "718100"
 		},
 		"Qingjian Xian": {
-			"local_code": "清涧县"
+			"local_code": "清涧县",
+			"postal_code_example": "718300"
 		},
 		"Shenmu Xian": {
-			"local_code": "神木县"
+			"local_code": "神木县",
+			"postal_code_example": "719300"
 		},
 		"Suide Xian": {
-			"local_code": "绥德县"
+			"local_code": "绥德县",
+			"postal_code_example": "718000"
 		},
 		"Wubu Xian": {
-			"local_code": "吴堡县"
+			"local_code": "吴堡县",
+			"postal_code_example": "718200"
 		},
 		"Yuyang Qu": {
-			"local_code": "榆阳区"
+			"local_code": "榆阳区",
+			"postal_code_example": "719000"
 		},
 		"Zizhou Xian": {
-			"local_code": "子洲县"
+			"local_code": "子洲县",
+			"postal_code_example": "718400"
 		}
 	}
 }

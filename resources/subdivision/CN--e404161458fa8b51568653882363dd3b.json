@@ -8,25 +8,32 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Guangde Xian": {
-			"local_code": "广德县"
+			"local_code": "广德县",
+			"postal_code_example": "242200"
 		},
 		"Jixi Xian": {
-			"local_code": "绩溪县"
+			"local_code": "绩溪县",
+			"postal_code_example": "245300"
 		},
 		"Jing Xian": {
-			"local_code": "泾县"
+			"local_code": "泾县",
+			"postal_code_example": "242500"
 		},
 		"Jingde Xian": {
-			"local_code": "旌德县"
+			"local_code": "旌德县",
+			"postal_code_example": "242600"
 		},
 		"Langxi Xian": {
-			"local_code": "郎溪县"
+			"local_code": "郎溪县",
+			"postal_code_example": "242100"
 		},
 		"Ningguo Shi": {
-			"local_code": "宁国市"
+			"local_code": "宁国市",
+			"postal_code_example": "242300"
 		},
 		"Xuanzhou Qu": {
-			"local_code": "宣州区"
+			"local_code": "宣州区",
+			"postal_code_example": "242000"
 		}
 	}
 }

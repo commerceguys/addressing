@@ -9,24 +9,30 @@
 	"subdivisions": {
 		"Guanling Xian": {
 			"local_code": "关岭布依族苗族自治县",
-			"local_name": "关岭县"
+			"local_name": "关岭县",
+			"postal_code_example": "561300"
 		},
 		"Pingba Xian": {
-			"local_code": "平坝县"
+			"local_code": "平坝县",
+			"postal_code_example": "561100"
 		},
 		"Puding Xian": {
-			"local_code": "普定县"
+			"local_code": "普定县",
+			"postal_code_example": "562100"
 		},
 		"Xixiu Qu": {
-			"local_code": "西秀区"
+			"local_code": "西秀区",
+			"postal_code_example": "561000"
 		},
 		"Zhenning Xian": {
 			"local_code": "镇宁布依族苗族自治县",
-			"local_name": "镇宁县"
+			"local_name": "镇宁县",
+			"postal_code_example": "561200"
 		},
 		"Ziyun Xian": {
 			"local_code": "紫云苗族布依族自治县",
-			"local_name": "紫云县"
+			"local_name": "紫云县",
+			"postal_code_example": "550800"
 		}
 	}
 }

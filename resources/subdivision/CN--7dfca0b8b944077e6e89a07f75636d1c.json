@@ -8,16 +8,20 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Lixin Xian": {
-			"local_code": "利辛县"
+			"local_code": "利辛县",
+			"postal_code_example": "236702"
 		},
 		"Mengcheng Xian": {
-			"local_code": "蒙城县"
+			"local_code": "蒙城县",
+			"postal_code_example": "233500"
 		},
 		"Qiaocheng Qu": {
-			"local_code": "谯城区"
+			"local_code": "谯城区",
+			"postal_code_example": "236800"
 		},
 		"Guoyang Xian": {
-			"local_code": "涡阳县"
+			"local_code": "涡阳县",
+			"postal_code_example": "233601"
 		}
 	}
 }

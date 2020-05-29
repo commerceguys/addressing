@@ -8,37 +8,48 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Feng Xian": {
-			"local_code": "丰县"
+			"local_code": "丰县",
+			"postal_code_example": "221700"
 		},
 		"Gulou Qu": {
-			"local_code": "鼓楼区"
+			"local_code": "鼓楼区",
+			"postal_code_example": "210005"
 		},
 		"Jiawang Qu": {
-			"local_code": "贾汪区"
+			"local_code": "贾汪区",
+			"postal_code_example": "210011"
 		},
 		"Jiuli Qu": {
-			"local_code": "九里区"
+			"local_code": "九里区",
+			"postal_code_example": "210040"
 		},
 		"Pei Xian": {
-			"local_code": "沛县"
+			"local_code": "沛县",
+			"postal_code_example": "221600"
 		},
 		"Pizhou Shi": {
-			"local_code": "邳州市"
+			"local_code": "邳州市",
+			"postal_code_example": "221300"
 		},
 		"Quanshan Qu": {
-			"local_code": "泉山区"
+			"local_code": "泉山区",
+			"postal_code_example": "210006"
 		},
 		"Suining Xian": {
-			"local_code": "睢宁县"
+			"local_code": "睢宁县",
+			"postal_code_example": "221200"
 		},
 		"Tongshan Xian": {
-			"local_code": "铜山县"
+			"local_code": "铜山县",
+			"postal_code_example": "221116"
 		},
 		"Xinyi Shi": {
-			"local_code": "新沂市"
+			"local_code": "新沂市",
+			"postal_code_example": "221400"
 		},
 		"Yunlong Qu": {
-			"local_code": "云龙区"
+			"local_code": "云龙区",
+			"postal_code_example": "210009"
 		}
 	}
 }

@@ -8,16 +8,20 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Dongzhi Xian": {
-			"local_code": "东至县"
+			"local_code": "东至县",
+			"postal_code_example": "247200"
 		},
 		"Guichi Qu": {
-			"local_code": "贵池区"
+			"local_code": "贵池区",
+			"postal_code_example": "247100"
 		},
 		"Qingyang Xian": {
-			"local_code": "青阳县"
+			"local_code": "青阳县",
+			"postal_code_example": "242800"
 		},
 		"Shitai Xian": {
-			"local_code": "石台县"
+			"local_code": "石台县",
+			"postal_code_example": "245101"
 		}
 	}
 }

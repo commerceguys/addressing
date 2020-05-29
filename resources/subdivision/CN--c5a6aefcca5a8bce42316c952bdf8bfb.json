@@ -8,23 +8,29 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Heshan Shi": {
-			"local_code": "合山市"
+			"local_code": "合山市",
+			"postal_code_example": "546500"
 		},
 		"Jinxiu Xian": {
 			"local_code": "金秀瑶族自治县",
-			"local_name": "金秀县"
+			"local_name": "金秀县",
+			"postal_code_example": "545700"
 		},
 		"Wuxuan Xian": {
-			"local_code": "武宣县"
+			"local_code": "武宣县",
+			"postal_code_example": "545900"
 		},
 		"Xiangzhou Xian": {
-			"local_code": "象州县"
+			"local_code": "象州县",
+			"postal_code_example": "545800"
 		},
 		"Xincheng Xian": {
-			"local_code": "忻城县"
+			"local_code": "忻城县",
+			"postal_code_example": "546200"
 		},
 		"Xingbin Qu": {
-			"local_code": "兴宾区"
+			"local_code": "兴宾区",
+			"postal_code_example": "546100"
 		}
 	}
 }

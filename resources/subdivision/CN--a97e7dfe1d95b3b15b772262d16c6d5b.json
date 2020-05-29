@@ -8,40 +8,52 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Fushan Qu": {
-			"local_code": "福山区"
+			"local_code": "福山区",
+			"postal_code_example": "265500"
 		},
 		"Haiyang Shi": {
-			"local_code": "海阳市"
+			"local_code": "海阳市",
+			"postal_code_example": "265100"
 		},
 		"Laishan Qu": {
-			"local_code": "莱山区"
+			"local_code": "莱山区",
+			"postal_code_example": "264600"
 		},
 		"Laiyang Shi": {
-			"local_code": "莱阳市"
+			"local_code": "莱阳市",
+			"postal_code_example": "265200"
 		},
 		"Laizhou Shi": {
-			"local_code": "莱州市"
+			"local_code": "莱州市",
+			"postal_code_example": "261400"
 		},
 		"Longkou Shi": {
-			"local_code": "龙口市"
+			"local_code": "龙口市",
+			"postal_code_example": "265700"
 		},
 		"Muping Qu": {
-			"local_code": "牟平区"
+			"local_code": "牟平区",
+			"postal_code_example": "264100"
 		},
 		"Penglai Shi": {
-			"local_code": "蓬莱市"
+			"local_code": "蓬莱市",
+			"postal_code_example": "265600"
 		},
 		"Qixia Shi": {
-			"local_code": "栖霞市"
+			"local_code": "栖霞市",
+			"postal_code_example": "265300"
 		},
 		"Changdao Xian": {
-			"local_code": "长岛县"
+			"local_code": "长岛县",
+			"postal_code_example": "265800"
 		},
 		"Zhaoyuan Shi": {
-			"local_code": "招远市"
+			"local_code": "招远市",
+			"postal_code_example": "265400"
 		},
 		"Zhifu Qu": {
-			"local_code": "芝罘区"
+			"local_code": "芝罘区",
+			"postal_code_example": "264001"
 		}
 	}
 }

@@ -8,42 +8,52 @@
 	"subdivisions": {
 		"Ankang Shi": {
 			"local_code": "安康市",
+			"postal_code_example": "725000",
 			"has_children": true
 		},
 		"Baoji Shi": {
 			"local_code": "宝鸡市",
+			"postal_code_example": "721000",
 			"has_children": true
 		},
 		"Hanzhong Shi": {
 			"local_code": "汉中市",
+			"postal_code_example": "723000",
 			"has_children": true
 		},
 		"Shangluo Shi": {
 			"local_code": "商洛市",
+			"postal_code_example": "726000",
 			"has_children": true
 		},
 		"Tongchuan Shi": {
 			"local_code": "铜川市",
+			"postal_code_example": "727000",
 			"has_children": true
 		},
 		"Weinan Shi": {
 			"local_code": "渭南市",
+			"postal_code_example": "714000",
 			"has_children": true
 		},
 		"Xi'an Shi": {
 			"local_code": "西安市",
+			"postal_code_example": "710003",
 			"has_children": true
 		},
 		"Xianyang Shi": {
 			"local_code": "咸阳市",
+			"postal_code_example": "712000",
 			"has_children": true
 		},
 		"Yan'an Shi": {
 			"local_code": "延安市",
+			"postal_code_example": "716000",
 			"has_children": true
 		},
 		"Yulin Shi": {
 			"local_code": "榆林市",
+			"postal_code_example": "719000",
 			"has_children": true
 		}
 	}

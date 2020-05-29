@@ -8,28 +8,36 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Gong'an Xian": {
-			"local_code": "公安县"
+			"local_code": "公安县",
+			"postal_code_example": "434300"
 		},
 		"Honghu Shi": {
-			"local_code": "洪湖市"
+			"local_code": "洪湖市",
+			"postal_code_example": "433200"
 		},
 		"Jianli Xian": {
-			"local_code": "监利县"
+			"local_code": "监利县",
+			"postal_code_example": "433300"
 		},
 		"Jiangling Xian": {
-			"local_code": "江陵县"
+			"local_code": "江陵县",
+			"postal_code_example": "434101"
 		},
 		"Jingzhou Qu": {
-			"local_code": "荆州区"
+			"local_code": "荆州区",
+			"postal_code_example": "434020"
 		},
 		"Shashi Qu": {
-			"local_code": "沙市区"
+			"local_code": "沙市区",
+			"postal_code_example": "434000"
 		},
 		"Shishou Shi": {
-			"local_code": "石首市"
+			"local_code": "石首市",
+			"postal_code_example": "434400"
 		},
 		"Songzi Shi": {
-			"local_code": "松滋市"
+			"local_code": "松滋市",
+			"postal_code_example": "434200"
 		}
 	}
 }

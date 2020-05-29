@@ -8,19 +8,24 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Dong Qu": {
-			"local_code": "东区"
+			"local_code": "东区",
+			"postal_code_example": "617067"
 		},
 		"Miyi Xian": {
-			"local_code": "米易县"
+			"local_code": "米易县",
+			"postal_code_example": "617200"
 		},
 		"Renhe Qu": {
-			"local_code": "仁和区"
+			"local_code": "仁和区",
+			"postal_code_example": "617061"
 		},
 		"Xi Qu": {
-			"local_code": "西区"
+			"local_code": "西区",
+			"postal_code_example": "617012"
 		},
 		"Yanbian Xian": {
-			"local_code": "盐边县"
+			"local_code": "盐边县",
+			"postal_code_example": "617100"
 		}
 	}
 }

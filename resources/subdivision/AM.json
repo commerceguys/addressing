@@ -5,57 +5,68 @@
 		"Aragatsotn": {
 			"local_code": "Արագածոտն",
 			"iso_code": "AM-AG",
-			"postal_code_pattern": "0[2-5]"
+			"postal_code_pattern": "0[2-5]",
+			"postal_code_example": "0201"
 		},
 		"Ararat": {
 			"local_code": "Արարատ",
 			"iso_code": "AM-AR",
-			"postal_code_pattern": "0[6-8]"
+			"postal_code_pattern": "0[6-8]",
+			"postal_code_example": "0601"
 		},
 		"Armavir": {
 			"local_code": "Արմավիր",
 			"iso_code": "AM-AV",
-			"postal_code_pattern": "09|1[01]"
+			"postal_code_pattern": "09|1[01]",
+			"postal_code_example": "0901"
 		},
 		"Gegharkunik": {
 			"local_code": "Գեղարքունիք",
 			"iso_code": "AM-GR",
-			"postal_code_pattern": "1[2-6]"
+			"postal_code_pattern": "1[2-6]",
+			"postal_code_example": "1201"
 		},
 		"Yerevan": {
 			"local_code": "Երևան",
 			"iso_code": "AM-ER",
-			"postal_code_pattern": "00"
+			"postal_code_pattern": "00",
+			"postal_code_example": "0000"
 		},
 		"Lori": {
 			"local_code": "Լոռի",
 			"iso_code": "AM-LO",
-			"postal_code_pattern": "1[7-9]|2[01]"
+			"postal_code_pattern": "1[7-9]|2[01]",
+			"postal_code_example": "1701"
 		},
 		"Kotayk": {
 			"local_code": "Կոտայք",
 			"iso_code": "AM-KT",
-			"postal_code_pattern": "2[2-5]"
+			"postal_code_pattern": "2[2-5]",
+			"postal_code_example": "2201"
 		},
 		"Shirak": {
 			"local_code": "Շիրակ",
 			"iso_code": "AM-SH",
-			"postal_code_pattern": "2[6-9]|3[01]"
+			"postal_code_pattern": "2[6-9]|3[01]",
+			"postal_code_example": "2601"
 		},
 		"Syunik": {
 			"local_code": "Սյունիք",
 			"iso_code": "AM-SU",
-			"postal_code_pattern": "3[2-5]"
+			"postal_code_pattern": "3[2-5]",
+			"postal_code_example": "3201"
 		},
 		"Vayots Dzor": {
 			"local_code": "Վայոց ձոր",
 			"iso_code": "AM-VD",
-			"postal_code_pattern": "3[6-8]"
+			"postal_code_pattern": "3[6-8]",
+			"postal_code_example": "3601"
 		},
 		"Tavush": {
 			"local_code": "Տավուշ",
 			"iso_code": "AM-TV",
-			"postal_code_pattern": "39|4[0-2]"
+			"postal_code_pattern": "39|4[0-2]",
+			"postal_code_example": "3901"
 		}
 	}
 }

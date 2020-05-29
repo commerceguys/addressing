@@ -8,25 +8,32 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Donghai Xian": {
-			"local_code": "东海县"
+			"local_code": "东海县",
+			"postal_code_example": "222300"
 		},
 		"Ganyu Xian": {
-			"local_code": "赣榆县"
+			"local_code": "赣榆县",
+			"postal_code_example": "222100"
 		},
 		"Guannan Xian": {
-			"local_code": "灌南县"
+			"local_code": "灌南县",
+			"postal_code_example": "222500"
 		},
 		"Guanyun Xian": {
-			"local_code": "灌云县"
+			"local_code": "灌云县",
+			"postal_code_example": "222200"
 		},
 		"Haizhou Qu": {
-			"local_code": "海州区"
+			"local_code": "海州区",
+			"postal_code_example": "222023"
 		},
 		"Lianyun Qu": {
-			"local_code": "连云区"
+			"local_code": "连云区",
+			"postal_code_example": "222042"
 		},
 		"Xinpu Qu": {
-			"local_code": "新浦区"
+			"local_code": "新浦区",
+			"postal_code_example": "222003"
 		}
 	}
 }

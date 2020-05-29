@@ -8,19 +8,24 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Heshan Qu": {
-			"local_code": "鹤山区"
+			"local_code": "鹤山区",
+			"postal_code_example": "458010"
 		},
 		"Xun Xian": {
-			"local_code": "浚县"
+			"local_code": "浚县",
+			"postal_code_example": "456250"
 		},
 		"Qibin Qu": {
-			"local_code": "淇滨区"
+			"local_code": "淇滨区",
+			"postal_code_example": "458030"
 		},
 		"Qi Xian": {
-			"local_code": "淇县"
+			"local_code": "淇县",
+			"postal_code_example": "456750"
 		},
 		"Shancheng Qu": {
-			"local_code": "山城区"
+			"local_code": "山城区",
+			"postal_code_example": "458000"
 		}
 	}
 }

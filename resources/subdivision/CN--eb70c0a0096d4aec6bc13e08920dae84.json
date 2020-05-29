@@ -8,19 +8,24 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Shancheng Qu": {
-			"local_code": "禅城区"
+			"local_code": "禅城区",
+			"postal_code_example": "528000"
 		},
 		"Gaoming Qu": {
-			"local_code": "高明区"
+			"local_code": "高明区",
+			"postal_code_example": "528500"
 		},
 		"Nanhai Qu": {
-			"local_code": "南海区"
+			"local_code": "南海区",
+			"postal_code_example": "528200"
 		},
 		"Sanshui Qu": {
-			"local_code": "三水区"
+			"local_code": "三水区",
+			"postal_code_example": "528100"
 		},
 		"Shunde Qu": {
-			"local_code": "顺德区"
+			"local_code": "顺德区",
+			"postal_code_example": "528300"
 		}
 	}
 }

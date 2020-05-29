@@ -8,46 +8,57 @@
 	"subdivisions": {
 		"Datong Shi": {
 			"local_code": "大同市",
+			"postal_code_example": "037008",
 			"has_children": true
 		},
 		"Jincheng Shi": {
 			"local_code": "晋城市",
+			"postal_code_example": "048000",
 			"has_children": true
 		},
 		"Jinzhong Shi": {
 			"local_code": "晋中市",
+			"postal_code_example": "030600",
 			"has_children": true
 		},
 		"Linfen Shi": {
 			"local_code": "临汾市",
+			"postal_code_example": "041000",
 			"has_children": true
 		},
 		"Lüliang Shi": {
 			"local_code": "吕梁市",
+			"postal_code_example": "033000",
 			"has_children": true
 		},
 		"Shuozhou Shi": {
 			"local_code": "朔州市",
+			"postal_code_example": "036000",
 			"has_children": true
 		},
 		"Taiyuan Shi": {
 			"local_code": "太原市",
+			"postal_code_example": "030082",
 			"has_children": true
 		},
 		"Xinzhou Shi": {
 			"local_code": "忻州市",
+			"postal_code_example": "034000",
 			"has_children": true
 		},
 		"Yangquan Shi": {
 			"local_code": "阳泉市",
+			"postal_code_example": "045000",
 			"has_children": true
 		},
 		"Yuncheng Shi": {
 			"local_code": "运城市",
+			"postal_code_example": "044000",
 			"has_children": true
 		},
 		"Changzhi Shi": {
 			"local_code": "长治市",
+			"postal_code_example": "046000",
 			"has_children": true
 		}
 	}

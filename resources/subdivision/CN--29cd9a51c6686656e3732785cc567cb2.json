@@ -8,37 +8,48 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Beilun Qu": {
-			"local_code": "北仑区"
+			"local_code": "北仑区",
+			"postal_code_example": "315800"
 		},
 		"Cixi Shi": {
-			"local_code": "慈溪市"
+			"local_code": "慈溪市",
+			"postal_code_example": "315300"
 		},
 		"Fenghua Shi": {
-			"local_code": "奉化市"
+			"local_code": "奉化市",
+			"postal_code_example": "315500"
 		},
 		"Haishu Qu": {
-			"local_code": "海曙区"
+			"local_code": "海曙区",
+			"postal_code_example": "315000"
 		},
 		"Jiangbei Qu": {
-			"local_code": "江北区"
+			"local_code": "江北区",
+			"postal_code_example": "315020"
 		},
 		"Jiangdong Qu": {
-			"local_code": "江东区"
+			"local_code": "江东区",
+			"postal_code_example": "315040"
 		},
 		"Ninghai Xian": {
-			"local_code": "宁海县"
+			"local_code": "宁海县",
+			"postal_code_example": "315600"
 		},
 		"Xiangshan Xian": {
-			"local_code": "象山县"
+			"local_code": "象山县",
+			"postal_code_example": "315700"
 		},
 		"Yinzhou Qu": {
-			"local_code": "鄞州区"
+			"local_code": "鄞州区",
+			"postal_code_example": "315040"
 		},
 		"Yuyao Shi": {
-			"local_code": "余姚市"
+			"local_code": "余姚市",
+			"postal_code_example": "315400"
 		},
 		"Zhenhai Qu": {
-			"local_code": "镇海区"
+			"local_code": "镇海区",
+			"postal_code_example": "315200"
 		}
 	}
 }

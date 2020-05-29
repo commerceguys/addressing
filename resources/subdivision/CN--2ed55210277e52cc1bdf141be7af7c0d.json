@@ -8,23 +8,29 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Ganzhou Qu": {
-			"local_code": "甘州区"
+			"local_code": "甘州区",
+			"postal_code_example": "734000"
 		},
 		"Gaotai Xian": {
-			"local_code": "高台县"
+			"local_code": "高台县",
+			"postal_code_example": "734300"
 		},
 		"Linze Xian": {
-			"local_code": "临泽县"
+			"local_code": "临泽县",
+			"postal_code_example": "734200"
 		},
 		"Minle Xian": {
-			"local_code": "民乐县"
+			"local_code": "民乐县",
+			"postal_code_example": "734500"
 		},
 		"Shandan Xian": {
-			"local_code": "山丹县"
+			"local_code": "山丹县",
+			"postal_code_example": "734100"
 		},
 		"Sunan Xian": {
 			"local_code": "肃南裕固族自治县",
-			"local_name": "肃南县"
+			"local_name": "肃南县",
+			"postal_code_example": "734400"
 		}
 	}
 }

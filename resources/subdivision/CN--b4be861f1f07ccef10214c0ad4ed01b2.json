@@ -8,25 +8,32 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Chongxin Xian": {
-			"local_code": "崇信县"
+			"local_code": "崇信县",
+			"postal_code_example": "744200"
 		},
 		"Huating Xian": {
-			"local_code": "华亭县"
+			"local_code": "华亭县",
+			"postal_code_example": "744100"
 		},
 		"Jingchuan Xian": {
-			"local_code": "泾川县"
+			"local_code": "泾川县",
+			"postal_code_example": "744300"
 		},
 		"Jingning Xian": {
-			"local_code": "静宁县"
+			"local_code": "静宁县",
+			"postal_code_example": "743400"
 		},
 		"Kongtong Qu": {
-			"local_code": "崆峒区"
+			"local_code": "崆峒区",
+			"postal_code_example": "744000"
 		},
 		"Lingtai Xian": {
-			"local_code": "灵台县"
+			"local_code": "灵台县",
+			"postal_code_example": "744400"
 		},
 		"Zhuangliang Xian": {
-			"local_code": "庄浪县"
+			"local_code": "庄浪县",
+			"postal_code_example": "744600"
 		}
 	}
 }

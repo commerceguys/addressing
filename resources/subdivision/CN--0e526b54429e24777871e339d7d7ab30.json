@@ -8,46 +8,59 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Gejiu Shi": {
-			"local_code": "个旧市"
+			"local_code": "个旧市",
+			"postal_code_example": "661000"
 		},
 		"Hekou Xian": {
 			"local_code": "河口瑶族自治县",
-			"local_name": "河口县"
+			"local_name": "河口县",
+			"postal_code_example": "661300"
 		},
 		"Honghe Xian": {
-			"local_code": "红河县"
+			"local_code": "红河县",
+			"postal_code_example": "654400"
 		},
 		"Jianshui Xian": {
-			"local_code": "建水县"
+			"local_code": "建水县",
+			"postal_code_example": "654300"
 		},
 		"Jinping Xian": {
 			"local_code": "金平苗族瑶族傣族自治县",
-			"local_name": "金平县"
+			"local_name": "金平县",
+			"postal_code_example": "661500"
 		},
 		"Kaiyuan Shi": {
-			"local_code": "开远市"
+			"local_code": "开远市",
+			"postal_code_example": "661600"
 		},
 		"Luxi Xian": {
-			"local_code": "泸西县"
+			"local_code": "泸西县",
+			"postal_code_example": "652400"
 		},
 		"Lüchun Xian": {
-			"local_code": "绿春县"
+			"local_code": "绿春县",
+			"postal_code_example": "662500"
 		},
 		"Mengzi Shi": {
-			"local_code": "蒙自市"
+			"local_code": "蒙自市",
+			"postal_code_example": "661100"
 		},
 		"Mile Xian": {
-			"local_code": "弥勒县"
+			"local_code": "弥勒县",
+			"postal_code_example": "652300"
 		},
 		"Pingbian Xian": {
 			"local_code": "屏边苗族自治县",
-			"local_name": "屏边县"
+			"local_name": "屏边县",
+			"postal_code_example": "661200"
 		},
 		"Shiping Xian": {
-			"local_code": "石屏县"
+			"local_code": "石屏县",
+			"postal_code_example": "662200"
 		},
 		"Yuanyang Xian": {
-			"local_code": "元阳县"
+			"local_code": "元阳县",
+			"postal_code_example": "662400"
 		}
 	}
 }

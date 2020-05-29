@@ -8,37 +8,48 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Heshun Xian": {
-			"local_code": "和顺县"
+			"local_code": "和顺县",
+			"postal_code_example": "032700"
 		},
 		"Jiexiu Shi": {
-			"local_code": "介休市"
+			"local_code": "介休市",
+			"postal_code_example": "031200"
 		},
 		"Lingshi Xian": {
-			"local_code": "灵石县"
+			"local_code": "灵石县",
+			"postal_code_example": "031300"
 		},
 		"Pingyao Xian": {
-			"local_code": "平遥县"
+			"local_code": "平遥县",
+			"postal_code_example": "031100"
 		},
 		"Qi Xian": {
-			"local_code": "祁县"
+			"local_code": "祁县",
+			"postal_code_example": "030900"
 		},
 		"Shouyang Xian": {
-			"local_code": "寿阳县"
+			"local_code": "寿阳县",
+			"postal_code_example": "045400"
 		},
 		"Taigu Xian": {
-			"local_code": "太谷县"
+			"local_code": "太谷县",
+			"postal_code_example": "030800"
 		},
 		"Xiyang Xian": {
-			"local_code": "昔阳县"
+			"local_code": "昔阳县",
+			"postal_code_example": "045400"
 		},
 		"Yuci Qu": {
-			"local_code": "榆次区"
+			"local_code": "榆次区",
+			"postal_code_example": "030600"
 		},
 		"Yushe Xian": {
-			"local_code": "榆社县"
+			"local_code": "榆社县",
+			"postal_code_example": "031800"
 		},
 		"Zuoquan Xian": {
-			"local_code": "左权县"
+			"local_code": "左权县",
+			"postal_code_example": "032600"
 		}
 	}
 }

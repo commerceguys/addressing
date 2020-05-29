@@ -8,19 +8,24 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Dangshan Xian": {
-			"local_code": "砀山县"
+			"local_code": "砀山县",
+			"postal_code_example": "235300"
 		},
 		"Lingbi Xian": {
-			"local_code": "灵璧县"
+			"local_code": "灵璧县",
+			"postal_code_example": "234200"
 		},
 		"Si Xian": {
-			"local_code": "泗县"
+			"local_code": "泗县",
+			"postal_code_example": "234300"
 		},
 		"Xiao Xian": {
-			"local_code": "萧县"
+			"local_code": "萧县",
+			"postal_code_example": "235200"
 		},
 		"Yongqiao Qu": {
-			"local_code": "埇桥区"
+			"local_code": "埇桥区",
+			"postal_code_example": "234000"
 		}
 	}
 }

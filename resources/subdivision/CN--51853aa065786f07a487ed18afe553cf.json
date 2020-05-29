@@ -8,28 +8,36 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Baoxing Xian": {
-			"local_code": "宝兴县"
+			"local_code": "宝兴县",
+			"postal_code_example": "625700"
 		},
 		"Hanyuan Xian": {
-			"local_code": "汉源县"
+			"local_code": "汉源县",
+			"postal_code_example": "625300"
 		},
 		"Lushan Xian": {
-			"local_code": "芦山县"
+			"local_code": "芦山县",
+			"postal_code_example": "625600"
 		},
 		"Mingshan Qu": {
-			"local_code": "名山区"
+			"local_code": "名山区",
+			"postal_code_example": "625100"
 		},
 		"Shimian Xian": {
-			"local_code": "石棉县"
+			"local_code": "石棉县",
+			"postal_code_example": "625400"
 		},
 		"Tianquan Xian": {
-			"local_code": "天全县"
+			"local_code": "天全县",
+			"postal_code_example": "625500"
 		},
 		"Yingjing Xian": {
-			"local_code": "荥经县"
+			"local_code": "荥经县",
+			"postal_code_example": "625200"
 		},
 		"Yucheng Qu": {
-			"local_code": "雨城区"
+			"local_code": "雨城区",
+			"postal_code_example": "625000"
 		}
 	}
 }

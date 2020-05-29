@@ -8,19 +8,24 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Shuyang Xian": {
-			"local_code": "沭阳县"
+			"local_code": "沭阳县",
+			"postal_code_example": "223600"
 		},
 		"Sihong Xian": {
-			"local_code": "泗洪县"
+			"local_code": "泗洪县",
+			"postal_code_example": "223900"
 		},
 		"Siyang Xian": {
-			"local_code": "泗阳县"
+			"local_code": "泗阳县",
+			"postal_code_example": "223700"
 		},
 		"Sucheng Qu": {
-			"local_code": "宿城区"
+			"local_code": "宿城区",
+			"postal_code_example": "223800"
 		},
 		"Suyu Qu": {
-			"local_code": "宿豫区"
+			"local_code": "宿豫区",
+			"postal_code_example": "223800"
 		}
 	}
 }

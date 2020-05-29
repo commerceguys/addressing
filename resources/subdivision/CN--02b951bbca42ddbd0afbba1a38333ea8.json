@@ -8,32 +8,41 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Jinyun Xian": {
-			"local_code": "缙云县"
+			"local_code": "缙云县",
+			"postal_code_example": "321400"
 		},
 		"Jingning Xian": {
 			"local_code": "景宁畲族自治县",
-			"local_name": "景宁县"
+			"local_name": "景宁县",
+			"postal_code_example": "323500"
 		},
 		"Liandu Qu": {
-			"local_code": "莲都区"
+			"local_code": "莲都区",
+			"postal_code_example": "323000"
 		},
 		"Longquan Shi": {
-			"local_code": "龙泉市"
+			"local_code": "龙泉市",
+			"postal_code_example": "323700"
 		},
 		"Qingtian Xian": {
-			"local_code": "青田县"
+			"local_code": "青田县",
+			"postal_code_example": "323900"
 		},
 		"Qingyuan Xian": {
-			"local_code": "庆元县"
+			"local_code": "庆元县",
+			"postal_code_example": "323800"
 		},
 		"Songyang Xian": {
-			"local_code": "松阳县"
+			"local_code": "松阳县",
+			"postal_code_example": "323400"
 		},
 		"Suichang Xian": {
-			"local_code": "遂昌县"
+			"local_code": "遂昌县",
+			"postal_code_example": "323300"
 		},
 		"Yunhe Xian": {
-			"local_code": "云和县"
+			"local_code": "云和县",
+			"postal_code_example": "323600"
 		}
 	}
 }

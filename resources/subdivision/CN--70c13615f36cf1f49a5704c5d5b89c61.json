@@ -8,28 +8,36 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Dongshan Qu": {
-			"local_code": "东山区"
+			"local_code": "东山区",
+			"postal_code_example": "154106"
 		},
 		"Gongnong Qu": {
-			"local_code": "工农区"
+			"local_code": "工农区",
+			"postal_code_example": "154101"
 		},
 		"Luobei Xian": {
-			"local_code": "萝北县"
+			"local_code": "萝北县",
+			"postal_code_example": "154200"
 		},
 		"Nanshan Qu": {
-			"local_code": "南山区"
+			"local_code": "南山区",
+			"postal_code_example": "154104"
 		},
 		"Suibin Xian": {
-			"local_code": "绥滨县"
+			"local_code": "绥滨县",
+			"postal_code_example": "156200"
 		},
 		"Xiangyang Qu": {
-			"local_code": "向阳区"
+			"local_code": "向阳区",
+			"postal_code_example": "154100"
 		},
 		"Xing'an Qu": {
-			"local_code": "兴安区"
+			"local_code": "兴安区",
+			"postal_code_example": "154102"
 		},
 		"Xingshan Qu": {
-			"local_code": "兴山区"
+			"local_code": "兴山区",
+			"postal_code_example": "154105"
 		}
 	}
 }

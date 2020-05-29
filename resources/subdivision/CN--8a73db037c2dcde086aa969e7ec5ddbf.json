@@ -8,43 +8,56 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Cheng Qu": {
-			"local_code": "城区"
+			"local_code": "城区",
+			"postal_code_example": "046011"
 		},
 		"Huguan Xian": {
-			"local_code": "壶关县"
+			"local_code": "壶关县",
+			"postal_code_example": "047300"
 		},
 		"Jiao Qu": {
-			"local_code": "郊区"
+			"local_code": "郊区",
+			"postal_code_example": "046011"
 		},
 		"Licheng Xian": {
-			"local_code": "黎城县"
+			"local_code": "黎城县",
+			"postal_code_example": "047600"
 		},
 		"Lucheng Shi": {
-			"local_code": "潞城市"
+			"local_code": "潞城市",
+			"postal_code_example": "047500"
 		},
 		"Pingshun Xian": {
-			"local_code": "平顺县"
+			"local_code": "平顺县",
+			"postal_code_example": "047400"
 		},
 		"Qin Xian": {
-			"local_code": "沁县"
+			"local_code": "沁县",
+			"postal_code_example": "046400"
 		},
 		"Qinyuan Xian": {
-			"local_code": "沁源县"
+			"local_code": "沁源县",
+			"postal_code_example": "046500"
 		},
 		"Tunliu Xian": {
-			"local_code": "屯留县"
+			"local_code": "屯留县",
+			"postal_code_example": "046100"
 		},
 		"Wuxiang Xian": {
-			"local_code": "武乡县"
+			"local_code": "武乡县",
+			"postal_code_example": "046300"
 		},
 		"Xiangyuan Xian": {
-			"local_code": "襄垣县"
+			"local_code": "襄垣县",
+			"postal_code_example": "046200"
 		},
 		"Changzhi Xian": {
-			"local_code": "长治县"
+			"local_code": "长治县",
+			"postal_code_example": "047100"
 		},
 		"Zhangzi Xian": {
-			"local_code": "长子县"
+			"local_code": "长子县",
+			"postal_code_example": "046600"
 		}
 	}
 }

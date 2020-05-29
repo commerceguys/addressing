@@ -9,29 +9,37 @@
 	"subdivisions": {
 		"Dongxiangzu Xian": {
 			"local_code": "东乡族自治县",
-			"local_name": "东乡族县"
+			"local_name": "东乡族县",
+			"postal_code_example": "731400"
 		},
 		"Guanghe Xian": {
-			"local_code": "广河县"
+			"local_code": "广河县",
+			"postal_code_example": "731300"
 		},
 		"Hezheng Xian": {
-			"local_code": "和政县"
+			"local_code": "和政县",
+			"postal_code_example": "731200"
 		},
 		"Jishishan Xian": {
 			"local_code": "积石山保安族东乡族撒拉族自治县",
-			"local_name": "积石山县"
+			"local_name": "积石山县",
+			"postal_code_example": "731700"
 		},
 		"Kangle Xian": {
-			"local_code": "康乐县"
+			"local_code": "康乐县",
+			"postal_code_example": "731500"
 		},
 		"Linxia Shi": {
-			"local_code": "临夏市"
+			"local_code": "临夏市",
+			"postal_code_example": "731100"
 		},
 		"Linxia Xian": {
-			"local_code": "临夏县"
+			"local_code": "临夏县",
+			"postal_code_example": "731800"
 		},
 		"Yongjing Xian": {
-			"local_code": "永靖县"
+			"local_code": "永靖县",
+			"postal_code_example": "731600"
 		}
 	}
 }

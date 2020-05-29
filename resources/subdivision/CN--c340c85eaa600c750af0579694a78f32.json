@@ -8,16 +8,20 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Donggang Qu": {
-			"local_code": "东港区"
+			"local_code": "东港区",
+			"postal_code_example": "276800"
 		},
 		"Ju Xian": {
-			"local_code": "莒县"
+			"local_code": "莒县",
+			"postal_code_example": "276500"
 		},
 		"Lanshan Qu": {
-			"local_code": "岚山区"
+			"local_code": "岚山区",
+			"postal_code_example": "276808"
 		},
 		"Wulian Xian": {
-			"local_code": "五莲县"
+			"local_code": "五莲县",
+			"postal_code_example": "262300"
 		}
 	}
 }

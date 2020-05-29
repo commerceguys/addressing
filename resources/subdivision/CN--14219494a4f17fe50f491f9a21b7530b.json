@@ -8,37 +8,48 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Daguan Xian": {
-			"local_code": "大关县"
+			"local_code": "大关县",
+			"postal_code_example": "657400"
 		},
 		"Ludian Xian": {
-			"local_code": "鲁甸县"
+			"local_code": "鲁甸县",
+			"postal_code_example": "657100"
 		},
 		"Qiaojia Xian": {
-			"local_code": "巧家县"
+			"local_code": "巧家县",
+			"postal_code_example": "654600"
 		},
 		"Shuifu Xian": {
-			"local_code": "水富县"
+			"local_code": "水富县",
+			"postal_code_example": "657800"
 		},
 		"Suijiang Xian": {
-			"local_code": "绥江县"
+			"local_code": "绥江县",
+			"postal_code_example": "657700"
 		},
 		"Weixin Xian": {
-			"local_code": "威信县"
+			"local_code": "威信县",
+			"postal_code_example": "657900"
 		},
 		"Yanjin Xian": {
-			"local_code": "盐津县"
+			"local_code": "盐津县",
+			"postal_code_example": "657500"
 		},
 		"Yiliang Xian": {
-			"local_code": "彝良县"
+			"local_code": "彝良县",
+			"postal_code_example": "657600"
 		},
 		"Yongshan Xian": {
-			"local_code": "永善县"
+			"local_code": "永善县",
+			"postal_code_example": "657300"
 		},
 		"Zhaoyang Qu": {
-			"local_code": "昭阳区"
+			"local_code": "昭阳区",
+			"postal_code_example": "657000"
 		},
 		"Zhenxiong Xian": {
-			"local_code": "镇雄县"
+			"local_code": "镇雄县",
+			"postal_code_example": "657200"
 		}
 	}
 }

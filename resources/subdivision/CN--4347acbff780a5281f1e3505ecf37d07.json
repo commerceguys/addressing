@@ -8,40 +8,52 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Jiaxiang Xian": {
-			"local_code": "嘉祥县"
+			"local_code": "嘉祥县",
+			"postal_code_example": "272400"
 		},
 		"Jinxiang Xian": {
-			"local_code": "金乡县"
+			"local_code": "金乡县",
+			"postal_code_example": "272200"
 		},
 		"Liangshan Xian": {
-			"local_code": "梁山县"
+			"local_code": "梁山县",
+			"postal_code_example": "272600"
 		},
 		"Qufu Shi": {
-			"local_code": "曲阜市"
+			"local_code": "曲阜市",
+			"postal_code_example": "273100"
 		},
 		"Rencheng Qu": {
-			"local_code": "任城区"
+			"local_code": "任城区",
+			"postal_code_example": "272113"
 		},
 		"Shizhong Qu": {
-			"local_code": "市中区"
+			"local_code": "市中区",
+			"postal_code_example": "272133"
 		},
 		"Sishui Xian": {
-			"local_code": "泗水县"
+			"local_code": "泗水县",
+			"postal_code_example": "273200"
 		},
 		"Weishan Xian": {
-			"local_code": "微山县"
+			"local_code": "微山县",
+			"postal_code_example": "277600"
 		},
 		"Wenshang Xian": {
-			"local_code": "汶上县"
+			"local_code": "汶上县",
+			"postal_code_example": "272501"
 		},
 		"Yanzhou Shi": {
-			"local_code": "兖州市"
+			"local_code": "兖州市",
+			"postal_code_example": "272000"
 		},
 		"Yutai Xian": {
-			"local_code": "鱼台县"
+			"local_code": "鱼台县",
+			"postal_code_example": "272300"
 		},
 		"Zoucheng Shi": {
-			"local_code": "邹城市"
+			"local_code": "邹城市",
+			"postal_code_example": "273500"
 		}
 	}
 }

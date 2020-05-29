@@ -8,28 +8,36 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Dingyuan Xian": {
-			"local_code": "定远县"
+			"local_code": "定远县",
+			"postal_code_example": "233201"
 		},
 		"Fengyang Xian": {
-			"local_code": "凤阳县"
+			"local_code": "凤阳县",
+			"postal_code_example": "233100"
 		},
 		"Lai'an Xian": {
-			"local_code": "来安县"
+			"local_code": "来安县",
+			"postal_code_example": "239200"
 		},
 		"Liangya Qu": {
-			"local_code": "琅琊区"
+			"local_code": "琅琊区",
+			"postal_code_example": "238058"
 		},
 		"Mingguang Shi": {
-			"local_code": "明光市"
+			"local_code": "明光市",
+			"postal_code_example": "239400"
 		},
 		"Nanqiao Qu": {
-			"local_code": "南谯区"
+			"local_code": "南谯区",
+			"postal_code_example": "239001"
 		},
 		"Quanjiao Xian": {
-			"local_code": "全椒县"
+			"local_code": "全椒县",
+			"postal_code_example": "239500"
 		},
 		"Tianchang Shi": {
-			"local_code": "天长市"
+			"local_code": "天长市",
+			"postal_code_example": "239300"
 		}
 	}
 }

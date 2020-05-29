@@ -8,19 +8,24 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Chengxiang Qu": {
-			"local_code": "城厢区"
+			"local_code": "城厢区",
+			"postal_code_example": "351100"
 		},
 		"Hanjiang Qu": {
-			"local_code": "涵江区"
+			"local_code": "涵江区",
+			"postal_code_example": "351111"
 		},
 		"Licheng Qu": {
-			"local_code": "荔城区"
+			"local_code": "荔城区",
+			"postal_code_example": "351100"
 		},
 		"Xianyou Xian": {
-			"local_code": "仙游县"
+			"local_code": "仙游县",
+			"postal_code_example": "351200"
 		},
 		"Xiuyu Qu": {
-			"local_code": "秀屿区"
+			"local_code": "秀屿区",
+			"postal_code_example": "351152"
 		}
 	}
 }

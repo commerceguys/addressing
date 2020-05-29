@@ -8,35 +8,45 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Lechang Shi": {
-			"local_code": "乐昌市"
+			"local_code": "乐昌市",
+			"postal_code_example": "512200"
 		},
 		"Nanxiong Shi": {
-			"local_code": "南雄市"
+			"local_code": "南雄市",
+			"postal_code_example": "512400"
 		},
 		"Qujiang Qu": {
-			"local_code": "曲江区"
+			"local_code": "曲江区",
+			"postal_code_example": "512100"
 		},
 		"Renhua Xian": {
-			"local_code": "仁化县"
+			"local_code": "仁化县",
+			"postal_code_example": "512300"
 		},
 		"Ruyuan Xian": {
 			"local_code": "乳源瑶族自治县",
-			"local_name": "乳源县"
+			"local_name": "乳源县",
+			"postal_code_example": "512700"
 		},
 		"Shixing Xian": {
-			"local_code": "始兴县"
+			"local_code": "始兴县",
+			"postal_code_example": "512500"
 		},
 		"Wengyuan Xian": {
-			"local_code": "翁源县"
+			"local_code": "翁源县",
+			"postal_code_example": "512600"
 		},
 		"Wujiang Qu": {
-			"local_code": "武江区"
+			"local_code": "武江区",
+			"postal_code_example": "512025"
 		},
 		"Xinfeng Xian": {
-			"local_code": "新丰县"
+			"local_code": "新丰县",
+			"postal_code_example": "511100"
 		},
 		"Zhenjiang Qu": {
-			"local_code": "浈江区"
+			"local_code": "浈江区",
+			"postal_code_example": "512023"
 		}
 	}
 }

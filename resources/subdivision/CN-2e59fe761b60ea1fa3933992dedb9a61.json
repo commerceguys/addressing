@@ -8,30 +8,37 @@
 	"subdivisions": {
 		"Ngari Diqu": {
 			"local_code": "阿里地区",
+			"postal_code_example": "859000",
 			"has_children": true
 		},
 		"Qamdo Diqu": {
 			"local_code": "昌都地区",
+			"postal_code_example": "854000",
 			"has_children": true
 		},
 		"Lhasa Shi": {
 			"local_code": "拉萨市",
+			"postal_code_example": "850012",
 			"has_children": true
 		},
 		"Nyingchi Diqu": {
 			"local_code": "林芝地区",
+			"postal_code_example": "860000",
 			"has_children": true
 		},
 		"Nagqu Diqu": {
 			"local_code": "那曲地区",
+			"postal_code_example": "852000",
 			"has_children": true
 		},
 		"Xigazê Diqu": {
 			"local_code": "日喀则地区",
+			"postal_code_example": "857000",
 			"has_children": true
 		},
 		"Shannan Diqu": {
 			"local_code": "山南地区",
+			"postal_code_example": "856000",
 			"has_children": true
 		}
 	}

@@ -8,37 +8,48 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Bo'ai Xian": {
-			"local_code": "博爱县"
+			"local_code": "博爱县",
+			"postal_code_example": "454450"
 		},
 		"Jiyuan Shi": {
-			"local_code": "济源市"
+			"local_code": "济源市",
+			"postal_code_example": "454650"
 		},
 		"Jiefang Qu": {
-			"local_code": "解放区"
+			"local_code": "解放区",
+			"postal_code_example": "454000"
 		},
 		"Macun Qu": {
-			"local_code": "马村区"
+			"local_code": "马村区",
+			"postal_code_example": "454171"
 		},
 		"Mengzhou Shi": {
-			"local_code": "孟州市"
+			"local_code": "孟州市",
+			"postal_code_example": "454750"
 		},
 		"Qinyang Shi": {
-			"local_code": "沁阳市"
+			"local_code": "沁阳市",
+			"postal_code_example": "454550"
 		},
 		"Shanyang Qu": {
-			"local_code": "山阳区"
+			"local_code": "山阳区",
+			"postal_code_example": "454002"
 		},
 		"Wen Xian": {
-			"local_code": "温县"
+			"local_code": "温县",
+			"postal_code_example": "454850"
 		},
 		"Wuzhi Xian": {
-			"local_code": "武陟县"
+			"local_code": "武陟县",
+			"postal_code_example": "454950"
 		},
 		"Xiwu Xian": {
-			"local_code": "修武县"
+			"local_code": "修武县",
+			"postal_code_example": "454350"
 		},
 		"Zhongzhan Qu": {
-			"local_code": "中站区"
+			"local_code": "中站区",
+			"postal_code_example": "454191"
 		}
 	}
 }

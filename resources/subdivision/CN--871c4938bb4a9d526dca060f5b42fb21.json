@@ -8,46 +8,60 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Fengnan Qu": {
-			"local_code": "丰南区"
+			"local_code": "丰南区",
+			"postal_code_example": "063300"
 		},
 		"Fengrun Qu": {
-			"local_code": "丰润区"
+			"local_code": "丰润区",
+			"postal_code_example": "063030"
 		},
 		"Guye Qu": {
-			"local_code": "古冶区"
+			"local_code": "古冶区",
+			"postal_code_example": "063104"
 		},
 		"Kaiping Qu": {
-			"local_code": "开平区"
+			"local_code": "开平区",
+			"postal_code_example": "063021"
 		},
 		"Leting Xian": {
-			"local_code": "乐亭县"
+			"local_code": "乐亭县",
+			"postal_code_example": "063600"
 		},
 		"Lubei Qu": {
-			"local_code": "路北区"
+			"local_code": "路北区",
+			"postal_code_example": "063015"
 		},
 		"Lunan Qu": {
-			"local_code": "路南区"
+			"local_code": "路南区",
+			"postal_code_example": "063017"
 		},
 		"Luannan Xian": {
-			"local_code": "滦南县"
+			"local_code": "滦南县",
+			"postal_code_example": "063500"
 		},
 		"Luan Xian": {
-			"local_code": "滦县"
+			"local_code": "滦县",
+			"postal_code_example": "063700"
 		},
 		"Qian'an Shi": {
-			"local_code": "迁安市"
+			"local_code": "迁安市",
+			"postal_code_example": "064400"
 		},
 		"Qianxi Xian": {
-			"local_code": "迁西县"
+			"local_code": "迁西县",
+			"postal_code_example": "064300"
 		},
 		"Tanghai Xian": {
-			"local_code": "唐海县"
+			"local_code": "唐海县",
+			"postal_code_example": "063200"
 		},
 		"Yutian Xian": {
-			"local_code": "玉田县"
+			"local_code": "玉田县",
+			"postal_code_example": "064100"
 		},
 		"Zunhua Shi": {
-			"local_code": "遵化市"
+			"local_code": "遵化市",
+			"postal_code_example": "064200"
 		}
 	}
 }

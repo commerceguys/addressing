@@ -8,34 +8,44 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Baofeng Xian": {
-			"local_code": "宝丰县"
+			"local_code": "宝丰县",
+			"postal_code_example": "467400"
 		},
 		"Jia Xian": {
-			"local_code": "郏县"
+			"local_code": "郏县",
+			"postal_code_example": "467100"
 		},
 		"Lushan Xian": {
-			"local_code": "鲁山县"
+			"local_code": "鲁山县",
+			"postal_code_example": "467300"
 		},
 		"Ruzhou Shi": {
-			"local_code": "汝州市"
+			"local_code": "汝州市",
+			"postal_code_example": "467500"
 		},
 		"Shilong Qu": {
-			"local_code": "石龙区"
+			"local_code": "石龙区",
+			"postal_code_example": "467045"
 		},
 		"Weidong Qu": {
-			"local_code": "卫东区"
+			"local_code": "卫东区",
+			"postal_code_example": "467021"
 		},
 		"Wugang Shi": {
-			"local_code": "舞钢市"
+			"local_code": "舞钢市",
+			"postal_code_example": "462500"
 		},
 		"Xinhua Qu": {
-			"local_code": "新华区"
+			"local_code": "新华区",
+			"postal_code_example": "467002"
 		},
 		"Ye Xian": {
-			"local_code": "叶县"
+			"local_code": "叶县",
+			"postal_code_example": "467200"
 		},
 		"Zhanhe Qu": {
-			"local_code": "湛河区"
+			"local_code": "湛河区",
+			"postal_code_example": "467000"
 		}
 	}
 }

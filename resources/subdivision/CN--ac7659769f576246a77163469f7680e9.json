@@ -8,25 +8,32 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Bincheng Qu": {
-			"local_code": "滨城区"
+			"local_code": "滨城区",
+			"postal_code_example": "256613"
 		},
 		"Boxing Xian": {
-			"local_code": "博兴县"
+			"local_code": "博兴县",
+			"postal_code_example": "256200"
 		},
 		"Huimin Xian": {
-			"local_code": "惠民县"
+			"local_code": "惠民县",
+			"postal_code_example": "251700"
 		},
 		"Wudi Xian": {
-			"local_code": "无棣县"
+			"local_code": "无棣县",
+			"postal_code_example": "251900"
 		},
 		"Yangxin Xian": {
-			"local_code": "阳信县"
+			"local_code": "阳信县",
+			"postal_code_example": "251800"
 		},
 		"Zhanhua Xian": {
-			"local_code": "沾化县"
+			"local_code": "沾化县",
+			"postal_code_example": "256800"
 		},
 		"Zouping Xian": {
-			"local_code": "邹平县"
+			"local_code": "邹平县",
+			"postal_code_example": "256200"
 		}
 	}
 }

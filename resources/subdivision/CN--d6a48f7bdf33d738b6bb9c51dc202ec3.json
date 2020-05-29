@@ -8,55 +8,72 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Cuiluan Qu": {
-			"local_code": "翠峦区"
+			"local_code": "翠峦区",
+			"postal_code_example": "153013"
 		},
 		"Dailing Qu": {
-			"local_code": "带岭区"
+			"local_code": "带岭区",
+			"postal_code_example": "153106"
 		},
 		"Hongxing Qu": {
-			"local_code": "红星区"
+			"local_code": "红星区",
+			"postal_code_example": "153035"
 		},
 		"Jiayin Xian": {
-			"local_code": "嘉荫县"
+			"local_code": "嘉荫县",
+			"postal_code_example": "153200"
 		},
 		"Jinshantun Qu": {
-			"local_code": "金山屯区"
+			"local_code": "金山屯区",
+			"postal_code_example": "152026"
 		},
 		"Meixi Qu": {
-			"local_code": "美溪区"
+			"local_code": "美溪区",
+			"postal_code_example": "153021"
 		},
 		"Nancha Qu": {
-			"local_code": "南岔区"
+			"local_code": "南岔区",
+			"postal_code_example": "153100"
 		},
 		"Shangganling Qu": {
-			"local_code": "上甘岭区"
+			"local_code": "上甘岭区",
+			"postal_code_example": "153032"
 		},
 		"Tangwanghe Qu": {
-			"local_code": "汤旺河区"
+			"local_code": "汤旺河区",
+			"postal_code_example": "153037"
 		},
 		"Tieli Shi": {
-			"local_code": "铁力市"
+			"local_code": "铁力市",
+			"postal_code_example": "152500"
 		},
 		"Wumahe Qu": {
-			"local_code": "乌马河区"
+			"local_code": "乌马河区",
+			"postal_code_example": "153011"
 		},
 		"Wuyiling Qu": {
-			"local_code": "乌伊岭区"
+			"local_code": "乌伊岭区",
+			"postal_code_example": "153038"
 		},
 		"Wuying Qu": {
-			"local_code": "五营区"
+			"local_code": "五营区",
+			"postal_code_example": "153033"
 		},
 		"Xilin Qu": {
-			"local_code": "西林区"
+			"local_code": "西林区",
+			"postal_code_example": "153025"
 		},
 		"Xinqing Qu": {
-			"local_code": "新青区"
+			"local_code": "新青区",
+			"postal_code_example": "153036"
 		},
 		"Yichun Qu": {
-			"local_code": "伊春区"
+			"local_code": "伊春区",
+			"postal_code_example": "153000"
 		},
 		"Youhao Qu": {
-			"local_code": "友好区"
+			"local_code": "友好区",
+			"postal_code_example": "153031"
 		}
 	}
 }

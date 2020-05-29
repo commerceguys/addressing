@@ -280,6 +280,10 @@ function create_address_format_definition($countryCode, $rawDefinition)
     $addressFormat['postal_code_type'] = $rawDefinition['zip_name_type'];
     if (isset($rawDefinition['zip'])) {
         $addressFormat['postal_code_pattern'] = $rawDefinition['zip'];
+        if (isset($rawDefinition['zipex'])) {
+          $postalCodeExamples = explode(',' , $rawDefinition['zipex']);
+          $addressFormat['postal_code_example'] = $postalCodeExamples[0];
+        }
     }
     if (isset($rawDefinition['postprefix'])) {
         // Workaround for https://github.com/googlei18n/libaddressinput/issues/72.
@@ -357,6 +361,10 @@ function create_subdivision_definition($countryCode, $code, $rawDefinition)
         // There are more than 12 000 subdivisions, but only a few Chinese
         // ones specify a full pattern. Therefore, the postal_code_pattern_type
         // value is the same for most subdivisions, and omitted to save space.
+    }
+    if (isset($rawDefinition['zipex'])) {
+      $postalCodeExamples = explode(',' , $rawDefinition['zipex']);
+      $subdivision['postal_code_example'] = $postalCodeExamples[0];
     }
 
     return $subdivision;

@@ -8,28 +8,36 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Chuzhou Qu": {
-			"local_code": "楚州区"
+			"local_code": "楚州区",
+			"postal_code_example": "223200"
 		},
 		"Hongze Xian": {
-			"local_code": "洪泽县"
+			"local_code": "洪泽县",
+			"postal_code_example": "223100"
 		},
 		"Huaiyin Qu": {
-			"local_code": "淮阴区"
+			"local_code": "淮阴区",
+			"postal_code_example": "223300"
 		},
 		"Jinhu Xian": {
-			"local_code": "金湖县"
+			"local_code": "金湖县",
+			"postal_code_example": "211600"
 		},
 		"Lianshui Xian": {
-			"local_code": "涟水县"
+			"local_code": "涟水县",
+			"postal_code_example": "223400"
 		},
 		"Qinghe Qu": {
-			"local_code": "清河区"
+			"local_code": "清河区",
+			"postal_code_example": "223001"
 		},
 		"Qingpu Qu": {
-			"local_code": "清浦区"
+			"local_code": "清浦区",
+			"postal_code_example": "223002"
 		},
 		"Xuyi Xian": {
-			"local_code": "盱眙县"
+			"local_code": "盱眙县",
+			"postal_code_example": "211700"
 		}
 	}
 }

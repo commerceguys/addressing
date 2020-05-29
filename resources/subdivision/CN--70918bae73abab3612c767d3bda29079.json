@@ -8,41 +8,53 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Bachu Xian": {
-			"local_code": "巴楚县"
+			"local_code": "巴楚县",
+			"postal_code_example": "843800"
 		},
 		"Jiashi Xian": {
-			"local_code": "伽师县"
+			"local_code": "伽师县",
+			"postal_code_example": "844300"
 		},
 		"Kashi Shi": {
-			"local_code": "喀什市"
+			"local_code": "喀什市",
+			"postal_code_example": "844000"
 		},
 		"Markit Xian": {
-			"local_code": "麦盖提县"
+			"local_code": "麦盖提县",
+			"postal_code_example": "844600"
 		},
 		"Shache Xian": {
-			"local_code": "莎车县"
+			"local_code": "莎车县",
+			"postal_code_example": "844700"
 		},
 		"Shufu Xian": {
-			"local_code": "疏附县"
+			"local_code": "疏附县",
+			"postal_code_example": "844100"
 		},
 		"Shule Xian": {
-			"local_code": "疏勒县"
+			"local_code": "疏勒县",
+			"postal_code_example": "844200"
 		},
 		"Taxkorgan Xian": {
 			"local_code": "塔什库尔干塔吉克自治县",
-			"local_name": "塔什库尔干县"
+			"local_name": "塔什库尔干县",
+			"postal_code_example": "845250"
 		},
 		"Yecheng Xian": {
-			"local_code": "叶城县"
+			"local_code": "叶城县",
+			"postal_code_example": "844900"
 		},
 		"Yengisar Xian": {
-			"local_code": "英吉沙县"
+			"local_code": "英吉沙县",
+			"postal_code_example": "844500"
 		},
 		"Yopurga Xian": {
-			"local_code": "岳普湖县"
+			"local_code": "岳普湖县",
+			"postal_code_example": "844400"
 		},
 		"Zepu Xian": {
-			"local_code": "泽普县"
+			"local_code": "泽普县",
+			"postal_code_example": "844800"
 		}
 	}
 }

@@ -8,19 +8,24 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Jingyuan Xian": {
-			"local_code": "泾源县"
+			"local_code": "泾源县",
+			"postal_code_example": "756400"
 		},
 		"Longde Xian": {
-			"local_code": "隆德县"
+			"local_code": "隆德县",
+			"postal_code_example": "756300"
 		},
 		"Pengyang Xian": {
-			"local_code": "彭阳县"
+			"local_code": "彭阳县",
+			"postal_code_example": "756500"
 		},
 		"Xiji Xian": {
-			"local_code": "西吉县"
+			"local_code": "西吉县",
+			"postal_code_example": "756200"
 		},
 		"Yuanzhou Qu": {
-			"local_code": "原州区"
+			"local_code": "原州区",
+			"postal_code_example": "756000"
 		}
 	}
 }

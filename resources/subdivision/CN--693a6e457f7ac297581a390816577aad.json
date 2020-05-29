@@ -8,40 +8,52 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Datian Xian": {
-			"local_code": "大田县"
+			"local_code": "大田县",
+			"postal_code_example": "366100"
 		},
 		"Jianning Xian": {
-			"local_code": "建宁县"
+			"local_code": "建宁县",
+			"postal_code_example": "354500"
 		},
 		"Jiangle Xian": {
-			"local_code": "将乐县"
+			"local_code": "将乐县",
+			"postal_code_example": "353300"
 		},
 		"Meilie Qu": {
-			"local_code": "梅列区"
+			"local_code": "梅列区",
+			"postal_code_example": "365000"
 		},
 		"Mingxi Xian": {
-			"local_code": "明溪县"
+			"local_code": "明溪县",
+			"postal_code_example": "365200"
 		},
 		"Ninghua Xian": {
-			"local_code": "宁化县"
+			"local_code": "宁化县",
+			"postal_code_example": "365400"
 		},
 		"Qingliu Xian": {
-			"local_code": "清流县"
+			"local_code": "清流县",
+			"postal_code_example": "365300"
 		},
 		"Sanyuan Qu": {
-			"local_code": "三元区"
+			"local_code": "三元区",
+			"postal_code_example": "365001"
 		},
 		"Sha Xian": {
-			"local_code": "沙县"
+			"local_code": "沙县",
+			"postal_code_example": "365500"
 		},
 		"Taining Xian": {
-			"local_code": "泰宁县"
+			"local_code": "泰宁县",
+			"postal_code_example": "354400"
 		},
 		"Yong'an Shi": {
-			"local_code": "永安市"
+			"local_code": "永安市",
+			"postal_code_example": "366000"
 		},
 		"Youxi Xian": {
-			"local_code": "尤溪县"
+			"local_code": "尤溪县",
+			"postal_code_example": "365100"
 		}
 	}
 }

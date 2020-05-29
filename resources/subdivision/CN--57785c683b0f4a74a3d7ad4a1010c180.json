@@ -8,55 +8,72 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Anze Xian": {
-			"local_code": "安泽县"
+			"local_code": "安泽县",
+			"postal_code_example": "042500"
 		},
 		"Daning Xian": {
-			"local_code": "大宁县"
+			"local_code": "大宁县",
+			"postal_code_example": "042300"
 		},
 		"Fenxi Xian": {
-			"local_code": "汾西县"
+			"local_code": "汾西县",
+			"postal_code_example": "031500"
 		},
 		"Fushan Xian": {
-			"local_code": "浮山县"
+			"local_code": "浮山县",
+			"postal_code_example": "042600"
 		},
 		"Gu Xian": {
-			"local_code": "古县"
+			"local_code": "古县",
+			"postal_code_example": "042400"
 		},
 		"Hongtong Xian": {
-			"local_code": "洪洞县"
+			"local_code": "洪洞县",
+			"postal_code_example": "031600"
 		},
 		"Houma Shi": {
-			"local_code": "侯马市"
+			"local_code": "侯马市",
+			"postal_code_example": "043000"
 		},
 		"Huozhou Shi": {
-			"local_code": "霍州市"
+			"local_code": "霍州市",
+			"postal_code_example": "031400"
 		},
 		"Ji Xian": {
-			"local_code": "吉县"
+			"local_code": "吉县",
+			"postal_code_example": "042200"
 		},
 		"Pu Xian": {
-			"local_code": "蒲县"
+			"local_code": "蒲县",
+			"postal_code_example": "041200"
 		},
 		"Quwo Xian": {
-			"local_code": "曲沃县"
+			"local_code": "曲沃县",
+			"postal_code_example": "043400"
 		},
 		"Xi Xian": {
-			"local_code": "隰县"
+			"local_code": "隰县",
+			"postal_code_example": "041300"
 		},
 		"Xiangning Xian": {
-			"local_code": "乡宁县"
+			"local_code": "乡宁县",
+			"postal_code_example": "042100"
 		},
 		"Xiangfen Xian": {
-			"local_code": "襄汾县"
+			"local_code": "襄汾县",
+			"postal_code_example": "041500"
 		},
 		"Yaodu Qu": {
-			"local_code": "尧都区"
+			"local_code": "尧都区",
+			"postal_code_example": "041000"
 		},
 		"Yicheng Xian": {
-			"local_code": "翼城县"
+			"local_code": "翼城县",
+			"postal_code_example": "043500"
 		},
 		"Yonghe Xian": {
-			"local_code": "永和县"
+			"local_code": "永和县",
+			"postal_code_example": "041400"
 		}
 	}
 }

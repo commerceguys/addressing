@@ -8,32 +8,41 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Datong Qu": {
-			"local_code": "大同区"
+			"local_code": "大同区",
+			"postal_code_example": "163515"
 		},
 		"Dorbod Xian": {
 			"local_code": "杜尔伯特蒙古族自治县",
-			"local_name": "杜尔伯特县"
+			"local_name": "杜尔伯特县",
+			"postal_code_example": "166200"
 		},
 		"Honggang Qu": {
-			"local_code": "红岗区"
+			"local_code": "红岗区",
+			"postal_code_example": "163511"
 		},
 		"Lindian Xian": {
-			"local_code": "林甸县"
+			"local_code": "林甸县",
+			"postal_code_example": "166300"
 		},
 		"Longfeng Qu": {
-			"local_code": "龙凤区"
+			"local_code": "龙凤区",
+			"postal_code_example": "163711"
 		},
 		"Ranghulu Qu": {
-			"local_code": "让胡路区"
+			"local_code": "让胡路区",
+			"postal_code_example": "163712"
 		},
 		"Sairt Qu": {
-			"local_code": "萨尔图区"
+			"local_code": "萨尔图区",
+			"postal_code_example": "163001"
 		},
 		"Zhaoyuan Xian": {
-			"local_code": "肇源县"
+			"local_code": "肇源县",
+			"postal_code_example": "166500"
 		},
 		"Zhaozhou Xian": {
-			"local_code": "肇州县"
+			"local_code": "肇州县",
+			"postal_code_example": "166400"
 		}
 	}
 }

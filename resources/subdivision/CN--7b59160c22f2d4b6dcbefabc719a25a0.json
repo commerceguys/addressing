@@ -8,58 +8,76 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Anyuan Xian": {
-			"local_code": "安远县"
+			"local_code": "安远县",
+			"postal_code_example": "342100"
 		},
 		"Chongyi Xian": {
-			"local_code": "崇义县"
+			"local_code": "崇义县",
+			"postal_code_example": "341300"
 		},
 		"Dayu Xian": {
-			"local_code": "大余县"
+			"local_code": "大余县",
+			"postal_code_example": "341500"
 		},
 		"Dingnan Xian": {
-			"local_code": "定南县"
+			"local_code": "定南县",
+			"postal_code_example": "341900"
 		},
 		"Gan Xian": {
-			"local_code": "赣县"
+			"local_code": "赣县",
+			"postal_code_example": "341100"
 		},
 		"Huichang Xian": {
-			"local_code": "会昌县"
+			"local_code": "会昌县",
+			"postal_code_example": "342600"
 		},
 		"Longnan Xian": {
-			"local_code": "龙南县"
+			"local_code": "龙南县",
+			"postal_code_example": "341700"
 		},
 		"Nankang Shi": {
-			"local_code": "南康市"
+			"local_code": "南康市",
+			"postal_code_example": "341400"
 		},
 		"Ningdu Xian": {
-			"local_code": "宁都县"
+			"local_code": "宁都县",
+			"postal_code_example": "342800"
 		},
 		"Quannan Xian": {
-			"local_code": "全南县"
+			"local_code": "全南县",
+			"postal_code_example": "341800"
 		},
 		"Ruijin Shi": {
-			"local_code": "瑞金市"
+			"local_code": "瑞金市",
+			"postal_code_example": "342500"
 		},
 		"Shangyou Xian": {
-			"local_code": "上犹县"
+			"local_code": "上犹县",
+			"postal_code_example": "341200"
 		},
 		"Shicheng Xian": {
-			"local_code": "石城县"
+			"local_code": "石城县",
+			"postal_code_example": "342700"
 		},
 		"Xinfeng Xian": {
-			"local_code": "信丰县"
+			"local_code": "信丰县",
+			"postal_code_example": "341600"
 		},
 		"Xingguo Xian": {
-			"local_code": "兴国县"
+			"local_code": "兴国县",
+			"postal_code_example": "342400"
 		},
 		"Xunwu Xian": {
-			"local_code": "寻乌县"
+			"local_code": "寻乌县",
+			"postal_code_example": "342210"
 		},
 		"Yudu Xian": {
-			"local_code": "于都县"
+			"local_code": "于都县",
+			"postal_code_example": "342300"
 		},
 		"Zhanggong Qu": {
-			"local_code": "章贡区"
+			"local_code": "章贡区",
+			"postal_code_example": "341000"
 		}
 	}
 }

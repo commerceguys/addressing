@@ -8,22 +8,28 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Daiyue Qu": {
-			"local_code": "岱岳区"
+			"local_code": "岱岳区",
+			"postal_code_example": "271000"
 		},
 		"Dongping Xian": {
-			"local_code": "东平县"
+			"local_code": "东平县",
+			"postal_code_example": "271500"
 		},
 		"Feicheng Shi": {
-			"local_code": "肥城市"
+			"local_code": "肥城市",
+			"postal_code_example": "271600"
 		},
 		"Ningyang Xian": {
-			"local_code": "宁阳县"
+			"local_code": "宁阳县",
+			"postal_code_example": "271400"
 		},
 		"Taishan Qu": {
-			"local_code": "泰山区"
+			"local_code": "泰山区",
+			"postal_code_example": "271000"
 		},
 		"Xintai Shi": {
-			"local_code": "新泰市"
+			"local_code": "新泰市",
+			"postal_code_example": "271200"
 		}
 	}
 }

@@ -8,13 +8,16 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Alxa Youqi": {
-			"local_code": "阿拉善右旗"
+			"local_code": "阿拉善右旗",
+			"postal_code_example": "737300"
 		},
 		"Alxa Zuoqi": {
-			"local_code": "阿拉善左旗"
+			"local_code": "阿拉善左旗",
+			"postal_code_example": "750306"
 		},
 		"Ejin Qi": {
-			"local_code": "额济纳旗"
+			"local_code": "额济纳旗",
+			"postal_code_example": "735400"
 		}
 	}
 }

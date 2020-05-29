@@ -8,28 +8,36 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Funan Xian": {
-			"local_code": "阜南县"
+			"local_code": "阜南县",
+			"postal_code_example": "236200"
 		},
 		"Jieshou Shi": {
-			"local_code": "界首市"
+			"local_code": "界首市",
+			"postal_code_example": "236501"
 		},
 		"Linquan Xian": {
-			"local_code": "临泉县"
+			"local_code": "临泉县",
+			"postal_code_example": "236400"
 		},
 		"Taihe Xian": {
-			"local_code": "太和县"
+			"local_code": "太和县",
+			"postal_code_example": "236601"
 		},
 		"Yingdong Qu": {
-			"local_code": "颍东区"
+			"local_code": "颍东区",
+			"postal_code_example": "236033"
 		},
 		"Yingquan Qu": {
-			"local_code": "颍泉区"
+			"local_code": "颍泉区",
+			"postal_code_example": "236033"
 		},
 		"Yingshang Xian": {
-			"local_code": "颍上县"
+			"local_code": "颍上县",
+			"postal_code_example": "236201"
 		},
 		"Yingzhou Qu": {
-			"local_code": "颍州区"
+			"local_code": "颍州区",
+			"postal_code_example": "236033"
 		}
 	}
 }

@@ -8,26 +8,33 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Haicheng Shi": {
-			"local_code": "海城市"
+			"local_code": "海城市",
+			"postal_code_example": "114200"
 		},
 		"Lishan Qu": {
-			"local_code": "立山区"
+			"local_code": "立山区",
+			"postal_code_example": "114031"
 		},
 		"Qianshan Qu": {
-			"local_code": "千山区"
+			"local_code": "千山区",
+			"postal_code_example": "114041"
 		},
 		"Tai'an Xian": {
-			"local_code": "台安县"
+			"local_code": "台安县",
+			"postal_code_example": "114100"
 		},
 		"Tiedong Qu": {
-			"local_code": "铁东区"
+			"local_code": "铁东区",
+			"postal_code_example": "114001"
 		},
 		"Tiexi Qu": {
-			"local_code": "铁西区"
+			"local_code": "铁西区",
+			"postal_code_example": "114014"
 		},
 		"Xiuyan Xian": {
 			"local_code": "岫岩满族自治县",
-			"local_name": "岫岩县"
+			"local_name": "岫岩县",
+			"postal_code_example": "114300"
 		}
 	}
 }

@@ -8,16 +8,20 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Wangyi Qu": {
-			"local_code": "王益区"
+			"local_code": "王益区",
+			"postal_code_example": "727000"
 		},
 		"Yaozhou Qu": {
-			"local_code": "耀州区"
+			"local_code": "耀州区",
+			"postal_code_example": "727100"
 		},
 		"Yijun Xian": {
-			"local_code": "宜君县"
+			"local_code": "宜君县",
+			"postal_code_example": "727200"
 		},
 		"Yintai Qu": {
-			"local_code": "印台区"
+			"local_code": "印台区",
+			"postal_code_example": "727007"
 		}
 	}
 }
