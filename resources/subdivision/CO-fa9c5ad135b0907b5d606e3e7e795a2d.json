@@ -1,0 +1,42 @@
+{
+  "country_code": "CO",
+  "parents": [
+    "CO",
+    "AMA"
+  ],
+  "subdivisions": {
+    "Leticia": {
+      "local_code": "91001"
+    },
+    "El Encanto": {
+      "local_code": "91263"
+    },
+    "La Chorrera": {
+      "local_code": "91405"
+    },
+    "La Pedrera": {
+      "local_code": "91407"
+    },
+    "La Victoria": {
+      "local_code": "91430"
+    },
+    "Miriti - Paraná": {
+      "local_code": "91460"
+    },
+    "Puerto Alegría": {
+      "local_code": "91530"
+    },
+    "Puerto Arica": {
+      "local_code": "91536"
+    },
+    "Puerto Nariño": {
+      "local_code": "91540"
+    },
+    "Puerto Santander": {
+      "local_code": "91669"
+    },
+    "Tarapacá": {
+      "local_code": "91798"
+    }
+  }
+}

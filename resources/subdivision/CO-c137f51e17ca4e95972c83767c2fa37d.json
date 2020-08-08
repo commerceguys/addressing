@@ -1,0 +1,135 @@
+{
+  "country_code": "CO",
+  "parents": [
+    "CO",
+    "CAU"
+  ],
+  "subdivisions": {
+    "Popayán": {
+      "local_code": "19001"
+    },
+    "Almaguer": {
+      "local_code": "19022"
+    },
+    "Argelia": {
+      "local_code": "19050"
+    },
+    "Balboa": {
+      "local_code": "19075"
+    },
+    "Bolívar": {
+      "local_code": "19100"
+    },
+    "Buenos Aires": {
+      "local_code": "19110"
+    },
+    "Cajibío": {
+      "local_code": "19130"
+    },
+    "Caldono": {
+      "local_code": "19137"
+    },
+    "Caloto(3)": {
+      "local_code": "19142"
+    },
+    "Corinto": {
+      "local_code": "19212"
+    },
+    "El Tambo": {
+      "local_code": "19256"
+    },
+    "Florencia": {
+      "local_code": "19290"
+    },
+    "Guachené ": {
+      "local_code": "19300"
+    },
+    "Guapi": {
+      "local_code": "19318"
+    },
+    "Inzá": {
+      "local_code": "19355"
+    },
+    "Jambaló": {
+      "local_code": "19364"
+    },
+    "La Sierra": {
+      "local_code": "19392"
+    },
+    "La Vega": {
+      "local_code": "19397"
+    },
+    "López": {
+      "local_code": "19418"
+    },
+    "Mercaderes": {
+      "local_code": "19450"
+    },
+    "Miranda": {
+      "local_code": "19455"
+    },
+    "Morales": {
+      "local_code": "19473"
+    },
+    "Padilla": {
+      "local_code": "19513"
+    },
+    "Paez": {
+      "local_code": "19517"
+    },
+    "Patía": {
+      "local_code": "19532"
+    },
+    "Piamonte": {
+      "local_code": "19533"
+    },
+    "Piendamó": {
+      "local_code": "19548"
+    },
+    "Puerto Tejada": {
+      "local_code": "19573"
+    },
+    "Puracé": {
+      "local_code": "19585"
+    },
+    "Rosas": {
+      "local_code": "19622"
+    },
+    "San Sebastián": {
+      "local_code": "19693"
+    },
+    "Santander de Quilichao": {
+      "local_code": "19698"
+    },
+    "Santa Rosa": {
+      "local_code": "19701"
+    },
+    "Silvia": {
+      "local_code": "19743"
+    },
+    "Sotara": {
+      "local_code": "19760"
+    },
+    "Suárez": {
+      "local_code": "19780"
+    },
+    "Sucre": {
+      "local_code": "19785"
+    },
+    "Timbío": {
+      "local_code": "19807"
+    },
+    "Timbiquí": {
+      "local_code": "19809"
+    },
+    "Toribio": {
+      "local_code": "19821"
+    },
+    "Totoró": {
+      "local_code": "19824"
+    },
+    "Villa Rica": {
+      "local_code": "19845"
+    }
+  }
+}

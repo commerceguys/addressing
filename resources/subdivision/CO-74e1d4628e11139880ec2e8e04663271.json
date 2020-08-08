@@ -1,0 +1,21 @@
+{
+  "country_code": "CO",
+  "parents": [
+    "CO",
+    "VID"
+  ],
+  "subdivisions": {
+    "Puerto Carreño": {
+      "local_code": "99001"
+    },
+    "La Primavera": {
+      "local_code": "99524"
+    },
+    "Santa Rosalía": {
+      "local_code": "99624"
+    },
+    "Cumaribo": {
+      "local_code": "99773"
+    }
+  }
+}

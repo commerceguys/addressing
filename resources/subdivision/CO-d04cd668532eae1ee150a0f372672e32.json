@@ -1,0 +1,36 @@
+{
+  "country_code": "CO",
+  "parents": [
+    "CO",
+    "GUA"
+  ],
+  "subdivisions": {
+    "Inírida": {
+      "local_code": "94001"
+    },
+    "Barranco Minas": {
+      "local_code": "94343"
+    },
+    "Mapiripana": {
+      "local_code": "94663"
+    },
+    "San Felipe": {
+      "local_code": "94883"
+    },
+    "Puerto Colombia": {
+      "local_code": "94884"
+    },
+    "La Guadalupe": {
+      "local_code": "94885"
+    },
+    "Cacahual": {
+      "local_code": "94886"
+    },
+    "Pana Pana": {
+      "local_code": "94887"
+    },
+    "Morichal": {
+      "local_code": "94888"
+    }
+  }
+}

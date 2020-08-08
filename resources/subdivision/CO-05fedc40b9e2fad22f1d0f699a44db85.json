@@ -1,0 +1,15 @@
+{
+  "country_code": "CO",
+  "parents": [
+    "CO",
+    "SAP"
+  ],
+  "subdivisions": {
+    "San Andrés": {
+      "local_code": "88001"
+    },
+    "Providencia": {
+      "local_code": "88564"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "country_code": "CO",
+  "parents": [
+    "CO",
+    "CAL"
+  ],
+  "subdivisions": {
+    "Manizales": {
+      "local_code": "17001"
+    },
+    "Aguadas": {
+      "local_code": "17013"
+    },
+    "Anserma": {
+      "local_code": "17042"
+    },
+    "Aranzazu": {
+      "local_code": "17050"
+    },
+    "Belalcázar": {
+      "local_code": "17088"
+    },
+    "Chinchiná": {
+      "local_code": "17174"
+    },
+    "Filadelfia": {
+      "local_code": "17272"
+    },
+    "La Dorada": {
+      "local_code": "17380"
+    },
+    "La Merced": {
+      "local_code": "17388"
+    },
+    "Manzanares": {
+      "local_code": "17433"
+    },
+    "Marmato": {
+      "local_code": "17442"
+    },
+    "Marquetalia": {
+      "local_code": "17444"
+    },
+    "Marulanda": {
+      "local_code": "17446"
+    },
+    "Neira": {
+      "local_code": "17486"
+    },
+    "Norcasia": {
+      "local_code": "17495"
+    },
+    "Pácora": {
+      "local_code": "17513"
+    },
+    "Palestina": {
+      "local_code": "17524"
+    },
+    "Pensilvania": {
+      "local_code": "17541"
+    },
+    "Riosucio": {
+      "local_code": "17614"
+    },
+    "Risaralda": {
+      "local_code": "17616"
+    },
+    "Salamina": {
+      "local_code": "17653"
+    },
+    "Samaná": {
+      "local_code": "17662"
+    },
+    "San José": {
+      "local_code": "17665"
+    },
+    "Supía": {
+      "local_code": "17777"
+    },
+    "Victoria": {
+      "local_code": "17867"
+    },
+    "Villamaría": {
+      "local_code": "17873"
+    },
+    "Viterbo": {
+      "local_code": "17877"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "country_code": "CO",
+  "parents": [
+    "CO",
+    "LAG"
+  ],
+  "subdivisions": {
+    "Riohacha": {
+      "local_code": "44001"
+    },
+    "Albania": {
+      "local_code": "44035"
+    },
+    "Barrancas": {
+      "local_code": "44078"
+    },
+    "Dibulla": {
+      "local_code": "44090"
+    },
+    "Distracción": {
+      "local_code": "44098"
+    },
+    "El Molino": {
+      "local_code": "44110"
+    },
+    "Fonseca": {
+      "local_code": "44279"
+    },
+    "Hatonuevo": {
+      "local_code": "44378"
+    },
+    "La Jagua del Pilar": {
+      "local_code": "44420"
+    },
+    "Maicao": {
+      "local_code": "44430"
+    },
+    "Manaure": {
+      "local_code": "44560"
+    },
+    "San Juan del Cesar": {
+      "local_code": "44650"
+    },
+    "Uribia": {
+      "local_code": "44847"
+    },
+    "Urumita": {
+      "local_code": "44855"
+    },
+    "Villanueva": {
+      "local_code": "44874"
+    }
+  }
+}

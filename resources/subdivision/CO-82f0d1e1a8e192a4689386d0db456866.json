@@ -1,0 +1,99 @@
+{
+  "country_code": "CO",
+  "parents": [
+    "CO",
+    "CHO"
+  ],
+  "subdivisions": {
+    "Quibdó": {
+      "local_code": "27001"
+    },
+    "Acandí": {
+      "local_code": "27006"
+    },
+    "Alto Baudo": {
+      "local_code": "27025"
+    },
+    "Atrato": {
+      "local_code": "27050"
+    },
+    "Bagadó": {
+      "local_code": "27073"
+    },
+    "Bahía Solano": {
+      "local_code": "27075"
+    },
+    "Bajo Baudó": {
+      "local_code": "27077"
+    },
+    "Bojaya": {
+      "local_code": "27099"
+    },
+    "El Cantón del San Pablo": {
+      "local_code": "27135"
+    },
+    "Carmen del Darien": {
+      "local_code": "27150"
+    },
+    "Cértegui": {
+      "local_code": "27160"
+    },
+    "Condoto": {
+      "local_code": "27205"
+    },
+    "El Carmen de Atrato": {
+      "local_code": "27245"
+    },
+    "El Litoral del San Juan": {
+      "local_code": "27250"
+    },
+    "Istmina": {
+      "local_code": "27361"
+    },
+    "Juradó": {
+      "local_code": "27372"
+    },
+    "Lloró": {
+      "local_code": "27413"
+    },
+    "Medio Atrato": {
+      "local_code": "27425"
+    },
+    "Medio Baudó": {
+      "local_code": "27430"
+    },
+    "Medio San Juan": {
+      "local_code": "27450"
+    },
+    "Nóvita": {
+      "local_code": "27491"
+    },
+    "Nuquí": {
+      "local_code": "27495"
+    },
+    "Río Iro": {
+      "local_code": "27580"
+    },
+    "Río Quito": {
+      "local_code": "27600"
+    },
+    "Riosucio": {
+      "local_code": "27615"
+    },
+    "San José del Palmar": {
+      "local_code": "27660"
+    },
+    "Sipí": {
+      "local_code": "27745"
+    },
+    "Tadó": {
+      "local_code": "27787"
+    },
+    "Unguía": {
+      "local_code": "27800"
+    },
+    "Unión Panamericana": {
+      "local_code": "27810"
+    }
+  }
+}

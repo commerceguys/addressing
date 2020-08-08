@@ -1,0 +1,30 @@
+{
+  "country_code": "CO",
+  "parents": [
+    "CO",
+    "ARA"
+  ],
+  "subdivisions": {
+    "Arauca": {
+      "local_code": "81001"
+    },
+    "Arauquita": {
+      "local_code": "81065"
+    },
+    "Cravo Norte": {
+      "local_code": "81220"
+    },
+    "Fortul": {
+      "local_code": "81300"
+    },
+    "Puerto Rondón": {
+      "local_code": "81591"
+    },
+    "Saravena": {
+      "local_code": "81736"
+    },
+    "Tame": {
+      "local_code": "81794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "country_code": "CO",
+  "parents": [
+    "CO",
+    "DC"
+  ],
+  "subdivisions": {
+    "Bogotá, D.C.": {
+      "local_code": "11001"
+    }
+  }
+}

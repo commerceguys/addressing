@@ -1,0 +1,96 @@
+{
+  "country_code": "CO",
+  "parents": [
+    "CO",
+    "MET"
+  ],
+  "subdivisions": {
+    "Villavicencio": {
+      "local_code": "50001"
+    },
+    "Acacías": {
+      "local_code": "50006"
+    },
+    "Barranca de Upía": {
+      "local_code": "50110"
+    },
+    "Cabuyaro": {
+      "local_code": "50124"
+    },
+    "Castilla la Nueva": {
+      "local_code": "50150"
+    },
+    "Cubarral": {
+      "local_code": "50223"
+    },
+    "Cumaral": {
+      "local_code": "50226"
+    },
+    "El Calvario": {
+      "local_code": "50245"
+    },
+    "El Castillo": {
+      "local_code": "50251"
+    },
+    "El Dorado": {
+      "local_code": "50270"
+    },
+    "Fuente de Oro": {
+      "local_code": "50287"
+    },
+    "Granada": {
+      "local_code": "50313"
+    },
+    "Guamal": {
+      "local_code": "50318"
+    },
+    "Mapiripán": {
+      "local_code": "50325"
+    },
+    "Mesetas": {
+      "local_code": "50330"
+    },
+    "La Macarena": {
+      "local_code": "50350"
+    },
+    "Uribe": {
+      "local_code": "50370"
+    },
+    "Lejanías": {
+      "local_code": "50400"
+    },
+    "Puerto Concordia": {
+      "local_code": "50450"
+    },
+    "Puerto Gaitán": {
+      "local_code": "50568"
+    },
+    "Puerto López": {
+      "local_code": "50573"
+    },
+    "Puerto Lleras": {
+      "local_code": "50577"
+    },
+    "Puerto Rico": {
+      "local_code": "50590"
+    },
+    "Restrepo": {
+      "local_code": "50606"
+    },
+    "San Carlos de Guaroa": {
+      "local_code": "50680"
+    },
+    "San Juan de Arama": {
+      "local_code": "50683"
+    },
+    "San Juanito": {
+      "local_code": "50686"
+    },
+    "San Martín": {
+      "local_code": "50689"
+    },
+    "Vistahermosa": {
+      "local_code": "50711"
+    }
+  }
+}

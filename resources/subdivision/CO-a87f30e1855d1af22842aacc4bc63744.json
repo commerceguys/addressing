@@ -1,0 +1,78 @@
+{
+  "country_code": "CO",
+  "parents": [
+    "CO",
+    "ATL"
+  ],
+  "subdivisions": {
+    "Barranquilla": {
+      "local_code": "08001"
+    },
+    "Baranoa": {
+      "local_code": "08078"
+    },
+    "Campo de La Cruz": {
+      "local_code": "08137"
+    },
+    "Candelaria": {
+      "local_code": "08141"
+    },
+    "Galapa": {
+      "local_code": "08296"
+    },
+    "Juan de Acosta": {
+      "local_code": "08372"
+    },
+    "Luruaco": {
+      "local_code": "08421"
+    },
+    "Malambo": {
+      "local_code": "08433"
+    },
+    "Manatí": {
+      "local_code": "08436"
+    },
+    "Palmar de Varela": {
+      "local_code": "08520"
+    },
+    "Piojó": {
+      "local_code": "08549"
+    },
+    "Polonuevo": {
+      "local_code": "08558"
+    },
+    "Ponedera": {
+      "local_code": "08560"
+    },
+    "Puerto Colombia": {
+      "local_code": "08573"
+    },
+    "Repelón": {
+      "local_code": "08606"
+    },
+    "Sabanagrande": {
+      "local_code": "08634"
+    },
+    "Sabanalarga": {
+      "local_code": "08638"
+    },
+    "Santa Lucía": {
+      "local_code": "08675"
+    },
+    "Santo Tomás": {
+      "local_code": "08685"
+    },
+    "Soledad": {
+      "local_code": "08758"
+    },
+    "Suan": {
+      "local_code": "08770"
+    },
+    "Tubará": {
+      "local_code": "08832"
+    },
+    "Usiacurí": {
+      "local_code": "08849"
+    }
+  }
+}

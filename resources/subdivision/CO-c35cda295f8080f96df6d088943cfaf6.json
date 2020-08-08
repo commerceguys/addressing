@@ -1,0 +1,66 @@
+{
+  "country_code": "CO",
+  "parents": [
+    "CO",
+    "CAS"
+  ],
+  "subdivisions": {
+    "Yopal": {
+      "local_code": "85001"
+    },
+    "Aguazul": {
+      "local_code": "85010"
+    },
+    "Chameza": {
+      "local_code": "85015"
+    },
+    "Hato Corozal": {
+      "local_code": "85125"
+    },
+    "La Salina": {
+      "local_code": "85136"
+    },
+    "Maní": {
+      "local_code": "85139"
+    },
+    "Monterrey": {
+      "local_code": "85162"
+    },
+    "Nunchía": {
+      "local_code": "85225"
+    },
+    "Orocué": {
+      "local_code": "85230"
+    },
+    "Paz de Ariporo": {
+      "local_code": "85250"
+    },
+    "Pore": {
+      "local_code": "85263"
+    },
+    "Recetor": {
+      "local_code": "85279"
+    },
+    "Sabanalarga": {
+      "local_code": "85300"
+    },
+    "Sácama": {
+      "local_code": "85315"
+    },
+    "San Luis de Palenque": {
+      "local_code": "85325"
+    },
+    "Támara": {
+      "local_code": "85400"
+    },
+    "Tauramena": {
+      "local_code": "85410"
+    },
+    "Trinidad": {
+      "local_code": "85430"
+    },
+    "Villanueva": {
+      "local_code": "85440"
+    }
+  }
+}

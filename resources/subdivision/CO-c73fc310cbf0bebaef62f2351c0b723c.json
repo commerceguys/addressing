@@ -1,0 +1,99 @@
+{
+  "country_code": "CO",
+  "parents": [
+    "CO",
+    "COR"
+  ],
+  "subdivisions": {
+    "Montería": {
+      "local_code": "23001"
+    },
+    "Ayapel": {
+      "local_code": "23068"
+    },
+    "Buenavista": {
+      "local_code": "23079"
+    },
+    "Canalete": {
+      "local_code": "23090"
+    },
+    "Cereté": {
+      "local_code": "23162"
+    },
+    "Chimá": {
+      "local_code": "23168"
+    },
+    "Chinú": {
+      "local_code": "23182"
+    },
+    "Ciénaga de Oro": {
+      "local_code": "23189"
+    },
+    "Cotorra": {
+      "local_code": "23300"
+    },
+    "La Apartada": {
+      "local_code": "23350"
+    },
+    "Lorica": {
+      "local_code": "23417"
+    },
+    "Los Córdobas": {
+      "local_code": "23419"
+    },
+    "Momil": {
+      "local_code": "23464"
+    },
+    "Montelíbano(3)": {
+      "local_code": "23466"
+    },
+    "Moñitos": {
+      "local_code": "23500"
+    },
+    "Planeta Rica": {
+      "local_code": "23555"
+    },
+    "Pueblo Nuevo": {
+      "local_code": "23570"
+    },
+    "Puerto Escondido": {
+      "local_code": "23574"
+    },
+    "Puerto Libertador": {
+      "local_code": "23580"
+    },
+    "Purísima": {
+      "local_code": "23586"
+    },
+    "Sahagún": {
+      "local_code": "23660"
+    },
+    "San Andrés Sotavento": {
+      "local_code": "23670"
+    },
+    "San Antero": {
+      "local_code": "23672"
+    },
+    "San Bernardo del Viento": {
+      "local_code": "23675"
+    },
+    "San Carlos": {
+      "local_code": "23678"
+    },
+    "San José de Uré": {
+      "local_code": "23682"
+    },
+    "San Pelayo": {
+      "local_code": "23686"
+    },
+    "Tierralta": {
+      "local_code": "23807"
+    },
+    "Tuchín": {
+      "local_code": "23815"
+    },
+    "Valencia": {
+      "local_code": "23855"
+    }
+  }
+}

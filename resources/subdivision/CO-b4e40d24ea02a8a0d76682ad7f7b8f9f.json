@@ -1,0 +1,84 @@
+{
+  "country_code": "CO",
+  "parents": [
+    "CO",
+    "CES"
+  ],
+  "subdivisions": {
+    "Valledupar": {
+      "local_code": "20001"
+    },
+    "Aguachica": {
+      "local_code": "20011"
+    },
+    "Agustín Codazzi": {
+      "local_code": "20013"
+    },
+    "Astrea": {
+      "local_code": "20032"
+    },
+    "Becerril": {
+      "local_code": "20045"
+    },
+    "Bosconia": {
+      "local_code": "20060"
+    },
+    "Chimichagua": {
+      "local_code": "20175"
+    },
+    "Chiriguaná": {
+      "local_code": "20178"
+    },
+    "Curumaní": {
+      "local_code": "20228"
+    },
+    "El Copey": {
+      "local_code": "20238"
+    },
+    "El Paso": {
+      "local_code": "20250"
+    },
+    "Gamarra": {
+      "local_code": "20295"
+    },
+    "González": {
+      "local_code": "20310"
+    },
+    "La Gloria": {
+      "local_code": "20383"
+    },
+    "La Jagua de Ibirico": {
+      "local_code": "20400"
+    },
+    "Manaure": {
+      "local_code": "20443"
+    },
+    "Pailitas": {
+      "local_code": "20517"
+    },
+    "Pelaya": {
+      "local_code": "20550"
+    },
+    "Pueblo Bello": {
+      "local_code": "20570"
+    },
+    "Río de Oro": {
+      "local_code": "20614"
+    },
+    "La Paz": {
+      "local_code": "20621"
+    },
+    "San Alberto": {
+      "local_code": "20710"
+    },
+    "San Diego": {
+      "local_code": "20750"
+    },
+    "San Martín": {
+      "local_code": "20770"
+    },
+    "Tamalameque": {
+      "local_code": "20787"
+    }
+  }
+}
