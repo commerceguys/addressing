@@ -106,11 +106,6 @@
 			"iso_code": "IT-CB",
 			"postal_code_pattern": "860[1-4]|86100"
 		},
-		"CI": {
-			"name": "Carbonia-Iglesias",
-			"iso_code": "IT-CI",
-			"postal_code_pattern": "0901[013-7]"
-		},
 		"CE": {
 			"name": "Caserta",
 			"iso_code": "IT-CE",
@@ -276,11 +271,6 @@
 			"iso_code": "IT-MT",
 			"postal_code_pattern": "75"
 		},
-		"VS": {
-			"name": "Medio Campidano",
-			"iso_code": "IT-VS",
-			"postal_code_pattern": "0902[012579]|0903[015-9]|09040"
-		},
 		"ME": {
 			"name": "Messina",
 			"iso_code": "IT-ME",
@@ -314,17 +304,7 @@
 		"NU": {
 			"name": "Nuoro",
 			"iso_code": "IT-NU",
-			"postal_code_pattern": "080[1-3]|08100"
-		},
-		"OG": {
-			"name": "Ogliastra",
-			"iso_code": "IT-OG",
-			"postal_code_pattern": "08037|0804[024-9]"
-		},
-		"OT": {
-			"name": "Olbia-Tempio",
-			"iso_code": "IT-OT",
-			"postal_code_pattern": "08020|0702|0703[08]"
+			"postal_code_pattern": "080[1-4]|08100"
 		},
 		"OR": {
 			"name": "Oristano",
@@ -444,7 +424,7 @@
 		"SS": {
 			"name": "Sassari",
 			"iso_code": "IT-SS",
-			"postal_code_pattern": "070[14]|0703[0-79]|07100"
+			"postal_code_pattern": "07[01]"
 		},
 		"SV": {
 			"name": "Savona",
