@@ -447,11 +447,15 @@ function convert_format($countryCode, $format)
         '%N3' => '%' . AddressField::FAMILY_NAME,
         '%N2' => '%' . AddressField::ADDITIONAL_NAME,
         '%N1' => '%' . AddressField::GIVEN_NAME,
-        '%n' => "\n",
+        '%n' => '\n',
+        // Remove hardcoded strings which duplicate the country name.
+        '%nÅLAND' => '',
+        'JERSEY%n' => '',
+        'GUERNSEY%n' => '',
+        'GIBRALTAR%n' => '',
+        'SINGAPORE ' => '',
     ];
     $format = strtr($format, $replacements);
-    // Make sure the newlines don't get eaten by var_export().
-    $format = str_replace("\n", '\n', $format);
 
     return $format;
 }
