@@ -5,10 +5,6 @@
  * https://github.com/googlei18n/libaddressinput/issues
  * Since Google has been slow to resolve them, the library maintains its own
  * list of customizations, in PHP format for easier contribution.
- *
- * @todo
- * PE subdivisions (https://github.com/googlei18n/libaddressinput/issues/50)
- * Other points raised in https://github.com/googlei18n/libaddressinput/issues/49
  */
 
 /**
