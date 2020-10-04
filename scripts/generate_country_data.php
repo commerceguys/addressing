@@ -252,8 +252,8 @@ function discover_locales() {
     $ignoredLocales = [
         // Esperanto, Interlingua, Volapuk are made up languages.
         'eo', 'ia', 'vo',
-        // Church Slavic, Manx, Prussian are historical languages.
-        'cu', 'gv', 'prg',
+        // Church Slavic, Manx, Prussian, Sanskrit are historical languages.
+        'cu', 'gv', 'prg', 'sa',
         // Valencian differs from its parent only by a single character (è/é).
         'ca-ES-VALENCIA',
         // Africa secondary languages.
