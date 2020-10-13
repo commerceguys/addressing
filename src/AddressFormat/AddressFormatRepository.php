@@ -856,7 +856,8 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'required_fields' => [
                     'addressLine1', 'locality', 'postalCode',
                 ],
-                'postal_code_pattern' => 'LV-\d{4}',
+                'postal_code_pattern' => '\d{4}',
+                'postal_code_prefix' => 'LV-',
             ],
             'MA' => [
                 'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%postalCode %locality",
