@@ -446,9 +446,9 @@
 			"iso_code": "IT-SO",
 			"postal_code_pattern": "23[01]"
 		},
-		"SD": {
+		"SU": {
 			"name": "Sud Sardegna",
-			"iso_code": "IT-SD",
+			"iso_code": "IT-SU",
 			"postal_code_pattern": "090[1-5][0-9]|0906[0-6]|080[1-4]"
 		},
 		"TA": {
