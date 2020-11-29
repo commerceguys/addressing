@@ -38,6 +38,8 @@ class AddressFormatConstraint extends Constraint
      *
      * This feature is deprecated, commerceguys/addressing 2.0 will only
      * perform country-level validation.
+     *
+     * @var bool
      */
     public $extendedPostalCodeValidation = true;
 
