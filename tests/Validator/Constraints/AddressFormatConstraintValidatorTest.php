@@ -157,6 +157,9 @@ final class AddressFormatConstraintValidatorTest extends ConstraintValidatorTest
      */
     public function testUnitedStatesSubdivisionPostcodePattern()
     {
+        // Test with subdivision-level postal code validation disabled.
+        $this->constraint->extendedPostalCodeValidation = false;
+
         $address = new Address();
         $address = $address
             ->withCountryCode('US')
@@ -168,6 +171,11 @@ final class AddressFormatConstraintValidatorTest extends ConstraintValidatorTest
             ->withGivenName('John')
             ->withFamilyName('Smith');
 
+        $this->validator->validate($address, $this->constraint);
+        $this->assertNoViolation();
+
+        // Now test with the subdivision-level postal code validation enabled.
+        $this->constraint->extendedPostalCodeValidation = true;
         $this->validator->validate($address, $this->constraint);
         $this->buildViolation($this->constraint->invalidMessage)
             ->atPath('[postalCode]')

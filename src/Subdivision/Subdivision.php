@@ -240,6 +240,8 @@ class Subdivision
      * This is a regular expression pattern used to validate postal codes.
      *
      * @return string|null The postal code pattern.
+     *
+     * @deprecated since commerceguys/addressing 1.1.0.
      */
     public function getPostalCodePattern()
     {
@@ -250,6 +252,8 @@ class Subdivision
      * Gets the postal code pattern type.
      *
      * @return string|null The postal code pattern type.
+     *
+     * @deprecated since commerceguys/addressing 1.1.0.
      */
     public function getPostalCodePatternType()
     {
