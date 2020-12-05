@@ -9,10 +9,10 @@ date_default_timezone_set('UTC');
 
 include __DIR__ . '/../vendor/autoload.php';
 
-$localeDirectory = __DIR__ . '/assets/cldr-localenames-full/main/';
+$localeDirectory = __DIR__ . '/assets/cldr/cldr-json/cldr-localenames-full/main/';
 $enCountries = $localeDirectory . 'en/territories.json';
-$codeMappings = __DIR__ . '/assets/cldr-core/supplemental/codeMappings.json';
-$currencyData = __DIR__ . '/assets/cldr-core/supplemental/currencyData.json';
+$codeMappings = __DIR__ . '/assets/cldr/cldr-json/cldr-core/supplemental/codeMappings.json';
+$currencyData = __DIR__ . '/assets/cldr/cldr-json/cldr-core/supplemental/currencyData.json';
 if (!file_exists($enCountries)) {
     die("The $enCountries file was not found");
 }
