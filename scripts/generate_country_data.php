@@ -9,7 +9,7 @@ date_default_timezone_set('UTC');
 
 include __DIR__ . '/../vendor/autoload.php';
 
-$localeDirectory = __DIR__ . '/assets/cldr/cldr-json/cldr-localenames-full/main/';
+$localeDirectory = __DIR__ . '/assets/cldr/cldr-json/cldr-localenames-modern/main/';
 $enCountries = $localeDirectory . 'en/territories.json';
 $codeMappings = __DIR__ . '/assets/cldr/cldr-json/cldr-core/supplemental/codeMappings.json';
 $currencyData = __DIR__ . '/assets/cldr/cldr-json/cldr-core/supplemental/currencyData.json';
@@ -181,7 +181,6 @@ function generate_localizations(array $baseData, array $englishData) {
     global $localeDirectory;
 
     $localizations = [];
-    $untranslatedCounts = [];
     foreach (discover_locales() as $locale) {
         $data = json_decode(file_get_contents($localeDirectory . $locale . '/territories.json'), true);
         $data = $data['main'][$locale]['localeDisplayNames']['territories'];
@@ -190,22 +189,10 @@ function generate_localizations(array $baseData, array $englishData) {
                 // This country name is untranslated, use the english version.
                 if ($countryCode == str_replace('_', '-', $countryName)) {
                     $countryName = $englishData[$countryCode];
-                    // Maintain a count of untranslated countries per locale.
-                    $untranslatedCounts += [$locale => 0];
-                    $untranslatedCounts[$locale]++;
                 }
 
                 $localizations[$locale][$countryCode] = $countryName;
             }
-        }
-    }
-
-    // Ignore locales that are more than 80% untranslated.
-    foreach ($untranslatedCounts as $locale => $count) {
-        $totalCount = count($localizations[$locale]);
-        $untranslatedPercentage = $count * (100 / $totalCount);
-        if ($untranslatedPercentage >= 80) {
-            unset($localizations[$locale]);
         }
     }
 
@@ -256,21 +243,8 @@ function discover_locales() {
         'cu', 'gv', 'prg', 'sa',
         // Valencian differs from its parent only by a single character (è/é).
         'ca-ES-VALENCIA',
-        // Africa secondary languages.
-        'agq', 'ak', 'am', 'asa', 'bas', 'bem', 'bez', 'bm', 'cgg', 'dav',
-        'dje', 'dua', 'dyo', 'ebu', 'ee', 'ewo', 'ff', 'ff-Latn', 'guz',
-        'ha', 'ig', 'jgo', 'jmc', 'kab', 'kam', 'kea', 'kde', 'ki', 'kkj',
-        'kln', 'khq', 'ksb', 'ksf', 'lag', 'luo', 'luy', 'lu', 'lg', 'ln',
-        'mas', 'mer', 'mua', 'mgo', 'mgh', 'mfe', 'naq', 'nd', 'nmg', 'nnh',
-        'nus', 'nyn', 'om', 'pcm', 'rof', 'rwk', 'saq', 'seh', 'ses', 'sbp',
-        'sg', 'shi', 'sn', 'teo', 'ti', 'tzm', 'twq', 'vai', 'vai-Latn', 'vun',
-        'wo', 'xog', 'xh', 'zgh', 'yav', 'yo', 'zu',
-        // Europe secondary languages.
-        'br', 'dsb', 'fo', 'fur', 'fy', 'hsb', 'ksh', 'kw', 'nds', 'or', 'rm',
-        'se', 'smn', 'wae',
-        // Other infrequently used locales.
-        'ceb', 'ccp', 'chr', 'ckb', 'haw', 'ii', 'jv', 'kl', 'kn', 'lkt',
-        'lrc', 'mi', 'mzn', 'os', 'qu', 'row', 'sah', 'su', 'tt', 'ug', 'yi',
+        // Infrequently used locales.
+        "jv", "kn", "row",
         // Special "grouping" locales.
         'root', 'en-US-POSIX',
     ];
