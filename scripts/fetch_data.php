@@ -18,7 +18,7 @@ mkdir(__DIR__ . '/assets/google');
 
 // Fetch country data (CLDR).
 echo "Fetching country data.\n";
-exec('git clone https://github.com/unicode-org/cldr-json.git ' . __DIR__ . '/assets/cldr');
+exec('git clone --depth 1 https://github.com/unicode-org/cldr-json.git ' . __DIR__ . '/assets/cldr');
 
 // Fetch address data (Google).
 echo "Generating the url list.\n";
