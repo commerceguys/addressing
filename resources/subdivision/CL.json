@@ -52,6 +52,10 @@
 			"iso_code": "CL-ML",
 			"has_children": true
 		},
+    "Ñuble": {
+      "iso_code": "CL-NB",
+      "has_children": true
+    },
 		"Región Metropolitana": {
 			"name": "Metropolitana de Santiago",
 			"iso_code": "CL-RM",
