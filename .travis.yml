@@ -13,7 +13,7 @@ install:
   - composer install
 
 script:
-  - ./vendor/bin/phpunit -c ./phpunit.xml --coverage-text
+  - XDEBUG_MODE=coverage ./vendor/bin/phpunit -c ./phpunit.xml --coverage-text
   - ./vendor/bin/phpcs --standard=phpcs.xml src -s
   - ./vendor/bin/phpcs --standard=phpcs.xml tests -s
 
