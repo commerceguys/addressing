@@ -16,7 +16,7 @@ class UpdateHelper
      *
      * @var array
      */
-    static protected $subdivisionUpdateMap = [];
+    protected static $subdivisionUpdateMap = [];
 
     /**
      * Splits the recipient into givenName and familyName fields.
