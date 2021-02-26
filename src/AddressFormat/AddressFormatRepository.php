@@ -268,7 +268,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'postal_code_pattern' => '\d{5}',
             ],
             'BY' => [
-                'format' => "%administrativeArea\n%postalCode %locality\n%addressLine1\n%addressLine2\n%organization\n%givenName %familyName",
+                'format' => "%organization\n%givenName %familyName\n%addressLine1\n%addressLine2\n%postalCode, %locality\n%administrativeArea",
                 'postal_code_pattern' => '\d{6}',
             ],
             'CA' => [
@@ -746,7 +746,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
             ],
             'KH' => [
                 'format' => "%familyName %givenName\n%organization\n%addressLine1\n%addressLine2\n%locality %postalCode",
-                'postal_code_pattern' => '\d{5}',
+                'postal_code_pattern' => '\d{5,6}',
             ],
             'KI' => [
                 'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%administrativeArea\n%locality",
@@ -1002,7 +1002,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'subdivision_depth' => 1,
             ],
             'NA' => [
-                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%localityn%postalCode",
+                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%locality\n%postalCode",
                 'postal_code_pattern' => '\d{5}',
             ],
             'NC' => [

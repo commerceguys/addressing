@@ -57,6 +57,9 @@
 			"iso_code": "CL-RM",
 			"has_children": true
 		},
+		"Ñuble": {
+			"iso_code": "CL-NB"
+		},
 		"Tarapacá": {
 			"iso_code": "CL-TA",
 			"has_children": true
