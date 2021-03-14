@@ -12,6 +12,11 @@
  */
 function get_address_format_customizations($countryCode) {
     $formatCustomizations = [];
+    // Replace the postal code pattern.
+    // https://github.com/google/libaddressinput/issues/207
+    $formatCustomizations['BH'] = [
+        'postal_code_pattern' => '(?:^|\b)(?:1[0-2]|[1-9])\d{2}(?:$|\b)',
+    ];
     // Make the locality required.
     $formatCustomizations['CO'] = [
         'required_fields' => [

@@ -215,7 +215,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
             ],
             'BH' => [
                 'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%locality %postalCode",
-                'postal_code_pattern' => '(?:\d|1[0-2])\d{2}',
+                'postal_code_pattern' => '(?:^|\b)(?:1[0-2]|[1-9])\d{2}(?:$|\b)',
             ],
             'BJ' => [
                 'uppercase_fields' => [
