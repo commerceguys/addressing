@@ -62,12 +62,12 @@ class CountryRepository implements CountryRepositoryInterface
         'eu', 'fa', 'fa-AF', 'fi', 'fil', 'fr', 'fr-BE', 'fr-CA', 'ga', 'gl',
         'gu', 'he', 'hi', 'hr', 'hu', 'hy', 'id', 'is', 'it', 'ja', 'ka', 'kk',
         'km', 'ko', 'ko-KP', 'ky', 'lo', 'lt', 'lv', 'mk', 'ml', 'mn', 'mr',
-        'ms', 'my', 'nb', 'ne', 'nl', 'or', 'pa', 'pl', 'ps', 'ps-PK', 'pt',
-        'pt-PT', 'ro', 'ro-MD', 'ru', 'ru-UA', 'sd', 'si', 'sk', 'sl', 'so',
-        'sq', 'sr', 'sr-Cyrl-BA', 'sr-Cyrl-ME', 'sr-Cyrl-XK', 'sr-Latn',
-        'sr-Latn-BA', 'sr-Latn-ME', 'sr-Latn-XK', 'sv', 'sw', 'sw-CD', 'sw-KE',
-        'ta', 'te', 'th', 'tk', 'tr', 'uk', 'ur', 'ur-IN', 'uz', 'vi', 'yue',
-        'zh', 'zh-Hant', 'zh-Hant-HK', 'zu'
+        'ms', 'my', 'nb', 'ne', 'nl', 'nn', 'no', 'or', 'pa', 'pl', 'ps',
+        'ps-PK', 'pt', 'pt-PT', 'ro', 'ro-MD', 'ru', 'ru-UA', 'sd', 'si',
+        'sk', 'sl', 'so', 'sq', 'sr', 'sr-Cyrl-BA', 'sr-Cyrl-ME', 'sr-Cyrl-XK',
+        'sr-Latn', 'sr-Latn-BA', 'sr-Latn-ME', 'sr-Latn-XK', 'sv', 'sw',
+        'sw-CD', 'sw-KE', 'ta', 'te', 'th', 'tk', 'tr', 'uk', 'ur', 'ur-IN',
+        'uz', 'vi', 'yue', 'zh', 'zh-Hant', 'zh-Hant-HK', 'zu'
     ];
 
     /**
