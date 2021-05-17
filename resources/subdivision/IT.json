@@ -424,7 +424,7 @@
 		"SS": {
 			"name": "Sassari",
 			"iso_code": "IT-SS",
-			"postal_code_pattern": "07[01]"
+			"postal_code_pattern": "07[01]|08020"
 		},
 		"SV": {
 			"name": "Savona",
