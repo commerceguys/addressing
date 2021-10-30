@@ -33,7 +33,7 @@ final class LocaleTest extends TestCase
         $this->assertTrue(Locale::matchCandidates('de', 'de-AT'));
 
         $this->assertFalse(Locale::matchCandidates('de', 'fr'));
-        // zh-Hant falls back to "root" instead of "zh".
+        // zh-Hant falls back to "und" instead of "zh".
         $this->assertFalse(Locale::matchCandidates('zh', 'zh-Hant'));
     }
 
@@ -102,7 +102,7 @@ final class LocaleTest extends TestCase
     public function testParent()
     {
         $this->assertEquals('sr-Latn', Locale::getParent('sr-Latn-RS'));
-        // sr-Latn falls back to "root" instead of "sr".
+        // sr-Latn falls back to "und" instead of "sr".
         $this->assertEquals(null, Locale::getParent('sr-Latn'));
         $this->assertEquals(null, Locale::getParent('sr'));
     }
