@@ -237,16 +237,16 @@ function discover_locales() {
     // Locales listed without a "-" match all variants.
     // Locales listed with a "-" match only those exact ones.
     $ignoredLocales = [
+        // English is our fallback, we don't need another.
+        "und",
         // Esperanto, Interlingua, Volapuk are made up languages.
-        'eo', 'ia', 'vo',
-        // Church Slavic, Manx, Prussian, Sanskrit are historical languages.
-        'cu', 'gv', 'prg', 'sa',
+        "eo", "ia", "vo",
+        // Belarus (Classical orthography), Church Slavic, Manx, Prussian are historical.
+        "be-tarask", "cu", "gv", "prg",
         // Valencian differs from its parent only by a single character (è/é).
-        'ca-ES-VALENCIA',
+        "ca-ES-valencia",
         // Infrequently used locales.
         "jv", "kn", "row",
-        // Special "grouping" locales.
-        'root', 'en-US-POSIX',
     ];
 
     // Gather available locales.
