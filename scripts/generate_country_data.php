@@ -9,10 +9,10 @@ date_default_timezone_set('UTC');
 
 include __DIR__ . '/../vendor/autoload.php';
 
-$localeDirectory = __DIR__ . '/assets/cldr-localenames-full/main/';
+$localeDirectory = __DIR__ . '/assets/cldr/cldr-json/cldr-localenames-modern/main/';
 $enCountries = $localeDirectory . 'en/territories.json';
-$codeMappings = __DIR__ . '/assets/cldr-core/supplemental/codeMappings.json';
-$currencyData = __DIR__ . '/assets/cldr-core/supplemental/currencyData.json';
+$codeMappings = __DIR__ . '/assets/cldr/cldr-json/cldr-core/supplemental/codeMappings.json';
+$currencyData = __DIR__ . '/assets/cldr/cldr-json/cldr-core/supplemental/currencyData.json';
 if (!file_exists($enCountries)) {
     die("The $enCountries file was not found");
 }
@@ -181,7 +181,6 @@ function generate_localizations(array $baseData, array $englishData) {
     global $localeDirectory;
 
     $localizations = [];
-    $untranslatedCounts = [];
     foreach (discover_locales() as $locale) {
         $data = json_decode(file_get_contents($localeDirectory . $locale . '/territories.json'), true);
         $data = $data['main'][$locale]['localeDisplayNames']['territories'];
@@ -190,22 +189,10 @@ function generate_localizations(array $baseData, array $englishData) {
                 // This country name is untranslated, use the english version.
                 if ($countryCode == str_replace('_', '-', $countryName)) {
                     $countryName = $englishData[$countryCode];
-                    // Maintain a count of untranslated countries per locale.
-                    $untranslatedCounts += [$locale => 0];
-                    $untranslatedCounts[$locale]++;
                 }
 
                 $localizations[$locale][$countryCode] = $countryName;
             }
-        }
-    }
-
-    // Ignore locales that are more than 80% untranslated.
-    foreach ($untranslatedCounts as $locale => $count) {
-        $totalCount = count($localizations[$locale]);
-        $untranslatedPercentage = $count * (100 / $totalCount);
-        if ($untranslatedPercentage >= 80) {
-            unset($localizations[$locale]);
         }
     }
 
@@ -250,12 +237,16 @@ function discover_locales() {
     // Locales listed without a "-" match all variants.
     // Locales listed with a "-" match only those exact ones.
     $ignoredLocales = [
-        // Interlingua is a made up language.
-        'ia',
+        // English is our fallback, we don't need another.
+        "und",
+        // Esperanto, Interlingua, Volapuk are made up languages.
+        "eo", "ia", "vo",
+        // Belarus (Classical orthography), Church Slavic, Manx, Prussian are historical.
+        "be-tarask", "cu", "gv", "prg",
         // Valencian differs from its parent only by a single character (è/é).
-        'ca-ES-VALENCIA',
-        // Special "grouping" locales.
-        'root', 'en-US-POSIX',
+        "ca-ES-valencia",
+        // Infrequently used locales.
+        "jv", "kn", "row",
     ];
 
     // Gather available locales.

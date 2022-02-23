@@ -4,11 +4,12 @@ namespace CommerceGuys\Addressing\Tests;
 
 use CommerceGuys\Addressing\Exception\UnknownLocaleException;
 use CommerceGuys\Addressing\Locale;
+use PHPUnit\Framework\TestCase;
 
 /**
  * @coversDefaultClass \CommerceGuys\Addressing\Locale
  */
-class LocaleTest extends \PHPUnit_Framework_TestCase
+final class LocaleTest extends TestCase
 {
     /**
      * @covers ::match
@@ -32,7 +33,7 @@ class LocaleTest extends \PHPUnit_Framework_TestCase
         $this->assertTrue(Locale::matchCandidates('de', 'de-AT'));
 
         $this->assertFalse(Locale::matchCandidates('de', 'fr'));
-        // zh-Hant falls back to "root" instead of "zh".
+        // zh-Hant falls back to "und" instead of "zh".
         $this->assertFalse(Locale::matchCandidates('zh', 'zh-Hant'));
     }
 
@@ -57,7 +58,7 @@ class LocaleTest extends \PHPUnit_Framework_TestCase
      */
     public function testResolveWithoutResult()
     {
-        $this->setExpectedException(UnknownLocaleException::class);
+        $this->expectException(UnknownLocaleException::class);
         $availableLocales = ['bs', 'en'];
         $locale = Locale::resolve($availableLocales, 'de');
     }
@@ -101,7 +102,7 @@ class LocaleTest extends \PHPUnit_Framework_TestCase
     public function testParent()
     {
         $this->assertEquals('sr-Latn', Locale::getParent('sr-Latn-RS'));
-        // sr-Latn falls back to "root" instead of "sr".
+        // sr-Latn falls back to "und" instead of "sr".
         $this->assertEquals(null, Locale::getParent('sr-Latn'));
         $this->assertEquals(null, Locale::getParent('sr'));
     }

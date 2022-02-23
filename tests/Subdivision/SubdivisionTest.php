@@ -5,11 +5,12 @@ namespace CommerceGuys\Addressing\Tests\Subdivision;
 use CommerceGuys\Addressing\Subdivision\PatternType;
 use CommerceGuys\Addressing\Subdivision\Subdivision;
 use Doctrine\Common\Collections\ArrayCollection;
+use PHPUnit\Framework\TestCase;
 
 /**
  * @coversDefaultClass \CommerceGuys\Addressing\Subdivision\Subdivision
  */
-class SubdivisionTest extends \PHPUnit_Framework_TestCase
+final class SubdivisionTest extends TestCase
 {
     /**
      * @covers ::__construct

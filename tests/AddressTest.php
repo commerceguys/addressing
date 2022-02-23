@@ -3,11 +3,12 @@
 namespace CommerceGuys\Addressing\Tests;
 
 use CommerceGuys\Addressing\Address;
+use PHPUnit\Framework\TestCase;
 
 /**
  * @coversDefaultClass \CommerceGuys\Addressing\Address
  */
-class AddressTest extends \PHPUnit_Framework_TestCase
+final class AddressTest extends TestCase
 {
     /**
      * @covers ::__construct

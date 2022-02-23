@@ -3,11 +3,12 @@
 namespace CommerceGuys\Addressing\Tests;
 
 use CommerceGuys\Addressing\UpdateHelper;
+use PHPUnit\Framework\TestCase;
 
 /**
  * @coversDefaultClass \CommerceGuys\Addressing\UpdateHelper
  */
-class UpdateHelperTest extends \PHPUnit_Framework_TestCase
+final class UpdateHelperTest extends TestCase
 {
     /**
      * @covers ::splitRecipient

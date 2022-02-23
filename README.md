@@ -3,7 +3,7 @@ addressing
 
 [![Build Status](https://travis-ci.org/commerceguys/addressing.svg?branch=master)](https://travis-ci.org/commerceguys/addressing)
 
-A PHP 5.5+ addressing library, powered by CLDR and Google's address data.
+A PHP 7.1+ addressing library, powered by CLDR and Google's address data.
 
 Manipulates postal addresses, meant to identify a precise recipient location for shipping or billing purposes.
 
@@ -17,7 +17,7 @@ Features:
 - Zones
 
 The dataset is [stored locally](https://github.com/commerceguys/addressing/tree/master/resources) in JSON format.
-Countries are generated from [CLDR](http://cldr.unicode.org) v34. Address formats and subdivisions are generated from Google's [Address Data Service](https://chromium-i18n.appspot.com/ssl-address).
+Countries are generated from [CLDR](http://cldr.unicode.org) v40. Address formats and subdivisions are generated from Google's [Address Data Service](https://chromium-i18n.appspot.com/ssl-address).
 
 Further backstory can be found in [this blog post](https://drupalcommerce.org/blog/16864/commerce-2x-stories-addressing).
 
@@ -104,8 +104,8 @@ foreach ($states as $state) {
 
 // Get the subdivisions for Brazilian state Ceará.
 $municipalities = $subdivisionRepository->getAll(['BR', 'CE']);
-foreach ($states as $state) {
-    echo $state->getName();
+foreach ($municipalities as $municipality) {
+    echo $municipality->getName();
 }
 ```
 

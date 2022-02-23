@@ -41,7 +41,7 @@
 			"local_code": "대구광역시",
 			"local_name": "대구",
 			"iso_code": "KR-27",
-			"postal_code_pattern": "4[12]\\d{2}",
+			"postal_code_pattern": "4[123]\\d{2}",
 			"has_children": true
 		},
 		"Daejeon": {

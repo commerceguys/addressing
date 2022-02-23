@@ -16,11 +16,17 @@
 		"Longgang Qu": {
 			"local_code": "龙岗区"
 		},
+		"Longhua Qu": {
+			"local_code": "龙华区"
+		},
 		"Luohu Qu": {
 			"local_code": "罗湖区"
 		},
 		"Nanshan Qu": {
 			"local_code": "南山区"
+		},
+		"Pingshan Qu": {
+			"local_code": "坪山新区"
 		},
 		"Yantian Qu": {
 			"local_code": "盐田区"

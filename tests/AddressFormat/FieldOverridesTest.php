@@ -5,11 +5,12 @@ namespace CommerceGuys\Addressing\Tests\AddressFormat;
 use CommerceGuys\Addressing\AddressFormat\AddressField;
 use CommerceGuys\Addressing\AddressFormat\FieldOverride;
 use CommerceGuys\Addressing\AddressFormat\FieldOverrides;
+use PHPUnit\Framework\TestCase;
 
 /**
  * @coversDefaultClass \CommerceGuys\Addressing\AddressFormat\FieldOverrides
  */
-class FieldOverridesTest extends \PHPUnit_Framework_TestCase
+final class FieldOverridesTest extends TestCase
 {
     /**
      * @covers ::__construct

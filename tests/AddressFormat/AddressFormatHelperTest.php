@@ -7,11 +7,12 @@ use CommerceGuys\Addressing\AddressFormat\AddressFormat;
 use CommerceGuys\Addressing\AddressFormat\AddressFormatHelper;
 use CommerceGuys\Addressing\AddressFormat\FieldOverride;
 use CommerceGuys\Addressing\AddressFormat\FieldOverrides;
+use PHPUnit\Framework\TestCase;
 
 /**
  * @coversDefaultClass \CommerceGuys\Addressing\AddressFormat\AddressFormatHelper
  */
-class AddressFormatHelperTest extends \PHPUnit_Framework_TestCase
+final class AddressFormatHelperTest extends TestCase
 {
     /**
      * @covers ::getGroupedFields

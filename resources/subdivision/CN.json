@@ -145,7 +145,7 @@
 		"Taiwan": {
 			"local_code": "台湾",
 			"iso_code": "CN-71",
-			"postal_code_pattern": "\\d{3}(\\d{2})?",
+			"postal_code_pattern": "\\d{3}(\\d{2,3})?",
 			"postal_code_pattern_type": "full",
 			"has_children": true
 		},

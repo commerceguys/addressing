@@ -33,7 +33,7 @@ interface AddressInterface
     /**
      * Gets the administrative area.
      *
-     * Called the "state" in the United States, "province" in France and Italy,
+     * Called the "state" in the United States, "region" in France, "province" in Italy,
      * "county" in Great Britain, "prefecture" in Japan, etc.
      *
      * @return string The administrative area. A subdivision code if there
