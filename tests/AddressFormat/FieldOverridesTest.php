@@ -15,10 +15,11 @@ final class FieldOverridesTest extends TestCase
     /**
      * @covers ::__construct
      *
-     * @expectedException \InvalidArgumentException
+     *
      */
     public function testInvalidField()
     {
+        $this->expectException(\InvalidArgumentException::class);
         $definition = [
             'INVALID_FIELD' => FieldOverride::HIDDEN,
         ];
@@ -28,10 +29,11 @@ final class FieldOverridesTest extends TestCase
     /**
      * @covers ::__construct
      *
-     * @expectedException \InvalidArgumentException
+     *
      */
     public function testInvalidOverride()
     {
+        $this->expectException(\InvalidArgumentException::class);
         $definition = [
             AddressField::POSTAL_CODE => 'INVALID',
         ];

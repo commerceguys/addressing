@@ -18,7 +18,7 @@ final class LazySubdivisionCollectionTest extends TestCase
     /**
      * {@inheritdoc}
      */
-    protected function setUp()
+    protected function setUp(): void
     {
         $this->collection = new LazySubdivisionCollection(['BR', 'Porto Acre']);
     }
@@ -29,7 +29,10 @@ final class LazySubdivisionCollectionTest extends TestCase
     public function testConstructor()
     {
         $collection = new LazySubdivisionCollection(['BR', 'Porto Acre']);
-        $this->assertEquals(['BR', 'Porto Acre'], $this->getObjectAttribute($collection, 'parents'));
+
+        $reflected_constraint = (new \ReflectionObject($collection))->getProperty('parents');
+        $reflected_constraint->setAccessible(TRUE);
+        $this->assertEquals(['BR', 'Porto Acre'], $reflected_constraint->getValue($collection));
     }
 
     /**

@@ -19,7 +19,7 @@ final class CountryConstraintValidatorTest extends ConstraintValidatorTestCase
     /**
      * {@inheritdoc}
      */
-    protected function setUp()
+    protected function setUp(): void
     {
         $this->constraint = new CountryConstraint();
 
@@ -57,10 +57,11 @@ final class CountryConstraintValidatorTest extends ConstraintValidatorTestCase
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\CountryConstraintValidator
      *
-     * @expectedException \Symfony\Component\Validator\Exception\UnexpectedTypeException
+     *
      */
     public function testInvalidValueType()
     {
+        $this->expectException(\Symfony\Component\Validator\Exception\UnexpectedTypeException::class);
         $this->validator->validate(new \stdClass(), $this->constraint);
     }
 
@@ -87,7 +88,7 @@ final class CountryConstraintValidatorTest extends ConstraintValidatorTestCase
         $this->assertNoViolation();
     }
 
-    public function getValidCountries()
+    public function getValidCountries(): array
     {
         return [
             ['GB'],

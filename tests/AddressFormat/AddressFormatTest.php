@@ -18,10 +18,11 @@ final class AddressFormatTest extends TestCase
     /**
      * @covers ::__construct
      *
-     * @expectedException \InvalidArgumentException
+     *
      */
     public function testMissingProperty()
     {
+        $this->expectException(\InvalidArgumentException::class);
         $definition = [
             'country_code' => 'US',
         ];
@@ -31,10 +32,11 @@ final class AddressFormatTest extends TestCase
     /**
      * @covers ::__construct
      *
-     * @expectedException \InvalidArgumentException
+     *
      */
     public function testInvalidSubdivision()
     {
+        $this->expectException(\InvalidArgumentException::class);
         $definition = [
             'country_code' => 'US',
             'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%dependentLocality",
