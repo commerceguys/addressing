@@ -17,11 +17,6 @@ class CountryConstraintValidator extends ConstraintValidator
      */
     protected $countryRepository;
 
-    /**
-     * Creates a CountryValidator instance.
-     *
-     * @param CountryRepositoryInterface $countryRepository
-     */
     public function __construct(CountryRepositoryInterface $countryRepository = null)
     {
         $this->countryRepository = $countryRepository ?: new CountryRepository();

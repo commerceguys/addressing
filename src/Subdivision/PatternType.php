@@ -23,7 +23,7 @@ final class PatternType extends AbstractEnum
      *
      * @return string The default value.
      */
-    public static function getDefault()
+    public static function getDefault(): string
     {
         // Most subdivisions define only partial patterns.
         return static::START;

@@ -44,8 +44,8 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
     /**
      * Creates a SubdivisionRepository instance.
      *
-     * @param AddressFormatRepositoryInterface $addressFormatRepository The address format repository.
-     * @param string                           $definitionPath          Path to the subdivision definitions.
+     * @param AddressFormatRepositoryInterface|null $addressFormatRepository The address format repository.
+     * @param null $definitionPath Path to the subdivision definitions.
      */
     public function __construct(AddressFormatRepositoryInterface $addressFormatRepository = null, $definitionPath = null)
     {
@@ -56,7 +56,7 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
     /**
      * {@inheritdoc}
      */
-    public function get($code, array $parents)
+    public function get($code, array $parents): ?Subdivision
     {
         $definitions = $this->loadDefinitions($parents);
         return $this->createSubdivisionFromDefinitions($code, $definitions);
@@ -65,7 +65,7 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
     /**
      * {@inheritdoc}
      */
-    public function getAll(array $parents)
+    public function getAll(array $parents): array
     {
         $definitions = $this->loadDefinitions($parents);
         if (empty($definitions)) {
@@ -83,14 +83,14 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
     /**
      * {@inheritdoc}
      */
-    public function getList(array $parents, $locale = null)
+    public function getList(array $parents, $locale = null): array
     {
         $definitions = $this->loadDefinitions($parents);
         if (empty($definitions)) {
             return [];
         }
 
-        $definitionLocale = isset($definitions['locale']) ? $definitions['locale'] : '';
+        $definitionLocale = $definitions['locale'] ?? '';
         $useLocalName = Locale::matchCandidates($locale, $definitionLocale);
         $list = [];
         foreach ($definitions['subdivisions'] as $code => $definition) {
@@ -108,7 +108,7 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
      * @return bool TRUE if predefined subdivisions exist for the provided
      *              parents, FALSE otherwise.
      */
-    protected function hasData(array $parents)
+    protected function hasData(array $parents): bool
     {
         $countryCode = $parents[0];
         $addressFormat = $this->addressFormatRepository->get($countryCode);
@@ -145,7 +145,7 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
      *
      * @return array The subdivision definitions.
      */
-    protected function loadDefinitions(array $parents)
+    protected function loadDefinitions(array $parents): array
     {
         $group = $this->buildGroup($parents);
         if (isset($this->definitions[$group])) {
@@ -174,7 +174,7 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
      *
      * @return array The processed definitions.
      */
-    protected function processDefinitions(array $definitions)
+    protected function processDefinitions(array $definitions): array
     {
         foreach ($definitions['subdivisions'] as $code => &$definition) {
             // Add common keys from the root level.
@@ -204,7 +204,7 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
      *
      * @return string The group.
      */
-    protected function buildGroup(array $parents)
+    protected function buildGroup(array $parents): string
     {
         if (empty($parents)) {
             throw new \InvalidArgumentException('The $parents argument must not be empty.');
@@ -227,12 +227,10 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
     /**
      * Creates a subdivision object from the provided definitions.
      *
-     * @param int    $code        The subdivision code.
+     * @param string $code        The subdivision code.
      * @param array  $definitions The subdivision definitions.
-     *
-     * @return Subdivision
      */
-    protected function createSubdivisionFromDefinitions($code, array $definitions)
+    protected function createSubdivisionFromDefinitions(string $code, array $definitions): ?Subdivision
     {
         if (!isset($definitions['subdivisions'][$code])) {
             // No matching definition found.
