@@ -23,7 +23,7 @@ final class AddressFormatConstraintValidatorTest extends ConstraintValidatorTest
     /**
      * {@inheritdoc}
      */
-    protected function setUp()
+    protected function setUp(): void
     {
         $this->constraint = new AddressFormatConstraint();
 
@@ -48,11 +48,10 @@ final class AddressFormatConstraintValidatorTest extends ConstraintValidatorTest
 
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatConstraintValidator
-     *
-     * @expectedException \Symfony\Component\Validator\Exception\UnexpectedTypeException
      */
     public function testInvalidValueType()
     {
+        $this->expectException(\Symfony\Component\Validator\Exception\UnexpectedTypeException::class);
         $this->validator->validate(new \stdClass(), $this->constraint);
     }
 
@@ -379,7 +378,7 @@ final class AddressFormatConstraintValidatorTest extends ConstraintValidatorTest
     }
 
     /**
-     * @covers CommerceGuys\Addressing\Validator\Constraints\AddressFormatConstraintValidator
+     * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatConstraintValidator
      */
     public function testJapan()
     {

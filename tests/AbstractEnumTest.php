@@ -46,23 +46,21 @@ final class AbstractEnumTest extends TestCase
 
     /**
      * @covers ::assertExists
-     *
-     * @expectedException \InvalidArgumentException
-     * @expectedExceptionMessage "invalid" is not a valid PatternType value.
      */
     public function testAssertExists()
     {
+        $this->expectExceptionMessage("\"invalid\" is not a valid PatternType value.");
+        $this->expectException(\InvalidArgumentException::class);
         $result = PatternType::assertExists('invalid');
     }
 
     /**
      * @covers ::assertAllExist
-     *
-     * @expectedException \InvalidArgumentException
-     * @expectedExceptionMessage "invalid" is not a valid PatternType value.
      */
     public function testAssertAllExist()
     {
+        $this->expectExceptionMessage("\"invalid\" is not a valid PatternType value.");
+        $this->expectException(\InvalidArgumentException::class);
         $result = PatternType::assertAllExist(['start', 'invalid']);
     }
 }
