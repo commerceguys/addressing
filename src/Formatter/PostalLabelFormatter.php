@@ -59,7 +59,7 @@ class PostalLabelFormatter extends DefaultFormatter implements PostalLabelFormat
     /**
      * {@inheritdoc}
      */
-    protected function buildView(AddressInterface $address, AddressFormat $addressFormat, array $options)
+    protected function buildView(AddressInterface $address, AddressFormat $addressFormat, array $options): array
     {
         if (empty($options['origin_country'])) {
             throw new \InvalidArgumentException("The origin_country option can't be empty.");

@@ -30,11 +30,6 @@ class Zone
      */
     protected $territories;
 
-    /**
-     * Creates a new Zone instance.
-     *
-     * @param array $definition The definition array.
-     */
     public function __construct(array $definition)
     {
         foreach (['id', 'label', 'territories'] as $required_property) {
@@ -53,22 +48,12 @@ class Zone
         }
     }
 
-    /**
-     * Gets the ID.
-     *
-     * @return string The ID.
-     */
-    public function getId()
+    public function getId(): string
     {
         return $this->id;
     }
 
-    /**
-     * Gets the label.
-     *
-     * @return string The label.
-     */
-    public function getLabel()
+    public function getLabel(): string
     {
         return $this->label;
     }
@@ -78,7 +63,7 @@ class Zone
      *
      * @return \CommerceGuys\Addressing\Zone\ZoneTerritory[] The territories.
      */
-    public function getTerritories()
+    public function getTerritories(): array
     {
         return $this->territories;
     }
@@ -90,7 +75,7 @@ class Zone
      *
      * @return bool True if the provided address belongs to the zone, false otherwise.
      */
-    public function match(AddressInterface $address)
+    public function match(AddressInterface $address): bool
     {
         foreach ($this->territories as $territory) {
             if ($territory->match($address)) {

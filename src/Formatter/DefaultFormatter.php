@@ -71,7 +71,7 @@ class DefaultFormatter implements FormatterInterface
     /**
      * {@inheritdoc}
      */
-    public function format(AddressInterface $address, array $options = [])
+    public function format(AddressInterface $address, array $options = []): string
     {
         $this->validateOptions($options);
         $options = array_replace($this->defaultOptions, $options);
@@ -112,11 +112,9 @@ class DefaultFormatter implements FormatterInterface
      *
      * Ensures the absence of unknown keys, correct data types and values.
      *
-     * @param array $options The options.
-     *
      * @throws \InvalidArgumentException
      */
-    protected function validateOptions(array $options)
+    protected function validateOptions(array $options): void
     {
         foreach ($options as $option => $value) {
             if (!array_key_exists($option, $this->defaultOptions)) {
@@ -140,7 +138,7 @@ class DefaultFormatter implements FormatterInterface
      *
      * @return array The view.
      */
-    protected function buildView(AddressInterface $address, AddressFormat $addressFormat, array $options)
+    protected function buildView(AddressInterface $address, AddressFormat $addressFormat, array $options): array
     {
         $countries = $this->countryRepository->getList($options['locale']);
         $values = $this->getValues($address, $addressFormat);
@@ -175,7 +173,7 @@ class DefaultFormatter implements FormatterInterface
      *
      * @return array An array of rendered values with the original keys preserved.
      */
-    protected function renderView(array $view)
+    protected function renderView(array $view): array
     {
         foreach ($view as $key => $element) {
             if (empty($element['value'])) {
@@ -197,14 +195,7 @@ class DefaultFormatter implements FormatterInterface
         return $view;
     }
 
-    /**
-     * Renders the given attributes.
-     *
-     * @param array $attributes The attributes.
-     *
-     * @return string The rendered attributes.
-     */
-    protected function renderAttributes(array $attributes)
+    protected function renderAttributes(array $attributes): string
     {
         foreach ($attributes as $name => $value) {
             if (is_array($value)) {
@@ -223,7 +214,7 @@ class DefaultFormatter implements FormatterInterface
      *
      * @return string The cleaned up output.
      */
-    protected function cleanupOutput($output)
+    protected function cleanupOutput(string $output): string
     {
         $lines = explode("\n", $output);
         foreach ($lines as $index => $line) {
@@ -240,12 +231,10 @@ class DefaultFormatter implements FormatterInterface
     /**
      * Gets the address values used to build the view.
      *
-     * @param AddressInterface $address       The address.
-     * @param AddressFormat    $addressFormat The address format.
-     *
      * @return array The values, keyed by address field.
+     * @throws \ReflectionException
      */
-    protected function getValues(AddressInterface $address, AddressFormat $addressFormat)
+    protected function getValues(AddressInterface $address, AddressFormat $addressFormat): array
     {
         $values = [];
         foreach (AddressField::getAll() as $field) {

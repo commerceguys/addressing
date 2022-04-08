@@ -17,12 +17,7 @@ final class DependentLocalityType extends AbstractEnum
     const SUBURB = 'suburb';
     const TOWNLAND = 'townland';
 
-    /**
-     * Gets the default value.
-     *
-     * @return string The default value.
-     */
-    public static function getDefault()
+    public static function getDefault(): string
     {
         return static::SUBURB;
     }

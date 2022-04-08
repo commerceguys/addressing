@@ -49,11 +49,6 @@ final class Country
      */
     protected $locale;
 
-    /**
-     * Creates a new Country instance.
-     *
-     * @param array $definition The definition array.
-     */
     public function __construct(array $definition)
     {
         foreach (['country_code', 'name', 'locale'] as $requiredProperty) {
@@ -78,20 +73,16 @@ final class Country
 
     /**
      * Gets the string representation of the Country.
-     *
-     * @return string
      */
-    public function __toString()
+    public function __toString(): string
     {
         return $this->countryCode;
     }
 
     /**
      * Gets the two-letter country code.
-     *
-     * @return string
      */
-    public function getCountryCode()
+    public function getCountryCode(): string
     {
         return $this->countryCode;
     }
@@ -100,10 +91,8 @@ final class Country
      * Gets the country name.
      *
      * This value is locale specific.
-     *
-     * @return string
      */
-    public function getName()
+    public function getName(): string
     {
         return $this->name;
     }
@@ -115,10 +104,8 @@ final class Country
      * CLDR lists "Canary Islands" (IC) and "Ceuta and Melilla" (EA)
      * as separate countries, even though they are formally a part of Spain
      * and have no three-letter or numeric ISO codes.
-     *
-     * @return string|null
      */
-    public function getThreeLetterCode()
+    public function getThreeLetterCode(): ?string
     {
         return $this->threeLetterCode;
     }
@@ -138,7 +125,7 @@ final class Country
      *
      * @return string|null
      */
-    public function getNumericCode()
+    public function getNumericCode(): ?string
     {
         return $this->numericCode;
     }
@@ -150,7 +137,7 @@ final class Country
      *
      * @return string|null
      */
-    public function getCurrencyCode()
+    public function getCurrencyCode(): ?string
     {
         return $this->currencyCode;
     }
@@ -163,7 +150,7 @@ final class Country
      *
      * @return string[]
      */
-    public function getTimezones()
+    public function getTimezones(): array
     {
         return \DateTimeZone::listIdentifiers(\DateTimeZone::PER_COUNTRY, $this->countryCode);
     }
@@ -172,10 +159,8 @@ final class Country
      * Gets the locale.
      *
      * The country name is locale specific.
-     *
-     * @return string
      */
-    public function getLocale()
+    public function getLocale(): string
     {
         return $this->locale;
     }
