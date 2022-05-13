@@ -76,7 +76,7 @@ function get_address_format_customizations(string $countryCode)
 /**
  * Returns the subdivision customizations for the provided group.
  */
-function get_subdivision_customizations($group)
+function get_subdivision_customizations(string $group)
 {
     // Adds Colombian subdivisions
     // https://github.com/googlei18n/libaddressinput/issues/135
