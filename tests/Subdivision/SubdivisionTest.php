@@ -15,7 +15,7 @@ final class SubdivisionTest extends TestCase
     /**
      * @covers ::__construct
      */
-    public function testMissingProperty()
+    public function testMissingProperty(): void
     {
         $this->expectException(\InvalidArgumentException::class);
         $definition = [
@@ -39,9 +39,9 @@ final class SubdivisionTest extends TestCase
      * @covers ::getChildren
      * @covers ::hasChildren
      */
-    public function testValid()
+    public function testValid(): void
     {
-        $mockBuilder = $this->getMockBuilder('CommerceGuys\Addressing\Subdivision\Subdivision');
+        $mockBuilder = $this->getMockBuilder(Subdivision::class);
         $mockBuilder = $mockBuilder->disableOriginalConstructor();
         $parent = $mockBuilder->getMock();
         $children = new ArrayCollection([$mockBuilder->getMock(), $mockBuilder->getMock()]);

@@ -13,82 +13,47 @@ use Doctrine\Common\Collections\Collection;
  */
 class Subdivision
 {
-    /**
-     * The parent.
-     *
-     * @var Subdivision|null
-     */
-    protected $parent;
+    protected ?Subdivision $parent;
 
-    /**
-     * The country code.
-     *
-     * @var string
-     */
-    protected $countryCode;
+    protected string $countryCode;
 
     /**
      * The subdivision code.
-     *
-     * @var string
      */
-    protected $code;
+    protected string $code;
 
     /**
      * The local subdivision code.
-     *
-     * @var string|null
      */
-    protected $localCode;
+    protected ?string $localCode;
 
     /**
      * The subdivision name.
-     *
-     * @var string
      */
-    protected $name;
+    protected string $name;
 
     /**
      * The local subdivision name.
-     *
-     * @var string|null
      */
-    protected $localName;
+    protected ?string $localName;
 
-    /**
-     * The subdivision iso code.
-     *
-     * @var string|null
-     */
-    protected $isoCode;
+    protected ?string $isoCode;
 
-    /**
-     * The postal code pattern.
-     *
-     * @var string|null
-     */
-    protected $postalCodePattern;
+    protected ?string $postalCodePattern;
 
     /**
      * The postal code pattern type.
-     *
-     * @var string
      */
-    protected $postalCodePatternType;
+    protected string $postalCodePatternType;
 
     /**
      * The children.
      *
      * @param Subdivision[]
      */
-    protected $children;
+    protected Collection $children;
 
-    /**
-     * The locale.
-     *
-     * @var string|null
-     */
-    protected $locale;
+    protected ?string $locale;
 
     /**
      * Creates a new Subdivision instance.
@@ -176,8 +141,6 @@ class Subdivision
      *
      * This is the value that is stored on the address object.
      * Guaranteed to be in latin script.
-     *
-     * @return string The subdivision code.
      */
     public function getCode(): string
     {
@@ -240,8 +203,6 @@ class Subdivision
      *
      * This is a regular expression pattern used to validate postal codes.
      *
-     * @return string|null The postal code pattern.
-     *
      * @deprecated since commerceguys/addressing 1.1.0.
      */
     public function getPostalCodePattern(): ?string
@@ -264,7 +225,7 @@ class Subdivision
     /**
      * Gets the subdivision children.
      *
-     * @return ArrayCollection|LazySubdivisionCollection The subdivision children.
+     * @return Collection The subdivision children.
      */
     public function getChildren(): Collection
     {
@@ -273,8 +234,6 @@ class Subdivision
 
     /**
      * Checks whether the subdivision has children.
-     *
-     * @return bool TRUE if the subdivision has children, FALSE otherwise.
      */
     public function hasChildren(): bool
     {

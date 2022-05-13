@@ -17,7 +17,7 @@ final class AddressFormatHelperTest extends TestCase
     /**
      * @covers ::getGroupedFields
      */
-    public function testGetGroupedFields()
+    public function testGetGroupedFields(): void
     {
         $format = "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%locality, %postalCode";
         $expectedGroupedFields = [
@@ -45,7 +45,7 @@ final class AddressFormatHelperTest extends TestCase
     /**
      * @covers ::getRequiredFields
      */
-    public function testGetRequiredFields()
+    public function testGetRequiredFields(): void
     {
         $addressFormat = new AddressFormat([
             'country_code' => 'US',

@@ -31,7 +31,7 @@ class PostalLabelFormatter extends DefaultFormatter implements PostalLabelFormat
      *
      * @var array
      */
-    protected $defaultOptions = [
+    protected array $defaultOptions = [
         'locale' => 'en',
         'html' => false,
         'html_tag' => 'p',
@@ -74,7 +74,7 @@ class PostalLabelFormatter extends DefaultFormatter implements PostalLabelFormat
             }
         }
         // Handle international mailing.
-        if ($address->getCountryCode() != $options['origin_country']) {
+        if ($address->getCountryCode() !== $options['origin_country']) {
             // Prefix the postal code.
             $field = AddressField::POSTAL_CODE;
             if (isset($view[$field])) {

@@ -3,7 +3,8 @@ addressing
 
 [![Build Status](https://travis-ci.org/commerceguys/addressing.svg?branch=master)](https://travis-ci.org/commerceguys/addressing)
 
-A PHP 7.3+ addressing library, powered by CLDR and Google's address data.
+A PHP 8+ addressing library, powered by CLDR and Google's address data.
+If you use Php 7 please use the 1.x branch.
 
 Manipulates postal addresses, meant to identify a precise recipient location for shipping or billing purposes.
 
@@ -25,7 +26,7 @@ Also check out [commerceguys/intl](https://github.com/commerceguys/intl) for CLD
 
 # Data model
 
-The [address interface](https://github.com/commerceguys/addressing/blob/master/src/AddressInterface.php) represents a postal adddress, with getters for the following fields:
+The [address interface](https://github.com/commerceguys/addressing/blob/master/src/AddressInterface.php) represents a postal address, with getters for the following fields:
 
 - Country code
 - Administrative area
@@ -63,8 +64,8 @@ The [country](https://github.com/commerceguys/addressing/blob/master/src/Country
 
 The [subdivision](https://github.com/commerceguys/addressing/blob/master/src/Subdivision/Subdivision.php) provides the following information:
 
-- The subdivision code (used to represent the subdivison on a parcel/envelope, e.g. CA for California)
-- The subdivison name (shown to the user in a dropdown)
+- The subdivision code (used to represent the subdivision on a parcel/envelope, e.g. CA for California)
+- The subdivision name (shown to the user in a dropdown)
 - The local code and name, if the country uses a non-latin script (e.g. Cyrilic in Russia).
 - The postal code prefix (used to ensure that a postal code begins with the expected characters)
 

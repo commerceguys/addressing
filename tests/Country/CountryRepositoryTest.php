@@ -17,7 +17,7 @@ final class CountryRepositoryTest extends TestCase
      *
      * @var array
      */
-    protected $definitions = [
+    protected array $definitions = [
         'en' => [
             'FR' => 'France',
             'US' => 'United States',
@@ -35,7 +35,7 @@ final class CountryRepositoryTest extends TestCase
     /**
      * @covers ::__construct
      */
-    public function testConstructor()
+    public function testConstructor(): CountryRepository
     {
         // Mock the existence of JSON definitions on the filesystem.
         $root = vfsStream::setup('resources');
@@ -48,7 +48,7 @@ final class CountryRepositoryTest extends TestCase
         $countryRepository = new CountryRepository('de', 'en', 'vfs://resources/country/');
 
         $reflected_constraint = (new \ReflectionObject($countryRepository))->getProperty('definitionPath');
-        $reflected_constraint->setAccessible(TRUE);
+        $reflected_constraint->setAccessible(true);
         $definitionPath = $reflected_constraint->getValue($countryRepository);
         $this->assertEquals('vfs://resources/country/', $definitionPath);
 
@@ -63,7 +63,7 @@ final class CountryRepositoryTest extends TestCase
      * @uses \CommerceGuys\Addressing\Locale
      * @depends testConstructor
      */
-    public function testGet($countryRepository)
+    public function testGet($countryRepository): void
     {
         // Explicit locale.
         $country = $countryRepository->get('FR', 'es');
@@ -98,7 +98,7 @@ final class CountryRepositoryTest extends TestCase
      *
      * @depends testConstructor
      */
-    public function testGetInvalidCountry($countryRepository)
+    public function testGetInvalidCountry($countryRepository): void
     {
         $this->expectException(\CommerceGuys\Addressing\Exception\UnknownCountryException::class);
         $countryRepository->get('INVALID');
@@ -112,7 +112,7 @@ final class CountryRepositoryTest extends TestCase
      * @uses \CommerceGuys\Addressing\Locale
      * @depends testConstructor
      */
-    public function testGetAll($countryRepository)
+    public function testGetAll($countryRepository): void
     {
         // Explicit locale.
         $countries = $countryRepository->getAll('es');
@@ -143,7 +143,7 @@ final class CountryRepositoryTest extends TestCase
      * @uses \CommerceGuys\Addressing\Locale
      * @depends testConstructor
      */
-    public function testGetList($countryRepository)
+    public function testGetList($countryRepository): void
     {
         // Explicit locale.
         $list = $countryRepository->getList('es');

@@ -16,7 +16,7 @@ final class Locale
      *
      * @var array
      */
-    protected static $aliases = [
+    protected static array $aliases = [
         'az-AZ' => 'az-Latn-AZ',
         'bs-BA' => 'bs-Latn-BA',
         'ha-GH' => 'ha-Latn-GH',
@@ -67,7 +67,7 @@ final class Locale
      *
      * @var array
      */
-    protected static $parents = [
+    protected static array $parents = [
         'en-150' => 'en-001',
         'en-AG' => 'en-001',
         'en-AI' => 'en-001',
@@ -232,11 +232,6 @@ final class Locale
 
     /**
      * Checks whether two locales match.
-     *
-     * @param string $firstLocale  The first locale.
-     * @param string $secondLocale The second locale.
-     *
-     * @return bool TRUE if the locales match, FALSE otherwise.
      */
     public static function match(string $firstLocale, string $secondLocale): bool
     {
@@ -253,15 +248,11 @@ final class Locale
      * For example, "de" and "de-AT" will match because they both have
      * "de" in common. This is useful for partial locale matching.
      *
-     * @param string $firstLocale  The first locale.
-     * @param string $secondLocale The second locale.
-     *
      * @return bool TRUE if there is a common candidate, FALSE otherwise.
      * @see self::getCandidates
      * TODO Check if typehints could be added (NULL)
-     *
      */
-    public static function matchCandidates($firstLocale, $secondLocale): bool
+    public static function matchCandidates(?string $firstLocale, ?string $secondLocale): bool
     {
         if (empty($firstLocale) || empty($secondLocale)) {
             return false;
@@ -287,11 +278,8 @@ final class Locale
      * @param string $locale           The requested locale (i.e. fr-FR).
      * @param string|null $fallbackLocale   A fallback locale (i.e "en").
      *
-     * @return string
-     *
      * @throws UnknownLocaleException
-     *@see self::getCandidates
-     *
+     * @see self::getCandidates
      */
     public static function resolve(array $availableLocales, string $locale, string $fallbackLocale = null): string
     {
@@ -316,10 +304,6 @@ final class Locale
      *
      * Standardizes separators and capitalization, turning
      * a locale such as "sr_rs_latn" into "sr-RS-Latn".
-     *
-     * @param string $locale The locale.
-     *
-     * @return string The canonicalized locale.
      */
     public static function canonicalize(?string $locale): ?string
     {
@@ -335,7 +319,7 @@ final class Locale
                 continue;
             }
 
-            if (strlen($part) == 4) {
+            if (strlen($part) === 4) {
                 // Script code.
                 $localeParts[$index] = ucfirst($part);
             } else {
@@ -364,7 +348,7 @@ final class Locale
      *
      * @return array An array of all variants of a locale.
      */
-    public static function getCandidates(string $locale, string $fallbackLocale = null): array
+    public static function getCandidates(string $locale, ?string $fallbackLocale = null): array
     {
         $locale = self::replaceAlias($locale);
         $candidates = [$locale];
@@ -385,26 +369,20 @@ final class Locale
 
     /**
      * Gets the parent for the given locale.
-     *
-     * @param string $locale
-     *   The locale.
-     *
-     * @return string|null
-     *   The parent, or null if none found.
      */
     public static function getParent(string $locale): ?string
     {
         $parent = null;
         if (isset(self::$parents[$locale])) {
             $parent = self::$parents[$locale];
-        } elseif (strpos($locale, '-') !== false) {
+        } elseif (str_contains($locale, '-')) {
             $localeParts = explode('-', $locale);
             array_pop($localeParts);
             $parent = implode('-', $localeParts);
         }
         // The library doesn't have data for the empty 'und' locale, it
         // is more user friendly to use the configured fallback instead.
-        if ($parent == 'und') {
+        if ($parent === 'und') {
             $parent = null;
         }
 
@@ -415,8 +393,6 @@ final class Locale
      * Replaces a locale alias with the real locale.
      *
      * For example, "zh-CN" is replaced with "zh-Hans-CN".
-     *
-     * @return string The locale.
      */
     public static function replaceAlias(?string $locale): ?string
     {

@@ -10,7 +10,8 @@
 /**
  * Returns the address format customizations for the provided country code.
  */
-function get_address_format_customizations($countryCode) {
+function get_address_format_customizations(string $countryCode)
+{
     $formatCustomizations = [];
     // Replace the postal code pattern.
     // https://github.com/google/libaddressinput/issues/207
@@ -69,13 +70,14 @@ function get_address_format_customizations($countryCode) {
         ],
     ];
 
-    return isset($formatCustomizations[$countryCode]) ? $formatCustomizations[$countryCode] : [];
+    return $formatCustomizations[$countryCode] ?? [];
 }
 
 /**
  * Returns the subdivision customizations for the provided group.
  */
-function get_subdivision_customizations($group) {
+function get_subdivision_customizations($group)
+{
     // Adds Colombian subdivisions
     // https://github.com/googlei18n/libaddressinput/issues/135
     $subdivisionCustomizations['CO'] = [
@@ -253,5 +255,5 @@ function get_subdivision_customizations($group) {
         ],
     ];
 
-    return isset($subdivisionCustomizations[$group]) ? $subdivisionCustomizations[$group] : [];
+    return $subdivisionCustomizations[$group] ?? [];
 }

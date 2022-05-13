@@ -17,33 +17,13 @@ use PHPUnit\Framework\TestCase;
  */
 final class DefaultFormatterTest extends TestCase
 {
-    /**
-     * The address format repository.
-     *
-     * @var AddressFormatRepositoryInterface
-     */
-    protected $addressFormatRepository;
+    protected AddressFormatRepositoryInterface $addressFormatRepository;
 
-    /**
-     * The country repository.
-     *
-     * @var CountryRepositoryInterface
-     */
-    protected $countryRepository;
+    protected CountryRepositoryInterface $countryRepository;
 
-    /**
-     * The subdivision repository.
-     *
-     * @var SubdivisionRepositoryInterface
-     */
-    protected $subdivisionRepository;
+    protected SubdivisionRepositoryInterface $subdivisionRepository;
 
-    /**
-     * The formatter.
-     *
-     * @var DefaultFormatter
-     */
-    protected $formatter;
+    protected DefaultFormatter $formatter;
 
     /**
      * {@inheritdoc}
@@ -64,17 +44,17 @@ final class DefaultFormatterTest extends TestCase
         $formatter = new DefaultFormatter($this->addressFormatRepository, $this->countryRepository, $this->subdivisionRepository);
 
         $reflected_constraint = (new \ReflectionObject($formatter))->getProperty('addressFormatRepository');
-        $reflected_constraint->setAccessible(TRUE);
+        $reflected_constraint->setAccessible(true);
         $constraint = $reflected_constraint->getValue($formatter);
         $this->assertInstanceOf(AddressFormatRepository::class, $constraint);
 
         $reflected_constraint = (new \ReflectionObject($formatter))->getProperty('countryRepository');
-        $reflected_constraint->setAccessible(TRUE);
+        $reflected_constraint->setAccessible(true);
         $constraint = $reflected_constraint->getValue($formatter);
         $this->assertInstanceOf(CountryRepository::class, $constraint);
 
         $reflected_constraint = (new \ReflectionObject($formatter))->getProperty('subdivisionRepository');
-        $reflected_constraint->setAccessible(TRUE);
+        $reflected_constraint->setAccessible(true);
         $constraint = $reflected_constraint->getValue($formatter);
         $this->assertInstanceOf(SubdivisionRepository::class, $constraint);
     }
@@ -82,7 +62,7 @@ final class DefaultFormatterTest extends TestCase
     /**
      * @covers ::__construct
      */
-    public function testUnrecognizedOption()
+    public function testUnrecognizedOption(): void
     {
         $this->expectException(\InvalidArgumentException::class);
         $formatter = new DefaultFormatter($this->addressFormatRepository, $this->countryRepository, $this->subdivisionRepository, ['unrecognized' => '123']);
@@ -91,7 +71,7 @@ final class DefaultFormatterTest extends TestCase
     /**
      * @covers ::__construct
      */
-    public function testInvalidOption()
+    public function testInvalidOption(): void
     {
         $this->expectException(\InvalidArgumentException::class);
         $formatter = new DefaultFormatter($this->addressFormatRepository, $this->countryRepository, $this->subdivisionRepository, ['html' => 'INVALID']);
@@ -100,7 +80,7 @@ final class DefaultFormatterTest extends TestCase
     /**
      * @covers \CommerceGuys\Addressing\Formatter\DefaultFormatter
      */
-    public function testAndorraAddress()
+    public function testAndorraAddress(): void
     {
         $address = new Address();
         $address = $address
@@ -123,7 +103,7 @@ final class DefaultFormatterTest extends TestCase
     /**
      * @covers \CommerceGuys\Addressing\Formatter\DefaultFormatter
      */
-    public function testElSalvadorAddress()
+    public function testElSalvadorAddress(): void
     {
         $address = new Address();
         $address = $address
@@ -177,7 +157,7 @@ final class DefaultFormatterTest extends TestCase
     /**
      * @covers \CommerceGuys\Addressing\Formatter\DefaultFormatter
      */
-    public function testTaiwanAddress()
+    public function testTaiwanAddress(): void
     {
         // Real addresses in the major-to-minor order would be completely in
         // Traditional Chinese. That's not the case here, for readability.
@@ -233,7 +213,7 @@ final class DefaultFormatterTest extends TestCase
     /**
      * @covers \CommerceGuys\Addressing\Formatter\DefaultFormatter
      */
-    public function testUnitedStatesIncompleteAddress()
+    public function testUnitedStatesIncompleteAddress(): void
     {
         // Create a US address without a locality.
         $address = new Address();
@@ -288,7 +268,7 @@ final class DefaultFormatterTest extends TestCase
     /**
      * Asserts that the formatted address is valid.
      */
-    protected function assertFormattedAddress(array $expectedLines, string $formattedAddress)
+    protected function assertFormattedAddress(array $expectedLines, string $formattedAddress): void
     {
         $expectedLines = implode("\n", $expectedLines);
         $this->assertEquals($expectedLines, $formattedAddress);

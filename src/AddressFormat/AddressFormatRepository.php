@@ -2,24 +2,24 @@
 
 namespace CommerceGuys\Addressing\AddressFormat;
 
+use JetBrains\PhpStorm\ArrayShape;
+
 class AddressFormatRepository implements AddressFormatRepositoryInterface
 {
     /**
      * The instantiated address formats, keyed by country code.
-     *
-     * @var array
      */
-    protected $addressFormats = [];
+    protected array $addressFormats = [];
 
     /**
      * {@inheritdoc}
      */
-    public function get($countryCode)
+    public function get(string $countryCode): AddressFormat
     {
         $countryCode = strtoupper($countryCode);
         if (!isset($this->addressFormats[$countryCode])) {
             $definitions = $this->getDefinitions();
-            $definition = isset($definitions[$countryCode]) ? $definitions[$countryCode] : [];
+            $definition = $definitions[$countryCode] ?? [];
             $definition = $this->processDefinition($countryCode, $definition);
             $this->addressFormats[$countryCode] = new AddressFormat($definition);
         }
@@ -44,11 +44,6 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
 
     /**
      * Processes the country's address format definition.
-     *
-     * @param string $countryCode The country code.
-     * @param array $definition   The definition.
-     *
-     * @return array The processed definition.
      */
     protected function processDefinition(string $countryCode, array $definition): array
     {
@@ -67,6 +62,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
      *
      * @return array The generic address format definition.
      */
+    #[ArrayShape(['format' => "string", 'required_fields' => "string[]", 'uppercase_fields' => "string[]", 'administrative_area_type' => "string", 'locality_type' => "string", 'dependent_locality_type' => "string", 'postal_code_type' => "string", 'subdivision_depth' => "int"])]
     protected function getGenericDefinition(): array
     {
         return [
@@ -93,7 +89,9 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
     protected function getDefinitions(): array
     {
         // @codingStandardsIgnoreStart
-        $definitions = [
+        // @codingStandardsIgnoreEnd
+
+        return [
             'AC' => [
                 'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%locality\n%postalCode",
                 'postal_code_pattern' => 'ASCN 1ZZ',
@@ -1538,8 +1536,5 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'postal_code_pattern' => '\d{5}',
             ],
         ];
-        // @codingStandardsIgnoreEnd
-
-        return $definitions;
     }
 }
