@@ -124,9 +124,9 @@ class CountryRepository implements CountryRepositoryInterface
             $countries[$countryCode] = new Country([
                 'country_code' => $countryCode,
                 'name' => $countryName,
-                'three_letter_code' => $baseDefinitions[$countryCode][0],
-                'numeric_code' => $baseDefinitions[$countryCode][1],
-                'currency_code' => $baseDefinitions[$countryCode][2],
+                'three_letter_code' => $baseDefinitions[$countryCode][0] ?? null,
+                'numeric_code' => $baseDefinitions[$countryCode][1] ?? null,
+                'currency_code' => $baseDefinitions[$countryCode][2] ?? null,
                 'locale' => $locale,
             ]);
         }
