@@ -1431,7 +1431,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'postal_code_pattern' => '96898',
             ],
             'US' => [
-                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%locality, %administrativeArea %postalCode",
+                'format' => "%givenName %additionalName %familyName\n%organization\n%addressLine1\n%addressLine2\n%locality, %administrativeArea %postalCode",
                 'required_fields' => [
                     'addressLine1', 'locality', 'administrativeArea', 'postalCode',
                 ],
