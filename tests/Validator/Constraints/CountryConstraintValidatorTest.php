@@ -16,6 +16,7 @@ final class CountryConstraintValidatorTest extends ConstraintValidatorTestCase
      */
     protected $constraint;
 
+
     /**
      * {@inheritdoc}
      */
@@ -32,9 +33,22 @@ final class CountryConstraintValidatorTest extends ConstraintValidatorTestCase
         $this->value = 'InvalidValue';
         $this->root = 'root';
         $this->propertyPath = '';
+
         $this->context = $this->createContext();
         $this->validator = $this->createValidator();
         $this->validator->initialize($this->context);
+
+        $this->defaultLocale = 'en';
+
+        $this->expectedViolations = [];
+        $this->call = 0;
+
+        $this->setDefaultTimezone('UTC');
+    }
+
+    protected function tearDown(): void
+    {
+        $this->restoreDefaultTimezone();
     }
 
     protected function createValidator()

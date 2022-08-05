@@ -8,6 +8,7 @@ use CommerceGuys\Addressing\AddressFormat\FieldOverride;
 use CommerceGuys\Addressing\AddressFormat\FieldOverrides;
 use CommerceGuys\Addressing\Validator\Constraints\AddressFormatConstraint;
 use CommerceGuys\Addressing\Validator\Constraints\AddressFormatConstraintValidator;
+use Symfony\Component\Validator\Constraints\NotNull;
 use Symfony\Component\Validator\Test\ConstraintValidatorTestCase;
 
 /**
@@ -36,9 +37,22 @@ final class AddressFormatConstraintValidatorTest extends ConstraintValidatorTest
         $this->value = 'InvalidValue';
         $this->root = 'root';
         $this->propertyPath = '';
+
         $this->context = $this->createContext();
         $this->validator = $this->createValidator();
         $this->validator->initialize($this->context);
+
+        $this->defaultLocale = 'en';
+
+        $this->expectedViolations = [];
+        $this->call = 0;
+
+        $this->setDefaultTimezone('UTC');
+    }
+
+    protected function tearDown(): void
+    {
+        $this->restoreDefaultTimezone();
     }
 
     protected function createValidator()
