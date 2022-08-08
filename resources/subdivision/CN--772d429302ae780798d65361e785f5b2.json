@@ -7,12 +7,6 @@
 	],
 	"locale": "zh-Hans",
 	"subdivisions": {
-		"Chenbei Xinqu": {
-			"local_code": "沈北新区"
-		},
-		"Shenhe Qu": {
-			"local_code": "沈河区"
-		},
 		"Dadong Qu": {
 			"local_code": "大东区"
 		},
@@ -34,6 +28,12 @@
 		},
 		"Liaozhong Xian": {
 			"local_code": "辽中县"
+		},
+		"Chenbei Xinqu": {
+			"local_code": "沈北新区"
+		},
+		"Shenhe Qu": {
+			"local_code": "沈河区"
 		},
 		"Sujiatun Qu": {
 			"local_code": "苏家屯区"
