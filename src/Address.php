@@ -118,19 +118,19 @@ class Address implements ImmutableAddressInterface
      * @param string $locale             The locale. Defaults to 'und'.
      */
     public function __construct(
-        string $countryCode = '',
-        string $administrativeArea = '',
-        string $locality = '',
-        string $dependentLocality = '',
-        string $postalCode = '',
-        string $sortingCode = '',
-        string $addressLine1 = '',
-        string $addressLine2 = '',
-        string $organization = '',
-        string $givenName = '',
-        string $additionalName = '',
-        string $familyName = '',
-        string $locale = 'und'
+        ?string $countryCode = '',
+        ?string $administrativeArea = '',
+        ?string $locality = '',
+        ?string $dependentLocality = '',
+        ?string $postalCode = '',
+        ?string $sortingCode = '',
+        ?string $addressLine1 = '',
+        ?string $addressLine2 = '',
+        ?string $organization = '',
+        ?string $givenName = '',
+        ?string $additionalName = '',
+        ?string $familyName = '',
+        ?string $locale = 'und'
     ) {
         $this->countryCode = $countryCode;
         $this->administrativeArea = $administrativeArea;
@@ -150,7 +150,7 @@ class Address implements ImmutableAddressInterface
     /**
      * {@inheritdoc}
      */
-    public function getCountryCode(): string
+    public function getCountryCode(): ?string
     {
         return $this->countryCode;
     }
@@ -177,7 +177,7 @@ class Address implements ImmutableAddressInterface
     /**
      * {@inheritdoc}
      */
-    public function withAdministrativeArea($administrativeArea): Address
+    public function withAdministrativeArea($administrativeArea)
     {
         $new = clone $this;
         $new->administrativeArea = $administrativeArea;
@@ -207,7 +207,7 @@ class Address implements ImmutableAddressInterface
     /**
      * {@inheritdoc}
      */
-    public function getDependentLocality(): string
+    public function getDependentLocality(): ?string
     {
         return $this->dependentLocality;
     }
@@ -226,7 +226,7 @@ class Address implements ImmutableAddressInterface
     /**
      * {@inheritdoc}
      */
-    public function getPostalCode(): string
+    public function getPostalCode(): ?string
     {
         return $this->postalCode;
     }
@@ -245,7 +245,7 @@ class Address implements ImmutableAddressInterface
     /**
      * {@inheritdoc}
      */
-    public function getSortingCode(): string
+    public function getSortingCode(): ?string
     {
         return $this->sortingCode;
     }
@@ -264,7 +264,7 @@ class Address implements ImmutableAddressInterface
     /**
      * {@inheritdoc}
      */
-    public function getAddressLine1(): string
+    public function getAddressLine1(): ?string
     {
         return $this->addressLine1;
     }
@@ -283,7 +283,7 @@ class Address implements ImmutableAddressInterface
     /**
      * {@inheritdoc}
      */
-    public function getAddressLine2(): string
+    public function getAddressLine2(): ?string
     {
         return $this->addressLine2;
     }
@@ -302,7 +302,7 @@ class Address implements ImmutableAddressInterface
     /**
      * {@inheritdoc}
      */
-    public function getOrganization(): string
+    public function getOrganization(): ?string
     {
         return $this->organization;
     }
@@ -321,7 +321,7 @@ class Address implements ImmutableAddressInterface
     /**
      * {@inheritdoc}
      */
-    public function getGivenName(): string
+    public function getGivenName(): ?string
     {
         return $this->givenName;
     }
@@ -340,7 +340,7 @@ class Address implements ImmutableAddressInterface
     /**
      * {@inheritdoc}
      */
-    public function getAdditionalName(): string
+    public function getAdditionalName(): ?string
     {
         return $this->additionalName;
     }
@@ -359,7 +359,7 @@ class Address implements ImmutableAddressInterface
     /**
      * {@inheritdoc}
      */
-    public function getFamilyName(): string
+    public function getFamilyName(): ?string
     {
         return $this->familyName;
     }
@@ -378,7 +378,7 @@ class Address implements ImmutableAddressInterface
     /**
      * {@inheritdoc}
      */
-    public function getLocale(): string
+    public function getLocale(): ?string
     {
         return $this->locale;
     }
