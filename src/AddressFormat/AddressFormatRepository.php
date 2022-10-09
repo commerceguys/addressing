@@ -12,7 +12,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
     protected $addressFormats = [];
 
     /**
-     * {@inheritdoc}
+     * @return AddressFormat
      */
     public function get($countryCode)
     {
@@ -28,7 +28,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
     }
 
     /**
-     * {@inheritdoc}
+     * @return AddressFormat[]
      */
     public function getAll(): array
     {
