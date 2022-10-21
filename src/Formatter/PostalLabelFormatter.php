@@ -70,7 +70,7 @@ class PostalLabelFormatter extends DefaultFormatter implements PostalLabelFormat
         $uppercaseFields = $addressFormat->getUppercaseFields();
         foreach ($uppercaseFields as $uppercaseField) {
             if (isset($view[$uppercaseField])) {
-                $view[$uppercaseField]['value'] = mb_strtoupper($view[$uppercaseField]['value'], 'utf-8');
+                $view[$uppercaseField]['value'] = mb_strtoupper($view[$uppercaseField]['value'] ?? '', 'utf-8');
             }
         }
         // Handle international mailing.
