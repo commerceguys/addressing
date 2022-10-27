@@ -1,0 +1,357 @@
+{
+  "country_code": "CO",
+  "parents": [
+    "CO",
+    "CUN"
+  ],
+  "subdivisions": {
+    "Agua de Dios": {
+      "local_code": "25001"
+    },
+    "Albán": {
+      "local_code": "25019"
+    },
+    "Anapoima": {
+      "local_code": "25035"
+    },
+    "Anolaima": {
+      "local_code": "25040"
+    },
+    "Arbeláez": {
+      "local_code": "25053"
+    },
+    "Beltrán": {
+      "local_code": "25086"
+    },
+    "Bituima": {
+      "local_code": "25095"
+    },
+    "Bojacá": {
+      "local_code": "25099"
+    },
+    "Cabrera": {
+      "local_code": "25120"
+    },
+    "Cachipay": {
+      "local_code": "25123"
+    },
+    "Cajicá": {
+      "local_code": "25126"
+    },
+    "Caparrapí": {
+      "local_code": "25148"
+    },
+    "Caqueza": {
+      "local_code": "25151"
+    },
+    "Carmen de Carupa": {
+      "local_code": "25154"
+    },
+    "Chaguaní": {
+      "local_code": "25168"
+    },
+    "Chía": {
+      "local_code": "25175"
+    },
+    "Chipaque": {
+      "local_code": "25178"
+    },
+    "Choachí": {
+      "local_code": "25181"
+    },
+    "Chocontá": {
+      "local_code": "25183"
+    },
+    "Cogua": {
+      "local_code": "25200"
+    },
+    "Cota": {
+      "local_code": "25214"
+    },
+    "Cucunubá": {
+      "local_code": "25224"
+    },
+    "El Colegio": {
+      "local_code": "25245"
+    },
+    "El Peñón": {
+      "local_code": "25258"
+    },
+    "El Rosal": {
+      "local_code": "25260"
+    },
+    "Facatativá": {
+      "local_code": "25269"
+    },
+    "Fomeque": {
+      "local_code": "25279"
+    },
+    "Fosca": {
+      "local_code": "25281"
+    },
+    "Funza": {
+      "local_code": "25286"
+    },
+    "Fúquene": {
+      "local_code": "25288"
+    },
+    "Fusagasugá": {
+      "local_code": "25290"
+    },
+    "Gachala": {
+      "local_code": "25293"
+    },
+    "Gachancipá": {
+      "local_code": "25295"
+    },
+    "Gachetá": {
+      "local_code": "25297"
+    },
+    "Gama": {
+      "local_code": "25299"
+    },
+    "Girardot": {
+      "local_code": "25307"
+    },
+    "Granada": {
+      "local_code": "25312"
+    },
+    "Guachetá": {
+      "local_code": "25317"
+    },
+    "Guaduas": {
+      "local_code": "25320"
+    },
+    "Guasca": {
+      "local_code": "25322"
+    },
+    "Guataquí": {
+      "local_code": "25324"
+    },
+    "Guatavita": {
+      "local_code": "25326"
+    },
+    "Guayabal de Siquima": {
+      "local_code": "25328"
+    },
+    "Guayabetal": {
+      "local_code": "25335"
+    },
+    "Gutiérrez": {
+      "local_code": "25339"
+    },
+    "Jerusalén": {
+      "local_code": "25368"
+    },
+    "Junín": {
+      "local_code": "25372"
+    },
+    "La Calera": {
+      "local_code": "25377"
+    },
+    "La Mesa": {
+      "local_code": "25386"
+    },
+    "La Palma": {
+      "local_code": "25394"
+    },
+    "La Peña": {
+      "local_code": "25398"
+    },
+    "La Vega": {
+      "local_code": "25402"
+    },
+    "Lenguazaque": {
+      "local_code": "25407"
+    },
+    "Macheta": {
+      "local_code": "25426"
+    },
+    "Madrid": {
+      "local_code": "25430"
+    },
+    "Manta": {
+      "local_code": "25436"
+    },
+    "Medina": {
+      "local_code": "25438"
+    },
+    "Mosquera": {
+      "local_code": "25473"
+    },
+    "Nariño": {
+      "local_code": "25483"
+    },
+    "Nemocón": {
+      "local_code": "25486"
+    },
+    "Nilo": {
+      "local_code": "25488"
+    },
+    "Nimaima": {
+      "local_code": "25489"
+    },
+    "Nocaima": {
+      "local_code": "25491"
+    },
+    "Venecia": {
+      "local_code": "25506"
+    },
+    "Pacho": {
+      "local_code": "25513"
+    },
+    "Paime": {
+      "local_code": "25518"
+    },
+    "Pandi": {
+      "local_code": "25524"
+    },
+    "Paratebueno": {
+      "local_code": "25530"
+    },
+    "Pasca": {
+      "local_code": "25535"
+    },
+    "Puerto Salgar": {
+      "local_code": "25572"
+    },
+    "Pulí": {
+      "local_code": "25580"
+    },
+    "Quebradanegra": {
+      "local_code": "25592"
+    },
+    "Quetame": {
+      "local_code": "25594"
+    },
+    "Quipile": {
+      "local_code": "25596"
+    },
+    "Apulo": {
+      "local_code": "25599"
+    },
+    "Ricaurte": {
+      "local_code": "25612"
+    },
+    "San Antonio del Tequendama": {
+      "local_code": "25645"
+    },
+    "San Bernardo": {
+      "local_code": "25649"
+    },
+    "San Cayetano": {
+      "local_code": "25653"
+    },
+    "San Francisco": {
+      "local_code": "25658"
+    },
+    "San Juan de Río Seco": {
+      "local_code": "25662"
+    },
+    "Sasaima": {
+      "local_code": "25718"
+    },
+    "Sesquilé": {
+      "local_code": "25736"
+    },
+    "Sibaté": {
+      "local_code": "25740"
+    },
+    "Silvania": {
+      "local_code": "25743"
+    },
+    "Simijaca": {
+      "local_code": "25745"
+    },
+    "Soacha": {
+      "local_code": "25754"
+    },
+    "Sopó": {
+      "local_code": "25758"
+    },
+    "Subachoque": {
+      "local_code": "25769"
+    },
+    "Suesca": {
+      "local_code": "25772"
+    },
+    "Supatá": {
+      "local_code": "25777"
+    },
+    "Susa": {
+      "local_code": "25779"
+    },
+    "Sutatausa": {
+      "local_code": "25781"
+    },
+    "Tabio": {
+      "local_code": "25785"
+    },
+    "Tausa": {
+      "local_code": "25793"
+    },
+    "Tena": {
+      "local_code": "25797"
+    },
+    "Tenjo": {
+      "local_code": "25799"
+    },
+    "Tibacuy": {
+      "local_code": "25805"
+    },
+    "Tibirita": {
+      "local_code": "25807"
+    },
+    "Tocaima": {
+      "local_code": "25815"
+    },
+    "Tocancipá": {
+      "local_code": "25817"
+    },
+    "Topaipí": {
+      "local_code": "25823"
+    },
+    "Ubalá": {
+      "local_code": "25839"
+    },
+    "Ubaque": {
+      "local_code": "25841"
+    },
+    "Villa de San Diego de Ubate": {
+      "local_code": "25843"
+    },
+    "Une": {
+      "local_code": "25845"
+    },
+    "Útica": {
+      "local_code": "25851"
+    },
+    "Vergara": {
+      "local_code": "25862"
+    },
+    "Vianí": {
+      "local_code": "25867"
+    },
+    "Villagómez": {
+      "local_code": "25871"
+    },
+    "Villapinzón": {
+      "local_code": "25873"
+    },
+    "Villeta": {
+      "local_code": "25875"
+    },
+    "Viotá": {
+      "local_code": "25878"
+    },
+    "Yacopí": {
+      "local_code": "25885"
+    },
+    "Zipacón": {
+      "local_code": "25898"
+    },
+    "Zipaquirá": {
+      "local_code": "25899"
+    }
+  }
+}

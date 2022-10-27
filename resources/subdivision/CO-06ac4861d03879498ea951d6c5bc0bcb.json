@@ -1,0 +1,87 @@
+{
+  "country_code": "CO",
+  "parents": [
+    "CO",
+    "SUC"
+  ],
+  "subdivisions": {
+    "Sincelejo": {
+      "local_code": "70001"
+    },
+    "Buenavista": {
+      "local_code": "70110"
+    },
+    "Caimito": {
+      "local_code": "70124"
+    },
+    "Coloso": {
+      "local_code": "70204"
+    },
+    "Corozal": {
+      "local_code": "70215"
+    },
+    "Coveñas": {
+      "local_code": "70221"
+    },
+    "Chalán": {
+      "local_code": "70230"
+    },
+    "El Roble": {
+      "local_code": "70233"
+    },
+    "Galeras": {
+      "local_code": "70235"
+    },
+    "Guaranda": {
+      "local_code": "70265"
+    },
+    "La Unión": {
+      "local_code": "70400"
+    },
+    "Los Palmitos": {
+      "local_code": "70418"
+    },
+    "Majagual": {
+      "local_code": "70429"
+    },
+    "Morroa": {
+      "local_code": "70473"
+    },
+    "Ovejas": {
+      "local_code": "70508"
+    },
+    "Palmito": {
+      "local_code": "70523"
+    },
+    "Sampués": {
+      "local_code": "70670"
+    },
+    "San Benito Abad": {
+      "local_code": "70678"
+    },
+    "San Juan de Betulia": {
+      "local_code": "70702"
+    },
+    "San Marcos": {
+      "local_code": "70708"
+    },
+    "San Onofre": {
+      "local_code": "70713"
+    },
+    "San Pedro": {
+      "local_code": "70717"
+    },
+    "San Luis de Sincé": {
+      "local_code": "70742"
+    },
+    "Sucre": {
+      "local_code": "70771"
+    },
+    "Santiago de Tolú": {
+      "local_code": "70820"
+    },
+    "Tolú Viejo": {
+      "local_code": "70823"
+    }
+  }
+}

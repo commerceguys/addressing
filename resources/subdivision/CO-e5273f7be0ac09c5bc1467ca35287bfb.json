@@ -1,0 +1,27 @@
+{
+  "country_code": "CO",
+  "parents": [
+    "CO",
+    "VAU"
+  ],
+  "subdivisions": {
+    "Mitú": {
+      "local_code": "97001"
+    },
+    "Caruru": {
+      "local_code": "97161"
+    },
+    "Pacoa": {
+      "local_code": "97511"
+    },
+    "Taraira": {
+      "local_code": "97666"
+    },
+    "Papunaua": {
+      "local_code": "97777"
+    },
+    "Yavaraté": {
+      "local_code": "97889"
+    }
+  }
+}

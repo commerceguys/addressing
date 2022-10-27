@@ -1,0 +1,135 @@
+{
+  "country_code": "CO",
+  "parents": [
+    "CO",
+    "VAC"
+  ],
+  "subdivisions": {
+    "Cali": {
+      "local_code": "76001"
+    },
+    "Alcalá": {
+      "local_code": "76020"
+    },
+    "Andalucía": {
+      "local_code": "76036"
+    },
+    "Ansermanuevo": {
+      "local_code": "76041"
+    },
+    "Argelia": {
+      "local_code": "76054"
+    },
+    "Bolívar": {
+      "local_code": "76100"
+    },
+    "Buenaventura": {
+      "local_code": "76109"
+    },
+    "Guadalajara de Buga": {
+      "local_code": "76111"
+    },
+    "Bugalagrande": {
+      "local_code": "76113"
+    },
+    "Caicedonia": {
+      "local_code": "76122"
+    },
+    "Calima": {
+      "local_code": "76126"
+    },
+    "Candelaria": {
+      "local_code": "76130"
+    },
+    "Cartago": {
+      "local_code": "76147"
+    },
+    "Dagua": {
+      "local_code": "76233"
+    },
+    "El Águila": {
+      "local_code": "76243"
+    },
+    "El Cairo": {
+      "local_code": "76246"
+    },
+    "El Cerrito": {
+      "local_code": "76248"
+    },
+    "El Dovio": {
+      "local_code": "76250"
+    },
+    "Florida": {
+      "local_code": "76275"
+    },
+    "Ginebra": {
+      "local_code": "76306"
+    },
+    "Guacarí": {
+      "local_code": "76318"
+    },
+    "Jamundí": {
+      "local_code": "76364"
+    },
+    "La Cumbre": {
+      "local_code": "76377"
+    },
+    "La Unión": {
+      "local_code": "76400"
+    },
+    "La Victoria": {
+      "local_code": "76403"
+    },
+    "Obando": {
+      "local_code": "76497"
+    },
+    "Palmira": {
+      "local_code": "76520"
+    },
+    "Pradera": {
+      "local_code": "76563"
+    },
+    "Restrepo": {
+      "local_code": "76606"
+    },
+    "Riofrío": {
+      "local_code": "76616"
+    },
+    "Roldanillo": {
+      "local_code": "76622"
+    },
+    "San Pedro": {
+      "local_code": "76670"
+    },
+    "Sevilla": {
+      "local_code": "76736"
+    },
+    "Toro": {
+      "local_code": "76823"
+    },
+    "Trujillo": {
+      "local_code": "76828"
+    },
+    "Tuluá": {
+      "local_code": "76834"
+    },
+    "Ulloa": {
+      "local_code": "76845"
+    },
+    "Versalles": {
+      "local_code": "76863"
+    },
+    "Vijes": {
+      "local_code": "76869"
+    },
+    "Yotoco": {
+      "local_code": "76890"
+    },
+    "Yumbo": {
+      "local_code": "76892"
+    },
+    "Zarzal": {
+      "local_code": "76895"
+    }
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "country_code": "CO",
+  "parents": [
+    "CO",
+    "TOL"
+  ],
+  "subdivisions": {
+    "Ibagué": {
+      "local_code": "73001"
+    },
+    "Alpujarra": {
+      "local_code": "73024"
+    },
+    "Alvarado": {
+      "local_code": "73026"
+    },
+    "Ambalema": {
+      "local_code": "73030"
+    },
+    "Anzoátegui": {
+      "local_code": "73043"
+    },
+    "Armero": {
+      "local_code": "73055"
+    },
+    "Ataco": {
+      "local_code": "73067"
+    },
+    "Cajamarca": {
+      "local_code": "73124"
+    },
+    "Carmen de Apicalá": {
+      "local_code": "73148"
+    },
+    "Casabianca": {
+      "local_code": "73152"
+    },
+    "Chaparral": {
+      "local_code": "73168"
+    },
+    "Coello": {
+      "local_code": "73200"
+    },
+    "Coyaima": {
+      "local_code": "73217"
+    },
+    "Cunday": {
+      "local_code": "73226"
+    },
+    "Dolores": {
+      "local_code": "73236"
+    },
+    "Espinal": {
+      "local_code": "73268"
+    },
+    "Falan": {
+      "local_code": "73270"
+    },
+    "Flandes": {
+      "local_code": "73275"
+    },
+    "Fresno": {
+      "local_code": "73283"
+    },
+    "Guamo": {
+      "local_code": "73319"
+    },
+    "Herveo": {
+      "local_code": "73347"
+    },
+    "Honda": {
+      "local_code": "73349"
+    },
+    "Icononzo": {
+      "local_code": "73352"
+    },
+    "Lérida": {
+      "local_code": "73408"
+    },
+    "Líbano": {
+      "local_code": "73411"
+    },
+    "Mariquita": {
+      "local_code": "73443"
+    },
+    "Melgar": {
+      "local_code": "73449"
+    },
+    "Murillo": {
+      "local_code": "73461"
+    },
+    "Natagaima": {
+      "local_code": "73483"
+    },
+    "Ortega": {
+      "local_code": "73504"
+    },
+    "Palocabildo": {
+      "local_code": "73520"
+    },
+    "Piedras": {
+      "local_code": "73547"
+    },
+    "Planadas": {
+      "local_code": "73555"
+    },
+    "Prado": {
+      "local_code": "73563"
+    },
+    "Purificación": {
+      "local_code": "73585"
+    },
+    "Rioblanco": {
+      "local_code": "73616"
+    },
+    "Roncesvalles": {
+      "local_code": "73622"
+    },
+    "Rovira": {
+      "local_code": "73624"
+    },
+    "Saldaña": {
+      "local_code": "73671"
+    },
+    "San Antonio": {
+      "local_code": "73675"
+    },
+    "San Luis": {
+      "local_code": "73678"
+    },
+    "Santa Isabel": {
+      "local_code": "73686"
+    },
+    "Suárez": {
+      "local_code": "73770"
+    },
+    "Valle de San Juan": {
+      "local_code": "73854"
+    },
+    "Venadillo": {
+      "local_code": "73861"
+    },
+    "Villahermosa": {
+      "local_code": "73870"
+    },
+    "Villarrica": {
+      "local_code": "73873"
+    }
+  }
+}

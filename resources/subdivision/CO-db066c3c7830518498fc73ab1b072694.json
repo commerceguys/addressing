@@ -1,0 +1,147 @@
+{
+  "country_code": "CO",
+  "parents": [
+    "CO",
+    "BOL"
+  ],
+  "subdivisions": {
+    "Cartagena": {
+      "local_code": "13001"
+    },
+    "Achí": {
+      "local_code": "13006"
+    },
+    "Altos del Rosario": {
+      "local_code": "13030"
+    },
+    "Arenal": {
+      "local_code": "13042"
+    },
+    "Arjona": {
+      "local_code": "13052"
+    },
+    "Arroyohondo": {
+      "local_code": "13062"
+    },
+    "Barranco de Loba": {
+      "local_code": "13074"
+    },
+    "Calamar": {
+      "local_code": "13140"
+    },
+    "Cantagallo": {
+      "local_code": "13160"
+    },
+    "Cicuco": {
+      "local_code": "13188"
+    },
+    "Córdoba": {
+      "local_code": "13212"
+    },
+    "Clemencia": {
+      "local_code": "13222"
+    },
+    "El Carmen de Bolívar": {
+      "local_code": "13244"
+    },
+    "El Guamo": {
+      "local_code": "13248"
+    },
+    "El Peñón": {
+      "local_code": "13268"
+    },
+    "Hatillo de Loba": {
+      "local_code": "13300"
+    },
+    "Magangué": {
+      "local_code": "13430"
+    },
+    "Mahates": {
+      "local_code": "13433"
+    },
+    "Margarita": {
+      "local_code": "13440"
+    },
+    "María La Baja": {
+      "local_code": "13442"
+    },
+    "Montecristo": {
+      "local_code": "13458"
+    },
+    "Mompós": {
+      "local_code": "13468"
+    },
+    "Morales": {
+      "local_code": "13473"
+    },
+    "Norosí": {
+      "local_code": "13490"
+    },
+    "Pinillos": {
+      "local_code": "13549"
+    },
+    "Regidor": {
+      "local_code": "13580"
+    },
+    "Río Viejo(3)": {
+      "local_code": "13600"
+    },
+    "San Cristóbal": {
+      "local_code": "13620"
+    },
+    "San Estanislao": {
+      "local_code": "13647"
+    },
+    "San Fernando": {
+      "local_code": "13650"
+    },
+    "San Jacinto": {
+      "local_code": "13654"
+    },
+    "San Jacinto del Cauca": {
+      "local_code": "13655"
+    },
+    "San Juan Nepomuceno": {
+      "local_code": "13657"
+    },
+    "San Martín de Loba": {
+      "local_code": "13667"
+    },
+    "San Pablo": {
+      "local_code": "13670"
+    },
+    "Santa Catalina": {
+      "local_code": "13673"
+    },
+    "Santa Rosa": {
+      "local_code": "13683"
+    },
+    "Santa Rosa del Sur": {
+      "local_code": "13688"
+    },
+    "Simití": {
+      "local_code": "13744"
+    },
+    "Soplaviento": {
+      "local_code": "13760"
+    },
+    "Talaigua Nuevo": {
+      "local_code": "13780"
+    },
+    "Tiquisio": {
+      "local_code": "13810"
+    },
+    "Turbaco": {
+      "local_code": "13836"
+    },
+    "Turbaná": {
+      "local_code": "13838"
+    },
+    "Villanueva": {
+      "local_code": "13873"
+    },
+    "Zambrano": {
+      "local_code": "13894"
+    }
+  }
+}

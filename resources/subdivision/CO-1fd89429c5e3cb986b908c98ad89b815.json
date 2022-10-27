@@ -1,0 +1,48 @@
+{
+  "country_code": "CO",
+  "parents": [
+    "CO",
+    "PUT"
+  ],
+  "subdivisions": {
+    "Mocoa": {
+      "local_code": "86001"
+    },
+    "Colón": {
+      "local_code": "86219"
+    },
+    "Orito": {
+      "local_code": "86320"
+    },
+    "Puerto Asís": {
+      "local_code": "86568"
+    },
+    "Puerto Caicedo": {
+      "local_code": "86569"
+    },
+    "Puerto Guzmán": {
+      "local_code": "86571"
+    },
+    "Leguízamo": {
+      "local_code": "86573"
+    },
+    "Sibundoy": {
+      "local_code": "86749"
+    },
+    "San Francisco": {
+      "local_code": "86755"
+    },
+    "San Miguel": {
+      "local_code": "86757"
+    },
+    "Santiago": {
+      "local_code": "86760"
+    },
+    "Valle del Guamuez": {
+      "local_code": "86865"
+    },
+    "Villagarzón": {
+      "local_code": "86885"
+    }
+  }
+}

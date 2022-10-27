@@ -24,6 +24,7 @@ function get_address_format_customizations($countryCode) {
             'locality',
             'administrativeArea',
         ],
+        'subdivision_depth' => 2,
     ];
     // Switch %organization and %recipient.
     // https://github.com/googlei18n/libaddressinput/issues/83

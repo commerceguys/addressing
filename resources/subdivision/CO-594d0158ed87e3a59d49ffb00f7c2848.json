@@ -1,0 +1,201 @@
+{
+  "country_code": "CO",
+  "parents": [
+    "CO",
+    "NAR"
+  ],
+  "subdivisions": {
+    "Pasto": {
+      "local_code": "52001"
+    },
+    "Albán": {
+      "local_code": "52019"
+    },
+    "Aldana": {
+      "local_code": "52022"
+    },
+    "Ancuyá": {
+      "local_code": "52036"
+    },
+    "Arboleda": {
+      "local_code": "52051"
+    },
+    "Barbacoas": {
+      "local_code": "52079"
+    },
+    "Belén": {
+      "local_code": "52083"
+    },
+    "Buesaco": {
+      "local_code": "52110"
+    },
+    "Colón": {
+      "local_code": "52203"
+    },
+    "Consaca": {
+      "local_code": "52207"
+    },
+    "Contadero": {
+      "local_code": "52210"
+    },
+    "Córdoba": {
+      "local_code": "52215"
+    },
+    "Cuaspud": {
+      "local_code": "52224"
+    },
+    "Cumbal": {
+      "local_code": "52227"
+    },
+    "Cumbitara": {
+      "local_code": "52233"
+    },
+    "Chachagüí": {
+      "local_code": "52240"
+    },
+    "El Charco": {
+      "local_code": "52250"
+    },
+    "El Peñol": {
+      "local_code": "52254"
+    },
+    "El Rosario": {
+      "local_code": "52256"
+    },
+    "El Tablón de Gómez": {
+      "local_code": "52258"
+    },
+    "El Tambo": {
+      "local_code": "52260"
+    },
+    "Funes": {
+      "local_code": "52287"
+    },
+    "Guachucal": {
+      "local_code": "52317"
+    },
+    "Guaitarilla": {
+      "local_code": "52320"
+    },
+    "Gualmatán": {
+      "local_code": "52323"
+    },
+    "Iles": {
+      "local_code": "52352"
+    },
+    "Imués": {
+      "local_code": "52354"
+    },
+    "Ipiales": {
+      "local_code": "52356"
+    },
+    "La Cruz": {
+      "local_code": "52378"
+    },
+    "La Florida": {
+      "local_code": "52381"
+    },
+    "La Llanada": {
+      "local_code": "52385"
+    },
+    "La Tola": {
+      "local_code": "52390"
+    },
+    "La Unión": {
+      "local_code": "52399"
+    },
+    "Leiva": {
+      "local_code": "52405"
+    },
+    "Linares": {
+      "local_code": "52411"
+    },
+    "Los Andes": {
+      "local_code": "52418"
+    },
+    "Magüi": {
+      "local_code": "52427"
+    },
+    "Mallama": {
+      "local_code": "52435"
+    },
+    "Mosquera": {
+      "local_code": "52473"
+    },
+    "Nariño": {
+      "local_code": "52480"
+    },
+    "Olaya Herrera": {
+      "local_code": "52490"
+    },
+    "Ospina": {
+      "local_code": "52506"
+    },
+    "Francisco Pizarro": {
+      "local_code": "52520"
+    },
+    "Policarpa": {
+      "local_code": "52540"
+    },
+    "Potosí": {
+      "local_code": "52560"
+    },
+    "Providencia": {
+      "local_code": "52565"
+    },
+    "Puerres": {
+      "local_code": "52573"
+    },
+    "Pupiales": {
+      "local_code": "52585"
+    },
+    "Ricaurte": {
+      "local_code": "52612"
+    },
+    "Roberto Payán": {
+      "local_code": "52621"
+    },
+    "Samaniego": {
+      "local_code": "52678"
+    },
+    "Sandoná": {
+      "local_code": "52683"
+    },
+    "San Bernardo": {
+      "local_code": "52685"
+    },
+    "San Lorenzo": {
+      "local_code": "52687"
+    },
+    "San Pablo": {
+      "local_code": "52693"
+    },
+    "San Pedro de Cartago": {
+      "local_code": "52694"
+    },
+    "Santa Bárbara": {
+      "local_code": "52696"
+    },
+    "Santacruz": {
+      "local_code": "52699"
+    },
+    "Sapuyes": {
+      "local_code": "52720"
+    },
+    "Taminango": {
+      "local_code": "52786"
+    },
+    "Tangua": {
+      "local_code": "52788"
+    },
+    "San Andres de Tumaco": {
+      "local_code": "52835"
+    },
+    "Túquerres": {
+      "local_code": "52838"
+    },
+    "Yacuanquer": {
+      "local_code": "52885"
+    }
+  }
+}

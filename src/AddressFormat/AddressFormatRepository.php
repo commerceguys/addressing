@@ -321,13 +321,17 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'subdivision_depth' => 3,
             ],
             'CO' => [
-                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%locality, %administrativeArea, %postalCode",
+                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%dependentLocality\n%administrativeArea-%locality\n%postalCode",
                 'required_fields' => [
                     'addressLine1', 'locality', 'administrativeArea',
                 ],
+                'uppercase_fields' => [
+                    'locality', 'administrativeArea',
+                ],
                 'administrative_area_type' => 'department',
+                'dependent_locality_type' => 'neighborhood',
                 'postal_code_pattern' => '\d{6}',
-                'subdivision_depth' => 1,
+                'subdivision_depth' => 2,
             ],
             'CR' => [
                 'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%administrativeArea, %locality\n%postalCode",

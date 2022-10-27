@@ -1,0 +1,378 @@
+{
+  "country_code": "CO",
+  "parents": [
+    "CO",
+    "BOY"
+  ],
+  "subdivisions": {
+    "Tunja": {
+      "local_code": "15001"
+    },
+    "Almeida": {
+      "local_code": "15022"
+    },
+    "Aquitania": {
+      "local_code": "15047"
+    },
+    "Arcabuco": {
+      "local_code": "15051"
+    },
+    "Belén": {
+      "local_code": "15087"
+    },
+    "Berbeo": {
+      "local_code": "15090"
+    },
+    "Betéitiva": {
+      "local_code": "15092"
+    },
+    "Boavita": {
+      "local_code": "15097"
+    },
+    "Boyacá": {
+      "local_code": "15104"
+    },
+    "Briceño": {
+      "local_code": "15106"
+    },
+    "Buenavista": {
+      "local_code": "15109"
+    },
+    "Busbanzá": {
+      "local_code": "15114"
+    },
+    "Caldas": {
+      "local_code": "15131"
+    },
+    "Campohermoso": {
+      "local_code": "15135"
+    },
+    "Cerinza": {
+      "local_code": "15162"
+    },
+    "Chinavita": {
+      "local_code": "15172"
+    },
+    "Chiquinquirá": {
+      "local_code": "15176"
+    },
+    "Chiscas": {
+      "local_code": "15180"
+    },
+    "Chita": {
+      "local_code": "15183"
+    },
+    "Chitaraque": {
+      "local_code": "15185"
+    },
+    "Chivatá": {
+      "local_code": "15187"
+    },
+    "Ciénega": {
+      "local_code": "15189"
+    },
+    "Cómbita": {
+      "local_code": "15204"
+    },
+    "Coper": {
+      "local_code": "15212"
+    },
+    "Corrales": {
+      "local_code": "15215"
+    },
+    "Covarachía": {
+      "local_code": "15218"
+    },
+    "Cubará": {
+      "local_code": "15223"
+    },
+    "Cucaita": {
+      "local_code": "15224"
+    },
+    "Cuítiva": {
+      "local_code": "15226"
+    },
+    "Chíquiza": {
+      "local_code": "15232"
+    },
+    "Chivor": {
+      "local_code": "15236"
+    },
+    "Duitama": {
+      "local_code": "15238"
+    },
+    "El Cocuy": {
+      "local_code": "15244"
+    },
+    "El Espino": {
+      "local_code": "15248"
+    },
+    "Firavitoba": {
+      "local_code": "15272"
+    },
+    "Floresta": {
+      "local_code": "15276"
+    },
+    "Gachantivá": {
+      "local_code": "15293"
+    },
+    "Gameza": {
+      "local_code": "15296"
+    },
+    "Garagoa": {
+      "local_code": "15299"
+    },
+    "Guacamayas": {
+      "local_code": "15317"
+    },
+    "Guateque": {
+      "local_code": "15322"
+    },
+    "Guayatá": {
+      "local_code": "15325"
+    },
+    "Güicán": {
+      "local_code": "15332"
+    },
+    "Iza": {
+      "local_code": "15362"
+    },
+    "Jenesano": {
+      "local_code": "15367"
+    },
+    "Jericó": {
+      "local_code": "15368"
+    },
+    "Labranzagrande": {
+      "local_code": "15377"
+    },
+    "La Capilla": {
+      "local_code": "15380"
+    },
+    "La Victoria": {
+      "local_code": "15401"
+    },
+    "La Uvita": {
+      "local_code": "15403"
+    },
+    "Villa de Leyva": {
+      "local_code": "15407"
+    },
+    "Macanal": {
+      "local_code": "15425"
+    },
+    "Maripí": {
+      "local_code": "15442"
+    },
+    "Miraflores": {
+      "local_code": "15455"
+    },
+    "Mongua": {
+      "local_code": "15464"
+    },
+    "Monguí": {
+      "local_code": "15466"
+    },
+    "Moniquirá": {
+      "local_code": "15469"
+    },
+    "Motavita": {
+      "local_code": "15476"
+    },
+    "Muzo": {
+      "local_code": "15480"
+    },
+    "Nobsa": {
+      "local_code": "15491"
+    },
+    "Nuevo Colón": {
+      "local_code": "15494"
+    },
+    "Oicatá": {
+      "local_code": "15500"
+    },
+    "Otanche": {
+      "local_code": "15507"
+    },
+    "Pachavita": {
+      "local_code": "15511"
+    },
+    "Páez": {
+      "local_code": "15514"
+    },
+    "Paipa": {
+      "local_code": "15516"
+    },
+    "Pajarito": {
+      "local_code": "15518"
+    },
+    "Panqueba": {
+      "local_code": "15522"
+    },
+    "Pauna": {
+      "local_code": "15531"
+    },
+    "Paya": {
+      "local_code": "15533"
+    },
+    "Paz de Río": {
+      "local_code": "15537"
+    },
+    "Pesca": {
+      "local_code": "15542"
+    },
+    "Pisba": {
+      "local_code": "15550"
+    },
+    "Puerto Boyacá": {
+      "local_code": "15572"
+    },
+    "Quípama": {
+      "local_code": "15580"
+    },
+    "Ramiriquí": {
+      "local_code": "15599"
+    },
+    "Ráquira": {
+      "local_code": "15600"
+    },
+    "Rondón": {
+      "local_code": "15621"
+    },
+    "Saboyá": {
+      "local_code": "15632"
+    },
+    "Sáchica": {
+      "local_code": "15638"
+    },
+    "Samacá": {
+      "local_code": "15646"
+    },
+    "San Eduardo": {
+      "local_code": "15660"
+    },
+    "San José de Pare": {
+      "local_code": "15664"
+    },
+    "San Luis de Gaceno": {
+      "local_code": "15667"
+    },
+    "San Mateo": {
+      "local_code": "15673"
+    },
+    "San Miguel de Sema": {
+      "local_code": "15676"
+    },
+    "San Pablo de Borbur": {
+      "local_code": "15681"
+    },
+    "Santana": {
+      "local_code": "15686"
+    },
+    "Santa María": {
+      "local_code": "15690"
+    },
+    "Santa Rosa de Viterbo": {
+      "local_code": "15693"
+    },
+    "Santa Sofía": {
+      "local_code": "15696"
+    },
+    "Sativanorte": {
+      "local_code": "15720"
+    },
+    "Sativasur": {
+      "local_code": "15723"
+    },
+    "Siachoque": {
+      "local_code": "15740"
+    },
+    "Soatá": {
+      "local_code": "15753"
+    },
+    "Socotá": {
+      "local_code": "15755"
+    },
+    "Socha": {
+      "local_code": "15757"
+    },
+    "Sogamoso": {
+      "local_code": "15759"
+    },
+    "Somondoco": {
+      "local_code": "15761"
+    },
+    "Sora": {
+      "local_code": "15762"
+    },
+    "Sotaquirá": {
+      "local_code": "15763"
+    },
+    "Soracá": {
+      "local_code": "15764"
+    },
+    "Susacón": {
+      "local_code": "15774"
+    },
+    "Sutamarchán": {
+      "local_code": "15776"
+    },
+    "Sutatenza": {
+      "local_code": "15778"
+    },
+    "Tasco": {
+      "local_code": "15790"
+    },
+    "Tenza": {
+      "local_code": "15798"
+    },
+    "Tibaná": {
+      "local_code": "15804"
+    },
+    "Tibasosa": {
+      "local_code": "15806"
+    },
+    "Tinjacá": {
+      "local_code": "15808"
+    },
+    "Tipacoque": {
+      "local_code": "15810"
+    },
+    "Toca": {
+      "local_code": "15814"
+    },
+    "Togüí": {
+      "local_code": "15816"
+    },
+    "Tópaga": {
+      "local_code": "15820"
+    },
+    "Tota": {
+      "local_code": "15822"
+    },
+    "Tununguá": {
+      "local_code": "15832"
+    },
+    "Turmequé": {
+      "local_code": "15835"
+    },
+    "Tuta": {
+      "local_code": "15837"
+    },
+    "Tutazá": {
+      "local_code": "15839"
+    },
+    "Umbita": {
+      "local_code": "15842"
+    },
+    "Ventaquemada": {
+      "local_code": "15861"
+    },
+    "Viracachá": {
+      "local_code": "15879"
+    },
+    "Zetaquira": {
+      "local_code": "15897"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "country_code": "CO",
+  "parents": [
+    "CO",
+    "RIS"
+  ],
+  "subdivisions": {
+    "Pereira": {
+      "local_code": "66001"
+    },
+    "Apía": {
+      "local_code": "66045"
+    },
+    "Balboa": {
+      "local_code": "66075"
+    },
+    "Belén de Umbría": {
+      "local_code": "66088"
+    },
+    "Dosquebradas": {
+      "local_code": "66170"
+    },
+    "Guática": {
+      "local_code": "66318"
+    },
+    "La Celia": {
+      "local_code": "66383"
+    },
+    "La Virginia": {
+      "local_code": "66400"
+    },
+    "Marsella": {
+      "local_code": "66440"
+    },
+    "Mistrató": {
+      "local_code": "66456"
+    },
+    "Pueblo Rico": {
+      "local_code": "66572"
+    },
+    "Quinchía": {
+      "local_code": "66594"
+    },
+    "Santa Rosa de Cabal": {
+      "local_code": "66682"
+    },
+    "Santuario": {
+      "local_code": "66687"
+    }
+  }
+}

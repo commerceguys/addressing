@@ -1,0 +1,57 @@
+{
+  "country_code": "CO",
+  "parents": [
+    "CO",
+    "CAQ"
+  ],
+  "subdivisions": {
+    "Florencia": {
+      "local_code": "18001"
+    },
+    "Albania": {
+      "local_code": "18029"
+    },
+    "Belén de Los Andaquies": {
+      "local_code": "18094"
+    },
+    "Cartagena del Chairá": {
+      "local_code": "18150"
+    },
+    "Curillo": {
+      "local_code": "18205"
+    },
+    "El Doncello": {
+      "local_code": "18247"
+    },
+    "El Paujil": {
+      "local_code": "18256"
+    },
+    "La Montañita": {
+      "local_code": "18410"
+    },
+    "Milán": {
+      "local_code": "18460"
+    },
+    "Morelia": {
+      "local_code": "18479"
+    },
+    "Puerto Rico": {
+      "local_code": "18592"
+    },
+    "San José del Fragua": {
+      "local_code": "18610"
+    },
+    "San Vicente del Caguán": {
+      "local_code": "18753"
+    },
+    "Solano": {
+      "local_code": "18756"
+    },
+    "Solita": {
+      "local_code": "18785"
+    },
+    "Valparaíso": {
+      "local_code": "18860"
+    }
+  }
+}

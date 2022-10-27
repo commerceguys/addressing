@@ -1,0 +1,45 @@
+{
+  "country_code": "CO",
+  "parents": [
+    "CO",
+    "QUI"
+  ],
+  "subdivisions": {
+    "Armenia": {
+      "local_code": "63001"
+    },
+    "Buenavista": {
+      "local_code": "63111"
+    },
+    "Calarca": {
+      "local_code": "63130"
+    },
+    "Circasia": {
+      "local_code": "63190"
+    },
+    "Córdoba": {
+      "local_code": "63212"
+    },
+    "Filandia": {
+      "local_code": "63272"
+    },
+    "Génova": {
+      "local_code": "63302"
+    },
+    "La Tebaida": {
+      "local_code": "63401"
+    },
+    "Montenegro": {
+      "local_code": "63470"
+    },
+    "Pijao": {
+      "local_code": "63548"
+    },
+    "Quimbaya": {
+      "local_code": "63594"
+    },
+    "Salento": {
+      "local_code": "63690"
+    }
+  }
+}

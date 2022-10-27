@@ -1,0 +1,120 @@
+{
+  "country_code": "CO",
+  "parents": [
+    "CO",
+    "HUI"
+  ],
+  "subdivisions": {
+    "Neiva": {
+      "local_code": "41001"
+    },
+    "Acevedo": {
+      "local_code": "41006"
+    },
+    "Agrado": {
+      "local_code": "41013"
+    },
+    "Aipe": {
+      "local_code": "41016"
+    },
+    "Algeciras": {
+      "local_code": "41020"
+    },
+    "Altamira": {
+      "local_code": "41026"
+    },
+    "Baraya": {
+      "local_code": "41078"
+    },
+    "Campoalegre": {
+      "local_code": "41132"
+    },
+    "Colombia": {
+      "local_code": "41206"
+    },
+    "Elías": {
+      "local_code": "41244"
+    },
+    "Garzón": {
+      "local_code": "41298"
+    },
+    "Gigante": {
+      "local_code": "41306"
+    },
+    "Guadalupe": {
+      "local_code": "41319"
+    },
+    "Hobo": {
+      "local_code": "41349"
+    },
+    "Iquira": {
+      "local_code": "41357"
+    },
+    "Isnos": {
+      "local_code": "41359"
+    },
+    "La Argentina": {
+      "local_code": "41378"
+    },
+    "La Plata": {
+      "local_code": "41396"
+    },
+    "Nátaga": {
+      "local_code": "41483"
+    },
+    "Oporapa": {
+      "local_code": "41503"
+    },
+    "Paicol": {
+      "local_code": "41518"
+    },
+    "Palermo": {
+      "local_code": "41524"
+    },
+    "Palestina": {
+      "local_code": "41530"
+    },
+    "Pital": {
+      "local_code": "41548"
+    },
+    "Pitalito": {
+      "local_code": "41551"
+    },
+    "Rivera": {
+      "local_code": "41615"
+    },
+    "Saladoblanco": {
+      "local_code": "41660"
+    },
+    "San Agustín": {
+      "local_code": "41668"
+    },
+    "Santa María": {
+      "local_code": "41676"
+    },
+    "Suaza": {
+      "local_code": "41770"
+    },
+    "Tarqui": {
+      "local_code": "41791"
+    },
+    "Tesalia": {
+      "local_code": "41797"
+    },
+    "Tello": {
+      "local_code": "41799"
+    },
+    "Teruel": {
+      "local_code": "41801"
+    },
+    "Timaná": {
+      "local_code": "41807"
+    },
+    "Villavieja": {
+      "local_code": "41872"
+    },
+    "Yaguará": {
+      "local_code": "41885"
+    }
+  }
+}

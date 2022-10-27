@@ -1,0 +1,21 @@
+{
+  "country_code": "CO",
+  "parents": [
+    "CO",
+    "GUV"
+  ],
+  "subdivisions": {
+    "San José del Guaviare": {
+      "local_code": "95001"
+    },
+    "Calamar": {
+      "local_code": "95015"
+    },
+    "El Retorno": {
+      "local_code": "95025"
+    },
+    "Miraflores": {
+      "local_code": "95200"
+    }
+  }
+}

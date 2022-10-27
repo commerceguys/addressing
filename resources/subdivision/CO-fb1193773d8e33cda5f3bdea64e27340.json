@@ -1,0 +1,270 @@
+{
+  "country_code": "CO",
+  "parents": [
+    "CO",
+    "SAN"
+  ],
+  "subdivisions": {
+    "Bucaramanga": {
+      "local_code": "68001"
+    },
+    "Aguada": {
+      "local_code": "68013"
+    },
+    "Albania": {
+      "local_code": "68020"
+    },
+    "Aratoca": {
+      "local_code": "68051"
+    },
+    "Barbosa": {
+      "local_code": "68077"
+    },
+    "Barichara": {
+      "local_code": "68079"
+    },
+    "Barrancabermeja": {
+      "local_code": "68081"
+    },
+    "Betulia": {
+      "local_code": "68092"
+    },
+    "Bolívar": {
+      "local_code": "68101"
+    },
+    "Cabrera": {
+      "local_code": "68121"
+    },
+    "California": {
+      "local_code": "68132"
+    },
+    "Capitanejo": {
+      "local_code": "68147"
+    },
+    "Carcasí": {
+      "local_code": "68152"
+    },
+    "Cepitá": {
+      "local_code": "68160"
+    },
+    "Cerrito": {
+      "local_code": "68162"
+    },
+    "Charalá": {
+      "local_code": "68167"
+    },
+    "Charta": {
+      "local_code": "68169"
+    },
+    "Chima": {
+      "local_code": "68176"
+    },
+    "Chipatá": {
+      "local_code": "68179"
+    },
+    "Cimitarra": {
+      "local_code": "68190"
+    },
+    "Concepción": {
+      "local_code": "68207"
+    },
+    "Confines": {
+      "local_code": "68209"
+    },
+    "Contratación": {
+      "local_code": "68211"
+    },
+    "Coromoro": {
+      "local_code": "68217"
+    },
+    "Curití": {
+      "local_code": "68229"
+    },
+    "El Carmen de Chucurí": {
+      "local_code": "68235"
+    },
+    "El Guacamayo": {
+      "local_code": "68245"
+    },
+    "El Peñón": {
+      "local_code": "68250"
+    },
+    "El Playón": {
+      "local_code": "68255"
+    },
+    "Encino": {
+      "local_code": "68264"
+    },
+    "Enciso": {
+      "local_code": "68266"
+    },
+    "Florián": {
+      "local_code": "68271"
+    },
+    "Floridablanca": {
+      "local_code": "68276"
+    },
+    "Galán": {
+      "local_code": "68296"
+    },
+    "Gambita": {
+      "local_code": "68298"
+    },
+    "Girón": {
+      "local_code": "68307"
+    },
+    "Guaca": {
+      "local_code": "68318"
+    },
+    "Guadalupe": {
+      "local_code": "68320"
+    },
+    "Guapotá": {
+      "local_code": "68322"
+    },
+    "Guavatá": {
+      "local_code": "68324"
+    },
+    "Güepsa": {
+      "local_code": "68327"
+    },
+    "Hato": {
+      "local_code": "68344"
+    },
+    "Jesús María": {
+      "local_code": "68368"
+    },
+    "Jordán": {
+      "local_code": "68370"
+    },
+    "La Belleza": {
+      "local_code": "68377"
+    },
+    "Landázuri": {
+      "local_code": "68385"
+    },
+    "La Paz": {
+      "local_code": "68397"
+    },
+    "Lebríja": {
+      "local_code": "68406"
+    },
+    "Los Santos": {
+      "local_code": "68418"
+    },
+    "Macaravita": {
+      "local_code": "68425"
+    },
+    "Málaga": {
+      "local_code": "68432"
+    },
+    "Matanza": {
+      "local_code": "68444"
+    },
+    "Mogotes": {
+      "local_code": "68464"
+    },
+    "Molagavita": {
+      "local_code": "68468"
+    },
+    "Ocamonte": {
+      "local_code": "68498"
+    },
+    "Oiba": {
+      "local_code": "68500"
+    },
+    "Onzaga": {
+      "local_code": "68502"
+    },
+    "Palmar": {
+      "local_code": "68522"
+    },
+    "Palmas del Socorro": {
+      "local_code": "68524"
+    },
+    "Páramo": {
+      "local_code": "68533"
+    },
+    "Piedecuesta": {
+      "local_code": "68547"
+    },
+    "Pinchote": {
+      "local_code": "68549"
+    },
+    "Puente Nacional": {
+      "local_code": "68572"
+    },
+    "Puerto Parra": {
+      "local_code": "68573"
+    },
+    "Puerto Wilches": {
+      "local_code": "68575"
+    },
+    "Rionegro": {
+      "local_code": "68615"
+    },
+    "Sabana de Torres": {
+      "local_code": "68655"
+    },
+    "San Andrés": {
+      "local_code": "68669"
+    },
+    "San Benito": {
+      "local_code": "68673"
+    },
+    "San Gil": {
+      "local_code": "68679"
+    },
+    "San Joaquín": {
+      "local_code": "68682"
+    },
+    "San José de Miranda": {
+      "local_code": "68684"
+    },
+    "San Miguel": {
+      "local_code": "68686"
+    },
+    "San Vicente de Chucurí": {
+      "local_code": "68689"
+    },
+    "Santa Bárbara": {
+      "local_code": "68705"
+    },
+    "Santa Helena del Opón": {
+      "local_code": "68720"
+    },
+    "Simacota": {
+      "local_code": "68745"
+    },
+    "Socorro": {
+      "local_code": "68755"
+    },
+    "Suaita": {
+      "local_code": "68770"
+    },
+    "Sucre": {
+      "local_code": "68773"
+    },
+    "Suratá": {
+      "local_code": "68780"
+    },
+    "Tona": {
+      "local_code": "68820"
+    },
+    "Valle de San José": {
+      "local_code": "68855"
+    },
+    "Vélez": {
+      "local_code": "68861"
+    },
+    "Vetas": {
+      "local_code": "68867"
+    },
+    "Villanueva": {
+      "local_code": "68872"
+    },
+    "Zapatoca": {
+      "local_code": "68895"
+    }
+  }
+}

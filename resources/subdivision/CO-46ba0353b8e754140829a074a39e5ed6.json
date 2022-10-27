@@ -1,0 +1,99 @@
+{
+  "country_code": "CO",
+  "parents": [
+    "CO",
+    "MAG"
+  ],
+  "subdivisions": {
+    "Santa Marta": {
+      "local_code": "47001"
+    },
+    "Algarrobo": {
+      "local_code": "47030"
+    },
+    "Aracataca": {
+      "local_code": "47053"
+    },
+    "Ariguaní": {
+      "local_code": "47058"
+    },
+    "Cerro San Antonio": {
+      "local_code": "47161"
+    },
+    "Chivolo": {
+      "local_code": "47170"
+    },
+    "Ciénaga": {
+      "local_code": "47189"
+    },
+    "Concordia": {
+      "local_code": "47205"
+    },
+    "El Banco": {
+      "local_code": "47245"
+    },
+    "El Piñon": {
+      "local_code": "47258"
+    },
+    "El Retén": {
+      "local_code": "47268"
+    },
+    "Fundación": {
+      "local_code": "47288"
+    },
+    "Guamal": {
+      "local_code": "47318"
+    },
+    "Nueva Granada": {
+      "local_code": "47460"
+    },
+    "Pedraza": {
+      "local_code": "47541"
+    },
+    "Pijiño del Carmen": {
+      "local_code": "47545"
+    },
+    "Pivijay": {
+      "local_code": "47551"
+    },
+    "Plato": {
+      "local_code": "47555"
+    },
+    "Puebloviejo": {
+      "local_code": "47570"
+    },
+    "Remolino": {
+      "local_code": "47605"
+    },
+    "Sabanas de San Angel": {
+      "local_code": "47660"
+    },
+    "Salamina": {
+      "local_code": "47675"
+    },
+    "San Sebastián de Buenavista": {
+      "local_code": "47692"
+    },
+    "San Zenón": {
+      "local_code": "47703"
+    },
+    "Santa Ana": {
+      "local_code": "47707"
+    },
+    "Santa Bárbara de Pinto": {
+      "local_code": "47720"
+    },
+    "Sitionuevo": {
+      "local_code": "47745"
+    },
+    "Tenerife": {
+      "local_code": "47798"
+    },
+    "Zapayán": {
+      "local_code": "47960"
+    },
+    "Zona Bananera": {
+      "local_code": "47980"
+    }
+  }
+}

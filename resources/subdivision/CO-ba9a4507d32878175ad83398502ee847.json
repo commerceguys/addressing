@@ -1,0 +1,384 @@
+{
+  "country_code": "CO",
+  "parents": [
+    "CO",
+    "ANT"
+  ],
+  "subdivisions": {
+    "Medellín": {
+      "local_code": "05001"
+    },
+    "Abejorral": {
+      "local_code": "05002"
+    },
+    "Abriaquí": {
+      "local_code": "05004"
+    },
+    "Alejandría": {
+      "local_code": "05021"
+    },
+    "Amagá": {
+      "local_code": "05030"
+    },
+    "Amalfi": {
+      "local_code": "05031"
+    },
+    "Andes": {
+      "local_code": "05034"
+    },
+    "Angelópolis": {
+      "local_code": "05036"
+    },
+    "Angostura": {
+      "local_code": "05038"
+    },
+    "Anorí": {
+      "local_code": "05040"
+    },
+    "Santafé de Antioquia": {
+      "local_code": "05042"
+    },
+    "Anza": {
+      "local_code": "05044"
+    },
+    "Apartadó": {
+      "local_code": "05045"
+    },
+    "Arboletes": {
+      "local_code": "05051"
+    },
+    "Argelia": {
+      "local_code": "05055"
+    },
+    "Armenia": {
+      "local_code": "05059"
+    },
+    "Barbosa": {
+      "local_code": "05079"
+    },
+    "Belmira": {
+      "local_code": "05086"
+    },
+    "Bello": {
+      "local_code": "05088"
+    },
+    "Betania": {
+      "local_code": "05091"
+    },
+    "Betulia": {
+      "local_code": "05093"
+    },
+    "Ciudad Bolívar": {
+      "local_code": "05101"
+    },
+    "Briceño": {
+      "local_code": "05107"
+    },
+    "Buriticá": {
+      "local_code": "05113"
+    },
+    "Cáceres": {
+      "local_code": "05120"
+    },
+    "Caicedo": {
+      "local_code": "05125"
+    },
+    "Caldas": {
+      "local_code": "05129"
+    },
+    "Campamento": {
+      "local_code": "05134"
+    },
+    "Cañasgordas": {
+      "local_code": "05138"
+    },
+    "Caracolí": {
+      "local_code": "05142"
+    },
+    "Caramanta": {
+      "local_code": "05145"
+    },
+    "Carepa": {
+      "local_code": "05147"
+    },
+    "El Carmen de Viboral": {
+      "local_code": "05148"
+    },
+    "Carolina": {
+      "local_code": "05150"
+    },
+    "Caucasia": {
+      "local_code": "05154"
+    },
+    "Chigorodó": {
+      "local_code": "05172"
+    },
+    "Cisneros": {
+      "local_code": "05190"
+    },
+    "Cocorná": {
+      "local_code": "05197"
+    },
+    "Concepción": {
+      "local_code": "05206"
+    },
+    "Concordia": {
+      "local_code": "05209"
+    },
+    "Copacabana": {
+      "local_code": "05212"
+    },
+    "Dabeiba": {
+      "local_code": "05234"
+    },
+    "Don Matías": {
+      "local_code": "05237"
+    },
+    "Ebéjico": {
+      "local_code": "05240"
+    },
+    "El Bagre": {
+      "local_code": "05250"
+    },
+    "Entrerrios": {
+      "local_code": "05264"
+    },
+    "Envigado": {
+      "local_code": "05266"
+    },
+    "Fredonia": {
+      "local_code": "05282"
+    },
+    "Frontino": {
+      "local_code": "05284"
+    },
+    "Giraldo": {
+      "local_code": "05306"
+    },
+    "Girardota": {
+      "local_code": "05308"
+    },
+    "Gómez Plata": {
+      "local_code": "05310"
+    },
+    "Granada": {
+      "local_code": "05313"
+    },
+    "Guadalupe": {
+      "local_code": "05315"
+    },
+    "Guarne": {
+      "local_code": "05318"
+    },
+    "Guatapé": {
+      "local_code": "05321"
+    },
+    "Heliconia": {
+      "local_code": "05347"
+    },
+    "Hispania": {
+      "local_code": "05353"
+    },
+    "Itagui": {
+      "local_code": "05360"
+    },
+    "Ituango": {
+      "local_code": "05361"
+    },
+    "Jardín": {
+      "local_code": "05364"
+    },
+    "Jericó": {
+      "local_code": "05368"
+    },
+    "La Ceja": {
+      "local_code": "05376"
+    },
+    "La Estrella": {
+      "local_code": "05380"
+    },
+    "La Pintada": {
+      "local_code": "05390"
+    },
+    "La Unión": {
+      "local_code": "05400"
+    },
+    "Liborina": {
+      "local_code": "05411"
+    },
+    "Maceo": {
+      "local_code": "05425"
+    },
+    "Marinilla": {
+      "local_code": "05440"
+    },
+    "Montebello": {
+      "local_code": "05467"
+    },
+    "Murindó": {
+      "local_code": "05475"
+    },
+    "Mutatá": {
+      "local_code": "05480"
+    },
+    "Nariño": {
+      "local_code": "05483"
+    },
+    "Necoclí": {
+      "local_code": "05490"
+    },
+    "Nechí": {
+      "local_code": "05495"
+    },
+    "Olaya": {
+      "local_code": "05501"
+    },
+    "Peñol": {
+      "local_code": "05541"
+    },
+    "Peque": {
+      "local_code": "05543"
+    },
+    "Pueblorrico": {
+      "local_code": "05576"
+    },
+    "Puerto Berrío": {
+      "local_code": "05579"
+    },
+    "Puerto Nare": {
+      "local_code": "05585"
+    },
+    "Puerto Triunfo": {
+      "local_code": "05591"
+    },
+    "Remedios": {
+      "local_code": "05604"
+    },
+    "Retiro": {
+      "local_code": "05607"
+    },
+    "Rionegro": {
+      "local_code": "05615"
+    },
+    "Sabanalarga": {
+      "local_code": "05628"
+    },
+    "Sabaneta": {
+      "local_code": "05631"
+    },
+    "Salgar": {
+      "local_code": "05642"
+    },
+    "San Andrés de Cuerquía": {
+      "local_code": "05647"
+    },
+    "San Carlos": {
+      "local_code": "05649"
+    },
+    "San Francisco": {
+      "local_code": "05652"
+    },
+    "San Jerónimo": {
+      "local_code": "05656"
+    },
+    "San José de La Montaña": {
+      "local_code": "05658"
+    },
+    "San Juan de Urabá": {
+      "local_code": "05659"
+    },
+    "San Luis": {
+      "local_code": "05660"
+    },
+    "San Pedro": {
+      "local_code": "05664"
+    },
+    "San Pedro de Uraba": {
+      "local_code": "05665"
+    },
+    "San Rafael": {
+      "local_code": "05667"
+    },
+    "San Roque": {
+      "local_code": "05670"
+    },
+    "San Vicente": {
+      "local_code": "05674"
+    },
+    "Santa Bárbara": {
+      "local_code": "05679"
+    },
+    "Santa Rosa de Osos": {
+      "local_code": "05686"
+    },
+    "Santo Domingo": {
+      "local_code": "05690"
+    },
+    "El Santuario": {
+      "local_code": "05697"
+    },
+    "Segovia": {
+      "local_code": "05736"
+    },
+    "Sonson": {
+      "local_code": "05756"
+    },
+    "Sopetrán": {
+      "local_code": "05761"
+    },
+    "Támesis": {
+      "local_code": "05789"
+    },
+    "Tarazá": {
+      "local_code": "05790"
+    },
+    "Tarso": {
+      "local_code": "05792"
+    },
+    "Titiribí": {
+      "local_code": "05809"
+    },
+    "Toledo": {
+      "local_code": "05819"
+    },
+    "Turbo": {
+      "local_code": "05837"
+    },
+    "Uramita": {
+      "local_code": "05842"
+    },
+    "Urrao": {
+      "local_code": "05847"
+    },
+    "Valdivia": {
+      "local_code": "05854"
+    },
+    "Valparaíso": {
+      "local_code": "05856"
+    },
+    "Vegachí": {
+      "local_code": "05858"
+    },
+    "Venecia": {
+      "local_code": "05861"
+    },
+    "Vigía del Fuerte": {
+      "local_code": "05873"
+    },
+    "Yalí": {
+      "local_code": "05885"
+    },
+    "Yarumal": {
+      "local_code": "05887"
+    },
+    "Yolombó": {
+      "local_code": "05890"
+    },
+    "Yondó": {
+      "local_code": "05893"
+    },
+    "Zaragoza": {
+      "local_code": "05895"
+    }
+  }
+}

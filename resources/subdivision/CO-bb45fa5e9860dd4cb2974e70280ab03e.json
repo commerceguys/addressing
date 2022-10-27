@@ -1,0 +1,129 @@
+{
+  "country_code": "CO",
+  "parents": [
+    "CO",
+    "NSA"
+  ],
+  "subdivisions": {
+    "Cúcuta": {
+      "local_code": "54001"
+    },
+    "Abrego": {
+      "local_code": "54003"
+    },
+    "Arboledas": {
+      "local_code": "54051"
+    },
+    "Bochalema": {
+      "local_code": "54099"
+    },
+    "Bucarasica": {
+      "local_code": "54109"
+    },
+    "Cácota": {
+      "local_code": "54125"
+    },
+    "Cachirá": {
+      "local_code": "54128"
+    },
+    "Chinácota": {
+      "local_code": "54172"
+    },
+    "Chitagá": {
+      "local_code": "54174"
+    },
+    "Convención": {
+      "local_code": "54206"
+    },
+    "Cucutilla": {
+      "local_code": "54223"
+    },
+    "Durania": {
+      "local_code": "54239"
+    },
+    "El Carmen": {
+      "local_code": "54245"
+    },
+    "El Tarra": {
+      "local_code": "54250"
+    },
+    "El Zulia": {
+      "local_code": "54261"
+    },
+    "Gramalote": {
+      "local_code": "54313"
+    },
+    "Hacarí": {
+      "local_code": "54344"
+    },
+    "Herrán": {
+      "local_code": "54347"
+    },
+    "Labateca": {
+      "local_code": "54377"
+    },
+    "La Esperanza": {
+      "local_code": "54385"
+    },
+    "La Playa": {
+      "local_code": "54398"
+    },
+    "Los Patios": {
+      "local_code": "54405"
+    },
+    "Lourdes": {
+      "local_code": "54418"
+    },
+    "Mutiscua": {
+      "local_code": "54480"
+    },
+    "Ocaña": {
+      "local_code": "54498"
+    },
+    "Pamplona": {
+      "local_code": "54518"
+    },
+    "Pamplonita": {
+      "local_code": "54520"
+    },
+    "Puerto Santander": {
+      "local_code": "54553"
+    },
+    "Ragonvalia": {
+      "local_code": "54599"
+    },
+    "Salazar": {
+      "local_code": "54660"
+    },
+    "San Calixto": {
+      "local_code": "54670"
+    },
+    "San Cayetano": {
+      "local_code": "54673"
+    },
+    "Santiago": {
+      "local_code": "54680"
+    },
+    "Sardinata": {
+      "local_code": "54720"
+    },
+    "Silos": {
+      "local_code": "54743"
+    },
+    "Teorama": {
+      "local_code": "54800"
+    },
+    "Tibú": {
+      "local_code": "54810"
+    },
+    "Toledo": {
+      "local_code": "54820"
+    },
+    "Villa Caro": {
+      "local_code": "54871"
+    },
+    "Villa del Rosario": {
+      "local_code": "54874"
+    }
+  }
+}
