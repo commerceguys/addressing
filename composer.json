@@ -6,7 +6,7 @@
     "license": "MIT",
     "require": {
         "php": ">=7.3",
-        "doctrine/collections": "^1.2"
+        "doctrine/collections": "^1.2 || ^2.0"
     },
     "require-dev": {
         "symfony/validator": "^4.4 || ^5.4 || ^6.0",
