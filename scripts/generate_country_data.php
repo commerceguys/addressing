@@ -245,8 +245,10 @@ function discover_locales() {
         "be-tarask", "cu", "gv", "prg",
         // Valencian differs from its parent only by a single character (è/é).
         "ca-ES-valencia",
+        // Africa secondary languages.
+        "bm", "byn", "dje", "dyo", "ff", "ha", "shi", "vai", "wo", "yo",
         // Infrequently used locales.
-        "jv", "kn", "row",
+        "jv", "kn", "row", "sat", "sd", "to",
     ];
 
     // Gather available locales.
