@@ -17,6 +17,6 @@ jobs:
           args: --coverage-text
           php_extensions: xdebug bcmath
           php_version: 8.1
-          version: 10
+          version: 9
         env:
           XDEBUG_MODE: coverage
