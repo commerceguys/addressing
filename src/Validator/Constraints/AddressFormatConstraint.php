@@ -63,7 +63,7 @@ class AddressFormatConstraint extends Constraint
     }
 
     /**
-     * {@inheritdoc}
+     * @return string|string[]
      */
     public function getTargets(): array|string
     {

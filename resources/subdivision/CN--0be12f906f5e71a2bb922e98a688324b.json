@@ -7,9 +7,6 @@
 	],
 	"locale": "zh-Hans",
 	"subdivisions": {
-		"Shenqiu Xian": {
-			"local_code": "沈丘县"
-		},
 		"Chuanhui Qu": {
 			"local_code": "川汇区"
 		},
@@ -27,6 +24,9 @@
 		},
 		"Shangshui Xian": {
 			"local_code": "商水县"
+		},
+		"Shenqiu Xian": {
+			"local_code": "沈丘县"
 		},
 		"Taikang Xian": {
 			"local_code": "太康县"
