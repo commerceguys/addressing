@@ -1,0 +1,34 @@
+name: Build
+on: [push, pull_request]
+
+jobs:
+  build-test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: php-actions/composer@v6
+
+      - name: PHPUnit Tests PHP 7.3
+        uses: php-actions/phpunit@master
+        with:
+          bootstrap: vendor/autoload.php
+          configuration: phpunit.xml
+          args: --coverage-text
+          php_extensions: xdebug bcmath
+          php_version: 7.3
+          version: 9
+        env:
+          XDEBUG_MODE: coverage
+
+      - name: PHPUnit Tests PHP 8.0
+        uses: php-actions/phpunit@master
+        with:
+          bootstrap: vendor/autoload.php
+          configuration: phpunit.xml
+          args: --coverage-text
+          php_extensions: xdebug bcmath
+          php_version: 8.0
+          version: 9
+        env:
+          XDEBUG_MODE: coverage

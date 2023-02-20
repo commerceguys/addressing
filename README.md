@@ -1,7 +1,7 @@
 addressing
 ==========
 
-[![Build Status](https://travis-ci.org/commerceguys/addressing.svg?branch=master)](https://travis-ci.org/commerceguys/addressing)
+[![Build Status](https://github.com/commerceguys/addressing/actions/workflows/build.yml/badge.svg)](https://github.com/commerceguys/addressing/actions/workflows/build.yml)
 
 A PHP 7.3+ addressing library, powered by CLDR and Google's address data.
 
