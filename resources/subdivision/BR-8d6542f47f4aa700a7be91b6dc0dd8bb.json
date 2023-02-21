@@ -5,20 +5,50 @@
 		"RR"
 	],
 	"subdivisions": {
-		"Alto Alegre": [],
-		"Amajari": [],
-		"Boa Vista": [],
-		"Bonfim": [],
-		"Cantá": [],
-		"Caracaraí": [],
-		"Caroebe": [],
-		"Iracema": [],
-		"Mucajaí": [],
-		"Normandia": [],
-		"Pacaraima": [],
-		"Rorainópolis": [],
-		"São João da Baliza": [],
-		"São Luiz": [],
-		"Uiramutã": []
+		"Alto Alegre": {
+			"name": "Alto Alegre"
+		},
+		"Amajari": {
+			"name": "Amajari"
+		},
+		"Boa Vista": {
+			"name": "Boa Vista"
+		},
+		"Bonfim": {
+			"name": "Bonfim"
+		},
+		"Cantá": {
+			"name": "Cantá"
+		},
+		"Caracaraí": {
+			"name": "Caracaraí"
+		},
+		"Caroebe": {
+			"name": "Caroebe"
+		},
+		"Iracema": {
+			"name": "Iracema"
+		},
+		"Mucajaí": {
+			"name": "Mucajaí"
+		},
+		"Normandia": {
+			"name": "Normandia"
+		},
+		"Pacaraima": {
+			"name": "Pacaraima"
+		},
+		"Rorainópolis": {
+			"name": "Rorainópolis"
+		},
+		"São João da Baliza": {
+			"name": "São João da Baliza"
+		},
+		"São Luiz": {
+			"name": "São Luiz"
+		},
+		"Uiramutã": {
+			"name": "Uiramutã"
+		}
 	}
 }

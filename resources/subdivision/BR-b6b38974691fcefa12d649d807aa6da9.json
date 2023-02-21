@@ -5,80 +5,230 @@
 		"SE"
 	],
 	"subdivisions": {
-		"Amparo de São Francisco": [],
-		"Aquidabã": [],
-		"Aracaju": [],
-		"Arauá": [],
-		"Areia Branca": [],
-		"Barra dos Coqueiros": [],
-		"Boquim": [],
-		"Brejo Grande": [],
-		"Campo do Brito": [],
-		"Canhoba": [],
-		"Canindé de São Francisco": [],
-		"Capela": [],
-		"Carira": [],
-		"Carmópolis": [],
-		"Cedro de São João": [],
-		"Cristinápolis": [],
-		"Cumbe": [],
-		"Divina Pastora": [],
-		"Estancia": [],
-		"Feira Nova": [],
-		"Frei Paulo": [],
-		"Gararu": [],
-		"General Maynard": [],
-		"Gracho Cardoso": [],
-		"Ilha das Flores": [],
-		"Indiaroba": [],
-		"Itabaiana": [],
-		"Itabaianinha": [],
-		"Itabi": [],
-		"Itaporanga d'Ajuda": [],
-		"Japaratuba": [],
-		"Japoatã": [],
-		"Lagarto": [],
-		"Laranjeiras": [],
-		"Macambira": [],
-		"Malhada dos Bois": [],
-		"Malhador": [],
-		"Maruim": [],
-		"Moita Bonita": [],
-		"Monte Alegre de Sergipe": [],
-		"Muribeca": [],
-		"Neópolis": [],
-		"Nossa Senhora Aparecida": [],
-		"Nossa Senhora da Glória": [],
-		"Nossa Senhora das Dores": [],
-		"Nossa Senhora de Lourdes": [],
-		"Nossa Senhora do Socorro": [],
-		"Pacatuba": [],
-		"Pedra Mole": [],
-		"Pedrinhas": [],
-		"Pinhão": [],
-		"Pirambu": [],
-		"Poço Redondo": [],
-		"Poço Verde": [],
-		"Porto da Folha": [],
-		"Propriá": [],
-		"Riachão do Dantas": [],
-		"Riachuelo": [],
-		"Ribeirópolis": [],
-		"Rosário do Catete": [],
-		"Salgado": [],
-		"Santa Luzia do Itanhy": [],
-		"Santa Rosa de Lima": [],
-		"Santana do São Francisco": [],
-		"Santo Amaro das Brotas": [],
-		"São Cristóvão": [],
-		"São Domingos": [],
-		"São Francisco": [],
-		"São Miguel do Aleixo": [],
-		"Simão Dias": [],
-		"Siriri": [],
-		"Telha": [],
-		"Tobias Barreto": [],
-		"Tomar do Geru": [],
-		"Umbaúba": []
+		"Amparo de São Francisco": {
+			"name": "Amparo de São Francisco"
+		},
+		"Aquidabã": {
+			"name": "Aquidabã"
+		},
+		"Aracaju": {
+			"name": "Aracaju"
+		},
+		"Arauá": {
+			"name": "Arauá"
+		},
+		"Areia Branca": {
+			"name": "Areia Branca"
+		},
+		"Barra dos Coqueiros": {
+			"name": "Barra dos Coqueiros"
+		},
+		"Boquim": {
+			"name": "Boquim"
+		},
+		"Brejo Grande": {
+			"name": "Brejo Grande"
+		},
+		"Campo do Brito": {
+			"name": "Campo do Brito"
+		},
+		"Canhoba": {
+			"name": "Canhoba"
+		},
+		"Canindé de São Francisco": {
+			"name": "Canindé de São Francisco"
+		},
+		"Capela": {
+			"name": "Capela"
+		},
+		"Carira": {
+			"name": "Carira"
+		},
+		"Carmópolis": {
+			"name": "Carmópolis"
+		},
+		"Cedro de São João": {
+			"name": "Cedro de São João"
+		},
+		"Cristinápolis": {
+			"name": "Cristinápolis"
+		},
+		"Cumbe": {
+			"name": "Cumbe"
+		},
+		"Divina Pastora": {
+			"name": "Divina Pastora"
+		},
+		"Estancia": {
+			"name": "Estancia"
+		},
+		"Feira Nova": {
+			"name": "Feira Nova"
+		},
+		"Frei Paulo": {
+			"name": "Frei Paulo"
+		},
+		"Gararu": {
+			"name": "Gararu"
+		},
+		"General Maynard": {
+			"name": "General Maynard"
+		},
+		"Gracho Cardoso": {
+			"name": "Gracho Cardoso"
+		},
+		"Ilha das Flores": {
+			"name": "Ilha das Flores"
+		},
+		"Indiaroba": {
+			"name": "Indiaroba"
+		},
+		"Itabaiana": {
+			"name": "Itabaiana"
+		},
+		"Itabaianinha": {
+			"name": "Itabaianinha"
+		},
+		"Itabi": {
+			"name": "Itabi"
+		},
+		"Itaporanga d'Ajuda": {
+			"name": "Itaporanga d'Ajuda"
+		},
+		"Japaratuba": {
+			"name": "Japaratuba"
+		},
+		"Japoatã": {
+			"name": "Japoatã"
+		},
+		"Lagarto": {
+			"name": "Lagarto"
+		},
+		"Laranjeiras": {
+			"name": "Laranjeiras"
+		},
+		"Macambira": {
+			"name": "Macambira"
+		},
+		"Malhada dos Bois": {
+			"name": "Malhada dos Bois"
+		},
+		"Malhador": {
+			"name": "Malhador"
+		},
+		"Maruim": {
+			"name": "Maruim"
+		},
+		"Moita Bonita": {
+			"name": "Moita Bonita"
+		},
+		"Monte Alegre de Sergipe": {
+			"name": "Monte Alegre de Sergipe"
+		},
+		"Muribeca": {
+			"name": "Muribeca"
+		},
+		"Neópolis": {
+			"name": "Neópolis"
+		},
+		"Nossa Senhora Aparecida": {
+			"name": "Nossa Senhora Aparecida"
+		},
+		"Nossa Senhora da Glória": {
+			"name": "Nossa Senhora da Glória"
+		},
+		"Nossa Senhora das Dores": {
+			"name": "Nossa Senhora das Dores"
+		},
+		"Nossa Senhora de Lourdes": {
+			"name": "Nossa Senhora de Lourdes"
+		},
+		"Nossa Senhora do Socorro": {
+			"name": "Nossa Senhora do Socorro"
+		},
+		"Pacatuba": {
+			"name": "Pacatuba"
+		},
+		"Pedra Mole": {
+			"name": "Pedra Mole"
+		},
+		"Pedrinhas": {
+			"name": "Pedrinhas"
+		},
+		"Pinhão": {
+			"name": "Pinhão"
+		},
+		"Pirambu": {
+			"name": "Pirambu"
+		},
+		"Poço Redondo": {
+			"name": "Poço Redondo"
+		},
+		"Poço Verde": {
+			"name": "Poço Verde"
+		},
+		"Porto da Folha": {
+			"name": "Porto da Folha"
+		},
+		"Propriá": {
+			"name": "Propriá"
+		},
+		"Riachão do Dantas": {
+			"name": "Riachão do Dantas"
+		},
+		"Riachuelo": {
+			"name": "Riachuelo"
+		},
+		"Ribeirópolis": {
+			"name": "Ribeirópolis"
+		},
+		"Rosário do Catete": {
+			"name": "Rosário do Catete"
+		},
+		"Salgado": {
+			"name": "Salgado"
+		},
+		"Santa Luzia do Itanhy": {
+			"name": "Santa Luzia do Itanhy"
+		},
+		"Santa Rosa de Lima": {
+			"name": "Santa Rosa de Lima"
+		},
+		"Santana do São Francisco": {
+			"name": "Santana do São Francisco"
+		},
+		"Santo Amaro das Brotas": {
+			"name": "Santo Amaro das Brotas"
+		},
+		"São Cristóvão": {
+			"name": "São Cristóvão"
+		},
+		"São Domingos": {
+			"name": "São Domingos"
+		},
+		"São Francisco": {
+			"name": "São Francisco"
+		},
+		"São Miguel do Aleixo": {
+			"name": "São Miguel do Aleixo"
+		},
+		"Simão Dias": {
+			"name": "Simão Dias"
+		},
+		"Siriri": {
+			"name": "Siriri"
+		},
+		"Telha": {
+			"name": "Telha"
+		},
+		"Tobias Barreto": {
+			"name": "Tobias Barreto"
+		},
+		"Tomar do Geru": {
+			"name": "Tomar do Geru"
+		},
+		"Umbaúba": {
+			"name": "Umbaúba"
+		}
 	}
 }

@@ -5,149 +5,437 @@
 		"PA"
 	],
 	"subdivisions": {
-		"Abaetetuba": [],
-		"Abel Figueiredo": [],
-		"Acará": [],
-		"Afuá": [],
-		"Água Azul do Norte": [],
-		"Alenquer": [],
-		"Almeirim": [],
-		"Altamira": [],
-		"Alter do Chão": [],
-		"Anajás": [],
-		"Ananindeua": [],
-		"Anapu": [],
-		"Augusto Corrêa": [],
-		"Aurora do Pará": [],
-		"Aveiro": [],
-		"Bagre": [],
-		"Baião": [],
-		"Bannach": [],
-		"Barcarena": [],
-		"Belém": [],
-		"Belterra": [],
-		"Benevides": [],
-		"Bom Jesus do Tocantins": [],
-		"Bonito": [],
-		"Bragança": [],
-		"Brasil Novo": [],
-		"Brejo Grande do Araguaia": [],
-		"Breu Branco": [],
-		"Breves": [],
-		"Bujaru": [],
-		"Cachoeira do Arari": [],
-		"Cachoeira do Piriá": [],
-		"Cameta": [],
-		"Canaã dos Carajás": [],
-		"Capanema": [],
-		"Capitão Poço": [],
-		"Castanhal": [],
-		"Chaves": [],
-		"Colares": [],
-		"Conceição do Araguaia": [],
-		"Concórdia do Pará": [],
-		"Cumaru do Norte": [],
-		"Curionópolis": [],
-		"Curralinho": [],
-		"Curuá": [],
-		"Curuçá": [],
-		"Dom Eliseu": [],
-		"Eldorado dos Carajás": [],
-		"Faro": [],
-		"Floresta do Araguaia": [],
-		"Garrafão do Norte": [],
-		"Goianésia do Pará": [],
-		"Gurupá": [],
-		"Igarapé-Açu": [],
-		"Igarapé-Miri": [],
-		"Inhangapi": [],
-		"Ipixuna do Pará": [],
-		"Irituia": [],
-		"Itaituba": [],
-		"Itupiranga": [],
-		"Jacareacanga": [],
-		"Jacundá": [],
-		"Juruti": [],
-		"Limoeiro do Ajuru": [],
-		"Mãe do Rio": [],
-		"Magalhães Barata": [],
-		"Marabá": [],
-		"Maracanã": [],
-		"Marapanim": [],
-		"Marituba": [],
-		"Medicilândia": [],
-		"Melgaço": [],
-		"Mocajuba": [],
-		"Moju": [],
-		"Monte Alegre": [],
-		"Muaná": [],
-		"Nova Esperança do Piriá": [],
-		"Nova Ipixuna": [],
-		"Nova Timboteua": [],
-		"Novo Progresso": [],
-		"Novo Repartimento": [],
-		"Óbidos": [],
-		"Oeiras do Pará": [],
-		"Oriximiná": [],
-		"Ourém": [],
-		"Ourilândia do Norte": [],
-		"Pacajá": [],
-		"Palestina do Pará": [],
-		"Paragominas": [],
-		"Parauapebas": [],
-		"Pau D'Arco": [],
-		"Peixe-Boi": [],
-		"Piçarra": [],
-		"Placas": [],
-		"Ponta de Pedras": [],
-		"Portel": [],
-		"Porto de Moz": [],
-		"Prainha": [],
-		"Primavera": [],
-		"Quatipuru": [],
-		"Redenção": [],
-		"Rio Maria": [],
-		"Rondon do Pará": [],
-		"Rurópolis": [],
-		"Salinópolis": [],
-		"Salvaterra": [],
-		"Santa Bárbara do Pará": [],
-		"Santa Cruz do Arari": [],
-		"Santa Isabel do Pará": [],
-		"Santa Luzia do Pará": [],
-		"Santa Maria das Barreiras": [],
-		"Santa Maria do Pará": [],
-		"Santana do Araguaia": [],
-		"Santarém": [],
-		"Santarém Novo": [],
-		"Santo Antônio do Tauá": [],
-		"São Caetano de Odivelas": [],
-		"São Domingos do Araguaia": [],
-		"São Domingos do Capim": [],
-		"São Félix do Xingu": [],
-		"São Francisco do Pará": [],
-		"São Geraldo do Araguaia": [],
-		"São João da Ponta": [],
-		"São João de Pirabas": [],
-		"São João do Araguaia": [],
-		"São Miguel do Guamá": [],
-		"São Sebastião da Boa Vista": [],
-		"Sapucaia": [],
-		"Senador José Porfírio": [],
-		"Soure": [],
-		"Tailândia": [],
-		"Terra Alta": [],
-		"Terra Santa": [],
-		"Tomé-Açu": [],
-		"Tracuateua": [],
-		"Trairão": [],
-		"Tucumã": [],
-		"Tucuruí": [],
-		"Ulianópolis": [],
-		"Uruará": [],
-		"Vigia": [],
-		"Viseu": [],
-		"Vitória do Xingu": [],
-		"Xinguara": []
+		"Abaetetuba": {
+			"name": "Abaetetuba"
+		},
+		"Abel Figueiredo": {
+			"name": "Abel Figueiredo"
+		},
+		"Acará": {
+			"name": "Acará"
+		},
+		"Afuá": {
+			"name": "Afuá"
+		},
+		"Água Azul do Norte": {
+			"name": "Água Azul do Norte"
+		},
+		"Alenquer": {
+			"name": "Alenquer"
+		},
+		"Almeirim": {
+			"name": "Almeirim"
+		},
+		"Altamira": {
+			"name": "Altamira"
+		},
+		"Alter do Chão": {
+			"name": "Alter do Chão"
+		},
+		"Anajás": {
+			"name": "Anajás"
+		},
+		"Ananindeua": {
+			"name": "Ananindeua"
+		},
+		"Anapu": {
+			"name": "Anapu"
+		},
+		"Augusto Corrêa": {
+			"name": "Augusto Corrêa"
+		},
+		"Aurora do Pará": {
+			"name": "Aurora do Pará"
+		},
+		"Aveiro": {
+			"name": "Aveiro"
+		},
+		"Bagre": {
+			"name": "Bagre"
+		},
+		"Baião": {
+			"name": "Baião"
+		},
+		"Bannach": {
+			"name": "Bannach"
+		},
+		"Barcarena": {
+			"name": "Barcarena"
+		},
+		"Belém": {
+			"name": "Belém"
+		},
+		"Belterra": {
+			"name": "Belterra"
+		},
+		"Benevides": {
+			"name": "Benevides"
+		},
+		"Bom Jesus do Tocantins": {
+			"name": "Bom Jesus do Tocantins"
+		},
+		"Bonito": {
+			"name": "Bonito"
+		},
+		"Bragança": {
+			"name": "Bragança"
+		},
+		"Brasil Novo": {
+			"name": "Brasil Novo"
+		},
+		"Brejo Grande do Araguaia": {
+			"name": "Brejo Grande do Araguaia"
+		},
+		"Breu Branco": {
+			"name": "Breu Branco"
+		},
+		"Breves": {
+			"name": "Breves"
+		},
+		"Bujaru": {
+			"name": "Bujaru"
+		},
+		"Cachoeira do Arari": {
+			"name": "Cachoeira do Arari"
+		},
+		"Cachoeira do Piriá": {
+			"name": "Cachoeira do Piriá"
+		},
+		"Cameta": {
+			"name": "Cameta"
+		},
+		"Canaã dos Carajás": {
+			"name": "Canaã dos Carajás"
+		},
+		"Capanema": {
+			"name": "Capanema"
+		},
+		"Capitão Poço": {
+			"name": "Capitão Poço"
+		},
+		"Castanhal": {
+			"name": "Castanhal"
+		},
+		"Chaves": {
+			"name": "Chaves"
+		},
+		"Colares": {
+			"name": "Colares"
+		},
+		"Conceição do Araguaia": {
+			"name": "Conceição do Araguaia"
+		},
+		"Concórdia do Pará": {
+			"name": "Concórdia do Pará"
+		},
+		"Cumaru do Norte": {
+			"name": "Cumaru do Norte"
+		},
+		"Curionópolis": {
+			"name": "Curionópolis"
+		},
+		"Curralinho": {
+			"name": "Curralinho"
+		},
+		"Curuá": {
+			"name": "Curuá"
+		},
+		"Curuçá": {
+			"name": "Curuçá"
+		},
+		"Dom Eliseu": {
+			"name": "Dom Eliseu"
+		},
+		"Eldorado dos Carajás": {
+			"name": "Eldorado dos Carajás"
+		},
+		"Faro": {
+			"name": "Faro"
+		},
+		"Floresta do Araguaia": {
+			"name": "Floresta do Araguaia"
+		},
+		"Garrafão do Norte": {
+			"name": "Garrafão do Norte"
+		},
+		"Goianésia do Pará": {
+			"name": "Goianésia do Pará"
+		},
+		"Gurupá": {
+			"name": "Gurupá"
+		},
+		"Igarapé-Açu": {
+			"name": "Igarapé-Açu"
+		},
+		"Igarapé-Miri": {
+			"name": "Igarapé-Miri"
+		},
+		"Inhangapi": {
+			"name": "Inhangapi"
+		},
+		"Ipixuna do Pará": {
+			"name": "Ipixuna do Pará"
+		},
+		"Irituia": {
+			"name": "Irituia"
+		},
+		"Itaituba": {
+			"name": "Itaituba"
+		},
+		"Itupiranga": {
+			"name": "Itupiranga"
+		},
+		"Jacareacanga": {
+			"name": "Jacareacanga"
+		},
+		"Jacundá": {
+			"name": "Jacundá"
+		},
+		"Juruti": {
+			"name": "Juruti"
+		},
+		"Limoeiro do Ajuru": {
+			"name": "Limoeiro do Ajuru"
+		},
+		"Mãe do Rio": {
+			"name": "Mãe do Rio"
+		},
+		"Magalhães Barata": {
+			"name": "Magalhães Barata"
+		},
+		"Marabá": {
+			"name": "Marabá"
+		},
+		"Maracanã": {
+			"name": "Maracanã"
+		},
+		"Marapanim": {
+			"name": "Marapanim"
+		},
+		"Marituba": {
+			"name": "Marituba"
+		},
+		"Medicilândia": {
+			"name": "Medicilândia"
+		},
+		"Melgaço": {
+			"name": "Melgaço"
+		},
+		"Mocajuba": {
+			"name": "Mocajuba"
+		},
+		"Moju": {
+			"name": "Moju"
+		},
+		"Monte Alegre": {
+			"name": "Monte Alegre"
+		},
+		"Muaná": {
+			"name": "Muaná"
+		},
+		"Nova Esperança do Piriá": {
+			"name": "Nova Esperança do Piriá"
+		},
+		"Nova Ipixuna": {
+			"name": "Nova Ipixuna"
+		},
+		"Nova Timboteua": {
+			"name": "Nova Timboteua"
+		},
+		"Novo Progresso": {
+			"name": "Novo Progresso"
+		},
+		"Novo Repartimento": {
+			"name": "Novo Repartimento"
+		},
+		"Óbidos": {
+			"name": "Óbidos"
+		},
+		"Oeiras do Pará": {
+			"name": "Oeiras do Pará"
+		},
+		"Oriximiná": {
+			"name": "Oriximiná"
+		},
+		"Ourém": {
+			"name": "Ourém"
+		},
+		"Ourilândia do Norte": {
+			"name": "Ourilândia do Norte"
+		},
+		"Pacajá": {
+			"name": "Pacajá"
+		},
+		"Palestina do Pará": {
+			"name": "Palestina do Pará"
+		},
+		"Paragominas": {
+			"name": "Paragominas"
+		},
+		"Parauapebas": {
+			"name": "Parauapebas"
+		},
+		"Pau D'Arco": {
+			"name": "Pau D'Arco"
+		},
+		"Peixe-Boi": {
+			"name": "Peixe-Boi"
+		},
+		"Piçarra": {
+			"name": "Piçarra"
+		},
+		"Placas": {
+			"name": "Placas"
+		},
+		"Ponta de Pedras": {
+			"name": "Ponta de Pedras"
+		},
+		"Portel": {
+			"name": "Portel"
+		},
+		"Porto de Moz": {
+			"name": "Porto de Moz"
+		},
+		"Prainha": {
+			"name": "Prainha"
+		},
+		"Primavera": {
+			"name": "Primavera"
+		},
+		"Quatipuru": {
+			"name": "Quatipuru"
+		},
+		"Redenção": {
+			"name": "Redenção"
+		},
+		"Rio Maria": {
+			"name": "Rio Maria"
+		},
+		"Rondon do Pará": {
+			"name": "Rondon do Pará"
+		},
+		"Rurópolis": {
+			"name": "Rurópolis"
+		},
+		"Salinópolis": {
+			"name": "Salinópolis"
+		},
+		"Salvaterra": {
+			"name": "Salvaterra"
+		},
+		"Santa Bárbara do Pará": {
+			"name": "Santa Bárbara do Pará"
+		},
+		"Santa Cruz do Arari": {
+			"name": "Santa Cruz do Arari"
+		},
+		"Santa Isabel do Pará": {
+			"name": "Santa Isabel do Pará"
+		},
+		"Santa Luzia do Pará": {
+			"name": "Santa Luzia do Pará"
+		},
+		"Santa Maria das Barreiras": {
+			"name": "Santa Maria das Barreiras"
+		},
+		"Santa Maria do Pará": {
+			"name": "Santa Maria do Pará"
+		},
+		"Santana do Araguaia": {
+			"name": "Santana do Araguaia"
+		},
+		"Santarém": {
+			"name": "Santarém"
+		},
+		"Santarém Novo": {
+			"name": "Santarém Novo"
+		},
+		"Santo Antônio do Tauá": {
+			"name": "Santo Antônio do Tauá"
+		},
+		"São Caetano de Odivelas": {
+			"name": "São Caetano de Odivelas"
+		},
+		"São Domingos do Araguaia": {
+			"name": "São Domingos do Araguaia"
+		},
+		"São Domingos do Capim": {
+			"name": "São Domingos do Capim"
+		},
+		"São Félix do Xingu": {
+			"name": "São Félix do Xingu"
+		},
+		"São Francisco do Pará": {
+			"name": "São Francisco do Pará"
+		},
+		"São Geraldo do Araguaia": {
+			"name": "São Geraldo do Araguaia"
+		},
+		"São João da Ponta": {
+			"name": "São João da Ponta"
+		},
+		"São João de Pirabas": {
+			"name": "São João de Pirabas"
+		},
+		"São João do Araguaia": {
+			"name": "São João do Araguaia"
+		},
+		"São Miguel do Guamá": {
+			"name": "São Miguel do Guamá"
+		},
+		"São Sebastião da Boa Vista": {
+			"name": "São Sebastião da Boa Vista"
+		},
+		"Sapucaia": {
+			"name": "Sapucaia"
+		},
+		"Senador José Porfírio": {
+			"name": "Senador José Porfírio"
+		},
+		"Soure": {
+			"name": "Soure"
+		},
+		"Tailândia": {
+			"name": "Tailândia"
+		},
+		"Terra Alta": {
+			"name": "Terra Alta"
+		},
+		"Terra Santa": {
+			"name": "Terra Santa"
+		},
+		"Tomé-Açu": {
+			"name": "Tomé-Açu"
+		},
+		"Tracuateua": {
+			"name": "Tracuateua"
+		},
+		"Trairão": {
+			"name": "Trairão"
+		},
+		"Tucumã": {
+			"name": "Tucumã"
+		},
+		"Tucuruí": {
+			"name": "Tucuruí"
+		},
+		"Ulianópolis": {
+			"name": "Ulianópolis"
+		},
+		"Uruará": {
+			"name": "Uruará"
+		},
+		"Vigia": {
+			"name": "Vigia"
+		},
+		"Viseu": {
+			"name": "Viseu"
+		},
+		"Vitória do Xingu": {
+			"name": "Vitória do Xingu"
+		},
+		"Xinguara": {
+			"name": "Xinguara"
+		}
 	}
 }

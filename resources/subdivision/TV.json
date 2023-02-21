@@ -1,29 +1,39 @@
 {
 	"country_code": "TV",
 	"subdivisions": {
-		"Funafuti": {
+		"FUN": {
+			"name": "Funafuti",
 			"iso_code": "TV-FUN"
 		},
-		"Nanumanga": {
+		"NMG": {
+			"name": "Nanumanga",
 			"iso_code": "TV-NMG"
 		},
-		"Nanumea": {
+		"NMA": {
+			"name": "Nanumea",
 			"iso_code": "TV-NMA"
 		},
-		"Niulakita": [],
-		"Niutao": {
+		"Niulakita": {
+			"name": "Niulakita"
+		},
+		"NIT": {
+			"name": "Niutao",
 			"iso_code": "TV-NIT"
 		},
-		"Nui": {
+		"NUI": {
+			"name": "Nui",
 			"iso_code": "TV-NUI"
 		},
-		"Nukufetau": {
+		"NKF": {
+			"name": "Nukufetau",
 			"iso_code": "TV-NKF"
 		},
-		"Nukulaelae": {
+		"NKL": {
+			"name": "Nukulaelae",
 			"iso_code": "TV-NKL"
 		},
-		"Vaitupu": {
+		"VAI": {
+			"name": "Vaitupu",
 			"iso_code": "TV-VAI"
 		}
 	}

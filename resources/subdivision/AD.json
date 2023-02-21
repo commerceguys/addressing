@@ -1,32 +1,38 @@
 {
 	"country_code": "AD",
 	"subdivisions": {
-		"Parròquia d'Andorra la Vella": {
+		"07": {
 			"name": "Andorra la Vella",
 			"iso_code": "AD-07",
 			"postal_code_pattern": "AD50[01]"
 		},
-		"Canillo": {
+		"02": {
+			"name": "Canillo",
 			"iso_code": "AD-02",
 			"postal_code_pattern": "AD10[01]"
 		},
-		"Encamp": {
+		"03": {
+			"name": "Encamp",
 			"iso_code": "AD-03",
 			"postal_code_pattern": "AD20[01]"
 		},
-		"Escaldes-Engordany": {
+		"08": {
+			"name": "Escaldes-Engordany",
 			"iso_code": "AD-08",
 			"postal_code_pattern": "AD70[01]"
 		},
-		"La Massana": {
+		"04": {
+			"name": "La Massana",
 			"iso_code": "AD-04",
 			"postal_code_pattern": "AD40[01]"
 		},
-		"Ordino": {
+		"05": {
+			"name": "Ordino",
 			"iso_code": "AD-05",
 			"postal_code_pattern": "AD30[01]"
 		},
-		"Sant Julià de Lòria": {
+		"06": {
+			"name": "Sant Julià de Lòria",
 			"iso_code": "AD-06",
 			"postal_code_pattern": "AD60[01]"
 		}

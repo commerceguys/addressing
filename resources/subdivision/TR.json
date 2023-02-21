@@ -1,327 +1,408 @@
 {
 	"country_code": "TR",
 	"subdivisions": {
-		"Adana": {
+		"01": {
+			"name": "Adana",
 			"iso_code": "TR-01",
 			"postal_code_pattern": "01"
 		},
-		"Adıyaman": {
+		"02": {
+			"name": "Adıyaman",
 			"iso_code": "TR-02",
 			"postal_code_pattern": "02"
 		},
-		"Afyon": {
+		"03": {
+			"name": "Afyon",
 			"iso_code": "TR-03",
 			"postal_code_pattern": "03"
 		},
-		"Ağrı": {
+		"04": {
+			"name": "Ağrı",
 			"iso_code": "TR-04",
 			"postal_code_pattern": "04"
 		},
-		"Aksaray": {
+		"68": {
+			"name": "Aksaray",
 			"iso_code": "TR-68",
 			"postal_code_pattern": "68"
 		},
-		"Amasya": {
+		"05": {
+			"name": "Amasya",
 			"iso_code": "TR-05",
 			"postal_code_pattern": "05"
 		},
-		"Ankara": {
+		"06": {
+			"name": "Ankara",
 			"iso_code": "TR-06",
 			"postal_code_pattern": "06"
 		},
-		"Antalya": {
+		"07": {
+			"name": "Antalya",
 			"iso_code": "TR-07",
 			"postal_code_pattern": "07"
 		},
-		"Ardahan": {
+		"75": {
+			"name": "Ardahan",
 			"iso_code": "TR-75",
 			"postal_code_pattern": "75"
 		},
-		"Artvin": {
+		"08": {
+			"name": "Artvin",
 			"iso_code": "TR-08",
 			"postal_code_pattern": "08"
 		},
-		"Aydın": {
+		"09": {
+			"name": "Aydın",
 			"iso_code": "TR-09",
 			"postal_code_pattern": "09"
 		},
-		"Balıkesir": {
+		"10": {
+			"name": "Balıkesir",
 			"iso_code": "TR-10",
 			"postal_code_pattern": "10"
 		},
-		"Bartın": {
+		"74": {
+			"name": "Bartın",
 			"iso_code": "TR-74",
 			"postal_code_pattern": "74"
 		},
-		"Batman": {
+		"72": {
+			"name": "Batman",
 			"iso_code": "TR-72",
 			"postal_code_pattern": "72"
 		},
-		"Bayburt": {
+		"69": {
+			"name": "Bayburt",
 			"iso_code": "TR-69",
 			"postal_code_pattern": "69"
 		},
-		"Bilecik": {
+		"11": {
+			"name": "Bilecik",
 			"iso_code": "TR-11",
 			"postal_code_pattern": "11"
 		},
-		"Bingöl": {
+		"12": {
+			"name": "Bingöl",
 			"iso_code": "TR-12",
 			"postal_code_pattern": "12"
 		},
-		"Bitlis": {
+		"13": {
+			"name": "Bitlis",
 			"iso_code": "TR-13",
 			"postal_code_pattern": "13"
 		},
-		"Bolu": {
+		"14": {
+			"name": "Bolu",
 			"iso_code": "TR-14",
 			"postal_code_pattern": "14"
 		},
-		"Burdur": {
+		"15": {
+			"name": "Burdur",
 			"iso_code": "TR-15",
 			"postal_code_pattern": "15"
 		},
-		"Bursa": {
+		"16": {
+			"name": "Bursa",
 			"iso_code": "TR-16",
 			"postal_code_pattern": "16"
 		},
-		"Çanakkale": {
+		"17": {
+			"name": "Çanakkale",
 			"iso_code": "TR-17",
 			"postal_code_pattern": "17"
 		},
-		"Çankırı": {
+		"18": {
+			"name": "Çankırı",
 			"iso_code": "TR-18",
 			"postal_code_pattern": "18"
 		},
-		"Çorum": {
+		"19": {
+			"name": "Çorum",
 			"iso_code": "TR-19",
 			"postal_code_pattern": "19"
 		},
-		"Denizli": {
+		"20": {
+			"name": "Denizli",
 			"iso_code": "TR-20",
 			"postal_code_pattern": "20"
 		},
-		"Diyarbakır": {
+		"21": {
+			"name": "Diyarbakır",
 			"iso_code": "TR-21",
 			"postal_code_pattern": "21"
 		},
-		"Düzce": {
+		"81": {
+			"name": "Düzce",
 			"iso_code": "TR-81",
 			"postal_code_pattern": "81"
 		},
-		"Edirne": {
+		"22": {
+			"name": "Edirne",
 			"iso_code": "TR-22",
 			"postal_code_pattern": "22"
 		},
-		"Elazığ": {
+		"23": {
+			"name": "Elazığ",
 			"iso_code": "TR-23",
 			"postal_code_pattern": "23"
 		},
-		"Erzincan": {
+		"24": {
+			"name": "Erzincan",
 			"iso_code": "TR-24",
 			"postal_code_pattern": "24"
 		},
-		"Erzurum": {
+		"25": {
+			"name": "Erzurum",
 			"iso_code": "TR-25",
 			"postal_code_pattern": "25"
 		},
-		"Eskişehir": {
+		"26": {
+			"name": "Eskişehir",
 			"iso_code": "TR-26",
 			"postal_code_pattern": "26"
 		},
-		"Gaziantep": {
+		"27": {
+			"name": "Gaziantep",
 			"iso_code": "TR-27",
 			"postal_code_pattern": "27"
 		},
-		"Giresun": {
+		"28": {
+			"name": "Giresun",
 			"iso_code": "TR-28",
 			"postal_code_pattern": "28"
 		},
-		"Gümüşhane": {
+		"29": {
+			"name": "Gümüşhane",
 			"iso_code": "TR-29",
 			"postal_code_pattern": "29"
 		},
-		"Hakkari": {
+		"30": {
+			"name": "Hakkari",
 			"iso_code": "TR-30",
 			"postal_code_pattern": "30"
 		},
-		"Hatay": {
+		"31": {
+			"name": "Hatay",
 			"iso_code": "TR-31",
 			"postal_code_pattern": "31"
 		},
-		"Iğdır": {
+		"76": {
+			"name": "Iğdır",
 			"iso_code": "TR-76",
 			"postal_code_pattern": "76"
 		},
-		"Isparta": {
+		"32": {
+			"name": "Isparta",
 			"iso_code": "TR-32",
 			"postal_code_pattern": "32"
 		},
-		"İstanbul": {
+		"34": {
+			"name": "İstanbul",
 			"iso_code": "TR-34",
 			"postal_code_pattern": "34"
 		},
-		"İzmir": {
+		"35": {
+			"name": "İzmir",
 			"iso_code": "TR-35",
 			"postal_code_pattern": "35"
 		},
-		"Kahramanmaraş": {
+		"46": {
+			"name": "Kahramanmaraş",
 			"iso_code": "TR-46",
 			"postal_code_pattern": "46"
 		},
-		"Karabük": {
+		"78": {
+			"name": "Karabük",
 			"iso_code": "TR-78",
 			"postal_code_pattern": "78"
 		},
-		"Karaman": {
+		"70": {
+			"name": "Karaman",
 			"iso_code": "TR-70",
 			"postal_code_pattern": "70"
 		},
-		"Kars": {
+		"36": {
+			"name": "Kars",
 			"iso_code": "TR-36",
 			"postal_code_pattern": "36"
 		},
-		"Kastamonu": {
+		"37": {
+			"name": "Kastamonu",
 			"iso_code": "TR-37",
 			"postal_code_pattern": "37"
 		},
-		"Kayseri": {
+		"38": {
+			"name": "Kayseri",
 			"iso_code": "TR-38",
 			"postal_code_pattern": "38"
 		},
-		"Kırıkkale": {
+		"71": {
+			"name": "Kırıkkale",
 			"iso_code": "TR-71",
 			"postal_code_pattern": "71"
 		},
-		"Kırklareli": {
+		"39": {
+			"name": "Kırklareli",
 			"iso_code": "TR-39",
 			"postal_code_pattern": "39"
 		},
-		"Kırşehir": {
+		"40": {
+			"name": "Kırşehir",
 			"iso_code": "TR-40",
 			"postal_code_pattern": "40"
 		},
-		"Kilis": {
+		"79": {
+			"name": "Kilis",
 			"iso_code": "TR-79",
 			"postal_code_pattern": "79"
 		},
-		"Kocaeli": {
+		"41": {
+			"name": "Kocaeli",
 			"iso_code": "TR-41",
 			"postal_code_pattern": "41"
 		},
-		"Konya": {
+		"42": {
+			"name": "Konya",
 			"iso_code": "TR-42",
 			"postal_code_pattern": "42"
 		},
-		"Kütahya": {
+		"43": {
+			"name": "Kütahya",
 			"iso_code": "TR-43",
 			"postal_code_pattern": "43"
 		},
-		"Malatya": {
+		"44": {
+			"name": "Malatya",
 			"iso_code": "TR-44",
 			"postal_code_pattern": "44"
 		},
-		"Manisa": {
+		"45": {
+			"name": "Manisa",
 			"iso_code": "TR-45",
 			"postal_code_pattern": "45"
 		},
-		"Mardin": {
+		"47": {
+			"name": "Mardin",
 			"iso_code": "TR-47",
 			"postal_code_pattern": "47"
 		},
-		"Mersin": {
+		"33": {
+			"name": "Mersin",
 			"iso_code": "TR-33",
 			"postal_code_pattern": "33"
 		},
-		"Muğla": {
+		"48": {
+			"name": "Muğla",
 			"iso_code": "TR-48",
 			"postal_code_pattern": "48"
 		},
-		"Muş": {
+		"49": {
+			"name": "Muş",
 			"iso_code": "TR-49",
 			"postal_code_pattern": "49"
 		},
-		"Nevşehir": {
+		"50": {
+			"name": "Nevşehir",
 			"iso_code": "TR-50",
 			"postal_code_pattern": "50"
 		},
-		"Niğde": {
+		"51": {
+			"name": "Niğde",
 			"iso_code": "TR-51",
 			"postal_code_pattern": "51"
 		},
-		"Ordu": {
+		"52": {
+			"name": "Ordu",
 			"iso_code": "TR-52",
 			"postal_code_pattern": "52"
 		},
-		"Osmaniye": {
+		"80": {
+			"name": "Osmaniye",
 			"iso_code": "TR-80",
 			"postal_code_pattern": "80"
 		},
-		"Rize": {
+		"53": {
+			"name": "Rize",
 			"iso_code": "TR-53",
 			"postal_code_pattern": "53"
 		},
-		"Sakarya": {
+		"54": {
+			"name": "Sakarya",
 			"iso_code": "TR-54",
 			"postal_code_pattern": "54"
 		},
-		"Samsun": {
+		"55": {
+			"name": "Samsun",
 			"iso_code": "TR-55",
 			"postal_code_pattern": "55"
 		},
-		"Siirt": {
+		"56": {
+			"name": "Siirt",
 			"iso_code": "TR-56",
 			"postal_code_pattern": "56"
 		},
-		"Sinop": {
+		"57": {
+			"name": "Sinop",
 			"iso_code": "TR-57",
 			"postal_code_pattern": "57"
 		},
-		"Sivas": {
+		"58": {
+			"name": "Sivas",
 			"iso_code": "TR-58",
 			"postal_code_pattern": "58"
 		},
-		"Şanlıurfa": {
+		"63": {
+			"name": "Şanlıurfa",
 			"iso_code": "TR-63",
 			"postal_code_pattern": "63"
 		},
-		"Şırnak": {
+		"73": {
+			"name": "Şırnak",
 			"iso_code": "TR-73",
 			"postal_code_pattern": "73"
 		},
-		"Tekirdağ": {
+		"59": {
+			"name": "Tekirdağ",
 			"iso_code": "TR-59",
 			"postal_code_pattern": "59"
 		},
-		"Tokat": {
+		"60": {
+			"name": "Tokat",
 			"iso_code": "TR-60",
 			"postal_code_pattern": "60"
 		},
-		"Trabzon": {
+		"61": {
+			"name": "Trabzon",
 			"iso_code": "TR-61",
 			"postal_code_pattern": "61"
 		},
-		"Tunceli": {
+		"62": {
+			"name": "Tunceli",
 			"iso_code": "TR-62",
 			"postal_code_pattern": "62"
 		},
-		"Uşak": {
+		"64": {
+			"name": "Uşak",
 			"iso_code": "TR-64",
 			"postal_code_pattern": "64"
 		},
-		"Van": {
+		"65": {
+			"name": "Van",
 			"iso_code": "TR-65",
 			"postal_code_pattern": "65"
 		},
-		"Yalova": {
+		"77": {
+			"name": "Yalova",
 			"iso_code": "TR-77",
 			"postal_code_pattern": "77"
 		},
-		"Yozgat": {
+		"66": {
+			"name": "Yozgat",
 			"iso_code": "TR-66",
 			"postal_code_pattern": "66"
 		},
-		"Zonguldak": {
+		"67": {
+			"name": "Zonguldak",
 			"iso_code": "TR-67",
 			"postal_code_pattern": "67"
 		}

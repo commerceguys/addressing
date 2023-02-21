@@ -1,79 +1,104 @@
 {
 	"country_code": "VE",
 	"subdivisions": {
-		"Amazonas": {
+		"Z": {
+			"name": "Amazonas",
 			"iso_code": "VE-Z"
 		},
-		"Anzoátegui": {
+		"B": {
+			"name": "Anzoátegui",
 			"iso_code": "VE-B"
 		},
-		"Apure": {
+		"C": {
+			"name": "Apure",
 			"iso_code": "VE-C"
 		},
-		"Aragua": {
+		"D": {
+			"name": "Aragua",
 			"iso_code": "VE-D"
 		},
-		"Barinas": {
+		"E": {
+			"name": "Barinas",
 			"iso_code": "VE-E"
 		},
-		"Bolívar": {
+		"F": {
+			"name": "Bolívar",
 			"iso_code": "VE-F"
 		},
-		"Carabobo": {
+		"G": {
+			"name": "Carabobo",
 			"iso_code": "VE-G"
 		},
-		"Cojedes": {
+		"H": {
+			"name": "Cojedes",
 			"iso_code": "VE-H"
 		},
-		"Delta Amacuro": {
+		"Y": {
+			"name": "Delta Amacuro",
 			"iso_code": "VE-Y"
 		},
-		"Dependencias Federales": {
+		"W": {
+			"name": "Dependencias Federales",
 			"iso_code": "VE-W"
 		},
-		"Distrito Federal": {
+		"A": {
+			"name": "Distrito Federal",
 			"iso_code": "VE-A"
 		},
-		"Falcón": {
+		"I": {
+			"name": "Falcón",
 			"iso_code": "VE-I"
 		},
-		"Guárico": {
+		"J": {
+			"name": "Guárico",
 			"iso_code": "VE-J"
 		},
-		"Lara": {
+		"K": {
+			"name": "Lara",
 			"iso_code": "VE-K"
 		},
-		"Mérida": {
+		"L": {
+			"name": "Mérida",
 			"iso_code": "VE-L"
 		},
-		"Miranda": {
+		"M": {
+			"name": "Miranda",
 			"iso_code": "VE-M"
 		},
-		"Monagas": {
+		"N": {
+			"name": "Monagas",
 			"iso_code": "VE-N"
 		},
-		"Nueva Esparta": {
+		"O": {
+			"name": "Nueva Esparta",
 			"iso_code": "VE-O"
 		},
-		"Portuguesa": {
+		"P": {
+			"name": "Portuguesa",
 			"iso_code": "VE-P"
 		},
-		"Sucre": {
+		"R": {
+			"name": "Sucre",
 			"iso_code": "VE-R"
 		},
-		"Táchira": {
+		"S": {
+			"name": "Táchira",
 			"iso_code": "VE-S"
 		},
-		"Trujillo": {
+		"T": {
+			"name": "Trujillo",
 			"iso_code": "VE-T"
 		},
-		"Vargas": {
+		"X": {
+			"name": "Vargas",
 			"iso_code": "VE-X"
 		},
-		"Yaracuy": {
+		"U": {
+			"name": "Yaracuy",
 			"iso_code": "VE-U"
 		},
-		"Zulia": {
+		"V": {
+			"name": "Zulia",
 			"iso_code": "VE-V"
 		}
 	}

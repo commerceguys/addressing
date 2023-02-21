@@ -5,57 +5,161 @@
 		"RO"
 	],
 	"subdivisions": {
-		"Alta Floresta d'Oeste": [],
-		"Alto Alegre do Parecis": [],
-		"Alto Paraíso": [],
-		"Alvorada d'Oeste": [],
-		"Ariquemes": [],
-		"Buritis": [],
-		"Cabixi": [],
-		"Cacaulândia": [],
-		"Cacoal": [],
-		"Campo Novo de Rondônia": [],
-		"Candeias do Jamari": [],
-		"Castanheiras": [],
-		"Cerejeiras": [],
-		"Chupinguaia": [],
-		"Colorado do Oeste": [],
-		"Corumbiara": [],
-		"Costa Marques": [],
-		"Cujubim": [],
-		"Espigão d'Oeste": [],
-		"Governador Jorge Teixeira": [],
-		"Guajará-Mirim": [],
-		"Itapuã do Oeste": [],
-		"Jaru": [],
-		"Ji-Paraná": [],
-		"Machadinho d'Oeste": [],
-		"Ministro Andreazza": [],
-		"Mirante da Serra": [],
-		"Monte Negro": [],
-		"Nova Brasilândia d'Oeste": [],
-		"Nova Mamoré": [],
-		"Nova União": [],
-		"Novo Horizonte do Oeste": [],
-		"Ouro Preto do Oeste": [],
-		"Parecis": [],
-		"Pimenta Bueno": [],
-		"Pimenteiras do Oeste": [],
-		"Porto Velho": [],
-		"Presidente Médici": [],
-		"Primavera de Rondônia": [],
-		"Rio Crespo": [],
-		"Rolim de Moura": [],
-		"Santa Luzia d'Oeste": [],
-		"São Felipe d'Oeste": [],
-		"São Francisco do Guaporé": [],
-		"São Miguel do Guaporé": [],
-		"Seringueiras": [],
-		"Teixeirópolis": [],
-		"Theobroma": [],
-		"Urupá": [],
-		"Vale do Anari": [],
-		"Vale do Paraíso": [],
-		"Vilhena": []
+		"Alta Floresta d'Oeste": {
+			"name": "Alta Floresta d'Oeste"
+		},
+		"Alto Alegre do Parecis": {
+			"name": "Alto Alegre do Parecis"
+		},
+		"Alto Paraíso": {
+			"name": "Alto Paraíso"
+		},
+		"Alvorada d'Oeste": {
+			"name": "Alvorada d'Oeste"
+		},
+		"Ariquemes": {
+			"name": "Ariquemes"
+		},
+		"Buritis": {
+			"name": "Buritis"
+		},
+		"Cabixi": {
+			"name": "Cabixi"
+		},
+		"Cacaulândia": {
+			"name": "Cacaulândia"
+		},
+		"Cacoal": {
+			"name": "Cacoal"
+		},
+		"Campo Novo de Rondônia": {
+			"name": "Campo Novo de Rondônia"
+		},
+		"Candeias do Jamari": {
+			"name": "Candeias do Jamari"
+		},
+		"Castanheiras": {
+			"name": "Castanheiras"
+		},
+		"Cerejeiras": {
+			"name": "Cerejeiras"
+		},
+		"Chupinguaia": {
+			"name": "Chupinguaia"
+		},
+		"Colorado do Oeste": {
+			"name": "Colorado do Oeste"
+		},
+		"Corumbiara": {
+			"name": "Corumbiara"
+		},
+		"Costa Marques": {
+			"name": "Costa Marques"
+		},
+		"Cujubim": {
+			"name": "Cujubim"
+		},
+		"Espigão d'Oeste": {
+			"name": "Espigão d'Oeste"
+		},
+		"Governador Jorge Teixeira": {
+			"name": "Governador Jorge Teixeira"
+		},
+		"Guajará-Mirim": {
+			"name": "Guajará-Mirim"
+		},
+		"Itapuã do Oeste": {
+			"name": "Itapuã do Oeste"
+		},
+		"Jaru": {
+			"name": "Jaru"
+		},
+		"Ji-Paraná": {
+			"name": "Ji-Paraná"
+		},
+		"Machadinho d'Oeste": {
+			"name": "Machadinho d'Oeste"
+		},
+		"Ministro Andreazza": {
+			"name": "Ministro Andreazza"
+		},
+		"Mirante da Serra": {
+			"name": "Mirante da Serra"
+		},
+		"Monte Negro": {
+			"name": "Monte Negro"
+		},
+		"Nova Brasilândia d'Oeste": {
+			"name": "Nova Brasilândia d'Oeste"
+		},
+		"Nova Mamoré": {
+			"name": "Nova Mamoré"
+		},
+		"Nova União": {
+			"name": "Nova União"
+		},
+		"Novo Horizonte do Oeste": {
+			"name": "Novo Horizonte do Oeste"
+		},
+		"Ouro Preto do Oeste": {
+			"name": "Ouro Preto do Oeste"
+		},
+		"Parecis": {
+			"name": "Parecis"
+		},
+		"Pimenta Bueno": {
+			"name": "Pimenta Bueno"
+		},
+		"Pimenteiras do Oeste": {
+			"name": "Pimenteiras do Oeste"
+		},
+		"Porto Velho": {
+			"name": "Porto Velho"
+		},
+		"Presidente Médici": {
+			"name": "Presidente Médici"
+		},
+		"Primavera de Rondônia": {
+			"name": "Primavera de Rondônia"
+		},
+		"Rio Crespo": {
+			"name": "Rio Crespo"
+		},
+		"Rolim de Moura": {
+			"name": "Rolim de Moura"
+		},
+		"Santa Luzia d'Oeste": {
+			"name": "Santa Luzia d'Oeste"
+		},
+		"São Felipe d'Oeste": {
+			"name": "São Felipe d'Oeste"
+		},
+		"São Francisco do Guaporé": {
+			"name": "São Francisco do Guaporé"
+		},
+		"São Miguel do Guaporé": {
+			"name": "São Miguel do Guaporé"
+		},
+		"Seringueiras": {
+			"name": "Seringueiras"
+		},
+		"Teixeirópolis": {
+			"name": "Teixeirópolis"
+		},
+		"Theobroma": {
+			"name": "Theobroma"
+		},
+		"Urupá": {
+			"name": "Urupá"
+		},
+		"Vale do Anari": {
+			"name": "Vale do Anari"
+		},
+		"Vale do Paraíso": {
+			"name": "Vale do Paraíso"
+		},
+		"Vilhena": {
+			"name": "Vilhena"
+		}
 	}
 }

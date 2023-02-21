@@ -1,0 +1,105 @@
+{
+	"country_code": "CL",
+	"parents": [
+		"CL",
+		"AR"
+	],
+	"subdivisions": {
+		"Angol": {
+			"name": "Angol"
+		},
+		"Carahue": {
+			"name": "Carahue"
+		},
+		"Cholchol": {
+			"name": "Cholchol"
+		},
+		"Collipulli": {
+			"name": "Collipulli"
+		},
+		"Cunco": {
+			"name": "Cunco"
+		},
+		"Curacautín": {
+			"name": "Curacautín"
+		},
+		"Curarrehue": {
+			"name": "Curarrehue"
+		},
+		"Ercilla": {
+			"name": "Ercilla"
+		},
+		"Freire": {
+			"name": "Freire"
+		},
+		"Galvarino": {
+			"name": "Galvarino"
+		},
+		"Gorbea": {
+			"name": "Gorbea"
+		},
+		"Lautaro": {
+			"name": "Lautaro"
+		},
+		"Loncoche": {
+			"name": "Loncoche"
+		},
+		"Lonquimay": {
+			"name": "Lonquimay"
+		},
+		"Los Sauces": {
+			"name": "Los Sauces"
+		},
+		"Lumaco": {
+			"name": "Lumaco"
+		},
+		"Melipeuco": {
+			"name": "Melipeuco"
+		},
+		"Nueva Imperial": {
+			"name": "Nueva Imperial"
+		},
+		"Padre Las Casas": {
+			"name": "Padre Las Casas"
+		},
+		"Perquenco": {
+			"name": "Perquenco"
+		},
+		"Pitrufquén": {
+			"name": "Pitrufquén"
+		},
+		"Pucón": {
+			"name": "Pucón"
+		},
+		"Purén": {
+			"name": "Purén"
+		},
+		"Renaico": {
+			"name": "Renaico"
+		},
+		"Saavedra": {
+			"name": "Saavedra"
+		},
+		"Temuco": {
+			"name": "Temuco"
+		},
+		"Teodoro Schmidt": {
+			"name": "Teodoro Schmidt"
+		},
+		"Toltén": {
+			"name": "Toltén"
+		},
+		"Traiguén": {
+			"name": "Traiguén"
+		},
+		"Victoria": {
+			"name": "Victoria"
+		},
+		"Vilcún": {
+			"name": "Vilcún"
+		},
+		"Villarrica": {
+			"name": "Villarrica"
+		}
+	}
+}

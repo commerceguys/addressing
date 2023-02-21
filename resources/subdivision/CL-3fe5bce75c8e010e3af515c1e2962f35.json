@@ -1,0 +1,54 @@
+{
+	"country_code": "CL",
+	"parents": [
+		"CL",
+		"CO"
+	],
+	"subdivisions": {
+		"Andacollo": {
+			"name": "Andacollo"
+		},
+		"Canela": {
+			"name": "Canela"
+		},
+		"Combarbalá": {
+			"name": "Combarbalá"
+		},
+		"Coquimbo": {
+			"name": "Coquimbo"
+		},
+		"Illapel": {
+			"name": "Illapel"
+		},
+		"La Higuera": {
+			"name": "La Higuera"
+		},
+		"La Serena": {
+			"name": "La Serena"
+		},
+		"Los Vilos": {
+			"name": "Los Vilos"
+		},
+		"Monte Patria": {
+			"name": "Monte Patria"
+		},
+		"Ovalle": {
+			"name": "Ovalle"
+		},
+		"Paihuano": {
+			"name": "Paihuano"
+		},
+		"Punitaqui": {
+			"name": "Punitaqui"
+		},
+		"Río Hurtado": {
+			"name": "Río Hurtado"
+		},
+		"Salamanca": {
+			"name": "Salamanca"
+		},
+		"Vicuña": {
+			"name": "Vicuña"
+		}
+	}
+}

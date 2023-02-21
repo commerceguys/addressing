@@ -5,67 +5,191 @@
 		"AM"
 	],
 	"subdivisions": {
-		"Alvarães": [],
-		"Amaturá": [],
-		"Anamã": [],
-		"Anorí": [],
-		"Apuí": [],
-		"Atalaia do Norte": [],
-		"Autazes": [],
-		"Barcelos": [],
-		"Barreirinha": [],
-		"Benjamin Constant": [],
-		"Beruri": [],
-		"Boa Vista do Ramos": [],
-		"Boca do Acre": [],
-		"Borba": [],
-		"Caapiranga": [],
-		"Canutama": [],
-		"Carauari": [],
-		"Careiro": [],
-		"Careiro da Várzea": [],
-		"Coari": [],
-		"Codajás": [],
-		"Eirunepé": [],
-		"Envira": [],
-		"Fonte Boa": [],
-		"Guajará": [],
-		"Humaitá": [],
-		"Ipixuna": [],
-		"Iranduba": [],
-		"Itacoatiara": [],
-		"Itamarati": [],
-		"Itapiranga": [],
-		"Japurá": [],
-		"Jurua": [],
-		"Jutaí": [],
-		"Lábrea": [],
-		"Manacapuru": [],
-		"Manaquiri": [],
-		"Manaus": [],
-		"Manicoré": [],
-		"Maraã": [],
-		"Maués": [],
-		"Nhamundá": [],
-		"Nova Olinda do Norte": [],
-		"Novo Airão": [],
-		"Novo Aripuanã": [],
-		"Parintins": [],
-		"Pauini": [],
-		"Presidente Figueiredo": [],
-		"Rio Preto da Eva": [],
-		"Santa Isabel do Rio Negro": [],
-		"Santo Antônio do Içá": [],
-		"São Gabriel da Cachoeira": [],
-		"São Paulo de Olivença": [],
-		"São Sebastião do Uatumã": [],
-		"Silves": [],
-		"Tabatinga": [],
-		"Tapauá": [],
-		"Tefé": [],
-		"Tonantins": [],
-		"Uarini": [],
-		"Urucará": [],
-		"Urucurituba": []
+		"Alvarães": {
+			"name": "Alvarães"
+		},
+		"Amaturá": {
+			"name": "Amaturá"
+		},
+		"Anamã": {
+			"name": "Anamã"
+		},
+		"Anorí": {
+			"name": "Anorí"
+		},
+		"Apuí": {
+			"name": "Apuí"
+		},
+		"Atalaia do Norte": {
+			"name": "Atalaia do Norte"
+		},
+		"Autazes": {
+			"name": "Autazes"
+		},
+		"Barcelos": {
+			"name": "Barcelos"
+		},
+		"Barreirinha": {
+			"name": "Barreirinha"
+		},
+		"Benjamin Constant": {
+			"name": "Benjamin Constant"
+		},
+		"Beruri": {
+			"name": "Beruri"
+		},
+		"Boa Vista do Ramos": {
+			"name": "Boa Vista do Ramos"
+		},
+		"Boca do Acre": {
+			"name": "Boca do Acre"
+		},
+		"Borba": {
+			"name": "Borba"
+		},
+		"Caapiranga": {
+			"name": "Caapiranga"
+		},
+		"Canutama": {
+			"name": "Canutama"
+		},
+		"Carauari": {
+			"name": "Carauari"
+		},
+		"Careiro": {
+			"name": "Careiro"
+		},
+		"Careiro da Várzea": {
+			"name": "Careiro da Várzea"
+		},
+		"Coari": {
+			"name": "Coari"
+		},
+		"Codajás": {
+			"name": "Codajás"
+		},
+		"Eirunepé": {
+			"name": "Eirunepé"
+		},
+		"Envira": {
+			"name": "Envira"
+		},
+		"Fonte Boa": {
+			"name": "Fonte Boa"
+		},
+		"Guajará": {
+			"name": "Guajará"
+		},
+		"Humaitá": {
+			"name": "Humaitá"
+		},
+		"Ipixuna": {
+			"name": "Ipixuna"
+		},
+		"Iranduba": {
+			"name": "Iranduba"
+		},
+		"Itacoatiara": {
+			"name": "Itacoatiara"
+		},
+		"Itamarati": {
+			"name": "Itamarati"
+		},
+		"Itapiranga": {
+			"name": "Itapiranga"
+		},
+		"Japurá": {
+			"name": "Japurá"
+		},
+		"Jurua": {
+			"name": "Jurua"
+		},
+		"Jutaí": {
+			"name": "Jutaí"
+		},
+		"Lábrea": {
+			"name": "Lábrea"
+		},
+		"Manacapuru": {
+			"name": "Manacapuru"
+		},
+		"Manaquiri": {
+			"name": "Manaquiri"
+		},
+		"Manaus": {
+			"name": "Manaus"
+		},
+		"Manicoré": {
+			"name": "Manicoré"
+		},
+		"Maraã": {
+			"name": "Maraã"
+		},
+		"Maués": {
+			"name": "Maués"
+		},
+		"Nhamundá": {
+			"name": "Nhamundá"
+		},
+		"Nova Olinda do Norte": {
+			"name": "Nova Olinda do Norte"
+		},
+		"Novo Airão": {
+			"name": "Novo Airão"
+		},
+		"Novo Aripuanã": {
+			"name": "Novo Aripuanã"
+		},
+		"Parintins": {
+			"name": "Parintins"
+		},
+		"Pauini": {
+			"name": "Pauini"
+		},
+		"Presidente Figueiredo": {
+			"name": "Presidente Figueiredo"
+		},
+		"Rio Preto da Eva": {
+			"name": "Rio Preto da Eva"
+		},
+		"Santa Isabel do Rio Negro": {
+			"name": "Santa Isabel do Rio Negro"
+		},
+		"Santo Antônio do Içá": {
+			"name": "Santo Antônio do Içá"
+		},
+		"São Gabriel da Cachoeira": {
+			"name": "São Gabriel da Cachoeira"
+		},
+		"São Paulo de Olivença": {
+			"name": "São Paulo de Olivença"
+		},
+		"São Sebastião do Uatumã": {
+			"name": "São Sebastião do Uatumã"
+		},
+		"Silves": {
+			"name": "Silves"
+		},
+		"Tabatinga": {
+			"name": "Tabatinga"
+		},
+		"Tapauá": {
+			"name": "Tapauá"
+		},
+		"Tefé": {
+			"name": "Tefé"
+		},
+		"Tonantins": {
+			"name": "Tonantins"
+		},
+		"Uarini": {
+			"name": "Uarini"
+		},
+		"Urucará": {
+			"name": "Urucará"
+		},
+		"Urucurituba": {
+			"name": "Urucurituba"
+		}
 	}
 }

@@ -1,0 +1,99 @@
+{
+	"country_code": "CL",
+	"parents": [
+		"CL",
+		"LL"
+	],
+	"subdivisions": {
+		"Ancud": {
+			"name": "Ancud"
+		},
+		"Calbuco": {
+			"name": "Calbuco"
+		},
+		"Castro": {
+			"name": "Castro"
+		},
+		"Chaitén": {
+			"name": "Chaitén"
+		},
+		"Chonchi": {
+			"name": "Chonchi"
+		},
+		"Cochamó": {
+			"name": "Cochamó"
+		},
+		"Curaco de Vélez": {
+			"name": "Curaco de Vélez"
+		},
+		"Dalcahue": {
+			"name": "Dalcahue"
+		},
+		"Fresia": {
+			"name": "Fresia"
+		},
+		"Frutillar": {
+			"name": "Frutillar"
+		},
+		"Futaleufú": {
+			"name": "Futaleufú"
+		},
+		"Hualaihué": {
+			"name": "Hualaihué"
+		},
+		"Llanquihue": {
+			"name": "Llanquihue"
+		},
+		"Los Muermos": {
+			"name": "Los Muermos"
+		},
+		"Maullín": {
+			"name": "Maullín"
+		},
+		"Osorno": {
+			"name": "Osorno"
+		},
+		"Palena": {
+			"name": "Palena"
+		},
+		"Puerto Montt": {
+			"name": "Puerto Montt"
+		},
+		"Puerto Octay": {
+			"name": "Puerto Octay"
+		},
+		"Puerto Varas": {
+			"name": "Puerto Varas"
+		},
+		"Puqueldón": {
+			"name": "Puqueldón"
+		},
+		"Purranque": {
+			"name": "Purranque"
+		},
+		"Puyehue": {
+			"name": "Puyehue"
+		},
+		"Queilén": {
+			"name": "Queilén"
+		},
+		"Quellón": {
+			"name": "Quellón"
+		},
+		"Quemchi": {
+			"name": "Quemchi"
+		},
+		"Quinchao": {
+			"name": "Quinchao"
+		},
+		"Río Negro": {
+			"name": "Río Negro"
+		},
+		"San Juan de la Costa": {
+			"name": "San Juan de la Costa"
+		},
+		"San Pablo": {
+			"name": "San Pablo"
+		}
+	}
+}

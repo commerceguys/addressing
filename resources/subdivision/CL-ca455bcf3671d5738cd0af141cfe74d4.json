@@ -1,0 +1,123 @@
+{
+	"country_code": "CL",
+	"parents": [
+		"CL",
+		"VS"
+	],
+	"subdivisions": {
+		"Algarrobo": {
+			"name": "Algarrobo"
+		},
+		"Cabildo": {
+			"name": "Cabildo"
+		},
+		"Calle Larga": {
+			"name": "Calle Larga"
+		},
+		"Cartagena": {
+			"name": "Cartagena"
+		},
+		"Casablanca": {
+			"name": "Casablanca"
+		},
+		"Catemu": {
+			"name": "Catemu"
+		},
+		"Concón": {
+			"name": "Concón"
+		},
+		"El Quisco": {
+			"name": "El Quisco"
+		},
+		"El Tabo": {
+			"name": "El Tabo"
+		},
+		"Hijuelas": {
+			"name": "Hijuelas"
+		},
+		"Isla de Pascua": {
+			"name": "Isla de Pascua"
+		},
+		"Juan Fernández": {
+			"name": "Juan Fernández"
+		},
+		"La Calera": {
+			"name": "La Calera"
+		},
+		"La Cruz": {
+			"name": "La Cruz"
+		},
+		"La Ligua": {
+			"name": "La Ligua"
+		},
+		"Limache": {
+			"name": "Limache"
+		},
+		"Llaillay": {
+			"name": "Llaillay"
+		},
+		"Los Andes": {
+			"name": "Los Andes"
+		},
+		"Nogales": {
+			"name": "Nogales"
+		},
+		"Olmué": {
+			"name": "Olmué"
+		},
+		"Panquehue": {
+			"name": "Panquehue"
+		},
+		"Papudo": {
+			"name": "Papudo"
+		},
+		"Petorca": {
+			"name": "Petorca"
+		},
+		"Puchuncaví": {
+			"name": "Puchuncaví"
+		},
+		"Putaendo": {
+			"name": "Putaendo"
+		},
+		"Quillota": {
+			"name": "Quillota"
+		},
+		"Quilpué": {
+			"name": "Quilpué"
+		},
+		"Quintero": {
+			"name": "Quintero"
+		},
+		"Rinconada": {
+			"name": "Rinconada"
+		},
+		"San Antonio": {
+			"name": "San Antonio"
+		},
+		"San Esteban": {
+			"name": "San Esteban"
+		},
+		"San Felipe": {
+			"name": "San Felipe"
+		},
+		"Santa María": {
+			"name": "Santa María"
+		},
+		"Santo Domingo": {
+			"name": "Santo Domingo"
+		},
+		"Valparaíso": {
+			"name": "Valparaíso"
+		},
+		"Villa Alemana": {
+			"name": "Villa Alemana"
+		},
+		"Viña del Mar": {
+			"name": "Viña del Mar"
+		},
+		"Zapallar": {
+			"name": "Zapallar"
+		}
+	}
+}

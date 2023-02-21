@@ -5,502 +5,1496 @@
 		"RS"
 	],
 	"subdivisions": {
-		"Aceguá": [],
-		"Água Santa": [],
-		"Agudo": [],
-		"Ajuricaba": [],
-		"Alecrim": [],
-		"Alegrete": [],
-		"Alegría": [],
-		"Almirante Tamandaré do Sul": [],
-		"Alpestre": [],
-		"Alto Alegre": [],
-		"Alto Feliz": [],
-		"Alvorada": [],
-		"Amaral Ferrador": [],
-		"Ametista do Sul": [],
-		"André da Rocha": [],
-		"Anta Gorda": [],
-		"Antônio Prado": [],
-		"Arambaré": [],
-		"Araricá": [],
-		"Aratiba": [],
-		"Arroio do Meio": [],
-		"Arroio do Padre": [],
-		"Arroio do Sal": [],
-		"Arroio do Tigre": [],
-		"Arroio dos Ratos": [],
-		"Arroio Grande": [],
-		"Arvorezinha": [],
-		"Augusto Pestana": [],
-		"Aurea": [],
-		"Bagé": [],
-		"Balneário Pinhal": [],
-		"Barão": [],
-		"Barão de Cotegipe": [],
-		"Barão do Triunfo": [],
-		"Barra do Guarita": [],
-		"Barra do Quaraí": [],
-		"Barra do Ribeiro": [],
-		"Barra do Rio Azul": [],
-		"Barra Funda": [],
-		"Barracão": [],
-		"Barros Cassal": [],
-		"Benjamin Constant do Sul": [],
-		"Bento Gonçalves": [],
-		"Boa Vista das Missões": [],
-		"Boa Vista do Buricá": [],
-		"Boa Vista do Cadeado": [],
-		"Boa Vista do Incra": [],
-		"Boa Vista do Sul": [],
-		"Bom Jesus": [],
-		"Bom Princípio": [],
-		"Bom Progresso": [],
-		"Bom Retiro do Sul": [],
-		"Boqueirão do Leão": [],
-		"Bossoroca": [],
-		"Bozano": [],
-		"Braga": [],
-		"Brochier": [],
-		"Butia": [],
-		"Caçapava do Sul": [],
-		"Cacequi": [],
-		"Cachoeira do Sul": [],
-		"Cachoeirinha": [],
-		"Cacique Doble": [],
-		"Caibaté": [],
-		"Caiçara": [],
-		"Camaquã": [],
-		"Camargo": [],
-		"Cambará do Sul": [],
-		"Campestre da Serra": [],
-		"Campina das Missões": [],
-		"Campinas do Sul": [],
-		"Campo Bom": [],
-		"Campo Novo": [],
-		"Campos Borges": [],
-		"Candelária": [],
-		"Cândido Godói": [],
-		"Candiota": [],
-		"Canela": [],
-		"Canguçu": [],
-		"Canoas": [],
-		"Canudos do Vale": [],
-		"Capão Bonito do Sul": [],
-		"Capão da Canoa": [],
-		"Capão do Cipó": [],
-		"Capão do Leão": [],
-		"Capela de Santana": [],
-		"Capitao": [],
-		"Capivari do Sul": [],
-		"Caraá": [],
-		"Carazinho": [],
-		"Carlos Barbosa": [],
-		"Carlos Gomes": [],
-		"Casca": [],
-		"Caseiros": [],
-		"Catuípe": [],
-		"Caxias do Sul": [],
-		"Centenário": [],
-		"Cerrito": [],
-		"Cerro Branco": [],
-		"Cerro Grande": [],
-		"Cerro Grande do Sul": [],
-		"Cerro Largo": [],
-		"Chapada": [],
-		"Charqueadas": [],
-		"Charrua": [],
-		"Chiapeta": [],
-		"Chui": [],
-		"Chuvisca": [],
-		"Cidreira": [],
-		"Ciríaco": [],
-		"Colinas": [],
-		"Colorado": [],
-		"Condor": [],
-		"Constantina": [],
-		"Coqueiro Baixo": [],
-		"Coqueiros do Sul": [],
-		"Coronel Barros": [],
-		"Coronel Bicaco": [],
-		"Coronel Pilar": [],
-		"Cotiporã": [],
-		"Coxilha": [],
-		"Crissiumal": [],
-		"Cristal": [],
-		"Cristal do Sul": [],
-		"Cruz Alta": [],
-		"Cruzaltense": [],
-		"Cruzeiro do Sul": [],
-		"David Canabarro": [],
-		"Derrubadas": [],
-		"Dezesseis de Novembro": [],
-		"Dilermando de Aguiar": [],
-		"Dois Irmãos": [],
-		"Dois Irmãos das Missões": [],
-		"Dois Lajeados": [],
-		"Dom Feliciano": [],
-		"Dom Pedrito": [],
-		"Dom Pedro de Alcântara": [],
-		"Dona Francisca": [],
-		"Doutor Maurício Cardoso": [],
-		"Doutor Ricardo": [],
-		"Eldorado do Sul": [],
-		"Encantado": [],
-		"Encruzilhada do Sul": [],
-		"Engenho Velho": [],
-		"Entre Rios do Sul": [],
-		"Entre-Ijuís": [],
-		"Erebango": [],
-		"Erechim": [],
-		"Ernestina": [],
-		"Erval Grande": [],
-		"Erval Seco": [],
-		"Esmeralda": [],
-		"Esperança do Sul": [],
-		"Espumoso": [],
-		"Estação": [],
-		"Estância Velha": [],
-		"Esteio": [],
-		"Estrela": [],
-		"Estrela Velha": [],
-		"Eugênio de Castro": [],
-		"Fagundes Varela": [],
-		"Farroupilha": [],
-		"Faxinal do Soturno": [],
-		"Faxinalzinho": [],
-		"Fazenda Vilanova": [],
-		"Feliz": [],
-		"Flores da Cunha": [],
-		"Floriano Peixoto": [],
-		"Fontoura Xavier": [],
-		"Formigueiro": [],
-		"Forquetinha": [],
-		"Fortaleza dos Valos": [],
-		"Frederico Westphalen": [],
-		"Garibaldi": [],
-		"Garruchos": [],
-		"Gaurama": [],
-		"General Câmara": [],
-		"Gentil": [],
-		"Getúlio Vargas": [],
-		"Giruá": [],
-		"Glorinha": [],
-		"Gramado": [],
-		"Gramado dos Loureiros": [],
-		"Gramado Xavier": [],
-		"Gravataí": [],
-		"Guabiju": [],
-		"Guaíba": [],
-		"Guaporé": [],
-		"Guarani das Missões": [],
-		"Harmonia": [],
-		"Herval": [],
-		"Herveiras": [],
-		"Horizontina": [],
-		"Hulha Negra": [],
-		"Humaitá": [],
-		"Ibarama": [],
-		"Ibiaçá": [],
-		"Ibiraiaras": [],
-		"Ibirapuitã": [],
-		"Ibirubá": [],
-		"Igrejinha": [],
-		"Ijuí": [],
-		"Ilópolis": [],
-		"Imbé": [],
-		"Imigrante": [],
-		"Independencia": [],
-		"Inhacorá": [],
-		"Ipê": [],
-		"Ipiranga do Sul": [],
-		"Irai": [],
-		"Itaara": [],
-		"Itacurubi": [],
-		"Itapuca": [],
-		"Itaqui": [],
-		"Itatí": [],
-		"Itatiba do Sul": [],
-		"Ivorá": [],
-		"Ivoti": [],
-		"Jaboticaba": [],
-		"Jacuizinho": [],
-		"Jacutinga": [],
-		"Jaguarão": [],
-		"Jaguari": [],
-		"Jaquirana": [],
-		"Jari": [],
-		"Jóia": [],
-		"Júlio de Castilhos": [],
-		"Lagoa Bonita do Sul": [],
-		"Lagoa dos Três Cantos": [],
-		"Lagoa Vermelha": [],
-		"Lagoão": [],
-		"Lajeado": [],
-		"Lajeado do Bugre": [],
-		"Lavras do Sul": [],
-		"Liberato Salzano": [],
-		"Lindolfo Collor": [],
-		"Linha Nova": [],
-		"Maçambara": [],
-		"Machadinho": [],
-		"Mampituba": [],
-		"Manoel Viana": [],
-		"Maquiné": [],
-		"Maratá": [],
-		"Marau": [],
-		"Marcelino Ramos": [],
-		"Mariana Pimentel": [],
-		"Mariano Moro": [],
-		"Marques de Souza": [],
-		"Mata": [],
-		"Mato Castelhano": [],
-		"Mato Leitão": [],
-		"Mato Queimado": [],
-		"Maximiliano de Almeida": [],
-		"Minas do Leão": [],
-		"Miraguaí": [],
-		"Montauri": [],
-		"Monte Alegre dos Campos": [],
-		"Monte Belo do Sul": [],
-		"Montenegro": [],
-		"Mormaço": [],
-		"Morrinhos do Sul": [],
-		"Morro Redondo": [],
-		"Morro Reuter": [],
-		"Mostardas": [],
-		"Muçum": [],
-		"Muitos Capões": [],
-		"Muliterno": [],
-		"Não-Me-Toque": [],
-		"Nicolau Vergueiro": [],
-		"Nonoai": [],
-		"Nova Alvorada": [],
-		"Nova Araçá": [],
-		"Nova Bassano": [],
-		"Nova Boa Vista": [],
-		"Nova Bréscia": [],
-		"Nova Candelária": [],
-		"Nova Esperança do Sul": [],
-		"Nova Hartz": [],
-		"Nova Pádua": [],
-		"Nova Palma": [],
-		"Nova Petrópolis": [],
-		"Nova Prata": [],
-		"Nova Ramada": [],
-		"Nova Roma do Sul": [],
-		"Nova Santa Rita": [],
-		"Novo Barreiro": [],
-		"Novo Cabrais": [],
-		"Novo Hamburgo": [],
-		"Novo Machado": [],
-		"Novo Tiradentes": [],
-		"Novo Xingu": [],
-		"Osório": [],
-		"Paim Filho": [],
-		"Palmares do Sul": [],
-		"Palmeira das Missões": [],
-		"Palmitinho": [],
-		"Panambi": [],
-		"Pantano Grande": [],
-		"Paraí": [],
-		"Paraíso do Sul": [],
-		"Pareci Novo": [],
-		"Parobé": [],
-		"Passa Sete": [],
-		"Passo do Sobrado": [],
-		"Passo Fundo": [],
-		"Paulo Bento": [],
-		"Paverama": [],
-		"Pedras Altas": [],
-		"Pedro Osório": [],
-		"Pejuçara": [],
-		"Pelotas": [],
-		"Picada Café": [],
-		"Pinhal": [],
-		"Pinhal da Serra": [],
-		"Pinhal Grande": [],
-		"Pinheirinho do Vale": [],
-		"Pinheiro Machado": [],
-		"Pinto Bandeira": [],
-		"Pirapó": [],
-		"Piratini": [],
-		"Planalto": [],
-		"Poço das Antas": [],
-		"Pontão": [],
-		"Ponte Preta": [],
-		"Portão": [],
-		"Porto Alegre": [],
-		"Porto Lucena": [],
-		"Porto Mauá": [],
-		"Porto Vera Cruz": [],
-		"Porto Xavier": [],
-		"Pouso Novo": [],
-		"Presidente Lucena": [],
-		"Progresso": [],
-		"Protásio Alves": [],
-		"Putinga": [],
-		"Quaraí": [],
-		"Quatro Irmãos": [],
-		"Quevedos": [],
-		"Quinze de Novembro": [],
-		"Redentora": [],
-		"Relvado": [],
-		"Restinga Seca": [],
-		"Rio dos Índios": [],
-		"Rio Grande": [],
-		"Rio Pardo": [],
-		"Riozinho": [],
-		"Roca Sales": [],
-		"Rodeio Bonito": [],
-		"Rolador": [],
-		"Rolante": [],
-		"Ronda Alta": [],
-		"Rondinha": [],
-		"Roque Gonzales": [],
-		"Rosário do Sul": [],
-		"Sagrada Familia": [],
-		"Saldanha Marinho": [],
-		"Salto do Jacuí": [],
-		"Salvador das Missões": [],
-		"Salvador do Sul": [],
-		"Sananduva": [],
-		"Santa Bárbara do Sul": [],
-		"Santa Cecília do Sul": [],
-		"Santa Clara do Sul": [],
-		"Santa Cruz do Sul": [],
-		"Santa Margarida do Sul": [],
-		"Santa Maria": [],
-		"Santa Maria do Herval": [],
-		"Santa Rosa": [],
-		"Santa Tereza": [],
-		"Santa Vitória do Palmar": [],
-		"Santana da Boa Vista": [],
-		"Santana do Livramento": [],
-		"Santiago": [],
-		"Santo Ângelo": [],
-		"Santo Antônio da Patrulha": [],
-		"Santo Antônio das Missões": [],
-		"Santo Antônio do Palma": [],
-		"Santo Antônio do Planalto": [],
-		"Santo Augusto": [],
-		"Santo Cristo": [],
-		"Santo Expedito do Sul": [],
-		"São Borja": [],
-		"São Domingos do Sul": [],
-		"São Francisco de Assis": [],
-		"São Francisco de Paula": [],
-		"São Gabriel": [],
-		"São Jerônimo": [],
-		"São João da Urtiga": [],
-		"São João do Polêsine": [],
-		"São Jorge": [],
-		"São José das Missões": [],
-		"São José do Herval": [],
-		"São José do Hortêncio": [],
-		"São José do Inhacorá": [],
-		"São José do Norte": [],
-		"São José do Ouro": [],
-		"São José do Sul": [],
-		"São José dos Ausentes": [],
-		"São Leopoldo": [],
-		"São Lourenço do Sul": [],
-		"São Luiz Gonzaga": [],
-		"São Marcos": [],
-		"São Martinho": [],
-		"São Martinho da Serra": [],
-		"São Miguel das Missões": [],
-		"São Nicolau": [],
-		"São Paulo das Missões": [],
-		"São Pedro da Serra": [],
-		"São Pedro das Missões": [],
-		"São Pedro do Butiá": [],
-		"São Pedro do Sul": [],
-		"São Sebastião do Caí": [],
-		"São Sepé": [],
-		"São Valentim": [],
-		"São Valentim do Sul": [],
-		"São Valério do Sul": [],
-		"São Vendelino": [],
-		"São Vicente do Sul": [],
-		"Sapiranga": [],
-		"Sapucaia do Sul": [],
-		"Sarandí": [],
-		"Seberi": [],
-		"Sede Nova": [],
-		"Segredo": [],
-		"Selbach": [],
-		"Senador Salgado Filho": [],
-		"Sentinela do Sul": [],
-		"Serafina Corrêa": [],
-		"Sério": [],
-		"Sertão": [],
-		"Sertão Santana": [],
-		"Sete de Setembro": [],
-		"Severiano de Almeida": [],
-		"Silveira Martins": [],
-		"Sinimbu": [],
-		"Sobradinho": [],
-		"Soledade": [],
-		"Tabaí": [],
-		"Tapejara": [],
-		"Tapera": [],
-		"Tapes": [],
-		"Taquara": [],
-		"Taquari": [],
-		"Taquaruçu do Sul": [],
-		"Tavares": [],
-		"Tenente Portela": [],
-		"Terra de Areia": [],
-		"Teutônia": [],
-		"Tio Hugo": [],
-		"Tiradentes do Sul": [],
-		"Toropi": [],
-		"Torres": [],
-		"Tramandaí": [],
-		"Travesseiro": [],
-		"Três Arroios": [],
-		"Três Cachoeiras": [],
-		"Três Coroas": [],
-		"Três de Maio": [],
-		"Três Forquilhas": [],
-		"Três Palmeiras": [],
-		"Três Passos": [],
-		"Trindade do Sul": [],
-		"Triunfo": [],
-		"Tucunduva": [],
-		"Tunas": [],
-		"Tupanci do Sul": [],
-		"Tupanciretã": [],
-		"Tupandi": [],
-		"Tuparendi": [],
-		"Turuçu": [],
-		"Ubiretama": [],
-		"União da Serra": [],
-		"Unistalda": [],
-		"Uruguaiana": [],
-		"Vacaria": [],
-		"Vale do Sol": [],
-		"Vale Real": [],
-		"Vale Verde": [],
-		"Vanini": [],
-		"Venâncio Aires": [],
-		"Vera Cruz": [],
-		"Veranópolis": [],
-		"Vespasiano Correa": [],
-		"Viadutos": [],
-		"Viamão": [],
-		"Vicente Dutra": [],
-		"Victor Graeff": [],
-		"Vila Flores": [],
-		"Vila Lângaro": [],
-		"Vila Maria": [],
-		"Vila Nova do Sul": [],
-		"Vista Alegre": [],
-		"Vista Alegre do Prata": [],
-		"Vista Gaúcha": [],
-		"Vitória das Missões": [],
-		"Westfalia": [],
-		"Xangri-lá": []
+		"Aceguá": {
+			"name": "Aceguá"
+		},
+		"Água Santa": {
+			"name": "Água Santa"
+		},
+		"Agudo": {
+			"name": "Agudo"
+		},
+		"Ajuricaba": {
+			"name": "Ajuricaba"
+		},
+		"Alecrim": {
+			"name": "Alecrim"
+		},
+		"Alegrete": {
+			"name": "Alegrete"
+		},
+		"Alegría": {
+			"name": "Alegría"
+		},
+		"Almirante Tamandaré do Sul": {
+			"name": "Almirante Tamandaré do Sul"
+		},
+		"Alpestre": {
+			"name": "Alpestre"
+		},
+		"Alto Alegre": {
+			"name": "Alto Alegre"
+		},
+		"Alto Feliz": {
+			"name": "Alto Feliz"
+		},
+		"Alvorada": {
+			"name": "Alvorada"
+		},
+		"Amaral Ferrador": {
+			"name": "Amaral Ferrador"
+		},
+		"Ametista do Sul": {
+			"name": "Ametista do Sul"
+		},
+		"André da Rocha": {
+			"name": "André da Rocha"
+		},
+		"Anta Gorda": {
+			"name": "Anta Gorda"
+		},
+		"Antônio Prado": {
+			"name": "Antônio Prado"
+		},
+		"Arambaré": {
+			"name": "Arambaré"
+		},
+		"Araricá": {
+			"name": "Araricá"
+		},
+		"Aratiba": {
+			"name": "Aratiba"
+		},
+		"Arroio do Meio": {
+			"name": "Arroio do Meio"
+		},
+		"Arroio do Padre": {
+			"name": "Arroio do Padre"
+		},
+		"Arroio do Sal": {
+			"name": "Arroio do Sal"
+		},
+		"Arroio do Tigre": {
+			"name": "Arroio do Tigre"
+		},
+		"Arroio dos Ratos": {
+			"name": "Arroio dos Ratos"
+		},
+		"Arroio Grande": {
+			"name": "Arroio Grande"
+		},
+		"Arvorezinha": {
+			"name": "Arvorezinha"
+		},
+		"Augusto Pestana": {
+			"name": "Augusto Pestana"
+		},
+		"Aurea": {
+			"name": "Aurea"
+		},
+		"Bagé": {
+			"name": "Bagé"
+		},
+		"Balneário Pinhal": {
+			"name": "Balneário Pinhal"
+		},
+		"Barão": {
+			"name": "Barão"
+		},
+		"Barão de Cotegipe": {
+			"name": "Barão de Cotegipe"
+		},
+		"Barão do Triunfo": {
+			"name": "Barão do Triunfo"
+		},
+		"Barra do Guarita": {
+			"name": "Barra do Guarita"
+		},
+		"Barra do Quaraí": {
+			"name": "Barra do Quaraí"
+		},
+		"Barra do Ribeiro": {
+			"name": "Barra do Ribeiro"
+		},
+		"Barra do Rio Azul": {
+			"name": "Barra do Rio Azul"
+		},
+		"Barra Funda": {
+			"name": "Barra Funda"
+		},
+		"Barracão": {
+			"name": "Barracão"
+		},
+		"Barros Cassal": {
+			"name": "Barros Cassal"
+		},
+		"Benjamin Constant do Sul": {
+			"name": "Benjamin Constant do Sul"
+		},
+		"Bento Gonçalves": {
+			"name": "Bento Gonçalves"
+		},
+		"Boa Vista das Missões": {
+			"name": "Boa Vista das Missões"
+		},
+		"Boa Vista do Buricá": {
+			"name": "Boa Vista do Buricá"
+		},
+		"Boa Vista do Cadeado": {
+			"name": "Boa Vista do Cadeado"
+		},
+		"Boa Vista do Incra": {
+			"name": "Boa Vista do Incra"
+		},
+		"Boa Vista do Sul": {
+			"name": "Boa Vista do Sul"
+		},
+		"Bom Jesus": {
+			"name": "Bom Jesus"
+		},
+		"Bom Princípio": {
+			"name": "Bom Princípio"
+		},
+		"Bom Progresso": {
+			"name": "Bom Progresso"
+		},
+		"Bom Retiro do Sul": {
+			"name": "Bom Retiro do Sul"
+		},
+		"Boqueirão do Leão": {
+			"name": "Boqueirão do Leão"
+		},
+		"Bossoroca": {
+			"name": "Bossoroca"
+		},
+		"Bozano": {
+			"name": "Bozano"
+		},
+		"Braga": {
+			"name": "Braga"
+		},
+		"Brochier": {
+			"name": "Brochier"
+		},
+		"Butia": {
+			"name": "Butia"
+		},
+		"Caçapava do Sul": {
+			"name": "Caçapava do Sul"
+		},
+		"Cacequi": {
+			"name": "Cacequi"
+		},
+		"Cachoeira do Sul": {
+			"name": "Cachoeira do Sul"
+		},
+		"Cachoeirinha": {
+			"name": "Cachoeirinha"
+		},
+		"Cacique Doble": {
+			"name": "Cacique Doble"
+		},
+		"Caibaté": {
+			"name": "Caibaté"
+		},
+		"Caiçara": {
+			"name": "Caiçara"
+		},
+		"Camaquã": {
+			"name": "Camaquã"
+		},
+		"Camargo": {
+			"name": "Camargo"
+		},
+		"Cambará do Sul": {
+			"name": "Cambará do Sul"
+		},
+		"Campestre da Serra": {
+			"name": "Campestre da Serra"
+		},
+		"Campina das Missões": {
+			"name": "Campina das Missões"
+		},
+		"Campinas do Sul": {
+			"name": "Campinas do Sul"
+		},
+		"Campo Bom": {
+			"name": "Campo Bom"
+		},
+		"Campo Novo": {
+			"name": "Campo Novo"
+		},
+		"Campos Borges": {
+			"name": "Campos Borges"
+		},
+		"Candelária": {
+			"name": "Candelária"
+		},
+		"Cândido Godói": {
+			"name": "Cândido Godói"
+		},
+		"Candiota": {
+			"name": "Candiota"
+		},
+		"Canela": {
+			"name": "Canela"
+		},
+		"Canguçu": {
+			"name": "Canguçu"
+		},
+		"Canoas": {
+			"name": "Canoas"
+		},
+		"Canudos do Vale": {
+			"name": "Canudos do Vale"
+		},
+		"Capão Bonito do Sul": {
+			"name": "Capão Bonito do Sul"
+		},
+		"Capão da Canoa": {
+			"name": "Capão da Canoa"
+		},
+		"Capão do Cipó": {
+			"name": "Capão do Cipó"
+		},
+		"Capão do Leão": {
+			"name": "Capão do Leão"
+		},
+		"Capela de Santana": {
+			"name": "Capela de Santana"
+		},
+		"Capitao": {
+			"name": "Capitao"
+		},
+		"Capivari do Sul": {
+			"name": "Capivari do Sul"
+		},
+		"Caraá": {
+			"name": "Caraá"
+		},
+		"Carazinho": {
+			"name": "Carazinho"
+		},
+		"Carlos Barbosa": {
+			"name": "Carlos Barbosa"
+		},
+		"Carlos Gomes": {
+			"name": "Carlos Gomes"
+		},
+		"Casca": {
+			"name": "Casca"
+		},
+		"Caseiros": {
+			"name": "Caseiros"
+		},
+		"Catuípe": {
+			"name": "Catuípe"
+		},
+		"Caxias do Sul": {
+			"name": "Caxias do Sul"
+		},
+		"Centenário": {
+			"name": "Centenário"
+		},
+		"Cerrito": {
+			"name": "Cerrito"
+		},
+		"Cerro Branco": {
+			"name": "Cerro Branco"
+		},
+		"Cerro Grande": {
+			"name": "Cerro Grande"
+		},
+		"Cerro Grande do Sul": {
+			"name": "Cerro Grande do Sul"
+		},
+		"Cerro Largo": {
+			"name": "Cerro Largo"
+		},
+		"Chapada": {
+			"name": "Chapada"
+		},
+		"Charqueadas": {
+			"name": "Charqueadas"
+		},
+		"Charrua": {
+			"name": "Charrua"
+		},
+		"Chiapeta": {
+			"name": "Chiapeta"
+		},
+		"Chui": {
+			"name": "Chui"
+		},
+		"Chuvisca": {
+			"name": "Chuvisca"
+		},
+		"Cidreira": {
+			"name": "Cidreira"
+		},
+		"Ciríaco": {
+			"name": "Ciríaco"
+		},
+		"Colinas": {
+			"name": "Colinas"
+		},
+		"Colorado": {
+			"name": "Colorado"
+		},
+		"Condor": {
+			"name": "Condor"
+		},
+		"Constantina": {
+			"name": "Constantina"
+		},
+		"Coqueiro Baixo": {
+			"name": "Coqueiro Baixo"
+		},
+		"Coqueiros do Sul": {
+			"name": "Coqueiros do Sul"
+		},
+		"Coronel Barros": {
+			"name": "Coronel Barros"
+		},
+		"Coronel Bicaco": {
+			"name": "Coronel Bicaco"
+		},
+		"Coronel Pilar": {
+			"name": "Coronel Pilar"
+		},
+		"Cotiporã": {
+			"name": "Cotiporã"
+		},
+		"Coxilha": {
+			"name": "Coxilha"
+		},
+		"Crissiumal": {
+			"name": "Crissiumal"
+		},
+		"Cristal": {
+			"name": "Cristal"
+		},
+		"Cristal do Sul": {
+			"name": "Cristal do Sul"
+		},
+		"Cruz Alta": {
+			"name": "Cruz Alta"
+		},
+		"Cruzaltense": {
+			"name": "Cruzaltense"
+		},
+		"Cruzeiro do Sul": {
+			"name": "Cruzeiro do Sul"
+		},
+		"David Canabarro": {
+			"name": "David Canabarro"
+		},
+		"Derrubadas": {
+			"name": "Derrubadas"
+		},
+		"Dezesseis de Novembro": {
+			"name": "Dezesseis de Novembro"
+		},
+		"Dilermando de Aguiar": {
+			"name": "Dilermando de Aguiar"
+		},
+		"Dois Irmãos": {
+			"name": "Dois Irmãos"
+		},
+		"Dois Irmãos das Missões": {
+			"name": "Dois Irmãos das Missões"
+		},
+		"Dois Lajeados": {
+			"name": "Dois Lajeados"
+		},
+		"Dom Feliciano": {
+			"name": "Dom Feliciano"
+		},
+		"Dom Pedrito": {
+			"name": "Dom Pedrito"
+		},
+		"Dom Pedro de Alcântara": {
+			"name": "Dom Pedro de Alcântara"
+		},
+		"Dona Francisca": {
+			"name": "Dona Francisca"
+		},
+		"Doutor Maurício Cardoso": {
+			"name": "Doutor Maurício Cardoso"
+		},
+		"Doutor Ricardo": {
+			"name": "Doutor Ricardo"
+		},
+		"Eldorado do Sul": {
+			"name": "Eldorado do Sul"
+		},
+		"Encantado": {
+			"name": "Encantado"
+		},
+		"Encruzilhada do Sul": {
+			"name": "Encruzilhada do Sul"
+		},
+		"Engenho Velho": {
+			"name": "Engenho Velho"
+		},
+		"Entre Rios do Sul": {
+			"name": "Entre Rios do Sul"
+		},
+		"Entre-Ijuís": {
+			"name": "Entre-Ijuís"
+		},
+		"Erebango": {
+			"name": "Erebango"
+		},
+		"Erechim": {
+			"name": "Erechim"
+		},
+		"Ernestina": {
+			"name": "Ernestina"
+		},
+		"Erval Grande": {
+			"name": "Erval Grande"
+		},
+		"Erval Seco": {
+			"name": "Erval Seco"
+		},
+		"Esmeralda": {
+			"name": "Esmeralda"
+		},
+		"Esperança do Sul": {
+			"name": "Esperança do Sul"
+		},
+		"Espumoso": {
+			"name": "Espumoso"
+		},
+		"Estação": {
+			"name": "Estação"
+		},
+		"Estância Velha": {
+			"name": "Estância Velha"
+		},
+		"Esteio": {
+			"name": "Esteio"
+		},
+		"Estrela": {
+			"name": "Estrela"
+		},
+		"Estrela Velha": {
+			"name": "Estrela Velha"
+		},
+		"Eugênio de Castro": {
+			"name": "Eugênio de Castro"
+		},
+		"Fagundes Varela": {
+			"name": "Fagundes Varela"
+		},
+		"Farroupilha": {
+			"name": "Farroupilha"
+		},
+		"Faxinal do Soturno": {
+			"name": "Faxinal do Soturno"
+		},
+		"Faxinalzinho": {
+			"name": "Faxinalzinho"
+		},
+		"Fazenda Vilanova": {
+			"name": "Fazenda Vilanova"
+		},
+		"Feliz": {
+			"name": "Feliz"
+		},
+		"Flores da Cunha": {
+			"name": "Flores da Cunha"
+		},
+		"Floriano Peixoto": {
+			"name": "Floriano Peixoto"
+		},
+		"Fontoura Xavier": {
+			"name": "Fontoura Xavier"
+		},
+		"Formigueiro": {
+			"name": "Formigueiro"
+		},
+		"Forquetinha": {
+			"name": "Forquetinha"
+		},
+		"Fortaleza dos Valos": {
+			"name": "Fortaleza dos Valos"
+		},
+		"Frederico Westphalen": {
+			"name": "Frederico Westphalen"
+		},
+		"Garibaldi": {
+			"name": "Garibaldi"
+		},
+		"Garruchos": {
+			"name": "Garruchos"
+		},
+		"Gaurama": {
+			"name": "Gaurama"
+		},
+		"General Câmara": {
+			"name": "General Câmara"
+		},
+		"Gentil": {
+			"name": "Gentil"
+		},
+		"Getúlio Vargas": {
+			"name": "Getúlio Vargas"
+		},
+		"Giruá": {
+			"name": "Giruá"
+		},
+		"Glorinha": {
+			"name": "Glorinha"
+		},
+		"Gramado": {
+			"name": "Gramado"
+		},
+		"Gramado dos Loureiros": {
+			"name": "Gramado dos Loureiros"
+		},
+		"Gramado Xavier": {
+			"name": "Gramado Xavier"
+		},
+		"Gravataí": {
+			"name": "Gravataí"
+		},
+		"Guabiju": {
+			"name": "Guabiju"
+		},
+		"Guaíba": {
+			"name": "Guaíba"
+		},
+		"Guaporé": {
+			"name": "Guaporé"
+		},
+		"Guarani das Missões": {
+			"name": "Guarani das Missões"
+		},
+		"Harmonia": {
+			"name": "Harmonia"
+		},
+		"Herval": {
+			"name": "Herval"
+		},
+		"Herveiras": {
+			"name": "Herveiras"
+		},
+		"Horizontina": {
+			"name": "Horizontina"
+		},
+		"Hulha Negra": {
+			"name": "Hulha Negra"
+		},
+		"Humaitá": {
+			"name": "Humaitá"
+		},
+		"Ibarama": {
+			"name": "Ibarama"
+		},
+		"Ibiaçá": {
+			"name": "Ibiaçá"
+		},
+		"Ibiraiaras": {
+			"name": "Ibiraiaras"
+		},
+		"Ibirapuitã": {
+			"name": "Ibirapuitã"
+		},
+		"Ibirubá": {
+			"name": "Ibirubá"
+		},
+		"Igrejinha": {
+			"name": "Igrejinha"
+		},
+		"Ijuí": {
+			"name": "Ijuí"
+		},
+		"Ilópolis": {
+			"name": "Ilópolis"
+		},
+		"Imbé": {
+			"name": "Imbé"
+		},
+		"Imigrante": {
+			"name": "Imigrante"
+		},
+		"Independencia": {
+			"name": "Independencia"
+		},
+		"Inhacorá": {
+			"name": "Inhacorá"
+		},
+		"Ipê": {
+			"name": "Ipê"
+		},
+		"Ipiranga do Sul": {
+			"name": "Ipiranga do Sul"
+		},
+		"Irai": {
+			"name": "Irai"
+		},
+		"Itaara": {
+			"name": "Itaara"
+		},
+		"Itacurubi": {
+			"name": "Itacurubi"
+		},
+		"Itapuca": {
+			"name": "Itapuca"
+		},
+		"Itaqui": {
+			"name": "Itaqui"
+		},
+		"Itatí": {
+			"name": "Itatí"
+		},
+		"Itatiba do Sul": {
+			"name": "Itatiba do Sul"
+		},
+		"Ivorá": {
+			"name": "Ivorá"
+		},
+		"Ivoti": {
+			"name": "Ivoti"
+		},
+		"Jaboticaba": {
+			"name": "Jaboticaba"
+		},
+		"Jacuizinho": {
+			"name": "Jacuizinho"
+		},
+		"Jacutinga": {
+			"name": "Jacutinga"
+		},
+		"Jaguarão": {
+			"name": "Jaguarão"
+		},
+		"Jaguari": {
+			"name": "Jaguari"
+		},
+		"Jaquirana": {
+			"name": "Jaquirana"
+		},
+		"Jari": {
+			"name": "Jari"
+		},
+		"Jóia": {
+			"name": "Jóia"
+		},
+		"Júlio de Castilhos": {
+			"name": "Júlio de Castilhos"
+		},
+		"Lagoa Bonita do Sul": {
+			"name": "Lagoa Bonita do Sul"
+		},
+		"Lagoa dos Três Cantos": {
+			"name": "Lagoa dos Três Cantos"
+		},
+		"Lagoa Vermelha": {
+			"name": "Lagoa Vermelha"
+		},
+		"Lagoão": {
+			"name": "Lagoão"
+		},
+		"Lajeado": {
+			"name": "Lajeado"
+		},
+		"Lajeado do Bugre": {
+			"name": "Lajeado do Bugre"
+		},
+		"Lavras do Sul": {
+			"name": "Lavras do Sul"
+		},
+		"Liberato Salzano": {
+			"name": "Liberato Salzano"
+		},
+		"Lindolfo Collor": {
+			"name": "Lindolfo Collor"
+		},
+		"Linha Nova": {
+			"name": "Linha Nova"
+		},
+		"Maçambara": {
+			"name": "Maçambara"
+		},
+		"Machadinho": {
+			"name": "Machadinho"
+		},
+		"Mampituba": {
+			"name": "Mampituba"
+		},
+		"Manoel Viana": {
+			"name": "Manoel Viana"
+		},
+		"Maquiné": {
+			"name": "Maquiné"
+		},
+		"Maratá": {
+			"name": "Maratá"
+		},
+		"Marau": {
+			"name": "Marau"
+		},
+		"Marcelino Ramos": {
+			"name": "Marcelino Ramos"
+		},
+		"Mariana Pimentel": {
+			"name": "Mariana Pimentel"
+		},
+		"Mariano Moro": {
+			"name": "Mariano Moro"
+		},
+		"Marques de Souza": {
+			"name": "Marques de Souza"
+		},
+		"Mata": {
+			"name": "Mata"
+		},
+		"Mato Castelhano": {
+			"name": "Mato Castelhano"
+		},
+		"Mato Leitão": {
+			"name": "Mato Leitão"
+		},
+		"Mato Queimado": {
+			"name": "Mato Queimado"
+		},
+		"Maximiliano de Almeida": {
+			"name": "Maximiliano de Almeida"
+		},
+		"Minas do Leão": {
+			"name": "Minas do Leão"
+		},
+		"Miraguaí": {
+			"name": "Miraguaí"
+		},
+		"Montauri": {
+			"name": "Montauri"
+		},
+		"Monte Alegre dos Campos": {
+			"name": "Monte Alegre dos Campos"
+		},
+		"Monte Belo do Sul": {
+			"name": "Monte Belo do Sul"
+		},
+		"Montenegro": {
+			"name": "Montenegro"
+		},
+		"Mormaço": {
+			"name": "Mormaço"
+		},
+		"Morrinhos do Sul": {
+			"name": "Morrinhos do Sul"
+		},
+		"Morro Redondo": {
+			"name": "Morro Redondo"
+		},
+		"Morro Reuter": {
+			"name": "Morro Reuter"
+		},
+		"Mostardas": {
+			"name": "Mostardas"
+		},
+		"Muçum": {
+			"name": "Muçum"
+		},
+		"Muitos Capões": {
+			"name": "Muitos Capões"
+		},
+		"Muliterno": {
+			"name": "Muliterno"
+		},
+		"Não-Me-Toque": {
+			"name": "Não-Me-Toque"
+		},
+		"Nicolau Vergueiro": {
+			"name": "Nicolau Vergueiro"
+		},
+		"Nonoai": {
+			"name": "Nonoai"
+		},
+		"Nova Alvorada": {
+			"name": "Nova Alvorada"
+		},
+		"Nova Araçá": {
+			"name": "Nova Araçá"
+		},
+		"Nova Bassano": {
+			"name": "Nova Bassano"
+		},
+		"Nova Boa Vista": {
+			"name": "Nova Boa Vista"
+		},
+		"Nova Bréscia": {
+			"name": "Nova Bréscia"
+		},
+		"Nova Candelária": {
+			"name": "Nova Candelária"
+		},
+		"Nova Esperança do Sul": {
+			"name": "Nova Esperança do Sul"
+		},
+		"Nova Hartz": {
+			"name": "Nova Hartz"
+		},
+		"Nova Pádua": {
+			"name": "Nova Pádua"
+		},
+		"Nova Palma": {
+			"name": "Nova Palma"
+		},
+		"Nova Petrópolis": {
+			"name": "Nova Petrópolis"
+		},
+		"Nova Prata": {
+			"name": "Nova Prata"
+		},
+		"Nova Ramada": {
+			"name": "Nova Ramada"
+		},
+		"Nova Roma do Sul": {
+			"name": "Nova Roma do Sul"
+		},
+		"Nova Santa Rita": {
+			"name": "Nova Santa Rita"
+		},
+		"Novo Barreiro": {
+			"name": "Novo Barreiro"
+		},
+		"Novo Cabrais": {
+			"name": "Novo Cabrais"
+		},
+		"Novo Hamburgo": {
+			"name": "Novo Hamburgo"
+		},
+		"Novo Machado": {
+			"name": "Novo Machado"
+		},
+		"Novo Tiradentes": {
+			"name": "Novo Tiradentes"
+		},
+		"Novo Xingu": {
+			"name": "Novo Xingu"
+		},
+		"Osório": {
+			"name": "Osório"
+		},
+		"Paim Filho": {
+			"name": "Paim Filho"
+		},
+		"Palmares do Sul": {
+			"name": "Palmares do Sul"
+		},
+		"Palmeira das Missões": {
+			"name": "Palmeira das Missões"
+		},
+		"Palmitinho": {
+			"name": "Palmitinho"
+		},
+		"Panambi": {
+			"name": "Panambi"
+		},
+		"Pantano Grande": {
+			"name": "Pantano Grande"
+		},
+		"Paraí": {
+			"name": "Paraí"
+		},
+		"Paraíso do Sul": {
+			"name": "Paraíso do Sul"
+		},
+		"Pareci Novo": {
+			"name": "Pareci Novo"
+		},
+		"Parobé": {
+			"name": "Parobé"
+		},
+		"Passa Sete": {
+			"name": "Passa Sete"
+		},
+		"Passo do Sobrado": {
+			"name": "Passo do Sobrado"
+		},
+		"Passo Fundo": {
+			"name": "Passo Fundo"
+		},
+		"Paulo Bento": {
+			"name": "Paulo Bento"
+		},
+		"Paverama": {
+			"name": "Paverama"
+		},
+		"Pedras Altas": {
+			"name": "Pedras Altas"
+		},
+		"Pedro Osório": {
+			"name": "Pedro Osório"
+		},
+		"Pejuçara": {
+			"name": "Pejuçara"
+		},
+		"Pelotas": {
+			"name": "Pelotas"
+		},
+		"Picada Café": {
+			"name": "Picada Café"
+		},
+		"Pinhal": {
+			"name": "Pinhal"
+		},
+		"Pinhal da Serra": {
+			"name": "Pinhal da Serra"
+		},
+		"Pinhal Grande": {
+			"name": "Pinhal Grande"
+		},
+		"Pinheirinho do Vale": {
+			"name": "Pinheirinho do Vale"
+		},
+		"Pinheiro Machado": {
+			"name": "Pinheiro Machado"
+		},
+		"Pinto Bandeira": {
+			"name": "Pinto Bandeira"
+		},
+		"Pirapó": {
+			"name": "Pirapó"
+		},
+		"Piratini": {
+			"name": "Piratini"
+		},
+		"Planalto": {
+			"name": "Planalto"
+		},
+		"Poço das Antas": {
+			"name": "Poço das Antas"
+		},
+		"Pontão": {
+			"name": "Pontão"
+		},
+		"Ponte Preta": {
+			"name": "Ponte Preta"
+		},
+		"Portão": {
+			"name": "Portão"
+		},
+		"Porto Alegre": {
+			"name": "Porto Alegre"
+		},
+		"Porto Lucena": {
+			"name": "Porto Lucena"
+		},
+		"Porto Mauá": {
+			"name": "Porto Mauá"
+		},
+		"Porto Vera Cruz": {
+			"name": "Porto Vera Cruz"
+		},
+		"Porto Xavier": {
+			"name": "Porto Xavier"
+		},
+		"Pouso Novo": {
+			"name": "Pouso Novo"
+		},
+		"Presidente Lucena": {
+			"name": "Presidente Lucena"
+		},
+		"Progresso": {
+			"name": "Progresso"
+		},
+		"Protásio Alves": {
+			"name": "Protásio Alves"
+		},
+		"Putinga": {
+			"name": "Putinga"
+		},
+		"Quaraí": {
+			"name": "Quaraí"
+		},
+		"Quatro Irmãos": {
+			"name": "Quatro Irmãos"
+		},
+		"Quevedos": {
+			"name": "Quevedos"
+		},
+		"Quinze de Novembro": {
+			"name": "Quinze de Novembro"
+		},
+		"Redentora": {
+			"name": "Redentora"
+		},
+		"Relvado": {
+			"name": "Relvado"
+		},
+		"Restinga Seca": {
+			"name": "Restinga Seca"
+		},
+		"Rio dos Índios": {
+			"name": "Rio dos Índios"
+		},
+		"Rio Grande": {
+			"name": "Rio Grande"
+		},
+		"Rio Pardo": {
+			"name": "Rio Pardo"
+		},
+		"Riozinho": {
+			"name": "Riozinho"
+		},
+		"Roca Sales": {
+			"name": "Roca Sales"
+		},
+		"Rodeio Bonito": {
+			"name": "Rodeio Bonito"
+		},
+		"Rolador": {
+			"name": "Rolador"
+		},
+		"Rolante": {
+			"name": "Rolante"
+		},
+		"Ronda Alta": {
+			"name": "Ronda Alta"
+		},
+		"Rondinha": {
+			"name": "Rondinha"
+		},
+		"Roque Gonzales": {
+			"name": "Roque Gonzales"
+		},
+		"Rosário do Sul": {
+			"name": "Rosário do Sul"
+		},
+		"Sagrada Familia": {
+			"name": "Sagrada Familia"
+		},
+		"Saldanha Marinho": {
+			"name": "Saldanha Marinho"
+		},
+		"Salto do Jacuí": {
+			"name": "Salto do Jacuí"
+		},
+		"Salvador das Missões": {
+			"name": "Salvador das Missões"
+		},
+		"Salvador do Sul": {
+			"name": "Salvador do Sul"
+		},
+		"Sananduva": {
+			"name": "Sananduva"
+		},
+		"Santa Bárbara do Sul": {
+			"name": "Santa Bárbara do Sul"
+		},
+		"Santa Cecília do Sul": {
+			"name": "Santa Cecília do Sul"
+		},
+		"Santa Clara do Sul": {
+			"name": "Santa Clara do Sul"
+		},
+		"Santa Cruz do Sul": {
+			"name": "Santa Cruz do Sul"
+		},
+		"Santa Margarida do Sul": {
+			"name": "Santa Margarida do Sul"
+		},
+		"Santa Maria": {
+			"name": "Santa Maria"
+		},
+		"Santa Maria do Herval": {
+			"name": "Santa Maria do Herval"
+		},
+		"Santa Rosa": {
+			"name": "Santa Rosa"
+		},
+		"Santa Tereza": {
+			"name": "Santa Tereza"
+		},
+		"Santa Vitória do Palmar": {
+			"name": "Santa Vitória do Palmar"
+		},
+		"Santana da Boa Vista": {
+			"name": "Santana da Boa Vista"
+		},
+		"Santana do Livramento": {
+			"name": "Santana do Livramento"
+		},
+		"Santiago": {
+			"name": "Santiago"
+		},
+		"Santo Ângelo": {
+			"name": "Santo Ângelo"
+		},
+		"Santo Antônio da Patrulha": {
+			"name": "Santo Antônio da Patrulha"
+		},
+		"Santo Antônio das Missões": {
+			"name": "Santo Antônio das Missões"
+		},
+		"Santo Antônio do Palma": {
+			"name": "Santo Antônio do Palma"
+		},
+		"Santo Antônio do Planalto": {
+			"name": "Santo Antônio do Planalto"
+		},
+		"Santo Augusto": {
+			"name": "Santo Augusto"
+		},
+		"Santo Cristo": {
+			"name": "Santo Cristo"
+		},
+		"Santo Expedito do Sul": {
+			"name": "Santo Expedito do Sul"
+		},
+		"São Borja": {
+			"name": "São Borja"
+		},
+		"São Domingos do Sul": {
+			"name": "São Domingos do Sul"
+		},
+		"São Francisco de Assis": {
+			"name": "São Francisco de Assis"
+		},
+		"São Francisco de Paula": {
+			"name": "São Francisco de Paula"
+		},
+		"São Gabriel": {
+			"name": "São Gabriel"
+		},
+		"São Jerônimo": {
+			"name": "São Jerônimo"
+		},
+		"São João da Urtiga": {
+			"name": "São João da Urtiga"
+		},
+		"São João do Polêsine": {
+			"name": "São João do Polêsine"
+		},
+		"São Jorge": {
+			"name": "São Jorge"
+		},
+		"São José das Missões": {
+			"name": "São José das Missões"
+		},
+		"São José do Herval": {
+			"name": "São José do Herval"
+		},
+		"São José do Hortêncio": {
+			"name": "São José do Hortêncio"
+		},
+		"São José do Inhacorá": {
+			"name": "São José do Inhacorá"
+		},
+		"São José do Norte": {
+			"name": "São José do Norte"
+		},
+		"São José do Ouro": {
+			"name": "São José do Ouro"
+		},
+		"São José do Sul": {
+			"name": "São José do Sul"
+		},
+		"São José dos Ausentes": {
+			"name": "São José dos Ausentes"
+		},
+		"São Leopoldo": {
+			"name": "São Leopoldo"
+		},
+		"São Lourenço do Sul": {
+			"name": "São Lourenço do Sul"
+		},
+		"São Luiz Gonzaga": {
+			"name": "São Luiz Gonzaga"
+		},
+		"São Marcos": {
+			"name": "São Marcos"
+		},
+		"São Martinho": {
+			"name": "São Martinho"
+		},
+		"São Martinho da Serra": {
+			"name": "São Martinho da Serra"
+		},
+		"São Miguel das Missões": {
+			"name": "São Miguel das Missões"
+		},
+		"São Nicolau": {
+			"name": "São Nicolau"
+		},
+		"São Paulo das Missões": {
+			"name": "São Paulo das Missões"
+		},
+		"São Pedro da Serra": {
+			"name": "São Pedro da Serra"
+		},
+		"São Pedro das Missões": {
+			"name": "São Pedro das Missões"
+		},
+		"São Pedro do Butiá": {
+			"name": "São Pedro do Butiá"
+		},
+		"São Pedro do Sul": {
+			"name": "São Pedro do Sul"
+		},
+		"São Sebastião do Caí": {
+			"name": "São Sebastião do Caí"
+		},
+		"São Sepé": {
+			"name": "São Sepé"
+		},
+		"São Valentim": {
+			"name": "São Valentim"
+		},
+		"São Valentim do Sul": {
+			"name": "São Valentim do Sul"
+		},
+		"São Valério do Sul": {
+			"name": "São Valério do Sul"
+		},
+		"São Vendelino": {
+			"name": "São Vendelino"
+		},
+		"São Vicente do Sul": {
+			"name": "São Vicente do Sul"
+		},
+		"Sapiranga": {
+			"name": "Sapiranga"
+		},
+		"Sapucaia do Sul": {
+			"name": "Sapucaia do Sul"
+		},
+		"Sarandí": {
+			"name": "Sarandí"
+		},
+		"Seberi": {
+			"name": "Seberi"
+		},
+		"Sede Nova": {
+			"name": "Sede Nova"
+		},
+		"Segredo": {
+			"name": "Segredo"
+		},
+		"Selbach": {
+			"name": "Selbach"
+		},
+		"Senador Salgado Filho": {
+			"name": "Senador Salgado Filho"
+		},
+		"Sentinela do Sul": {
+			"name": "Sentinela do Sul"
+		},
+		"Serafina Corrêa": {
+			"name": "Serafina Corrêa"
+		},
+		"Sério": {
+			"name": "Sério"
+		},
+		"Sertão": {
+			"name": "Sertão"
+		},
+		"Sertão Santana": {
+			"name": "Sertão Santana"
+		},
+		"Sete de Setembro": {
+			"name": "Sete de Setembro"
+		},
+		"Severiano de Almeida": {
+			"name": "Severiano de Almeida"
+		},
+		"Silveira Martins": {
+			"name": "Silveira Martins"
+		},
+		"Sinimbu": {
+			"name": "Sinimbu"
+		},
+		"Sobradinho": {
+			"name": "Sobradinho"
+		},
+		"Soledade": {
+			"name": "Soledade"
+		},
+		"Tabaí": {
+			"name": "Tabaí"
+		},
+		"Tapejara": {
+			"name": "Tapejara"
+		},
+		"Tapera": {
+			"name": "Tapera"
+		},
+		"Tapes": {
+			"name": "Tapes"
+		},
+		"Taquara": {
+			"name": "Taquara"
+		},
+		"Taquari": {
+			"name": "Taquari"
+		},
+		"Taquaruçu do Sul": {
+			"name": "Taquaruçu do Sul"
+		},
+		"Tavares": {
+			"name": "Tavares"
+		},
+		"Tenente Portela": {
+			"name": "Tenente Portela"
+		},
+		"Terra de Areia": {
+			"name": "Terra de Areia"
+		},
+		"Teutônia": {
+			"name": "Teutônia"
+		},
+		"Tio Hugo": {
+			"name": "Tio Hugo"
+		},
+		"Tiradentes do Sul": {
+			"name": "Tiradentes do Sul"
+		},
+		"Toropi": {
+			"name": "Toropi"
+		},
+		"Torres": {
+			"name": "Torres"
+		},
+		"Tramandaí": {
+			"name": "Tramandaí"
+		},
+		"Travesseiro": {
+			"name": "Travesseiro"
+		},
+		"Três Arroios": {
+			"name": "Três Arroios"
+		},
+		"Três Cachoeiras": {
+			"name": "Três Cachoeiras"
+		},
+		"Três Coroas": {
+			"name": "Três Coroas"
+		},
+		"Três de Maio": {
+			"name": "Três de Maio"
+		},
+		"Três Forquilhas": {
+			"name": "Três Forquilhas"
+		},
+		"Três Palmeiras": {
+			"name": "Três Palmeiras"
+		},
+		"Três Passos": {
+			"name": "Três Passos"
+		},
+		"Trindade do Sul": {
+			"name": "Trindade do Sul"
+		},
+		"Triunfo": {
+			"name": "Triunfo"
+		},
+		"Tucunduva": {
+			"name": "Tucunduva"
+		},
+		"Tunas": {
+			"name": "Tunas"
+		},
+		"Tupanci do Sul": {
+			"name": "Tupanci do Sul"
+		},
+		"Tupanciretã": {
+			"name": "Tupanciretã"
+		},
+		"Tupandi": {
+			"name": "Tupandi"
+		},
+		"Tuparendi": {
+			"name": "Tuparendi"
+		},
+		"Turuçu": {
+			"name": "Turuçu"
+		},
+		"Ubiretama": {
+			"name": "Ubiretama"
+		},
+		"União da Serra": {
+			"name": "União da Serra"
+		},
+		"Unistalda": {
+			"name": "Unistalda"
+		},
+		"Uruguaiana": {
+			"name": "Uruguaiana"
+		},
+		"Vacaria": {
+			"name": "Vacaria"
+		},
+		"Vale do Sol": {
+			"name": "Vale do Sol"
+		},
+		"Vale Real": {
+			"name": "Vale Real"
+		},
+		"Vale Verde": {
+			"name": "Vale Verde"
+		},
+		"Vanini": {
+			"name": "Vanini"
+		},
+		"Venâncio Aires": {
+			"name": "Venâncio Aires"
+		},
+		"Vera Cruz": {
+			"name": "Vera Cruz"
+		},
+		"Veranópolis": {
+			"name": "Veranópolis"
+		},
+		"Vespasiano Correa": {
+			"name": "Vespasiano Correa"
+		},
+		"Viadutos": {
+			"name": "Viadutos"
+		},
+		"Viamão": {
+			"name": "Viamão"
+		},
+		"Vicente Dutra": {
+			"name": "Vicente Dutra"
+		},
+		"Victor Graeff": {
+			"name": "Victor Graeff"
+		},
+		"Vila Flores": {
+			"name": "Vila Flores"
+		},
+		"Vila Lângaro": {
+			"name": "Vila Lângaro"
+		},
+		"Vila Maria": {
+			"name": "Vila Maria"
+		},
+		"Vila Nova do Sul": {
+			"name": "Vila Nova do Sul"
+		},
+		"Vista Alegre": {
+			"name": "Vista Alegre"
+		},
+		"Vista Alegre do Prata": {
+			"name": "Vista Alegre do Prata"
+		},
+		"Vista Gaúcha": {
+			"name": "Vista Gaúcha"
+		},
+		"Vitória das Missões": {
+			"name": "Vitória das Missões"
+		},
+		"Westfalia": {
+			"name": "Westfalia"
+		},
+		"Xangri-lá": {
+			"name": "Xangri-lá"
+		}
 	}
 }

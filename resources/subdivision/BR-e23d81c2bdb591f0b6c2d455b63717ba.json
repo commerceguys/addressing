@@ -5,83 +5,239 @@
 		"MS"
 	],
 	"subdivisions": {
-		"Água Clara": [],
-		"Alcinópolis": [],
-		"Amambai": [],
-		"Anastácio": [],
-		"Anaurilândia": [],
-		"Angelica": [],
-		"Antônio João": [],
-		"Aparecida do Taboado": [],
-		"Aquidauana": [],
-		"Aral Moreira": [],
-		"Bandeirantes": [],
-		"Bataguassu": [],
-		"Bataiporã": [],
-		"Bela Vista": [],
-		"Bodoquena": [],
-		"Bonito": [],
-		"Brasilândia": [],
-		"Caarapó": [],
-		"Camapuã": [],
-		"Campo Grande": [],
-		"Caracol": [],
-		"Cassilândia": [],
-		"Chapadão do Sul": [],
-		"Corguinho": [],
-		"Coronel Sapucaia": [],
-		"Corumbá": [],
-		"Costa Rica": [],
-		"Coxim": [],
-		"Deodápolis": [],
-		"Dois Irmãos do Buriti": [],
-		"Douradina": [],
-		"Dourados": [],
-		"Eldorado": [],
-		"Fátima do Sul": [],
-		"Figueirão": [],
-		"Glória de Dourados": [],
-		"Guia Lopes da Laguna": [],
-		"Iguatemi": [],
-		"Inocencia": [],
-		"Itaporã": [],
-		"Itaquiraí": [],
-		"Ivinhema": [],
-		"Japorã": [],
-		"Jaraguari": [],
-		"Jardim": [],
-		"Jateí": [],
-		"Juti": [],
-		"Ladário": [],
-		"Laguna Carapã": [],
-		"Maracaju": [],
-		"Miranda": [],
-		"Mundo Novo": [],
-		"Naviraí": [],
-		"Nioaque": [],
-		"Nova Alvorada do Sul": [],
-		"Nova Andradina": [],
-		"Novo Horizonte do Sul": [],
-		"Paranaíba": [],
-		"Paranhos": [],
-		"Pedro Gomes": [],
-		"Ponta Porã": [],
-		"Porto Murtinho": [],
-		"Ribas do Rio Pardo": [],
-		"Rio Brilhante": [],
-		"Rio Negro": [],
-		"Rio Verde de Mato Grosso": [],
-		"Rochedo": [],
-		"Santa Rita do Pardo": [],
-		"São Gabriel do Oeste": [],
-		"Selvíria": [],
-		"Sete Quedas": [],
-		"Sidrolândia": [],
-		"Sonora": [],
-		"Tacuru": [],
-		"Taquarussu": [],
-		"Terenos": [],
-		"Três Lagoas": [],
-		"Vicentina": []
+		"Água Clara": {
+			"name": "Água Clara"
+		},
+		"Alcinópolis": {
+			"name": "Alcinópolis"
+		},
+		"Amambai": {
+			"name": "Amambai"
+		},
+		"Anastácio": {
+			"name": "Anastácio"
+		},
+		"Anaurilândia": {
+			"name": "Anaurilândia"
+		},
+		"Angelica": {
+			"name": "Angelica"
+		},
+		"Antônio João": {
+			"name": "Antônio João"
+		},
+		"Aparecida do Taboado": {
+			"name": "Aparecida do Taboado"
+		},
+		"Aquidauana": {
+			"name": "Aquidauana"
+		},
+		"Aral Moreira": {
+			"name": "Aral Moreira"
+		},
+		"Bandeirantes": {
+			"name": "Bandeirantes"
+		},
+		"Bataguassu": {
+			"name": "Bataguassu"
+		},
+		"Bataiporã": {
+			"name": "Bataiporã"
+		},
+		"Bela Vista": {
+			"name": "Bela Vista"
+		},
+		"Bodoquena": {
+			"name": "Bodoquena"
+		},
+		"Bonito": {
+			"name": "Bonito"
+		},
+		"Brasilândia": {
+			"name": "Brasilândia"
+		},
+		"Caarapó": {
+			"name": "Caarapó"
+		},
+		"Camapuã": {
+			"name": "Camapuã"
+		},
+		"Campo Grande": {
+			"name": "Campo Grande"
+		},
+		"Caracol": {
+			"name": "Caracol"
+		},
+		"Cassilândia": {
+			"name": "Cassilândia"
+		},
+		"Chapadão do Sul": {
+			"name": "Chapadão do Sul"
+		},
+		"Corguinho": {
+			"name": "Corguinho"
+		},
+		"Coronel Sapucaia": {
+			"name": "Coronel Sapucaia"
+		},
+		"Corumbá": {
+			"name": "Corumbá"
+		},
+		"Costa Rica": {
+			"name": "Costa Rica"
+		},
+		"Coxim": {
+			"name": "Coxim"
+		},
+		"Deodápolis": {
+			"name": "Deodápolis"
+		},
+		"Dois Irmãos do Buriti": {
+			"name": "Dois Irmãos do Buriti"
+		},
+		"Douradina": {
+			"name": "Douradina"
+		},
+		"Dourados": {
+			"name": "Dourados"
+		},
+		"Eldorado": {
+			"name": "Eldorado"
+		},
+		"Fátima do Sul": {
+			"name": "Fátima do Sul"
+		},
+		"Figueirão": {
+			"name": "Figueirão"
+		},
+		"Glória de Dourados": {
+			"name": "Glória de Dourados"
+		},
+		"Guia Lopes da Laguna": {
+			"name": "Guia Lopes da Laguna"
+		},
+		"Iguatemi": {
+			"name": "Iguatemi"
+		},
+		"Inocencia": {
+			"name": "Inocencia"
+		},
+		"Itaporã": {
+			"name": "Itaporã"
+		},
+		"Itaquiraí": {
+			"name": "Itaquiraí"
+		},
+		"Ivinhema": {
+			"name": "Ivinhema"
+		},
+		"Japorã": {
+			"name": "Japorã"
+		},
+		"Jaraguari": {
+			"name": "Jaraguari"
+		},
+		"Jardim": {
+			"name": "Jardim"
+		},
+		"Jateí": {
+			"name": "Jateí"
+		},
+		"Juti": {
+			"name": "Juti"
+		},
+		"Ladário": {
+			"name": "Ladário"
+		},
+		"Laguna Carapã": {
+			"name": "Laguna Carapã"
+		},
+		"Maracaju": {
+			"name": "Maracaju"
+		},
+		"Miranda": {
+			"name": "Miranda"
+		},
+		"Mundo Novo": {
+			"name": "Mundo Novo"
+		},
+		"Naviraí": {
+			"name": "Naviraí"
+		},
+		"Nioaque": {
+			"name": "Nioaque"
+		},
+		"Nova Alvorada do Sul": {
+			"name": "Nova Alvorada do Sul"
+		},
+		"Nova Andradina": {
+			"name": "Nova Andradina"
+		},
+		"Novo Horizonte do Sul": {
+			"name": "Novo Horizonte do Sul"
+		},
+		"Paranaíba": {
+			"name": "Paranaíba"
+		},
+		"Paranhos": {
+			"name": "Paranhos"
+		},
+		"Pedro Gomes": {
+			"name": "Pedro Gomes"
+		},
+		"Ponta Porã": {
+			"name": "Ponta Porã"
+		},
+		"Porto Murtinho": {
+			"name": "Porto Murtinho"
+		},
+		"Ribas do Rio Pardo": {
+			"name": "Ribas do Rio Pardo"
+		},
+		"Rio Brilhante": {
+			"name": "Rio Brilhante"
+		},
+		"Rio Negro": {
+			"name": "Rio Negro"
+		},
+		"Rio Verde de Mato Grosso": {
+			"name": "Rio Verde de Mato Grosso"
+		},
+		"Rochedo": {
+			"name": "Rochedo"
+		},
+		"Santa Rita do Pardo": {
+			"name": "Santa Rita do Pardo"
+		},
+		"São Gabriel do Oeste": {
+			"name": "São Gabriel do Oeste"
+		},
+		"Selvíria": {
+			"name": "Selvíria"
+		},
+		"Sete Quedas": {
+			"name": "Sete Quedas"
+		},
+		"Sidrolândia": {
+			"name": "Sidrolândia"
+		},
+		"Sonora": {
+			"name": "Sonora"
+		},
+		"Tacuru": {
+			"name": "Tacuru"
+		},
+		"Taquarussu": {
+			"name": "Taquarussu"
+		},
+		"Terenos": {
+			"name": "Terenos"
+		},
+		"Três Lagoas": {
+			"name": "Três Lagoas"
+		},
+		"Vicentina": {
+			"name": "Vicentina"
+		}
 	}
 }

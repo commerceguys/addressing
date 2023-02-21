@@ -5,98 +5,284 @@
 		"RJ"
 	],
 	"subdivisions": {
-		"Angra dos Reis": [],
-		"Aperibé": [],
-		"Araruama": [],
-		"Areal": [],
-		"Armação dos Búzios": [],
-		"Arraial do Cabo": [],
-		"Bacaxá": [],
-		"Barra do Piraí": [],
-		"Barra Mansa": [],
-		"Belford Roxo": [],
-		"Bom Jardim": [],
-		"Bom Jesus do Itabapoana": [],
-		"Cabo Frio": [],
-		"Cachoeiras de Macacu": [],
-		"Cambuci": [],
-		"Campos dos Goytacazes": [],
-		"Cantagalo": [],
-		"Carapebus": [],
-		"Cardoso Moreira": [],
-		"Carmo": [],
-		"Casimiro de Abreu": [],
-		"Comendador Levy Gasparian": [],
-		"Conceição de Macabu": [],
-		"Cordeiro": [],
-		"Duas Barras": [],
-		"Duque de Caxias": [],
-		"Engenheiro Paulo de Frontin": [],
-		"Guapimirim": [],
-		"Iguaba Grande": [],
-		"Itaboraí": [],
-		"Itaguaí": [],
-		"Italva": [],
-		"Itaocara": [],
-		"Itaperuna": [],
-		"Itatiaia": [],
-		"Japeri": [],
-		"Laje do Muriaé": [],
-		"Macaé": [],
-		"Macuco": [],
-		"Magé": [],
-		"Mangaratiba": [],
-		"Maricá": [],
-		"Mendes": [],
-		"Mesquita": [],
-		"Miguel Pereira": [],
-		"Miracema": [],
-		"Natividade": [],
-		"Nilópolis": [],
-		"Niterói": [],
-		"Nova Friburgo": [],
-		"Nova Iguaçu": [],
-		"Paracambi": [],
-		"Paraíba do Sul": [],
-		"Paraty": [],
-		"Paty do Alferes": [],
-		"Petrópolis": [],
-		"Pinheiral": [],
-		"Piraí": [],
-		"Porciúncula": [],
-		"Porto Real": [],
-		"Quatis": [],
-		"Queimados": [],
-		"Quissamã": [],
-		"Resende": [],
-		"Rio Bonito": [],
-		"Rio Claro": [],
-		"Rio das Flores": [],
-		"Rio das Ostras": [],
-		"Rio de Janeiro": [],
-		"Santa Maria Madalena": [],
-		"Santo Antônio de Pádua": [],
-		"São Fidélis": [],
-		"São Francisco de Itabapoana": [],
-		"São Gonçalo": [],
-		"São João da Barra": [],
-		"São João de Meriti": [],
-		"São José de Ubá": [],
-		"São José do Vale do Rio Preto": [],
-		"São Pedro da Aldeia": [],
-		"São Sebastião do Alto": [],
-		"Sapucaia": [],
-		"Saquarema": [],
-		"Seropédica": [],
-		"Silva Jardim": [],
-		"Sumidouro": [],
-		"Tanguá": [],
-		"Teresópolis": [],
-		"Trajano de Morais": [],
-		"Três Rios": [],
-		"Valença": [],
-		"Varre-Sai": [],
-		"Vassouras": [],
-		"Volta Redonda": []
+		"Angra dos Reis": {
+			"name": "Angra dos Reis"
+		},
+		"Aperibé": {
+			"name": "Aperibé"
+		},
+		"Araruama": {
+			"name": "Araruama"
+		},
+		"Areal": {
+			"name": "Areal"
+		},
+		"Armação dos Búzios": {
+			"name": "Armação dos Búzios"
+		},
+		"Arraial do Cabo": {
+			"name": "Arraial do Cabo"
+		},
+		"Bacaxá": {
+			"name": "Bacaxá"
+		},
+		"Barra do Piraí": {
+			"name": "Barra do Piraí"
+		},
+		"Barra Mansa": {
+			"name": "Barra Mansa"
+		},
+		"Belford Roxo": {
+			"name": "Belford Roxo"
+		},
+		"Bom Jardim": {
+			"name": "Bom Jardim"
+		},
+		"Bom Jesus do Itabapoana": {
+			"name": "Bom Jesus do Itabapoana"
+		},
+		"Cabo Frio": {
+			"name": "Cabo Frio"
+		},
+		"Cachoeiras de Macacu": {
+			"name": "Cachoeiras de Macacu"
+		},
+		"Cambuci": {
+			"name": "Cambuci"
+		},
+		"Campos dos Goytacazes": {
+			"name": "Campos dos Goytacazes"
+		},
+		"Cantagalo": {
+			"name": "Cantagalo"
+		},
+		"Carapebus": {
+			"name": "Carapebus"
+		},
+		"Cardoso Moreira": {
+			"name": "Cardoso Moreira"
+		},
+		"Carmo": {
+			"name": "Carmo"
+		},
+		"Casimiro de Abreu": {
+			"name": "Casimiro de Abreu"
+		},
+		"Comendador Levy Gasparian": {
+			"name": "Comendador Levy Gasparian"
+		},
+		"Conceição de Macabu": {
+			"name": "Conceição de Macabu"
+		},
+		"Cordeiro": {
+			"name": "Cordeiro"
+		},
+		"Duas Barras": {
+			"name": "Duas Barras"
+		},
+		"Duque de Caxias": {
+			"name": "Duque de Caxias"
+		},
+		"Engenheiro Paulo de Frontin": {
+			"name": "Engenheiro Paulo de Frontin"
+		},
+		"Guapimirim": {
+			"name": "Guapimirim"
+		},
+		"Iguaba Grande": {
+			"name": "Iguaba Grande"
+		},
+		"Itaboraí": {
+			"name": "Itaboraí"
+		},
+		"Itaguaí": {
+			"name": "Itaguaí"
+		},
+		"Italva": {
+			"name": "Italva"
+		},
+		"Itaocara": {
+			"name": "Itaocara"
+		},
+		"Itaperuna": {
+			"name": "Itaperuna"
+		},
+		"Itatiaia": {
+			"name": "Itatiaia"
+		},
+		"Japeri": {
+			"name": "Japeri"
+		},
+		"Laje do Muriaé": {
+			"name": "Laje do Muriaé"
+		},
+		"Macaé": {
+			"name": "Macaé"
+		},
+		"Macuco": {
+			"name": "Macuco"
+		},
+		"Magé": {
+			"name": "Magé"
+		},
+		"Mangaratiba": {
+			"name": "Mangaratiba"
+		},
+		"Maricá": {
+			"name": "Maricá"
+		},
+		"Mendes": {
+			"name": "Mendes"
+		},
+		"Mesquita": {
+			"name": "Mesquita"
+		},
+		"Miguel Pereira": {
+			"name": "Miguel Pereira"
+		},
+		"Miracema": {
+			"name": "Miracema"
+		},
+		"Natividade": {
+			"name": "Natividade"
+		},
+		"Nilópolis": {
+			"name": "Nilópolis"
+		},
+		"Niterói": {
+			"name": "Niterói"
+		},
+		"Nova Friburgo": {
+			"name": "Nova Friburgo"
+		},
+		"Nova Iguaçu": {
+			"name": "Nova Iguaçu"
+		},
+		"Paracambi": {
+			"name": "Paracambi"
+		},
+		"Paraíba do Sul": {
+			"name": "Paraíba do Sul"
+		},
+		"Paraty": {
+			"name": "Paraty"
+		},
+		"Paty do Alferes": {
+			"name": "Paty do Alferes"
+		},
+		"Petrópolis": {
+			"name": "Petrópolis"
+		},
+		"Pinheiral": {
+			"name": "Pinheiral"
+		},
+		"Piraí": {
+			"name": "Piraí"
+		},
+		"Porciúncula": {
+			"name": "Porciúncula"
+		},
+		"Porto Real": {
+			"name": "Porto Real"
+		},
+		"Quatis": {
+			"name": "Quatis"
+		},
+		"Queimados": {
+			"name": "Queimados"
+		},
+		"Quissamã": {
+			"name": "Quissamã"
+		},
+		"Resende": {
+			"name": "Resende"
+		},
+		"Rio Bonito": {
+			"name": "Rio Bonito"
+		},
+		"Rio Claro": {
+			"name": "Rio Claro"
+		},
+		"Rio das Flores": {
+			"name": "Rio das Flores"
+		},
+		"Rio das Ostras": {
+			"name": "Rio das Ostras"
+		},
+		"Rio de Janeiro": {
+			"name": "Rio de Janeiro"
+		},
+		"Santa Maria Madalena": {
+			"name": "Santa Maria Madalena"
+		},
+		"Santo Antônio de Pádua": {
+			"name": "Santo Antônio de Pádua"
+		},
+		"São Fidélis": {
+			"name": "São Fidélis"
+		},
+		"São Francisco de Itabapoana": {
+			"name": "São Francisco de Itabapoana"
+		},
+		"São Gonçalo": {
+			"name": "São Gonçalo"
+		},
+		"São João da Barra": {
+			"name": "São João da Barra"
+		},
+		"São João de Meriti": {
+			"name": "São João de Meriti"
+		},
+		"São José de Ubá": {
+			"name": "São José de Ubá"
+		},
+		"São José do Vale do Rio Preto": {
+			"name": "São José do Vale do Rio Preto"
+		},
+		"São Pedro da Aldeia": {
+			"name": "São Pedro da Aldeia"
+		},
+		"São Sebastião do Alto": {
+			"name": "São Sebastião do Alto"
+		},
+		"Sapucaia": {
+			"name": "Sapucaia"
+		},
+		"Saquarema": {
+			"name": "Saquarema"
+		},
+		"Seropédica": {
+			"name": "Seropédica"
+		},
+		"Silva Jardim": {
+			"name": "Silva Jardim"
+		},
+		"Sumidouro": {
+			"name": "Sumidouro"
+		},
+		"Tanguá": {
+			"name": "Tanguá"
+		},
+		"Teresópolis": {
+			"name": "Teresópolis"
+		},
+		"Trajano de Morais": {
+			"name": "Trajano de Morais"
+		},
+		"Três Rios": {
+			"name": "Três Rios"
+		},
+		"Valença": {
+			"name": "Valença"
+		},
+		"Varre-Sai": {
+			"name": "Varre-Sai"
+		},
+		"Vassouras": {
+			"name": "Vassouras"
+		},
+		"Volta Redonda": {
+			"name": "Volta Redonda"
+		}
 	}
 }

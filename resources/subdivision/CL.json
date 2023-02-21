@@ -1,70 +1,82 @@
 {
 	"country_code": "CL",
 	"subdivisions": {
-		"Antofagasta": {
+		"AN": {
+			"name": "Antofagasta",
 			"iso_code": "CL-AN",
 			"has_children": true
 		},
-		"Araucanía": {
+		"AR": {
+			"name": "Araucanía",
 			"iso_code": "CL-AR",
 			"has_children": true
 		},
-		"Arica y Parinacota": {
+		"AP": {
+			"name": "Arica y Parinacota",
 			"iso_code": "CL-AP",
 			"has_children": true
 		},
-		"Atacama": {
+		"AT": {
+			"name": "Atacama",
 			"iso_code": "CL-AT",
 			"has_children": true
 		},
-		"Aysén": {
+		"AI": {
 			"name": "Aysén del General Carlos Ibáñez del Campo",
 			"iso_code": "CL-AI",
 			"has_children": true
 		},
-		"Biobío": {
+		"BI": {
+			"name": "Biobío",
 			"iso_code": "CL-BI",
 			"has_children": true
 		},
-		"Coquimbo": {
+		"CO": {
+			"name": "Coquimbo",
 			"iso_code": "CL-CO",
 			"has_children": true
 		},
-		"O'Higgins": {
+		"LI": {
 			"name": "Libertador General Bernardo O'Higgins",
 			"iso_code": "CL-LI",
 			"has_children": true
 		},
-		"Los Lagos": {
+		"LL": {
+			"name": "Los Lagos",
 			"iso_code": "CL-LL",
 			"has_children": true
 		},
-		"Los Ríos": {
+		"LR": {
+			"name": "Los Ríos",
 			"iso_code": "CL-LR",
 			"has_children": true
 		},
-		"Magallanes": {
+		"MA": {
 			"name": "Magallanes y de la Antártica Chilena",
 			"iso_code": "CL-MA",
 			"has_children": true
 		},
-		"Maule": {
+		"ML": {
+			"name": "Maule",
 			"iso_code": "CL-ML",
 			"has_children": true
 		},
-		"Región Metropolitana": {
+		"RM": {
 			"name": "Metropolitana de Santiago",
 			"iso_code": "CL-RM",
 			"has_children": true
 		},
-		"Ñuble": {
+		"NB": {
+			"name": "Ñuble",
 			"iso_code": "CL-NB"
 		},
-		"Tarapacá": {
+		"TA": {
+			"name": "Tarapacá",
 			"iso_code": "CL-TA",
 			"has_children": true
 		},
-		"Valparaíso": {
+		"VS": {
+			"name": "Valparaíso",
 			"iso_code": "CL-VS",
 			"has_children": true
 		}

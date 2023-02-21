@@ -5,84 +5,242 @@
 		"ES"
 	],
 	"subdivisions": {
-		"Afonso Claudio": [],
-		"Água Doce do Norte": [],
-		"Águia Branca": [],
-		"Alegre": [],
-		"Alfredo Chaves": [],
-		"Alto Rio Novo": [],
-		"Anchieta": [],
-		"Apiacá": [],
-		"Aracruz": [],
-		"Atílio Vivácqua": [],
-		"Baixo Guandu": [],
-		"Barra de São Francisco": [],
-		"Boa Esperança": [],
-		"Bom Jesus do Norte": [],
-		"Brejetuba": [],
-		"Cachoeiro de Itapemirim": [],
-		"Cariacica": [],
-		"Castelo": [],
-		"Colatina": [],
-		"Conceição da Barra": [],
-		"Conceição do Castelo": [],
-		"Divino de São Lourenço": [],
-		"Domingos Martins": [],
-		"Dores do Rio Preto": [],
-		"Ecoporanga": [],
-		"Espírito Santo": [],
-		"Fundão": [],
-		"Governador Lindenberg": [],
-		"Guaçuí": [],
-		"Guarapari": [],
-		"Ibatiba": [],
-		"Ibiraçu": [],
-		"Ibitirama": [],
-		"Iconha": [],
-		"Irupi": [],
-		"Itaguaçu": [],
-		"Itapemirim": [],
-		"Itarana": [],
-		"Iúna": [],
-		"Jaguaré": [],
-		"Jerônimo Monteiro": [],
-		"João Neiva": [],
-		"Laranja da Terra": [],
-		"Linhares": [],
-		"Mantenópolis": [],
-		"Marataízes": [],
-		"Marechal Floriano": [],
-		"Marilândia": [],
-		"Mimoso do Sul": [],
-		"Montanha": [],
-		"Mucurici": [],
-		"Muniz Freire": [],
-		"Muqui": [],
-		"Nova Venécia": [],
-		"Pancas": [],
-		"Pedro Canário": [],
-		"Pinheiros": [],
-		"Piúma": [],
-		"Ponto Belo": [],
-		"Presidente Kennedy": [],
-		"Rio Bananal": [],
-		"Rio Novo do Sul": [],
-		"Santa Leopoldina": [],
-		"Santa Maria de Jetibá": [],
-		"Santa Teresa": [],
-		"São Domingos do Norte": [],
-		"São Gabriel da Palha": [],
-		"São José do Calçado": [],
-		"São Mateus": [],
-		"São Roque do Canaã": [],
-		"Serra": [],
-		"Sooretama": [],
-		"Vargem Alta": [],
-		"Venda Nova do Imigrante": [],
-		"Viana": [],
-		"Vila Pavão": [],
-		"Vila Valério": [],
-		"Vila Velha": [],
-		"Vitória": []
+		"Afonso Claudio": {
+			"name": "Afonso Claudio"
+		},
+		"Água Doce do Norte": {
+			"name": "Água Doce do Norte"
+		},
+		"Águia Branca": {
+			"name": "Águia Branca"
+		},
+		"Alegre": {
+			"name": "Alegre"
+		},
+		"Alfredo Chaves": {
+			"name": "Alfredo Chaves"
+		},
+		"Alto Rio Novo": {
+			"name": "Alto Rio Novo"
+		},
+		"Anchieta": {
+			"name": "Anchieta"
+		},
+		"Apiacá": {
+			"name": "Apiacá"
+		},
+		"Aracruz": {
+			"name": "Aracruz"
+		},
+		"Atílio Vivácqua": {
+			"name": "Atílio Vivácqua"
+		},
+		"Baixo Guandu": {
+			"name": "Baixo Guandu"
+		},
+		"Barra de São Francisco": {
+			"name": "Barra de São Francisco"
+		},
+		"Boa Esperança": {
+			"name": "Boa Esperança"
+		},
+		"Bom Jesus do Norte": {
+			"name": "Bom Jesus do Norte"
+		},
+		"Brejetuba": {
+			"name": "Brejetuba"
+		},
+		"Cachoeiro de Itapemirim": {
+			"name": "Cachoeiro de Itapemirim"
+		},
+		"Cariacica": {
+			"name": "Cariacica"
+		},
+		"Castelo": {
+			"name": "Castelo"
+		},
+		"Colatina": {
+			"name": "Colatina"
+		},
+		"Conceição da Barra": {
+			"name": "Conceição da Barra"
+		},
+		"Conceição do Castelo": {
+			"name": "Conceição do Castelo"
+		},
+		"Divino de São Lourenço": {
+			"name": "Divino de São Lourenço"
+		},
+		"Domingos Martins": {
+			"name": "Domingos Martins"
+		},
+		"Dores do Rio Preto": {
+			"name": "Dores do Rio Preto"
+		},
+		"Ecoporanga": {
+			"name": "Ecoporanga"
+		},
+		"Espírito Santo": {
+			"name": "Espírito Santo"
+		},
+		"Fundão": {
+			"name": "Fundão"
+		},
+		"Governador Lindenberg": {
+			"name": "Governador Lindenberg"
+		},
+		"Guaçuí": {
+			"name": "Guaçuí"
+		},
+		"Guarapari": {
+			"name": "Guarapari"
+		},
+		"Ibatiba": {
+			"name": "Ibatiba"
+		},
+		"Ibiraçu": {
+			"name": "Ibiraçu"
+		},
+		"Ibitirama": {
+			"name": "Ibitirama"
+		},
+		"Iconha": {
+			"name": "Iconha"
+		},
+		"Irupi": {
+			"name": "Irupi"
+		},
+		"Itaguaçu": {
+			"name": "Itaguaçu"
+		},
+		"Itapemirim": {
+			"name": "Itapemirim"
+		},
+		"Itarana": {
+			"name": "Itarana"
+		},
+		"Iúna": {
+			"name": "Iúna"
+		},
+		"Jaguaré": {
+			"name": "Jaguaré"
+		},
+		"Jerônimo Monteiro": {
+			"name": "Jerônimo Monteiro"
+		},
+		"João Neiva": {
+			"name": "João Neiva"
+		},
+		"Laranja da Terra": {
+			"name": "Laranja da Terra"
+		},
+		"Linhares": {
+			"name": "Linhares"
+		},
+		"Mantenópolis": {
+			"name": "Mantenópolis"
+		},
+		"Marataízes": {
+			"name": "Marataízes"
+		},
+		"Marechal Floriano": {
+			"name": "Marechal Floriano"
+		},
+		"Marilândia": {
+			"name": "Marilândia"
+		},
+		"Mimoso do Sul": {
+			"name": "Mimoso do Sul"
+		},
+		"Montanha": {
+			"name": "Montanha"
+		},
+		"Mucurici": {
+			"name": "Mucurici"
+		},
+		"Muniz Freire": {
+			"name": "Muniz Freire"
+		},
+		"Muqui": {
+			"name": "Muqui"
+		},
+		"Nova Venécia": {
+			"name": "Nova Venécia"
+		},
+		"Pancas": {
+			"name": "Pancas"
+		},
+		"Pedro Canário": {
+			"name": "Pedro Canário"
+		},
+		"Pinheiros": {
+			"name": "Pinheiros"
+		},
+		"Piúma": {
+			"name": "Piúma"
+		},
+		"Ponto Belo": {
+			"name": "Ponto Belo"
+		},
+		"Presidente Kennedy": {
+			"name": "Presidente Kennedy"
+		},
+		"Rio Bananal": {
+			"name": "Rio Bananal"
+		},
+		"Rio Novo do Sul": {
+			"name": "Rio Novo do Sul"
+		},
+		"Santa Leopoldina": {
+			"name": "Santa Leopoldina"
+		},
+		"Santa Maria de Jetibá": {
+			"name": "Santa Maria de Jetibá"
+		},
+		"Santa Teresa": {
+			"name": "Santa Teresa"
+		},
+		"São Domingos do Norte": {
+			"name": "São Domingos do Norte"
+		},
+		"São Gabriel da Palha": {
+			"name": "São Gabriel da Palha"
+		},
+		"São José do Calçado": {
+			"name": "São José do Calçado"
+		},
+		"São Mateus": {
+			"name": "São Mateus"
+		},
+		"São Roque do Canaã": {
+			"name": "São Roque do Canaã"
+		},
+		"Serra": {
+			"name": "Serra"
+		},
+		"Sooretama": {
+			"name": "Sooretama"
+		},
+		"Vargem Alta": {
+			"name": "Vargem Alta"
+		},
+		"Venda Nova do Imigrante": {
+			"name": "Venda Nova do Imigrante"
+		},
+		"Viana": {
+			"name": "Viana"
+		},
+		"Vila Pavão": {
+			"name": "Vila Pavão"
+		},
+		"Vila Valério": {
+			"name": "Vila Valério"
+		},
+		"Vila Velha": {
+			"name": "Vila Velha"
+		},
+		"Vitória": {
+			"name": "Vitória"
+		}
 	}
 }

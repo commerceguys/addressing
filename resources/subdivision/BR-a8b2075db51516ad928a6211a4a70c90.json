@@ -5,6 +5,8 @@
 		"DF"
 	],
 	"subdivisions": {
-		"Brasília": []
+		"Brasília": {
+			"name": "Brasília"
+		}
 	}
 }

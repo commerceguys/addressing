@@ -1,7 +1,7 @@
 {
 	"country_code": "SO",
 	"subdivisions": {
-		"AD": {
+		"AW": {
 			"name": "Awdal",
 			"iso_code": "SO-AW"
 		},
@@ -21,15 +21,15 @@
 			"name": "Bay",
 			"iso_code": "SO-BY"
 		},
-		"GG": {
+		"GA": {
 			"name": "Galguduud",
 			"iso_code": "SO-GA"
 		},
-		"GD": {
+		"GE": {
 			"name": "Gedo",
 			"iso_code": "SO-GE"
 		},
-		"HR": {
+		"HI": {
 			"name": "Hiiraan",
 			"iso_code": "SO-HI"
 		},
@@ -41,15 +41,15 @@
 			"name": "Jubbada Hoose",
 			"iso_code": "SO-JH"
 		},
-		"MD": {
+		"MU": {
 			"name": "Mudug",
 			"iso_code": "SO-MU"
 		},
-		"NG": {
+		"NU": {
 			"name": "Nugaal",
 			"iso_code": "SO-NU"
 		},
-		"SG": {
+		"SA": {
 			"name": "Sanaag",
 			"iso_code": "SO-SA"
 		},
@@ -61,15 +61,15 @@
 			"name": "Shabeellaha Hoose",
 			"iso_code": "SO-SH"
 		},
-		"SL": {
+		"SO": {
 			"name": "Sool",
 			"iso_code": "SO-SO"
 		},
-		"TG": {
+		"TO": {
 			"name": "Togdheer",
 			"iso_code": "SO-TO"
 		},
-		"WG": {
+		"WO": {
 			"name": "Woqooyi Galbeed",
 			"iso_code": "SO-WO"
 		}

@@ -1,0 +1,108 @@
+{
+	"country_code": "CL",
+	"parents": [
+		"CL",
+		"LI"
+	],
+	"subdivisions": {
+		"Chépica": {
+			"name": "Chépica"
+		},
+		"Chimbarongo": {
+			"name": "Chimbarongo"
+		},
+		"Codegua": {
+			"name": "Codegua"
+		},
+		"Coínco": {
+			"name": "Coínco"
+		},
+		"Coltauco": {
+			"name": "Coltauco"
+		},
+		"Doñihue": {
+			"name": "Doñihue"
+		},
+		"Graneros": {
+			"name": "Graneros"
+		},
+		"La Estrella": {
+			"name": "La Estrella"
+		},
+		"Las Cabras": {
+			"name": "Las Cabras"
+		},
+		"Litueche": {
+			"name": "Litueche"
+		},
+		"Lolol": {
+			"name": "Lolol"
+		},
+		"Machalí": {
+			"name": "Machalí"
+		},
+		"Malloa": {
+			"name": "Malloa"
+		},
+		"Marchigüe": {
+			"name": "Marchigüe"
+		},
+		"Nancagua": {
+			"name": "Nancagua"
+		},
+		"Navidad": {
+			"name": "Navidad"
+		},
+		"Olivar": {
+			"name": "Olivar"
+		},
+		"Palmilla": {
+			"name": "Palmilla"
+		},
+		"Paredones": {
+			"name": "Paredones"
+		},
+		"Peralillo": {
+			"name": "Peralillo"
+		},
+		"Peumo": {
+			"name": "Peumo"
+		},
+		"Pichidegua": {
+			"name": "Pichidegua"
+		},
+		"Pichilemu": {
+			"name": "Pichilemu"
+		},
+		"Placilla": {
+			"name": "Placilla"
+		},
+		"Pumanque": {
+			"name": "Pumanque"
+		},
+		"Quinta de Tilcoco": {
+			"name": "Quinta de Tilcoco"
+		},
+		"Rancagua": {
+			"name": "Rancagua"
+		},
+		"Rengo": {
+			"name": "Rengo"
+		},
+		"Requínoa": {
+			"name": "Requínoa"
+		},
+		"San Fernando": {
+			"name": "San Fernando"
+		},
+		"San Francisco de Mostazal": {
+			"name": "San Francisco de Mostazal"
+		},
+		"San Vicente de Tagua Tagua": {
+			"name": "San Vicente de Tagua Tagua"
+		},
+		"Santa Cruz": {
+			"name": "Santa Cruz"
+		}
+	}
+}

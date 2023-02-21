@@ -5,189 +5,557 @@
 		"CE"
 	],
 	"subdivisions": {
-		"Abaiara": [],
-		"Acarape": [],
-		"Acaraú": [],
-		"Acopiara": [],
-		"Aiuaba": [],
-		"Alcântaras": [],
-		"Altaneira": [],
-		"Alto Santo": [],
-		"Amontada": [],
-		"Antonina do Norte": [],
-		"Apuiarés": [],
-		"Aquiraz": [],
-		"Aracati": [],
-		"Aracoiaba": [],
-		"Ararendá": [],
-		"Araripe": [],
-		"Aratuba": [],
-		"Arneiroz": [],
-		"Assaré": [],
-		"Aurora": [],
-		"Baixio": [],
-		"Banabuiú": [],
-		"Barbalha": [],
-		"Barreira": [],
-		"Barro": [],
-		"Barroquinha": [],
-		"Baturité": [],
-		"Beberibe": [],
-		"Bela Cruz": [],
-		"Boa Viagem": [],
-		"Brejo Santo": [],
-		"Camocim": [],
-		"Campos Sales": [],
-		"Canindé": [],
-		"Capistrano": [],
-		"Caridade": [],
-		"Cariré": [],
-		"Caririaçú": [],
-		"Cariús": [],
-		"Carnaubal": [],
-		"Cascavel": [],
-		"Catarina": [],
-		"Catunda": [],
-		"Caucaia": [],
-		"Cedro": [],
-		"Chaval": [],
-		"Choro": [],
-		"Chorozinho": [],
-		"Coreaú": [],
-		"Crateús": [],
-		"Crato": [],
-		"Croatá": [],
-		"Cruz": [],
-		"Deputado Irapuan Pinheiro": [],
-		"Ererê": [],
-		"Eusébio": [],
-		"Farias Brito": [],
-		"Forquilha": [],
-		"Fortaleza": [],
-		"Fortim": [],
-		"Frecheirinha": [],
-		"General Sampaio": [],
-		"Graça": [],
-		"Granja": [],
-		"Granjeiro": [],
-		"Groaíras": [],
-		"Guaiúba": [],
-		"Guaraciaba do Norte": [],
-		"Guaramiranga": [],
-		"Hidrolândia": [],
-		"Horizonte": [],
-		"Ibaretama": [],
-		"Ibiapina": [],
-		"Ibicuitinga": [],
-		"Icapuí": [],
-		"Ico": [],
-		"Iguatu": [],
-		"Independencia": [],
-		"Ipaporanga": [],
-		"Ipaumirim": [],
-		"Ipú": [],
-		"Ipueiras": [],
-		"Iracema": [],
-		"Irauçuba": [],
-		"Itaiçaba": [],
-		"Itaitinga": [],
-		"Itapagé": [],
-		"Itapipoca": [],
-		"Itapiúna": [],
-		"Itarema": [],
-		"Itatira": [],
-		"Jaguaretama": [],
-		"Jaguaribara": [],
-		"Jaguaribe": [],
-		"Jaguaruana": [],
-		"Jardim": [],
-		"Jati": [],
-		"Jijoca de Jericoacoara": [],
-		"Juazeiro do Norte": [],
-		"Jucás": [],
-		"Lavras da Mangabeira": [],
-		"Limoeiro do Norte": [],
-		"Madalena": [],
-		"Maracanaú": [],
-		"Maranguape": [],
-		"Marco": [],
-		"Martinópole": [],
-		"Massapê": [],
-		"Mauriti": [],
-		"Meruoca": [],
-		"Milagres": [],
-		"Milhã": [],
-		"Miraíma": [],
-		"Missão Velha": [],
-		"Mombaça": [],
-		"Monsenhor Tabosa": [],
-		"Morada Nova": [],
-		"Moraújo": [],
-		"Morrinhos": [],
-		"Mucambo": [],
-		"Mulungú": [],
-		"Nova Olinda": [],
-		"Nova Russas": [],
-		"Novo Oriente": [],
-		"Ocara": [],
-		"Orós": [],
-		"Pacajús": [],
-		"Pacatuba": [],
-		"Pacoti": [],
-		"Pacujá": [],
-		"Palhano": [],
-		"Palmácia": [],
-		"Paracuru": [],
-		"Paraipaba": [],
-		"Parambu": [],
-		"Paramoti": [],
-		"Pedra Branca": [],
-		"Penaforte": [],
-		"Pentecoste": [],
-		"Pereiro": [],
-		"Pindoretama": [],
-		"Piquet Carneiro": [],
-		"Pires Ferreira": [],
-		"Poranga": [],
-		"Porteiras": [],
-		"Potengi": [],
-		"Potiretama": [],
-		"Quiterianópolis": [],
-		"Quixadá": [],
-		"Quixelô": [],
-		"Quixeramobim": [],
-		"Quixeré": [],
-		"Redenção": [],
-		"Reriutaba": [],
-		"Russas": [],
-		"Saboeiro": [],
-		"Salitre": [],
-		"Santa Quitéria": [],
-		"Santana do Acaraú": [],
-		"Santana do Cariri": [],
-		"São Benedito": [],
-		"São Gonçalo do Amarante": [],
-		"São João do Jaguaribe": [],
-		"São Luís do Curu": [],
-		"Senador Pompeu": [],
-		"Senador Sá": [],
-		"Sobral": [],
-		"Solonópole": [],
-		"Tabuleiro do Norte": [],
-		"Tamboril": [],
-		"Tarrafas": [],
-		"Tauá": [],
-		"Tejuçuoca": [],
-		"Tianguá": [],
-		"Trairi": [],
-		"Tururu": [],
-		"Ubajara": [],
-		"Umari": [],
-		"Umirim": [],
-		"Uruburetama": [],
-		"Uruoca": [],
-		"Varjota": [],
-		"Várzea Alegre": [],
-		"Viçosa do Ceará": []
+		"Abaiara": {
+			"name": "Abaiara"
+		},
+		"Acarape": {
+			"name": "Acarape"
+		},
+		"Acaraú": {
+			"name": "Acaraú"
+		},
+		"Acopiara": {
+			"name": "Acopiara"
+		},
+		"Aiuaba": {
+			"name": "Aiuaba"
+		},
+		"Alcântaras": {
+			"name": "Alcântaras"
+		},
+		"Altaneira": {
+			"name": "Altaneira"
+		},
+		"Alto Santo": {
+			"name": "Alto Santo"
+		},
+		"Amontada": {
+			"name": "Amontada"
+		},
+		"Antonina do Norte": {
+			"name": "Antonina do Norte"
+		},
+		"Apuiarés": {
+			"name": "Apuiarés"
+		},
+		"Aquiraz": {
+			"name": "Aquiraz"
+		},
+		"Aracati": {
+			"name": "Aracati"
+		},
+		"Aracoiaba": {
+			"name": "Aracoiaba"
+		},
+		"Ararendá": {
+			"name": "Ararendá"
+		},
+		"Araripe": {
+			"name": "Araripe"
+		},
+		"Aratuba": {
+			"name": "Aratuba"
+		},
+		"Arneiroz": {
+			"name": "Arneiroz"
+		},
+		"Assaré": {
+			"name": "Assaré"
+		},
+		"Aurora": {
+			"name": "Aurora"
+		},
+		"Baixio": {
+			"name": "Baixio"
+		},
+		"Banabuiú": {
+			"name": "Banabuiú"
+		},
+		"Barbalha": {
+			"name": "Barbalha"
+		},
+		"Barreira": {
+			"name": "Barreira"
+		},
+		"Barro": {
+			"name": "Barro"
+		},
+		"Barroquinha": {
+			"name": "Barroquinha"
+		},
+		"Baturité": {
+			"name": "Baturité"
+		},
+		"Beberibe": {
+			"name": "Beberibe"
+		},
+		"Bela Cruz": {
+			"name": "Bela Cruz"
+		},
+		"Boa Viagem": {
+			"name": "Boa Viagem"
+		},
+		"Brejo Santo": {
+			"name": "Brejo Santo"
+		},
+		"Camocim": {
+			"name": "Camocim"
+		},
+		"Campos Sales": {
+			"name": "Campos Sales"
+		},
+		"Canindé": {
+			"name": "Canindé"
+		},
+		"Capistrano": {
+			"name": "Capistrano"
+		},
+		"Caridade": {
+			"name": "Caridade"
+		},
+		"Cariré": {
+			"name": "Cariré"
+		},
+		"Caririaçú": {
+			"name": "Caririaçú"
+		},
+		"Cariús": {
+			"name": "Cariús"
+		},
+		"Carnaubal": {
+			"name": "Carnaubal"
+		},
+		"Cascavel": {
+			"name": "Cascavel"
+		},
+		"Catarina": {
+			"name": "Catarina"
+		},
+		"Catunda": {
+			"name": "Catunda"
+		},
+		"Caucaia": {
+			"name": "Caucaia"
+		},
+		"Cedro": {
+			"name": "Cedro"
+		},
+		"Chaval": {
+			"name": "Chaval"
+		},
+		"Choro": {
+			"name": "Choro"
+		},
+		"Chorozinho": {
+			"name": "Chorozinho"
+		},
+		"Coreaú": {
+			"name": "Coreaú"
+		},
+		"Crateús": {
+			"name": "Crateús"
+		},
+		"Crato": {
+			"name": "Crato"
+		},
+		"Croatá": {
+			"name": "Croatá"
+		},
+		"Cruz": {
+			"name": "Cruz"
+		},
+		"Deputado Irapuan Pinheiro": {
+			"name": "Deputado Irapuan Pinheiro"
+		},
+		"Ererê": {
+			"name": "Ererê"
+		},
+		"Eusébio": {
+			"name": "Eusébio"
+		},
+		"Farias Brito": {
+			"name": "Farias Brito"
+		},
+		"Forquilha": {
+			"name": "Forquilha"
+		},
+		"Fortaleza": {
+			"name": "Fortaleza"
+		},
+		"Fortim": {
+			"name": "Fortim"
+		},
+		"Frecheirinha": {
+			"name": "Frecheirinha"
+		},
+		"General Sampaio": {
+			"name": "General Sampaio"
+		},
+		"Graça": {
+			"name": "Graça"
+		},
+		"Granja": {
+			"name": "Granja"
+		},
+		"Granjeiro": {
+			"name": "Granjeiro"
+		},
+		"Groaíras": {
+			"name": "Groaíras"
+		},
+		"Guaiúba": {
+			"name": "Guaiúba"
+		},
+		"Guaraciaba do Norte": {
+			"name": "Guaraciaba do Norte"
+		},
+		"Guaramiranga": {
+			"name": "Guaramiranga"
+		},
+		"Hidrolândia": {
+			"name": "Hidrolândia"
+		},
+		"Horizonte": {
+			"name": "Horizonte"
+		},
+		"Ibaretama": {
+			"name": "Ibaretama"
+		},
+		"Ibiapina": {
+			"name": "Ibiapina"
+		},
+		"Ibicuitinga": {
+			"name": "Ibicuitinga"
+		},
+		"Icapuí": {
+			"name": "Icapuí"
+		},
+		"Ico": {
+			"name": "Ico"
+		},
+		"Iguatu": {
+			"name": "Iguatu"
+		},
+		"Independencia": {
+			"name": "Independencia"
+		},
+		"Ipaporanga": {
+			"name": "Ipaporanga"
+		},
+		"Ipaumirim": {
+			"name": "Ipaumirim"
+		},
+		"Ipú": {
+			"name": "Ipú"
+		},
+		"Ipueiras": {
+			"name": "Ipueiras"
+		},
+		"Iracema": {
+			"name": "Iracema"
+		},
+		"Irauçuba": {
+			"name": "Irauçuba"
+		},
+		"Itaiçaba": {
+			"name": "Itaiçaba"
+		},
+		"Itaitinga": {
+			"name": "Itaitinga"
+		},
+		"Itapagé": {
+			"name": "Itapagé"
+		},
+		"Itapipoca": {
+			"name": "Itapipoca"
+		},
+		"Itapiúna": {
+			"name": "Itapiúna"
+		},
+		"Itarema": {
+			"name": "Itarema"
+		},
+		"Itatira": {
+			"name": "Itatira"
+		},
+		"Jaguaretama": {
+			"name": "Jaguaretama"
+		},
+		"Jaguaribara": {
+			"name": "Jaguaribara"
+		},
+		"Jaguaribe": {
+			"name": "Jaguaribe"
+		},
+		"Jaguaruana": {
+			"name": "Jaguaruana"
+		},
+		"Jardim": {
+			"name": "Jardim"
+		},
+		"Jati": {
+			"name": "Jati"
+		},
+		"Jijoca de Jericoacoara": {
+			"name": "Jijoca de Jericoacoara"
+		},
+		"Juazeiro do Norte": {
+			"name": "Juazeiro do Norte"
+		},
+		"Jucás": {
+			"name": "Jucás"
+		},
+		"Lavras da Mangabeira": {
+			"name": "Lavras da Mangabeira"
+		},
+		"Limoeiro do Norte": {
+			"name": "Limoeiro do Norte"
+		},
+		"Madalena": {
+			"name": "Madalena"
+		},
+		"Maracanaú": {
+			"name": "Maracanaú"
+		},
+		"Maranguape": {
+			"name": "Maranguape"
+		},
+		"Marco": {
+			"name": "Marco"
+		},
+		"Martinópole": {
+			"name": "Martinópole"
+		},
+		"Massapê": {
+			"name": "Massapê"
+		},
+		"Mauriti": {
+			"name": "Mauriti"
+		},
+		"Meruoca": {
+			"name": "Meruoca"
+		},
+		"Milagres": {
+			"name": "Milagres"
+		},
+		"Milhã": {
+			"name": "Milhã"
+		},
+		"Miraíma": {
+			"name": "Miraíma"
+		},
+		"Missão Velha": {
+			"name": "Missão Velha"
+		},
+		"Mombaça": {
+			"name": "Mombaça"
+		},
+		"Monsenhor Tabosa": {
+			"name": "Monsenhor Tabosa"
+		},
+		"Morada Nova": {
+			"name": "Morada Nova"
+		},
+		"Moraújo": {
+			"name": "Moraújo"
+		},
+		"Morrinhos": {
+			"name": "Morrinhos"
+		},
+		"Mucambo": {
+			"name": "Mucambo"
+		},
+		"Mulungú": {
+			"name": "Mulungú"
+		},
+		"Nova Olinda": {
+			"name": "Nova Olinda"
+		},
+		"Nova Russas": {
+			"name": "Nova Russas"
+		},
+		"Novo Oriente": {
+			"name": "Novo Oriente"
+		},
+		"Ocara": {
+			"name": "Ocara"
+		},
+		"Orós": {
+			"name": "Orós"
+		},
+		"Pacajús": {
+			"name": "Pacajús"
+		},
+		"Pacatuba": {
+			"name": "Pacatuba"
+		},
+		"Pacoti": {
+			"name": "Pacoti"
+		},
+		"Pacujá": {
+			"name": "Pacujá"
+		},
+		"Palhano": {
+			"name": "Palhano"
+		},
+		"Palmácia": {
+			"name": "Palmácia"
+		},
+		"Paracuru": {
+			"name": "Paracuru"
+		},
+		"Paraipaba": {
+			"name": "Paraipaba"
+		},
+		"Parambu": {
+			"name": "Parambu"
+		},
+		"Paramoti": {
+			"name": "Paramoti"
+		},
+		"Pedra Branca": {
+			"name": "Pedra Branca"
+		},
+		"Penaforte": {
+			"name": "Penaforte"
+		},
+		"Pentecoste": {
+			"name": "Pentecoste"
+		},
+		"Pereiro": {
+			"name": "Pereiro"
+		},
+		"Pindoretama": {
+			"name": "Pindoretama"
+		},
+		"Piquet Carneiro": {
+			"name": "Piquet Carneiro"
+		},
+		"Pires Ferreira": {
+			"name": "Pires Ferreira"
+		},
+		"Poranga": {
+			"name": "Poranga"
+		},
+		"Porteiras": {
+			"name": "Porteiras"
+		},
+		"Potengi": {
+			"name": "Potengi"
+		},
+		"Potiretama": {
+			"name": "Potiretama"
+		},
+		"Quiterianópolis": {
+			"name": "Quiterianópolis"
+		},
+		"Quixadá": {
+			"name": "Quixadá"
+		},
+		"Quixelô": {
+			"name": "Quixelô"
+		},
+		"Quixeramobim": {
+			"name": "Quixeramobim"
+		},
+		"Quixeré": {
+			"name": "Quixeré"
+		},
+		"Redenção": {
+			"name": "Redenção"
+		},
+		"Reriutaba": {
+			"name": "Reriutaba"
+		},
+		"Russas": {
+			"name": "Russas"
+		},
+		"Saboeiro": {
+			"name": "Saboeiro"
+		},
+		"Salitre": {
+			"name": "Salitre"
+		},
+		"Santa Quitéria": {
+			"name": "Santa Quitéria"
+		},
+		"Santana do Acaraú": {
+			"name": "Santana do Acaraú"
+		},
+		"Santana do Cariri": {
+			"name": "Santana do Cariri"
+		},
+		"São Benedito": {
+			"name": "São Benedito"
+		},
+		"São Gonçalo do Amarante": {
+			"name": "São Gonçalo do Amarante"
+		},
+		"São João do Jaguaribe": {
+			"name": "São João do Jaguaribe"
+		},
+		"São Luís do Curu": {
+			"name": "São Luís do Curu"
+		},
+		"Senador Pompeu": {
+			"name": "Senador Pompeu"
+		},
+		"Senador Sá": {
+			"name": "Senador Sá"
+		},
+		"Sobral": {
+			"name": "Sobral"
+		},
+		"Solonópole": {
+			"name": "Solonópole"
+		},
+		"Tabuleiro do Norte": {
+			"name": "Tabuleiro do Norte"
+		},
+		"Tamboril": {
+			"name": "Tamboril"
+		},
+		"Tarrafas": {
+			"name": "Tarrafas"
+		},
+		"Tauá": {
+			"name": "Tauá"
+		},
+		"Tejuçuoca": {
+			"name": "Tejuçuoca"
+		},
+		"Tianguá": {
+			"name": "Tianguá"
+		},
+		"Trairi": {
+			"name": "Trairi"
+		},
+		"Tururu": {
+			"name": "Tururu"
+		},
+		"Ubajara": {
+			"name": "Ubajara"
+		},
+		"Umari": {
+			"name": "Umari"
+		},
+		"Umirim": {
+			"name": "Umirim"
+		},
+		"Uruburetama": {
+			"name": "Uruburetama"
+		},
+		"Uruoca": {
+			"name": "Uruoca"
+		},
+		"Varjota": {
+			"name": "Varjota"
+		},
+		"Várzea Alegre": {
+			"name": "Várzea Alegre"
+		},
+		"Viçosa do Ceará": {
+			"name": "Viçosa do Ceará"
+		}
 	}
 }

@@ -5,21 +5,53 @@
 		"AP"
 	],
 	"subdivisions": {
-		"Amapá": [],
-		"Calçoene": [],
-		"Cutias": [],
-		"Ferreira Gomes": [],
-		"Itaubal": [],
-		"Laranjal do Jari": [],
-		"Macapá": [],
-		"Mazagão": [],
-		"Oiapoque": [],
-		"Pedra Branca do Amapari": [],
-		"Porto Grande": [],
-		"Pracuúba": [],
-		"Santana": [],
-		"Serra do Navio": [],
-		"Tartarugalzinho": [],
-		"Vitória do Jari": []
+		"Amapá": {
+			"name": "Amapá"
+		},
+		"Calçoene": {
+			"name": "Calçoene"
+		},
+		"Cutias": {
+			"name": "Cutias"
+		},
+		"Ferreira Gomes": {
+			"name": "Ferreira Gomes"
+		},
+		"Itaubal": {
+			"name": "Itaubal"
+		},
+		"Laranjal do Jari": {
+			"name": "Laranjal do Jari"
+		},
+		"Macapá": {
+			"name": "Macapá"
+		},
+		"Mazagão": {
+			"name": "Mazagão"
+		},
+		"Oiapoque": {
+			"name": "Oiapoque"
+		},
+		"Pedra Branca do Amapari": {
+			"name": "Pedra Branca do Amapari"
+		},
+		"Porto Grande": {
+			"name": "Porto Grande"
+		},
+		"Pracuúba": {
+			"name": "Pracuúba"
+		},
+		"Santana": {
+			"name": "Santana"
+		},
+		"Serra do Navio": {
+			"name": "Serra do Navio"
+		},
+		"Tartarugalzinho": {
+			"name": "Tartarugalzinho"
+		},
+		"Vitória do Jari": {
+			"name": "Vitória do Jari"
+		}
 	}
 }

@@ -5,228 +5,674 @@
 		"PI"
 	],
 	"subdivisions": {
-		"Acauã": [],
-		"Agricolândia": [],
-		"Água Branca": [],
-		"Alagoinha do Piauí": [],
-		"Alegrete do Piauí": [],
-		"Alto Longá": [],
-		"Altos": [],
-		"Alvorada do Gurguéia": [],
-		"Amarante": [],
-		"Angical do Piauí": [],
-		"Anísio de Abreu": [],
-		"Antônio Almeida": [],
-		"Aroazes": [],
-		"Aroeiras do Itaim": [],
-		"Arraial": [],
-		"Assunção do Piauí": [],
-		"Avelino Lopes": [],
-		"Baixa Grande do Ribeiro": [],
-		"Barra d'Alcântara": [],
-		"Barras": [],
-		"Barreiras do Piauí": [],
-		"Barro Duro": [],
-		"Batalha": [],
-		"Bela Vista do Piauí": [],
-		"Belém do Piauí": [],
-		"Beneditinos": [],
-		"Bertolínia": [],
-		"Betânia do Piauí": [],
-		"Boa Hora": [],
-		"Bocaina": [],
-		"Bom Jesus": [],
-		"Bom Princípio do Piauí": [],
-		"Bonfim do Piauí": [],
-		"Boqueirão do Piauí": [],
-		"Brasileira": [],
-		"Brejo do Piauí": [],
-		"Buriti dos Lopes": [],
-		"Buriti dos Montes": [],
-		"Cabeceiras do Piauí": [],
-		"Cajazeiras do Piauí": [],
-		"Cajueiro da Praia": [],
-		"Caldeirão Grande do Piauí": [],
-		"Campinas do Piauí": [],
-		"Campo Alegre do Fidalgo": [],
-		"Campo Grande do Piauí": [],
-		"Campo Largo do Piauí": [],
-		"Campo Maior": [],
-		"Canavieira": [],
-		"Canto do Buriti": [],
-		"Capitão de Campos": [],
-		"Capitão Gervásio Oliveira": [],
-		"Caracol": [],
-		"Caraúbas do Piauí": [],
-		"Caridade do Piauí": [],
-		"Castelo do Piauí": [],
-		"Caxingó": [],
-		"Cocal": [],
-		"Cocal de Telha": [],
-		"Cocal dos Alves": [],
-		"Coivaras": [],
-		"Colônia do Gurguéia": [],
-		"Colônia do Piauí": [],
-		"Conceição do Canindé": [],
-		"Coronel José Dias": [],
-		"Corrente": [],
-		"Cristalândia do Piauí": [],
-		"Cristino Castro": [],
-		"Curimatá": [],
-		"Currais": [],
-		"Curral Novo do Piauí": [],
-		"Curralinhos": [],
-		"Demerval Lobão": [],
-		"Dirceu Arcoverde": [],
-		"Dom Expedito Lopes": [],
-		"Dom Inocêncio": [],
-		"Domingos Mourão": [],
-		"Elesbão Veloso": [],
-		"Eliseu Martins": [],
-		"Esperantina": [],
-		"Fartura do Piauí": [],
-		"Flores do Piauí": [],
-		"Floresta do Piauí": [],
-		"Floriano": [],
-		"Francinópolis": [],
-		"Francisco Ayres": [],
-		"Francisco Macedo": [],
-		"Francisco Santos": [],
-		"Fronteiras": [],
-		"Geminiano": [],
-		"Gilbués": [],
-		"Guadalupe": [],
-		"Guaribas": [],
-		"Hugo Napoleão": [],
-		"Ilha Grande": [],
-		"Inhuma": [],
-		"Ipiranga do Piauí": [],
-		"Isaías Coelho": [],
-		"Itainópolis": [],
-		"Itaueira": [],
-		"Jacobina do Piauí": [],
-		"Jaicós": [],
-		"Jardim do Mulato": [],
-		"Jatobá do Piauí": [],
-		"Jerumenha": [],
-		"João Costa": [],
-		"Joaquim Pires": [],
-		"Joca Marques": [],
-		"José de Freitas": [],
-		"Juazeiro do Piauí": [],
-		"Julio Borges": [],
-		"Jurema": [],
-		"Lagoa Alegre": [],
-		"Lagoa de São Francisco": [],
-		"Lagoa do Barro do Piauí": [],
-		"Lagoa do Piauí": [],
-		"Lagoa do Sítio": [],
-		"Lagoinha do Piauí": [],
-		"Landri Sales": [],
-		"Luís Correia": [],
-		"Luzilândia": [],
-		"Madeiro": [],
-		"Manoel Emídio": [],
-		"Marcolândia": [],
-		"Marcos Parente": [],
-		"Massapê do Piauí": [],
-		"Matias Olímpio": [],
-		"Miguel Alves": [],
-		"Miguel Leão": [],
-		"Milton Brandão": [],
-		"Monsenhor Gil": [],
-		"Monsenhor Hipólito": [],
-		"Monte Alegre do Piauí": [],
-		"Morro Cabeça no Tempo": [],
-		"Morro do Chapéu do Piauí": [],
-		"Murici dos Portelas": [],
-		"Nazaré do Piauí": [],
-		"Nossa Senhora de Nazaré": [],
-		"Nossa Senhora dos Remédios": [],
-		"Nova Santa Rita": [],
-		"Novo Oriente do Piauí": [],
-		"Novo Santo Antônio": [],
-		"Oeiras": [],
-		"Olho d'Água do Piauí": [],
-		"Padre Marcos": [],
-		"Paes Landim": [],
-		"Pajeú do Piauí": [],
-		"Palmeira do Piauí": [],
-		"Palmeirais": [],
-		"Paquetá": [],
-		"Parnaguá": [],
-		"Parnaíba": [],
-		"Passagem Franca do Piauí": [],
-		"Patos do Piauí": [],
-		"Pau d'Arco do Piauí": [],
-		"Paulistana": [],
-		"Pavussu": [],
-		"Pedro II": [],
-		"Pedro Laurentino": [],
-		"Picos": [],
-		"Pimenteiras": [],
-		"Pio IX": [],
-		"Piracuruca": [],
-		"Piripiri": [],
-		"Porto": [],
-		"Porto Alegre do Piauí": [],
-		"Prata do Piauí": [],
-		"Queimada Nova": [],
-		"Redenção do Gurguéia": [],
-		"Regeneração": [],
-		"Riacho Frio": [],
-		"Ribeira do Piauí": [],
-		"Ribeiro Gonçalves": [],
-		"Rio Grande do Piauí": [],
-		"Santa Cruz do Piauí": [],
-		"Santa Cruz dos Milagres": [],
-		"Santa Filomena": [],
-		"Santa Luz": [],
-		"Santa Rosa do Piauí": [],
-		"Santana do Piauí": [],
-		"Santo Antônio de Lisboa": [],
-		"Santo Antônio dos Milagres": [],
-		"Santo Inácio do Piauí": [],
-		"São Braz do Piauí": [],
-		"São Félix do Piauí": [],
-		"São Francisco de Assis do Piauí": [],
-		"São Francisco do Piauí": [],
-		"São Gonçalo do Gurguéia": [],
-		"São Gonçalo do Piauí": [],
-		"São João da Canabrava": [],
-		"São João da Fronteira": [],
-		"São João da Serra": [],
-		"São João da Varjota": [],
-		"São João do Arraial": [],
-		"São João do Piauí": [],
-		"São José do Divino": [],
-		"São José do Peixe": [],
-		"São José do Piauí": [],
-		"São Julião": [],
-		"São Lourenço do Piauí": [],
-		"São Luís do Piauí": [],
-		"São Miguel da Baixa Grande": [],
-		"São Miguel do Fidalgo": [],
-		"São Miguel do Tapuio": [],
-		"São Pedro do Piauí": [],
-		"São Raimundo Nonato": [],
-		"Sebastião Barros": [],
-		"Sebastião Leal": [],
-		"Sigefredo Pacheco": [],
-		"Simões": [],
-		"Simplício Mendes": [],
-		"Socorro do Piauí": [],
-		"Sussuapara": [],
-		"Tamboril do Piauí": [],
-		"Tanque do Piauí": [],
-		"Teresina": [],
-		"União": [],
-		"Uruçuí": [],
-		"Valença do Piauí": [],
-		"Várzea Branca": [],
-		"Várzea Grande": [],
-		"Vera Mendes": [],
-		"Vila Nova do Piauí": [],
-		"Wall Ferraz": []
+		"Acauã": {
+			"name": "Acauã"
+		},
+		"Agricolândia": {
+			"name": "Agricolândia"
+		},
+		"Água Branca": {
+			"name": "Água Branca"
+		},
+		"Alagoinha do Piauí": {
+			"name": "Alagoinha do Piauí"
+		},
+		"Alegrete do Piauí": {
+			"name": "Alegrete do Piauí"
+		},
+		"Alto Longá": {
+			"name": "Alto Longá"
+		},
+		"Altos": {
+			"name": "Altos"
+		},
+		"Alvorada do Gurguéia": {
+			"name": "Alvorada do Gurguéia"
+		},
+		"Amarante": {
+			"name": "Amarante"
+		},
+		"Angical do Piauí": {
+			"name": "Angical do Piauí"
+		},
+		"Anísio de Abreu": {
+			"name": "Anísio de Abreu"
+		},
+		"Antônio Almeida": {
+			"name": "Antônio Almeida"
+		},
+		"Aroazes": {
+			"name": "Aroazes"
+		},
+		"Aroeiras do Itaim": {
+			"name": "Aroeiras do Itaim"
+		},
+		"Arraial": {
+			"name": "Arraial"
+		},
+		"Assunção do Piauí": {
+			"name": "Assunção do Piauí"
+		},
+		"Avelino Lopes": {
+			"name": "Avelino Lopes"
+		},
+		"Baixa Grande do Ribeiro": {
+			"name": "Baixa Grande do Ribeiro"
+		},
+		"Barra d'Alcântara": {
+			"name": "Barra d'Alcântara"
+		},
+		"Barras": {
+			"name": "Barras"
+		},
+		"Barreiras do Piauí": {
+			"name": "Barreiras do Piauí"
+		},
+		"Barro Duro": {
+			"name": "Barro Duro"
+		},
+		"Batalha": {
+			"name": "Batalha"
+		},
+		"Bela Vista do Piauí": {
+			"name": "Bela Vista do Piauí"
+		},
+		"Belém do Piauí": {
+			"name": "Belém do Piauí"
+		},
+		"Beneditinos": {
+			"name": "Beneditinos"
+		},
+		"Bertolínia": {
+			"name": "Bertolínia"
+		},
+		"Betânia do Piauí": {
+			"name": "Betânia do Piauí"
+		},
+		"Boa Hora": {
+			"name": "Boa Hora"
+		},
+		"Bocaina": {
+			"name": "Bocaina"
+		},
+		"Bom Jesus": {
+			"name": "Bom Jesus"
+		},
+		"Bom Princípio do Piauí": {
+			"name": "Bom Princípio do Piauí"
+		},
+		"Bonfim do Piauí": {
+			"name": "Bonfim do Piauí"
+		},
+		"Boqueirão do Piauí": {
+			"name": "Boqueirão do Piauí"
+		},
+		"Brasileira": {
+			"name": "Brasileira"
+		},
+		"Brejo do Piauí": {
+			"name": "Brejo do Piauí"
+		},
+		"Buriti dos Lopes": {
+			"name": "Buriti dos Lopes"
+		},
+		"Buriti dos Montes": {
+			"name": "Buriti dos Montes"
+		},
+		"Cabeceiras do Piauí": {
+			"name": "Cabeceiras do Piauí"
+		},
+		"Cajazeiras do Piauí": {
+			"name": "Cajazeiras do Piauí"
+		},
+		"Cajueiro da Praia": {
+			"name": "Cajueiro da Praia"
+		},
+		"Caldeirão Grande do Piauí": {
+			"name": "Caldeirão Grande do Piauí"
+		},
+		"Campinas do Piauí": {
+			"name": "Campinas do Piauí"
+		},
+		"Campo Alegre do Fidalgo": {
+			"name": "Campo Alegre do Fidalgo"
+		},
+		"Campo Grande do Piauí": {
+			"name": "Campo Grande do Piauí"
+		},
+		"Campo Largo do Piauí": {
+			"name": "Campo Largo do Piauí"
+		},
+		"Campo Maior": {
+			"name": "Campo Maior"
+		},
+		"Canavieira": {
+			"name": "Canavieira"
+		},
+		"Canto do Buriti": {
+			"name": "Canto do Buriti"
+		},
+		"Capitão de Campos": {
+			"name": "Capitão de Campos"
+		},
+		"Capitão Gervásio Oliveira": {
+			"name": "Capitão Gervásio Oliveira"
+		},
+		"Caracol": {
+			"name": "Caracol"
+		},
+		"Caraúbas do Piauí": {
+			"name": "Caraúbas do Piauí"
+		},
+		"Caridade do Piauí": {
+			"name": "Caridade do Piauí"
+		},
+		"Castelo do Piauí": {
+			"name": "Castelo do Piauí"
+		},
+		"Caxingó": {
+			"name": "Caxingó"
+		},
+		"Cocal": {
+			"name": "Cocal"
+		},
+		"Cocal de Telha": {
+			"name": "Cocal de Telha"
+		},
+		"Cocal dos Alves": {
+			"name": "Cocal dos Alves"
+		},
+		"Coivaras": {
+			"name": "Coivaras"
+		},
+		"Colônia do Gurguéia": {
+			"name": "Colônia do Gurguéia"
+		},
+		"Colônia do Piauí": {
+			"name": "Colônia do Piauí"
+		},
+		"Conceição do Canindé": {
+			"name": "Conceição do Canindé"
+		},
+		"Coronel José Dias": {
+			"name": "Coronel José Dias"
+		},
+		"Corrente": {
+			"name": "Corrente"
+		},
+		"Cristalândia do Piauí": {
+			"name": "Cristalândia do Piauí"
+		},
+		"Cristino Castro": {
+			"name": "Cristino Castro"
+		},
+		"Curimatá": {
+			"name": "Curimatá"
+		},
+		"Currais": {
+			"name": "Currais"
+		},
+		"Curral Novo do Piauí": {
+			"name": "Curral Novo do Piauí"
+		},
+		"Curralinhos": {
+			"name": "Curralinhos"
+		},
+		"Demerval Lobão": {
+			"name": "Demerval Lobão"
+		},
+		"Dirceu Arcoverde": {
+			"name": "Dirceu Arcoverde"
+		},
+		"Dom Expedito Lopes": {
+			"name": "Dom Expedito Lopes"
+		},
+		"Dom Inocêncio": {
+			"name": "Dom Inocêncio"
+		},
+		"Domingos Mourão": {
+			"name": "Domingos Mourão"
+		},
+		"Elesbão Veloso": {
+			"name": "Elesbão Veloso"
+		},
+		"Eliseu Martins": {
+			"name": "Eliseu Martins"
+		},
+		"Esperantina": {
+			"name": "Esperantina"
+		},
+		"Fartura do Piauí": {
+			"name": "Fartura do Piauí"
+		},
+		"Flores do Piauí": {
+			"name": "Flores do Piauí"
+		},
+		"Floresta do Piauí": {
+			"name": "Floresta do Piauí"
+		},
+		"Floriano": {
+			"name": "Floriano"
+		},
+		"Francinópolis": {
+			"name": "Francinópolis"
+		},
+		"Francisco Ayres": {
+			"name": "Francisco Ayres"
+		},
+		"Francisco Macedo": {
+			"name": "Francisco Macedo"
+		},
+		"Francisco Santos": {
+			"name": "Francisco Santos"
+		},
+		"Fronteiras": {
+			"name": "Fronteiras"
+		},
+		"Geminiano": {
+			"name": "Geminiano"
+		},
+		"Gilbués": {
+			"name": "Gilbués"
+		},
+		"Guadalupe": {
+			"name": "Guadalupe"
+		},
+		"Guaribas": {
+			"name": "Guaribas"
+		},
+		"Hugo Napoleão": {
+			"name": "Hugo Napoleão"
+		},
+		"Ilha Grande": {
+			"name": "Ilha Grande"
+		},
+		"Inhuma": {
+			"name": "Inhuma"
+		},
+		"Ipiranga do Piauí": {
+			"name": "Ipiranga do Piauí"
+		},
+		"Isaías Coelho": {
+			"name": "Isaías Coelho"
+		},
+		"Itainópolis": {
+			"name": "Itainópolis"
+		},
+		"Itaueira": {
+			"name": "Itaueira"
+		},
+		"Jacobina do Piauí": {
+			"name": "Jacobina do Piauí"
+		},
+		"Jaicós": {
+			"name": "Jaicós"
+		},
+		"Jardim do Mulato": {
+			"name": "Jardim do Mulato"
+		},
+		"Jatobá do Piauí": {
+			"name": "Jatobá do Piauí"
+		},
+		"Jerumenha": {
+			"name": "Jerumenha"
+		},
+		"João Costa": {
+			"name": "João Costa"
+		},
+		"Joaquim Pires": {
+			"name": "Joaquim Pires"
+		},
+		"Joca Marques": {
+			"name": "Joca Marques"
+		},
+		"José de Freitas": {
+			"name": "José de Freitas"
+		},
+		"Juazeiro do Piauí": {
+			"name": "Juazeiro do Piauí"
+		},
+		"Julio Borges": {
+			"name": "Julio Borges"
+		},
+		"Jurema": {
+			"name": "Jurema"
+		},
+		"Lagoa Alegre": {
+			"name": "Lagoa Alegre"
+		},
+		"Lagoa de São Francisco": {
+			"name": "Lagoa de São Francisco"
+		},
+		"Lagoa do Barro do Piauí": {
+			"name": "Lagoa do Barro do Piauí"
+		},
+		"Lagoa do Piauí": {
+			"name": "Lagoa do Piauí"
+		},
+		"Lagoa do Sítio": {
+			"name": "Lagoa do Sítio"
+		},
+		"Lagoinha do Piauí": {
+			"name": "Lagoinha do Piauí"
+		},
+		"Landri Sales": {
+			"name": "Landri Sales"
+		},
+		"Luís Correia": {
+			"name": "Luís Correia"
+		},
+		"Luzilândia": {
+			"name": "Luzilândia"
+		},
+		"Madeiro": {
+			"name": "Madeiro"
+		},
+		"Manoel Emídio": {
+			"name": "Manoel Emídio"
+		},
+		"Marcolândia": {
+			"name": "Marcolândia"
+		},
+		"Marcos Parente": {
+			"name": "Marcos Parente"
+		},
+		"Massapê do Piauí": {
+			"name": "Massapê do Piauí"
+		},
+		"Matias Olímpio": {
+			"name": "Matias Olímpio"
+		},
+		"Miguel Alves": {
+			"name": "Miguel Alves"
+		},
+		"Miguel Leão": {
+			"name": "Miguel Leão"
+		},
+		"Milton Brandão": {
+			"name": "Milton Brandão"
+		},
+		"Monsenhor Gil": {
+			"name": "Monsenhor Gil"
+		},
+		"Monsenhor Hipólito": {
+			"name": "Monsenhor Hipólito"
+		},
+		"Monte Alegre do Piauí": {
+			"name": "Monte Alegre do Piauí"
+		},
+		"Morro Cabeça no Tempo": {
+			"name": "Morro Cabeça no Tempo"
+		},
+		"Morro do Chapéu do Piauí": {
+			"name": "Morro do Chapéu do Piauí"
+		},
+		"Murici dos Portelas": {
+			"name": "Murici dos Portelas"
+		},
+		"Nazaré do Piauí": {
+			"name": "Nazaré do Piauí"
+		},
+		"Nossa Senhora de Nazaré": {
+			"name": "Nossa Senhora de Nazaré"
+		},
+		"Nossa Senhora dos Remédios": {
+			"name": "Nossa Senhora dos Remédios"
+		},
+		"Nova Santa Rita": {
+			"name": "Nova Santa Rita"
+		},
+		"Novo Oriente do Piauí": {
+			"name": "Novo Oriente do Piauí"
+		},
+		"Novo Santo Antônio": {
+			"name": "Novo Santo Antônio"
+		},
+		"Oeiras": {
+			"name": "Oeiras"
+		},
+		"Olho d'Água do Piauí": {
+			"name": "Olho d'Água do Piauí"
+		},
+		"Padre Marcos": {
+			"name": "Padre Marcos"
+		},
+		"Paes Landim": {
+			"name": "Paes Landim"
+		},
+		"Pajeú do Piauí": {
+			"name": "Pajeú do Piauí"
+		},
+		"Palmeira do Piauí": {
+			"name": "Palmeira do Piauí"
+		},
+		"Palmeirais": {
+			"name": "Palmeirais"
+		},
+		"Paquetá": {
+			"name": "Paquetá"
+		},
+		"Parnaguá": {
+			"name": "Parnaguá"
+		},
+		"Parnaíba": {
+			"name": "Parnaíba"
+		},
+		"Passagem Franca do Piauí": {
+			"name": "Passagem Franca do Piauí"
+		},
+		"Patos do Piauí": {
+			"name": "Patos do Piauí"
+		},
+		"Pau d'Arco do Piauí": {
+			"name": "Pau d'Arco do Piauí"
+		},
+		"Paulistana": {
+			"name": "Paulistana"
+		},
+		"Pavussu": {
+			"name": "Pavussu"
+		},
+		"Pedro II": {
+			"name": "Pedro II"
+		},
+		"Pedro Laurentino": {
+			"name": "Pedro Laurentino"
+		},
+		"Picos": {
+			"name": "Picos"
+		},
+		"Pimenteiras": {
+			"name": "Pimenteiras"
+		},
+		"Pio IX": {
+			"name": "Pio IX"
+		},
+		"Piracuruca": {
+			"name": "Piracuruca"
+		},
+		"Piripiri": {
+			"name": "Piripiri"
+		},
+		"Porto": {
+			"name": "Porto"
+		},
+		"Porto Alegre do Piauí": {
+			"name": "Porto Alegre do Piauí"
+		},
+		"Prata do Piauí": {
+			"name": "Prata do Piauí"
+		},
+		"Queimada Nova": {
+			"name": "Queimada Nova"
+		},
+		"Redenção do Gurguéia": {
+			"name": "Redenção do Gurguéia"
+		},
+		"Regeneração": {
+			"name": "Regeneração"
+		},
+		"Riacho Frio": {
+			"name": "Riacho Frio"
+		},
+		"Ribeira do Piauí": {
+			"name": "Ribeira do Piauí"
+		},
+		"Ribeiro Gonçalves": {
+			"name": "Ribeiro Gonçalves"
+		},
+		"Rio Grande do Piauí": {
+			"name": "Rio Grande do Piauí"
+		},
+		"Santa Cruz do Piauí": {
+			"name": "Santa Cruz do Piauí"
+		},
+		"Santa Cruz dos Milagres": {
+			"name": "Santa Cruz dos Milagres"
+		},
+		"Santa Filomena": {
+			"name": "Santa Filomena"
+		},
+		"Santa Luz": {
+			"name": "Santa Luz"
+		},
+		"Santa Rosa do Piauí": {
+			"name": "Santa Rosa do Piauí"
+		},
+		"Santana do Piauí": {
+			"name": "Santana do Piauí"
+		},
+		"Santo Antônio de Lisboa": {
+			"name": "Santo Antônio de Lisboa"
+		},
+		"Santo Antônio dos Milagres": {
+			"name": "Santo Antônio dos Milagres"
+		},
+		"Santo Inácio do Piauí": {
+			"name": "Santo Inácio do Piauí"
+		},
+		"São Braz do Piauí": {
+			"name": "São Braz do Piauí"
+		},
+		"São Félix do Piauí": {
+			"name": "São Félix do Piauí"
+		},
+		"São Francisco de Assis do Piauí": {
+			"name": "São Francisco de Assis do Piauí"
+		},
+		"São Francisco do Piauí": {
+			"name": "São Francisco do Piauí"
+		},
+		"São Gonçalo do Gurguéia": {
+			"name": "São Gonçalo do Gurguéia"
+		},
+		"São Gonçalo do Piauí": {
+			"name": "São Gonçalo do Piauí"
+		},
+		"São João da Canabrava": {
+			"name": "São João da Canabrava"
+		},
+		"São João da Fronteira": {
+			"name": "São João da Fronteira"
+		},
+		"São João da Serra": {
+			"name": "São João da Serra"
+		},
+		"São João da Varjota": {
+			"name": "São João da Varjota"
+		},
+		"São João do Arraial": {
+			"name": "São João do Arraial"
+		},
+		"São João do Piauí": {
+			"name": "São João do Piauí"
+		},
+		"São José do Divino": {
+			"name": "São José do Divino"
+		},
+		"São José do Peixe": {
+			"name": "São José do Peixe"
+		},
+		"São José do Piauí": {
+			"name": "São José do Piauí"
+		},
+		"São Julião": {
+			"name": "São Julião"
+		},
+		"São Lourenço do Piauí": {
+			"name": "São Lourenço do Piauí"
+		},
+		"São Luís do Piauí": {
+			"name": "São Luís do Piauí"
+		},
+		"São Miguel da Baixa Grande": {
+			"name": "São Miguel da Baixa Grande"
+		},
+		"São Miguel do Fidalgo": {
+			"name": "São Miguel do Fidalgo"
+		},
+		"São Miguel do Tapuio": {
+			"name": "São Miguel do Tapuio"
+		},
+		"São Pedro do Piauí": {
+			"name": "São Pedro do Piauí"
+		},
+		"São Raimundo Nonato": {
+			"name": "São Raimundo Nonato"
+		},
+		"Sebastião Barros": {
+			"name": "Sebastião Barros"
+		},
+		"Sebastião Leal": {
+			"name": "Sebastião Leal"
+		},
+		"Sigefredo Pacheco": {
+			"name": "Sigefredo Pacheco"
+		},
+		"Simões": {
+			"name": "Simões"
+		},
+		"Simplício Mendes": {
+			"name": "Simplício Mendes"
+		},
+		"Socorro do Piauí": {
+			"name": "Socorro do Piauí"
+		},
+		"Sussuapara": {
+			"name": "Sussuapara"
+		},
+		"Tamboril do Piauí": {
+			"name": "Tamboril do Piauí"
+		},
+		"Tanque do Piauí": {
+			"name": "Tanque do Piauí"
+		},
+		"Teresina": {
+			"name": "Teresina"
+		},
+		"União": {
+			"name": "União"
+		},
+		"Uruçuí": {
+			"name": "Uruçuí"
+		},
+		"Valença do Piauí": {
+			"name": "Valença do Piauí"
+		},
+		"Várzea Branca": {
+			"name": "Várzea Branca"
+		},
+		"Várzea Grande": {
+			"name": "Várzea Grande"
+		},
+		"Vera Mendes": {
+			"name": "Vera Mendes"
+		},
+		"Vila Nova do Piauí": {
+			"name": "Vila Nova do Piauí"
+		},
+		"Wall Ferraz": {
+			"name": "Wall Ferraz"
+		}
 	}
 }

@@ -5,107 +5,311 @@
 		"AL"
 	],
 	"subdivisions": {
-		"Água Branca": [],
-		"Anadia": [],
-		"Arapiraca": [],
-		"Atalaia": [],
-		"Barra de Santo Antônio": [],
-		"Barra de São Miguel": [],
-		"Batalha": [],
-		"Belém": [],
-		"Belo Monte": [],
-		"Boca da Mata": [],
-		"Branquinha": [],
-		"Cacimbinhas": [],
-		"Cajueiro": [],
-		"Campestre": [],
-		"Campo Alegre": [],
-		"Campo Grande": [],
-		"Canapi": [],
-		"Capela": [],
-		"Carneiros": [],
-		"Chã Preta": [],
-		"Coité do Nóia": [],
-		"Colônia Leopoldina": [],
-		"Coqueiro Seco": [],
-		"Coruripe": [],
-		"Craíbas": [],
-		"Delmiro Gouveia": [],
-		"Dois Riachos": [],
-		"Estrela de Alagoas": [],
-		"Feira Grande": [],
-		"Feliz Deserto": [],
-		"Flexeiras": [],
-		"Girau do Ponciano": [],
-		"Ibateguara": [],
-		"Igaci": [],
-		"Igreja Nova": [],
-		"Inhapi": [],
-		"Jacaré dos Homens": [],
-		"Jacuípe": [],
-		"Japaratinga": [],
-		"Jaramataia": [],
-		"Jequiá da Praia": [],
-		"Joaquim Gomes": [],
-		"Jundiá": [],
-		"Junqueiro": [],
-		"Lagoa da Canoa": [],
-		"Limoeiro de Anadia": [],
-		"Maceió": [],
-		"Major Isidoro": [],
-		"Mar Vermelho": [],
-		"Maragogi": [],
-		"Maravilha": [],
-		"Marechal Deodoro": [],
-		"Maribondo": [],
-		"Mata Grande": [],
-		"Matriz de Camaragibe": [],
-		"Messias": [],
-		"Minador do Negrão": [],
-		"Monteirópolis": [],
-		"Murici": [],
-		"Novo Lino": [],
-		"Olho d'Água das Flores": [],
-		"Olho d'Água do Casado": [],
-		"Olho d'Água Grande": [],
-		"Olivença": [],
-		"Ouro Branco": [],
-		"Palestina": [],
-		"Palmeira dos Índios": [],
-		"Pão de Açúcar": [],
-		"Pariconha": [],
-		"Paripueira": [],
-		"Passo de Camaragibe": [],
-		"Paulo Jacinto": [],
-		"Penedo": [],
-		"Piaçabuçu": [],
-		"Pilar": [],
-		"Pindoba": [],
-		"Piranhas": [],
-		"Poço das Trincheiras": [],
-		"Porto Calvo": [],
-		"Porto de Pedras": [],
-		"Porto Real do Colégio": [],
-		"Quebrangulo": [],
-		"Rio Largo": [],
-		"Roteiro": [],
-		"Santa Luzia do Norte": [],
-		"Santana do Ipanema": [],
-		"Santana do Mundaú": [],
-		"São Brás": [],
-		"São José da Laje": [],
-		"São José da Tapera": [],
-		"São Luís do Quitunde": [],
-		"São Miguel dos Campos": [],
-		"São Miguel dos Milagres": [],
-		"São Sebastião": [],
-		"Satuba": [],
-		"Senador Rui Palmeira": [],
-		"Tanque d'Arca": [],
-		"Taquarana": [],
-		"Teotônio Vilela": [],
-		"Traipu": [],
-		"União dos Palmares": [],
-		"Viçosa": []
+		"Água Branca": {
+			"name": "Água Branca"
+		},
+		"Anadia": {
+			"name": "Anadia"
+		},
+		"Arapiraca": {
+			"name": "Arapiraca"
+		},
+		"Atalaia": {
+			"name": "Atalaia"
+		},
+		"Barra de Santo Antônio": {
+			"name": "Barra de Santo Antônio"
+		},
+		"Barra de São Miguel": {
+			"name": "Barra de São Miguel"
+		},
+		"Batalha": {
+			"name": "Batalha"
+		},
+		"Belém": {
+			"name": "Belém"
+		},
+		"Belo Monte": {
+			"name": "Belo Monte"
+		},
+		"Boca da Mata": {
+			"name": "Boca da Mata"
+		},
+		"Branquinha": {
+			"name": "Branquinha"
+		},
+		"Cacimbinhas": {
+			"name": "Cacimbinhas"
+		},
+		"Cajueiro": {
+			"name": "Cajueiro"
+		},
+		"Campestre": {
+			"name": "Campestre"
+		},
+		"Campo Alegre": {
+			"name": "Campo Alegre"
+		},
+		"Campo Grande": {
+			"name": "Campo Grande"
+		},
+		"Canapi": {
+			"name": "Canapi"
+		},
+		"Capela": {
+			"name": "Capela"
+		},
+		"Carneiros": {
+			"name": "Carneiros"
+		},
+		"Chã Preta": {
+			"name": "Chã Preta"
+		},
+		"Coité do Nóia": {
+			"name": "Coité do Nóia"
+		},
+		"Colônia Leopoldina": {
+			"name": "Colônia Leopoldina"
+		},
+		"Coqueiro Seco": {
+			"name": "Coqueiro Seco"
+		},
+		"Coruripe": {
+			"name": "Coruripe"
+		},
+		"Craíbas": {
+			"name": "Craíbas"
+		},
+		"Delmiro Gouveia": {
+			"name": "Delmiro Gouveia"
+		},
+		"Dois Riachos": {
+			"name": "Dois Riachos"
+		},
+		"Estrela de Alagoas": {
+			"name": "Estrela de Alagoas"
+		},
+		"Feira Grande": {
+			"name": "Feira Grande"
+		},
+		"Feliz Deserto": {
+			"name": "Feliz Deserto"
+		},
+		"Flexeiras": {
+			"name": "Flexeiras"
+		},
+		"Girau do Ponciano": {
+			"name": "Girau do Ponciano"
+		},
+		"Ibateguara": {
+			"name": "Ibateguara"
+		},
+		"Igaci": {
+			"name": "Igaci"
+		},
+		"Igreja Nova": {
+			"name": "Igreja Nova"
+		},
+		"Inhapi": {
+			"name": "Inhapi"
+		},
+		"Jacaré dos Homens": {
+			"name": "Jacaré dos Homens"
+		},
+		"Jacuípe": {
+			"name": "Jacuípe"
+		},
+		"Japaratinga": {
+			"name": "Japaratinga"
+		},
+		"Jaramataia": {
+			"name": "Jaramataia"
+		},
+		"Jequiá da Praia": {
+			"name": "Jequiá da Praia"
+		},
+		"Joaquim Gomes": {
+			"name": "Joaquim Gomes"
+		},
+		"Jundiá": {
+			"name": "Jundiá"
+		},
+		"Junqueiro": {
+			"name": "Junqueiro"
+		},
+		"Lagoa da Canoa": {
+			"name": "Lagoa da Canoa"
+		},
+		"Limoeiro de Anadia": {
+			"name": "Limoeiro de Anadia"
+		},
+		"Maceió": {
+			"name": "Maceió"
+		},
+		"Major Isidoro": {
+			"name": "Major Isidoro"
+		},
+		"Mar Vermelho": {
+			"name": "Mar Vermelho"
+		},
+		"Maragogi": {
+			"name": "Maragogi"
+		},
+		"Maravilha": {
+			"name": "Maravilha"
+		},
+		"Marechal Deodoro": {
+			"name": "Marechal Deodoro"
+		},
+		"Maribondo": {
+			"name": "Maribondo"
+		},
+		"Mata Grande": {
+			"name": "Mata Grande"
+		},
+		"Matriz de Camaragibe": {
+			"name": "Matriz de Camaragibe"
+		},
+		"Messias": {
+			"name": "Messias"
+		},
+		"Minador do Negrão": {
+			"name": "Minador do Negrão"
+		},
+		"Monteirópolis": {
+			"name": "Monteirópolis"
+		},
+		"Murici": {
+			"name": "Murici"
+		},
+		"Novo Lino": {
+			"name": "Novo Lino"
+		},
+		"Olho d'Água das Flores": {
+			"name": "Olho d'Água das Flores"
+		},
+		"Olho d'Água do Casado": {
+			"name": "Olho d'Água do Casado"
+		},
+		"Olho d'Água Grande": {
+			"name": "Olho d'Água Grande"
+		},
+		"Olivença": {
+			"name": "Olivença"
+		},
+		"Ouro Branco": {
+			"name": "Ouro Branco"
+		},
+		"Palestina": {
+			"name": "Palestina"
+		},
+		"Palmeira dos Índios": {
+			"name": "Palmeira dos Índios"
+		},
+		"Pão de Açúcar": {
+			"name": "Pão de Açúcar"
+		},
+		"Pariconha": {
+			"name": "Pariconha"
+		},
+		"Paripueira": {
+			"name": "Paripueira"
+		},
+		"Passo de Camaragibe": {
+			"name": "Passo de Camaragibe"
+		},
+		"Paulo Jacinto": {
+			"name": "Paulo Jacinto"
+		},
+		"Penedo": {
+			"name": "Penedo"
+		},
+		"Piaçabuçu": {
+			"name": "Piaçabuçu"
+		},
+		"Pilar": {
+			"name": "Pilar"
+		},
+		"Pindoba": {
+			"name": "Pindoba"
+		},
+		"Piranhas": {
+			"name": "Piranhas"
+		},
+		"Poço das Trincheiras": {
+			"name": "Poço das Trincheiras"
+		},
+		"Porto Calvo": {
+			"name": "Porto Calvo"
+		},
+		"Porto de Pedras": {
+			"name": "Porto de Pedras"
+		},
+		"Porto Real do Colégio": {
+			"name": "Porto Real do Colégio"
+		},
+		"Quebrangulo": {
+			"name": "Quebrangulo"
+		},
+		"Rio Largo": {
+			"name": "Rio Largo"
+		},
+		"Roteiro": {
+			"name": "Roteiro"
+		},
+		"Santa Luzia do Norte": {
+			"name": "Santa Luzia do Norte"
+		},
+		"Santana do Ipanema": {
+			"name": "Santana do Ipanema"
+		},
+		"Santana do Mundaú": {
+			"name": "Santana do Mundaú"
+		},
+		"São Brás": {
+			"name": "São Brás"
+		},
+		"São José da Laje": {
+			"name": "São José da Laje"
+		},
+		"São José da Tapera": {
+			"name": "São José da Tapera"
+		},
+		"São Luís do Quitunde": {
+			"name": "São Luís do Quitunde"
+		},
+		"São Miguel dos Campos": {
+			"name": "São Miguel dos Campos"
+		},
+		"São Miguel dos Milagres": {
+			"name": "São Miguel dos Milagres"
+		},
+		"São Sebastião": {
+			"name": "São Sebastião"
+		},
+		"Satuba": {
+			"name": "Satuba"
+		},
+		"Senador Rui Palmeira": {
+			"name": "Senador Rui Palmeira"
+		},
+		"Tanque d'Arca": {
+			"name": "Tanque d'Arca"
+		},
+		"Taquarana": {
+			"name": "Taquarana"
+		},
+		"Teotônio Vilela": {
+			"name": "Teotônio Vilela"
+		},
+		"Traipu": {
+			"name": "Traipu"
+		},
+		"União dos Palmares": {
+			"name": "União dos Palmares"
+		},
+		"Viçosa": {
+			"name": "Viçosa"
+		}
 	}
 }

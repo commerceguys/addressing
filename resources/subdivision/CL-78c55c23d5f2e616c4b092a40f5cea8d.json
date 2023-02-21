@@ -1,0 +1,42 @@
+{
+	"country_code": "CL",
+	"parents": [
+		"CL",
+		"MA"
+	],
+	"subdivisions": {
+		"Antártica": {
+			"name": "Antártica"
+		},
+		"Cabo de Hornos": {
+			"name": "Cabo de Hornos"
+		},
+		"Laguna Blanca": {
+			"name": "Laguna Blanca"
+		},
+		"Natales": {
+			"name": "Natales"
+		},
+		"Porvenir": {
+			"name": "Porvenir"
+		},
+		"Primavera": {
+			"name": "Primavera"
+		},
+		"Punta Arenas": {
+			"name": "Punta Arenas"
+		},
+		"Río Verde": {
+			"name": "Río Verde"
+		},
+		"San Gregorio": {
+			"name": "San Gregorio"
+		},
+		"Timaukel": {
+			"name": "Timaukel"
+		},
+		"Torres del Paine": {
+			"name": "Torres del Paine"
+		}
+	}
+}

@@ -1,0 +1,99 @@
+{
+	"country_code": "CL",
+	"parents": [
+		"CL",
+		"ML"
+	],
+	"subdivisions": {
+		"Cauquenes": {
+			"name": "Cauquenes"
+		},
+		"Chanco": {
+			"name": "Chanco"
+		},
+		"Colbún": {
+			"name": "Colbún"
+		},
+		"Constitución": {
+			"name": "Constitución"
+		},
+		"Curepto": {
+			"name": "Curepto"
+		},
+		"Curicó": {
+			"name": "Curicó"
+		},
+		"Empedrado": {
+			"name": "Empedrado"
+		},
+		"Hualañé": {
+			"name": "Hualañé"
+		},
+		"Licantén": {
+			"name": "Licantén"
+		},
+		"Linares": {
+			"name": "Linares"
+		},
+		"Longaví": {
+			"name": "Longaví"
+		},
+		"Maule": {
+			"name": "Maule"
+		},
+		"Molina": {
+			"name": "Molina"
+		},
+		"Parral": {
+			"name": "Parral"
+		},
+		"Pelarco": {
+			"name": "Pelarco"
+		},
+		"Pelluhue": {
+			"name": "Pelluhue"
+		},
+		"Pencahue": {
+			"name": "Pencahue"
+		},
+		"Rauco": {
+			"name": "Rauco"
+		},
+		"Retiro": {
+			"name": "Retiro"
+		},
+		"Río Claro": {
+			"name": "Río Claro"
+		},
+		"Romeral": {
+			"name": "Romeral"
+		},
+		"Sagrada Familia": {
+			"name": "Sagrada Familia"
+		},
+		"San Clemente": {
+			"name": "San Clemente"
+		},
+		"San Javier de Loncomilla": {
+			"name": "San Javier de Loncomilla"
+		},
+		"San Rafael": {
+			"name": "San Rafael"
+		},
+		"Talca": {
+			"name": "Talca"
+		},
+		"Teno": {
+			"name": "Teno"
+		},
+		"Vichuquén": {
+			"name": "Vichuquén"
+		},
+		"Villa Alegre": {
+			"name": "Villa Alegre"
+		},
+		"Yerbas Buenas": {
+			"name": "Yerbas Buenas"
+		}
+	}
+}

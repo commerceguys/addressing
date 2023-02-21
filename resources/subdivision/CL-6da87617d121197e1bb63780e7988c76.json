@@ -1,0 +1,21 @@
+{
+	"country_code": "CL",
+	"parents": [
+		"CL",
+		"AP"
+	],
+	"subdivisions": {
+		"Arica": {
+			"name": "Arica"
+		},
+		"Camarones": {
+			"name": "Camarones"
+		},
+		"General Lagos": {
+			"name": "General Lagos"
+		},
+		"Putre": {
+			"name": "Putre"
+		}
+	}
+}

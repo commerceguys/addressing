@@ -1,34 +1,44 @@
 {
 	"country_code": "SR",
 	"subdivisions": {
-		"Brokopondo": {
+		"BR": {
+			"name": "Brokopondo",
 			"iso_code": "SR-BR"
 		},
-		"Commewijne": {
+		"CM": {
+			"name": "Commewijne",
 			"iso_code": "SR-CM"
 		},
-		"Coronie": {
+		"CR": {
+			"name": "Coronie",
 			"iso_code": "SR-CR"
 		},
-		"Marowijne": {
+		"MA": {
+			"name": "Marowijne",
 			"iso_code": "SR-MA"
 		},
-		"Nickerie": {
+		"NI": {
+			"name": "Nickerie",
 			"iso_code": "SR-NI"
 		},
-		"Para": {
+		"PR": {
+			"name": "Para",
 			"iso_code": "SR-PR"
 		},
-		"Paramaribo": {
+		"PM": {
+			"name": "Paramaribo",
 			"iso_code": "SR-PM"
 		},
-		"Saramacca": {
+		"SA": {
+			"name": "Saramacca",
 			"iso_code": "SR-SA"
 		},
-		"Sipaliwini": {
+		"SI": {
+			"name": "Sipaliwini",
 			"iso_code": "SR-SI"
 		},
-		"Wanica": {
+		"WA": {
+			"name": "Wanica",
 			"iso_code": "SR-WA"
 		}
 	}

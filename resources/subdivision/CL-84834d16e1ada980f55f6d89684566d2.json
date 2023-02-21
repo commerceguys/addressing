@@ -1,0 +1,36 @@
+{
+	"country_code": "CL",
+	"parents": [
+		"CL",
+		"AT"
+	],
+	"subdivisions": {
+		"Alto del Carmen": {
+			"name": "Alto del Carmen"
+		},
+		"Caldera": {
+			"name": "Caldera"
+		},
+		"Chañaral": {
+			"name": "Chañaral"
+		},
+		"Copiapó": {
+			"name": "Copiapó"
+		},
+		"Diego de Almagro": {
+			"name": "Diego de Almagro"
+		},
+		"Freirina": {
+			"name": "Freirina"
+		},
+		"Huasco": {
+			"name": "Huasco"
+		},
+		"Tierra Amarilla": {
+			"name": "Tierra Amarilla"
+		},
+		"Vallenar": {
+			"name": "Vallenar"
+		}
+	}
+}

@@ -5,27 +5,71 @@
 		"AC"
 	],
 	"subdivisions": {
-		"Acrelândia": [],
-		"Assis Brasil": [],
-		"Brasiléia": [],
-		"Bujari": [],
-		"Capixaba": [],
-		"Cruzeiro do Sul": [],
-		"Epitaciolândia": [],
-		"Feijó": [],
-		"Jordão": [],
-		"Mâncio Lima": [],
-		"Manoel Urbano": [],
-		"Marechal Thaumaturgo": [],
-		"Plácido de Castro": [],
-		"Porto Acre": [],
-		"Porto Walter": [],
-		"Rio Branco": [],
-		"Rodrigues Alves": [],
-		"Santa Rosa do Purus": [],
-		"Sena Madureira": [],
-		"Senador Guiomard": [],
-		"Tarauacá": [],
-		"Xapuri": []
+		"Acrelândia": {
+			"name": "Acrelândia"
+		},
+		"Assis Brasil": {
+			"name": "Assis Brasil"
+		},
+		"Brasiléia": {
+			"name": "Brasiléia"
+		},
+		"Bujari": {
+			"name": "Bujari"
+		},
+		"Capixaba": {
+			"name": "Capixaba"
+		},
+		"Cruzeiro do Sul": {
+			"name": "Cruzeiro do Sul"
+		},
+		"Epitaciolândia": {
+			"name": "Epitaciolândia"
+		},
+		"Feijó": {
+			"name": "Feijó"
+		},
+		"Jordão": {
+			"name": "Jordão"
+		},
+		"Mâncio Lima": {
+			"name": "Mâncio Lima"
+		},
+		"Manoel Urbano": {
+			"name": "Manoel Urbano"
+		},
+		"Marechal Thaumaturgo": {
+			"name": "Marechal Thaumaturgo"
+		},
+		"Plácido de Castro": {
+			"name": "Plácido de Castro"
+		},
+		"Porto Acre": {
+			"name": "Porto Acre"
+		},
+		"Porto Walter": {
+			"name": "Porto Walter"
+		},
+		"Rio Branco": {
+			"name": "Rio Branco"
+		},
+		"Rodrigues Alves": {
+			"name": "Rodrigues Alves"
+		},
+		"Santa Rosa do Purus": {
+			"name": "Santa Rosa do Purus"
+		},
+		"Sena Madureira": {
+			"name": "Sena Madureira"
+		},
+		"Senador Guiomard": {
+			"name": "Senador Guiomard"
+		},
+		"Tarauacá": {
+			"name": "Tarauacá"
+		},
+		"Xapuri": {
+			"name": "Xapuri"
+		}
 	}
 }

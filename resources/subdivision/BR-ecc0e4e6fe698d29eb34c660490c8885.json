@@ -5,146 +5,428 @@
 		"MT"
 	],
 	"subdivisions": {
-		"Acorizal": [],
-		"Água Boa": [],
-		"Alta Floresta": [],
-		"Alto Araguaia": [],
-		"Alto Boa Vista": [],
-		"Alto Garças": [],
-		"Alto Paraguai": [],
-		"Alto Taquari": [],
-		"Apiacás": [],
-		"Araguaiana": [],
-		"Araguainha": [],
-		"Araputanga": [],
-		"Arenápolis": [],
-		"Aripuana": [],
-		"Barão de Melgaço": [],
-		"Barra do Bugres": [],
-		"Barra do Garças": [],
-		"Bom Jesus do Araguaia": [],
-		"Brasnorte": [],
-		"Cáceres": [],
-		"Campinápolis": [],
-		"Campo Novo do Parecis": [],
-		"Campo Verde": [],
-		"Campos de Júlio": [],
-		"Canabrava do Norte": [],
-		"Canarana": [],
-		"Carlinda": [],
-		"Castanheira": [],
-		"Chapada dos Guimarães": [],
-		"Claudia": [],
-		"Cocalinho": [],
-		"Colíder": [],
-		"Colniza": [],
-		"Comodoro": [],
-		"Confresa": [],
-		"Conquista d'Oeste": [],
-		"Cotriguaçu": [],
-		"Cuiabá": [],
-		"Curvelândia": [],
-		"Denise": [],
-		"Diamantino": [],
-		"Dom Aquino": [],
-		"Feliz Natal": [],
-		"Figueirópolis d'Oeste": [],
-		"Gaúcha do Norte": [],
-		"General Carneiro": [],
-		"Glória d'Oeste": [],
-		"Guaranta do Norte": [],
-		"Guiratinga": [],
-		"Indiavaí": [],
-		"Ipiranga do Norte": [],
-		"Itanhangá": [],
-		"Itaúba": [],
-		"Itiquira": [],
-		"Jaciara": [],
-		"Jangada": [],
-		"Jauru": [],
-		"Juara": [],
-		"Juína": [],
-		"Juruena": [],
-		"Juscimeira": [],
-		"Lambari d'Oeste": [],
-		"Lucas do Rio Verde": [],
-		"Luciára": [],
-		"Marcelândia": [],
-		"Matupá": [],
-		"Mirassol d'Oeste": [],
-		"Nobres": [],
-		"Nortelândia": [],
-		"Nossa Senhora do Livramento": [],
-		"Nova Bandeirantes": [],
-		"Nova Brasilândia": [],
-		"Nova Canaã do Norte": [],
-		"Nova Guarita": [],
-		"Nova Lacerda": [],
-		"Nova Marilândia": [],
-		"Nova Maringá": [],
-		"Nova Monte Verde": [],
-		"Nova Mutum": [],
-		"Nova Nazaré": [],
-		"Nova Olímpia": [],
-		"Nova Santa Helena": [],
-		"Nova Ubiratã": [],
-		"Nova Xavantina": [],
-		"Novo Horizonte do Norte": [],
-		"Novo Mundo": [],
-		"Novo Santo Antônio": [],
-		"Novo São Joaquim": [],
-		"Paranaíta": [],
-		"Paranatinga": [],
-		"Pedra Preta": [],
-		"Peixoto de Azevedo": [],
-		"Planalto da Serra": [],
-		"Poconé": [],
-		"Pontal do Araguaia": [],
-		"Ponte Branca": [],
-		"Pontes e Lacerda": [],
-		"Porto Alegre do Norte": [],
-		"Porto dos Gaúchos": [],
-		"Porto Esperidião": [],
-		"Porto Estrela": [],
-		"Poxoréo": [],
-		"Primavera do Leste": [],
-		"Querência": [],
-		"Reserva do Cabaçal": [],
-		"Ribeirão Cascalheira": [],
-		"Ribeirãozinho": [],
-		"Rio Branco": [],
-		"Rondolândia": [],
-		"Rondonópolis": [],
-		"Rosário Oeste": [],
-		"Salto do Céu": [],
-		"Santa Carmem": [],
-		"Santa Cruz do Xingu": [],
-		"Santa Rita do Trivelato": [],
-		"Santa Terezinha": [],
-		"Santo Afonso": [],
-		"Santo Antônio do Leste": [],
-		"Santo Antônio do Leverger": [],
-		"São Félix do Araguaia": [],
-		"São José do Povo": [],
-		"São José do Rio Claro": [],
-		"São José do Xingu": [],
-		"São José dos Quatro Marcos": [],
-		"São Pedro da Cipa": [],
-		"Sapezal": [],
-		"Serra Nova Dourada": [],
-		"Sinop": [],
-		"Sorriso": [],
-		"Tabaporã": [],
-		"Tangará da Serra": [],
-		"Tapurah": [],
-		"Terra Nova do Norte": [],
-		"Tesouro": [],
-		"Torixoréu": [],
-		"União do Sul": [],
-		"Vale de São Domingos": [],
-		"Várzea Grande": [],
-		"Vera": [],
-		"Vila Bela da Santíssima Trindade": [],
-		"Vila Rica": []
+		"Acorizal": {
+			"name": "Acorizal"
+		},
+		"Água Boa": {
+			"name": "Água Boa"
+		},
+		"Alta Floresta": {
+			"name": "Alta Floresta"
+		},
+		"Alto Araguaia": {
+			"name": "Alto Araguaia"
+		},
+		"Alto Boa Vista": {
+			"name": "Alto Boa Vista"
+		},
+		"Alto Garças": {
+			"name": "Alto Garças"
+		},
+		"Alto Paraguai": {
+			"name": "Alto Paraguai"
+		},
+		"Alto Taquari": {
+			"name": "Alto Taquari"
+		},
+		"Apiacás": {
+			"name": "Apiacás"
+		},
+		"Araguaiana": {
+			"name": "Araguaiana"
+		},
+		"Araguainha": {
+			"name": "Araguainha"
+		},
+		"Araputanga": {
+			"name": "Araputanga"
+		},
+		"Arenápolis": {
+			"name": "Arenápolis"
+		},
+		"Aripuana": {
+			"name": "Aripuana"
+		},
+		"Barão de Melgaço": {
+			"name": "Barão de Melgaço"
+		},
+		"Barra do Bugres": {
+			"name": "Barra do Bugres"
+		},
+		"Barra do Garças": {
+			"name": "Barra do Garças"
+		},
+		"Bom Jesus do Araguaia": {
+			"name": "Bom Jesus do Araguaia"
+		},
+		"Brasnorte": {
+			"name": "Brasnorte"
+		},
+		"Cáceres": {
+			"name": "Cáceres"
+		},
+		"Campinápolis": {
+			"name": "Campinápolis"
+		},
+		"Campo Novo do Parecis": {
+			"name": "Campo Novo do Parecis"
+		},
+		"Campo Verde": {
+			"name": "Campo Verde"
+		},
+		"Campos de Júlio": {
+			"name": "Campos de Júlio"
+		},
+		"Canabrava do Norte": {
+			"name": "Canabrava do Norte"
+		},
+		"Canarana": {
+			"name": "Canarana"
+		},
+		"Carlinda": {
+			"name": "Carlinda"
+		},
+		"Castanheira": {
+			"name": "Castanheira"
+		},
+		"Chapada dos Guimarães": {
+			"name": "Chapada dos Guimarães"
+		},
+		"Claudia": {
+			"name": "Claudia"
+		},
+		"Cocalinho": {
+			"name": "Cocalinho"
+		},
+		"Colíder": {
+			"name": "Colíder"
+		},
+		"Colniza": {
+			"name": "Colniza"
+		},
+		"Comodoro": {
+			"name": "Comodoro"
+		},
+		"Confresa": {
+			"name": "Confresa"
+		},
+		"Conquista d'Oeste": {
+			"name": "Conquista d'Oeste"
+		},
+		"Cotriguaçu": {
+			"name": "Cotriguaçu"
+		},
+		"Cuiabá": {
+			"name": "Cuiabá"
+		},
+		"Curvelândia": {
+			"name": "Curvelândia"
+		},
+		"Denise": {
+			"name": "Denise"
+		},
+		"Diamantino": {
+			"name": "Diamantino"
+		},
+		"Dom Aquino": {
+			"name": "Dom Aquino"
+		},
+		"Feliz Natal": {
+			"name": "Feliz Natal"
+		},
+		"Figueirópolis d'Oeste": {
+			"name": "Figueirópolis d'Oeste"
+		},
+		"Gaúcha do Norte": {
+			"name": "Gaúcha do Norte"
+		},
+		"General Carneiro": {
+			"name": "General Carneiro"
+		},
+		"Glória d'Oeste": {
+			"name": "Glória d'Oeste"
+		},
+		"Guaranta do Norte": {
+			"name": "Guaranta do Norte"
+		},
+		"Guiratinga": {
+			"name": "Guiratinga"
+		},
+		"Indiavaí": {
+			"name": "Indiavaí"
+		},
+		"Ipiranga do Norte": {
+			"name": "Ipiranga do Norte"
+		},
+		"Itanhangá": {
+			"name": "Itanhangá"
+		},
+		"Itaúba": {
+			"name": "Itaúba"
+		},
+		"Itiquira": {
+			"name": "Itiquira"
+		},
+		"Jaciara": {
+			"name": "Jaciara"
+		},
+		"Jangada": {
+			"name": "Jangada"
+		},
+		"Jauru": {
+			"name": "Jauru"
+		},
+		"Juara": {
+			"name": "Juara"
+		},
+		"Juína": {
+			"name": "Juína"
+		},
+		"Juruena": {
+			"name": "Juruena"
+		},
+		"Juscimeira": {
+			"name": "Juscimeira"
+		},
+		"Lambari d'Oeste": {
+			"name": "Lambari d'Oeste"
+		},
+		"Lucas do Rio Verde": {
+			"name": "Lucas do Rio Verde"
+		},
+		"Luciára": {
+			"name": "Luciára"
+		},
+		"Marcelândia": {
+			"name": "Marcelândia"
+		},
+		"Matupá": {
+			"name": "Matupá"
+		},
+		"Mirassol d'Oeste": {
+			"name": "Mirassol d'Oeste"
+		},
+		"Nobres": {
+			"name": "Nobres"
+		},
+		"Nortelândia": {
+			"name": "Nortelândia"
+		},
+		"Nossa Senhora do Livramento": {
+			"name": "Nossa Senhora do Livramento"
+		},
+		"Nova Bandeirantes": {
+			"name": "Nova Bandeirantes"
+		},
+		"Nova Brasilândia": {
+			"name": "Nova Brasilândia"
+		},
+		"Nova Canaã do Norte": {
+			"name": "Nova Canaã do Norte"
+		},
+		"Nova Guarita": {
+			"name": "Nova Guarita"
+		},
+		"Nova Lacerda": {
+			"name": "Nova Lacerda"
+		},
+		"Nova Marilândia": {
+			"name": "Nova Marilândia"
+		},
+		"Nova Maringá": {
+			"name": "Nova Maringá"
+		},
+		"Nova Monte Verde": {
+			"name": "Nova Monte Verde"
+		},
+		"Nova Mutum": {
+			"name": "Nova Mutum"
+		},
+		"Nova Nazaré": {
+			"name": "Nova Nazaré"
+		},
+		"Nova Olímpia": {
+			"name": "Nova Olímpia"
+		},
+		"Nova Santa Helena": {
+			"name": "Nova Santa Helena"
+		},
+		"Nova Ubiratã": {
+			"name": "Nova Ubiratã"
+		},
+		"Nova Xavantina": {
+			"name": "Nova Xavantina"
+		},
+		"Novo Horizonte do Norte": {
+			"name": "Novo Horizonte do Norte"
+		},
+		"Novo Mundo": {
+			"name": "Novo Mundo"
+		},
+		"Novo Santo Antônio": {
+			"name": "Novo Santo Antônio"
+		},
+		"Novo São Joaquim": {
+			"name": "Novo São Joaquim"
+		},
+		"Paranaíta": {
+			"name": "Paranaíta"
+		},
+		"Paranatinga": {
+			"name": "Paranatinga"
+		},
+		"Pedra Preta": {
+			"name": "Pedra Preta"
+		},
+		"Peixoto de Azevedo": {
+			"name": "Peixoto de Azevedo"
+		},
+		"Planalto da Serra": {
+			"name": "Planalto da Serra"
+		},
+		"Poconé": {
+			"name": "Poconé"
+		},
+		"Pontal do Araguaia": {
+			"name": "Pontal do Araguaia"
+		},
+		"Ponte Branca": {
+			"name": "Ponte Branca"
+		},
+		"Pontes e Lacerda": {
+			"name": "Pontes e Lacerda"
+		},
+		"Porto Alegre do Norte": {
+			"name": "Porto Alegre do Norte"
+		},
+		"Porto dos Gaúchos": {
+			"name": "Porto dos Gaúchos"
+		},
+		"Porto Esperidião": {
+			"name": "Porto Esperidião"
+		},
+		"Porto Estrela": {
+			"name": "Porto Estrela"
+		},
+		"Poxoréo": {
+			"name": "Poxoréo"
+		},
+		"Primavera do Leste": {
+			"name": "Primavera do Leste"
+		},
+		"Querência": {
+			"name": "Querência"
+		},
+		"Reserva do Cabaçal": {
+			"name": "Reserva do Cabaçal"
+		},
+		"Ribeirão Cascalheira": {
+			"name": "Ribeirão Cascalheira"
+		},
+		"Ribeirãozinho": {
+			"name": "Ribeirãozinho"
+		},
+		"Rio Branco": {
+			"name": "Rio Branco"
+		},
+		"Rondolândia": {
+			"name": "Rondolândia"
+		},
+		"Rondonópolis": {
+			"name": "Rondonópolis"
+		},
+		"Rosário Oeste": {
+			"name": "Rosário Oeste"
+		},
+		"Salto do Céu": {
+			"name": "Salto do Céu"
+		},
+		"Santa Carmem": {
+			"name": "Santa Carmem"
+		},
+		"Santa Cruz do Xingu": {
+			"name": "Santa Cruz do Xingu"
+		},
+		"Santa Rita do Trivelato": {
+			"name": "Santa Rita do Trivelato"
+		},
+		"Santa Terezinha": {
+			"name": "Santa Terezinha"
+		},
+		"Santo Afonso": {
+			"name": "Santo Afonso"
+		},
+		"Santo Antônio do Leste": {
+			"name": "Santo Antônio do Leste"
+		},
+		"Santo Antônio do Leverger": {
+			"name": "Santo Antônio do Leverger"
+		},
+		"São Félix do Araguaia": {
+			"name": "São Félix do Araguaia"
+		},
+		"São José do Povo": {
+			"name": "São José do Povo"
+		},
+		"São José do Rio Claro": {
+			"name": "São José do Rio Claro"
+		},
+		"São José do Xingu": {
+			"name": "São José do Xingu"
+		},
+		"São José dos Quatro Marcos": {
+			"name": "São José dos Quatro Marcos"
+		},
+		"São Pedro da Cipa": {
+			"name": "São Pedro da Cipa"
+		},
+		"Sapezal": {
+			"name": "Sapezal"
+		},
+		"Serra Nova Dourada": {
+			"name": "Serra Nova Dourada"
+		},
+		"Sinop": {
+			"name": "Sinop"
+		},
+		"Sorriso": {
+			"name": "Sorriso"
+		},
+		"Tabaporã": {
+			"name": "Tabaporã"
+		},
+		"Tangará da Serra": {
+			"name": "Tangará da Serra"
+		},
+		"Tapurah": {
+			"name": "Tapurah"
+		},
+		"Terra Nova do Norte": {
+			"name": "Terra Nova do Norte"
+		},
+		"Tesouro": {
+			"name": "Tesouro"
+		},
+		"Torixoréu": {
+			"name": "Torixoréu"
+		},
+		"União do Sul": {
+			"name": "União do Sul"
+		},
+		"Vale de São Domingos": {
+			"name": "Vale de São Domingos"
+		},
+		"Várzea Grande": {
+			"name": "Várzea Grande"
+		},
+		"Vera": {
+			"name": "Vera"
+		},
+		"Vila Bela da Santíssima Trindade": {
+			"name": "Vila Bela da Santíssima Trindade"
+		},
+		"Vila Rica": {
+			"name": "Vila Rica"
+		}
 	}
 }

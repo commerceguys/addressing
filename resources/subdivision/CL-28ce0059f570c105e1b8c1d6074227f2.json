@@ -1,0 +1,171 @@
+{
+	"country_code": "CL",
+	"parents": [
+		"CL",
+		"BI"
+	],
+	"subdivisions": {
+		"Alto Biobío": {
+			"name": "Alto Biobío"
+		},
+		"Antuco": {
+			"name": "Antuco"
+		},
+		"Arauco": {
+			"name": "Arauco"
+		},
+		"Bulnes": {
+			"name": "Bulnes"
+		},
+		"Cabrero": {
+			"name": "Cabrero"
+		},
+		"Cañete": {
+			"name": "Cañete"
+		},
+		"Chiguayante": {
+			"name": "Chiguayante"
+		},
+		"Chillán": {
+			"name": "Chillán"
+		},
+		"Chillán Viejo": {
+			"name": "Chillán Viejo"
+		},
+		"Cobquecura": {
+			"name": "Cobquecura"
+		},
+		"Coelemu": {
+			"name": "Coelemu"
+		},
+		"Coihueco": {
+			"name": "Coihueco"
+		},
+		"Concepción": {
+			"name": "Concepción"
+		},
+		"Contulmo": {
+			"name": "Contulmo"
+		},
+		"Coronel": {
+			"name": "Coronel"
+		},
+		"Curanilahue": {
+			"name": "Curanilahue"
+		},
+		"El Carmen": {
+			"name": "El Carmen"
+		},
+		"Florida": {
+			"name": "Florida"
+		},
+		"Hualpén": {
+			"name": "Hualpén"
+		},
+		"Hualqui": {
+			"name": "Hualqui"
+		},
+		"Laja": {
+			"name": "Laja"
+		},
+		"Lebu": {
+			"name": "Lebu"
+		},
+		"Los Álamos": {
+			"name": "Los Álamos"
+		},
+		"Los Ángeles": {
+			"name": "Los Ángeles"
+		},
+		"Lota": {
+			"name": "Lota"
+		},
+		"Mulchén": {
+			"name": "Mulchén"
+		},
+		"Nacimiento": {
+			"name": "Nacimiento"
+		},
+		"Negrete": {
+			"name": "Negrete"
+		},
+		"Ninhue": {
+			"name": "Ninhue"
+		},
+		"Ñiquén": {
+			"name": "Ñiquén"
+		},
+		"Pemuco": {
+			"name": "Pemuco"
+		},
+		"Penco": {
+			"name": "Penco"
+		},
+		"Pinto": {
+			"name": "Pinto"
+		},
+		"Portezuelo": {
+			"name": "Portezuelo"
+		},
+		"Quilaco": {
+			"name": "Quilaco"
+		},
+		"Quilleco": {
+			"name": "Quilleco"
+		},
+		"Quillón": {
+			"name": "Quillón"
+		},
+		"Quirihue": {
+			"name": "Quirihue"
+		},
+		"Ránquil": {
+			"name": "Ránquil"
+		},
+		"San Carlos": {
+			"name": "San Carlos"
+		},
+		"San Fabián": {
+			"name": "San Fabián"
+		},
+		"San Ignacio": {
+			"name": "San Ignacio"
+		},
+		"San Nicolás": {
+			"name": "San Nicolás"
+		},
+		"San Pedro de la Paz": {
+			"name": "San Pedro de la Paz"
+		},
+		"San Rosendo": {
+			"name": "San Rosendo"
+		},
+		"Santa Bárbara": {
+			"name": "Santa Bárbara"
+		},
+		"Santa Juana": {
+			"name": "Santa Juana"
+		},
+		"Talcahuano": {
+			"name": "Talcahuano"
+		},
+		"Tirúa": {
+			"name": "Tirúa"
+		},
+		"Tomé": {
+			"name": "Tomé"
+		},
+		"Treguaco": {
+			"name": "Treguaco"
+		},
+		"Tucapel": {
+			"name": "Tucapel"
+		},
+		"Yumbel": {
+			"name": "Yumbel"
+		},
+		"Yungay": {
+			"name": "Yungay"
+		}
+	}
+}

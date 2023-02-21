@@ -1,46 +1,60 @@
 {
 	"country_code": "NR",
 	"subdivisions": {
-		"Aiwo District": {
+		"01": {
+			"name": "Aiwo District",
 			"iso_code": "NR-01"
 		},
-		"Anabar District": {
+		"02": {
+			"name": "Anabar District",
 			"iso_code": "NR-02"
 		},
-		"Anetan District": {
+		"03": {
+			"name": "Anetan District",
 			"iso_code": "NR-03"
 		},
-		"Anibare District": {
+		"04": {
+			"name": "Anibare District",
 			"iso_code": "NR-04"
 		},
-		"Baiti District": {
+		"05": {
+			"name": "Baiti District",
 			"iso_code": "NR-05"
 		},
-		"Boe District": {
+		"06": {
+			"name": "Boe District",
 			"iso_code": "NR-06"
 		},
-		"Buada District": {
+		"07": {
+			"name": "Buada District",
 			"iso_code": "NR-07"
 		},
-		"Denigomodu District": {
+		"08": {
+			"name": "Denigomodu District",
 			"iso_code": "NR-08"
 		},
-		"Ewa District": {
+		"09": {
+			"name": "Ewa District",
 			"iso_code": "NR-09"
 		},
-		"Ijuw District": {
+		"10": {
+			"name": "Ijuw District",
 			"iso_code": "NR-10"
 		},
-		"Meneng District": {
+		"11": {
+			"name": "Meneng District",
 			"iso_code": "NR-11"
 		},
-		"Nibok District": {
+		"12": {
+			"name": "Nibok District",
 			"iso_code": "NR-12"
 		},
-		"Uaboe District": {
+		"13": {
+			"name": "Uaboe District",
 			"iso_code": "NR-13"
 		},
-		"Yaren District": {
+		"14": {
+			"name": "Yaren District",
 			"iso_code": "NR-14"
 		}
 	}

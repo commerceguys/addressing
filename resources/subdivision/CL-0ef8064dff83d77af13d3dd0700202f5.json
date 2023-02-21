@@ -1,0 +1,165 @@
+{
+	"country_code": "CL",
+	"parents": [
+		"CL",
+		"RM"
+	],
+	"subdivisions": {
+		"Alhué": {
+			"name": "Alhué"
+		},
+		"Buin": {
+			"name": "Buin"
+		},
+		"Calera de Tango": {
+			"name": "Calera de Tango"
+		},
+		"Cerrillos": {
+			"name": "Cerrillos"
+		},
+		"Cerro Navia": {
+			"name": "Cerro Navia"
+		},
+		"Colina": {
+			"name": "Colina"
+		},
+		"Conchalí": {
+			"name": "Conchalí"
+		},
+		"Curacaví": {
+			"name": "Curacaví"
+		},
+		"El Bosque": {
+			"name": "El Bosque"
+		},
+		"El Monte": {
+			"name": "El Monte"
+		},
+		"Estación Central": {
+			"name": "Estación Central"
+		},
+		"Huechuraba": {
+			"name": "Huechuraba"
+		},
+		"Independencia": {
+			"name": "Independencia"
+		},
+		"Isla de Maipo": {
+			"name": "Isla de Maipo"
+		},
+		"La Cisterna": {
+			"name": "La Cisterna"
+		},
+		"La Florida": {
+			"name": "La Florida"
+		},
+		"La Granja": {
+			"name": "La Granja"
+		},
+		"La Pintana": {
+			"name": "La Pintana"
+		},
+		"La Reina": {
+			"name": "La Reina"
+		},
+		"Lampa": {
+			"name": "Lampa"
+		},
+		"Las Condes": {
+			"name": "Las Condes"
+		},
+		"Lo Barnechea": {
+			"name": "Lo Barnechea"
+		},
+		"Lo Espejo": {
+			"name": "Lo Espejo"
+		},
+		"Lo Prado": {
+			"name": "Lo Prado"
+		},
+		"Macul": {
+			"name": "Macul"
+		},
+		"Maipú": {
+			"name": "Maipú"
+		},
+		"María Pinto": {
+			"name": "María Pinto"
+		},
+		"Melipilla": {
+			"name": "Melipilla"
+		},
+		"Ñuñoa": {
+			"name": "Ñuñoa"
+		},
+		"Padre Hurtado": {
+			"name": "Padre Hurtado"
+		},
+		"Paine": {
+			"name": "Paine"
+		},
+		"Pedro Aguirre Cerda": {
+			"name": "Pedro Aguirre Cerda"
+		},
+		"Peñaflor": {
+			"name": "Peñaflor"
+		},
+		"Peñalolén": {
+			"name": "Peñalolén"
+		},
+		"Pirque": {
+			"name": "Pirque"
+		},
+		"Providencia": {
+			"name": "Providencia"
+		},
+		"Pudahuel": {
+			"name": "Pudahuel"
+		},
+		"Puente Alto": {
+			"name": "Puente Alto"
+		},
+		"Quilicura": {
+			"name": "Quilicura"
+		},
+		"Quinta Normal": {
+			"name": "Quinta Normal"
+		},
+		"Recoleta": {
+			"name": "Recoleta"
+		},
+		"Renca": {
+			"name": "Renca"
+		},
+		"San Bernardo": {
+			"name": "San Bernardo"
+		},
+		"San Joaquín": {
+			"name": "San Joaquín"
+		},
+		"San José de Maipo": {
+			"name": "San José de Maipo"
+		},
+		"San Miguel": {
+			"name": "San Miguel"
+		},
+		"San Pedro": {
+			"name": "San Pedro"
+		},
+		"San Ramón": {
+			"name": "San Ramón"
+		},
+		"Santiago": {
+			"name": "Santiago"
+		},
+		"Talagante": {
+			"name": "Talagante"
+		},
+		"Tiltil": {
+			"name": "Tiltil"
+		},
+		"Vitacura": {
+			"name": "Vitacura"
+		}
+	}
+}
