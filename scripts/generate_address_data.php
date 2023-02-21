@@ -162,8 +162,14 @@ function generate_subdivisions($countryCode, array $parents, $subdivisionPaths, 
     foreach ($subdivisionPaths as $subdivisionPath) {
         $definition = file_get_contents(__DIR__ . '/assets/google/' . $subdivisionPath . '.json');
         $definition = json_decode($definition, true);
-        // The lname is usable as a latin code when the key is non-latin.
-        $code = $definition['key'];
+        // Use the ISO value, if present, otherwise use the raw 'key' value from
+        // the feed.
+        if (isset($definition['isoid'])) {
+          $code = $definition['isoid'];
+        }
+        else {
+          $code = $definition['key'];
+        }
         if (isset($definition['lname'])) {
             $code = $definition['lname'];
         }
@@ -345,6 +351,13 @@ function create_subdivision_definition($countryCode, $code, $rawDefinition)
         }
     } elseif (isset($rawDefinition['name']) && $rawDefinition['key'] != $rawDefinition['name']) {
         $subdivision['name'] = $rawDefinition['name'];
+    } elseif (isset($rawDefinition['isoid']) && $rawDefinition['key'] != $rawDefinition['isoid']) {
+        // If the subdivision key is present and it is not the same as the
+        // ISO value, this means that the key value may have been hand-picked
+        // by Google. As a result, if a "name" has not been provided yet, use
+        // the verbose, non-ISO "key" value as the name. Useful for e.g. Ireland
+        // where the data structure used an abbreviated form.
+        $subdivision['name'] = $rawDefinition['key'];
     }
     if (isset($rawDefinition['isoid'])) {
         $subdivision['iso_code'] = $countryCode . '-' . $rawDefinition['isoid'];
