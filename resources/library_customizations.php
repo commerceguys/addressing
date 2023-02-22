@@ -46,6 +46,14 @@ function get_address_format_customizations($countryCode) {
         ],
         'administrative_area_type' => 'county',
     ];
+    // In Ireland the addressLine1, locality and subdivision are required.
+    $formatCustomizations['IE'] = [
+        'required_fields' => [
+            'addressLine1',
+            'locality',
+            'subdivision',
+        ],
+    ];
     // Revert the removal of %locality.
     // https://github.com/google/libaddressinput/issues/177
     $formatCustomizations['JP'] = [
