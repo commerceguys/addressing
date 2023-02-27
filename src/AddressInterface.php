@@ -26,9 +26,9 @@ interface AddressInterface
      * This is a CLDR country code, since CLDR includes additional countries
      * for addressing purposes, such as Canary Islands (IC).
      *
-     * @return string The two-letter country code.
+     * @return ?string The two-letter country code.
      */
-    public function getCountryCode(): string;
+    public function getCountryCode(): ?string;
 
     /**
      * Gets the administrative area.
@@ -62,41 +62,41 @@ interface AddressInterface
      * @return string The administrative area. A subdivision code if there
      *                are predefined subdivision at this level.
      */
-    public function getDependentLocality(): string;
+    public function getDependentLocality(): ?string;
 
     /**
      * Gets the postal code.
      *
      * The value is often alphanumeric.
      */
-    public function getPostalCode(): string;
+    public function getPostalCode(): ?string;
 
     /**
      * Gets the sorting code.
      *
      * For example, CEDEX in France.
      */
-    public function getSortingCode(): string;
+    public function getSortingCode(): ?string;
 
     /**
      * Gets the first line of address block.
      */
-    public function getAddressLine1(): string;
+    public function getAddressLine1(): ?string;
 
     /**
      * Gets the second line of address block.
      */
-    public function getAddressLine2(): string;
+    public function getAddressLine2(): ?string;
 
     /**
      * Gets the organization.
      */
-    public function getOrganization(): string;
+    public function getOrganization(): ?string;
 
     /**
      * Gets the given name (i.e first name).
      */
-    public function getGivenName(): string;
+    public function getGivenName(): ?string;
 
     /**
      * Gets the additional name.
@@ -105,12 +105,12 @@ interface AddressInterface
      * If a remote API does not have an additional_name/middle_name parameter,
      * append it to the given name.
      */
-    public function getAdditionalName(): string;
+    public function getAdditionalName(): ?string;
 
     /**
      * Gets the family name (i.e last name).
      */
-    public function getFamilyName(): string;
+    public function getFamilyName(): ?string;
 
     /**
      * Gets the locale.
@@ -118,5 +118,5 @@ interface AddressInterface
      * Allows the initially-selected address format / subdivision translations
      * to be selected and used the next time this address is modified.
      */
-    public function getLocale(): string;
+    public function getLocale(): ?string;
 }
