@@ -3,8 +3,7 @@ addressing
 
 [![Build Status](https://github.com/commerceguys/addressing/actions/workflows/build.yml/badge.svg)](https://github.com/commerceguys/addressing/actions/workflows/build.yml)
 
-A PHP 8+ addressing library, powered by CLDR and Google's address data.
-If you use Php 7 please use the 1.x branch.
+A PHP 8.0+ addressing library, powered by CLDR and Google's address data.
 
 Manipulates postal addresses, meant to identify a precise recipient location for shipping or billing purposes.
 
@@ -67,7 +66,7 @@ The [subdivision](https://github.com/commerceguys/addressing/blob/master/src/Sub
 - The subdivision code (used to represent the subdivision on a parcel/envelope, e.g. CA for California)
 - The subdivision name (shown to the user in a dropdown)
 - The local code and name, if the country uses a non-latin script (e.g. Cyrilic in Russia).
-- The postal code prefix (used to ensure that a postal code begins with the expected characters)
+- The postal code pattern (if different from the one on the address format).
 
 Subdivisions are hierarchical and can have up to three levels:
 Administrative Area -> Locality -> Dependent Locality.
