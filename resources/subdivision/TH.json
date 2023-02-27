@@ -4,33 +4,27 @@
 	"subdivisions": {
 		"Krabi": {
 			"local_code": "กระบี่",
-			"iso_code": "TH-81",
-			"postal_code_pattern": "81"
+			"iso_code": "TH-81"
 		},
 		"Bangkok": {
 			"local_code": "กรุงเทพมหานคร",
-			"iso_code": "TH-10",
-			"postal_code_pattern": "10"
+			"iso_code": "TH-10"
 		},
 		"Kanchanaburi": {
 			"local_code": "กาญจนบุรี",
-			"iso_code": "TH-71",
-			"postal_code_pattern": "71"
+			"iso_code": "TH-71"
 		},
 		"Kalasin": {
 			"local_code": "กาฬสินธุ์",
-			"iso_code": "TH-46",
-			"postal_code_pattern": "46"
+			"iso_code": "TH-46"
 		},
 		"Kamphaeng Phet": {
 			"local_code": "กำแพงเพชร",
-			"iso_code": "TH-62",
-			"postal_code_pattern": "62"
+			"iso_code": "TH-62"
 		},
 		"Khon Kaen": {
 			"local_code": "ขอนแก่น",
-			"iso_code": "TH-40",
-			"postal_code_pattern": "40"
+			"iso_code": "TH-40"
 		},
 		"Bueng Kan": {
 			"local_code": "จังหวัด บึงกาฬ",
@@ -38,353 +32,283 @@
 		},
 		"Chanthaburi": {
 			"local_code": "จันทบุรี",
-			"iso_code": "TH-22",
-			"postal_code_pattern": "22"
+			"iso_code": "TH-22"
 		},
 		"Chachoengsao": {
 			"local_code": "ฉะเชิงเทรา",
-			"iso_code": "TH-24",
-			"postal_code_pattern": "24"
+			"iso_code": "TH-24"
 		},
 		"Chon Buri": {
 			"local_code": "ชลบุรี",
-			"iso_code": "TH-20",
-			"postal_code_pattern": "20"
+			"iso_code": "TH-20"
 		},
 		"Chai Nat": {
 			"local_code": "ชัยนาท",
-			"iso_code": "TH-18",
-			"postal_code_pattern": "17"
+			"iso_code": "TH-18"
 		},
 		"Chaiyaphum": {
 			"local_code": "ชัยภูมิ",
-			"iso_code": "TH-36",
-			"postal_code_pattern": "36"
+			"iso_code": "TH-36"
 		},
 		"Chumpon": {
 			"local_code": "ชุมพร",
-			"iso_code": "TH-86",
-			"postal_code_pattern": "86"
+			"iso_code": "TH-86"
 		},
 		"Chiang Rai": {
 			"local_code": "เชียงราย",
-			"iso_code": "TH-57",
-			"postal_code_pattern": "57"
+			"iso_code": "TH-57"
 		},
 		"Chiang Mai": {
 			"local_code": "เชียงใหม่",
-			"iso_code": "TH-50",
-			"postal_code_pattern": "50"
+			"iso_code": "TH-50"
 		},
 		"Trang": {
 			"local_code": "ตรัง",
-			"iso_code": "TH-92",
-			"postal_code_pattern": "92"
+			"iso_code": "TH-92"
 		},
 		"Trat": {
 			"local_code": "ตราด",
-			"iso_code": "TH-23",
-			"postal_code_pattern": "23"
+			"iso_code": "TH-23"
 		},
 		"Tak": {
 			"local_code": "ตาก",
-			"iso_code": "TH-63",
-			"postal_code_pattern": "63"
+			"iso_code": "TH-63"
 		},
 		"Nakhon Nayok": {
 			"local_code": "นครนายก",
-			"iso_code": "TH-26",
-			"postal_code_pattern": "26"
+			"iso_code": "TH-26"
 		},
 		"Nakhon Pathom": {
 			"local_code": "นครปฐม",
-			"iso_code": "TH-73",
-			"postal_code_pattern": "73"
+			"iso_code": "TH-73"
 		},
 		"Nakhon Phanom": {
 			"local_code": "นครพนม",
-			"iso_code": "TH-48",
-			"postal_code_pattern": "48"
+			"iso_code": "TH-48"
 		},
 		"Nakhon Ratchasima": {
 			"local_code": "นครราชสีมา",
-			"iso_code": "TH-30",
-			"postal_code_pattern": "30"
+			"iso_code": "TH-30"
 		},
 		"Nakhon Si Thammarat": {
 			"local_code": "นครศรีธรรมราช",
-			"iso_code": "TH-80",
-			"postal_code_pattern": "80"
+			"iso_code": "TH-80"
 		},
 		"Nakhon Sawan": {
 			"local_code": "นครสวรรค์",
-			"iso_code": "TH-60",
-			"postal_code_pattern": "60"
+			"iso_code": "TH-60"
 		},
 		"Nonthaburi": {
 			"local_code": "นนทบุรี",
-			"iso_code": "TH-12",
-			"postal_code_pattern": "11"
+			"iso_code": "TH-12"
 		},
 		"Narathiwat": {
 			"local_code": "นราธิวาส",
-			"iso_code": "TH-96",
-			"postal_code_pattern": "96"
+			"iso_code": "TH-96"
 		},
 		"Nan": {
 			"local_code": "น่าน",
-			"iso_code": "TH-55",
-			"postal_code_pattern": "55"
+			"iso_code": "TH-55"
 		},
 		"Buri Ram": {
 			"local_code": "บุรีรัมย์",
-			"iso_code": "TH-31",
-			"postal_code_pattern": "31"
+			"iso_code": "TH-31"
 		},
 		"Pathum Thani": {
 			"local_code": "ปทุมธานี",
-			"iso_code": "TH-13",
-			"postal_code_pattern": "12"
+			"iso_code": "TH-13"
 		},
 		"Prachuap Khiri Khan": {
 			"local_code": "ประจวบคีรีขันธ์",
-			"iso_code": "TH-77",
-			"postal_code_pattern": "77"
+			"iso_code": "TH-77"
 		},
 		"Prachin Buri": {
 			"local_code": "ปราจีนบุรี",
-			"iso_code": "TH-25",
-			"postal_code_pattern": "25"
+			"iso_code": "TH-25"
 		},
 		"Pattani": {
 			"local_code": "ปัตตานี",
-			"iso_code": "TH-94",
-			"postal_code_pattern": "94"
+			"iso_code": "TH-94"
 		},
 		"Phra Nakhon Si Ayutthaya": {
 			"local_code": "พระนครศรีอยุธยา",
-			"iso_code": "TH-14",
-			"postal_code_pattern": "13"
+			"iso_code": "TH-14"
 		},
 		"Phayao": {
 			"local_code": "พะเยา",
-			"iso_code": "TH-56",
-			"postal_code_pattern": "56"
+			"iso_code": "TH-56"
 		},
 		"Phang Nga": {
 			"local_code": "พังงา",
-			"iso_code": "TH-82",
-			"postal_code_pattern": "82"
+			"iso_code": "TH-82"
 		},
 		"Phattalung": {
 			"local_code": "พัทลุง",
-			"iso_code": "TH-93",
-			"postal_code_pattern": "93"
+			"iso_code": "TH-93"
 		},
 		"Phichit": {
 			"local_code": "พิจิตร",
-			"iso_code": "TH-66",
-			"postal_code_pattern": "66"
+			"iso_code": "TH-66"
 		},
 		"Phitsanulok": {
 			"local_code": "พิษณุโลก",
-			"iso_code": "TH-65",
-			"postal_code_pattern": "65"
+			"iso_code": "TH-65"
 		},
 		"Phetchaburi": {
 			"local_code": "เพชรบุรี",
-			"iso_code": "TH-76",
-			"postal_code_pattern": "76"
+			"iso_code": "TH-76"
 		},
 		"Phetchabun": {
 			"local_code": "เพชรบูรณ์",
-			"iso_code": "TH-67",
-			"postal_code_pattern": "67"
+			"iso_code": "TH-67"
 		},
 		"Phrae": {
 			"local_code": "แพร่",
-			"iso_code": "TH-54",
-			"postal_code_pattern": "54"
+			"iso_code": "TH-54"
 		},
 		"Phuket": {
 			"local_code": "ภูเก็ต",
-			"iso_code": "TH-83",
-			"postal_code_pattern": "83"
+			"iso_code": "TH-83"
 		},
 		"Maha Sarakham": {
 			"local_code": "มหาสารคาม",
-			"iso_code": "TH-44",
-			"postal_code_pattern": "44"
+			"iso_code": "TH-44"
 		},
 		"Mukdahan": {
 			"local_code": "มุกดาหาร",
-			"iso_code": "TH-49",
-			"postal_code_pattern": "49"
+			"iso_code": "TH-49"
 		},
 		"Mae Hong Son": {
 			"local_code": "แม่ฮ่องสอน",
-			"iso_code": "TH-58",
-			"postal_code_pattern": "58"
+			"iso_code": "TH-58"
 		},
 		"Yasothon": {
 			"local_code": "ยโสธร",
-			"iso_code": "TH-35",
-			"postal_code_pattern": "35"
+			"iso_code": "TH-35"
 		},
 		"Yala": {
 			"local_code": "ยะลา",
-			"iso_code": "TH-95",
-			"postal_code_pattern": "95"
+			"iso_code": "TH-95"
 		},
 		"Roi Et": {
 			"local_code": "ร้อยเอ็ด",
-			"iso_code": "TH-45",
-			"postal_code_pattern": "45"
+			"iso_code": "TH-45"
 		},
 		"Ranong": {
 			"local_code": "ระนอง",
-			"iso_code": "TH-85",
-			"postal_code_pattern": "85"
+			"iso_code": "TH-85"
 		},
 		"Rayong": {
 			"local_code": "ระยอง",
-			"iso_code": "TH-21",
-			"postal_code_pattern": "21"
+			"iso_code": "TH-21"
 		},
 		"Ratchaburi": {
 			"local_code": "ราชบุรี",
-			"iso_code": "TH-70",
-			"postal_code_pattern": "70"
+			"iso_code": "TH-70"
 		},
 		"Lop Buri": {
 			"local_code": "ลพบุรี",
-			"iso_code": "TH-16",
-			"postal_code_pattern": "15"
+			"iso_code": "TH-16"
 		},
 		"Lampang": {
 			"local_code": "ลำปาง",
-			"iso_code": "TH-52",
-			"postal_code_pattern": "52"
+			"iso_code": "TH-52"
 		},
 		"Lamphun": {
 			"local_code": "ลำพูน",
-			"iso_code": "TH-51",
-			"postal_code_pattern": "51"
+			"iso_code": "TH-51"
 		},
 		"Loei": {
 			"local_code": "เลย",
-			"iso_code": "TH-42",
-			"postal_code_pattern": "42"
+			"iso_code": "TH-42"
 		},
 		"Si Sa Ket": {
 			"local_code": "ศรีสะเกษ",
-			"iso_code": "TH-33",
-			"postal_code_pattern": "33"
+			"iso_code": "TH-33"
 		},
 		"Sakon Nakhon": {
 			"local_code": "สกลนคร",
-			"iso_code": "TH-47",
-			"postal_code_pattern": "47"
+			"iso_code": "TH-47"
 		},
 		"Songkhla": {
 			"local_code": "สงขลา",
-			"iso_code": "TH-90",
-			"postal_code_pattern": "90"
+			"iso_code": "TH-90"
 		},
 		"Satun": {
 			"local_code": "สตูล",
-			"iso_code": "TH-91",
-			"postal_code_pattern": "91"
+			"iso_code": "TH-91"
 		},
 		"Samut Prakan": {
 			"local_code": "สมุทรปราการ",
-			"iso_code": "TH-11",
-			"postal_code_pattern": "10"
+			"iso_code": "TH-11"
 		},
 		"Samut Songkhram": {
 			"local_code": "สมุทรสงคราม",
-			"iso_code": "TH-75",
-			"postal_code_pattern": "75"
+			"iso_code": "TH-75"
 		},
 		"Samut Sakhon": {
 			"local_code": "สมุทรสาคร",
-			"iso_code": "TH-74",
-			"postal_code_pattern": "74"
+			"iso_code": "TH-74"
 		},
 		"Sa Kaeo": {
 			"local_code": "สระแก้ว",
-			"iso_code": "TH-27",
-			"postal_code_pattern": "27"
+			"iso_code": "TH-27"
 		},
 		"Saraburi": {
 			"local_code": "สระบุรี",
-			"iso_code": "TH-19",
-			"postal_code_pattern": "18"
+			"iso_code": "TH-19"
 		},
 		"Sing Buri": {
 			"local_code": "สิงห์บุรี",
-			"iso_code": "TH-17",
-			"postal_code_pattern": "16"
+			"iso_code": "TH-17"
 		},
 		"Sukhothai": {
 			"local_code": "สุโขทัย",
-			"iso_code": "TH-64",
-			"postal_code_pattern": "64"
+			"iso_code": "TH-64"
 		},
 		"Suphanburi": {
 			"local_code": "สุพรรณบุรี",
-			"iso_code": "TH-72",
-			"postal_code_pattern": "72"
+			"iso_code": "TH-72"
 		},
 		"Surat Thani": {
 			"local_code": "สุราษฎร์ธานี",
-			"iso_code": "TH-84",
-			"postal_code_pattern": "84"
+			"iso_code": "TH-84"
 		},
 		"Surin": {
 			"local_code": "สุรินทร์",
-			"iso_code": "TH-32",
-			"postal_code_pattern": "32"
+			"iso_code": "TH-32"
 		},
 		"Nong Khai": {
 			"local_code": "หนองคาย",
-			"iso_code": "TH-43",
-			"postal_code_pattern": "43"
+			"iso_code": "TH-43"
 		},
 		"Nong Bua Lam Phu": {
 			"local_code": "หนองบัวลำภู",
-			"iso_code": "TH-39",
-			"postal_code_pattern": "39"
+			"iso_code": "TH-39"
 		},
 		"Ang Thong": {
 			"local_code": "อ่างทอง",
-			"iso_code": "TH-15",
-			"postal_code_pattern": "14"
+			"iso_code": "TH-15"
 		},
 		"Amnat Charoen": {
 			"local_code": "อำนาจเจริญ",
-			"iso_code": "TH-37",
-			"postal_code_pattern": "37"
+			"iso_code": "TH-37"
 		},
 		"Udon Thani": {
 			"local_code": "อุดรธานี",
-			"iso_code": "TH-41",
-			"postal_code_pattern": "41"
+			"iso_code": "TH-41"
 		},
 		"Uttaradit": {
 			"local_code": "อุตรดิตถ์",
-			"iso_code": "TH-53",
-			"postal_code_pattern": "53"
+			"iso_code": "TH-53"
 		},
 		"Uthai Thani": {
 			"local_code": "อุทัยธานี",
-			"iso_code": "TH-61",
-			"postal_code_pattern": "61"
+			"iso_code": "TH-61"
 		},
 		"Ubon Ratchathani": {
 			"local_code": "อุบลราชธานี",
-			"iso_code": "TH-34",
-			"postal_code_pattern": "34"
+			"iso_code": "TH-34"
 		}
 	}
 }

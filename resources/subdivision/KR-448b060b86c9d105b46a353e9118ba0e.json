@@ -7,24 +7,19 @@
 	"locale": "ko",
 	"subdivisions": {
 		"Daedeok-gu": {
-			"local_code": "대덕구",
-			"postal_code_pattern": "34[34]"
+			"local_code": "대덕구"
 		},
 		"Dong-gu": {
-			"local_code": "동구",
-			"postal_code_pattern": "34[5-7]"
+			"local_code": "동구"
 		},
 		"Seo-gu": {
-			"local_code": "서구",
-			"postal_code_pattern": "35[2-4]"
+			"local_code": "서구"
 		},
 		"Yuseong-gu": {
-			"local_code": "유성구",
-			"postal_code_pattern": "34[0-2]"
+			"local_code": "유성구"
 		},
 		"Jung-gu": {
-			"local_code": "중구",
-			"postal_code_pattern": "3(?:4[89]|50)"
+			"local_code": "중구"
 		}
 	}
 }

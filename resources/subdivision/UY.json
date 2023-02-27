@@ -2,80 +2,61 @@
 	"country_code": "UY",
 	"subdivisions": {
 		"Artigas": {
-			"iso_code": "UY-AR",
-			"postal_code_pattern": "55"
+			"iso_code": "UY-AR"
 		},
 		"Canelones": {
-			"iso_code": "UY-CA",
-			"postal_code_pattern": "9[01]|1[456]"
+			"iso_code": "UY-CA"
 		},
 		"Cerro Largo": {
-			"iso_code": "UY-CL",
-			"postal_code_pattern": "37"
+			"iso_code": "UY-CL"
 		},
 		"Colonia": {
-			"iso_code": "UY-CO",
-			"postal_code_pattern": "70|75204"
+			"iso_code": "UY-CO"
 		},
 		"Durazno": {
-			"iso_code": "UY-DU",
-			"postal_code_pattern": "97"
+			"iso_code": "UY-DU"
 		},
 		"Flores": {
-			"iso_code": "UY-FS",
-			"postal_code_pattern": "85"
+			"iso_code": "UY-FS"
 		},
 		"Florida": {
-			"iso_code": "UY-FD",
-			"postal_code_pattern": "94|9060|97005"
+			"iso_code": "UY-FD"
 		},
 		"Lavalleja": {
-			"iso_code": "UY-LA",
-			"postal_code_pattern": "30"
+			"iso_code": "UY-LA"
 		},
 		"Maldonado": {
-			"iso_code": "UY-MA",
-			"postal_code_pattern": "20"
+			"iso_code": "UY-MA"
 		},
 		"Montevideo": {
-			"iso_code": "UY-MO",
-			"postal_code_pattern": "1|91600"
+			"iso_code": "UY-MO"
 		},
 		"Paysandú": {
-			"iso_code": "UY-PA",
-			"postal_code_pattern": "60"
+			"iso_code": "UY-PA"
 		},
 		"Río Negro": {
-			"iso_code": "UY-RN",
-			"postal_code_pattern": "65|60002"
+			"iso_code": "UY-RN"
 		},
 		"Rivera": {
-			"iso_code": "UY-RV",
-			"postal_code_pattern": "40"
+			"iso_code": "UY-RV"
 		},
 		"Rocha": {
-			"iso_code": "UY-RO",
-			"postal_code_pattern": "27"
+			"iso_code": "UY-RO"
 		},
 		"Salto": {
-			"iso_code": "UY-SA",
-			"postal_code_pattern": "50"
+			"iso_code": "UY-SA"
 		},
 		"San José": {
-			"iso_code": "UY-SJ",
-			"postal_code_pattern": "80"
+			"iso_code": "UY-SJ"
 		},
 		"Soriano": {
-			"iso_code": "UY-SO",
-			"postal_code_pattern": "75|70003"
+			"iso_code": "UY-SO"
 		},
 		"Tacuarembó": {
-			"iso_code": "UY-TA",
-			"postal_code_pattern": "45"
+			"iso_code": "UY-TA"
 		},
 		"Treinta y Tres": {
-			"iso_code": "UY-TT",
-			"postal_code_pattern": "33|30203|30204|30302|37007"
+			"iso_code": "UY-TT"
 		}
 	}
 }

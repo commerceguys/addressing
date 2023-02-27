@@ -6,92 +6,79 @@
 			"local_code": "AB",
 			"local_name": "Alberta",
 			"name": "Alberta",
-			"iso_code": "CA-AB",
-			"postal_code_pattern": "T"
+			"iso_code": "CA-AB"
 		},
 		"BC": {
 			"local_code": "BC",
 			"local_name": "Colombie-Britannique",
 			"name": "British Columbia",
-			"iso_code": "CA-BC",
-			"postal_code_pattern": "V"
+			"iso_code": "CA-BC"
 		},
 		"MB": {
 			"local_code": "MB",
 			"local_name": "Manitoba",
 			"name": "Manitoba",
-			"iso_code": "CA-MB",
-			"postal_code_pattern": "R"
+			"iso_code": "CA-MB"
 		},
 		"NB": {
 			"local_code": "NB",
 			"local_name": "Nouveau-Brunswick",
 			"name": "New Brunswick",
-			"iso_code": "CA-NB",
-			"postal_code_pattern": "E"
+			"iso_code": "CA-NB"
 		},
 		"NL": {
 			"local_code": "NL",
 			"local_name": "Terre-Neuve-et-Labrador",
 			"name": "Newfoundland and Labrador",
-			"iso_code": "CA-NL",
-			"postal_code_pattern": "A"
+			"iso_code": "CA-NL"
 		},
 		"NT": {
 			"local_code": "NT",
 			"local_name": "Territoires du Nord-Ouest",
 			"name": "Northwest Territories",
-			"iso_code": "CA-NT",
-			"postal_code_pattern": "X0E|X0G|X1A"
+			"iso_code": "CA-NT"
 		},
 		"NS": {
 			"local_code": "NS",
 			"local_name": "Nouvelle-Écosse",
 			"name": "Nova Scotia",
-			"iso_code": "CA-NS",
-			"postal_code_pattern": "B"
+			"iso_code": "CA-NS"
 		},
 		"NU": {
 			"local_code": "NU",
 			"local_name": "Nunavut",
 			"name": "Nunavut",
-			"iso_code": "CA-NU",
-			"postal_code_pattern": "X0A|X0B|X0C"
+			"iso_code": "CA-NU"
 		},
 		"ON": {
 			"local_code": "ON",
 			"local_name": "Ontario",
 			"name": "Ontario",
-			"iso_code": "CA-ON",
-			"postal_code_pattern": "K|L|M|N|P"
+			"iso_code": "CA-ON"
 		},
 		"PE": {
 			"local_code": "PE",
 			"local_name": "Île-du-Prince-Édouard",
 			"name": "Prince Edward Island",
-			"iso_code": "CA-PE",
-			"postal_code_pattern": "C"
+			"iso_code": "CA-PE"
 		},
 		"QC": {
 			"local_code": "QC",
 			"local_name": "Québec",
 			"name": "Quebec",
-			"iso_code": "CA-QC",
-			"postal_code_pattern": "G|H|J|K1A"
+			"iso_code": "CA-QC"
 		},
 		"SK": {
 			"local_code": "SK",
 			"local_name": "Saskatchewan",
 			"name": "Saskatchewan",
-			"iso_code": "CA-SK",
-			"postal_code_pattern": "S|R8A"
+			"iso_code": "CA-SK"
 		},
 		"YT": {
 			"local_code": "YT",
 			"local_name": "Yukon",
 			"name": "Yukon",
-			"iso_code": "CA-YT",
-			"postal_code_pattern": "Y"
+			"iso_code": "CA-YT"
 		}
 	}
 }

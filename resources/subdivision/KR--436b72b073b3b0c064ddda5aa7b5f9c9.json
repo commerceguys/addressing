@@ -8,12 +8,10 @@
 	"locale": "ko",
 	"subdivisions": {
 		"Dongnam-gu": {
-			"local_code": "동남구",
-			"postal_code_pattern": "31[0-2]"
+			"local_code": "동남구"
 		},
 		"Seobuk-gu": {
-			"local_code": "서북구",
-			"postal_code_pattern": "31[01]"
+			"local_code": "서북구"
 		}
 	}
 }

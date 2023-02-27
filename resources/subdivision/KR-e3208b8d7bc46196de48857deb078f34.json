@@ -7,65 +7,50 @@
 	"locale": "ko",
 	"subdivisions": {
 		"Gyeryong-si": {
-			"local_code": "계룡시",
-			"postal_code_pattern": "328"
+			"local_code": "계룡시"
 		},
 		"Gongju-si": {
-			"local_code": "공주시",
-			"postal_code_pattern": "32[56]"
+			"local_code": "공주시"
 		},
 		"Geumsan-gun": {
-			"local_code": "금산군",
-			"postal_code_pattern": "327"
+			"local_code": "금산군"
 		},
 		"Nonsan-si": {
-			"local_code": "논산시",
-			"postal_code_pattern": "3(?:29|30)"
+			"local_code": "논산시"
 		},
 		"Dangjin-si": {
-			"local_code": "당진시",
-			"postal_code_pattern": "31[78]"
+			"local_code": "당진시"
 		},
 		"Boryeong-si": {
-			"local_code": "보령시",
-			"postal_code_pattern": "33[45]"
+			"local_code": "보령시"
 		},
 		"Buyeo-gun": {
-			"local_code": "부여군",
-			"postal_code_pattern": "33[12]"
+			"local_code": "부여군"
 		},
 		"Seosan-si": {
-			"local_code": "서산시",
-			"postal_code_pattern": "3(?:19|20)"
+			"local_code": "서산시"
 		},
 		"Seocheon-gun": {
-			"local_code": "서천군",
-			"postal_code_pattern": "336"
+			"local_code": "서천군"
 		},
 		"Asan-si": {
-			"local_code": "아산시",
-			"postal_code_pattern": "31[45]"
+			"local_code": "아산시"
 		},
 		"Yesan-gun": {
-			"local_code": "예산군",
-			"postal_code_pattern": "324"
+			"local_code": "예산군"
 		},
 		"Cheonan-si": {
 			"local_code": "천안시",
-			"postal_code_pattern": "31[0-2]",
 			"has_children": true
 		},
 		"Cheongyang-gun": {
-			"local_code": "청양군",
-			"postal_code_pattern": "333"
+			"local_code": "청양군"
 		},
 		"Taean-gun": {
-			"local_code": "태안군",
-			"postal_code_pattern": "321"
+			"local_code": "태안군"
 		},
 		"Hongseong-gun": {
-			"local_code": "홍성군",
-			"postal_code_pattern": "322"
+			"local_code": "홍성군"
 		}
 	}
 }

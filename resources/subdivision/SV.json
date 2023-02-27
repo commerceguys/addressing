@@ -3,66 +3,52 @@
 	"subdivisions": {
 		"Ahuachapan": {
 			"name": "Ahuachapán",
-			"iso_code": "SV-AH",
-			"postal_code_pattern": "CP 21"
+			"iso_code": "SV-AH"
 		},
 		"Cabanas": {
 			"name": "Cabañas",
-			"iso_code": "SV-CA",
-			"postal_code_pattern": "CP 12"
+			"iso_code": "SV-CA"
 		},
 		"Calatenango": {
 			"name": "Chalatenango",
-			"iso_code": "SV-CH",
-			"postal_code_pattern": "CP 13"
+			"iso_code": "SV-CH"
 		},
 		"Cuscatlan": {
 			"name": "Cuscatlán",
-			"iso_code": "SV-CU",
-			"postal_code_pattern": "CP 14"
+			"iso_code": "SV-CU"
 		},
 		"La Libertad": {
-			"iso_code": "SV-LI",
-			"postal_code_pattern": "CP 15"
+			"iso_code": "SV-LI"
 		},
 		"La Paz": {
-			"iso_code": "SV-PA",
-			"postal_code_pattern": "CP 16"
+			"iso_code": "SV-PA"
 		},
 		"La Union": {
 			"name": "La Unión",
-			"iso_code": "SV-UN",
-			"postal_code_pattern": "CP 31"
+			"iso_code": "SV-UN"
 		},
 		"Morazan": {
 			"name": "Morazán",
-			"iso_code": "SV-MO",
-			"postal_code_pattern": "CP 32"
+			"iso_code": "SV-MO"
 		},
 		"San Miguel": {
-			"iso_code": "SV-SM",
-			"postal_code_pattern": "CP 33"
+			"iso_code": "SV-SM"
 		},
 		"San Salvador": {
-			"iso_code": "SV-SS",
-			"postal_code_pattern": "CP 11"
+			"iso_code": "SV-SS"
 		},
 		"San Vicente": {
-			"iso_code": "SV-SV",
-			"postal_code_pattern": "CP 17"
+			"iso_code": "SV-SV"
 		},
 		"Santa Ana": {
-			"iso_code": "SV-SA",
-			"postal_code_pattern": "CP 22"
+			"iso_code": "SV-SA"
 		},
 		"Sonsonate": {
-			"iso_code": "SV-SO",
-			"postal_code_pattern": "CP 23"
+			"iso_code": "SV-SO"
 		},
 		"Usulutan": {
 			"name": "Usulután",
-			"iso_code": "SV-US",
-			"postal_code_pattern": "CP 34"
+			"iso_code": "SV-US"
 		}
 	}
 }

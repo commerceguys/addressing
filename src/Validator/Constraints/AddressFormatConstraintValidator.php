@@ -8,7 +8,6 @@ use CommerceGuys\Addressing\AddressFormat\AddressField;
 use CommerceGuys\Addressing\AddressFormat\AddressFormat;
 use CommerceGuys\Addressing\AddressFormat\AddressFormatRepository;
 use CommerceGuys\Addressing\AddressFormat\AddressFormatRepositoryInterface;
-use CommerceGuys\Addressing\Subdivision\PatternType;
 use CommerceGuys\Addressing\Subdivision\Subdivision;
 use CommerceGuys\Addressing\Subdivision\SubdivisionRepository;
 use CommerceGuys\Addressing\Subdivision\SubdivisionRepositoryInterface;
@@ -128,37 +127,22 @@ class AddressFormatConstraintValidator extends ConstraintValidator
         }
 
         // Resolve the available patterns.
-        $fullPattern = $addressFormat->getPostalCodePattern();
-        $startPattern = null;
-        if (!empty($constraint->extendedPostalCodeValidation)) {
-            foreach ($subdivisions as $subdivision) {
-                $pattern = $subdivision->getPostalCodePattern();
-                if (empty($pattern)) {
-                    continue;
-                }
-
-                if ($subdivision->getPostalCodePatternType() === PatternType::FULL) {
-                    $fullPattern = $pattern;
-                } else {
-                    $startPattern = $pattern;
-                }
+        $pattern = $addressFormat->getPostalCodePattern();
+        foreach ($subdivisions as $subdivision) {
+            $subdivisionPattern = $subdivision->getPostalCodePattern();
+            if (!empty($subdivisionPattern)) {
+                $pattern = $subdivisionPattern;
+                break;
             }
         }
 
-        if ($fullPattern) {
+        if ($pattern) {
             // The pattern must match the provided value completely.
-            preg_match('/' . $fullPattern . '/i', $postalCode, $matches);
+            preg_match('/' . $pattern . '/i', $postalCode, $matches);
             if (!isset($matches[0]) || $matches[0] !== $postalCode) {
                 $this->addViolation(AddressField::POSTAL_CODE, $constraint->invalidMessage, $postalCode, $addressFormat);
 
                 return;
-            }
-        }
-        if ($startPattern) {
-            // The pattern must match the start of the provided value.
-            preg_match('/' . $startPattern . '/i', $postalCode, $matches);
-            if (!isset($matches[0]) || !str_starts_with($postalCode, $matches[0])) {
-                $this->addViolation(AddressField::POSTAL_CODE, $constraint->invalidMessage, $postalCode, $addressFormat);
             }
         }
     }

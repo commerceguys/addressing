@@ -8,20 +8,16 @@
 	"locale": "ko",
 	"subdivisions": {
 		"Gwonseon-gu": {
-			"local_code": "권선구",
-			"postal_code_pattern": "16[3-6]"
+			"local_code": "권선구"
 		},
 		"Yeongtong-gu": {
-			"local_code": "영통구",
-			"postal_code_pattern": "16[245-7]"
+			"local_code": "영통구"
 		},
 		"Jangan-gu": {
-			"local_code": "장안구",
-			"postal_code_pattern": "16[2-4]"
+			"local_code": "장안구"
 		},
 		"Paldal-gu": {
-			"local_code": "팔달구",
-			"postal_code_pattern": "16[2-6]"
+			"local_code": "팔달구"
 		}
 	}
 }

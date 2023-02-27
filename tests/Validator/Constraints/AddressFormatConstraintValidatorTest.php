@@ -170,9 +170,6 @@ final class AddressFormatConstraintValidatorTest extends ConstraintValidatorTest
      */
     public function testUnitedStatesSubdivisionPostcodePattern(): void
     {
-        // Test with subdivision-level postal code validation disabled.
-        $this->constraint->extendedPostalCodeValidation = false;
-
         $address = new Address();
         $address = $address
             ->withCountryCode('US')
@@ -186,14 +183,6 @@ final class AddressFormatConstraintValidatorTest extends ConstraintValidatorTest
 
         $this->validator->validate($address, $this->constraint);
         $this->assertNoViolation();
-
-        // Now test with the subdivision-level postal code validation enabled.
-        $this->constraint->extendedPostalCodeValidation = true;
-        $this->validator->validate($address, $this->constraint);
-        $this->buildViolation($this->constraint->invalidMessage)
-            ->atPath('[postalCode]')
-            ->setInvalidValue('84025')
-            ->assertRaised();
     }
 
     /**
@@ -441,12 +430,6 @@ final class AddressFormatConstraintValidatorTest extends ConstraintValidatorTest
     public function testOverriddenRequiredFields(): void
     {
         // Confirm that it is possible to omit required name fields.
-        // Intentionally uses the deprecated fields setting to confirm
-        // that the BC layer works.
-        $nameFields = [AddressField::GIVEN_NAME, AddressField::FAMILY_NAME];
-        $this->constraint = new AddressFormatConstraint([
-            'fields' => array_diff(AddressField::getAll(), $nameFields),
-        ]);
         $address = new Address();
         $address = $address
             ->withCountryCode('CN')
@@ -454,11 +437,7 @@ final class AddressFormatConstraintValidatorTest extends ConstraintValidatorTest
             ->withLocality('Xicheng Qu')
             ->withPostalCode('123456')
             ->withAddressLine1('Yitiao Lu');
-        $this->validator->validate($address, $this->constraint);
-        $this->assertNoViolation();
 
-        // Confirm that an optional override works the same way.
-        $this->constraint->fields = [];
         $this->constraint->fieldOverrides = new FieldOverrides([
             AddressField::GIVEN_NAME => FieldOverride::OPTIONAL,
             AddressField::FAMILY_NAME => FieldOverride::OPTIONAL,
