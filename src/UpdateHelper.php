@@ -2,6 +2,8 @@
 
 namespace CommerceGuys\Addressing;
 
+use JetBrains\PhpStorm\ArrayShape;
+
 /**
  * The 1.0 branch of Addressing introduced two big changes:
  * - The recipient was split into given_name, additional_name, family_name.
@@ -13,20 +15,16 @@ class UpdateHelper
 {
     /**
      * A static cache of the subdivision $oldId => $newId map.
-     *
-     * @var array
      */
-    protected static $subdivisionUpdateMap = [];
+    protected static array $subdivisionUpdateMap = [];
 
     /**
      * Splits the recipient into givenName and familyName fields.
      *
-     * @param string $recipient   The recipient.
-     * @param string $countryCode The country code.
-     *
      * @return array The result, with givenName and familyName keys.
      */
-    public static function splitRecipient($recipient, $countryCode): array
+    #[ArrayShape(['givenName' => "string", 'familyName' => "null|string"])]
+    public static function splitRecipient(string $recipient, string $countryCode): array
     {
         // Countries that write the family name before the given name.
         $reverseCountries = [
@@ -49,12 +47,8 @@ class UpdateHelper
      *
      * Used for updating the administrative area, locality, dependent locality
      * address properties.
-     *
-     * @param string $oldValue The old value.
-     *
-     * @return string The new value.
      */
-    public static function updateSubdivision($oldValue): string
+    public static function updateSubdivision(string $oldValue): string
     {
         // Countries that have defined subdivisions.
         $supportedCountries = [
@@ -68,7 +62,7 @@ class UpdateHelper
             'AU', 'BR', 'CA', 'IT', 'US',
         ];
 
-        if (substr($oldValue, 2, 1) != '-') {
+        if ($oldValue[2] !== '-') {
             // This is a full value, not the ID of a predefined value.
             return $oldValue;
         }
@@ -80,17 +74,13 @@ class UpdateHelper
 
         // Prefixed administrative area.
         $parts = explode('-', $oldValue);
-        $isAdministrativeArea = count($parts) == 2;
+        $isAdministrativeArea = count($parts) === 2;
         if ($isAdministrativeArea && in_array($countryCode, $simpleAdministrativeAreas)) {
             return $parts[1];
         }
         // Mapped value.
         $updateMap = static::loadSubdivisionUpdateMap();
-        if (isset($updateMap[$oldValue])) {
-            return $updateMap[$oldValue];
-        }
-
-        return $oldValue;
+        return $updateMap[$oldValue] ?? $oldValue;
     }
 
     /**

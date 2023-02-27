@@ -8,13 +8,17 @@ if (is_dir(__DIR__ . '/assets')) {
 }
 // Make sure aria2 is installed.
 exec('aria2c --version', $ariaVersion);
-if (empty($ariaVersion) || strpos($ariaVersion[0], 'aria2 version') === false) {
+if (empty($ariaVersion) || !str_contains($ariaVersion[0], 'aria2 version')) {
     die('aria2 must be installed.');
 }
 
 // Prepare the filesystem.
-mkdir(__DIR__ . '/assets');
-mkdir(__DIR__ . '/assets/google');
+if (!mkdir($concurrentDirectory = __DIR__ . '/assets') && !is_dir($concurrentDirectory)) {
+    throw new \RuntimeException(sprintf('Directory "%s" was not created', $concurrentDirectory));
+}
+if (!mkdir($concurrentDirectory = __DIR__ . '/assets/google') && !is_dir($concurrentDirectory)) {
+    throw new \RuntimeException(sprintf('Directory "%s" was not created', $concurrentDirectory));
+}
 
 // Fetch country data (CLDR).
 echo "Fetching country data.\n";
@@ -34,7 +38,7 @@ echo "Download complete.\n";
 /**
  * Generates a list of all urls that need to be downloaded using aria2.
  */
-function generate_url_list()
+function generate_url_list(): string
 {
     global $serviceUrl;
 
@@ -43,7 +47,7 @@ function generate_url_list()
     // This avoids the /address/examples urls which aren't needed.
     preg_match_all("/<a\shref=\'\/ssl-address\/data\/([^\"]*)\'>/siU", $index, $matches);
     // Assemble the urls
-    $list = array_map(function ($href) use ($serviceUrl) {
+    $list = array_map(static function ($href) use ($serviceUrl) {
         // Replace the url encoded single slash with a real one.
         $href = str_replace('&#39;', "'", $href);
         // Convert 'US/CA' into 'US_CA.json'.
@@ -58,4 +62,3 @@ function generate_url_list()
 
     return implode("\n", $list);
 }
-

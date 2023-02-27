@@ -17,7 +17,7 @@ final class FieldOverridesTest extends TestCase
      *
      *
      */
-    public function testInvalidField()
+    public function testInvalidField(): void
     {
         $this->expectException(\InvalidArgumentException::class);
         $definition = [
@@ -31,7 +31,7 @@ final class FieldOverridesTest extends TestCase
      *
      *
      */
-    public function testInvalidOverride()
+    public function testInvalidOverride(): void
     {
         $this->expectException(\InvalidArgumentException::class);
         $definition = [
@@ -43,7 +43,7 @@ final class FieldOverridesTest extends TestCase
     /**
      * @covers ::__construct
      */
-    public function testEmptyDefinition()
+    public function testEmptyDefinition(): void
     {
         $fieldOverrides = new FieldOverrides([]);
         $this->assertSame([], $fieldOverrides->getHiddenFields());
@@ -57,7 +57,7 @@ final class FieldOverridesTest extends TestCase
      * @covers ::getOptionalFields
      * @covers ::getRequiredFields
      */
-    public function testOverrides()
+    public function testOverrides(): void
     {
         $fieldOverrides = new FieldOverrides([
             AddressField::GIVEN_NAME => FieldOverride::HIDDEN,

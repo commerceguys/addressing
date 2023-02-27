@@ -13,7 +13,7 @@ final class UpdateHelperTest extends TestCase
     /**
      * @covers ::splitRecipient
      */
-    public function testSplitRecipient()
+    public function testSplitRecipient(): void
     {
         $expectedName = ['givenName' => 'Erzsébet', 'familyName' => 'Báthory'];
         $this->assertEquals($expectedName, UpdateHelper::splitRecipient('Báthory Erzsébet', 'HU'));
@@ -25,7 +25,7 @@ final class UpdateHelperTest extends TestCase
      * @covers ::updateSubdivision
      * @covers ::loadSubdivisionUpdateMap
      */
-    public function testUpdateSubdivision()
+    public function testUpdateSubdivision(): void
     {
         // No predefined subdivisions.
         $this->assertEquals('RS-RS', UpdateHelper::updateSubdivision('RS-RS'));

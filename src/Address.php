@@ -14,91 +14,91 @@ class Address implements ImmutableAddressInterface
      *
      * @var string
      */
-    protected $countryCode;
+    protected string $countryCode;
 
     /**
      * The top-level administrative subdivision of the country.
      *
      * @var string
      */
-    protected $administrativeArea;
+    protected string $administrativeArea;
 
     /**
      * The locality (i.e. city).
      *
      * @var string
      */
-    protected $locality;
+    protected string $locality;
 
     /**
      * The dependent locality (i.e. neighbourhood).
      *
      * @var string
      */
-    protected $dependentLocality;
+    protected string $dependentLocality;
 
     /**
      * The postal code.
      *
      * @var string
      */
-    protected $postalCode;
+    protected string $postalCode;
 
     /**
      * The sorting code.
      *
      * @var string
      */
-    protected $sortingCode;
+    protected string $sortingCode;
 
     /**
      * The first line of the address block.
      *
      * @var string
      */
-    protected $addressLine1;
+    protected string $addressLine1;
 
     /**
      * The second line of the address block.
      *
      * @var string
      */
-    protected $addressLine2;
+    protected string $addressLine2;
 
     /**
      * The organization.
      *
      * @var string
      */
-    protected $organization;
+    protected string $organization;
 
     /**
      * The given name.
      *
      * @var string
      */
-    protected $givenName;
+    protected string $givenName;
 
     /**
      * The additional name
      *
      * @var string
      */
-    protected $additionalName;
+    protected string $additionalName;
 
     /**
      * The family name.
      *
      * @var string
      */
-    protected $familyName;
+    protected string $familyName;
 
     /**
      * The locale.
      *
      * @var string
      */
-    protected $locale;
+    protected string $locale;
 
     /**
      * Creates an Address instance.
@@ -158,7 +158,7 @@ class Address implements ImmutableAddressInterface
     /**
      * {@inheritdoc}
      */
-    public function withCountryCode($countryCode)
+    public function withCountryCode(string $countryCode): ImmutableAddressInterface|Address
     {
         $new = clone $this;
         $new->countryCode = $countryCode;
@@ -177,7 +177,7 @@ class Address implements ImmutableAddressInterface
     /**
      * {@inheritdoc}
      */
-    public function withAdministrativeArea($administrativeArea)
+    public function withAdministrativeArea(string $administrativeArea): ImmutableAddressInterface|Address
     {
         $new = clone $this;
         $new->administrativeArea = $administrativeArea;
@@ -196,7 +196,7 @@ class Address implements ImmutableAddressInterface
     /**
      * {@inheritdoc}
      */
-    public function withLocality($locality)
+    public function withLocality(string $locality): ImmutableAddressInterface|Address
     {
         $new = clone $this;
         $new->locality = $locality;
@@ -215,7 +215,7 @@ class Address implements ImmutableAddressInterface
     /**
      * {@inheritdoc}
      */
-    public function withDependentLocality($dependentLocality)
+    public function withDependentLocality(string $dependentLocality): ImmutableAddressInterface|Address
     {
         $new = clone $this;
         $new->dependentLocality = $dependentLocality;
@@ -234,7 +234,7 @@ class Address implements ImmutableAddressInterface
     /**
      * {@inheritdoc}
      */
-    public function withPostalCode($postalCode)
+    public function withPostalCode(string $postalCode): ImmutableAddressInterface|Address
     {
         $new = clone $this;
         $new->postalCode = $postalCode;
@@ -253,7 +253,7 @@ class Address implements ImmutableAddressInterface
     /**
      * {@inheritdoc}
      */
-    public function withSortingCode($sortingCode)
+    public function withSortingCode(string $sortingCode): ImmutableAddressInterface|Address
     {
         $new = clone $this;
         $new->sortingCode = $sortingCode;
@@ -272,7 +272,7 @@ class Address implements ImmutableAddressInterface
     /**
      * {@inheritdoc}
      */
-    public function withAddressLine1($addressLine1)
+    public function withAddressLine1(string $addressLine1): ImmutableAddressInterface|Address
     {
         $new = clone $this;
         $new->addressLine1 = $addressLine1;
@@ -291,7 +291,7 @@ class Address implements ImmutableAddressInterface
     /**
      * {@inheritdoc}
      */
-    public function withAddressLine2($addressLine2)
+    public function withAddressLine2(string $addressLine2): ImmutableAddressInterface|Address
     {
         $new = clone $this;
         $new->addressLine2 = $addressLine2;
@@ -310,7 +310,7 @@ class Address implements ImmutableAddressInterface
     /**
      * {@inheritdoc}
      */
-    public function withOrganization($organization)
+    public function withOrganization(string $organization): ImmutableAddressInterface|Address
     {
         $new = clone $this;
         $new->organization = $organization;
@@ -329,7 +329,7 @@ class Address implements ImmutableAddressInterface
     /**
      * {@inheritdoc}
      */
-    public function withGivenName($givenName)
+    public function withGivenName(string $givenName): ImmutableAddressInterface|Address
     {
         $new = clone $this;
         $new->givenName = $givenName;
@@ -348,7 +348,7 @@ class Address implements ImmutableAddressInterface
     /**
      * {@inheritdoc}
      */
-    public function withAdditionalName($additionalName)
+    public function withAdditionalName(string $additionalName): ImmutableAddressInterface|Address
     {
         $new = clone $this;
         $new->additionalName = $additionalName;
@@ -367,7 +367,7 @@ class Address implements ImmutableAddressInterface
     /**
      * {@inheritdoc}
      */
-    public function withFamilyName($familyName)
+    public function withFamilyName(string $familyName): ImmutableAddressInterface|Address
     {
         $new = clone $this;
         $new->familyName = $familyName;
@@ -386,7 +386,7 @@ class Address implements ImmutableAddressInterface
     /**
      * {@inheritdoc}
      */
-    public function withLocale($locale)
+    public function withLocale(string $locale): ImmutableAddressInterface|Address
     {
         $new = clone $this;
         $new->locale = $locale;

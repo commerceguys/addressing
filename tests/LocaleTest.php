@@ -14,7 +14,7 @@ final class LocaleTest extends TestCase
     /**
      * @covers ::match
      */
-    public function testMatch()
+    public function testMatch(): void
     {
         $this->assertTrue(Locale::match('en-US', 'EN_us'));
         $this->assertTrue(Locale::match('de', 'de'));
@@ -26,7 +26,7 @@ final class LocaleTest extends TestCase
     /**
      * @covers ::matchCandidates
      */
-    public function testMatchCandidates()
+    public function testMatchCandidates(): void
     {
         $this->assertTrue(Locale::matchCandidates('en-US', 'EN_us'));
         $this->assertTrue(Locale::matchCandidates('de', 'de'));
@@ -40,7 +40,7 @@ final class LocaleTest extends TestCase
     /**
      * @covers ::resolve
      */
-    public function testResolve()
+    public function testResolve(): void
     {
         $availableLocales = ['bs-Cyrl', 'bs', 'en'];
         $locale = Locale::resolve($availableLocales, 'bs-Cyrl-BA');
@@ -56,7 +56,7 @@ final class LocaleTest extends TestCase
     /**
      * @covers ::resolve
      */
-    public function testResolveWithoutResult()
+    public function testResolveWithoutResult(): void
     {
         $this->expectException(UnknownLocaleException::class);
         $availableLocales = ['bs', 'en'];
@@ -66,7 +66,7 @@ final class LocaleTest extends TestCase
     /**
      * @covers ::canonicalize
      */
-    public function testCanonicalize()
+    public function testCanonicalize(): void
     {
         $locale = Locale::canonicalize('BS_cyrl-ba');
         $this->assertEquals('bs-Cyrl-BA', $locale);
@@ -78,7 +78,7 @@ final class LocaleTest extends TestCase
     /**
      * @covers ::getCandidates
      */
-    public function testCandidates()
+    public function testCandidates(): void
     {
         $candidates = Locale::getCandidates('en-US');
         $this->assertEquals(['en-US', 'en'], $candidates);
@@ -99,7 +99,7 @@ final class LocaleTest extends TestCase
     /**
      * @covers ::getParent
      */
-    public function testParent()
+    public function testParent(): void
     {
         $this->assertEquals('sr-Latn', Locale::getParent('sr-Latn-RS'));
         // sr-Latn falls back to "und" instead of "sr".
@@ -110,7 +110,7 @@ final class LocaleTest extends TestCase
     /**
      * @covers ::replaceAlias
      */
-    public function testReplaceAlias()
+    public function testReplaceAlias(): void
     {
         $locale = Locale::replaceAlias('zh-CN');
         $this->assertEquals('zh-Hans-CN', $locale);

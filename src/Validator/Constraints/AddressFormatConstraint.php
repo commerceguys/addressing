@@ -18,17 +18,10 @@ class AddressFormatConstraint extends Constraint
      * Used fields.
      *
      * @deprecated Use $fieldOverrides instead.
-     *
-     * @var array
      */
-    public $fields = [];
+    public array $fields = [];
 
-    /**
-     * Field overrides.
-     *
-     * @var FieldOverrides
-     */
-    public $fieldOverrides;
+    public ?FieldOverrides $fieldOverrides = null;
 
     /**
      * Whether extended postal code validation is enabled.
@@ -38,28 +31,18 @@ class AddressFormatConstraint extends Constraint
      *
      * This feature is deprecated, commerceguys/addressing 2.0 will only
      * perform country-level validation.
-     *
-     * @var bool
      */
-    public $extendedPostalCodeValidation = true;
+    public bool $extendedPostalCodeValidation = true;
 
-    /**
-     * @var string
-     */
-    public $blankMessage = 'This value should be blank';
+    public string $blankMessage = 'This value should be blank';
 
-    /**
-     * @var string
-     */
-    public $notBlankMessage = 'This value should not be blank';
+    public string $notBlankMessage = 'This value should not be blank';
 
-    /**
-     * @var string
-     */
-    public $invalidMessage = 'This value is invalid.';
+    public string $invalidMessage = 'This value is invalid.';
 
     /**
      * {@inheritdoc}
+     * @throws \ReflectionException
      */
     public function __construct($options = null)
     {
@@ -82,7 +65,7 @@ class AddressFormatConstraint extends Constraint
     /**
      * @return string|string[]
      */
-    public function getTargets()
+    public function getTargets(): array|string
     {
         return self::CLASS_CONSTRAINT;
     }

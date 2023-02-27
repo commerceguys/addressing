@@ -15,17 +15,15 @@ use CommerceGuys\Addressing\AbstractEnum;
  */
 final class PatternType extends AbstractEnum
 {
-    const FULL = 'full';
-    const START = 'start';
+    public const FULL = 'full';
+    public const START = 'start';
 
     /**
      * Gets the default value.
-     *
-     * @return string The default value.
      */
     public static function getDefault(): string
     {
         // Most subdivisions define only partial patterns.
-        return static::START;
+        return PatternType::START;
     }
 }

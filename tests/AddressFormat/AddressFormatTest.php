@@ -20,7 +20,7 @@ final class AddressFormatTest extends TestCase
      *
      *
      */
-    public function testMissingProperty()
+    public function testMissingProperty(): void
     {
         $this->expectException(\InvalidArgumentException::class);
         $definition = [
@@ -34,7 +34,7 @@ final class AddressFormatTest extends TestCase
      *
      *
      */
-    public function testInvalidSubdivision()
+    public function testInvalidSubdivision(): void
     {
         $this->expectException(\InvalidArgumentException::class);
         $definition = [
@@ -64,7 +64,7 @@ final class AddressFormatTest extends TestCase
      * @covers ::getPostalCodePrefix
      * @covers ::getSubdivisionDepth
      */
-    public function testValid()
+    public function testValid(): void
     {
         $definition = [
             'country_code' => 'US',

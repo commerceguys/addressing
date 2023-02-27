@@ -13,7 +13,7 @@ final class AbstractEnumTest extends TestCase
     /**
      * @covers ::getAll
      */
-    public function testGetAll()
+    public function testGetAll(): void
     {
         $expectedValues = ['FULL' => 'full', 'START' => 'start'];
         $values = PatternType::getAll();
@@ -23,7 +23,7 @@ final class AbstractEnumTest extends TestCase
     /**
      * @covers ::getKey
      */
-    public function testGetKey()
+    public function testGetKey(): void
     {
         $key = PatternType::getKey('full');
         $this->assertEquals('FULL', $key);
@@ -35,7 +35,7 @@ final class AbstractEnumTest extends TestCase
     /**
      * @covers ::exists
      */
-    public function testExists()
+    public function testExists(): void
     {
         $result = PatternType::exists('start');
         $this->assertEquals(true, $result);
@@ -47,20 +47,20 @@ final class AbstractEnumTest extends TestCase
     /**
      * @covers ::assertExists
      */
-    public function testAssertExists()
+    public function testAssertExists(): void
     {
         $this->expectExceptionMessage("\"invalid\" is not a valid PatternType value.");
         $this->expectException(\InvalidArgumentException::class);
-        $result = PatternType::assertExists('invalid');
+        PatternType::assertExists('invalid');
     }
 
     /**
      * @covers ::assertAllExist
      */
-    public function testAssertAllExist()
+    public function testAssertAllExist(): void
     {
         $this->expectExceptionMessage("\"invalid\" is not a valid PatternType value.");
         $this->expectException(\InvalidArgumentException::class);
-        $result = PatternType::assertAllExist(['start', 'invalid']);
+        PatternType::assertAllExist(['start', 'invalid']);
     }
 }

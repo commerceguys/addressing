@@ -10,63 +10,35 @@ use CommerceGuys\Addressing\PostalCodeHelper;
  */
 class ZoneTerritory
 {
-    /**
-     * The country code.
-     *
-     * @var string
-     */
-    protected $countryCode;
+    protected ?string $countryCode;
 
-    /**
-     * The administrative area.
-     *
-     * @var string
-     */
-    protected $administrativeArea;
+    protected ?string $administrativeArea;
 
-    /**
-     * The locality.
-     *
-     * @var string
-     */
-    protected $locality;
+    protected ?string $locality;
 
-    /**
-     * The dependent locality.
-     *
-     * @var string
-     */
-    protected $dependentLocality;
+    protected ?string $dependentLocality;
 
     /**
      * The included postal codes.
      *
      * Can be a regular expression ("/(35|38)[0-9]{3}/") or a comma-separated
      * list of postal codes, including ranges ("98, 100:200, 250").
-     *
-     * @var string
      */
-    protected $includedPostalCodes;
+    protected ?string $includedPostalCodes;
 
     /**
      * The excluded postal codes.
      *
      * Can be a regular expression ("/(35|38)[0-9]{3}/") or a comma-separated
      * list of postal codes, including ranges ("98, 100:200, 250").
-     *
-     * @var string
      */
-    protected $excludedPostalCodes;
+    protected ?string $excludedPostalCodes;
 
-    /**
-     * Creates a new ZoneTerritory instance.
-     *
-     * @param array $definition The definition array.
-     */
+
     public function __construct(array $definition)
     {
         if (empty($definition['country_code'])) {
-            throw new \InvalidArgumentException(sprintf('Missing required property "country_code".'));
+            throw new \InvalidArgumentException('Missing required property "country_code".');
         }
 
         $this->countryCode = $definition['country_code'];
@@ -77,11 +49,6 @@ class ZoneTerritory
         $this->excludedPostalCodes = !empty($definition['excluded_postal_codes']) ? $definition['excluded_postal_codes'] : null;
     }
 
-    /**
-     * Gets the country code.
-     *
-     * @return string The country code.
-     */
     public function getCountryCode(): string
     {
         return $this->countryCode;
@@ -139,21 +106,19 @@ class ZoneTerritory
 
     /**
      * Checks whether the provided address belongs to the territory.
-     *
-     * @return bool True if the address belongs to the territory, false otherwise.
      */
     public function match(AddressInterface $address): bool
     {
-        if ($address->getCountryCode() != $this->countryCode) {
+        if ($address->getCountryCode() !== $this->countryCode) {
             return false;
         }
-        if ($this->administrativeArea && $this->administrativeArea != $address->getAdministrativeArea()) {
+        if ($this->administrativeArea && $this->administrativeArea !== $address->getAdministrativeArea()) {
             return false;
         }
-        if ($this->locality && $this->locality != $address->getLocality()) {
+        if ($this->locality && $this->locality !== $address->getLocality()) {
             return false;
         }
-        if ($this->dependentLocality && $this->dependentLocality != $address->getDependentLocality()) {
+        if ($this->dependentLocality && $this->dependentLocality !== $address->getDependentLocality()) {
             return false;
         }
         if (!PostalCodeHelper::match($address->getPostalCode(), $this->includedPostalCodes, $this->excludedPostalCodes)) {

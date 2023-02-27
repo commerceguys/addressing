@@ -20,5 +20,5 @@ interface FormatterInterface
      *
      * @return string The formatted address.
      */
-    public function format(AddressInterface $address, array $options = []);
+    public function format(AddressInterface $address, array $options = []): string;
 }

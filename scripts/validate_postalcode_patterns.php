@@ -30,51 +30,51 @@ $validator = Validation::createValidator();
 $foundCountries = ['ZZ'];
 $countryRepository = new CountryRepository();
 $countries = $countryRepository->getList();
-$serviceUrl = 'http://i18napis.appspot.com/address';
+$serviceUrl = 'https://i18napis.appspot.com/address';
 $index = file_get_contents($serviceUrl);
 foreach ($countries as $countryCode => $countryName) {
-  $link = "<a href='/address/data/{$countryCode}'>";
+    $link = "<a href='/address/data/$countryCode'>";
   // This is still faster than running a file_exists() for each country code.
-  if (strpos($index, $link) !== FALSE) {
-    $foundCountries[] = $countryCode;
-  }
+    if (str_contains($index, $link)) {
+        $foundCountries[] = $countryCode;
+    }
 }
 
 foreach ($foundCountries as $countryCode) {
-  $addressFormat = $addressFormatRepository->get($countryCode);
-  if (!in_array(AddressField::POSTAL_CODE, $addressFormat->getUsedFields())) {
-    continue;
-  }
-
-  $definition = file_get_contents('assets/google/' . $countryCode . '.json');
-  $definition = json_decode($definition, TRUE);
-  // If country definition has zip examples, check if they pass validation.
-  if (isset($definition['zipex'])) {
-    $zipExamples = explode(',', $definition['zipex']);
-    $address = $address->withCountryCode($countryCode);
-
-    foreach ($zipExamples as $zipExample) {
-      if (strpos($zipExample, ':') !== FALSE) {
-        // Ignore ranges for now, the non-range examples are enough.
+    $addressFormat = $addressFormatRepository->get($countryCode);
+    if (!in_array(AddressField::POSTAL_CODE, $addressFormat->getUsedFields())) {
         continue;
-      }
-
-      $address = $address->withPostalCode($zipExample);
-      $violations = $validator->validate($address, new AddressFormatConstraint());
-      $formattedExamples = implode(', ', $zipExamples);
-      foreach ($violations as $violation) {
-        if ($violation->getPropertyPath() == '[postalCode]') {
-          $message = $violation->getMessage();
-          $postalCodePattern = $addressFormat->getPostalCodePattern();
-          echo "Error for countrycode '$countryCode' with postal code '$zipExample'.\n";
-          echo "Error: $message\n";
-          echo "Postal code pattern: $postalCodePattern\n";
-          echo "All available postal code examples: $formattedExamples\n\n";
-
-          // Once we catch an error in a country, don't try other examples.
-          continue 3;
-        }
-      }
     }
-  }
+
+    $definition = file_get_contents('assets/google/' . $countryCode . '.json');
+    $definition = json_decode($definition, true);
+  // If country definition has zip examples, check if they pass validation.
+    if (isset($definition['zipex'])) {
+        $zipExamples = explode(',', $definition['zipex']);
+        $address = $address->withCountryCode($countryCode);
+
+        foreach ($zipExamples as $zipExample) {
+            if (str_contains($zipExample, ':')) {
+                // Ignore ranges for now, the non-range examples are enough.
+                continue;
+            }
+
+            $address = $address->withPostalCode($zipExample);
+            $violations = $validator->validate($address, new AddressFormatConstraint());
+            $formattedExamples = implode(', ', $zipExamples);
+            foreach ($violations as $violation) {
+                if ($violation->getPropertyPath() === '[postalCode]') {
+                    $message = $violation->getMessage();
+                    $postalCodePattern = $addressFormat->getPostalCodePattern();
+                    echo "Error for countrycode '$countryCode' with postal code '$zipExample'.\n";
+                    echo "Error: $message\n";
+                    echo "Postal code pattern: $postalCodePattern\n";
+                    echo "All available postal code examples: $formattedExamples\n\n";
+
+                    // Once we catch an error in a country, don't try other examples.
+                    continue 3;
+                }
+            }
+        }
+    }
 }

@@ -10,28 +10,15 @@ use Doctrine\Common\Collections\ArrayCollection;
  */
 class LazySubdivisionCollection extends AbstractLazyCollection
 {
-    /**
-     * The parents.
-     *
-     * @var array
-     */
-    protected $parents;
-
-    /**
-     * The subdivision repository.
-     *
-     * @var SubdivisionRepositoryInterface
-     */
-    protected $repository;
+    protected SubdivisionRepositoryInterface $repository;
 
     /**
      * Creates a LazySubdivisionCollection instance.
      *
      * @param array $parents The parents (country code, subdivision codes).
      */
-    public function __construct(array $parents)
+    public function __construct(protected array $parents)
     {
-        $this->parents = $parents;
     }
 
     /**

@@ -8,26 +8,17 @@ use CommerceGuys\Addressing\Locale;
 
 class SubdivisionRepository implements SubdivisionRepositoryInterface
 {
-    /**
-     * The address format repository.
-     *
-     * @var AddressFormatRepository
-     */
-    protected $addressFormatRepository;
+    protected AddressFormatRepositoryInterface $addressFormatRepository;
 
     /**
      * The path where subdivision definitions are stored.
-     *
-     * @var string
      */
-    protected $definitionPath;
+    protected string $definitionPath;
 
     /**
      * Subdivision definitions.
-     *
-     * @var array
      */
-    protected $definitions = [];
+    protected array $definitions = [];
 
     /**
      * Parent subdivisions.
@@ -36,10 +27,8 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
      * parent. Contains only parents instead of all instantiated subdivisions
      * to minimize duplicating the data in $this->definitions, thus reducing
      * memory usage.
-     *
-     * @var array
      */
-    protected $parents = [];
+    protected array $parents = [];
 
     /**
      * Creates a SubdivisionRepository instance.
@@ -56,7 +45,7 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
     /**
      * {@inheritdoc}
      */
-    public function get($code, array $parents): ?Subdivision
+    public function get(string $code, array $parents): ?Subdivision
     {
         $definitions = $this->loadDefinitions($parents);
         return $this->createSubdivisionFromDefinitions($code, $definitions);
@@ -83,7 +72,7 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
     /**
      * {@inheritdoc}
      */
-    public function getList(array $parents, $locale = null): array
+    public function getList(array $parents, string $locale = null): array
     {
         $definitions = $this->loadDefinitions($parents);
         if (empty($definitions)) {
@@ -113,7 +102,7 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
         $countryCode = $parents[0];
         $addressFormat = $this->addressFormatRepository->get($countryCode);
         $depth = $addressFormat->getSubdivisionDepth();
-        if ($depth == 0) {
+        if ($depth === 0) {
             return false;
         }
         // At least the first level has data.

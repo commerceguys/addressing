@@ -16,7 +16,7 @@ final class ZoneTerritoryTest extends TestCase
      *
      *
      */
-    public function testMissingProperty()
+    public function testMissingProperty(): void
     {
         $this->expectException(\InvalidArgumentException::class);
         $territory = new ZoneTerritory([]);
@@ -32,7 +32,7 @@ final class ZoneTerritoryTest extends TestCase
      * @covers ::getExcludedPostalCodes
      * @covers ::match
      */
-    public function testValid()
+    public function testValid(): void
     {
         $definition = [
             'country_code' => 'BR',

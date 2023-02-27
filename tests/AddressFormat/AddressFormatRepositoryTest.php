@@ -20,13 +20,13 @@ final class AddressFormatRepositoryTest extends TestCase
      * @covers ::getGenericDefinition
      * @covers ::getDefinitions
      */
-    public function testGet()
+    public function testGet(): void
     {
         $addressFormatRepository = new AddressFormatRepository();
         $addressFormat = $addressFormatRepository->get('ES');
         // Confirm that the right class has been returned, a known value has
         // been successfully populated, and defaults have been merged.
-        $this->assertInstanceOf(AddressFormat::class, $addressFormat);
+
         $this->assertEquals('ES', $addressFormat->getCountryCode());
         $this->assertEquals(AdministrativeAreaType::PROVINCE, $addressFormat->getAdministrativeAreaType());
         $this->assertEquals(LocalityType::CITY, $addressFormat->getLocalityType());
@@ -44,7 +44,7 @@ final class AddressFormatRepositoryTest extends TestCase
      * @covers ::getGenericDefinition
      * @covers ::getDefinitions
      */
-    public function testGetNonExistingAddressFormat()
+    public function testGetNonExistingAddressFormat(): void
     {
         $addressFormatRepository = new AddressFormatRepository();
         $addressFormat = $addressFormatRepository->get('ZZ');
@@ -57,7 +57,7 @@ final class AddressFormatRepositoryTest extends TestCase
      * @covers ::getGenericDefinition
      * @covers ::getDefinitions
      */
-    public function testGetAll()
+    public function testGetAll(): void
     {
         $addressFormatRepository = new AddressFormatRepository();
         $addressFormats = $addressFormatRepository->getAll();

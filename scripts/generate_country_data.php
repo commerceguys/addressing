@@ -48,12 +48,14 @@ if (is_dir(__DIR__ . '/country')) {
 }
 
 // Prepare the filesystem.
-mkdir(__DIR__ . '/country');
+if (!mkdir($concurrentDirectory = __DIR__ . '/country') && !is_dir($concurrentDirectory)) {
+    throw new \RuntimeException(sprintf('Directory "%s" was not created', $concurrentDirectory));
+}
 
 // Write out the localizations.
 foreach ($localizations as $locale => $localizedCountries) {
     $collator = collator_create($locale);
-    uasort($localizedCountries, function ($a, $b) use ($collator) {
+    uasort($localizedCountries, static function ($a, $b) use ($collator) {
         return collator_compare($collator, $a, $b);
     });
     file_put_json(__DIR__ . '/country/' . $locale . '.json', $localizedCountries);
@@ -73,7 +75,7 @@ echo "Done.\n";
 /**
  * Converts the provided data into json and writes it to the disk.
  */
-function file_put_json($filename, $data)
+function file_put_json(string $filename, string $data): void
 {
     $data = json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE);
     // Indenting with tabs instead of 4 spaces gives us 20% smaller files.
@@ -84,7 +86,7 @@ function file_put_json($filename, $data)
 /**
  * Exports base data.
  */
-function export_base_data($baseData)
+function export_base_data(array $baseData): string
 {
     $export = '$baseData = [' . "\n";
     foreach ($baseData as $countryCode => $countryData) {
@@ -113,10 +115,10 @@ function export_base_data($baseData)
 /**
  * Exports locales.
  */
-function export_locales($data)
+function export_locales(array $data): string
 {
     // Wrap the values in single quotes.
-    $data = array_map(function ($value) {
+    $data = array_map(static function ($value) {
         return "'" . $value . "'";
     }, $data);
 
@@ -131,7 +133,8 @@ function export_locales($data)
 /**
  * Generates the base data.
  */
-function generate_base_data(array $englishData, array $codeMappings, array $currencyData) {
+function generate_base_data(array $englishData, array $codeMappings, array $currencyData): array
+{
     $ignoredCountries = [
         'AN', // Netherlands Antilles, no longer exists.
         'EU', 'QO', // European Union, Outlying Oceania. Not countries.
@@ -145,7 +148,7 @@ function generate_base_data(array $englishData, array $codeMappings, array $curr
             // Ignore continents, regions, uninhabited islands.
             continue;
         }
-        if (strpos($countryCode, '-alt-') !== false) {
+        if (str_contains($countryCode, '-alt-')) {
             // Ignore alternative names.
             continue;
         }
@@ -177,7 +180,8 @@ function generate_base_data(array $englishData, array $codeMappings, array $curr
 /**
  * Generates the localizations.
  */
-function generate_localizations(array $baseData, array $englishData) {
+function generate_localizations(array $baseData, array $englishData): array
+{
     global $localeDirectory;
 
     $localizations = [];
@@ -204,12 +208,13 @@ function generate_localizations(array $baseData, array $englishData) {
  *
  * For example, "fr-FR" will be removed if "fr" has the same data.
  */
-function filter_duplicate_localizations(array $localizations) {
+function filter_duplicate_localizations(array $localizations): array
+{
     $duplicates = [];
     foreach ($localizations as $locale => $localizedCountries) {
         if ($parentLocale = \CommerceGuys\Addressing\Locale::getParent($locale)) {
-            $parentCountries = isset($localizations[$parentLocale]) ? $localizations[$parentLocale] : [];
-            $diff = array_udiff($localizedCountries, $parentCountries, function ($first, $second) {
+            $parentCountries = $localizations[$parentLocale] ?? [];
+            $diff = array_udiff($localizedCountries, $parentCountries, static function ($first, $second) {
                 return ($first == $second) ? 0 : 1;
             });
 
@@ -231,7 +236,8 @@ function filter_duplicate_localizations(array $localizations) {
 /**
  * Creates a list of available locales.
  */
-function discover_locales() {
+function discover_locales(): array
+{
     global $localeDirectory;
 
     // Locales listed without a "-" match all variants.
@@ -255,7 +261,7 @@ function discover_locales() {
     $locales = [];
     if ($handle = opendir($localeDirectory)) {
         while (false !== ($entry = readdir($handle))) {
-            if (substr($entry, 0, 1) != '.') {
+            if (!str_starts_with($entry, '.')) {
                 $entryParts = explode('-', $entry);
                 if (!in_array($entry, $ignoredLocales) && !in_array($entryParts[0], $ignoredLocales)) {
                     $locales[] = $entry;
@@ -271,7 +277,7 @@ function discover_locales() {
 /**
  * Prepares the currencies for a specific country.
  */
-function prepare_currencies($currencies)
+function prepare_currencies(array $currencies): array
 {
     if (empty($currencies)) {
         return [];
@@ -284,7 +290,7 @@ function prepare_currencies($currencies)
         unset($currencies[$index]);
     }
     // Remove non-tender currencies.
-    $currencies = array_filter($currencies, function ($currency) {
+    $currencies = array_filter($currencies, static function ($currency) {
         return !isset($currency['_tender']) || $currency['_tender'] != 'false';
     });
     // Sort by _from date.
@@ -295,8 +301,9 @@ function prepare_currencies($currencies)
 
 /**
  * uasort callback for comparing arrays using their "_from" dates.
+ * @throws Exception
  */
-function compare_from_dates($a, $b)
+function compare_from_dates($a, $b): int
 {
     $a = new DateTime($a['_from']);
     $b = new DateTime($b['_from']);
