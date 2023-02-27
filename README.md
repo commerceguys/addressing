@@ -18,8 +18,6 @@ Features:
 
 Address formats and subdivisions were initially generated from Google's [Address Data Service](https://chromium-i18n.appspot.com/ssl-address), and are now owned and maintained by the library.
 
-Further backstory can be found in [this blog post](https://drupalcommerce.org/blog/16864/commerce-2x-stories-addressing).
-
 Also check out [commerceguys/intl](https://github.com/commerceguys/intl) for CLDR-powered languages/currencies/number formatting.
 
 # Data model
