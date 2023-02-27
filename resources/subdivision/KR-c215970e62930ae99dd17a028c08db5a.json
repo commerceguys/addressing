@@ -7,77 +7,59 @@
 	"locale": "ko",
 	"subdivisions": {
 		"Geoje-si": {
-			"local_code": "거제시",
-			"postal_code_pattern": "53[23]"
+			"local_code": "거제시"
 		},
 		"Geochang-gun": {
-			"local_code": "거창군",
-			"postal_code_pattern": "501"
+			"local_code": "거창군"
 		},
 		"Goseong-gun": {
-			"local_code": "고성군",
-			"postal_code_pattern": "529"
+			"local_code": "고성군"
 		},
 		"Gimhae-si": {
-			"local_code": "김해시",
-			"postal_code_pattern": "5(?:0[89]|10)"
+			"local_code": "김해시"
 		},
 		"Namhae-gun": {
-			"local_code": "남해군",
-			"postal_code_pattern": "524"
+			"local_code": "남해군"
 		},
 		"Miryang-si": {
-			"local_code": "밀양시",
-			"postal_code_pattern": "504"
+			"local_code": "밀양시"
 		},
 		"Sacheon-si": {
-			"local_code": "사천시",
-			"postal_code_pattern": "525"
+			"local_code": "사천시"
 		},
 		"Sancheong-gun": {
-			"local_code": "산청군",
-			"postal_code_pattern": "522"
+			"local_code": "산청군"
 		},
 		"Yangsan-si": {
-			"local_code": "양산시",
-			"postal_code_pattern": "50[56]"
+			"local_code": "양산시"
 		},
 		"Uiryeong-gun": {
-			"local_code": "의령군",
-			"postal_code_pattern": "521"
+			"local_code": "의령군"
 		},
 		"Jinju-si": {
-			"local_code": "진주시",
-			"postal_code_pattern": "52[6-8]"
+			"local_code": "진주시"
 		},
 		"Changnyeong-gun": {
-			"local_code": "창녕군",
-			"postal_code_pattern": "503"
+			"local_code": "창녕군"
 		},
 		"Changwon-si": {
 			"local_code": "창원시",
-			"postal_code_pattern": "51[2-7]",
 			"has_children": true
 		},
 		"Tongyeong-si": {
-			"local_code": "통영시",
-			"postal_code_pattern": "53[01]"
+			"local_code": "통영시"
 		},
 		"Hadong-gun": {
-			"local_code": "하동군",
-			"postal_code_pattern": "523"
+			"local_code": "하동군"
 		},
 		"Haman-gun": {
-			"local_code": "함안군",
-			"postal_code_pattern": "520"
+			"local_code": "함안군"
 		},
 		"Hamyang-gun": {
-			"local_code": "함양군",
-			"postal_code_pattern": "500"
+			"local_code": "함양군"
 		},
 		"Hapcheon-gun": {
-			"local_code": "합천군",
-			"postal_code_pattern": "502"
+			"local_code": "합천군"
 		}
 	}
 }

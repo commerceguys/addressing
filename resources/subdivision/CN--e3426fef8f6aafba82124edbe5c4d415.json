@@ -8,120 +8,91 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Bali District": {
-			"local_code": "八里區",
-			"postal_code_pattern": "249"
+			"local_code": "八里區"
 		},
 		"Banqiao District": {
-			"local_code": "板橋區",
-			"postal_code_pattern": "220"
+			"local_code": "板橋區"
 		},
 		"Tamsui District": {
-			"local_code": "淡水區",
-			"postal_code_pattern": "251"
+			"local_code": "淡水區"
 		},
 		"Gongliao District": {
-			"local_code": "貢寮區",
-			"postal_code_pattern": "228"
+			"local_code": "貢寮區"
 		},
 		"Jinshan District": {
-			"local_code": "金山區",
-			"postal_code_pattern": "208"
+			"local_code": "金山區"
 		},
 		"Linkou District": {
-			"local_code": "林口區",
-			"postal_code_pattern": "244"
+			"local_code": "林口區"
 		},
 		"Luzhou District": {
-			"local_code": "蘆洲區",
-			"postal_code_pattern": "247"
+			"local_code": "蘆洲區"
 		},
 		"Pingxi District": {
-			"local_code": "平溪區",
-			"postal_code_pattern": "226"
+			"local_code": "平溪區"
 		},
 		"Pinglin District": {
-			"local_code": "坪林區",
-			"postal_code_pattern": "232"
+			"local_code": "坪林區"
 		},
 		"Ruifang District": {
-			"local_code": "瑞芳區",
-			"postal_code_pattern": "224"
+			"local_code": "瑞芳區"
 		},
 		"Sanxia District": {
-			"local_code": "三峽區",
-			"postal_code_pattern": "237"
+			"local_code": "三峽區"
 		},
 		"Sanzhi District": {
-			"local_code": "三芝區",
-			"postal_code_pattern": "252"
+			"local_code": "三芝區"
 		},
 		"Sanchong District": {
-			"local_code": "三重區",
-			"postal_code_pattern": "241"
+			"local_code": "三重區"
 		},
 		"Shenkeng District": {
-			"local_code": "深坑區",
-			"postal_code_pattern": "222"
+			"local_code": "深坑區"
 		},
 		"Shiding District": {
-			"local_code": "石碇區",
-			"postal_code_pattern": "223"
+			"local_code": "石碇區"
 		},
 		"Shimen District": {
-			"local_code": "石門區",
-			"postal_code_pattern": "253"
+			"local_code": "石門區"
 		},
 		"Shulin District": {
-			"local_code": "樹林區",
-			"postal_code_pattern": "238"
+			"local_code": "樹林區"
 		},
 		"Shuangxi District": {
-			"local_code": "雙溪區",
-			"postal_code_pattern": "227"
+			"local_code": "雙溪區"
 		},
 		"Taishan District": {
-			"local_code": "泰山區",
-			"postal_code_pattern": "243"
+			"local_code": "泰山區"
 		},
 		"Tucheng District": {
-			"local_code": "土城區",
-			"postal_code_pattern": "236"
+			"local_code": "土城區"
 		},
 		"Wanli District": {
-			"local_code": "萬里區",
-			"postal_code_pattern": "207"
+			"local_code": "萬里區"
 		},
 		"Wulai District": {
-			"local_code": "烏來區",
-			"postal_code_pattern": "233"
+			"local_code": "烏來區"
 		},
 		"Wugu District": {
-			"local_code": "五股區",
-			"postal_code_pattern": "248"
+			"local_code": "五股區"
 		},
 		"Xizhi District": {
-			"local_code": "汐止區",
-			"postal_code_pattern": "221"
+			"local_code": "汐止區"
 		},
 		"Xindian District": {
-			"local_code": "新店區",
-			"postal_code_pattern": "231"
+			"local_code": "新店區"
 		},
 		"Xinzhuang District": {
-			"local_code": "新莊區",
-			"postal_code_pattern": "24[28]"
+			"local_code": "新莊區"
 		},
 		"Yingge District": {
-			"local_code": "鶯歌區",
-			"postal_code_pattern": "239"
+			"local_code": "鶯歌區"
 		},
 		"Yonghe District": {
-			"local_code": "永和區",
-			"postal_code_pattern": "234"
+			"local_code": "永和區"
 		},
 		"Zhonghe District": {
-			"local_code": "中和區",
-			"postal_code_pattern": "235"
+			"local_code": "中和區"
 		}
 	}
 }

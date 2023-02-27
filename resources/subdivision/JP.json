@@ -4,238 +4,191 @@
 	"subdivisions": {
 		"Hokkaido": {
 			"local_code": "北海道",
-			"iso_code": "JP-01",
-			"postal_code_pattern": "0[4-9]|00[1-7]"
+			"iso_code": "JP-01"
 		},
 		"Aomori": {
 			"local_code": "青森県",
-			"iso_code": "JP-02",
-			"postal_code_pattern": "03|018"
+			"iso_code": "JP-02"
 		},
 		"Iwate": {
 			"local_code": "岩手県",
-			"iso_code": "JP-03",
-			"postal_code_pattern": "02"
+			"iso_code": "JP-03"
 		},
 		"Miyagi": {
 			"local_code": "宮城県",
-			"iso_code": "JP-04",
-			"postal_code_pattern": "98"
+			"iso_code": "JP-04"
 		},
 		"Akita": {
 			"local_code": "秋田県",
-			"iso_code": "JP-05",
-			"postal_code_pattern": "01"
+			"iso_code": "JP-05"
 		},
 		"Yamagata": {
 			"local_code": "山形県",
-			"iso_code": "JP-06",
-			"postal_code_pattern": "99"
+			"iso_code": "JP-06"
 		},
 		"Fukushima": {
 			"local_code": "福島県",
-			"iso_code": "JP-07",
-			"postal_code_pattern": "9[67]"
+			"iso_code": "JP-07"
 		},
 		"Ibaraki": {
 			"local_code": "茨城県",
-			"iso_code": "JP-08",
-			"postal_code_pattern": "3[01]"
+			"iso_code": "JP-08"
 		},
 		"Tochigi": {
 			"local_code": "栃木県",
-			"iso_code": "JP-09",
-			"postal_code_pattern": "32|311|349"
+			"iso_code": "JP-09"
 		},
 		"Gunma": {
 			"local_code": "群馬県",
-			"iso_code": "JP-10",
-			"postal_code_pattern": "37|38[49]"
+			"iso_code": "JP-10"
 		},
 		"Saitama": {
 			"local_code": "埼玉県",
-			"iso_code": "JP-11",
-			"postal_code_pattern": "3[3-6]"
+			"iso_code": "JP-11"
 		},
 		"Chiba": {
 			"local_code": "千葉県",
-			"iso_code": "JP-12",
-			"postal_code_pattern": "2[6-9]"
+			"iso_code": "JP-12"
 		},
 		"Tokyo": {
 			"local_code": "東京都",
-			"iso_code": "JP-13",
-			"postal_code_pattern": "1[0-8]|19[0-8]|20"
+			"iso_code": "JP-13"
 		},
 		"Kanagawa": {
 			"local_code": "神奈川県",
-			"iso_code": "JP-14",
-			"postal_code_pattern": "2[1-5]|199"
+			"iso_code": "JP-14"
 		},
 		"Niigata": {
 			"local_code": "新潟県",
-			"iso_code": "JP-15",
-			"postal_code_pattern": "9[45]|389"
+			"iso_code": "JP-15"
 		},
 		"Toyama": {
 			"local_code": "富山県",
-			"iso_code": "JP-16",
-			"postal_code_pattern": "93"
+			"iso_code": "JP-16"
 		},
 		"Ishikawa": {
 			"local_code": "石川県",
-			"iso_code": "JP-17",
-			"postal_code_pattern": "92|939"
+			"iso_code": "JP-17"
 		},
 		"Fukui": {
 			"local_code": "福井県",
-			"iso_code": "JP-18",
-			"postal_code_pattern": "91|922"
+			"iso_code": "JP-18"
 		},
 		"Yamanashi": {
 			"local_code": "山梨県",
-			"iso_code": "JP-19",
-			"postal_code_pattern": "40"
+			"iso_code": "JP-19"
 		},
 		"Nagano": {
 			"local_code": "長野県",
-			"iso_code": "JP-20",
-			"postal_code_pattern": "3[89]|949"
+			"iso_code": "JP-20"
 		},
 		"Gifu": {
 			"local_code": "岐阜県",
-			"iso_code": "JP-21",
-			"postal_code_pattern": "50"
+			"iso_code": "JP-21"
 		},
 		"Shizuoka": {
 			"local_code": "静岡県",
-			"iso_code": "JP-22",
-			"postal_code_pattern": "4[1-9]"
+			"iso_code": "JP-22"
 		},
 		"Aichi": {
 			"local_code": "愛知県",
-			"iso_code": "JP-23",
-			"postal_code_pattern": "4[4-9]|431"
+			"iso_code": "JP-23"
 		},
 		"Mie": {
 			"local_code": "三重県",
-			"iso_code": "JP-24",
-			"postal_code_pattern": "51|498|647"
+			"iso_code": "JP-24"
 		},
 		"Shiga": {
 			"local_code": "滋賀県",
-			"iso_code": "JP-25",
-			"postal_code_pattern": "52"
+			"iso_code": "JP-25"
 		},
 		"Kyoto": {
 			"local_code": "京都府",
-			"iso_code": "JP-26",
-			"postal_code_pattern": "6[0-2]|520"
+			"iso_code": "JP-26"
 		},
 		"Osaka": {
 			"local_code": "大阪府",
-			"iso_code": "JP-27",
-			"postal_code_pattern": "5[3-9]|618|630"
+			"iso_code": "JP-27"
 		},
 		"Hyogo": {
 			"local_code": "兵庫県",
-			"iso_code": "JP-28",
-			"postal_code_pattern": "6[5-7]|563"
+			"iso_code": "JP-28"
 		},
 		"Nara": {
 			"local_code": "奈良県",
-			"iso_code": "JP-29",
-			"postal_code_pattern": "63|64[78]"
+			"iso_code": "JP-29"
 		},
 		"Wakayama": {
 			"local_code": "和歌山県",
-			"iso_code": "JP-30",
-			"postal_code_pattern": "64|519"
+			"iso_code": "JP-30"
 		},
 		"Tottori": {
 			"local_code": "鳥取県",
-			"iso_code": "JP-31",
-			"postal_code_pattern": "68"
+			"iso_code": "JP-31"
 		},
 		"Shimane": {
 			"local_code": "島根県",
-			"iso_code": "JP-32",
-			"postal_code_pattern": "69|68[45]"
+			"iso_code": "JP-32"
 		},
 		"Okayama": {
 			"local_code": "岡山県",
-			"iso_code": "JP-33",
-			"postal_code_pattern": "7[01]"
+			"iso_code": "JP-33"
 		},
 		"Hiroshima": {
 			"local_code": "広島県",
-			"iso_code": "JP-34",
-			"postal_code_pattern": "7[23]"
+			"iso_code": "JP-34"
 		},
 		"Yamaguchi": {
 			"local_code": "山口県",
-			"iso_code": "JP-35",
-			"postal_code_pattern": "7[45]"
+			"iso_code": "JP-35"
 		},
 		"Tokushima": {
 			"local_code": "徳島県",
-			"iso_code": "JP-36",
-			"postal_code_pattern": "77"
+			"iso_code": "JP-36"
 		},
 		"Kagawa": {
 			"local_code": "香川県",
-			"iso_code": "JP-37",
-			"postal_code_pattern": "76"
+			"iso_code": "JP-37"
 		},
 		"Ehime": {
 			"local_code": "愛媛県",
-			"iso_code": "JP-38",
-			"postal_code_pattern": "79"
+			"iso_code": "JP-38"
 		},
 		"Kochi": {
 			"local_code": "高知県",
-			"iso_code": "JP-39",
-			"postal_code_pattern": "78"
+			"iso_code": "JP-39"
 		},
 		"Fukuoka": {
 			"local_code": "福岡県",
-			"iso_code": "JP-40",
-			"postal_code_pattern": "8[0-3]|871"
+			"iso_code": "JP-40"
 		},
 		"Saga": {
 			"local_code": "佐賀県",
-			"iso_code": "JP-41",
-			"postal_code_pattern": "84"
+			"iso_code": "JP-41"
 		},
 		"Nagasaki": {
 			"local_code": "長崎県",
-			"iso_code": "JP-42",
-			"postal_code_pattern": "85|81[17]|848"
+			"iso_code": "JP-42"
 		},
 		"Kumamoto": {
 			"local_code": "熊本県",
-			"iso_code": "JP-43",
-			"postal_code_pattern": "86"
+			"iso_code": "JP-43"
 		},
 		"Oita": {
 			"local_code": "大分県",
-			"iso_code": "JP-44",
-			"postal_code_pattern": "87|839"
+			"iso_code": "JP-44"
 		},
 		"Miyazaki": {
 			"local_code": "宮崎県",
-			"iso_code": "JP-45",
-			"postal_code_pattern": "88"
+			"iso_code": "JP-45"
 		},
 		"Kagoshima": {
 			"local_code": "鹿児島県",
-			"iso_code": "JP-46",
-			"postal_code_pattern": "89"
+			"iso_code": "JP-46"
 		},
 		"Okinawa": {
 			"local_code": "沖縄県",
-			"iso_code": "JP-47",
-			"postal_code_pattern": "90"
+			"iso_code": "JP-47"
 		}
 	}
 }

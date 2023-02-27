@@ -11,7 +11,6 @@
 			"local_code": "澳门",
 			"iso_code": "CN-92",
 			"postal_code_pattern": "999078",
-			"postal_code_pattern_type": "full",
 			"has_children": true
 		},
 		"Beijing Shi": {
@@ -146,7 +145,6 @@
 			"local_code": "台湾",
 			"iso_code": "CN-71",
 			"postal_code_pattern": "\\d{3}(\\d{2,3})?",
-			"postal_code_pattern_type": "full",
 			"has_children": true
 		},
 		"Tianjin Shi": {
@@ -164,7 +162,6 @@
 			"local_code": "香港",
 			"iso_code": "CN-91",
 			"postal_code_pattern": "999077",
-			"postal_code_pattern_type": "full",
 			"has_children": true
 		},
 		"Xinjiang Weiwuerzizhiqu": {

@@ -7,104 +7,79 @@
 	"locale": "ko",
 	"subdivisions": {
 		"Gangnam-gu": {
-			"local_code": "강남구",
-			"postal_code_pattern": "06[0-3]"
+			"local_code": "강남구"
 		},
 		"Gangdong-gu": {
-			"local_code": "강동구",
-			"postal_code_pattern": "05[2-4]"
+			"local_code": "강동구"
 		},
 		"Gangbuk-gu": {
-			"local_code": "강북구",
-			"postal_code_pattern": "01[0-2]"
+			"local_code": "강북구"
 		},
 		"Gangseo-gu": {
-			"local_code": "강서구",
-			"postal_code_pattern": "07[5-8]"
+			"local_code": "강서구"
 		},
 		"Gwanak-gu": {
-			"local_code": "관악구",
-			"postal_code_pattern": "08[78]"
+			"local_code": "관악구"
 		},
 		"Gwangjin-gu": {
-			"local_code": "광진구",
-			"postal_code_pattern": "0(?:49|5[01])"
+			"local_code": "광진구"
 		},
 		"Guro-gu": {
-			"local_code": "구로구",
-			"postal_code_pattern": "08[23]"
+			"local_code": "구로구"
 		},
 		"Geumcheon-gu": {
-			"local_code": "금천구",
-			"postal_code_pattern": "08[56]"
+			"local_code": "금천구"
 		},
 		"Nowon-gu": {
-			"local_code": "노원구",
-			"postal_code_pattern": "01[6-9]"
+			"local_code": "노원구"
 		},
 		"Dobong-gu": {
-			"local_code": "도봉구",
-			"postal_code_pattern": "01[34]"
+			"local_code": "도봉구"
 		},
 		"Dongdaemun-gu": {
-			"local_code": "동대문구",
-			"postal_code_pattern": "02[4-6]"
+			"local_code": "동대문구"
 		},
 		"Dongjak-gu": {
-			"local_code": "동작구",
-			"postal_code_pattern": "0(?:69|70)"
+			"local_code": "동작구"
 		},
 		"Mapo-gu": {
-			"local_code": "마포구",
-			"postal_code_pattern": "0(?:39|4[0-2])"
+			"local_code": "마포구"
 		},
 		"Seodaemun-gu": {
-			"local_code": "서대문구",
-			"postal_code_pattern": "03[67]"
+			"local_code": "서대문구"
 		},
 		"Seocho-gu": {
-			"local_code": "서초구",
-			"postal_code_pattern": "06[5-8]"
+			"local_code": "서초구"
 		},
 		"Seongdong-gu": {
-			"local_code": "성동구",
-			"postal_code_pattern": "04[78]"
+			"local_code": "성동구"
 		},
 		"Seongbuk-gu": {
-			"local_code": "성북구",
-			"postal_code_pattern": "02[78]"
+			"local_code": "성북구"
 		},
 		"Songpa-gu": {
-			"local_code": "송파구",
-			"postal_code_pattern": "05[5-8]"
+			"local_code": "송파구"
 		},
 		"Yangcheon-gu": {
-			"local_code": "양천구",
-			"postal_code_pattern": "0(?:7[89]|8[01])"
+			"local_code": "양천구"
 		},
 		"Yeongdeungpo-gu": {
-			"local_code": "영등포구",
-			"postal_code_pattern": "07[2-4]"
+			"local_code": "영등포구"
 		},
 		"Yongsan-gu": {
-			"local_code": "용산구",
-			"postal_code_pattern": "04[34]"
+			"local_code": "용산구"
 		},
 		"Eunpyeong-gu": {
-			"local_code": "은평구",
-			"postal_code_pattern": "03[3-5]"
+			"local_code": "은평구"
 		},
 		"Jongno-gu": {
-			"local_code": "종로구",
-			"postal_code_pattern": "03[01]"
+			"local_code": "종로구"
 		},
 		"Jung-gu": {
-			"local_code": "중구",
-			"postal_code_pattern": "04[56]|100"
+			"local_code": "중구"
 		},
 		"Jungnang-gu": {
-			"local_code": "중랑구",
-			"postal_code_pattern": "02[0-2]"
+			"local_code": "중랑구"
 		}
 	}
 }

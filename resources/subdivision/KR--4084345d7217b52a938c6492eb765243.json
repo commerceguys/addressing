@@ -8,12 +8,10 @@
 	"locale": "ko",
 	"subdivisions": {
 		"Nam-gu": {
-			"local_code": "남구",
-			"postal_code_pattern": "37[6-9]"
+			"local_code": "남구"
 		},
 		"Buk-gu": {
-			"local_code": "북구",
-			"postal_code_pattern": "37[5-79]"
+			"local_code": "북구"
 		}
 	}
 }

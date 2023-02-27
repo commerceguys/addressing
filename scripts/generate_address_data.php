@@ -351,12 +351,6 @@ function create_subdivision_definition(string $countryCode, string $code, array 
     }
     if (isset($rawDefinition['xzip'])) {
         $subdivision['postal_code_pattern'] = $rawDefinition['xzip'];
-        $subdivision['postal_code_pattern_type'] = 'full';
-    } elseif (isset($rawDefinition['zip'])) {
-        $subdivision['postal_code_pattern'] = $rawDefinition['zip'];
-        // There are more than 12 000 subdivisions, but only a few Chinese
-        // ones specify a full pattern. Therefore, the postal_code_pattern_type
-        // value is the same for most subdivisions, and omitted to save space.
     }
 
     return $subdivision;

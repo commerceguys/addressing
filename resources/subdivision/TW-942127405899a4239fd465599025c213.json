@@ -7,120 +7,91 @@
 	"locale": "zh-Hant",
 	"subdivisions": {
 		"Dajia District": {
-			"local_code": "大甲區",
-			"postal_code_pattern": "437"
+			"local_code": "大甲區"
 		},
 		"Da'an District": {
-			"local_code": "大安區",
-			"postal_code_pattern": "439"
+			"local_code": "大安區"
 		},
 		"Dadu District": {
-			"local_code": "大肚區",
-			"postal_code_pattern": "432"
+			"local_code": "大肚區"
 		},
 		"Dali District": {
-			"local_code": "大里區",
-			"postal_code_pattern": "412"
+			"local_code": "大里區"
 		},
 		"Daya District": {
-			"local_code": "大雅區",
-			"postal_code_pattern": "428"
+			"local_code": "大雅區"
 		},
 		"Central District": {
-			"local_code": "中區",
-			"postal_code_pattern": "400"
+			"local_code": "中區"
 		},
 		"Taiping District": {
-			"local_code": "太平區",
-			"postal_code_pattern": "411"
+			"local_code": "太平區"
 		},
 		"Beitun District": {
-			"local_code": "北屯區",
-			"postal_code_pattern": "406"
+			"local_code": "北屯區"
 		},
 		"North District": {
-			"local_code": "北區",
-			"postal_code_pattern": "404"
+			"local_code": "北區"
 		},
 		"Waipu District": {
-			"local_code": "外埔區",
-			"postal_code_pattern": "438"
+			"local_code": "外埔區"
 		},
 		"Shigang District": {
-			"local_code": "石岡區",
-			"postal_code_pattern": "422"
+			"local_code": "石岡區"
 		},
 		"Houli District": {
-			"local_code": "后里區",
-			"postal_code_pattern": "421"
+			"local_code": "后里區"
 		},
 		"Xitun District": {
-			"local_code": "西屯區",
-			"postal_code_pattern": "407"
+			"local_code": "西屯區"
 		},
 		"West District": {
-			"local_code": "西區",
-			"postal_code_pattern": "403"
+			"local_code": "西區"
 		},
 		"Shalu District": {
-			"local_code": "沙鹿區",
-			"postal_code_pattern": "433"
+			"local_code": "沙鹿區"
 		},
 		"Heping District": {
-			"local_code": "和平區",
-			"postal_code_pattern": "424"
+			"local_code": "和平區"
 		},
 		"East District": {
-			"local_code": "東區",
-			"postal_code_pattern": "401"
+			"local_code": "東區"
 		},
 		"Dongshi District": {
-			"local_code": "東勢區",
-			"postal_code_pattern": "423"
+			"local_code": "東勢區"
 		},
 		"Nantun District": {
-			"local_code": "南屯區",
-			"postal_code_pattern": "408"
+			"local_code": "南屯區"
 		},
 		"South District": {
-			"local_code": "南區",
-			"postal_code_pattern": "402"
+			"local_code": "南區"
 		},
 		"Wuri District": {
-			"local_code": "烏日區",
-			"postal_code_pattern": "414"
+			"local_code": "烏日區"
 		},
 		"Shengang District": {
-			"local_code": "神岡區",
-			"postal_code_pattern": "429"
+			"local_code": "神岡區"
 		},
 		"Wuqi District": {
-			"local_code": "梧棲區",
-			"postal_code_pattern": "435"
+			"local_code": "梧棲區"
 		},
 		"Qingshui District": {
-			"local_code": "清水區",
-			"postal_code_pattern": "436"
+			"local_code": "清水區"
 		},
 		"Xinshe District": {
-			"local_code": "新社區",
-			"postal_code_pattern": "426"
+			"local_code": "新社區"
 		},
 		"Tanzi District": {
-			"local_code": "潭子區",
-			"postal_code_pattern": "427"
+			"local_code": "潭子區"
 		},
 		"Longjing District": {
-			"local_code": "龍井區",
-			"postal_code_pattern": "434"
+			"local_code": "龍井區"
 		},
 		"Fengyuan District": {
-			"local_code": "豐原區",
-			"postal_code_pattern": "420"
+			"local_code": "豐原區"
 		},
 		"Wufeng District": {
-			"local_code": "霧峰區",
-			"postal_code_pattern": "413"
+			"local_code": "霧峰區"
 		}
 	}
 }

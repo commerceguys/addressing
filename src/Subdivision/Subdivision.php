@@ -42,11 +42,6 @@ class Subdivision
     protected ?string $postalCodePattern;
 
     /**
-     * The postal code pattern type.
-     */
-    protected string $postalCodePatternType;
-
-    /**
      * The children.
      *
      * @param Subdivision[]
@@ -79,7 +74,6 @@ class Subdivision
             'local_name' => null,
             'iso_code' => null,
             'postal_code_pattern' => null,
-            'postal_code_pattern_type' => PatternType::getDefault(),
             'children' => new ArrayCollection(),
         ];
 
@@ -92,7 +86,6 @@ class Subdivision
         $this->localName = $definition['local_name'];
         $this->isoCode = $definition['iso_code'];
         $this->postalCodePattern = $definition['postal_code_pattern'];
-        $this->postalCodePatternType = $definition['postal_code_pattern_type'];
         $this->children = $definition['children'];
     }
 
@@ -202,24 +195,11 @@ class Subdivision
      * Gets the postal code pattern.
      *
      * This is a regular expression pattern used to validate postal codes.
-     *
-     * @deprecated since commerceguys/addressing 1.1.0.
+     * Used instead of the address-format-level pattern when defined.
      */
     public function getPostalCodePattern(): ?string
     {
         return $this->postalCodePattern;
-    }
-
-    /**
-     * Gets the postal code pattern type.
-     *
-     * @return string|null The postal code pattern type.
-     *
-     * @deprecated since commerceguys/addressing 1.1.0.
-     */
-    public function getPostalCodePatternType(): ?string
-    {
-        return $this->postalCodePatternType;
     }
 
     /**

@@ -14,25 +14,7 @@ use Symfony\Component\Validator\Constraint;
  */
 class AddressFormatConstraint extends Constraint
 {
-    /**
-     * Used fields.
-     *
-     * @deprecated Use $fieldOverrides instead.
-     */
-    public array $fields = [];
-
     public ?FieldOverrides $fieldOverrides = null;
-
-    /**
-     * Whether extended postal code validation is enabled.
-     *
-     * Extended postal code validation uses subdivision-level patterns to
-     * in addition to the country-level pattern supplied by the address format.
-     *
-     * This feature is deprecated, commerceguys/addressing 2.0 will only
-     * perform country-level validation.
-     */
-    public bool $extendedPostalCodeValidation = true;
 
     public string $blankMessage = 'This value should be blank';
 
@@ -47,16 +29,6 @@ class AddressFormatConstraint extends Constraint
     public function __construct($options = null)
     {
         parent::__construct($options);
-
-        // Convert used fields into field overrides.
-        if (!empty($this->fields)) {
-            $unusedFields = array_diff(AddressField::getAll(), $this->fields);
-            $definition = [];
-            foreach ($unusedFields as $field) {
-                $definition[$field] = FieldOverride::HIDDEN;
-            }
-            $this->fieldOverrides = new FieldOverrides($definition);
-        }
 
         // Ensure there's always a FieldOverrides object.
         $this->fieldOverrides = $this->fieldOverrides ?: new FieldOverrides([]);

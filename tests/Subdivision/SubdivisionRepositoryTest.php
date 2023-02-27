@@ -102,8 +102,6 @@ final class SubdivisionRepositoryTest extends TestCase
         $this->assertEquals('SC', $subdivision->getCode());
         $this->assertEquals('Santa Catarina', $subdivision->getName());
         $this->assertEquals('BR-SC', $subdivision->getIsoCode());
-        $this->assertEquals('8[89]', $subdivision->getPostalCodePattern());
-        $this->assertEquals('full', $subdivision->getPostalCodePatternType());
 
         $children = $subdivision->getChildren();
         $this->assertEquals($subdivisionChild, $children['Abelardo Luz']);

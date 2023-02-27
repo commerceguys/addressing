@@ -7,56 +7,43 @@
 	"locale": "zh-Hant",
 	"subdivisions": {
 		"Zhongliao Township": {
-			"local_code": "中寮鄉",
-			"postal_code_pattern": "541"
+			"local_code": "中寮鄉"
 		},
 		"Ren'ai Township": {
-			"local_code": "仁愛鄉",
-			"postal_code_pattern": "546"
+			"local_code": "仁愛鄉"
 		},
 		"Shuili Township": {
-			"local_code": "水里鄉",
-			"postal_code_pattern": "553"
+			"local_code": "水里鄉"
 		},
 		"Mingjian Township": {
-			"local_code": "名間鄉",
-			"postal_code_pattern": "551"
+			"local_code": "名間鄉"
 		},
 		"Zhushan Township": {
-			"local_code": "竹山鎮",
-			"postal_code_pattern": "557"
+			"local_code": "竹山鎮"
 		},
 		"Xinyi Township": {
-			"local_code": "信義鄉",
-			"postal_code_pattern": "556"
+			"local_code": "信義鄉"
 		},
 		"Nantou City": {
-			"local_code": "南投市",
-			"postal_code_pattern": "540"
+			"local_code": "南投市"
 		},
 		"Puli Township": {
-			"local_code": "埔里鎮",
-			"postal_code_pattern": "545"
+			"local_code": "埔里鎮"
 		},
 		"Caotun Township": {
-			"local_code": "草屯鎮",
-			"postal_code_pattern": "542"
+			"local_code": "草屯鎮"
 		},
 		"Guoxing Township": {
-			"local_code": "國姓鄉",
-			"postal_code_pattern": "544"
+			"local_code": "國姓鄉"
 		},
 		"Yuchi Township": {
-			"local_code": "魚池鄉",
-			"postal_code_pattern": "555"
+			"local_code": "魚池鄉"
 		},
 		"Lugu Township": {
-			"local_code": "鹿谷鄉",
-			"postal_code_pattern": "558"
+			"local_code": "鹿谷鄉"
 		},
 		"Jiji Township": {
-			"local_code": "集集鎮",
-			"postal_code_pattern": "552"
+			"local_code": "集集鎮"
 		}
 	}
 }
