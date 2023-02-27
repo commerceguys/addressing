@@ -8,7 +8,7 @@ A PHP 8.0+ addressing library, powered by CLDR and Google's address data.
 Manipulates postal addresses, meant to identify a precise recipient location for shipping or billing purposes.
 
 Features:
-- Countries, with translations for over 250 locales
+- Countries, with translations for over 250 locales. Powered by [CLDR](http://cldr.unicode.org) v42.
 - Address formats for over 200 countries
 - Subdivisions (administrative areas, localities, dependent localities) for 44 countries
 - Both latin and local subdivision names, when relevant (e.g: Okinawa / 沖縄県)
@@ -16,8 +16,7 @@ Features:
 - Validation via symfony/validator
 - Zones
 
-The dataset is [stored locally](https://github.com/commerceguys/addressing/tree/master/resources) in JSON format.
-Countries are generated from [CLDR](http://cldr.unicode.org) v42. Address formats and subdivisions are generated from Google's [Address Data Service](https://chromium-i18n.appspot.com/ssl-address).
+Address formats and subdivisions were initially generated from Google's [Address Data Service](https://chromium-i18n.appspot.com/ssl-address), and are now owned and maintained by the library.
 
 Further backstory can be found in [this blog post](https://drupalcommerce.org/blog/16864/commerce-2x-stories-addressing).
 
