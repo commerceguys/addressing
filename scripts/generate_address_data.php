@@ -404,7 +404,7 @@ function apply_subdivision_customizations(array $subdivisions, array $customizat
 /**
  * Processes the locale string.
  */
-function process_locale(string $locale): ?string
+function process_locale(?string $locale): ?string
 {
     // Be more precise when it comes to Chinese Simplified.
     if ($locale === 'zh') {
@@ -416,7 +416,7 @@ function process_locale(string $locale): ?string
 /**
  * Converts the provided format string into one recognized by the library.
  */
-function convert_format(string $countryCode, string $format): ?string
+function convert_format(string $countryCode, ?string $format): ?string
 {
     if (empty($format)) {
         return null;
@@ -462,7 +462,7 @@ function convert_format(string $countryCode, string $format): ?string
 /**
  * Converts google's field symbols to the expected values.
  */
-function convert_fields(?array $fields, string $type): ?array
+function convert_fields($fields, ?string $type): ?array
 {
     if (is_null($fields)) {
         return null;
