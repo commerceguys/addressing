@@ -467,6 +467,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'uppercase_fields' => [
                     'locality', 'sortingCode',
                 ],
+                'administrative_area_type' => 'region',
                 'postal_code_pattern' => '\d{2} ?\d{3}',
             ],
             'GB' => [

@@ -23,6 +23,7 @@ final class AdministrativeAreaType extends AbstractEnum
     public const PARISH = 'parish';
     public const PREFECTURE = 'prefecture';
     public const PROVINCE = 'province';
+    public const REGION = 'region';
     public const STATE = 'state';
 
     public static function getDefault(): string
