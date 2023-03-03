@@ -1379,7 +1379,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
             'TR' => [
                 'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%postalCode %locality/%administrativeArea",
                 'required_fields' => [
-                    'addressLine1', 'locality', 'postalCode',
+                    'addressLine1', 'locality', 'administrativeArea', 'postalCode',
                 ],
                 'locality_type' => 'district',
                 'postal_code_pattern' => '\d{5}',
