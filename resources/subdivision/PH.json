@@ -76,11 +76,11 @@
 		"Cebu": {
 			"iso_code": "PH-CEB"
 		},
-		"Davao de Oro": {
-			"iso_code": "PH-COM"
-		},
 		"Cotabato": {
 			"iso_code": "PH-NCO"
+		},
+		"Davao de Oro": {
+			"iso_code": "PH-COM"
 		},
 		"Davao del Norte": {
 			"iso_code": "PH-DAV"
@@ -148,12 +148,6 @@
 		"Metro Manila": {
 			"iso_code": "PH-00"
 		},
-		"Mindoro Occidental": {
-			"iso_code": "PH-MDC"
-		},
-		"Mindoro Oriental": {
-			"iso_code": "PH-MDR"
-		},
 		"Misamis Occidental": {
 			"iso_code": "PH-MSC"
 		},
@@ -178,6 +172,12 @@
 		"Nueva Vizcaya": {
 			"iso_code": "PH-NUV"
 		},
+		"Occidental Mindoro": {
+			"iso_code": "PH-MDC"
+		},
+		"Oriental Mindoro": {
+			"iso_code": "PH-MDR"
+		},
 		"Palawan": {
 			"iso_code": "PH-PLW"
 		},
@@ -187,7 +187,7 @@
 		"Pangasinan": {
 			"iso_code": "PH-PAN"
 		},
-		"Quezon Province": {
+		"Quezon": {
 			"iso_code": "PH-QUE"
 		},
 		"Quirino": {
