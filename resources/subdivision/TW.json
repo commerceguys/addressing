@@ -34,6 +34,7 @@
 		},
 		"Kinmen County": {
 			"local_code": "金門縣",
+			"iso_code": "TW-KIN",
 			"has_children": true
 		},
 		"Nantou County": {
@@ -68,6 +69,7 @@
 		},
 		"Lienchiang County": {
 			"local_code": "連江縣",
+			"iso_code": "TW-LIE",
 			"has_children": true
 		},
 		"Yunlin County": {
