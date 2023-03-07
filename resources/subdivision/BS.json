@@ -1,14 +1,8 @@
 {
 	"country_code": "BS",
 	"subdivisions": {
-		"Abaco": {
-			"name": "Abaco Islands"
-		},
 		"Acklins": {
 			"iso_code": "BS-AK"
-		},
-		"Andros": {
-			"name": "Andros Island"
 		},
 		"Berry Islands": {
 			"iso_code": "BS-BY"
@@ -16,18 +10,41 @@
 		"Bimini": {
 			"iso_code": "BS-BI"
 		},
+		"Black Point": {
+			"iso_code": "BS-BP"
+		},
 		"Cat Island": {
 			"iso_code": "BS-CI"
 		},
-		"Crooked Island": [],
-		"Eleuthera": [],
+		"Central Abaco": {
+			"iso_code": "BS-CO"
+		},
+		"Central Andros": {
+			"iso_code": "BS-CS"
+		},
+		"Central Eleuthera": {
+			"iso_code": "BS-CE"
+		},
+		"City of Freeport": {
+			"iso_code": "BS-FP"
+		},
+		"Crooked Island and Long Cay": {
+			"iso_code": "BS-CK"
+		},
+		"East Grand Bahama": {
+			"iso_code": "BS-EG"
+		},
 		"Exuma": {
-			"name": "Exuma and Cays",
 			"iso_code": "BS-EX"
 		},
-		"Grand Bahama": [],
+		"Grand Cay": {
+			"iso_code": "BS-GC"
+		},
 		"Harbour Island": {
 			"iso_code": "BS-HI"
+		},
+		"Hope Town": {
+			"iso_code": "BS-HT"
 		},
 		"Inagua": {
 			"iso_code": "BS-IN"
@@ -35,11 +52,26 @@
 		"Long Island": {
 			"iso_code": "BS-LI"
 		},
+		"Mangrove Cay": {
+			"iso_code": "BS-MC"
+		},
 		"Mayaguana": {
 			"iso_code": "BS-MG"
 		},
-		"N.P.": {
-			"name": "New Providence"
+		"Moore's Island": {
+			"iso_code": "BS-MI"
+		},
+		"New Providence": {
+			"iso_code": "BS-NP"
+		},
+		"North Abaco": {
+			"iso_code": "BS-NO"
+		},
+		"North Andros": {
+			"iso_code": "BS-NS"
+		},
+		"North Eleuthera": {
+			"iso_code": "BS-NE"
 		},
 		"Ragged Island": {
 			"iso_code": "BS-RI"
@@ -50,8 +82,20 @@
 		"San Salvador": {
 			"iso_code": "BS-SS"
 		},
+		"South Abaco": {
+			"iso_code": "BS-SO"
+		},
+		"South Andros": {
+			"iso_code": "BS-SA"
+		},
+		"South Eleuthera": {
+			"iso_code": "BS-SE"
+		},
 		"Spanish Wells": {
 			"iso_code": "BS-SW"
+		},
+		"West Grand Bahama": {
+			"iso_code": "BS-WG"
 		}
 	}
 }
