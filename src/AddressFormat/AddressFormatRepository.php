@@ -333,6 +333,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                     'addressLine1', 'locality', 'administrativeArea',
                 ],
                 'postal_code_pattern' => '\d{4,5}|\d{3}-\d{4}',
+                'subdivision_depth' => 1,
             ],
             'CU' => [
                 'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%locality %administrativeArea\n%postalCode",
@@ -399,6 +400,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 ],
                 'administrative_area_type' => 'county',
                 'postal_code_pattern' => '\d{5}',
+                'subdivision_depth' => 1,
             ],
             'EG' => [
                 'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%locality\n%administrativeArea\n%postalCode",
