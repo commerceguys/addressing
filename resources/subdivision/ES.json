@@ -2,213 +2,160 @@
 	"country_code": "ES",
 	"subdivisions": {
 		"A Coruña": {
-			"iso_code": "ES-C",
-			"postal_code_pattern": "15"
+			"iso_code": "ES-C"
 		},
 		"Álava": {
-			"iso_code": "ES-VI",
-			"postal_code_pattern": "01"
+			"iso_code": "ES-VI"
 		},
 		"Albacete": {
-			"iso_code": "ES-AB",
-			"postal_code_pattern": "02"
+			"iso_code": "ES-AB"
 		},
 		"Alicante": {
-			"iso_code": "ES-A",
-			"postal_code_pattern": "03"
+			"iso_code": "ES-A"
 		},
 		"Almería": {
-			"iso_code": "ES-AL",
-			"postal_code_pattern": "04"
+			"iso_code": "ES-AL"
 		},
 		"Asturias": {
-			"iso_code": "ES-O",
-			"postal_code_pattern": "33"
+			"iso_code": "ES-O"
 		},
 		"Ávila": {
-			"iso_code": "ES-AV",
-			"postal_code_pattern": "05"
+			"iso_code": "ES-AV"
 		},
 		"Badajoz": {
-			"iso_code": "ES-BA",
-			"postal_code_pattern": "06"
+			"iso_code": "ES-BA"
 		},
 		"Balears": {
-			"name": "Balears",
-			"iso_code": "ES-PM",
-			"postal_code_pattern": "07"
+			"iso_code": "ES-PM"
 		},
 		"Barcelona": {
-			"iso_code": "ES-B",
-			"postal_code_pattern": "08"
+			"iso_code": "ES-B"
 		},
 		"Burgos": {
-			"iso_code": "ES-BU",
-			"postal_code_pattern": "09"
+			"iso_code": "ES-BU"
 		},
 		"Cáceres": {
-			"iso_code": "ES-CC",
-			"postal_code_pattern": "10"
+			"iso_code": "ES-CC"
 		},
 		"Cádiz": {
-			"iso_code": "ES-CA",
-			"postal_code_pattern": "11"
+			"iso_code": "ES-CA"
 		},
 		"Cantabria": {
-			"iso_code": "ES-S",
-			"postal_code_pattern": "39"
+			"iso_code": "ES-S"
 		},
 		"Castellón": {
-			"iso_code": "ES-CS",
-			"postal_code_pattern": "12"
+			"iso_code": "ES-CS"
 		},
 		"Ceuta": {
-			"iso_code": "ES-CE",
-			"postal_code_pattern": "51"
+			"iso_code": "ES-CE"
 		},
 		"Ciudad Real": {
-			"iso_code": "ES-CR",
-			"postal_code_pattern": "13"
+			"iso_code": "ES-CR"
 		},
 		"Córdoba": {
-			"iso_code": "ES-CO",
-			"postal_code_pattern": "14"
+			"iso_code": "ES-CO"
 		},
 		"Cuenca": {
-			"iso_code": "ES-CU",
-			"postal_code_pattern": "16"
+			"iso_code": "ES-CU"
 		},
 		"Girona": {
-			"iso_code": "ES-GI",
-			"postal_code_pattern": "17"
+			"iso_code": "ES-GI"
 		},
 		"Granada": {
-			"iso_code": "ES-GR",
-			"postal_code_pattern": "18"
+			"iso_code": "ES-GR"
 		},
 		"Guadalajara": {
-			"iso_code": "ES-GU",
-			"postal_code_pattern": "19"
+			"iso_code": "ES-GU"
 		},
 		"Guipúzcoa": {
-			"iso_code": "ES-SS",
-			"postal_code_pattern": "20"
+			"iso_code": "ES-SS"
 		},
 		"Huelva": {
-			"iso_code": "ES-H",
-			"postal_code_pattern": "21"
+			"iso_code": "ES-H"
 		},
 		"Huesca": {
-			"iso_code": "ES-HU",
-			"postal_code_pattern": "22"
+			"iso_code": "ES-HU"
 		},
 		"Jaén": {
-			"iso_code": "ES-J",
-			"postal_code_pattern": "23"
+			"iso_code": "ES-J"
 		},
 		"La Rioja": {
-			"iso_code": "ES-LO",
-			"postal_code_pattern": "26"
+			"iso_code": "ES-LO"
 		},
 		"Las Palmas": {
-			"iso_code": "ES-GC",
-			"postal_code_pattern": "35"
+			"iso_code": "ES-GC"
 		},
 		"León": {
-			"iso_code": "ES-LE",
-			"postal_code_pattern": "24"
+			"iso_code": "ES-LE"
 		},
 		"Lleida": {
-			"iso_code": "ES-L",
-			"postal_code_pattern": "25"
+			"iso_code": "ES-L"
 		},
 		"Lugo": {
-			"iso_code": "ES-LU",
-			"postal_code_pattern": "27"
+			"iso_code": "ES-LU"
 		},
 		"Madrid": {
-			"iso_code": "ES-M",
-			"postal_code_pattern": "28"
+			"iso_code": "ES-M"
 		},
 		"Málaga": {
-			"iso_code": "ES-MA",
-			"postal_code_pattern": "29"
+			"iso_code": "ES-MA"
 		},
 		"Melilla": {
-			"iso_code": "ES-ML",
-			"postal_code_pattern": "52"
+			"iso_code": "ES-ML"
 		},
 		"Murcia": {
-			"iso_code": "ES-MU",
-			"postal_code_pattern": "30"
+			"iso_code": "ES-MU"
 		},
 		"Navarra": {
-			"iso_code": "ES-NA",
-			"postal_code_pattern": "31"
+			"iso_code": "ES-NA"
 		},
 		"Ourense": {
-			"iso_code": "ES-OR",
-			"postal_code_pattern": "32"
+			"iso_code": "ES-OR"
 		},
 		"Palencia": {
-			"iso_code": "ES-P",
-			"postal_code_pattern": "34"
+			"iso_code": "ES-P"
 		},
 		"Pontevedra": {
-			"iso_code": "ES-PO",
-			"postal_code_pattern": "36"
+			"iso_code": "ES-PO"
 		},
 		"Salamanca": {
-			"iso_code": "ES-SA",
-			"postal_code_pattern": "37"
+			"iso_code": "ES-SA"
 		},
 		"Santa Cruz de Tenerife": {
-			"iso_code": "ES-TF",
-			"postal_code_pattern": "38"
+			"iso_code": "ES-TF"
 		},
 		"Segovia": {
-			"iso_code": "ES-SG",
-			"postal_code_pattern": "40"
+			"iso_code": "ES-SG"
 		},
 		"Sevilla": {
-			"iso_code": "ES-SE",
-			"postal_code_pattern": "41"
+			"iso_code": "ES-SE"
 		},
 		"Soria": {
-			"iso_code": "ES-SO",
-			"postal_code_pattern": "42"
+			"iso_code": "ES-SO"
 		},
 		"Tarragona": {
-			"iso_code": "ES-T",
-			"postal_code_pattern": "43"
+			"iso_code": "ES-T"
 		},
 		"Teruel": {
-			"iso_code": "ES-TE",
-			"postal_code_pattern": "44"
+			"iso_code": "ES-TE"
 		},
 		"Toledo": {
-			"iso_code": "ES-TO",
-			"postal_code_pattern": "45"
+			"iso_code": "ES-TO"
 		},
 		"Valencia": {
-			"iso_code": "ES-V",
-			"postal_code_pattern": "46"
+			"iso_code": "ES-V"
 		},
 		"Valladolid": {
-			"iso_code": "ES-VA",
-			"postal_code_pattern": "47"
+			"iso_code": "ES-VA"
 		},
 		"Vizcaya": {
-			"iso_code": "ES-BI",
-			"postal_code_pattern": "48"
+			"iso_code": "ES-BI"
 		},
 		"Zamora": {
-			"iso_code": "ES-ZA",
-			"postal_code_pattern": "49"
+			"iso_code": "ES-ZA"
 		},
 		"Zaragoza": {
-			"iso_code": "ES-Z",
-			"postal_code_pattern": "50"
+			"iso_code": "ES-Z"
 		}
 	}
 }
