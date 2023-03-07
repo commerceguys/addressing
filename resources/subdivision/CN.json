@@ -4,180 +4,180 @@
 	"subdivisions": {
 		"Anhui Sheng": {
 			"local_code": "安徽省",
-			"iso_code": "CN-34",
+			"iso_code": "CN-AH",
 			"has_children": true
 		},
 		"Macau": {
 			"local_code": "澳门",
-			"iso_code": "CN-92",
+			"iso_code": "CN-MO",
 			"postal_code_pattern": "999078",
 			"has_children": true
 		},
 		"Beijing Shi": {
 			"local_code": "北京市",
-			"iso_code": "CN-11",
+			"iso_code": "CN-BJ",
 			"has_children": true
 		},
 		"Chongqing Shi": {
 			"local_code": "重庆市",
-			"iso_code": "CN-50",
+			"iso_code": "CN-CQ",
 			"has_children": true
 		},
 		"Fujian Sheng": {
 			"local_code": "福建省",
-			"iso_code": "CN-35",
+			"iso_code": "CN-FJ",
 			"has_children": true
 		},
 		"Gansu Sheng": {
 			"local_code": "甘肃省",
-			"iso_code": "CN-62",
+			"iso_code": "CN-GS",
 			"has_children": true
 		},
 		"Guangdong Sheng": {
 			"local_code": "广东省",
-			"iso_code": "CN-44",
+			"iso_code": "CN-GD",
 			"has_children": true
 		},
 		"Guangxi Zhuangzuzizhiqu": {
 			"local_code": "广西壮族自治区",
 			"local_name": "广西",
-			"iso_code": "CN-45",
+			"iso_code": "CN-GX",
 			"has_children": true
 		},
 		"Guizhou Sheng": {
 			"local_code": "贵州省",
-			"iso_code": "CN-52",
+			"iso_code": "CN-GZ",
 			"has_children": true
 		},
 		"Hainan Sheng": {
 			"local_code": "海南省",
-			"iso_code": "CN-46",
+			"iso_code": "CN-HI",
 			"has_children": true
 		},
 		"Hebei Sheng": {
 			"local_code": "河北省",
-			"iso_code": "CN-13",
+			"iso_code": "CN-HE",
 			"has_children": true
 		},
 		"Henan Sheng": {
 			"local_code": "河南省",
-			"iso_code": "CN-41",
+			"iso_code": "CN-HA",
 			"has_children": true
 		},
 		"Heilongjiang Sheng": {
 			"local_code": "黑龙江省",
-			"iso_code": "CN-23",
+			"iso_code": "CN-HL",
 			"has_children": true
 		},
 		"Hubei Sheng": {
 			"local_code": "湖北省",
-			"iso_code": "CN-42",
+			"iso_code": "CN-HB",
 			"has_children": true
 		},
 		"Hunan Sheng": {
 			"local_code": "湖南省",
-			"iso_code": "CN-43",
+			"iso_code": "CN-HN",
 			"has_children": true
 		},
 		"Jilin Sheng": {
 			"local_code": "吉林省",
-			"iso_code": "CN-22",
+			"iso_code": "CN-JL",
 			"has_children": true
 		},
 		"Jiangsu Sheng": {
 			"local_code": "江苏省",
-			"iso_code": "CN-32",
+			"iso_code": "CN-JS",
 			"has_children": true
 		},
 		"Jiangxi Sheng": {
 			"local_code": "江西省",
-			"iso_code": "CN-36",
+			"iso_code": "CN-JX",
 			"has_children": true
 		},
 		"Liaoning Sheng": {
 			"local_code": "辽宁省",
-			"iso_code": "CN-21",
+			"iso_code": "CN-LN",
 			"has_children": true
 		},
 		"Neimenggu Zizhiqu": {
 			"local_code": "内蒙古自治区",
 			"local_name": "内蒙古",
-			"iso_code": "CN-15",
+			"iso_code": "CN-NM",
 			"has_children": true
 		},
 		"Ningxia Huizuzizhiqu": {
 			"local_code": "宁夏回族自治区",
 			"local_name": "宁夏",
-			"iso_code": "CN-64",
+			"iso_code": "CN-NX",
 			"has_children": true
 		},
 		"Qinghai Sheng": {
 			"local_code": "青海省",
-			"iso_code": "CN-63",
+			"iso_code": "CN-QH",
 			"has_children": true
 		},
 		"Shandong Sheng": {
 			"local_code": "山东省",
-			"iso_code": "CN-37",
+			"iso_code": "CN-SD",
 			"has_children": true
 		},
 		"Shanxi Sheng": {
 			"local_code": "山西省",
-			"iso_code": "CN-14",
+			"iso_code": "CN-SX",
 			"has_children": true
 		},
 		"Shaanxi Sheng": {
 			"local_code": "陕西省",
-			"iso_code": "CN-61",
+			"iso_code": "CN-SN",
 			"has_children": true
 		},
 		"Shanghai Shi": {
 			"local_code": "上海市",
-			"iso_code": "CN-31",
+			"iso_code": "CN-SH",
 			"has_children": true
 		},
 		"Sichuan Sheng": {
 			"local_code": "四川省",
-			"iso_code": "CN-51",
+			"iso_code": "CN-SC",
 			"has_children": true
 		},
 		"Taiwan": {
 			"local_code": "台湾",
-			"iso_code": "CN-71",
+			"iso_code": "CN-TW",
 			"postal_code_pattern": "\\d{3}(\\d{2,3})?",
 			"has_children": true
 		},
 		"Tianjin Shi": {
 			"local_code": "天津市",
-			"iso_code": "CN-12",
+			"iso_code": "CN-TJ",
 			"has_children": true
 		},
 		"Xizang Zizhiqu": {
 			"local_code": "西藏自治区",
 			"local_name": "西藏",
-			"iso_code": "CN-54",
+			"iso_code": "CN-XZ",
 			"has_children": true
 		},
 		"Hong Kong": {
 			"local_code": "香港",
-			"iso_code": "CN-91",
+			"iso_code": "CN-HK",
 			"postal_code_pattern": "999077",
 			"has_children": true
 		},
 		"Xinjiang Weiwuerzizhiqu": {
 			"local_code": "新疆维吾尔自治区",
 			"local_name": "新疆",
-			"iso_code": "CN-65",
+			"iso_code": "CN-XJ",
 			"has_children": true
 		},
 		"Yunnan Sheng": {
 			"local_code": "云南省",
-			"iso_code": "CN-53",
+			"iso_code": "CN-YN",
 			"has_children": true
 		},
 		"Zhejiang Sheng": {
 			"local_code": "浙江省",
-			"iso_code": "CN-33",
+			"iso_code": "CN-ZJ",
 			"has_children": true
 		}
 	}
