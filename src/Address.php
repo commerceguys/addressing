@@ -66,6 +66,13 @@ class Address implements ImmutableAddressInterface
     protected string $addressLine2;
 
     /**
+     * The third line of the address block.
+     *
+     * @var string
+     */
+    protected string $addressLine3;
+
+    /**
      * The organization.
      *
      * @var string
@@ -111,6 +118,7 @@ class Address implements ImmutableAddressInterface
      * @param string $sortingCode        The sorting code
      * @param string $addressLine1       The first line of the address block.
      * @param string $addressLine2       The second line of the address block.
+     * @param string $addressLine3       The third line of the address block.
      * @param string $organization       The organization.
      * @param string $givenName          The given name.
      * @param string $additionalName     The additional name.
@@ -126,6 +134,7 @@ class Address implements ImmutableAddressInterface
         ?string $sortingCode = '',
         ?string $addressLine1 = '',
         ?string $addressLine2 = '',
+        ?string $addressLine3 = '',
         ?string $organization = '',
         ?string $givenName = '',
         ?string $additionalName = '',
@@ -140,6 +149,7 @@ class Address implements ImmutableAddressInterface
         $this->sortingCode = $sortingCode;
         $this->addressLine1 = $addressLine1;
         $this->addressLine2 = $addressLine2;
+        $this->addressLine3 = $addressLine3;
         $this->organization = $organization;
         $this->givenName = $givenName;
         $this->additionalName = $additionalName;
@@ -295,6 +305,25 @@ class Address implements ImmutableAddressInterface
     {
         $new = clone $this;
         $new->addressLine2 = $addressLine2;
+
+        return $new;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function getAddressLine3(): ?string
+    {
+        return $this->addressLine3;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function withAddressLine3(string $addressLine3): ImmutableAddressInterface|Address
+    {
+        $new = clone $this;
+        $new->addressLine3 = $addressLine3;
 
         return $new;
     }

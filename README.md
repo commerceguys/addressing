@@ -32,6 +32,7 @@ The [address interface](https://github.com/commerceguys/addressing/blob/master/s
 - Sorting code
 - Address line 1
 - Address line 2
+- Address line 3
 - Organization
 - Given name (First name)
 - Additional name (Middle name / Patronymic)

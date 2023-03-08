@@ -52,6 +52,11 @@ interface ImmutableAddressInterface extends AddressInterface
     public function withAddressLine2(string $addressLine2): ImmutableAddressInterface;
 
     /**
+     * Returns an instance with the specified third line of address block.
+     */
+    public function withAddressLine3(string $addressLine3): ImmutableAddressInterface;
+
+    /**
      * Returns an instance with the specified organization.
      */
     public function withOrganization(string $organization): ImmutableAddressInterface;

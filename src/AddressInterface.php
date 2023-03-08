@@ -89,6 +89,11 @@ interface AddressInterface
     public function getAddressLine2(): ?string;
 
     /**
+     * Gets the third line of address block.
+     */
+    public function getAddressLine3(): ?string;
+
+    /**
      * Gets the organization.
      */
     public function getOrganization(): ?string;

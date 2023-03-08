@@ -102,6 +102,7 @@ final class PostalLabelFormatterTest extends TestCase
             ->withLocality('Some City')
             ->withAddressLine1('Address Line 1')
             ->withAddressLine2('Address Line 2')
+            ->withAddressLine3('Address Line 3')
             ->withPostalCode('04')
             ->withLocale('ja');
 
@@ -112,6 +113,7 @@ final class PostalLabelFormatterTest extends TestCase
             '北海道Some City',
             'Address Line 1',
             'Address Line 2',
+            'Address Line 3',
         ];
         $formattedAddress = $this->formatter->format($address, [
             'locale' => 'fr',
