@@ -221,12 +221,12 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 ],
             ],
             'BL' => [
-                'format' => "%organization\n%givenName %familyName\n%addressLine1\n%addressLine2\n%postalCode %locality %sortingCode",
+                'format' => "%organization\n%givenName %familyName\n%addressLine1\n%addressLine2\n%postalCode %locality",
                 'required_fields' => [
                     'addressLine1', 'locality', 'postalCode',
                 ],
                 'uppercase_fields' => [
-                    'addressLine1', 'addressLine2', 'locality', 'sortingCode',
+                    'addressLine1', 'addressLine2', 'locality',
                 ],
                 'postal_code_pattern' => '9[78][01]\d{2}',
             ],
@@ -1007,12 +1007,12 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'postal_code_pattern' => '\d{5}',
             ],
             'NC' => [
-                'format' => "%organization\n%givenName %familyName\n%addressLine1\n%addressLine2\n%postalCode %locality %sortingCode",
+                'format' => "%organization\n%givenName %familyName\n%addressLine1\n%addressLine2\n%postalCode %locality",
                 'required_fields' => [
                     'addressLine1', 'locality', 'postalCode',
                 ],
                 'uppercase_fields' => [
-                    'addressLine1', 'addressLine2', 'locality', 'sortingCode',
+                    'addressLine1', 'addressLine2', 'locality',
                 ],
                 'postal_code_pattern' => '988\d{2}',
             ],
@@ -1190,12 +1190,12 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 ],
             ],
             'RE' => [
-                'format' => "%organization\n%givenName %familyName\n%addressLine1\n%addressLine2\n%postalCode %locality %sortingCode",
+                'format' => "%organization\n%givenName %familyName\n%addressLine1\n%addressLine2\n%postalCode %locality",
                 'required_fields' => [
                     'addressLine1', 'locality', 'postalCode',
                 ],
                 'uppercase_fields' => [
-                    'addressLine1', 'addressLine2', 'locality', 'sortingCode',
+                    'addressLine1', 'addressLine2', 'locality',
                 ],
                 'postal_code_pattern' => '9[78]4\d{2}',
             ],
