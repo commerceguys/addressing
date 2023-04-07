@@ -4,9 +4,12 @@ namespace CommerceGuys\Addressing\Tests\Formatter;
 
 use CommerceGuys\Addressing\Address;
 use CommerceGuys\Addressing\AddressFormat\AddressFormatRepository;
+use CommerceGuys\Addressing\AddressFormat\AddressFormatRepositoryInterface;
 use CommerceGuys\Addressing\Country\CountryRepository;
+use CommerceGuys\Addressing\Country\CountryRepositoryInterface;
 use CommerceGuys\Addressing\Formatter\PostalLabelFormatter;
 use CommerceGuys\Addressing\Subdivision\SubdivisionRepository;
+use CommerceGuys\Addressing\Subdivision\SubdivisionRepositoryInterface;
 use PHPUnit\Framework\TestCase;
 
 /**
@@ -14,33 +17,13 @@ use PHPUnit\Framework\TestCase;
  */
 final class PostalLabelFormatterTest extends TestCase
 {
-    /**
-     * The address format repository.
-     *
-     * @var AddressFormatRepositoryInterface
-     */
-    protected $addressFormatRepository;
+    protected AddressFormatRepositoryInterface $addressFormatRepository;
 
-    /**
-     * The country repository.
-     *
-     * @var CountryRepositoryInterface
-     */
-    protected $countryRepository;
+    protected CountryRepositoryInterface $countryRepository;
 
-    /**
-     * The subdivision repository.
-     *
-     * @var SubdivisionRepositoryInterface
-     */
-    protected $subdivisionRepository;
+    protected SubdivisionRepositoryInterface $subdivisionRepository;
 
-    /**
-     * The formatter.
-     *
-     * @var PostalLabelFormatter
-     */
-    protected $formatter;
+    protected PostalLabelFormatter $formatter;
 
     /**
      * {@inheritdoc}
@@ -55,10 +38,8 @@ final class PostalLabelFormatterTest extends TestCase
 
     /**
      * @covers ::format
-     *
-     *
      */
-    public function testMissingOriginCountryCode()
+    public function testMissingOriginCountryCode(): void
     {
         $this->expectException(\InvalidArgumentException::class);
         $address = new Address();
@@ -68,7 +49,7 @@ final class PostalLabelFormatterTest extends TestCase
     /**
      * @covers \CommerceGuys\Addressing\Formatter\PostalLabelFormatter
      */
-    public function testEmptyAddress()
+    public function testEmptyAddress(): void
     {
         $expectedLines = [];
         $formattedAddress = $this->formatter->format(new Address('US'), ['origin_country' => 'US']);
@@ -78,7 +59,7 @@ final class PostalLabelFormatterTest extends TestCase
     /**
      * @covers \CommerceGuys\Addressing\Formatter\PostalLabelFormatter
      */
-    public function testUnitedStatesAddress()
+    public function testUnitedStatesAddress(): void
     {
         $address = new Address();
         $address = $address
@@ -112,7 +93,7 @@ final class PostalLabelFormatterTest extends TestCase
     /**
      * @covers \CommerceGuys\Addressing\Formatter\PostalLabelFormatter
      */
-    public function testJapanAddressShippedFromFrance()
+    public function testJapanAddressShippedFromFrance(): void
     {
         $address = new Address();
         $address = $address
@@ -121,6 +102,7 @@ final class PostalLabelFormatterTest extends TestCase
             ->withLocality('Some City')
             ->withAddressLine1('Address Line 1')
             ->withAddressLine2('Address Line 2')
+            ->withAddressLine3('Address Line 3')
             ->withPostalCode('04')
             ->withLocale('ja');
 
@@ -131,6 +113,7 @@ final class PostalLabelFormatterTest extends TestCase
             '北海道Some City',
             'Address Line 1',
             'Address Line 2',
+            'Address Line 3',
         ];
         $formattedAddress = $this->formatter->format($address, [
             'locale' => 'fr',
@@ -142,7 +125,7 @@ final class PostalLabelFormatterTest extends TestCase
     /**
      * @covers \CommerceGuys\Addressing\Formatter\PostalLabelFormatter
      */
-    public function testAddressLeadingPostPrefix()
+    public function testAddressLeadingPostPrefix(): void
     {
         $address = new Address();
         $address = $address
@@ -172,7 +155,7 @@ final class PostalLabelFormatterTest extends TestCase
      * @param array  $expectedLines
      * @param string $formattedAddress
      */
-    protected function assertFormattedAddress(array $expectedLines, $formattedAddress)
+    protected function assertFormattedAddress(array $expectedLines, string $formattedAddress): void
     {
         $expectedLines = implode("\n", $expectedLines);
         $this->assertEquals($expectedLines, $formattedAddress);

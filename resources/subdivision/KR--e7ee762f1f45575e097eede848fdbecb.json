@@ -8,12 +8,10 @@
 	"locale": "ko",
 	"subdivisions": {
 		"Danwon-gu": {
-			"local_code": "단원구",
-			"postal_code_pattern": "15[2-6]"
+			"local_code": "단원구"
 		},
 		"Sangnok-gu": {
-			"local_code": "상록구",
-			"postal_code_pattern": "15[2-6]"
+			"local_code": "상록구"
 		}
 	}
 }

@@ -8,7 +8,7 @@ use CommerceGuys\Addressing\AddressFormat\AddressField;
 use CommerceGuys\Addressing\AddressFormat\AddressFormat;
 use CommerceGuys\Addressing\AddressFormat\AddressFormatRepository;
 use CommerceGuys\Addressing\AddressFormat\AddressFormatRepositoryInterface;
-use CommerceGuys\Addressing\Subdivision\PatternType;
+use CommerceGuys\Addressing\Subdivision\Subdivision;
 use CommerceGuys\Addressing\Subdivision\SubdivisionRepository;
 use CommerceGuys\Addressing\Subdivision\SubdivisionRepositoryInterface;
 use Symfony\Component\Validator\Constraint;
@@ -17,19 +17,9 @@ use Symfony\Component\Validator\Exception\UnexpectedTypeException;
 
 class AddressFormatConstraintValidator extends ConstraintValidator
 {
-    /**
-     * The address format repository.
-     *
-     * @var AddressFormatRepositoryInterface
-     */
-    protected $addressFormatRepository;
+    protected AddressFormatRepositoryInterface $addressFormatRepository;
 
-    /**
-     * The subdivision repository.
-     *
-     * @var SubdivisionRepositoryInterface
-     */
-    protected $subdivisionRepository;
+    protected SubdivisionRepositoryInterface $subdivisionRepository;
 
     /**
      * Creates an AddressFormatValidator instance.
@@ -42,8 +32,12 @@ class AddressFormatConstraintValidator extends ConstraintValidator
 
     /**
      * {@inheritdoc}
+     * @throws \ReflectionException
+     * @throws \ReflectionException
+     * @throws \ReflectionException
+     * @throws \ReflectionException
      */
-    public function validate($value, Constraint $constraint)
+    public function validate(mixed $value, Constraint $constraint): void
     {
         if (!($value instanceof AddressInterface)) {
             throw new UnexpectedTypeException($value, 'AddressInterface');
@@ -86,11 +80,10 @@ class AddressFormatConstraintValidator extends ConstraintValidator
     /**
      * Validates the provided subdivision values.
      *
-     * @param array $values        The field values, keyed by field constants.
-     * @param AddressFormat           $addressFormat The address format.
-     * @param AddressFormatConstraint $constraint    The constraint.
+     * @param array $values The field values, keyed by field constants.
      *
-     * @return array An array of found valid subdivisions.
+     * @return Subdivision[] An array of found valid subdivisions.
+     * @throws \ReflectionException
      */
     protected function validateSubdivisions(array $values, AddressFormat $addressFormat, AddressFormatConstraint $constraint): array
     {
@@ -134,36 +127,19 @@ class AddressFormatConstraintValidator extends ConstraintValidator
         }
 
         // Resolve the available patterns.
-        $fullPattern = $addressFormat->getPostalCodePattern();
-        $startPattern = null;
-        if (!empty($constraint->extendedPostalCodeValidation)) {
-            foreach ($subdivisions as $subdivision) {
-                $pattern = $subdivision->getPostalCodePattern();
-                if (empty($pattern)) {
-                    continue;
-                }
-
-                if ($subdivision->getPostalCodePatternType() == PatternType::FULL) {
-                    $fullPattern = $pattern;
-                } else {
-                    $startPattern = $pattern;
-                }
+        $pattern = $addressFormat->getPostalCodePattern();
+        foreach ($subdivisions as $subdivision) {
+            $subdivisionPattern = $subdivision->getPostalCodePattern();
+            if (!empty($subdivisionPattern)) {
+                $pattern = $subdivisionPattern;
+                break;
             }
         }
 
-        if ($fullPattern) {
+        if ($pattern) {
             // The pattern must match the provided value completely.
-            preg_match('/' . $fullPattern . '/i', $postalCode, $matches);
+            preg_match('/' . $pattern . '/i', $postalCode, $matches);
             if (!isset($matches[0]) || $matches[0] !== $postalCode) {
-                $this->addViolation(AddressField::POSTAL_CODE, $constraint->invalidMessage, $postalCode, $addressFormat);
-
-                return;
-            }
-        }
-        if ($startPattern) {
-            // The pattern must match the start of the provided value.
-            preg_match('/' . $startPattern . '/i', $postalCode, $matches);
-            if (!isset($matches[0]) || strpos($postalCode, $matches[0]) !== 0) {
                 $this->addViolation(AddressField::POSTAL_CODE, $constraint->invalidMessage, $postalCode, $addressFormat);
 
                 return;
@@ -177,7 +153,7 @@ class AddressFormatConstraintValidator extends ConstraintValidator
      * @param string $message        The error message.
      * @param mixed  $invalidValue   The invalid, validated value.
      */
-    protected function addViolation(string $field, string $message, $invalidValue, AddressFormat $addressFormat)
+    protected function addViolation(string $field, string $message, mixed $invalidValue, AddressFormat $addressFormat): void
     {
         $this->context->buildViolation($message)
             ->atPath('[' . $field . ']')
@@ -188,9 +164,9 @@ class AddressFormatConstraintValidator extends ConstraintValidator
     /**
      * Extracts the address values.
      *
-     * @param AddressInterface $address The address.
-     *
      * @return array An array of values keyed by field constants.
+     *
+     * @throws \ReflectionException
      */
     protected function extractAddressValues(AddressInterface $address): array
     {

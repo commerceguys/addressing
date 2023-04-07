@@ -11,14 +11,14 @@ use CommerceGuys\Addressing\AbstractEnum;
  */
 final class DependentLocalityType extends AbstractEnum
 {
-    const DISTRICT = 'district';
-    const NEIGHBORHOOD = 'neighborhood';
-    const VILLAGE_TOWNSHIP = 'village_township';
-    const SUBURB = 'suburb';
-    const TOWNLAND = 'townland';
+    public const DISTRICT = 'district';
+    public const NEIGHBORHOOD = 'neighborhood';
+    public const VILLAGE_TOWNSHIP = 'village_township';
+    public const SUBURB = 'suburb';
+    public const TOWNLAND = 'townland';
 
     public static function getDefault(): string
     {
-        return static::SUBURB;
+        return DependentLocalityType::SUBURB;
     }
 }

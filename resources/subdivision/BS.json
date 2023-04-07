@@ -52,8 +52,20 @@
 			"name": "Mayaguana",
 			"iso_code": "BS-MG"
 		},
-		"N.P.": {
-			"name": "New Providence"
+		"Moore's Island": {
+			"iso_code": "BS-MI"
+		},
+		"New Providence": {
+			"iso_code": "BS-NP"
+		},
+		"North Abaco": {
+			"iso_code": "BS-NO"
+		},
+		"North Andros": {
+			"iso_code": "BS-NS"
+		},
+		"North Eleuthera": {
+			"iso_code": "BS-NE"
 		},
 		"RI": {
 			"name": "Ragged Island",
@@ -70,6 +82,9 @@
 		"SW": {
 			"name": "Spanish Wells",
 			"iso_code": "BS-SW"
+		},
+		"West Grand Bahama": {
+			"iso_code": "BS-WG"
 		}
 	}
 }

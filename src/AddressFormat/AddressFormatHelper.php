@@ -21,6 +21,7 @@ final class AddressFormatHelper
      *                 [organization],
      *                 [addressLine1],
      *                 [addressLine2],
+     *                 [addressLine3],
      *                 [locality, administrativeArea, postalCode]
      *               ]
      * @throws \ReflectionException
@@ -42,9 +43,7 @@ final class AddressFormatHelper
         }
         // The indexes won't be sequential if there were any rows
         // without tokens, so reset them.
-        $groupedFields = array_values($groupedFields);
-
-        return $groupedFields;
+        return array_values($groupedFields);
     }
 
     /**

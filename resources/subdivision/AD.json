@@ -3,8 +3,7 @@
 	"subdivisions": {
 		"07": {
 			"name": "Andorra la Vella",
-			"iso_code": "AD-07",
-			"postal_code_pattern": "AD50[01]"
+			"iso_code": "AD-07"
 		},
 		"02": {
 			"name": "Canillo",

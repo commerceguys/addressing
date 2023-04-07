@@ -4,6 +4,8 @@ namespace CommerceGuys\Addressing\Tests\Subdivision;
 
 use CommerceGuys\Addressing\Subdivision\LazySubdivisionCollection;
 use PHPUnit\Framework\TestCase;
+use CommerceGuys\Addressing\Subdivision\SubdivisionRepository;
+use CommerceGuys\Addressing\Subdivision\Subdivision;
 
 /**
  * @coversDefaultClass \CommerceGuys\Addressing\Subdivision\LazySubdivisionCollection
@@ -13,7 +15,7 @@ final class LazySubdivisionCollectionTest extends TestCase
     /**
      * @var LazySubdivisionCollection
      */
-    protected $collection;
+    protected LazySubdivisionCollection $collection;
 
     /**
      * {@inheritdoc}
@@ -26,33 +28,32 @@ final class LazySubdivisionCollectionTest extends TestCase
     /**
      * @covers ::__construct
      */
-    public function testConstructor()
+    public function testConstructor(): void
     {
         $collection = new LazySubdivisionCollection(['BR', 'Porto Acre']);
 
         $reflected_constraint = (new \ReflectionObject($collection))->getProperty('parents');
-        $reflected_constraint->setAccessible(TRUE);
+        $reflected_constraint->setAccessible(true);
         $this->assertEquals(['BR', 'Porto Acre'], $reflected_constraint->getValue($collection));
     }
 
     /**
      * @covers ::doInitialize
      */
-    public function testInitialize()
+    public function testInitialize(): void
     {
         $subdivision = $this
-            ->getMockBuilder('CommerceGuys\Addressing\Subdivision\Subdivision')
+            ->getMockBuilder(Subdivision::class)
             ->disableOriginalConstructor()
             ->getMock();
         $subdivisionRepository = $this
-            ->getMockBuilder('CommerceGuys\Addressing\Subdivision\SubdivisionRepository')
+            ->getMockBuilder(SubdivisionRepository::class)
             ->disableOriginalConstructor()
             ->getMock();
         $subdivisionRepository
-            ->expects($this->any())
             ->method('getAll')
             ->with(['BR', 'Porto Acre'])
-            ->will($this->returnValue([$subdivision]));
+            ->willReturn([$subdivision]);
         $this->collection->setRepository($subdivisionRepository);
 
         $this->assertFalse($this->collection->isInitialized());
@@ -64,10 +65,10 @@ final class LazySubdivisionCollectionTest extends TestCase
      * @covers ::getRepository
      * @covers ::setRepository
      */
-    public function testRepository()
+    public function testRepository(): void
     {
         $subdivisionRepository = $this
-            ->getMockBuilder('CommerceGuys\Addressing\Subdivision\SubdivisionRepository')
+            ->getMockBuilder(SubdivisionRepository::class)
             ->disableOriginalConstructor()
             ->getMock();
         $this->collection->setRepository($subdivisionRepository);

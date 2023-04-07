@@ -16,7 +16,7 @@ final class ZoneTest extends TestCase
      *
      *
      */
-    public function testMissingProperty()
+    public function testMissingProperty(): void
     {
         $this->expectException(\InvalidArgumentException::class);
         $definition = [
@@ -30,7 +30,7 @@ final class ZoneTest extends TestCase
      *
      *
      */
-    public function testInvalidTerritories()
+    public function testInvalidTerritories(): void
     {
         $this->expectException(\InvalidArgumentException::class);
         $definition = [
@@ -48,7 +48,7 @@ final class ZoneTest extends TestCase
      * @covers ::getTerritories
      * @covers ::match
      */
-    public function testValid()
+    public function testValid(): void
     {
         $definition = [
             'id' => 'de_fr',

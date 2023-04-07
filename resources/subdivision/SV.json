@@ -3,23 +3,19 @@
 	"subdivisions": {
 		"AH": {
 			"name": "Ahuachapán",
-			"iso_code": "SV-AH",
-			"postal_code_pattern": "CP 21"
+			"iso_code": "SV-AH"
 		},
 		"CA": {
 			"name": "Cabañas",
-			"iso_code": "SV-CA",
-			"postal_code_pattern": "CP 12"
+			"iso_code": "SV-CA"
 		},
 		"CH": {
 			"name": "Chalatenango",
-			"iso_code": "SV-CH",
-			"postal_code_pattern": "CP 13"
+			"iso_code": "SV-CH"
 		},
 		"CU": {
 			"name": "Cuscatlán",
-			"iso_code": "SV-CU",
-			"postal_code_pattern": "CP 14"
+			"iso_code": "SV-CU"
 		},
 		"LI": {
 			"name": "La Libertad",
@@ -33,13 +29,11 @@
 		},
 		"UN": {
 			"name": "La Unión",
-			"iso_code": "SV-UN",
-			"postal_code_pattern": "CP 31"
+			"iso_code": "SV-UN"
 		},
 		"MO": {
 			"name": "Morazán",
-			"iso_code": "SV-MO",
-			"postal_code_pattern": "CP 32"
+			"iso_code": "SV-MO"
 		},
 		"SM": {
 			"name": "San Miguel",
@@ -68,8 +62,7 @@
 		},
 		"US": {
 			"name": "Usulután",
-			"iso_code": "SV-US",
-			"postal_code_pattern": "CP 34"
+			"iso_code": "SV-US"
 		}
 	}
 }

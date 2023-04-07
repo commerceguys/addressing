@@ -7,24 +7,19 @@
 	"locale": "ko",
 	"subdivisions": {
 		"Gwangsan-gu": {
-			"local_code": "광산구",
-			"postal_code_pattern": "62[2-4]"
+			"local_code": "광산구"
 		},
 		"Nam-gu": {
-			"local_code": "남구",
-			"postal_code_pattern": "61[67]"
+			"local_code": "남구"
 		},
 		"Dong-gu": {
-			"local_code": "동구",
-			"postal_code_pattern": "61[45]"
+			"local_code": "동구"
 		},
 		"Buk-gu": {
-			"local_code": "북구",
-			"postal_code_pattern": "61[0-2]"
+			"local_code": "북구"
 		},
 		"Seo-gu": {
-			"local_code": "서구",
-			"postal_code_pattern": "6(?:19|20)"
+			"local_code": "서구"
 		}
 	}
 }

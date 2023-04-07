@@ -1,0 +1,50 @@
+{
+	"country_code": "EE",
+	"subdivisions": {
+		"Harjumaa": {
+			"iso_code": "EE-37"
+		},
+		"Hiiumaa": {
+			"iso_code": "EE-39"
+		},
+		"Ida-Virumaa": {
+			"iso_code": "EE-45"
+		},
+		"Jõgevamaa": {
+			"iso_code": "EE-50"
+		},
+		"Järvamaa": {
+			"iso_code": "EE-52"
+		},
+		"Läänemaa": {
+			"iso_code": "EE-56"
+		},
+		"Lääne-Virumaa": {
+			"iso_code": "EE-60"
+		},
+		"Põlvamaa": {
+			"iso_code": "EE-64"
+		},
+		"Pärnumaa": {
+			"iso_code": "EE-68"
+		},
+		"Raplamaa": {
+			"iso_code": "EE-71"
+		},
+		"Saaremaa": {
+			"iso_code": "EE-74"
+		},
+		"Tartumaa": {
+			"iso_code": "EE-79"
+		},
+		"Valgamaa": {
+			"iso_code": "EE-81"
+		},
+		"Viljandimaa": {
+			"iso_code": "EE-84"
+		},
+		"Võrumaa": {
+			"iso_code": "EE-87"
+		}
+	}
+}

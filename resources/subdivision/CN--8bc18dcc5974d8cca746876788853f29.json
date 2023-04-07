@@ -8,56 +8,43 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Bade District": {
-			"local_code": "八德區",
-			"postal_code_pattern": "334"
+			"local_code": "八德區"
 		},
 		"Daxi District": {
-			"local_code": "大溪區",
-			"postal_code_pattern": "335"
+			"local_code": "大溪區"
 		},
 		"Dayuan District": {
-			"local_code": "大園區",
-			"postal_code_pattern": "337"
+			"local_code": "大園區"
 		},
 		"Fuxing District": {
-			"local_code": "復興區",
-			"postal_code_pattern": "336"
+			"local_code": "復興區"
 		},
 		"Guanyin District": {
-			"local_code": "觀音區",
-			"postal_code_pattern": "328"
+			"local_code": "觀音區"
 		},
 		"Guishan District": {
-			"local_code": "龜山區",
-			"postal_code_pattern": "333"
+			"local_code": "龜山區"
 		},
 		"Longtan District": {
-			"local_code": "龍潭區",
-			"postal_code_pattern": "325"
+			"local_code": "龍潭區"
 		},
 		"Luzhu District": {
-			"local_code": "蘆竹區",
-			"postal_code_pattern": "338"
+			"local_code": "蘆竹區"
 		},
 		"Pingzhen District": {
-			"local_code": "平鎮區",
-			"postal_code_pattern": "324"
+			"local_code": "平鎮區"
 		},
 		"Taoyuan District": {
-			"local_code": "桃園區",
-			"postal_code_pattern": "330"
+			"local_code": "桃園區"
 		},
 		"Xinwu District": {
-			"local_code": "新屋區",
-			"postal_code_pattern": "327"
+			"local_code": "新屋區"
 		},
 		"Yangmei District": {
-			"local_code": "楊梅區",
-			"postal_code_pattern": "326"
+			"local_code": "楊梅區"
 		},
 		"Zhongli District": {
-			"local_code": "中壢區",
-			"postal_code_pattern": "320"
+			"local_code": "中壢區"
 		}
 	}
 }

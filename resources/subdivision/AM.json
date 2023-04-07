@@ -4,58 +4,47 @@
 	"subdivisions": {
 		"Aragatsotn": {
 			"local_code": "Արագածոտն",
-			"iso_code": "AM-AG",
-			"postal_code_pattern": "0[2-5]"
+			"iso_code": "AM-AG"
 		},
 		"Ararat": {
 			"local_code": "Արարատ",
-			"iso_code": "AM-AR",
-			"postal_code_pattern": "0[6-8]"
+			"iso_code": "AM-AR"
 		},
 		"Armavir": {
 			"local_code": "Արմավիր",
-			"iso_code": "AM-AV",
-			"postal_code_pattern": "09|1[01]"
+			"iso_code": "AM-AV"
 		},
 		"Gegharkunik": {
 			"local_code": "Գեղարքունիք",
-			"iso_code": "AM-GR",
-			"postal_code_pattern": "1[2-6]"
+			"iso_code": "AM-GR"
 		},
 		"Yerevan": {
 			"local_code": "Երևան",
-			"iso_code": "AM-ER",
-			"postal_code_pattern": "00"
+			"iso_code": "AM-ER"
 		},
 		"Lori": {
 			"local_code": "Լոռի",
-			"iso_code": "AM-LO",
-			"postal_code_pattern": "1[7-9]|2[01]"
+			"iso_code": "AM-LO"
 		},
 		"Kotayk": {
 			"local_code": "Կոտայք",
-			"iso_code": "AM-KT",
-			"postal_code_pattern": "2[2-5]"
+			"iso_code": "AM-KT"
 		},
 		"Shirak": {
 			"local_code": "Շիրակ",
-			"iso_code": "AM-SH",
-			"postal_code_pattern": "2[6-9]|3[01]"
+			"iso_code": "AM-SH"
 		},
 		"Syunik": {
 			"local_code": "Սյունիք",
-			"iso_code": "AM-SU",
-			"postal_code_pattern": "3[2-5]"
+			"iso_code": "AM-SU"
 		},
 		"Vayots Dzor": {
 			"local_code": "Վայոց ձոր",
-			"iso_code": "AM-VD",
-			"postal_code_pattern": "3[6-8]"
+			"iso_code": "AM-VD"
 		},
 		"Tavush": {
 			"local_code": "Տավուշ",
-			"iso_code": "AM-TV",
-			"postal_code_pattern": "39|4[0-2]"
+			"iso_code": "AM-TV"
 		}
 	}
 }

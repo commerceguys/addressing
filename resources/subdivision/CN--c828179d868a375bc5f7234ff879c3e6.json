@@ -8,28 +8,22 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Baisha Township": {
-			"local_code": "白沙鄉",
-			"postal_code_pattern": "884"
+			"local_code": "白沙鄉"
 		},
 		"Huxi Township": {
-			"local_code": "湖西鄉",
-			"postal_code_pattern": "885"
+			"local_code": "湖西鄉"
 		},
 		"Magong City": {
-			"local_code": "馬公市",
-			"postal_code_pattern": "880"
+			"local_code": "馬公市"
 		},
 		"Qimei Township": {
-			"local_code": "七美鄉",
-			"postal_code_pattern": "883"
+			"local_code": "七美鄉"
 		},
 		"Wang'an Township": {
-			"local_code": "望安鄉",
-			"postal_code_pattern": "882"
+			"local_code": "望安鄉"
 		},
 		"Xiyu Township": {
-			"local_code": "西嶼鄉",
-			"postal_code_pattern": "881"
+			"local_code": "西嶼鄉"
 		}
 	}
 }

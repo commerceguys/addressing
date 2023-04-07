@@ -7,44 +7,34 @@
 	"locale": "ko",
 	"subdivisions": {
 		"Ganghwa-gun": {
-			"local_code": "강화군",
-			"postal_code_pattern": "230"
+			"local_code": "강화군"
 		},
 		"Gyeyang-gu": {
-			"local_code": "계양구",
-			"postal_code_pattern": "21[01]"
+			"local_code": "계양구"
 		},
 		"Nam-gu": {
-			"local_code": "남구",
-			"postal_code_pattern": "22[12]"
+			"local_code": "남구"
 		},
 		"Namdong-gu": {
-			"local_code": "남동구",
-			"postal_code_pattern": "21[5-7]"
+			"local_code": "남동구"
 		},
 		"Dong-gu": {
-			"local_code": "동구",
-			"postal_code_pattern": "225"
+			"local_code": "동구"
 		},
 		"Bupyeong-gu": {
-			"local_code": "부평구",
-			"postal_code_pattern": "21[34]"
+			"local_code": "부평구"
 		},
 		"Seo-gu": {
-			"local_code": "서구",
-			"postal_code_pattern": "22[6-8]"
+			"local_code": "서구"
 		},
 		"Yeonsu-gu": {
-			"local_code": "연수구",
-			"postal_code_pattern": "2(?:19|20)"
+			"local_code": "연수구"
 		},
 		"Ongjin-gun": {
-			"local_code": "옹진군",
-			"postal_code_pattern": "231"
+			"local_code": "옹진군"
 		},
 		"Jung-gu": {
-			"local_code": "중구",
-			"postal_code_pattern": "223"
+			"local_code": "중구"
 		}
 	}
 }

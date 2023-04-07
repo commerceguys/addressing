@@ -17,14 +17,15 @@ final class AddressFormatHelperTest extends TestCase
     /**
      * @covers ::getGroupedFields
      */
-    public function testGetGroupedFields()
+    public function testGetGroupedFields(): void
     {
-        $format = "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%locality, %postalCode";
+        $format = "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%locality, %postalCode";
         $expectedGroupedFields = [
             [AddressField::GIVEN_NAME, AddressField::FAMILY_NAME],
             [AddressField::ORGANIZATION],
             [AddressField::ADDRESS_LINE1],
             [AddressField::ADDRESS_LINE2],
+            [AddressField::ADDRESS_LINE3],
             [AddressField::LOCALITY, AddressField::POSTAL_CODE],
         ];
         $this->assertEquals($expectedGroupedFields, AddressFormatHelper::getGroupedFields($format));
@@ -37,6 +38,7 @@ final class AddressFormatHelperTest extends TestCase
             [AddressField::GIVEN_NAME, AddressField::FAMILY_NAME],
             [AddressField::ADDRESS_LINE1],
             [AddressField::ADDRESS_LINE2],
+            [AddressField::ADDRESS_LINE3],
             [AddressField::POSTAL_CODE],
         ];
         $this->assertEquals($expectedGroupedFields, AddressFormatHelper::getGroupedFields($format, $fieldOverrides));
@@ -45,11 +47,11 @@ final class AddressFormatHelperTest extends TestCase
     /**
      * @covers ::getRequiredFields
      */
-    public function testGetRequiredFields()
+    public function testGetRequiredFields(): void
     {
         $addressFormat = new AddressFormat([
             'country_code' => 'US',
-            'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%locality, %administrativeArea %postalCode",
+            'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%locality, %administrativeArea %postalCode",
             'required_fields' => [
                 AddressField::ADMINISTRATIVE_AREA,
                 AddressField::LOCALITY,

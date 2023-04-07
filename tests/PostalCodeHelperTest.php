@@ -15,7 +15,7 @@ final class PostalCodeHelperTest extends TestCase
      * @covers ::matchRule
      * @covers ::buildList
      */
-    public function testMatch()
+    public function testMatch(): void
     {
         // Empty rules should pass.
         $this->assertEquals(true, PostalCodeHelper::match('123', null, null));

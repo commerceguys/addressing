@@ -8,16 +8,13 @@
 	"locale": "ko",
 	"subdivisions": {
 		"Bundang-gu": {
-			"local_code": "분당구",
-			"postal_code_pattern": "13[3-6]"
+			"local_code": "분당구"
 		},
 		"Sujeong-gu": {
-			"local_code": "수정구",
-			"postal_code_pattern": "13[1-46]"
+			"local_code": "수정구"
 		},
 		"Jungwon-gu": {
-			"local_code": "중원구",
-			"postal_code_pattern": "13[1-4]"
+			"local_code": "중원구"
 		}
 	}
 }

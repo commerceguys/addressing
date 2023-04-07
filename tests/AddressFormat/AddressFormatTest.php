@@ -20,7 +20,7 @@ final class AddressFormatTest extends TestCase
      *
      *
      */
-    public function testMissingProperty()
+    public function testMissingProperty(): void
     {
         $this->expectException(\InvalidArgumentException::class);
         $definition = [
@@ -34,12 +34,12 @@ final class AddressFormatTest extends TestCase
      *
      *
      */
-    public function testInvalidSubdivision()
+    public function testInvalidSubdivision(): void
     {
         $this->expectException(\InvalidArgumentException::class);
         $definition = [
             'country_code' => 'US',
-            'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%dependentLocality",
+            'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%dependentLocality",
             'required_fields' => [AddressField::ADDRESS_LINE1],
             'dependent_locality_type' => 'WRONG',
         ];
@@ -64,12 +64,12 @@ final class AddressFormatTest extends TestCase
      * @covers ::getPostalCodePrefix
      * @covers ::getSubdivisionDepth
      */
-    public function testValid()
+    public function testValid(): void
     {
         $definition = [
             'country_code' => 'US',
             'locale' => 'en',
-            'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%locality, %administrativeArea %postalCode",
+            'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%locality, %administrativeArea %postalCode",
             // The local format is made up, US doesn't have one usually.
             'local_format' => '%postalCode\n%addressLine1\n%organization\n%givenName %familyName',
             'required_fields' => [
@@ -114,6 +114,7 @@ final class AddressFormatTest extends TestCase
             AddressField::POSTAL_CODE,
             AddressField::ADDRESS_LINE1,
             AddressField::ADDRESS_LINE2,
+            AddressField::ADDRESS_LINE3,
             AddressField::ORGANIZATION,
             AddressField::GIVEN_NAME,
             AddressField::FAMILY_NAME,

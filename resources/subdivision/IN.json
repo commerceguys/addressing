@@ -3,8 +3,7 @@
 	"subdivisions": {
 		"AN": {
 			"name": "Andaman & Nicobar",
-			"iso_code": "IN-AN",
-			"postal_code_pattern": "744"
+			"iso_code": "IN-AN"
 		},
 		"AP": {
 			"name": "Andhra Pradesh",
@@ -38,8 +37,7 @@
 		},
 		"DH": {
 			"name": "Dadra & Nagar Haveli & Daman & Diu",
-			"iso_code": "IN-DH",
-			"postal_code_pattern": "396|362"
+			"iso_code": "IN-DH"
 		},
 		"DL": {
 			"name": "Delhi",
@@ -68,8 +66,7 @@
 		},
 		"JK": {
 			"name": "Jammu & Kashmir",
-			"iso_code": "IN-JK",
-			"postal_code_pattern": "1[89]"
+			"iso_code": "IN-JK"
 		},
 		"JH": {
 			"name": "Jharkhand",

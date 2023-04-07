@@ -1,0 +1,22 @@
+name: Build
+on: [push, pull_request]
+
+jobs:
+  build-test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: php-actions/composer@v6
+
+      - name: PHPUnit Tests PHP 8.1
+        uses: php-actions/phpunit@master
+        with:
+          bootstrap: vendor/autoload.php
+          configuration: phpunit.xml
+          args: --coverage-text
+          php_extensions: xdebug bcmath
+          php_version: 8.1
+          version: 9
+        env:
+          XDEBUG_MODE: coverage

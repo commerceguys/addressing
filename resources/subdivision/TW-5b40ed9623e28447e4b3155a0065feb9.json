@@ -7,32 +7,25 @@
 	"locale": "zh-Hant",
 	"subdivisions": {
 		"Qidu District": {
-			"local_code": "七堵區",
-			"postal_code_pattern": "206"
+			"local_code": "七堵區"
 		},
 		"Zhongshan District": {
-			"local_code": "中山區",
-			"postal_code_pattern": "203"
+			"local_code": "中山區"
 		},
 		"Zhongzheng District": {
-			"local_code": "中正區",
-			"postal_code_pattern": "202"
+			"local_code": "中正區"
 		},
 		"Ren'ai District": {
-			"local_code": "仁愛區",
-			"postal_code_pattern": "200"
+			"local_code": "仁愛區"
 		},
 		"Anle District": {
-			"local_code": "安樂區",
-			"postal_code_pattern": "204"
+			"local_code": "安樂區"
 		},
 		"Xinyi District": {
-			"local_code": "信義區",
-			"postal_code_pattern": "201"
+			"local_code": "信義區"
 		},
 		"Nuannuan District": {
-			"local_code": "暖暖區",
-			"postal_code_pattern": "205"
+			"local_code": "暖暖區"
 		}
 	}
 }

@@ -11,22 +11,23 @@ use CommerceGuys\Addressing\AbstractEnum;
  */
 final class AdministrativeAreaType extends AbstractEnum
 {
-    const AREA = 'area';
-    const CANTON = 'canton';
-    const COUNTY = 'county';
-    const DEPARTMENT = 'department';
-    const DISTRICT = 'district';
-    const DO_SI = 'do_si';
-    const EMIRATE = 'emirate';
-    const ISLAND = 'island';
-    const OBLAST = 'oblast';
-    const PARISH = 'parish';
-    const PREFECTURE = 'prefecture';
-    const PROVINCE = 'province';
-    const STATE = 'state';
+    public const AREA = 'area';
+    public const CANTON = 'canton';
+    public const COUNTY = 'county';
+    public const DEPARTMENT = 'department';
+    public const DISTRICT = 'district';
+    public const DO_SI = 'do_si';
+    public const EMIRATE = 'emirate';
+    public const ISLAND = 'island';
+    public const OBLAST = 'oblast';
+    public const PARISH = 'parish';
+    public const PREFECTURE = 'prefecture';
+    public const PROVINCE = 'province';
+    public const REGION = 'region';
+    public const STATE = 'state';
 
     public static function getDefault(): string
     {
-        return static::PROVINCE;
+        return AdministrativeAreaType::PROVINCE;
     }
 }

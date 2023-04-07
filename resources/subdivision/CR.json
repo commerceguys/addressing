@@ -1,0 +1,26 @@
+{
+	"country_code": "CR",
+	"subdivisions": {
+		"Alajuela": {
+			"iso_code": "CR-A"
+		},
+		"Cartago": {
+			"iso_code": "CR-C"
+		},
+		"Guanacaste": {
+			"iso_code": "CR-G"
+		},
+		"Heredia": {
+			"iso_code": "CR-H"
+		},
+		"Limón": {
+			"iso_code": "CR-L"
+		},
+		"Puntarenas": {
+			"iso_code": "CR-P"
+		},
+		"San José": {
+			"iso_code": "CR-SJ"
+		}
+	}
+}

@@ -13,7 +13,7 @@ final class CountryTest extends TestCase
     /**
      * @covers ::__construct
      */
-    public function testMissingProperty()
+    public function testMissingProperty(): void
     {
         $this->expectException(\InvalidArgumentException::class);
         $this->expectExceptionMessage('Missing required property "country_code".');
@@ -31,7 +31,7 @@ final class CountryTest extends TestCase
      * @covers ::getTimezones
      * @covers ::getLocale
      */
-    public function testValid()
+    public function testValid(): void
     {
         $definition = [
             'country_code' => 'DE',

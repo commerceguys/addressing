@@ -7,111 +7,48 @@ namespace CommerceGuys\Addressing\AddressFormat;
  */
 class AddressFormat
 {
-    /**
-     * The country code.
-     *
-     * @var string
-     */
-    protected $countryCode;
+    protected string $countryCode;
 
-    /**
-     * The locale.
-     *
-     * @var string
-     */
-    protected $locale;
+    protected ?string $locale;
 
-    /**
-     * The format string.
-     *
-     * @var string
-     */
-    protected $format;
+    protected string $format;
 
-    /**
-     * The local format string.
-     *
-     * @var string
-     */
-    protected $localFormat;
+    protected ?string $localFormat;
 
-    /**
-     * The used fields.
-     *
-     * @var array
-     */
-    protected $usedFields = [];
+    protected array $usedFields = [];
 
     /**
      * The used fields, grouped by line.
-     *
-     * @var array
      */
-    protected $groupedFields = [];
+    protected array $groupedFields = [];
 
-    /**
-     * The required fields.
-     *
-     * @var array
-     */
-    protected $requiredFields = [];
+    protected mixed $requiredFields = [];
 
     /**
      * The fields that need to be uppercased.
-     *
-     * @var string
      */
-    protected $uppercaseFields = [];
+    protected array $uppercaseFields = [];
 
-    /**
-     * The administrative area type.
-     *
-     * @var string
-     */
-    protected $administrativeAreaType;
+    protected ?string $administrativeAreaType;
 
-    /**
-     * The locality type.
-     *
-     * @var string
-     */
-    protected $localityType;
+    protected string $localityType;
 
-    /**
-     * The dependent locality type.
-     *
-     * @var string
-     */
-    protected $dependentLocalityType;
+    protected ?string $dependentLocalityType = null;
 
-    /**
-     * The postal code type.
-     *
-     * @var string
-     */
-    protected $postalCodeType;
+    protected string $postalCodeType;
 
-    /**
-     * The postal code pattern.
-     *
-     * @var string
-     */
-    protected $postalCodePattern;
+    protected ?string $postalCodePattern;
 
-    /**
-     * The postal code prefix.
-     *
-     * @var string
-     */
-    protected $postalCodePrefix;
+    protected ?string $postalCodePrefix;
 
     /**
      * The subdivision depth.
-     *
-     * @var int
      */
-    protected $subdivisionDepth;
+    protected int $subdivisionDepth;
 
+    /**
+     * @throws \ReflectionException
+     */
     public function __construct(array $definition)
     {
         // Validate the presence of required properties.
@@ -205,6 +142,7 @@ class AddressFormat
      * %organization
      * %addressLine1
      * %addressLine2
+     * %addressLine3
      * %locality %administrativeArea %postalCode
      * </code>
      *
@@ -234,13 +172,14 @@ class AddressFormat
      * Gets the list of used fields.
      *
      * @return array An array of address fields.
+     * @throws \ReflectionException
      */
     public function getUsedFields(): array
     {
         if (empty($this->usedFields)) {
             $this->usedFields = [];
             foreach (AddressField::getAll() as $field) {
-                if (strpos($this->format, '%' . $field) !== false) {
+                if (str_contains($this->format, '%' . $field)) {
                     $this->usedFields[] = $field;
                 }
             }
@@ -252,7 +191,7 @@ class AddressFormat
     /**
      * Gets the list of used subdivision fields.
      *
-     * @return array An array of address fields.
+     * @throws \ReflectionException
      */
     public function getUsedSubdivisionFields(): array
     {
@@ -263,15 +202,13 @@ class AddressFormat
         ];
         // Remove fields not used by the format, and reset the keys.
         $fields = array_intersect($fields, $this->getUsedFields());
-        $fields = array_values($fields);
-
-        return $fields;
+        return array_values($fields);
     }
 
     /**
      * Gets the list of required fields.
      *
-     * @return array An array of address fields.
+     * @return AddressField[]
      */
     public function getRequiredFields(): array
     {
@@ -280,10 +217,8 @@ class AddressFormat
 
     /**
      * Gets the list of fields that need to be uppercased.
-     *
-     * @return array An array of address fields.
      */
-    public function getUppercaseFields()
+    public function getUppercaseFields(): array
     {
         return $this->uppercaseFields;
     }

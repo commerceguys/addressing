@@ -2,7 +2,6 @@
 
 namespace CommerceGuys\Addressing\Tests\Subdivision;
 
-use CommerceGuys\Addressing\Subdivision\PatternType;
 use CommerceGuys\Addressing\Subdivision\Subdivision;
 use Doctrine\Common\Collections\ArrayCollection;
 use PHPUnit\Framework\TestCase;
@@ -15,7 +14,7 @@ final class SubdivisionTest extends TestCase
     /**
      * @covers ::__construct
      */
-    public function testMissingProperty()
+    public function testMissingProperty(): void
     {
         $this->expectException(\InvalidArgumentException::class);
         $definition = [
@@ -39,9 +38,9 @@ final class SubdivisionTest extends TestCase
      * @covers ::getChildren
      * @covers ::hasChildren
      */
-    public function testValid()
+    public function testValid(): void
     {
-        $mockBuilder = $this->getMockBuilder('CommerceGuys\Addressing\Subdivision\Subdivision');
+        $mockBuilder = $this->getMockBuilder(Subdivision::class);
         $mockBuilder = $mockBuilder->disableOriginalConstructor();
         $parent = $mockBuilder->getMock();
         $children = new ArrayCollection([$mockBuilder->getMock(), $mockBuilder->getMock()]);
@@ -56,7 +55,6 @@ final class SubdivisionTest extends TestCase
             'local_name' => 'California!',
             'iso_code' => 'US-CA',
             'postal_code_pattern' => '9[0-5]|96[01]',
-            'postal_code_pattern_type' => PatternType::START,
             'children' => $children,
         ];
         $subdivision = new Subdivision($definition);
@@ -70,7 +68,6 @@ final class SubdivisionTest extends TestCase
         $this->assertEquals($definition['local_name'], $subdivision->getLocalName());
         $this->assertEquals($definition['iso_code'], $subdivision->getIsoCode());
         $this->assertEquals($definition['postal_code_pattern'], $subdivision->getPostalCodePattern());
-        $this->assertEquals($definition['postal_code_pattern_type'], $subdivision->getPostalCodePatternType());
         $this->assertEquals($definition['children'], $subdivision->getChildren());
         $this->assertTrue($subdivision->hasChildren());
     }

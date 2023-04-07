@@ -55,7 +55,7 @@ final class AddressFormatConstraintValidatorTest extends ConstraintValidatorTest
         $this->restoreDefaultTimezone();
     }
 
-    protected function createValidator()
+    protected function createValidator(): AddressFormatConstraintValidator
     {
         return new AddressFormatConstraintValidator();
     }
@@ -63,7 +63,7 @@ final class AddressFormatConstraintValidatorTest extends ConstraintValidatorTest
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatConstraintValidator
      */
-    public function testInvalidValueType()
+    public function testInvalidValueType(): void
     {
         $this->expectException(\Symfony\Component\Validator\Exception\UnexpectedTypeException::class);
         $this->validator->validate(new \stdClass(), $this->constraint);
@@ -72,7 +72,7 @@ final class AddressFormatConstraintValidatorTest extends ConstraintValidatorTest
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatConstraintValidator
      */
-    public function testEmptyIsValid()
+    public function testEmptyIsValid(): void
     {
         $this->validator->validate(new Address(), $this->constraint);
         $this->assertNoViolation();
@@ -81,7 +81,7 @@ final class AddressFormatConstraintValidatorTest extends ConstraintValidatorTest
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatConstraintValidator
      */
-    public function testAndorraOK()
+    public function testAndorraOK(): void
     {
         $address = new Address();
         $address = $address
@@ -99,7 +99,7 @@ final class AddressFormatConstraintValidatorTest extends ConstraintValidatorTest
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatConstraintValidator
      */
-    public function testAndorraNotOK()
+    public function testAndorraNotOK(): void
     {
         // Andorra has no predefined administrative areas, but it does have
         // predefined localities, which must be validated.
@@ -122,7 +122,7 @@ final class AddressFormatConstraintValidatorTest extends ConstraintValidatorTest
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatConstraintValidator
      */
-    public function testUnitedStatesOK()
+    public function testUnitedStatesOK(): void
     {
         $address = new Address();
         $address = $address
@@ -141,7 +141,7 @@ final class AddressFormatConstraintValidatorTest extends ConstraintValidatorTest
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatConstraintValidator
      */
-    public function testUnitedStatesNotOK()
+    public function testUnitedStatesNotOK(): void
     {
         $address = new Address();
         $address = $address
@@ -168,11 +168,8 @@ final class AddressFormatConstraintValidatorTest extends ConstraintValidatorTest
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatConstraintValidator
      */
-    public function testUnitedStatesSubdivisionPostcodePattern()
+    public function testUnitedStatesSubdivisionPostcodePattern(): void
     {
-        // Test with subdivision-level postal code validation disabled.
-        $this->constraint->extendedPostalCodeValidation = false;
-
         $address = new Address();
         $address = $address
             ->withCountryCode('US')
@@ -186,20 +183,12 @@ final class AddressFormatConstraintValidatorTest extends ConstraintValidatorTest
 
         $this->validator->validate($address, $this->constraint);
         $this->assertNoViolation();
-
-        // Now test with the subdivision-level postal code validation enabled.
-        $this->constraint->extendedPostalCodeValidation = true;
-        $this->validator->validate($address, $this->constraint);
-        $this->buildViolation($this->constraint->invalidMessage)
-            ->atPath('[postalCode]')
-            ->setInvalidValue('84025')
-            ->assertRaised();
     }
 
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatConstraintValidator
      */
-    public function testChinaOK()
+    public function testChinaOK(): void
     {
         $address = new Address();
         $address = $address
@@ -218,7 +207,7 @@ final class AddressFormatConstraintValidatorTest extends ConstraintValidatorTest
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatConstraintValidator
      */
-    public function testGermanAddress()
+    public function testGermanAddress(): void
     {
         $address = new Address();
         $address = $address
@@ -232,21 +221,12 @@ final class AddressFormatConstraintValidatorTest extends ConstraintValidatorTest
 
         $this->validator->validate($address, $this->constraint);
         $this->assertNoViolation();
-
-        // Testing with a empty city should fail.
-        $address = $address->withLocality(null);
-
-        $this->validator->validate($address, $this->constraint);
-        $this->buildViolation($this->constraint->notBlankMessage)
-            ->atPath('[locality]')
-            ->setInvalidValue(null)
-            ->assertRaised();
     }
 
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatConstraintValidator
      */
-    public function testIrishAddress()
+    public function testIrishAddress(): void
     {
         $address = new Address();
         $address = $address
@@ -259,19 +239,12 @@ final class AddressFormatConstraintValidatorTest extends ConstraintValidatorTest
 
         $this->validator->validate($address, $this->constraint);
         $this->assertNoViolation();
-
-        // Test the same address but leave the county empty. This address should be valid
-        // since county is not required.
-        $address = $address->withAdministrativeArea(null);
-
-        $this->validator->validate($address, $this->constraint);
-        $this->assertNoViolation();
     }
 
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatConstraintValidator
      */
-    public function testChinaPostalCodeBadFormat()
+    public function testChinaPostalCodeBadFormat(): void
     {
         $address = new Address();
         $address = $address
@@ -294,7 +267,7 @@ final class AddressFormatConstraintValidatorTest extends ConstraintValidatorTest
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatConstraintValidator
      */
-    public function testEmptyPostalCodeReportedAsGoodFormat()
+    public function testEmptyPostalCodeReportedAsGoodFormat(): void
     {
         $address = new Address();
         $address = $address
@@ -331,7 +304,7 @@ final class AddressFormatConstraintValidatorTest extends ConstraintValidatorTest
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatConstraintValidator
      */
-    public function testChinaTaiwanOk()
+    public function testChinaTaiwanOk(): void
     {
         $address = new Address();
         $address = $address
@@ -351,7 +324,7 @@ final class AddressFormatConstraintValidatorTest extends ConstraintValidatorTest
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatConstraintValidator
      */
-    public function testChinaTaiwanUnknownDistrict()
+    public function testChinaTaiwanUnknownDistrict(): void
     {
         $address = new Address();
         $address = $address
@@ -373,7 +346,7 @@ final class AddressFormatConstraintValidatorTest extends ConstraintValidatorTest
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatConstraintValidator
      */
-    public function testStreetVerification()
+    public function testStreetVerification(): void
     {
         $address = new Address();
         $address = $address
@@ -394,7 +367,7 @@ final class AddressFormatConstraintValidatorTest extends ConstraintValidatorTest
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatConstraintValidator
      */
-    public function testJapan()
+    public function testJapan(): void
     {
         $address = new Address();
         $address = $address
@@ -413,7 +386,7 @@ final class AddressFormatConstraintValidatorTest extends ConstraintValidatorTest
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatConstraintValidator
      */
-    public function testCanadaMixedCasePostcode()
+    public function testCanadaMixedCasePostcode(): void
     {
         $address = new Address();
         $address = $address
@@ -432,7 +405,7 @@ final class AddressFormatConstraintValidatorTest extends ConstraintValidatorTest
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatConstraintValidator
      */
-    public function testCanadaUnusedFields()
+    public function testCanadaUnusedFields(): void
     {
         $address = new Address();
         $address = $address
@@ -454,15 +427,9 @@ final class AddressFormatConstraintValidatorTest extends ConstraintValidatorTest
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatConstraintValidator
      */
-    public function testOverriddenRequiredFields()
+    public function testOverriddenRequiredFields(): void
     {
         // Confirm that it is possible to omit required name fields.
-        // Intentionally uses the deprecated fields setting to confirm
-        // that the BC layer works.
-        $nameFields = [AddressField::GIVEN_NAME, AddressField::FAMILY_NAME];
-        $this->constraint = new AddressFormatConstraint([
-            'fields' => array_diff(AddressField::getAll(), $nameFields),
-        ]);
         $address = new Address();
         $address = $address
             ->withCountryCode('CN')
@@ -470,11 +437,7 @@ final class AddressFormatConstraintValidatorTest extends ConstraintValidatorTest
             ->withLocality('Xicheng Qu')
             ->withPostalCode('123456')
             ->withAddressLine1('Yitiao Lu');
-        $this->validator->validate($address, $this->constraint);
-        $this->assertNoViolation();
 
-        // Confirm that an optional override works the same way.
-        $this->constraint->fields = [];
         $this->constraint->fieldOverrides = new FieldOverrides([
             AddressField::GIVEN_NAME => FieldOverride::OPTIONAL,
             AddressField::FAMILY_NAME => FieldOverride::OPTIONAL,
@@ -486,7 +449,7 @@ final class AddressFormatConstraintValidatorTest extends ConstraintValidatorTest
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatConstraintValidator
      */
-    public function testHiddenPostalCodeField()
+    public function testHiddenPostalCodeField(): void
     {
         // Confirm that postal code validation is skipped.
         $this->constraint->fieldOverrides = new FieldOverrides([
@@ -511,7 +474,7 @@ final class AddressFormatConstraintValidatorTest extends ConstraintValidatorTest
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatConstraintValidator
      */
-    public function testHiddenSubdivisionField()
+    public function testHiddenSubdivisionField(): void
     {
         // Confirm that subdivision validation is skipped.
         $this->constraint->fieldOverrides = new FieldOverrides([
