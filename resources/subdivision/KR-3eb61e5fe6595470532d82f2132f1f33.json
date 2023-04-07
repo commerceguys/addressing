@@ -44,7 +44,7 @@
 		},
 		"Jung-gu": {
 			"local_code": "중구",
-			"postal_code_pattern": "223"
+			"postal_code_pattern": "22[34]"
 		}
 	}
 }

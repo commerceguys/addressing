@@ -1,0 +1,17 @@
+{
+	"country_code": "CL",
+	"parents": [
+		"CL",
+		"NB"
+	],
+	"subdivisions": {
+		"Bulnes": [],
+		"Chillán": [],
+		"Coelemu": [],
+		"Coihueco": [],
+		"Quillón": [],
+		"Quirihue": [],
+		"San Carlos": [],
+		"Yungay": []
+	}
+}

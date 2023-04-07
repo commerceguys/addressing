@@ -1,11 +1,6 @@
 {
 	"country_code": "CO",
 	"subdivisions": {
-		"DC": {
-			"name": "Distrito Capital de Bogotá",
-			"iso_code": "CO-DC",
-			"postal_code_pattern": "11\\d{4}"
-		},
 		"AMA": {
 			"name": "Amazonas",
 			"iso_code": "CO-AMA",
@@ -25,6 +20,11 @@
 			"name": "Atlántico",
 			"iso_code": "CO-ATL",
 			"postal_code_pattern": "08\\d{4}"
+		},
+		"DC": {
+			"name": "Distrito Capital de Bogotá",
+			"iso_code": "CO-DC",
+			"postal_code_pattern": "11\\d{4}"
 		},
 		"BOL": {
 			"name": "Bolívar",
@@ -61,6 +61,11 @@
 			"iso_code": "CO-CES",
 			"postal_code_pattern": "20\\d{4}"
 		},
+		"CHO": {
+			"name": "Chocó",
+			"iso_code": "CO-CHO",
+			"postal_code_pattern": "27\\d{4}"
+		},
 		"COR": {
 			"name": "Córdoba",
 			"iso_code": "CO-COR",
@@ -70,11 +75,6 @@
 			"name": "Cundinamarca",
 			"iso_code": "CO-CUN",
 			"postal_code_pattern": "25\\d{4}"
-		},
-		"CHO": {
-			"name": "Chocó",
-			"iso_code": "CO-CHO",
-			"postal_code_pattern": "27\\d{4}"
 		},
 		"GUA": {
 			"name": "Guanía",
