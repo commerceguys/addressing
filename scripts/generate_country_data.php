@@ -75,7 +75,7 @@ echo "Done.\n";
 /**
  * Converts the provided data into json and writes it to the disk.
  */
-function file_put_json(string $filename, string $data): void
+function file_put_json(string $filename, array $data): void
 {
     $data = json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE);
     // Indenting with tabs instead of 4 spaces gives us 20% smaller files.
