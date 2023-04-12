@@ -55,20 +55,20 @@ class CountryRepository implements CountryRepositoryInterface
      */
     protected array $availableLocales = [
         'af', 'am', 'ar', 'ar-LY', 'ar-SA', 'as', 'az', 'be', 'bg', 'bn',
-        'bn-IN', 'bs', 'ca', 'chr', 'cs', 'cy', 'da', 'de', 'de-AT', 'de-CH',
-        'dsb', 'el', 'en', 'en-001', 'en-AU', 'en-CA', 'en-MV', 'es', 'es-419',
-        'es-AR', 'es-BO', 'es-CL', 'es-CO', 'es-CR', 'es-DO', 'es-EC', 'es-GT',
-        'es-HN', 'es-MX', 'es-NI', 'es-PA', 'es-PE', 'es-PR', 'es-PY', 'es-SV',
-        'es-US', 'es-VE', 'et', 'eu', 'fa', 'fa-AF', 'fi', 'fil', 'fr',
+        'bn-IN', 'bs', 'ca', 'cs', 'cy', 'da', 'de', 'de-AT', 'de-CH',
+        'el', 'el-polyton', 'en', 'en-001', 'en-AU', 'en-CA', 'en-MV', 'es',
+        'es-419', 'es-AR', 'es-BO', 'es-CL', 'es-CO', 'es-CR', 'es-DO', 'es-EC',
+        'es-GT', 'es-HN', 'es-MX', 'es-NI', 'es-PA', 'es-PE', 'es-PR', 'es-PY',
+        'es-SV', 'es-US', 'es-VE', 'et', 'eu', 'fa', 'fa-AF', 'fi', 'fil', 'fr',
         'fr-BE', 'fr-CA', 'ga', 'gd', 'gl', 'gu', 'he', 'hi', 'hi-Latn', 'hr',
-        'hsb', 'hu', 'hy', 'id', 'ig', 'is', 'it', 'ja', 'ka', 'kk', 'km',
-        'ko', 'ko-KP', 'kok', 'ky', 'lo', 'lt', 'lv', 'mk', 'ml', 'mn', 'mr',
-        'ms', 'my', 'ne', 'nl', 'nn', 'no', 'or', 'pa', 'pcm', 'pl', 'ps',
-        'ps-PK', 'pt', 'pt-PT', 'qu', 'ro', 'ro-MD', 'ru', 'ru-UA', 'si', 'sk',
-        'sl', 'so', 'sq', 'sr', 'sr-Cyrl-BA', 'sr-Cyrl-ME', 'sr-Cyrl-XK',
-        'sr-Latn', 'sr-Latn-BA', 'sr-Latn-ME', 'sr-Latn-XK', 'sv', 'sw',
-        'sw-CD', 'sw-KE', 'ta', 'te', 'th', 'tk', 'tr', 'uk', 'ur', 'ur-IN',
-        'uz', 'vi', 'yue', 'yue-Hans', 'zh', 'zh-Hant', 'zh-Hant-HK', 'zu',
+        'hu', 'hy', 'id', 'ig', 'is', 'it', 'ja', 'ka', 'kk', 'km', 'ko', 'ko-KP',
+        'kok', 'ky', 'lo', 'lt', 'lv', 'mk', 'ml', 'mn', 'mr', 'ms', 'my', 'ne',
+        'nl', 'nn', 'no', 'or', 'pa', 'pcm', 'pl', 'ps', 'ps-PK', 'pt', 'pt-PT',
+        'ro', 'ro-MD', 'ru', 'ru-UA', 'si', 'sk', 'sl', 'so', 'sq', 'sr',
+        'sr-Cyrl-BA', 'sr-Cyrl-ME', 'sr-Cyrl-XK', 'sr-Latn', 'sr-Latn-BA',
+        'sr-Latn-ME', 'sr-Latn-XK', 'sv', 'sw', 'sw-CD', 'sw-KE', 'ta', 'te',
+        'th', 'tk', 'tr', 'uk', 'ur', 'ur-IN', 'uz', 'vi', 'yue', 'yue-Hans',
+        'zh', 'zh-Hant', 'zh-Hant-HK', 'zu',
     ];
 
     /**
