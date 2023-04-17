@@ -34,7 +34,6 @@ final class SubdivisionTest extends TestCase
      * @covers ::getLocalName
      * @covers ::getIsoCode
      * @covers ::getPostalCodePattern
-     * @covers ::getPostalCodePatternType
      * @covers ::getChildren
      * @covers ::hasChildren
      */
