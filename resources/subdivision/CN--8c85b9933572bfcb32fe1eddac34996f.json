@@ -1,0 +1,39 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"LN",
+		"Jinzhou Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Beizhen Shi": {
+			"name": "Beizhen Shi",
+			"local_name": "北镇市"
+		},
+		"Guta Qu": {
+			"name": "Guta Qu",
+			"local_name": "古塔区"
+		},
+		"Heishan Xian": {
+			"name": "Heishan Xian",
+			"local_name": "黑山县"
+		},
+		"Linghai Shi": {
+			"name": "Linghai Shi",
+			"local_name": "凌海市"
+		},
+		"Linghe Qu": {
+			"name": "Linghe Qu",
+			"local_name": "凌河区"
+		},
+		"Taihe Qu": {
+			"name": "Taihe Qu",
+			"local_name": "太和区"
+		},
+		"Yi Xian": {
+			"name": "Yi Xian",
+			"local_name": "义县"
+		}
+	}
+}

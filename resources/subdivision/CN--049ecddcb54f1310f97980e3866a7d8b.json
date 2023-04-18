@@ -1,0 +1,23 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"NX",
+		"Zhongwei Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Haiyuan Xian": {
+			"name": "Haiyuan Xian",
+			"local_name": "海原县"
+		},
+		"Shapotou Qu": {
+			"name": "Shapotou Qu",
+			"local_name": "沙坡头区"
+		},
+		"Zhongning Xian": {
+			"name": "Zhongning Xian",
+			"local_name": "中宁县"
+		}
+	}
+}

@@ -1,0 +1,39 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"GX",
+		"Chongzuo Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Daxin Xian": {
+			"name": "Daxin Xian",
+			"local_name": "大新县"
+		},
+		"Fusui Xian": {
+			"name": "Fusui Xian",
+			"local_name": "扶绥县"
+		},
+		"Jiangzhou Qu": {
+			"name": "Jiangzhou Qu",
+			"local_name": "江洲区"
+		},
+		"Longzhou Xian": {
+			"name": "Longzhou Xian",
+			"local_name": "龙州县"
+		},
+		"Ningming Xian": {
+			"name": "Ningming Xian",
+			"local_name": "宁明县"
+		},
+		"Pingxiang Shi": {
+			"name": "Pingxiang Shi",
+			"local_name": "凭祥市"
+		},
+		"Tiandeng Xian": {
+			"name": "Tiandeng Xian",
+			"local_name": "天等县"
+		}
+	}
+}

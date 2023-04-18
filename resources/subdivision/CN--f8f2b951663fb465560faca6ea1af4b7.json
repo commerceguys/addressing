@@ -1,0 +1,43 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"GS",
+		"Gannan Zhou"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Têwo Xian": {
+			"name": "Têwo Xian",
+			"local_name": "迭部县"
+		},
+		"Hezuo Shi": {
+			"name": "Hezuo Shi",
+			"local_name": "合作市"
+		},
+		"Lintan Xian": {
+			"name": "Lintan Xian",
+			"local_name": "临潭县"
+		},
+		"Luqu Xian": {
+			"name": "Luqu Xian",
+			"local_name": "碌曲县"
+		},
+		"Maqu Xian": {
+			"name": "Maqu Xian",
+			"local_name": "玛曲县"
+		},
+		"Xiahe Xian": {
+			"name": "Xiahe Xian",
+			"local_name": "夏河县"
+		},
+		"Zhugqu Xian": {
+			"name": "Zhugqu Xian",
+			"local_name": "舟曲县"
+		},
+		"Jonê Xian": {
+			"name": "Jonê Xian",
+			"local_name": "卓尼县"
+		}
+	}
+}

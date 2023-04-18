@@ -1,0 +1,53 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"XJ",
+		"Ili Zhou"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Qapqal Xian": {
+			"code": "Qapqal Xian",
+			"local_code": "察布查尔锡伯自治县",
+			"name": "Qapqal Xian",
+			"local_name": "察布查尔县"
+		},
+		"Gongliu Xian": {
+			"name": "Gongliu Xian",
+			"local_name": "巩留县"
+		},
+		"Huocheng Xian": {
+			"name": "Huocheng Xian",
+			"local_name": "霍城县"
+		},
+		"Kuytun Shi": {
+			"name": "Kuytun Shi",
+			"local_name": "奎屯市"
+		},
+		"Nilka Xian": {
+			"name": "Nilka Xian",
+			"local_name": "尼勒克县"
+		},
+		"Tekes Xian": {
+			"name": "Tekes Xian",
+			"local_name": "特克斯县"
+		},
+		"Xinyuan Xian": {
+			"name": "Xinyuan Xian",
+			"local_name": "新源县"
+		},
+		"Yining Shi": {
+			"name": "Yining Shi",
+			"local_name": "伊宁市"
+		},
+		"Yining Xian": {
+			"name": "Yining Xian",
+			"local_name": "伊宁县"
+		},
+		"Zhaosu Xian": {
+			"name": "Zhaosu Xian",
+			"local_name": "昭苏县"
+		}
+	}
+}

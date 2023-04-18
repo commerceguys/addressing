@@ -1,0 +1,47 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"JS",
+		"Yancheng Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Binhai Xian": {
+			"name": "Binhai Xian",
+			"local_name": "滨海县"
+		},
+		"Dafeng Shi": {
+			"name": "Dafeng Shi",
+			"local_name": "大丰市"
+		},
+		"Dongtai Shi": {
+			"name": "Dongtai Shi",
+			"local_name": "东台市"
+		},
+		"Funing Xian": {
+			"name": "Funing Xian",
+			"local_name": "阜宁县"
+		},
+		"Jianhu Xian": {
+			"name": "Jianhu Xian",
+			"local_name": "建湖县"
+		},
+		"Sheyang Xian": {
+			"name": "Sheyang Xian",
+			"local_name": "射阳县"
+		},
+		"Tinghu Qu": {
+			"name": "Tinghu Qu",
+			"local_name": "亭湖区"
+		},
+		"Xiangshui Xian": {
+			"name": "Xiangshui Xian",
+			"local_name": "响水县"
+		},
+		"Yandu Qu": {
+			"name": "Yandu Qu",
+			"local_name": "盐都区"
+		}
+	}
+}

@@ -1,0 +1,45 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"GZ",
+		"Bijie Diqu"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Bijie Shi": {
+			"name": "Bijie Shi",
+			"local_name": "毕节市"
+		},
+		"Dafang Xian": {
+			"name": "Dafang Xian",
+			"local_name": "大方县"
+		},
+		"Hezhang Xian": {
+			"name": "Hezhang Xian",
+			"local_name": "赫章县"
+		},
+		"Jinsha Xian": {
+			"name": "Jinsha Xian",
+			"local_name": "金沙县"
+		},
+		"Nayong Xian": {
+			"name": "Nayong Xian",
+			"local_name": "纳雍县"
+		},
+		"Qianxi Xian": {
+			"name": "Qianxi Xian",
+			"local_name": "黔西县"
+		},
+		"Weining Xian": {
+			"code": "Weining Xian",
+			"local_code": "威宁彝族回族苗族自治县",
+			"name": "Weining Xian",
+			"local_name": "威宁县"
+		},
+		"Zhijin Xian": {
+			"name": "Zhijin Xian",
+			"local_name": "织金县"
+		}
+	}
+}

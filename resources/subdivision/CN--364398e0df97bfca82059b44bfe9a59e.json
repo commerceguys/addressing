@@ -1,0 +1,39 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"LN",
+		"Benxi Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Benxi Xian": {
+			"code": "Benxi Xian",
+			"local_code": "本溪满族自治县",
+			"name": "Benxi Xian",
+			"local_name": "本溪县"
+		},
+		"Huanren Xian": {
+			"code": "Huanren Xian",
+			"local_code": "桓仁满族自治县",
+			"name": "Huanren Xian",
+			"local_name": "桓仁县"
+		},
+		"Mingshan Qu": {
+			"name": "Mingshan Qu",
+			"local_name": "明山区"
+		},
+		"Nanfen Qu": {
+			"name": "Nanfen Qu",
+			"local_name": "南芬区"
+		},
+		"Pingshan Qu": {
+			"name": "Pingshan Qu",
+			"local_name": "平山区"
+		},
+		"Xihu Qu": {
+			"name": "Xihu Qu",
+			"local_name": "溪湖区"
+		}
+	}
+}

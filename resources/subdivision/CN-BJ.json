@@ -1,0 +1,74 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"BJ"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Changping Qu": {
+			"name": "Changping Qu",
+			"local_name": "昌平区"
+		},
+		"Chaoyang Qu": {
+			"name": "Chaoyang Qu",
+			"local_name": "朝阳区"
+		},
+		"Daxing Qu": {
+			"name": "Daxing Qu",
+			"local_name": "大兴区"
+		},
+		"Dongcheng Qu": {
+			"name": "Dongcheng Qu",
+			"local_name": "东城区"
+		},
+		"Fangshan Qu": {
+			"name": "Fangshan Qu",
+			"local_name": "房山区"
+		},
+		"Fengtai Qu": {
+			"name": "Fengtai Qu",
+			"local_name": "丰台区"
+		},
+		"Haidian Qu": {
+			"name": "Haidian Qu",
+			"local_name": "海淀区"
+		},
+		"Huairou Qu": {
+			"name": "Huairou Qu",
+			"local_name": "怀柔区"
+		},
+		"Mentougou Qu": {
+			"name": "Mentougou Qu",
+			"local_name": "门头沟区"
+		},
+		"Miyun Xian": {
+			"name": "Miyun Xian",
+			"local_name": "密云县"
+		},
+		"Pinggu Qu": {
+			"name": "Pinggu Qu",
+			"local_name": "平谷区"
+		},
+		"Shijingshan Qu": {
+			"name": "Shijingshan Qu",
+			"local_name": "石景山区"
+		},
+		"Shunyi Qu": {
+			"name": "Shunyi Qu",
+			"local_name": "顺义区"
+		},
+		"Tongzhou Qu": {
+			"name": "Tongzhou Qu",
+			"local_name": "通州区"
+		},
+		"Xicheng Qu": {
+			"name": "Xicheng Qu",
+			"local_name": "西城区"
+		},
+		"Yanqing Xian": {
+			"name": "Yanqing Xian",
+			"local_name": "延庆县"
+		}
+	}
+}

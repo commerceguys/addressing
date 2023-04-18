@@ -86,7 +86,7 @@ final class AddressFormatConstraintValidatorTest extends ConstraintValidatorTest
         $address = new Address();
         $address = $address
             ->withCountryCode('AD')
-            ->withLocality("Parròquia d'Andorra la Vella")
+            ->withLocality("07")
             ->withPostalCode('AD500')
             ->withAddressLine1('C. Prat de la Creu, 62-64')
             ->withGivenName('Antoni')
@@ -193,7 +193,7 @@ final class AddressFormatConstraintValidatorTest extends ConstraintValidatorTest
         $address = new Address();
         $address = $address
             ->withCountryCode('CN')
-            ->withAdministrativeArea('Beijing Shi')
+            ->withAdministrativeArea('BJ')
             ->withLocality('Xicheng Qu')
             ->withPostalCode('123456')
             ->withAddressLine1('Yitiao Lu')
@@ -231,7 +231,7 @@ final class AddressFormatConstraintValidatorTest extends ConstraintValidatorTest
         $address = new Address();
         $address = $address
             ->withCountryCode('IE')
-            ->withAdministrativeArea('Co. Donegal')
+            ->withAdministrativeArea('DL')
             ->withLocality('Dublin')
             ->withAddressLine1('7424 118 Avenue NW')
             ->withGivenName('Conan')
@@ -249,7 +249,7 @@ final class AddressFormatConstraintValidatorTest extends ConstraintValidatorTest
         $address = new Address();
         $address = $address
             ->withCountryCode('CN')
-            ->withAdministrativeArea('Beijing Shi')
+            ->withAdministrativeArea('BJ')
             ->withLocality('Xicheng Qu')
             ->withPostalCode('InvalidValue')
             ->withGivenName('John')
@@ -272,7 +272,7 @@ final class AddressFormatConstraintValidatorTest extends ConstraintValidatorTest
         $address = new Address();
         $address = $address
             ->withCountryCode('CL')
-            ->withAdministrativeArea('Antofagasta')
+            ->withAdministrativeArea('AN')
             ->withLocality('San Pedro de Atacama')
             ->withPostalCode('')
             ->withAddressLine1('GUSTAVO LE PAIGE ST #159')
@@ -309,7 +309,7 @@ final class AddressFormatConstraintValidatorTest extends ConstraintValidatorTest
         $address = new Address();
         $address = $address
             ->withCountryCode('CN')
-            ->withAdministrativeArea('Taiwan')
+            ->withAdministrativeArea('TW')
             ->withLocality('Taichung City')
             ->withDependentLocality('Xitun District')
             ->withPostalCode('407')
@@ -329,7 +329,7 @@ final class AddressFormatConstraintValidatorTest extends ConstraintValidatorTest
         $address = new Address();
         $address = $address
             ->withCountryCode('CN')
-            ->withAdministrativeArea('Taiwan')
+            ->withAdministrativeArea('TW')
             ->withLocality('Taichung City')
             ->withDependentLocality('InvalidValue')
             ->withPostalCode('407')
@@ -372,7 +372,7 @@ final class AddressFormatConstraintValidatorTest extends ConstraintValidatorTest
         $address = new Address();
         $address = $address
             ->withCountryCode('JP')
-            ->withAdministrativeArea('Kyoto')
+            ->withAdministrativeArea('26')
             ->withLocality('Shigeru Miyamoto')
             ->withPostalCode('601-8501')
             ->withAddressLine1('11-1 Kamitoba-hokotate-cho')
@@ -433,7 +433,7 @@ final class AddressFormatConstraintValidatorTest extends ConstraintValidatorTest
         $address = new Address();
         $address = $address
             ->withCountryCode('CN')
-            ->withAdministrativeArea('Beijing Shi')
+            ->withAdministrativeArea('BJ')
             ->withLocality('Xicheng Qu')
             ->withPostalCode('123456')
             ->withAddressLine1('Yitiao Lu');
@@ -458,7 +458,7 @@ final class AddressFormatConstraintValidatorTest extends ConstraintValidatorTest
         $address = new Address();
         $address = $address
             ->withCountryCode('CN')
-            ->withAdministrativeArea('Beijing Shi')
+            ->withAdministrativeArea('BJ')
             ->withLocality('Xicheng Qu')
             ->withAddressLine1('Yitiao Lu')
             ->withGivenName('John')

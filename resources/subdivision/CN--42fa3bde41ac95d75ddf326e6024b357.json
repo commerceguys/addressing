@@ -1,0 +1,39 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"LN",
+		"Tieling Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Changtu Xian": {
+			"name": "Changtu Xian",
+			"local_name": "昌图县"
+		},
+		"Diaobingshan Shi": {
+			"name": "Diaobingshan Shi",
+			"local_name": "调兵山市"
+		},
+		"Kaiyuan Shi": {
+			"name": "Kaiyuan Shi",
+			"local_name": "开原市"
+		},
+		"Qinghe Qu": {
+			"name": "Qinghe Qu",
+			"local_name": "清河区"
+		},
+		"Tieling Xian": {
+			"name": "Tieling Xian",
+			"local_name": "铁岭县"
+		},
+		"Xifeng Xian": {
+			"name": "Xifeng Xian",
+			"local_name": "西丰县"
+		},
+		"Yinzhou Qu": {
+			"name": "Yinzhou Qu",
+			"local_name": "银州区"
+		}
+	}
+}

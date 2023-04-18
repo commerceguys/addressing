@@ -1,0 +1,37 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"GS",
+		"Zhangye Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Ganzhou Qu": {
+			"name": "Ganzhou Qu",
+			"local_name": "甘州区"
+		},
+		"Gaotai Xian": {
+			"name": "Gaotai Xian",
+			"local_name": "高台县"
+		},
+		"Linze Xian": {
+			"name": "Linze Xian",
+			"local_name": "临泽县"
+		},
+		"Minle Xian": {
+			"name": "Minle Xian",
+			"local_name": "民乐县"
+		},
+		"Shandan Xian": {
+			"name": "Shandan Xian",
+			"local_name": "山丹县"
+		},
+		"Sunan Xian": {
+			"code": "Sunan Xian",
+			"local_code": "肃南裕固族自治县",
+			"name": "Sunan Xian",
+			"local_name": "肃南县"
+		}
+	}
+}

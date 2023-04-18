@@ -1,0 +1,16 @@
+{
+	"country_code": "CL",
+	"parents": [
+		"CL",
+		"TA"
+	],
+	"subdivisions": {
+		"Alto Hospicio": [],
+		"Camiña": [],
+		"Colchane": [],
+		"Huara": [],
+		"Iquique": [],
+		"Pica": [],
+		"Pozo Almonte": []
+	}
+}

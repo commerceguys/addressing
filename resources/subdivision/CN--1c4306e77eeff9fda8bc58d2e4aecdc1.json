@@ -1,0 +1,35 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"LN",
+		"Huludao Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Jianchang Xian": {
+			"name": "Jianchang Xian",
+			"local_name": "建昌县"
+		},
+		"Lianshan Qu": {
+			"name": "Lianshan Qu",
+			"local_name": "连山区"
+		},
+		"Longgang Qu": {
+			"name": "Longgang Qu",
+			"local_name": "龙港区"
+		},
+		"Nanpiao Qu": {
+			"name": "Nanpiao Qu",
+			"local_name": "南票区"
+		},
+		"Suizhong Xian": {
+			"name": "Suizhong Xian",
+			"local_name": "绥中县"
+		},
+		"Xingcheng Shi": {
+			"name": "Xingcheng Shi",
+			"local_name": "兴城市"
+		}
+	}
+}

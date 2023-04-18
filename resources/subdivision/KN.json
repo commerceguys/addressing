@@ -1,11 +1,11 @@
 {
 	"country_code": "KN",
 	"subdivisions": {
-		"Nevis": {
-			"iso_code": "KN-N"
+		"N": {
+			"name": "Nevis"
 		},
-		"St. Kitts": {
-			"iso_code": "KN-K"
+		"K": {
+			"name": "St. Kitts"
 		}
 	}
 }

@@ -1,0 +1,65 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"ZJ"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Hangzhou Shi": {
+			"name": "Hangzhou Shi",
+			"local_name": "杭州市",
+			"has_children": true
+		},
+		"Huzhou Shi": {
+			"name": "Huzhou Shi",
+			"local_name": "湖州市",
+			"has_children": true
+		},
+		"Jiaxing Shi": {
+			"name": "Jiaxing Shi",
+			"local_name": "嘉兴市",
+			"has_children": true
+		},
+		"Jinhua Shi": {
+			"name": "Jinhua Shi",
+			"local_name": "金华市",
+			"has_children": true
+		},
+		"Lishui Shi": {
+			"name": "Lishui Shi",
+			"local_name": "丽水市",
+			"has_children": true
+		},
+		"Ningbo Shi": {
+			"name": "Ningbo Shi",
+			"local_name": "宁波市",
+			"has_children": true
+		},
+		"Quzhou Shi": {
+			"name": "Quzhou Shi",
+			"local_name": "衢州市",
+			"has_children": true
+		},
+		"Shaoxing Shi": {
+			"name": "Shaoxing Shi",
+			"local_name": "绍兴市",
+			"has_children": true
+		},
+		"Taizhou Shi": {
+			"name": "Taizhou Shi",
+			"local_name": "台州市",
+			"has_children": true
+		},
+		"Wenzhou Shi": {
+			"name": "Wenzhou Shi",
+			"local_name": "温州市",
+			"has_children": true
+		},
+		"Zhoushan Shi": {
+			"name": "Zhoushan Shi",
+			"local_name": "舟山市",
+			"has_children": true
+		}
+	}
+}

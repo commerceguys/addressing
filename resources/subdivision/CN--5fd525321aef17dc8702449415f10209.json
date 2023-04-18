@@ -1,0 +1,71 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"HA",
+		"Luoyang Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Chanhe Huizu Qu": {
+			"name": "Chanhe Huizu Qu",
+			"local_name": "瀍河回族区"
+		},
+		"Jili Qu": {
+			"name": "Jili Qu",
+			"local_name": "吉利区"
+		},
+		"Jianxi Qu": {
+			"name": "Jianxi Qu",
+			"local_name": "涧西区"
+		},
+		"Laocheng Qu": {
+			"name": "Laocheng Qu",
+			"local_name": "老城区"
+		},
+		"Luanchuan Xian": {
+			"name": "Luanchuan Xian",
+			"local_name": "栾川县"
+		},
+		"Luolong Qu": {
+			"name": "Luolong Qu",
+			"local_name": "洛龙区"
+		},
+		"Luoning Xian": {
+			"name": "Luoning Xian",
+			"local_name": "洛宁县"
+		},
+		"Mengjin Xian": {
+			"name": "Mengjin Xian",
+			"local_name": "孟津县"
+		},
+		"Ruyang Xian": {
+			"name": "Ruyang Xian",
+			"local_name": "汝阳县"
+		},
+		"Song Xian": {
+			"name": "Song Xian",
+			"local_name": "嵩县"
+		},
+		"Xigong Qu": {
+			"name": "Xigong Qu",
+			"local_name": "西工区"
+		},
+		"Xin'an Xian": {
+			"name": "Xin'an Xian",
+			"local_name": "新安县"
+		},
+		"Yanshi Shi": {
+			"name": "Yanshi Shi",
+			"local_name": "偃师市"
+		},
+		"Yichuan Xian": {
+			"name": "Yichuan Xian",
+			"local_name": "伊川县"
+		},
+		"Yiyang Xian": {
+			"name": "Yiyang Xian",
+			"local_name": "宜阳县"
+		}
+	}
+}

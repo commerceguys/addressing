@@ -1,0 +1,31 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"SC",
+		"Guang'an Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Guang'an Qu": {
+			"name": "Guang'an Qu",
+			"local_name": "广安区"
+		},
+		"Huaying Shi": {
+			"name": "Huaying Shi",
+			"local_name": "华蓥市"
+		},
+		"Linshui Xian": {
+			"name": "Linshui Xian",
+			"local_name": "邻水县"
+		},
+		"Wusheng Xian": {
+			"name": "Wusheng Xian",
+			"local_name": "武胜县"
+		},
+		"Yuechi Xian": {
+			"name": "Yuechi Xian",
+			"local_name": "岳池县"
+		}
+	}
+}

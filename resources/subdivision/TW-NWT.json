@@ -1,0 +1,126 @@
+{
+	"country_code": "TW",
+	"parents": [
+		"TW",
+		"NWT"
+	],
+	"locale": "zh-Hant",
+	"subdivisions": {
+		"Bali District": {
+			"name": "Bali District",
+			"local_name": "八里區"
+		},
+		"Sanzhi District": {
+			"name": "Sanzhi District",
+			"local_name": "三芝區"
+		},
+		"Sanchong District": {
+			"name": "Sanchong District",
+			"local_name": "三重區"
+		},
+		"Sanxia District": {
+			"name": "Sanxia District",
+			"local_name": "三峽區"
+		},
+		"Tucheng District": {
+			"name": "Tucheng District",
+			"local_name": "土城區"
+		},
+		"Zhonghe District": {
+			"name": "Zhonghe District",
+			"local_name": "中和區"
+		},
+		"Wugu District": {
+			"name": "Wugu District",
+			"local_name": "五股區"
+		},
+		"Pingxi District": {
+			"name": "Pingxi District",
+			"local_name": "平溪區"
+		},
+		"Yonghe District": {
+			"name": "Yonghe District",
+			"local_name": "永和區"
+		},
+		"Shimen District": {
+			"name": "Shimen District",
+			"local_name": "石門區"
+		},
+		"Shiding District": {
+			"name": "Shiding District",
+			"local_name": "石碇區"
+		},
+		"Xizhi District": {
+			"name": "Xizhi District",
+			"local_name": "汐止區"
+		},
+		"Pinglin District": {
+			"name": "Pinglin District",
+			"local_name": "坪林區"
+		},
+		"Banqiao District": {
+			"name": "Banqiao District",
+			"local_name": "板橋區"
+		},
+		"Linkou District": {
+			"name": "Linkou District",
+			"local_name": "林口區"
+		},
+		"Jinshan District": {
+			"name": "Jinshan District",
+			"local_name": "金山區"
+		},
+		"Taishan District": {
+			"name": "Taishan District",
+			"local_name": "泰山區"
+		},
+		"Wulai District": {
+			"name": "Wulai District",
+			"local_name": "烏來區"
+		},
+		"Gongliao District": {
+			"name": "Gongliao District",
+			"local_name": "貢寮區"
+		},
+		"Tamsui District": {
+			"name": "Tamsui District",
+			"local_name": "淡水區"
+		},
+		"Shenkeng District": {
+			"name": "Shenkeng District",
+			"local_name": "深坑區"
+		},
+		"Xindian District": {
+			"name": "Xindian District",
+			"local_name": "新店區"
+		},
+		"Xinzhuang District": {
+			"name": "Xinzhuang District",
+			"local_name": "新莊區"
+		},
+		"Ruifang District": {
+			"name": "Ruifang District",
+			"local_name": "瑞芳區"
+		},
+		"Wanli District": {
+			"name": "Wanli District",
+			"local_name": "萬里區"
+		},
+		"Shulin District": {
+			"name": "Shulin District",
+			"local_name": "樹林區"
+		},
+		"Shuangxi District": {
+			"name": "Shuangxi District",
+			"local_name": "雙溪區"
+		},
+		"Luzhou District": {
+			"name": "Luzhou District",
+			"local_name": "蘆洲區"
+		},
+		"Yingge District": {
+			"name": "Yingge District",
+			"local_name": "鶯歌區"
+		}
+	}
+}

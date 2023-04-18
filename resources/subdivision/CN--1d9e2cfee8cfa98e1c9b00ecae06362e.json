@@ -1,0 +1,31 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"GD",
+		"Jieyang Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Huilai Xian": {
+			"name": "Huilai Xian",
+			"local_name": "惠来县"
+		},
+		"Jiedong Xian": {
+			"name": "Jiedong Xian",
+			"local_name": "揭东县"
+		},
+		"Jiexi Xian": {
+			"name": "Jiexi Xian",
+			"local_name": "揭西县"
+		},
+		"Puning Shi": {
+			"name": "Puning Shi",
+			"local_name": "普宁市"
+		},
+		"Rongcheng Qu": {
+			"name": "Rongcheng Qu",
+			"local_name": "榕城区"
+		}
+	}
+}

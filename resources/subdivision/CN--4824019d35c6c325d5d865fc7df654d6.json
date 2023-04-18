@@ -1,0 +1,25 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"XJ",
+		"Hami Diqu"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Barkol Xian": {
+			"code": "Barkol Xian",
+			"local_code": "巴里坤哈萨克自治县",
+			"name": "Barkol Xian",
+			"local_name": "巴里坤县"
+		},
+		"Hami Shi": {
+			"name": "Hami Shi",
+			"local_name": "哈密市"
+		},
+		"Yiwu Xian": {
+			"name": "Yiwu Xian",
+			"local_name": "伊吾县"
+		}
+	}
+}

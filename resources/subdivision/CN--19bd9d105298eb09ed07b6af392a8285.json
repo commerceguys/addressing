@@ -1,0 +1,31 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"JX",
+		"Pingxiang Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Anyuan Qu": {
+			"name": "Anyuan Qu",
+			"local_name": "安源区"
+		},
+		"Lianhua Xian": {
+			"name": "Lianhua Xian",
+			"local_name": "莲花县"
+		},
+		"Luxi Xian": {
+			"name": "Luxi Xian",
+			"local_name": "芦溪县"
+		},
+		"Shangli Xian": {
+			"name": "Shangli Xian",
+			"local_name": "上栗县"
+		},
+		"Xiangdong Qu": {
+			"name": "Xiangdong Qu",
+			"local_name": "湘东区"
+		}
+	}
+}

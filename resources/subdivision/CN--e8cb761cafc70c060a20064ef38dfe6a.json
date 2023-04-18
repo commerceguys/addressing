@@ -1,0 +1,35 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"SC",
+		"Zigong Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Da'an Qu": {
+			"name": "Da'an Qu",
+			"local_name": "大安区"
+		},
+		"Fushun Xian": {
+			"name": "Fushun Xian",
+			"local_name": "富顺县"
+		},
+		"Gongjing Qu": {
+			"name": "Gongjing Qu",
+			"local_name": "贡井区"
+		},
+		"Rong Xian": {
+			"name": "Rong Xian",
+			"local_name": "荣县"
+		},
+		"Yantan Qu": {
+			"name": "Yantan Qu",
+			"local_name": "沿滩区"
+		},
+		"Ziliujing Qu": {
+			"name": "Ziliujing Qu",
+			"local_name": "自流井区"
+		}
+	}
+}

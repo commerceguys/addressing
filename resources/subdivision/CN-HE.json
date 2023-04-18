@@ -1,0 +1,65 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"HE"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Baoding Shi": {
+			"name": "Baoding Shi",
+			"local_name": "保定市",
+			"has_children": true
+		},
+		"Cangzhou Shi": {
+			"name": "Cangzhou Shi",
+			"local_name": "沧州市",
+			"has_children": true
+		},
+		"Chengde Shi": {
+			"name": "Chengde Shi",
+			"local_name": "承德市",
+			"has_children": true
+		},
+		"Handan Shi": {
+			"name": "Handan Shi",
+			"local_name": "邯郸市",
+			"has_children": true
+		},
+		"Hengshui Shi": {
+			"name": "Hengshui Shi",
+			"local_name": "衡水市",
+			"has_children": true
+		},
+		"Langfang Shi": {
+			"name": "Langfang Shi",
+			"local_name": "廊坊市",
+			"has_children": true
+		},
+		"Qinhuangdao Shi": {
+			"name": "Qinhuangdao Shi",
+			"local_name": "秦皇岛市",
+			"has_children": true
+		},
+		"Shijiazhuang Shi": {
+			"name": "Shijiazhuang Shi",
+			"local_name": "石家庄市",
+			"has_children": true
+		},
+		"Tangshan Shi": {
+			"name": "Tangshan Shi",
+			"local_name": "唐山市",
+			"has_children": true
+		},
+		"Xingtai Shi": {
+			"name": "Xingtai Shi",
+			"local_name": "邢台市",
+			"has_children": true
+		},
+		"Zhangjiakou Shi": {
+			"name": "Zhangjiakou Shi",
+			"local_name": "张家口市",
+			"has_children": true
+		}
+	}
+}

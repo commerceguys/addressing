@@ -1,53 +1,53 @@
 {
 	"country_code": "MY",
 	"subdivisions": {
-		"Johor": {
-			"iso_code": "MY-01"
+		"01": {
+			"name": "Johor"
 		},
-		"Kedah": {
-			"iso_code": "MY-02"
+		"02": {
+			"name": "Kedah"
 		},
-		"Kelantan": {
-			"iso_code": "MY-03"
+		"03": {
+			"name": "Kelantan"
 		},
-		"Kuala Lumpur": {
-			"iso_code": "MY-14"
+		"14": {
+			"name": "Kuala Lumpur"
 		},
-		"Labuan": {
-			"iso_code": "MY-15"
+		"15": {
+			"name": "Labuan"
 		},
-		"Melaka": {
-			"iso_code": "MY-04"
+		"04": {
+			"name": "Melaka"
 		},
-		"Negeri Sembilan": {
-			"iso_code": "MY-05"
+		"05": {
+			"name": "Negeri Sembilan"
 		},
-		"Pahang": {
-			"iso_code": "MY-06"
+		"06": {
+			"name": "Pahang"
 		},
-		"Perak": {
-			"iso_code": "MY-08"
+		"08": {
+			"name": "Perak"
 		},
-		"Perlis": {
-			"iso_code": "MY-09"
+		"09": {
+			"name": "Perlis"
 		},
-		"Pulau Pinang": {
-			"iso_code": "MY-07"
+		"07": {
+			"name": "Pulau Pinang"
 		},
-		"Putrajaya": {
-			"iso_code": "MY-16"
+		"16": {
+			"name": "Putrajaya"
 		},
-		"Sabah": {
-			"iso_code": "MY-12"
+		"12": {
+			"name": "Sabah"
 		},
-		"Sarawak": {
-			"iso_code": "MY-13"
+		"13": {
+			"name": "Sarawak"
 		},
-		"Selangor": {
-			"iso_code": "MY-10"
+		"10": {
+			"name": "Selangor"
 		},
-		"Terengganu": {
-			"iso_code": "MY-11"
+		"11": {
+			"name": "Terengganu"
 		}
 	}
 }

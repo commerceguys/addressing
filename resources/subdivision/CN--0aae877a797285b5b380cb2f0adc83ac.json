@@ -1,0 +1,31 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"HN",
+		"Loudi Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Lengshuijiang Shi": {
+			"name": "Lengshuijiang Shi",
+			"local_name": "冷水江市"
+		},
+		"Lianyuan Shi": {
+			"name": "Lianyuan Shi",
+			"local_name": "涟源市"
+		},
+		"Louxing Qu": {
+			"name": "Louxing Qu",
+			"local_name": "娄星区"
+		},
+		"Shuangfeng Xian": {
+			"name": "Shuangfeng Xian",
+			"local_name": "双峰县"
+		},
+		"Xinhua Xian": {
+			"name": "Xinhua Xian",
+			"local_name": "新化县"
+		}
+	}
+}

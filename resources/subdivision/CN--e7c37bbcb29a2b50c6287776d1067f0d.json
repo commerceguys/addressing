@@ -1,0 +1,51 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"HB",
+		"Huanggang Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Hong'an Xian": {
+			"name": "Hong'an Xian",
+			"local_name": "红安县"
+		},
+		"Huangmei Xian": {
+			"name": "Huangmei Xian",
+			"local_name": "黄梅县"
+		},
+		"Huangzhou Qu": {
+			"name": "Huangzhou Qu",
+			"local_name": "黄州区"
+		},
+		"Luotian Xian": {
+			"name": "Luotian Xian",
+			"local_name": "罗田县"
+		},
+		"Macheng Shi": {
+			"name": "Macheng Shi",
+			"local_name": "麻城市"
+		},
+		"Qichun Xian": {
+			"name": "Qichun Xian",
+			"local_name": "蕲春县"
+		},
+		"Tuanfeng Xian": {
+			"name": "Tuanfeng Xian",
+			"local_name": "团风县"
+		},
+		"Wuxue Shi": {
+			"name": "Wuxue Shi",
+			"local_name": "武穴市"
+		},
+		"Xishui Xian": {
+			"name": "Xishui Xian",
+			"local_name": "浠水县"
+		},
+		"Yingshan Xian": {
+			"name": "Yingshan Xian",
+			"local_name": "英山县"
+		}
+	}
+}

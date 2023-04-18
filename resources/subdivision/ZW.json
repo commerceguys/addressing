@@ -2,44 +2,44 @@
 	"country_code": "ZW",
 	"subdivisions": {
 		"BU": {
-			"name": "Bulawayo",
-			"iso_code": "ZW-BU"
+			"code": "BU",
+			"name": "Bulawayo"
 		},
 		"HA": {
-			"name": "Harare",
-			"iso_code": "ZW-HA"
+			"code": "HA",
+			"name": "Harare"
 		},
 		"MA": {
-			"name": "Manicaland",
-			"iso_code": "ZW-MA"
+			"code": "MA",
+			"name": "Manicaland"
 		},
 		"MC": {
-			"name": "Mashonaland Central",
-			"iso_code": "ZW-MC"
+			"code": "MC",
+			"name": "Mashonaland Central"
 		},
 		"ME": {
-			"name": "Mashonaland East",
-			"iso_code": "ZW-ME"
+			"code": "ME",
+			"name": "Mashonaland East"
 		},
 		"MW": {
-			"name": "Mashonaland West",
-			"iso_code": "ZW-MW"
+			"code": "MW",
+			"name": "Mashonaland West"
 		},
 		"MV": {
-			"name": "Masvingo",
-			"iso_code": "ZW-MV"
+			"code": "MV",
+			"name": "Masvingo"
 		},
 		"MN": {
-			"name": "Matabeleland North",
-			"iso_code": "ZW-MN"
+			"code": "MN",
+			"name": "Matabeleland North"
 		},
 		"MS": {
-			"name": "Matabeleland South",
-			"iso_code": "ZW-MS"
+			"code": "MS",
+			"name": "Matabeleland South"
 		},
 		"MI": {
-			"name": "Midlands",
-			"iso_code": "ZW-MI"
+			"code": "MI",
+			"name": "Midlands"
 		}
 	}
 }

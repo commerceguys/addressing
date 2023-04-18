@@ -1,0 +1,43 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"SD",
+		"Liaocheng Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Chiping Xian": {
+			"name": "Chiping Xian",
+			"local_name": "茌平县"
+		},
+		"Dong'e Xian": {
+			"name": "Dong'e Xian",
+			"local_name": "东阿县"
+		},
+		"Dongchangfu Qu": {
+			"name": "Dongchangfu Qu",
+			"local_name": "东昌府区"
+		},
+		"Gaotang Xian": {
+			"name": "Gaotang Xian",
+			"local_name": "高唐县"
+		},
+		"Guan Xian": {
+			"name": "Guan Xian",
+			"local_name": "冠县"
+		},
+		"Linqing Shi": {
+			"name": "Linqing Shi",
+			"local_name": "临清市"
+		},
+		"Shen Xian": {
+			"name": "Shen Xian",
+			"local_name": "莘县"
+		},
+		"Yanggu Xian": {
+			"name": "Yanggu Xian",
+			"local_name": "阳谷县"
+		}
+	}
+}

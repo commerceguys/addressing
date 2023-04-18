@@ -1,0 +1,170 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"CQ"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Banan Qu": {
+			"name": "Banan Qu",
+			"local_name": "巴南区"
+		},
+		"Beibei Qu": {
+			"name": "Beibei Qu",
+			"local_name": "北碚区"
+		},
+		"Bishan Xian": {
+			"name": "Bishan Xian",
+			"local_name": "璧山县"
+		},
+		"Chengkou Xian": {
+			"name": "Chengkou Xian",
+			"local_name": "城口县"
+		},
+		"Dadukou Qu": {
+			"name": "Dadukou Qu",
+			"local_name": "大渡口区"
+		},
+		"Dazu Qu": {
+			"name": "Dazu Qu",
+			"local_name": "大足区"
+		},
+		"Dianjiang Xian": {
+			"name": "Dianjiang Xian",
+			"local_name": "垫江县"
+		},
+		"Fengdu Xian": {
+			"name": "Fengdu Xian",
+			"local_name": "丰都县"
+		},
+		"Fengjie Xian": {
+			"name": "Fengjie Xian",
+			"local_name": "奉节县"
+		},
+		"Fuling Qu": {
+			"name": "Fuling Qu",
+			"local_name": "涪陵区"
+		},
+		"Hechuan Qu": {
+			"name": "Hechuan Qu",
+			"local_name": "合川区"
+		},
+		"Jiangbei Qu": {
+			"name": "Jiangbei Qu",
+			"local_name": "江北区"
+		},
+		"Jiangjin Qu": {
+			"name": "Jiangjin Qu",
+			"local_name": "江津区"
+		},
+		"Jiulongpo Qu": {
+			"name": "Jiulongpo Qu",
+			"local_name": "九龙坡区"
+		},
+		"Kai Xian": {
+			"name": "Kai Xian",
+			"local_name": "开县"
+		},
+		"Liangping Xian": {
+			"name": "Liangping Xian",
+			"local_name": "梁平县"
+		},
+		"Nan'an Qu": {
+			"name": "Nan'an Qu",
+			"local_name": "南岸区"
+		},
+		"Nanchuan Qu": {
+			"name": "Nanchuan Qu",
+			"local_name": "南川区"
+		},
+		"Pengshui Xian": {
+			"code": "Pengshui Xian",
+			"local_code": "彭水苗族土家族自治县",
+			"name": "Pengshui Xian",
+			"local_name": "彭水县"
+		},
+		"Qijiang Qu": {
+			"name": "Qijiang Qu",
+			"local_name": "綦江区"
+		},
+		"Qianjiang Qu": {
+			"name": "Qianjiang Qu",
+			"local_name": "黔江区"
+		},
+		"Rongchang Xian": {
+			"name": "Rongchang Xian",
+			"local_name": "荣昌县"
+		},
+		"Shapingba Qu": {
+			"name": "Shapingba Qu",
+			"local_name": "沙坪坝区"
+		},
+		"Shizhu Xian": {
+			"code": "Shizhu Xian",
+			"local_code": "石柱土家族自治县",
+			"name": "Shizhu Xian",
+			"local_name": "石柱县"
+		},
+		"Tongliang Xian": {
+			"name": "Tongliang Xian",
+			"local_name": "铜梁县"
+		},
+		"Tongnan Xian": {
+			"name": "Tongnan Xian",
+			"local_name": "潼南县"
+		},
+		"Wanzhou Qu": {
+			"name": "Wanzhou Qu",
+			"local_name": "万州区"
+		},
+		"Wushan Xian": {
+			"name": "Wushan Xian",
+			"local_name": "巫山县"
+		},
+		"Wuxi Xian": {
+			"name": "Wuxi Xian",
+			"local_name": "巫溪县"
+		},
+		"Wulong Xian": {
+			"name": "Wulong Xian",
+			"local_name": "武隆县"
+		},
+		"Xiushan Xian": {
+			"code": "Xiushan Xian",
+			"local_code": "秀山土家族苗族自治县",
+			"name": "Xiushan Xian",
+			"local_name": "秀山县"
+		},
+		"Yongchuan Qu": {
+			"name": "Yongchuan Qu",
+			"local_name": "永川区"
+		},
+		"Youyang Xian": {
+			"code": "Youyang Xian",
+			"local_code": "酉阳土家族苗族自治县",
+			"name": "Youyang Xian",
+			"local_name": "酉阳县"
+		},
+		"Yubei Qu": {
+			"name": "Yubei Qu",
+			"local_name": "渝北区"
+		},
+		"Yuzhong Qu": {
+			"name": "Yuzhong Qu",
+			"local_name": "渝中区"
+		},
+		"Yunyang Xian": {
+			"name": "Yunyang Xian",
+			"local_name": "云阳县"
+		},
+		"Changshou Qu": {
+			"name": "Changshou Qu",
+			"local_name": "长寿区"
+		},
+		"Zhong Xian": {
+			"name": "Zhong Xian",
+			"local_name": "忠县"
+		}
+	}
+}

@@ -1,0 +1,82 @@
+{
+	"country_code": "TW",
+	"parents": [
+		"TW",
+		"CYQ"
+	],
+	"locale": "zh-Hant",
+	"subdivisions": {
+		"Dalin Township": {
+			"name": "Dalin Township",
+			"local_name": "大林鎮"
+		},
+		"Dapu Township": {
+			"name": "Dapu Township",
+			"local_name": "大埔鄉"
+		},
+		"Zhongpu Township": {
+			"name": "Zhongpu Township",
+			"local_name": "中埔鄉"
+		},
+		"Liujiao Township": {
+			"name": "Liujiao Township",
+			"local_name": "六腳鄉"
+		},
+		"Taibao City": {
+			"name": "Taibao City",
+			"local_name": "太保市"
+		},
+		"Shuishang Township": {
+			"name": "Shuishang Township",
+			"local_name": "水上鄉"
+		},
+		"Budai Township": {
+			"name": "Budai Township",
+			"local_name": "布袋鎮"
+		},
+		"Minxiong Township": {
+			"name": "Minxiong Township",
+			"local_name": "民雄鄉"
+		},
+		"Puzi City": {
+			"name": "Puzi City",
+			"local_name": "朴子市"
+		},
+		"Zhuqi Township": {
+			"name": "Zhuqi Township",
+			"local_name": "竹崎鄉"
+		},
+		"Dongshi Township": {
+			"name": "Dongshi Township",
+			"local_name": "東石鄉"
+		},
+		"Alishan Township": {
+			"name": "Alishan Township",
+			"local_name": "阿里山鄉"
+		},
+		"Meishan Township": {
+			"name": "Meishan Township",
+			"local_name": "梅山鄉"
+		},
+		"Lucao Township": {
+			"name": "Lucao Township",
+			"local_name": "鹿草鄉"
+		},
+		"Fanlu Township": {
+			"name": "Fanlu Township",
+			"local_name": "番路鄉"
+		},
+		"Xingang Township": {
+			"name": "Xingang Township",
+			"local_name": "新港鄉"
+		},
+		"Xikou Township": {
+			"name": "Xikou Township",
+			"local_name": "溪口鄉"
+		},
+		"Yizhu Township": {
+			"name": "Yizhu Township",
+			"local_name": "義竹鄉"
+		}
+	}
+}

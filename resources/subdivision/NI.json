@@ -1,56 +1,56 @@
 {
 	"country_code": "NI",
 	"subdivisions": {
-		"Boaco": {
-			"iso_code": "NI-BO"
+		"BO": {
+			"name": "Boaco"
 		},
-		"Carazo": {
-			"iso_code": "NI-CA"
+		"CA": {
+			"name": "Carazo"
 		},
-		"Chinandega": {
-			"iso_code": "NI-CI"
+		"CI": {
+			"name": "Chinandega"
 		},
-		"Chontales": {
-			"iso_code": "NI-CO"
+		"CO": {
+			"name": "Chontales"
 		},
-		"Estelí": {
-			"iso_code": "NI-ES"
+		"ES": {
+			"name": "Estelí"
 		},
-		"Granada": {
-			"iso_code": "NI-GR"
+		"GR": {
+			"name": "Granada"
 		},
-		"Jinotega": {
-			"iso_code": "NI-JI"
+		"JI": {
+			"name": "Jinotega"
 		},
-		"León": {
-			"iso_code": "NI-LE"
+		"LE": {
+			"name": "León"
 		},
-		"Madriz": {
-			"iso_code": "NI-MD"
+		"MD": {
+			"name": "Madriz"
 		},
-		"Managua": {
-			"iso_code": "NI-MN"
+		"MN": {
+			"name": "Managua"
 		},
-		"Masaya": {
-			"iso_code": "NI-MS"
+		"MS": {
+			"name": "Masaya"
 		},
-		"Matagalpa": {
-			"iso_code": "NI-MT"
+		"MT": {
+			"name": "Matagalpa"
 		},
-		"Nueva Segovia": {
-			"iso_code": "NI-NS"
+		"NS": {
+			"name": "Nueva Segovia"
 		},
-		"Región Autónoma de la Costa Caribe Norte": {
-			"iso_code": "NI-AN"
+		"AN": {
+			"name": "Región Autónoma de la Costa Caribe Norte"
 		},
-		"Región Autónoma de la Costa Caribe Sur": {
-			"iso_code": "NI-AS"
+		"AS": {
+			"name": "Región Autónoma de la Costa Caribe Sur"
 		},
-		"Río San Juan": {
-			"iso_code": "NI-SJ"
+		"SJ": {
+			"name": "Río San Juan"
 		},
-		"Rivas": {
-			"iso_code": "NI-RI"
+		"RI": {
+			"name": "Rivas"
 		}
 	}
 }

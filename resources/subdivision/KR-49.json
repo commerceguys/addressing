@@ -1,0 +1,18 @@
+{
+	"country_code": "KR",
+	"parents": [
+		"KR",
+		"49"
+	],
+	"locale": "ko",
+	"subdivisions": {
+		"Seogwipo-si": {
+			"name": "Seogwipo-si",
+			"local_name": "서귀포시"
+		},
+		"Jeju-si": {
+			"name": "Jeju-si",
+			"local_name": "제주시"
+		}
+	}
+}

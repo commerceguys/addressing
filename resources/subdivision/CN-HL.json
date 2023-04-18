@@ -1,0 +1,75 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"HL"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Daqing Shi": {
+			"name": "Daqing Shi",
+			"local_name": "大庆市",
+			"has_children": true
+		},
+		"Da Hinggan Ling Diqu": {
+			"name": "Da Hinggan Ling Diqu",
+			"local_name": "大兴安岭地区",
+			"has_children": true
+		},
+		"Harbin Shi": {
+			"name": "Harbin Shi",
+			"local_name": "哈尔滨市",
+			"has_children": true
+		},
+		"Hegang Shi": {
+			"name": "Hegang Shi",
+			"local_name": "鹤岗市",
+			"has_children": true
+		},
+		"Heihe Shi": {
+			"name": "Heihe Shi",
+			"local_name": "黑河市",
+			"has_children": true
+		},
+		"Jixi Shi": {
+			"name": "Jixi Shi",
+			"local_name": "鸡西市",
+			"has_children": true
+		},
+		"Jiamusi Shi": {
+			"name": "Jiamusi Shi",
+			"local_name": "佳木斯市",
+			"has_children": true
+		},
+		"Mudanjiang Shi": {
+			"name": "Mudanjiang Shi",
+			"local_name": "牡丹江市",
+			"has_children": true
+		},
+		"Qitaihe Shi": {
+			"name": "Qitaihe Shi",
+			"local_name": "七台河市",
+			"has_children": true
+		},
+		"Qiqihar Shi": {
+			"name": "Qiqihar Shi",
+			"local_name": "齐齐哈尔市",
+			"has_children": true
+		},
+		"Shuangyashan Shi": {
+			"name": "Shuangyashan Shi",
+			"local_name": "双鸭山市",
+			"has_children": true
+		},
+		"Suihua Shi": {
+			"name": "Suihua Shi",
+			"local_name": "绥化市",
+			"has_children": true
+		},
+		"Yichun Shi": {
+			"name": "Yichun Shi",
+			"local_name": "伊春市",
+			"has_children": true
+		}
+	}
+}

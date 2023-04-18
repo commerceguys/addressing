@@ -1,0 +1,55 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"HA",
+		"Jiaozuo Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Bo'ai Xian": {
+			"name": "Bo'ai Xian",
+			"local_name": "博爱县"
+		},
+		"Jiyuan Shi": {
+			"name": "Jiyuan Shi",
+			"local_name": "济源市"
+		},
+		"Jiefang Qu": {
+			"name": "Jiefang Qu",
+			"local_name": "解放区"
+		},
+		"Macun Qu": {
+			"name": "Macun Qu",
+			"local_name": "马村区"
+		},
+		"Mengzhou Shi": {
+			"name": "Mengzhou Shi",
+			"local_name": "孟州市"
+		},
+		"Qinyang Shi": {
+			"name": "Qinyang Shi",
+			"local_name": "沁阳市"
+		},
+		"Shanyang Qu": {
+			"name": "Shanyang Qu",
+			"local_name": "山阳区"
+		},
+		"Wen Xian": {
+			"name": "Wen Xian",
+			"local_name": "温县"
+		},
+		"Wuzhi Xian": {
+			"name": "Wuzhi Xian",
+			"local_name": "武陟县"
+		},
+		"Xiwu Xian": {
+			"name": "Xiwu Xian",
+			"local_name": "修武县"
+		},
+		"Zhongzhan Qu": {
+			"name": "Zhongzhan Qu",
+			"local_name": "中站区"
+		}
+	}
+}

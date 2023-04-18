@@ -1,0 +1,43 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"GS",
+		"Qingyang Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Heshui Xian": {
+			"name": "Heshui Xian",
+			"local_name": "合水县"
+		},
+		"Huachi Xian": {
+			"name": "Huachi Xian",
+			"local_name": "华池县"
+		},
+		"Huan Xian": {
+			"name": "Huan Xian",
+			"local_name": "环县"
+		},
+		"Ning Xian": {
+			"name": "Ning Xian",
+			"local_name": "宁县"
+		},
+		"Qingcheng Xian": {
+			"name": "Qingcheng Xian",
+			"local_name": "庆城县"
+		},
+		"Xifeng Qu": {
+			"name": "Xifeng Qu",
+			"local_name": "西峰区"
+		},
+		"Zhenyuan Xian": {
+			"name": "Zhenyuan Xian",
+			"local_name": "镇原县"
+		},
+		"Zhengning Xian": {
+			"name": "Zhengning Xian",
+			"local_name": "正宁县"
+		}
+	}
+}

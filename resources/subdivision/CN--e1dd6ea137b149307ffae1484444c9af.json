@@ -1,0 +1,59 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"SD",
+		"Jining Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Jiaxiang Xian": {
+			"name": "Jiaxiang Xian",
+			"local_name": "嘉祥县"
+		},
+		"Jinxiang Xian": {
+			"name": "Jinxiang Xian",
+			"local_name": "金乡县"
+		},
+		"Liangshan Xian": {
+			"name": "Liangshan Xian",
+			"local_name": "梁山县"
+		},
+		"Qufu Shi": {
+			"name": "Qufu Shi",
+			"local_name": "曲阜市"
+		},
+		"Rencheng Qu": {
+			"name": "Rencheng Qu",
+			"local_name": "任城区"
+		},
+		"Shizhong Qu": {
+			"name": "Shizhong Qu",
+			"local_name": "市中区"
+		},
+		"Sishui Xian": {
+			"name": "Sishui Xian",
+			"local_name": "泗水县"
+		},
+		"Weishan Xian": {
+			"name": "Weishan Xian",
+			"local_name": "微山县"
+		},
+		"Wenshang Xian": {
+			"name": "Wenshang Xian",
+			"local_name": "汶上县"
+		},
+		"Yanzhou Shi": {
+			"name": "Yanzhou Shi",
+			"local_name": "兖州市"
+		},
+		"Yutai Xian": {
+			"name": "Yutai Xian",
+			"local_name": "鱼台县"
+		},
+		"Zoucheng Shi": {
+			"name": "Zoucheng Shi",
+			"local_name": "邹城市"
+		}
+	}
+}

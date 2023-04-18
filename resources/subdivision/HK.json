@@ -3,15 +3,18 @@
 	"locale": "zh-Hant",
 	"subdivisions": {
 		"Kowloon": {
-			"local_code": "九龍",
+			"name": "Kowloon",
+			"local_name": "九龍",
 			"has_children": true
 		},
 		"Hong Kong Island": {
-			"local_code": "香港島",
+			"name": "Hong Kong Island",
+			"local_name": "香港島",
 			"has_children": true
 		},
 		"New Territories": {
-			"local_code": "新界",
+			"name": "New Territories",
+			"local_name": "新界",
 			"has_children": true
 		}
 	}

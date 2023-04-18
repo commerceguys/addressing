@@ -1,0 +1,43 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"LN",
+		"Fushun Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Dongzhou Qu": {
+			"name": "Dongzhou Qu",
+			"local_name": "东洲区"
+		},
+		"Fushun Xian": {
+			"name": "Fushun Xian",
+			"local_name": "抚顺县"
+		},
+		"Qingyuan Xian": {
+			"code": "Qingyuan Xian",
+			"local_code": "清原满族自治县",
+			"name": "Qingyuan Xian",
+			"local_name": "清原县"
+		},
+		"Shuncheng Qu": {
+			"name": "Shuncheng Qu",
+			"local_name": "顺城区"
+		},
+		"Wanghua Qu": {
+			"name": "Wanghua Qu",
+			"local_name": "望花区"
+		},
+		"Xinbin Xian": {
+			"code": "Xinbin Xian",
+			"local_code": "新宾满族自治县",
+			"name": "Xinbin Xian",
+			"local_name": "新宾县"
+		},
+		"Xinfu Qu": {
+			"name": "Xinfu Qu",
+			"local_name": "新抚区"
+		}
+	}
+}

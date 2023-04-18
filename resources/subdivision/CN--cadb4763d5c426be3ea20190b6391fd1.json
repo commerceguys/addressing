@@ -1,0 +1,51 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"XZ",
+		"Nagqu Diqu"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Amdo Xian": {
+			"name": "Amdo Xian",
+			"local_name": "安多县"
+		},
+		"Baqên Xian": {
+			"name": "Baqên Xian",
+			"local_name": "巴青县"
+		},
+		"Bangoin Xian": {
+			"name": "Bangoin Xian",
+			"local_name": "班戈县"
+		},
+		"Biru Xian": {
+			"name": "Biru Xian",
+			"local_name": "比如县"
+		},
+		"Lhari Xian": {
+			"name": "Lhari Xian",
+			"local_name": "嘉黎县"
+		},
+		"Nagqu Xian": {
+			"name": "Nagqu Xian",
+			"local_name": "那曲县"
+		},
+		"Nyima Xian": {
+			"name": "Nyima Xian",
+			"local_name": "尼玛县"
+		},
+		"Nyainrong Xian": {
+			"name": "Nyainrong Xian",
+			"local_name": "聂荣县"
+		},
+		"Xainza Xian": {
+			"name": "Xainza Xian",
+			"local_name": "申扎县"
+		},
+		"Sog Xian": {
+			"name": "Sog Xian",
+			"local_name": "索县"
+		}
+	}
+}

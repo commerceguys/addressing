@@ -1,0 +1,39 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"JS",
+		"Yangzhou Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Baoying Xian": {
+			"name": "Baoying Xian",
+			"local_name": "宝应县"
+		},
+		"Gaoyou Shi": {
+			"name": "Gaoyou Shi",
+			"local_name": "高邮市"
+		},
+		"Guangling Qu": {
+			"name": "Guangling Qu",
+			"local_name": "广陵区"
+		},
+		"Hanjiang Qu": {
+			"name": "Hanjiang Qu",
+			"local_name": "邗江区"
+		},
+		"Jiangdu Shi": {
+			"name": "Jiangdu Shi",
+			"local_name": "江都市"
+		},
+		"Weiyang Qu": {
+			"name": "Weiyang Qu",
+			"local_name": "维扬区"
+		},
+		"Yizheng Shi": {
+			"name": "Yizheng Shi",
+			"local_name": "仪征市"
+		}
+	}
+}

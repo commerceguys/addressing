@@ -1,62 +1,62 @@
 {
 	"country_code": "UY",
 	"subdivisions": {
-		"Artigas": {
-			"iso_code": "UY-AR"
+		"AR": {
+			"name": "Artigas"
 		},
-		"Canelones": {
-			"iso_code": "UY-CA"
+		"CA": {
+			"name": "Canelones"
 		},
-		"Cerro Largo": {
-			"iso_code": "UY-CL"
+		"CL": {
+			"name": "Cerro Largo"
 		},
-		"Colonia": {
-			"iso_code": "UY-CO"
+		"CO": {
+			"name": "Colonia"
 		},
-		"Durazno": {
-			"iso_code": "UY-DU"
+		"DU": {
+			"name": "Durazno"
 		},
-		"Flores": {
-			"iso_code": "UY-FS"
+		"FS": {
+			"name": "Flores"
 		},
-		"Florida": {
-			"iso_code": "UY-FD"
+		"FD": {
+			"name": "Florida"
 		},
-		"Lavalleja": {
-			"iso_code": "UY-LA"
+		"LA": {
+			"name": "Lavalleja"
 		},
-		"Maldonado": {
-			"iso_code": "UY-MA"
+		"MA": {
+			"name": "Maldonado"
 		},
-		"Montevideo": {
-			"iso_code": "UY-MO"
+		"MO": {
+			"name": "Montevideo"
 		},
-		"Paysandú": {
-			"iso_code": "UY-PA"
+		"PA": {
+			"name": "Paysandú"
 		},
-		"Río Negro": {
-			"iso_code": "UY-RN"
+		"RN": {
+			"name": "Río Negro"
 		},
-		"Rivera": {
-			"iso_code": "UY-RV"
+		"RV": {
+			"name": "Rivera"
 		},
-		"Rocha": {
-			"iso_code": "UY-RO"
+		"RO": {
+			"name": "Rocha"
 		},
-		"Salto": {
-			"iso_code": "UY-SA"
+		"SA": {
+			"name": "Salto"
 		},
-		"San José": {
-			"iso_code": "UY-SJ"
+		"SJ": {
+			"name": "San José"
 		},
-		"Soriano": {
-			"iso_code": "UY-SO"
+		"SO": {
+			"name": "Soriano"
 		},
-		"Tacuarembó": {
-			"iso_code": "UY-TA"
+		"TA": {
+			"name": "Tacuarembó"
 		},
-		"Treinta y Tres": {
-			"iso_code": "UY-TT"
+		"TT": {
+			"name": "Treinta y Tres"
 		}
 	}
 }

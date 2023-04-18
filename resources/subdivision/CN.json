@@ -2,182 +2,187 @@
 	"country_code": "CN",
 	"locale": "zh-Hans",
 	"subdivisions": {
-		"Anhui Sheng": {
-			"local_code": "安徽省",
-			"iso_code": "CN-AH",
+		"AH": {
+			"name": "Anhui Sheng",
+			"local_name": "安徽省",
 			"has_children": true
 		},
-		"Macau": {
-			"local_code": "澳门",
-			"iso_code": "CN-MO",
+		"MO": {
+			"name": "Macau",
+			"local_name": "澳门",
 			"postal_code_pattern": "999078",
 			"has_children": true
 		},
-		"Beijing Shi": {
-			"local_code": "北京市",
-			"iso_code": "CN-BJ",
+		"BJ": {
+			"name": "Beijing Shi",
+			"local_name": "北京市",
 			"has_children": true
 		},
-		"Chongqing Shi": {
-			"local_code": "重庆市",
-			"iso_code": "CN-CQ",
+		"CQ": {
+			"name": "Chongqing Shi",
+			"local_name": "重庆市",
 			"has_children": true
 		},
-		"Fujian Sheng": {
-			"local_code": "福建省",
-			"iso_code": "CN-FJ",
+		"FJ": {
+			"name": "Fujian Sheng",
+			"local_name": "福建省",
 			"has_children": true
 		},
-		"Gansu Sheng": {
-			"local_code": "甘肃省",
-			"iso_code": "CN-GS",
+		"GS": {
+			"name": "Gansu Sheng",
+			"local_name": "甘肃省",
 			"has_children": true
 		},
-		"Guangdong Sheng": {
-			"local_code": "广东省",
-			"iso_code": "CN-GD",
+		"GD": {
+			"name": "Guangdong Sheng",
+			"local_name": "广东省",
 			"has_children": true
 		},
-		"Guangxi Zhuangzuzizhiqu": {
+		"GX": {
+			"code": "Guangxi Zhuangzuzizhiqu",
 			"local_code": "广西壮族自治区",
+			"name": "Guangxi Zhuangzuzizhiqu",
 			"local_name": "广西",
-			"iso_code": "CN-GX",
 			"has_children": true
 		},
-		"Guizhou Sheng": {
-			"local_code": "贵州省",
-			"iso_code": "CN-GZ",
+		"GZ": {
+			"name": "Guizhou Sheng",
+			"local_name": "贵州省",
 			"has_children": true
 		},
-		"Hainan Sheng": {
-			"local_code": "海南省",
-			"iso_code": "CN-HI",
+		"HI": {
+			"name": "Hainan Sheng",
+			"local_name": "海南省",
 			"has_children": true
 		},
-		"Hebei Sheng": {
-			"local_code": "河北省",
-			"iso_code": "CN-HE",
+		"HE": {
+			"name": "Hebei Sheng",
+			"local_name": "河北省",
 			"has_children": true
 		},
-		"Henan Sheng": {
-			"local_code": "河南省",
-			"iso_code": "CN-HA",
+		"HA": {
+			"name": "Henan Sheng",
+			"local_name": "河南省",
 			"has_children": true
 		},
-		"Heilongjiang Sheng": {
-			"local_code": "黑龙江省",
-			"iso_code": "CN-HL",
+		"HL": {
+			"name": "Heilongjiang Sheng",
+			"local_name": "黑龙江省",
 			"has_children": true
 		},
-		"Hubei Sheng": {
-			"local_code": "湖北省",
-			"iso_code": "CN-HB",
+		"HB": {
+			"name": "Hubei Sheng",
+			"local_name": "湖北省",
 			"has_children": true
 		},
-		"Hunan Sheng": {
-			"local_code": "湖南省",
-			"iso_code": "CN-HN",
+		"HN": {
+			"name": "Hunan Sheng",
+			"local_name": "湖南省",
 			"has_children": true
 		},
-		"Jilin Sheng": {
-			"local_code": "吉林省",
-			"iso_code": "CN-JL",
+		"JL": {
+			"name": "Jilin Sheng",
+			"local_name": "吉林省",
 			"has_children": true
 		},
-		"Jiangsu Sheng": {
-			"local_code": "江苏省",
-			"iso_code": "CN-JS",
+		"JS": {
+			"name": "Jiangsu Sheng",
+			"local_name": "江苏省",
 			"has_children": true
 		},
-		"Jiangxi Sheng": {
-			"local_code": "江西省",
-			"iso_code": "CN-JX",
+		"JX": {
+			"name": "Jiangxi Sheng",
+			"local_name": "江西省",
 			"has_children": true
 		},
-		"Liaoning Sheng": {
-			"local_code": "辽宁省",
-			"iso_code": "CN-LN",
+		"LN": {
+			"name": "Liaoning Sheng",
+			"local_name": "辽宁省",
 			"has_children": true
 		},
-		"Neimenggu Zizhiqu": {
+		"NM": {
+			"code": "Neimenggu Zizhiqu",
 			"local_code": "内蒙古自治区",
+			"name": "Neimenggu Zizhiqu",
 			"local_name": "内蒙古",
-			"iso_code": "CN-NM",
 			"has_children": true
 		},
-		"Ningxia Huizuzizhiqu": {
+		"NX": {
+			"code": "Ningxia Huizuzizhiqu",
 			"local_code": "宁夏回族自治区",
+			"name": "Ningxia Huizuzizhiqu",
 			"local_name": "宁夏",
-			"iso_code": "CN-NX",
 			"has_children": true
 		},
-		"Qinghai Sheng": {
-			"local_code": "青海省",
-			"iso_code": "CN-QH",
+		"QH": {
+			"name": "Qinghai Sheng",
+			"local_name": "青海省",
 			"has_children": true
 		},
-		"Shandong Sheng": {
-			"local_code": "山东省",
-			"iso_code": "CN-SD",
+		"SD": {
+			"name": "Shandong Sheng",
+			"local_name": "山东省",
 			"has_children": true
 		},
-		"Shanxi Sheng": {
-			"local_code": "山西省",
-			"iso_code": "CN-SX",
+		"SX": {
+			"name": "Shanxi Sheng",
+			"local_name": "山西省",
 			"has_children": true
 		},
-		"Shaanxi Sheng": {
-			"local_code": "陕西省",
-			"iso_code": "CN-SN",
+		"SN": {
+			"name": "Shaanxi Sheng",
+			"local_name": "陕西省",
 			"has_children": true
 		},
-		"Shanghai Shi": {
-			"local_code": "上海市",
-			"iso_code": "CN-SH",
+		"SH": {
+			"name": "Shanghai Shi",
+			"local_name": "上海市",
 			"has_children": true
 		},
-		"Sichuan Sheng": {
-			"local_code": "四川省",
-			"iso_code": "CN-SC",
+		"SC": {
+			"name": "Sichuan Sheng",
+			"local_name": "四川省",
 			"has_children": true
 		},
-		"Taiwan": {
-			"local_code": "台湾",
-			"iso_code": "CN-TW",
+		"TW": {
+			"name": "Taiwan",
+			"local_name": "台湾",
 			"postal_code_pattern": "\\d{3}(\\d{2,3})?",
 			"has_children": true
 		},
-		"Tianjin Shi": {
-			"local_code": "天津市",
-			"iso_code": "CN-TJ",
+		"TJ": {
+			"name": "Tianjin Shi",
+			"local_name": "天津市",
 			"has_children": true
 		},
-		"Xizang Zizhiqu": {
+		"XZ": {
+			"code": "Xizang Zizhiqu",
 			"local_code": "西藏自治区",
+			"name": "Xizang Zizhiqu",
 			"local_name": "西藏",
-			"iso_code": "CN-XZ",
 			"has_children": true
 		},
-		"Hong Kong": {
-			"local_code": "香港",
-			"iso_code": "CN-HK",
+		"HK": {
+			"name": "Hong Kong",
+			"local_name": "香港",
 			"postal_code_pattern": "999077",
 			"has_children": true
 		},
-		"Xinjiang Weiwuerzizhiqu": {
+		"XJ": {
+			"code": "Xinjiang Weiwuerzizhiqu",
 			"local_code": "新疆维吾尔自治区",
+			"name": "Xinjiang Weiwuerzizhiqu",
 			"local_name": "新疆",
-			"iso_code": "CN-XJ",
 			"has_children": true
 		},
-		"Yunnan Sheng": {
-			"local_code": "云南省",
-			"iso_code": "CN-YN",
+		"YN": {
+			"name": "Yunnan Sheng",
+			"local_name": "云南省",
 			"has_children": true
 		},
-		"Zhejiang Sheng": {
-			"local_code": "浙江省",
-			"iso_code": "CN-ZJ",
+		"ZJ": {
+			"name": "Zhejiang Sheng",
+			"local_name": "浙江省",
 			"has_children": true
 		}
 	}

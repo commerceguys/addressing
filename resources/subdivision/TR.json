@@ -1,248 +1,248 @@
 {
 	"country_code": "TR",
 	"subdivisions": {
-		"Adana": {
-			"iso_code": "TR-01"
+		"01": {
+			"name": "Adana"
 		},
-		"Adıyaman": {
-			"iso_code": "TR-02"
+		"02": {
+			"name": "Adıyaman"
 		},
-		"Afyon": {
-			"iso_code": "TR-03"
+		"03": {
+			"name": "Afyon"
 		},
-		"Ağrı": {
-			"iso_code": "TR-04"
+		"04": {
+			"name": "Ağrı"
 		},
-		"Aksaray": {
-			"iso_code": "TR-68"
+		"68": {
+			"name": "Aksaray"
 		},
-		"Amasya": {
-			"iso_code": "TR-05"
+		"05": {
+			"name": "Amasya"
 		},
-		"Ankara": {
-			"iso_code": "TR-06"
+		"06": {
+			"name": "Ankara"
 		},
-		"Antalya": {
-			"iso_code": "TR-07"
+		"07": {
+			"name": "Antalya"
 		},
-		"Ardahan": {
-			"iso_code": "TR-75"
+		"75": {
+			"name": "Ardahan"
 		},
-		"Artvin": {
-			"iso_code": "TR-08"
+		"08": {
+			"name": "Artvin"
 		},
-		"Aydın": {
-			"iso_code": "TR-09"
+		"09": {
+			"name": "Aydın"
 		},
-		"Balıkesir": {
-			"iso_code": "TR-10"
+		"10": {
+			"name": "Balıkesir"
 		},
-		"Bartın": {
-			"iso_code": "TR-74"
+		"74": {
+			"name": "Bartın"
 		},
-		"Batman": {
-			"iso_code": "TR-72"
+		"72": {
+			"name": "Batman"
 		},
-		"Bayburt": {
-			"iso_code": "TR-69"
+		"69": {
+			"name": "Bayburt"
 		},
-		"Bilecik": {
-			"iso_code": "TR-11"
+		"11": {
+			"name": "Bilecik"
 		},
-		"Bingöl": {
-			"iso_code": "TR-12"
+		"12": {
+			"name": "Bingöl"
 		},
-		"Bitlis": {
-			"iso_code": "TR-13"
+		"13": {
+			"name": "Bitlis"
 		},
-		"Bolu": {
-			"iso_code": "TR-14"
+		"14": {
+			"name": "Bolu"
 		},
-		"Burdur": {
-			"iso_code": "TR-15"
+		"15": {
+			"name": "Burdur"
 		},
-		"Bursa": {
-			"iso_code": "TR-16"
+		"16": {
+			"name": "Bursa"
 		},
-		"Çanakkale": {
-			"iso_code": "TR-17"
+		"17": {
+			"name": "Çanakkale"
 		},
-		"Çankırı": {
-			"iso_code": "TR-18"
+		"18": {
+			"name": "Çankırı"
 		},
-		"Çorum": {
-			"iso_code": "TR-19"
+		"19": {
+			"name": "Çorum"
 		},
-		"Denizli": {
-			"iso_code": "TR-20"
+		"20": {
+			"name": "Denizli"
 		},
-		"Diyarbakır": {
-			"iso_code": "TR-21"
+		"21": {
+			"name": "Diyarbakır"
 		},
-		"Düzce": {
-			"iso_code": "TR-81"
+		"81": {
+			"name": "Düzce"
 		},
-		"Edirne": {
-			"iso_code": "TR-22"
+		"22": {
+			"name": "Edirne"
 		},
-		"Elazığ": {
-			"iso_code": "TR-23"
+		"23": {
+			"name": "Elazığ"
 		},
-		"Erzincan": {
-			"iso_code": "TR-24"
+		"24": {
+			"name": "Erzincan"
 		},
-		"Erzurum": {
-			"iso_code": "TR-25"
+		"25": {
+			"name": "Erzurum"
 		},
-		"Eskişehir": {
-			"iso_code": "TR-26"
+		"26": {
+			"name": "Eskişehir"
 		},
-		"Gaziantep": {
-			"iso_code": "TR-27"
+		"27": {
+			"name": "Gaziantep"
 		},
-		"Giresun": {
-			"iso_code": "TR-28"
+		"28": {
+			"name": "Giresun"
 		},
-		"Gümüşhane": {
-			"iso_code": "TR-29"
+		"29": {
+			"name": "Gümüşhane"
 		},
-		"Hakkari": {
-			"iso_code": "TR-30"
+		"30": {
+			"name": "Hakkari"
 		},
-		"Hatay": {
-			"iso_code": "TR-31"
+		"31": {
+			"name": "Hatay"
 		},
-		"Iğdır": {
-			"iso_code": "TR-76"
+		"76": {
+			"name": "Iğdır"
 		},
-		"Isparta": {
-			"iso_code": "TR-32"
+		"32": {
+			"name": "Isparta"
 		},
-		"İstanbul": {
-			"iso_code": "TR-34"
+		"34": {
+			"name": "İstanbul"
 		},
-		"İzmir": {
-			"iso_code": "TR-35"
+		"35": {
+			"name": "İzmir"
 		},
-		"Kahramanmaraş": {
-			"iso_code": "TR-46"
+		"46": {
+			"name": "Kahramanmaraş"
 		},
-		"Karabük": {
-			"iso_code": "TR-78"
+		"78": {
+			"name": "Karabük"
 		},
-		"Karaman": {
-			"iso_code": "TR-70"
+		"70": {
+			"name": "Karaman"
 		},
-		"Kars": {
-			"iso_code": "TR-36"
+		"36": {
+			"name": "Kars"
 		},
-		"Kastamonu": {
-			"iso_code": "TR-37"
+		"37": {
+			"name": "Kastamonu"
 		},
-		"Kayseri": {
-			"iso_code": "TR-38"
+		"38": {
+			"name": "Kayseri"
 		},
-		"Kırıkkale": {
-			"iso_code": "TR-71"
+		"71": {
+			"name": "Kırıkkale"
 		},
-		"Kırklareli": {
-			"iso_code": "TR-39"
+		"39": {
+			"name": "Kırklareli"
 		},
-		"Kırşehir": {
-			"iso_code": "TR-40"
+		"40": {
+			"name": "Kırşehir"
 		},
-		"Kilis": {
-			"iso_code": "TR-79"
+		"79": {
+			"name": "Kilis"
 		},
-		"Kocaeli": {
-			"iso_code": "TR-41"
+		"41": {
+			"name": "Kocaeli"
 		},
-		"Konya": {
-			"iso_code": "TR-42"
+		"42": {
+			"name": "Konya"
 		},
-		"Kütahya": {
-			"iso_code": "TR-43"
+		"43": {
+			"name": "Kütahya"
 		},
-		"Malatya": {
-			"iso_code": "TR-44"
+		"44": {
+			"name": "Malatya"
 		},
-		"Manisa": {
-			"iso_code": "TR-45"
+		"45": {
+			"name": "Manisa"
 		},
-		"Mardin": {
-			"iso_code": "TR-47"
+		"47": {
+			"name": "Mardin"
 		},
-		"Mersin": {
-			"iso_code": "TR-33"
+		"33": {
+			"name": "Mersin"
 		},
-		"Muğla": {
-			"iso_code": "TR-48"
+		"48": {
+			"name": "Muğla"
 		},
-		"Muş": {
-			"iso_code": "TR-49"
+		"49": {
+			"name": "Muş"
 		},
-		"Nevşehir": {
-			"iso_code": "TR-50"
+		"50": {
+			"name": "Nevşehir"
 		},
-		"Niğde": {
-			"iso_code": "TR-51"
+		"51": {
+			"name": "Niğde"
 		},
-		"Ordu": {
-			"iso_code": "TR-52"
+		"52": {
+			"name": "Ordu"
 		},
-		"Osmaniye": {
-			"iso_code": "TR-80"
+		"80": {
+			"name": "Osmaniye"
 		},
-		"Rize": {
-			"iso_code": "TR-53"
+		"53": {
+			"name": "Rize"
 		},
-		"Sakarya": {
-			"iso_code": "TR-54"
+		"54": {
+			"name": "Sakarya"
 		},
-		"Samsun": {
-			"iso_code": "TR-55"
+		"55": {
+			"name": "Samsun"
 		},
-		"Siirt": {
-			"iso_code": "TR-56"
+		"56": {
+			"name": "Siirt"
 		},
-		"Sinop": {
-			"iso_code": "TR-57"
+		"57": {
+			"name": "Sinop"
 		},
-		"Sivas": {
-			"iso_code": "TR-58"
+		"58": {
+			"name": "Sivas"
 		},
-		"Şanlıurfa": {
-			"iso_code": "TR-63"
+		"63": {
+			"name": "Şanlıurfa"
 		},
-		"Şırnak": {
-			"iso_code": "TR-73"
+		"73": {
+			"name": "Şırnak"
 		},
-		"Tekirdağ": {
-			"iso_code": "TR-59"
+		"59": {
+			"name": "Tekirdağ"
 		},
-		"Tokat": {
-			"iso_code": "TR-60"
+		"60": {
+			"name": "Tokat"
 		},
-		"Trabzon": {
-			"iso_code": "TR-61"
+		"61": {
+			"name": "Trabzon"
 		},
-		"Tunceli": {
-			"iso_code": "TR-62"
+		"62": {
+			"name": "Tunceli"
 		},
-		"Uşak": {
-			"iso_code": "TR-64"
+		"64": {
+			"name": "Uşak"
 		},
-		"Van": {
-			"iso_code": "TR-65"
+		"65": {
+			"name": "Van"
 		},
-		"Yalova": {
-			"iso_code": "TR-77"
+		"77": {
+			"name": "Yalova"
 		},
-		"Yozgat": {
-			"iso_code": "TR-66"
+		"66": {
+			"name": "Yozgat"
 		},
-		"Zonguldak": {
-			"iso_code": "TR-67"
+		"67": {
+			"name": "Zonguldak"
 		}
 	}
 }

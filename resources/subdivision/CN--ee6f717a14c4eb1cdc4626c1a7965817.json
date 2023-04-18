@@ -1,0 +1,87 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"HE",
+		"Handan Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Cheng'an Xian": {
+			"name": "Cheng'an Xian",
+			"local_name": "成安县"
+		},
+		"Ci Xian": {
+			"name": "Ci Xian",
+			"local_name": "磁县"
+		},
+		"Congtai Qu": {
+			"name": "Congtai Qu",
+			"local_name": "丛台区"
+		},
+		"Daming Xian": {
+			"name": "Daming Xian",
+			"local_name": "大名县"
+		},
+		"Feixiang Xian": {
+			"name": "Feixiang Xian",
+			"local_name": "肥乡县"
+		},
+		"Fengfeng Kuangqu": {
+			"name": "Fengfeng Kuangqu",
+			"local_name": "峰峰矿区"
+		},
+		"Fuxing Qu": {
+			"name": "Fuxing Qu",
+			"local_name": "复兴区"
+		},
+		"Guantao Xian": {
+			"name": "Guantao Xian",
+			"local_name": "馆陶县"
+		},
+		"Guangping Xian": {
+			"name": "Guangping Xian",
+			"local_name": "广平县"
+		},
+		"Handan Xian": {
+			"name": "Handan Xian",
+			"local_name": "邯郸县"
+		},
+		"Hanshan Qu": {
+			"name": "Hanshan Qu",
+			"local_name": "邯山区"
+		},
+		"Jize Xian": {
+			"name": "Jize Xian",
+			"local_name": "鸡泽县"
+		},
+		"Linzhang Xian": {
+			"name": "Linzhang Xian",
+			"local_name": "临漳县"
+		},
+		"Qiu Xian": {
+			"name": "Qiu Xian",
+			"local_name": "邱县"
+		},
+		"Quzhou Xian": {
+			"name": "Quzhou Xian",
+			"local_name": "曲周县"
+		},
+		"She Xian": {
+			"name": "She Xian",
+			"local_name": "涉县"
+		},
+		"Wei Xian": {
+			"name": "Wei Xian",
+			"local_name": "魏县"
+		},
+		"Wu'an Shi": {
+			"name": "Wu'an Shi",
+			"local_name": "武安市"
+		},
+		"Yongnian Xian": {
+			"name": "Yongnian Xian",
+			"local_name": "永年县"
+		}
+	}
+}

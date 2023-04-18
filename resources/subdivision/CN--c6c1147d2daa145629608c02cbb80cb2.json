@@ -1,0 +1,51 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"LN",
+		"Dalian Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Ganjingzi Qu": {
+			"name": "Ganjingzi Qu",
+			"local_name": "甘井子区"
+		},
+		"Jinzhou Qu": {
+			"name": "Jinzhou Qu",
+			"local_name": "金州区"
+		},
+		"Lüshunkou Qu": {
+			"name": "Lüshunkou Qu",
+			"local_name": "旅顺口区"
+		},
+		"Pulandian Shi": {
+			"name": "Pulandian Shi",
+			"local_name": "普兰店市"
+		},
+		"Shahekou Qu": {
+			"name": "Shahekou Qu",
+			"local_name": "沙河口区"
+		},
+		"Wafangdian Shi": {
+			"name": "Wafangdian Shi",
+			"local_name": "瓦房店市"
+		},
+		"Xigang Qu": {
+			"name": "Xigang Qu",
+			"local_name": "西岗区"
+		},
+		"Changhai Xian": {
+			"name": "Changhai Xian",
+			"local_name": "长海县"
+		},
+		"Zhongshan Qu": {
+			"name": "Zhongshan Qu",
+			"local_name": "中山区"
+		},
+		"Zhuanghe Shi": {
+			"name": "Zhuanghe Shi",
+			"local_name": "庄河市"
+		}
+	}
+}

@@ -1,0 +1,61 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"HN",
+		"Shaoyang Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Beita Qu": {
+			"name": "Beita Qu",
+			"local_name": "北塔区"
+		},
+		"Chengbu Xian": {
+			"code": "Chengbu Xian",
+			"local_code": "城步苗族自治县",
+			"name": "Chengbu Xian",
+			"local_name": "城步县"
+		},
+		"Daxiang Qu": {
+			"name": "Daxiang Qu",
+			"local_name": "大祥区"
+		},
+		"Dongkou Xian": {
+			"name": "Dongkou Xian",
+			"local_name": "洞口县"
+		},
+		"Longhui Xian": {
+			"name": "Longhui Xian",
+			"local_name": "隆回县"
+		},
+		"Shaodong Xian": {
+			"name": "Shaodong Xian",
+			"local_name": "邵东县"
+		},
+		"Shaoyang Xian": {
+			"name": "Shaoyang Xian",
+			"local_name": "邵阳县"
+		},
+		"Shuangqing Qu": {
+			"name": "Shuangqing Qu",
+			"local_name": "双清区"
+		},
+		"Suining Xian": {
+			"name": "Suining Xian",
+			"local_name": "绥宁县"
+		},
+		"Wugang Shi": {
+			"name": "Wugang Shi",
+			"local_name": "武冈市"
+		},
+		"Xinning Xian": {
+			"name": "Xinning Xian",
+			"local_name": "新宁县"
+		},
+		"Xinshao Xian": {
+			"name": "Xinshao Xian",
+			"local_name": "新邵县"
+		}
+	}
+}

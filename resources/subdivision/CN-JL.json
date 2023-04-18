@@ -1,0 +1,57 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"JL"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Baicheng Shi": {
+			"name": "Baicheng Shi",
+			"local_name": "白城市",
+			"has_children": true
+		},
+		"Baishan Shi": {
+			"name": "Baishan Shi",
+			"local_name": "白山市",
+			"has_children": true
+		},
+		"Jilin Shi": {
+			"name": "Jilin Shi",
+			"local_name": "吉林市",
+			"has_children": true
+		},
+		"Liaoyuan Shi": {
+			"name": "Liaoyuan Shi",
+			"local_name": "辽源市",
+			"has_children": true
+		},
+		"Siping Shi": {
+			"name": "Siping Shi",
+			"local_name": "四平市",
+			"has_children": true
+		},
+		"Songyuan Shi": {
+			"name": "Songyuan Shi",
+			"local_name": "松原市",
+			"has_children": true
+		},
+		"Tonghua Shi": {
+			"name": "Tonghua Shi",
+			"local_name": "通化市",
+			"has_children": true
+		},
+		"Yanbian Zhou": {
+			"code": "Yanbian Zhou",
+			"local_code": "延边朝鲜族自治州",
+			"name": "Yanbian Zhou",
+			"local_name": "延边州",
+			"has_children": true
+		},
+		"Changchun Shi": {
+			"name": "Changchun Shi",
+			"local_name": "长春市",
+			"has_children": true
+		}
+	}
+}

@@ -1,0 +1,74 @@
+{
+	"country_code": "TW",
+	"parents": [
+		"TW",
+		"TTT"
+	],
+	"locale": "zh-Hant",
+	"subdivisions": {
+		"Dawu Township": {
+			"name": "Dawu Township",
+			"local_name": "大武鄉"
+		},
+		"Taimali Township": {
+			"name": "Taimali Township",
+			"local_name": "太麻里鄉"
+		},
+		"Taitung City": {
+			"name": "Taitung City",
+			"local_name": "台東市"
+		},
+		"Chenggong Township": {
+			"name": "Chenggong Township",
+			"local_name": "成功鎮"
+		},
+		"Chishang Township": {
+			"name": "Chishang Township",
+			"local_name": "池上鄉"
+		},
+		"Beinan Township": {
+			"name": "Beinan Township",
+			"local_name": "卑南鄉"
+		},
+		"Yanping Township": {
+			"name": "Yanping Township",
+			"local_name": "延平鄉"
+		},
+		"Donghe Township": {
+			"name": "Donghe Township",
+			"local_name": "東河鄉"
+		},
+		"Jinfeng Township": {
+			"name": "Jinfeng Township",
+			"local_name": "金峰鄉"
+		},
+		"Changbin Township": {
+			"name": "Changbin Township",
+			"local_name": "長濱鄉"
+		},
+		"Haiduan Township": {
+			"name": "Haiduan Township",
+			"local_name": "海端鄉"
+		},
+		"Luye Township": {
+			"name": "Luye Township",
+			"local_name": "鹿野鄉"
+		},
+		"Daren Township": {
+			"name": "Daren Township",
+			"local_name": "達仁鄉"
+		},
+		"Lüdao Township": {
+			"name": "Lüdao Township",
+			"local_name": "綠島鄉"
+		},
+		"Guanshan Township": {
+			"name": "Guanshan Township",
+			"local_name": "關山鎮"
+		},
+		"Lanyu Township": {
+			"name": "Lanyu Township",
+			"local_name": "蘭嶼鄉"
+		}
+	}
+}

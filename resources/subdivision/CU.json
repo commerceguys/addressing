@@ -1,53 +1,53 @@
 {
 	"country_code": "CU",
 	"subdivisions": {
-		"Artemisa": {
-			"iso_code": "CU-15"
+		"15": {
+			"name": "Artemisa"
 		},
-		"Camagüey": {
-			"iso_code": "CU-09"
+		"09": {
+			"name": "Camagüey"
 		},
-		"Ciego de Ávila": {
-			"iso_code": "CU-08"
+		"08": {
+			"name": "Ciego de Ávila"
 		},
-		"Cienfuegos": {
-			"iso_code": "CU-06"
+		"06": {
+			"name": "Cienfuegos"
 		},
-		"Granma": {
-			"iso_code": "CU-12"
+		"12": {
+			"name": "Granma"
 		},
-		"Guantánamo": {
-			"iso_code": "CU-14"
+		"14": {
+			"name": "Guantánamo"
 		},
-		"Holguín": {
-			"iso_code": "CU-11"
+		"11": {
+			"name": "Holguín"
 		},
-		"Isla de la Juventud": {
-			"iso_code": "CU-99"
+		"99": {
+			"name": "Isla de la Juventud"
 		},
-		"La Habana": {
-			"iso_code": "CU-03"
+		"03": {
+			"name": "La Habana"
 		},
-		"Las Tunas": {
-			"iso_code": "CU-10"
+		"10": {
+			"name": "Las Tunas"
 		},
-		"Matanzas": {
-			"iso_code": "CU-04"
+		"04": {
+			"name": "Matanzas"
 		},
-		"Mayabeque": {
-			"iso_code": "CU-16"
+		"16": {
+			"name": "Mayabeque"
 		},
-		"Pinar del Río": {
-			"iso_code": "CU-01"
+		"01": {
+			"name": "Pinar del Río"
 		},
-		"Sancti Spíritus": {
-			"iso_code": "CU-07"
+		"07": {
+			"name": "Sancti Spíritus"
 		},
-		"Santiago de Cuba": {
-			"iso_code": "CU-13"
+		"13": {
+			"name": "Santiago de Cuba"
 		},
-		"Villa Clara": {
-			"iso_code": "CU-05"
+		"05": {
+			"name": "Villa Clara"
 		}
 	}
 }

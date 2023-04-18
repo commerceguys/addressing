@@ -1,0 +1,27 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"ZJ",
+		"Zhoushan Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Daishan Xian": {
+			"name": "Daishan Xian",
+			"local_name": "岱山县"
+		},
+		"Dinghai Qu": {
+			"name": "Dinghai Qu",
+			"local_name": "定海区"
+		},
+		"Putuo Qu": {
+			"name": "Putuo Qu",
+			"local_name": "普陀区"
+		},
+		"Shengsi Xian": {
+			"name": "Shengsi Xian",
+			"local_name": "嵊泗县"
+		}
+	}
+}

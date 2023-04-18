@@ -1,0 +1,35 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"FJ",
+		"Xiamen Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Haicang Qu": {
+			"name": "Haicang Qu",
+			"local_name": "海沧区"
+		},
+		"Huli Qu": {
+			"name": "Huli Qu",
+			"local_name": "湖里区"
+		},
+		"Jimei Qu": {
+			"name": "Jimei Qu",
+			"local_name": "集美区"
+		},
+		"Siming Qu": {
+			"name": "Siming Qu",
+			"local_name": "思明区"
+		},
+		"Tong'an Qu": {
+			"name": "Tong'an Qu",
+			"local_name": "同安区"
+		},
+		"Xiang'an Qu": {
+			"name": "Xiang'an Qu",
+			"local_name": "翔安区"
+		}
+	}
+}

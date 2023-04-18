@@ -1,0 +1,65 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"SX"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Datong Shi": {
+			"name": "Datong Shi",
+			"local_name": "大同市",
+			"has_children": true
+		},
+		"Jincheng Shi": {
+			"name": "Jincheng Shi",
+			"local_name": "晋城市",
+			"has_children": true
+		},
+		"Jinzhong Shi": {
+			"name": "Jinzhong Shi",
+			"local_name": "晋中市",
+			"has_children": true
+		},
+		"Linfen Shi": {
+			"name": "Linfen Shi",
+			"local_name": "临汾市",
+			"has_children": true
+		},
+		"Lüliang Shi": {
+			"name": "Lüliang Shi",
+			"local_name": "吕梁市",
+			"has_children": true
+		},
+		"Shuozhou Shi": {
+			"name": "Shuozhou Shi",
+			"local_name": "朔州市",
+			"has_children": true
+		},
+		"Taiyuan Shi": {
+			"name": "Taiyuan Shi",
+			"local_name": "太原市",
+			"has_children": true
+		},
+		"Xinzhou Shi": {
+			"name": "Xinzhou Shi",
+			"local_name": "忻州市",
+			"has_children": true
+		},
+		"Yangquan Shi": {
+			"name": "Yangquan Shi",
+			"local_name": "阳泉市",
+			"has_children": true
+		},
+		"Yuncheng Shi": {
+			"name": "Yuncheng Shi",
+			"local_name": "运城市",
+			"has_children": true
+		},
+		"Changzhi Shi": {
+			"name": "Changzhi Shi",
+			"local_name": "长治市",
+			"has_children": true
+		}
+	}
+}

@@ -23,21 +23,21 @@ final class SubdivisionRepositoryTest extends TestCase
             'locale' => 'pt',
             'subdivisions' => [
                 'SC' => [
+                    'code' => 'SC',
                     'name' => 'Santa Catarina',
-                    'iso_code' => 'BR-SC',
                     'postal_code_pattern' => '8[89]',
                     'postal_code_pattern_type' => 'full',
                     'has_children' => true,
                 ],
                 'SP' => [
+                    'code' => 'SP',
                     'name' => 'São Paulo',
-                    'iso_code' => 'BR-SP',
                     'postal_code_pattern' => '[01][1-9]',
                     'has_children' => true,
                 ],
             ],
         ],
-        'BR-249a39f10ac434b1fcd4d51516266b8e' => [
+        'BR-SC' => [
             'country_code' => 'BR',
             'parents' => ['BR', 'SC'],
             'locale' => 'pt',
@@ -45,13 +45,13 @@ final class SubdivisionRepositoryTest extends TestCase
                 'Abelardo Luz' => [],
             ],
         ],
-        'BR-8ef7a36db3f5d47d46566f851be5f610' => [
+        'BR-SP' => [
             'country_code' => 'BR',
             'parents' => ['BR', 'SP'],
             'locale' => 'pt',
             'subdivisions' => [
                 'Anhumas' => [],
-            ]
+            ],
         ],
     ];
 
@@ -98,16 +98,18 @@ final class SubdivisionRepositoryTest extends TestCase
         $this->assertInstanceOf(Subdivision::class, $subdivision);
         $this->assertEquals(null, $subdivision->getParent());
         $this->assertEquals('BR', $subdivision->getCountryCode());
+        $this->assertEquals('SC', $subdivision->getId());
         $this->assertEquals('pt', $subdivision->getLocale());
         $this->assertEquals('SC', $subdivision->getCode());
         $this->assertEquals('Santa Catarina', $subdivision->getName());
-        $this->assertEquals('BR-SC', $subdivision->getIsoCode());
 
         $children = $subdivision->getChildren();
         $this->assertEquals($subdivisionChild, $children['Abelardo Luz']);
 
         $this->assertInstanceOf(Subdivision::class, $subdivisionChild);
+        $this->assertEquals('Abelardo Luz', $subdivisionChild->getId());
         $this->assertEquals('Abelardo Luz', $subdivisionChild->getCode());
+        $this->assertEquals('Abelardo Luz', $subdivisionChild->getName());
         // $subdivision contains the loaded children while $parent doesn't,
         // so they can't be compared directly.
         $parent = $subdivisionChild->getParent();

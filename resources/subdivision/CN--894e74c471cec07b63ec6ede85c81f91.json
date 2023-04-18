@@ -1,0 +1,43 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"GD",
+		"Zhaoqing Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Deqing Xian": {
+			"name": "Deqing Xian",
+			"local_name": "德庆县"
+		},
+		"Dinghu Qu": {
+			"name": "Dinghu Qu",
+			"local_name": "鼎湖区"
+		},
+		"Duanzhou Qu": {
+			"name": "Duanzhou Qu",
+			"local_name": "端州区"
+		},
+		"Fengkai Xian": {
+			"name": "Fengkai Xian",
+			"local_name": "封开县"
+		},
+		"Gaoyao Shi": {
+			"name": "Gaoyao Shi",
+			"local_name": "高要市"
+		},
+		"Guangning Xian": {
+			"name": "Guangning Xian",
+			"local_name": "广宁县"
+		},
+		"Huaiji Xian": {
+			"name": "Huaiji Xian",
+			"local_name": "怀集县"
+		},
+		"Sihui Shi": {
+			"name": "Sihui Shi",
+			"local_name": "四会市"
+		}
+	}
+}

@@ -1,0 +1,43 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"NM",
+		"Ordos Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Dalad Qi": {
+			"name": "Dalad Qi",
+			"local_name": "达拉特旗"
+		},
+		"Dongsheng Qu": {
+			"name": "Dongsheng Qu",
+			"local_name": "东胜区"
+		},
+		"Otog Qi": {
+			"name": "Otog Qi",
+			"local_name": "鄂托克旗"
+		},
+		"Otog Qianqi": {
+			"name": "Otog Qianqi",
+			"local_name": "鄂托克前旗"
+		},
+		"Hanggin Qi": {
+			"name": "Hanggin Qi",
+			"local_name": "杭锦旗"
+		},
+		"Uxin Qi": {
+			"name": "Uxin Qi",
+			"local_name": "乌审旗"
+		},
+		"Ejin Qi": {
+			"name": "Ejin Qi",
+			"local_name": "伊金霍洛旗"
+		},
+		"Jungar Qi": {
+			"name": "Jungar Qi",
+			"local_name": "准格尔旗"
+		}
+	}
+}

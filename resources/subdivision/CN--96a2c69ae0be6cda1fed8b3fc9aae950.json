@@ -1,0 +1,35 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"SC",
+		"Meishan Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Danling Xian": {
+			"name": "Danling Xian",
+			"local_name": "丹棱县"
+		},
+		"Dongpo Qu": {
+			"name": "Dongpo Qu",
+			"local_name": "东坡区"
+		},
+		"Hongya Xian": {
+			"name": "Hongya Xian",
+			"local_name": "洪雅县"
+		},
+		"Pengshan Xian": {
+			"name": "Pengshan Xian",
+			"local_name": "彭山县"
+		},
+		"Qingshen Xian": {
+			"name": "Qingshen Xian",
+			"local_name": "青神县"
+		},
+		"Renshou Xian": {
+			"name": "Renshou Xian",
+			"local_name": "仁寿县"
+		}
+	}
+}

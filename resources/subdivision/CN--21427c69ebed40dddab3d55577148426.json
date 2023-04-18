@@ -1,0 +1,47 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"GD",
+		"Qingyuan Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Fogang Xian": {
+			"name": "Fogang Xian",
+			"local_name": "佛冈县"
+		},
+		"Liannan Xian": {
+			"code": "Liannan Xian",
+			"local_code": "连南瑶族自治县",
+			"name": "Liannan Xian",
+			"local_name": "连南县"
+		},
+		"Lianshan Xian": {
+			"code": "Lianshan Xian",
+			"local_code": "连山壮族瑶族自治县",
+			"name": "Lianshan Xian",
+			"local_name": "连山县"
+		},
+		"Lianzhou Shi": {
+			"name": "Lianzhou Shi",
+			"local_name": "连州市"
+		},
+		"Qingcheng Qu": {
+			"name": "Qingcheng Qu",
+			"local_name": "清城区"
+		},
+		"Qingxin Xian": {
+			"name": "Qingxin Xian",
+			"local_name": "清新县"
+		},
+		"Yangshan Xian": {
+			"name": "Yangshan Xian",
+			"local_name": "阳山县"
+		},
+		"Yingde Shi": {
+			"name": "Yingde Shi",
+			"local_name": "英德市"
+		}
+	}
+}

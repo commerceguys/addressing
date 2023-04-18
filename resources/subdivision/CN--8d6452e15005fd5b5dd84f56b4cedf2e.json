@@ -1,0 +1,59 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"SD",
+		"Yantai Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Fushan Qu": {
+			"name": "Fushan Qu",
+			"local_name": "福山区"
+		},
+		"Haiyang Shi": {
+			"name": "Haiyang Shi",
+			"local_name": "海阳市"
+		},
+		"Laishan Qu": {
+			"name": "Laishan Qu",
+			"local_name": "莱山区"
+		},
+		"Laiyang Shi": {
+			"name": "Laiyang Shi",
+			"local_name": "莱阳市"
+		},
+		"Laizhou Shi": {
+			"name": "Laizhou Shi",
+			"local_name": "莱州市"
+		},
+		"Longkou Shi": {
+			"name": "Longkou Shi",
+			"local_name": "龙口市"
+		},
+		"Muping Qu": {
+			"name": "Muping Qu",
+			"local_name": "牟平区"
+		},
+		"Penglai Shi": {
+			"name": "Penglai Shi",
+			"local_name": "蓬莱市"
+		},
+		"Qixia Shi": {
+			"name": "Qixia Shi",
+			"local_name": "栖霞市"
+		},
+		"Changdao Xian": {
+			"name": "Changdao Xian",
+			"local_name": "长岛县"
+		},
+		"Zhaoyuan Shi": {
+			"name": "Zhaoyuan Shi",
+			"local_name": "招远市"
+		},
+		"Zhifu Qu": {
+			"name": "Zhifu Qu",
+			"local_name": "芝罘区"
+		}
+	}
+}

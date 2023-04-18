@@ -1,0 +1,23 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"XJ",
+		"Turpan Diqu"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Shanshan Xian": {
+			"name": "Shanshan Xian",
+			"local_name": "鄯善县"
+		},
+		"Turpan Shi": {
+			"name": "Turpan Shi",
+			"local_name": "吐鲁番市"
+		},
+		"Toksun Xian": {
+			"name": "Toksun Xian",
+			"local_name": "托克逊县"
+		}
+	}
+}

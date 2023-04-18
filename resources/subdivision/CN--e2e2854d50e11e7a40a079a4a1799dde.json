@@ -1,0 +1,27 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"SD",
+		"Weihai Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Huancui Qu": {
+			"name": "Huancui Qu",
+			"local_name": "环翠区"
+		},
+		"Rongcheng Shi": {
+			"name": "Rongcheng Shi",
+			"local_name": "荣成市"
+		},
+		"Rushan Shi": {
+			"name": "Rushan Shi",
+			"local_name": "乳山市"
+		},
+		"Wendeng Qu": {
+			"name": "Wendeng Qu",
+			"local_name": "文登区"
+		}
+	}
+}

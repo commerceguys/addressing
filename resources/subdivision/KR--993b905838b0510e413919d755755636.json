@@ -1,0 +1,19 @@
+{
+	"country_code": "KR",
+	"parents": [
+		"KR",
+		"41",
+		"Ansan-si"
+	],
+	"locale": "ko",
+	"subdivisions": {
+		"Danwon-gu": {
+			"name": "Danwon-gu",
+			"local_name": "단원구"
+		},
+		"Sangnok-gu": {
+			"name": "Sangnok-gu",
+			"local_name": "상록구"
+		}
+	}
+}

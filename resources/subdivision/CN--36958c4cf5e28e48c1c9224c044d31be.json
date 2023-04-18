@@ -1,0 +1,39 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"JS",
+		"Lianyungang Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Donghai Xian": {
+			"name": "Donghai Xian",
+			"local_name": "东海县"
+		},
+		"Ganyu Xian": {
+			"name": "Ganyu Xian",
+			"local_name": "赣榆县"
+		},
+		"Guannan Xian": {
+			"name": "Guannan Xian",
+			"local_name": "灌南县"
+		},
+		"Guanyun Xian": {
+			"name": "Guanyun Xian",
+			"local_name": "灌云县"
+		},
+		"Haizhou Qu": {
+			"name": "Haizhou Qu",
+			"local_name": "海州区"
+		},
+		"Lianyun Qu": {
+			"name": "Lianyun Qu",
+			"local_name": "连云区"
+		},
+		"Xinpu Qu": {
+			"name": "Xinpu Qu",
+			"local_name": "新浦区"
+		}
+	}
+}

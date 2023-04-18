@@ -1,0 +1,43 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"AH",
+		"Chuzhou Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Dingyuan Xian": {
+			"name": "Dingyuan Xian",
+			"local_name": "定远县"
+		},
+		"Fengyang Xian": {
+			"name": "Fengyang Xian",
+			"local_name": "凤阳县"
+		},
+		"Lai'an Xian": {
+			"name": "Lai'an Xian",
+			"local_name": "来安县"
+		},
+		"Liangya Qu": {
+			"name": "Liangya Qu",
+			"local_name": "琅琊区"
+		},
+		"Mingguang Shi": {
+			"name": "Mingguang Shi",
+			"local_name": "明光市"
+		},
+		"Nanqiao Qu": {
+			"name": "Nanqiao Qu",
+			"local_name": "南谯区"
+		},
+		"Quanjiao Xian": {
+			"name": "Quanjiao Xian",
+			"local_name": "全椒县"
+		},
+		"Tianchang Shi": {
+			"name": "Tianchang Shi",
+			"local_name": "天长市"
+		}
+	}
+}

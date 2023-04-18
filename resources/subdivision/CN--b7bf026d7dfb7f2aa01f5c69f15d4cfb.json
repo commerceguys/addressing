@@ -1,0 +1,31 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"GX",
+		"Guigang Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Gangbei Qu": {
+			"name": "Gangbei Qu",
+			"local_name": "港北区"
+		},
+		"Gangnan Qu": {
+			"name": "Gangnan Qu",
+			"local_name": "港南区"
+		},
+		"Guiping Shi": {
+			"name": "Guiping Shi",
+			"local_name": "桂平市"
+		},
+		"Pingnan Xian": {
+			"name": "Pingnan Xian",
+			"local_name": "平南县"
+		},
+		"Tantang Qu": {
+			"name": "Tantang Qu",
+			"local_name": "覃塘区"
+		}
+	}
+}

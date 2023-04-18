@@ -1,0 +1,27 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"AH",
+		"Chizhou Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Dongzhi Xian": {
+			"name": "Dongzhi Xian",
+			"local_name": "东至县"
+		},
+		"Guichi Qu": {
+			"name": "Guichi Qu",
+			"local_name": "贵池区"
+		},
+		"Qingyang Xian": {
+			"name": "Qingyang Xian",
+			"local_name": "青阳县"
+		},
+		"Shitai Xian": {
+			"name": "Shitai Xian",
+			"local_name": "石台县"
+		}
+	}
+}

@@ -1,0 +1,43 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"GS",
+		"Jiuquan Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Aksay Xian": {
+			"code": "Aksay Xian",
+			"local_code": "阿克塞哈萨克族自治县",
+			"name": "Aksay Xian",
+			"local_name": "阿克塞县"
+		},
+		"Dunhuang Shi": {
+			"name": "Dunhuang Shi",
+			"local_name": "敦煌市"
+		},
+		"Guazhou Xian": {
+			"name": "Guazhou Xian",
+			"local_name": "瓜州县"
+		},
+		"Jinta Xian": {
+			"name": "Jinta Xian",
+			"local_name": "金塔县"
+		},
+		"Subei Xian": {
+			"code": "Subei Xian",
+			"local_code": "肃北蒙古族自治县",
+			"name": "Subei Xian",
+			"local_name": "肃北县"
+		},
+		"Suzhou Qu": {
+			"name": "Suzhou Qu",
+			"local_name": "肃州区"
+		},
+		"Yumen Shi": {
+			"name": "Yumen Shi",
+			"local_name": "玉门市"
+		}
+	}
+}

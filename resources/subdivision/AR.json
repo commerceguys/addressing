@@ -1,77 +1,77 @@
 {
 	"country_code": "AR",
 	"subdivisions": {
-		"Buenos Aires": {
-			"iso_code": "AR-B"
+		"B": {
+			"name": "Buenos Aires"
 		},
-		"Catamarca": {
-			"iso_code": "AR-K"
+		"K": {
+			"name": "Catamarca"
 		},
-		"Chaco": {
-			"iso_code": "AR-H"
+		"H": {
+			"name": "Chaco"
 		},
-		"Chubut": {
-			"iso_code": "AR-U"
+		"U": {
+			"name": "Chubut"
 		},
-		"Ciudad Autónoma de Buenos Aires": {
-			"iso_code": "AR-C"
+		"C": {
+			"name": "Ciudad Autónoma de Buenos Aires"
 		},
-		"Córdoba": {
-			"iso_code": "AR-X"
+		"X": {
+			"name": "Córdoba"
 		},
-		"Corrientes": {
-			"iso_code": "AR-W"
+		"W": {
+			"name": "Corrientes"
 		},
-		"Entre Ríos": {
-			"iso_code": "AR-E"
+		"E": {
+			"name": "Entre Ríos"
 		},
-		"Formosa": {
-			"iso_code": "AR-P"
+		"P": {
+			"name": "Formosa"
 		},
-		"Jujuy": {
-			"iso_code": "AR-Y"
+		"Y": {
+			"name": "Jujuy"
 		},
-		"La Pampa": {
-			"iso_code": "AR-L"
+		"L": {
+			"name": "La Pampa"
 		},
-		"La Rioja": {
-			"iso_code": "AR-F"
+		"F": {
+			"name": "La Rioja"
 		},
-		"Mendoza": {
-			"iso_code": "AR-M"
+		"M": {
+			"name": "Mendoza"
 		},
-		"Misiones": {
-			"iso_code": "AR-N"
+		"N": {
+			"name": "Misiones"
 		},
-		"Neuquén": {
-			"iso_code": "AR-Q"
+		"Q": {
+			"name": "Neuquén"
 		},
-		"Río Negro": {
-			"iso_code": "AR-R"
+		"R": {
+			"name": "Río Negro"
 		},
-		"Salta": {
-			"iso_code": "AR-A"
+		"A": {
+			"name": "Salta"
 		},
-		"San Juan": {
-			"iso_code": "AR-J"
+		"J": {
+			"name": "San Juan"
 		},
-		"San Luis": {
-			"iso_code": "AR-D"
+		"D": {
+			"name": "San Luis"
 		},
-		"Santa Cruz": {
-			"iso_code": "AR-Z"
+		"Z": {
+			"name": "Santa Cruz"
 		},
-		"Santa Fe": {
-			"iso_code": "AR-S"
+		"S": {
+			"name": "Santa Fe"
 		},
-		"Santiago del Estero": {
-			"iso_code": "AR-G"
+		"G": {
+			"name": "Santiago del Estero"
 		},
-		"Tierra del Fuego": {
-			"iso_code": "AR-V"
+		"V": {
+			"name": "Tierra del Fuego"
 		},
-		"Tucumán": {
-			"iso_code": "AR-T"
+		"T": {
+			"name": "Tucumán"
 		}
 	}
 }

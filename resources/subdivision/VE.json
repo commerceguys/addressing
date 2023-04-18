@@ -1,80 +1,80 @@
 {
 	"country_code": "VE",
 	"subdivisions": {
-		"Amazonas": {
-			"iso_code": "VE-Z"
+		"Z": {
+			"name": "Amazonas"
 		},
-		"Anzoátegui": {
-			"iso_code": "VE-B"
+		"B": {
+			"name": "Anzoátegui"
 		},
-		"Apure": {
-			"iso_code": "VE-C"
+		"C": {
+			"name": "Apure"
 		},
-		"Aragua": {
-			"iso_code": "VE-D"
+		"D": {
+			"name": "Aragua"
 		},
-		"Barinas": {
-			"iso_code": "VE-E"
+		"E": {
+			"name": "Barinas"
 		},
-		"Bolívar": {
-			"iso_code": "VE-F"
+		"F": {
+			"name": "Bolívar"
 		},
-		"Carabobo": {
-			"iso_code": "VE-G"
+		"G": {
+			"name": "Carabobo"
 		},
-		"Cojedes": {
-			"iso_code": "VE-H"
+		"H": {
+			"name": "Cojedes"
 		},
-		"Delta Amacuro": {
-			"iso_code": "VE-Y"
+		"Y": {
+			"name": "Delta Amacuro"
 		},
-		"Dependencias Federales": {
-			"iso_code": "VE-W"
+		"W": {
+			"name": "Dependencias Federales"
 		},
-		"Distrito Federal": {
-			"iso_code": "VE-A"
+		"A": {
+			"name": "Distrito Federal"
 		},
-		"Falcón": {
-			"iso_code": "VE-I"
+		"I": {
+			"name": "Falcón"
 		},
-		"Guárico": {
-			"iso_code": "VE-J"
+		"J": {
+			"name": "Guárico"
 		},
-		"Lara": {
-			"iso_code": "VE-K"
+		"K": {
+			"name": "Lara"
 		},
-		"Mérida": {
-			"iso_code": "VE-L"
+		"L": {
+			"name": "Mérida"
 		},
-		"Miranda": {
-			"iso_code": "VE-M"
+		"M": {
+			"name": "Miranda"
 		},
-		"Monagas": {
-			"iso_code": "VE-N"
+		"N": {
+			"name": "Monagas"
 		},
-		"Nueva Esparta": {
-			"iso_code": "VE-O"
+		"O": {
+			"name": "Nueva Esparta"
 		},
-		"Portuguesa": {
-			"iso_code": "VE-P"
+		"P": {
+			"name": "Portuguesa"
 		},
-		"Sucre": {
-			"iso_code": "VE-R"
+		"R": {
+			"name": "Sucre"
 		},
-		"Táchira": {
-			"iso_code": "VE-S"
+		"S": {
+			"name": "Táchira"
 		},
-		"Trujillo": {
-			"iso_code": "VE-T"
+		"T": {
+			"name": "Trujillo"
 		},
-		"Vargas": {
-			"iso_code": "VE-X"
+		"X": {
+			"name": "Vargas"
 		},
-		"Yaracuy": {
-			"iso_code": "VE-U"
+		"U": {
+			"name": "Yaracuy"
 		},
-		"Zulia": {
-			"iso_code": "VE-V"
+		"V": {
+			"name": "Zulia"
 		}
 	}
 }

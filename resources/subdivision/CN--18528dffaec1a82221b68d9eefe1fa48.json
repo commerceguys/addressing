@@ -1,0 +1,53 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"HE",
+		"Langfang Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Anci Qu": {
+			"name": "Anci Qu",
+			"local_name": "安次区"
+		},
+		"Bazhou Shi": {
+			"name": "Bazhou Shi",
+			"local_name": "霸州市"
+		},
+		"Dachang Xian": {
+			"code": "Dachang Xian",
+			"local_code": "大厂回族自治县",
+			"name": "Dachang Xian",
+			"local_name": "大厂县"
+		},
+		"Daicheng Xian": {
+			"name": "Daicheng Xian",
+			"local_name": "大城县"
+		},
+		"Gu'an Xian": {
+			"name": "Gu'an Xian",
+			"local_name": "固安县"
+		},
+		"Guangyang Qu": {
+			"name": "Guangyang Qu",
+			"local_name": "广阳区"
+		},
+		"Sanhe Shi": {
+			"name": "Sanhe Shi",
+			"local_name": "三河市"
+		},
+		"Wen'an Xian": {
+			"name": "Wen'an Xian",
+			"local_name": "文安县"
+		},
+		"Xianghe Xian": {
+			"name": "Xianghe Xian",
+			"local_name": "香河县"
+		},
+		"Yongqing Xian": {
+			"name": "Yongqing Xian",
+			"local_name": "永清县"
+		}
+	}
+}

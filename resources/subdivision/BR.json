@@ -2,138 +2,138 @@
 	"country_code": "BR",
 	"subdivisions": {
 		"AC": {
+			"code": "AC",
 			"name": "Acre",
-			"iso_code": "BR-AC",
 			"has_children": true
 		},
 		"AL": {
+			"code": "AL",
 			"name": "Alagoas",
-			"iso_code": "BR-AL",
 			"has_children": true
 		},
 		"AP": {
+			"code": "AP",
 			"name": "Amapá",
-			"iso_code": "BR-AP",
 			"has_children": true
 		},
 		"AM": {
+			"code": "AM",
 			"name": "Amazonas",
-			"iso_code": "BR-AM",
 			"has_children": true
 		},
 		"BA": {
+			"code": "BA",
 			"name": "Bahia",
-			"iso_code": "BR-BA",
 			"has_children": true
 		},
 		"CE": {
+			"code": "CE",
 			"name": "Ceará",
-			"iso_code": "BR-CE",
 			"has_children": true
 		},
 		"DF": {
+			"code": "DF",
 			"name": "Distrito Federal",
-			"iso_code": "BR-DF",
 			"has_children": true
 		},
 		"ES": {
+			"code": "ES",
 			"name": "Espírito Santo",
-			"iso_code": "BR-ES",
 			"has_children": true
 		},
 		"GO": {
+			"code": "GO",
 			"name": "Goiás",
-			"iso_code": "BR-GO",
 			"has_children": true
 		},
 		"MA": {
+			"code": "MA",
 			"name": "Maranhão",
-			"iso_code": "BR-MA",
 			"has_children": true
 		},
 		"MT": {
+			"code": "MT",
 			"name": "Mato Grosso",
-			"iso_code": "BR-MT",
 			"has_children": true
 		},
 		"MS": {
+			"code": "MS",
 			"name": "Mato Grosso do Sul",
-			"iso_code": "BR-MS",
 			"has_children": true
 		},
 		"MG": {
+			"code": "MG",
 			"name": "Minas Gerais",
-			"iso_code": "BR-MG",
 			"has_children": true
 		},
 		"PA": {
+			"code": "PA",
 			"name": "Pará",
-			"iso_code": "BR-PA",
 			"has_children": true
 		},
 		"PB": {
+			"code": "PB",
 			"name": "Paraíba",
-			"iso_code": "BR-PB",
 			"has_children": true
 		},
 		"PR": {
+			"code": "PR",
 			"name": "Paraná",
-			"iso_code": "BR-PR",
 			"has_children": true
 		},
 		"PE": {
+			"code": "PE",
 			"name": "Pernambuco",
-			"iso_code": "BR-PE",
 			"has_children": true
 		},
 		"PI": {
+			"code": "PI",
 			"name": "Piauí",
-			"iso_code": "BR-PI",
 			"has_children": true
 		},
 		"RJ": {
+			"code": "RJ",
 			"name": "Rio de Janeiro",
-			"iso_code": "BR-RJ",
 			"has_children": true
 		},
 		"RN": {
+			"code": "RN",
 			"name": "Rio Grande do Norte",
-			"iso_code": "BR-RN",
 			"has_children": true
 		},
 		"RS": {
+			"code": "RS",
 			"name": "Rio Grande do Sul",
-			"iso_code": "BR-RS",
 			"has_children": true
 		},
 		"RO": {
+			"code": "RO",
 			"name": "Rondônia",
-			"iso_code": "BR-RO",
 			"has_children": true
 		},
 		"RR": {
+			"code": "RR",
 			"name": "Roraima",
-			"iso_code": "BR-RR",
 			"has_children": true
 		},
 		"SC": {
+			"code": "SC",
 			"name": "Santa Catarina",
-			"iso_code": "BR-SC",
 			"has_children": true
 		},
 		"SP": {
+			"code": "SP",
 			"name": "São Paulo",
-			"iso_code": "BR-SP",
 			"has_children": true
 		},
 		"SE": {
+			"code": "SE",
 			"name": "Sergipe",
-			"iso_code": "BR-SE",
 			"has_children": true
 		},
 		"TO": {
+			"code": "TO",
 			"name": "Tocantins",
-			"iso_code": "BR-TO",
 			"has_children": true
 		}
 	}

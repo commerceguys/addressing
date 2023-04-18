@@ -1,0 +1,47 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"HB",
+		"Xiangyang Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Baokang Xian": {
+			"name": "Baokang Xian",
+			"local_name": "保康县"
+		},
+		"Fancheng Qu": {
+			"name": "Fancheng Qu",
+			"local_name": "樊城区"
+		},
+		"Gucheng Xian": {
+			"name": "Gucheng Xian",
+			"local_name": "谷城县"
+		},
+		"Laohekou Shi": {
+			"name": "Laohekou Shi",
+			"local_name": "老河口市"
+		},
+		"Nanzhang Xian": {
+			"name": "Nanzhang Xian",
+			"local_name": "南漳县"
+		},
+		"Xiangcheng Qu": {
+			"name": "Xiangcheng Qu",
+			"local_name": "襄城区"
+		},
+		"Xiangzhou Qu": {
+			"name": "Xiangzhou Qu",
+			"local_name": "襄州区"
+		},
+		"Yicheng Shi": {
+			"name": "Yicheng Shi",
+			"local_name": "宜城市"
+		},
+		"Zaoyang Shi": {
+			"name": "Zaoyang Shi",
+			"local_name": "枣阳市"
+		}
+	}
+}

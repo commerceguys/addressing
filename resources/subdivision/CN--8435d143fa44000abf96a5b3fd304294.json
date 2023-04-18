@@ -1,0 +1,63 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"JX",
+		"Ji'an Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Anfu Xian": {
+			"name": "Anfu Xian",
+			"local_name": "安福县"
+		},
+		"Ji'an Xian": {
+			"name": "Ji'an Xian",
+			"local_name": "吉安县"
+		},
+		"Jishui Xian": {
+			"name": "Jishui Xian",
+			"local_name": "吉水县"
+		},
+		"Jizhou Qu": {
+			"name": "Jizhou Qu",
+			"local_name": "吉州区"
+		},
+		"Jinggangshan Shi": {
+			"name": "Jinggangshan Shi",
+			"local_name": "井冈山市"
+		},
+		"Qingyuan Qu": {
+			"name": "Qingyuan Qu",
+			"local_name": "青原区"
+		},
+		"Suichuan Xian": {
+			"name": "Suichuan Xian",
+			"local_name": "遂川县"
+		},
+		"Taihe Xian": {
+			"name": "Taihe Xian",
+			"local_name": "泰和县"
+		},
+		"Wan'an Xian": {
+			"name": "Wan'an Xian",
+			"local_name": "万安县"
+		},
+		"Xiajiang Xian": {
+			"name": "Xiajiang Xian",
+			"local_name": "峡江县"
+		},
+		"Xingan Xian": {
+			"name": "Xingan Xian",
+			"local_name": "新干县"
+		},
+		"Yongfeng Xian": {
+			"name": "Yongfeng Xian",
+			"local_name": "永丰县"
+		},
+		"Yongxin Xian": {
+			"name": "Yongxin Xian",
+			"local_name": "永新县"
+		}
+	}
+}

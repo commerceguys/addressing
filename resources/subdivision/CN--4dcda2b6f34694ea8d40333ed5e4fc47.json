@@ -1,0 +1,65 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"LN",
+		"Shenyang Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Dadong Qu": {
+			"name": "Dadong Qu",
+			"local_name": "大东区"
+		},
+		"Faku Xian": {
+			"name": "Faku Xian",
+			"local_name": "法库县"
+		},
+		"Heping Qu": {
+			"name": "Heping Qu",
+			"local_name": "和平区"
+		},
+		"Huanggu Qu": {
+			"name": "Huanggu Qu",
+			"local_name": "皇姑区"
+		},
+		"Hunnan Qu": {
+			"code": "Hunnan Qu",
+			"local_code": "东陵区",
+			"name": "Hunnan Qu",
+			"local_name": "浑南区"
+		},
+		"Kangping Xian": {
+			"name": "Kangping Xian",
+			"local_name": "康平县"
+		},
+		"Liaozhong Xian": {
+			"name": "Liaozhong Xian",
+			"local_name": "辽中县"
+		},
+		"Chenbei Xinqu": {
+			"name": "Chenbei Xinqu",
+			"local_name": "沈北新区"
+		},
+		"Shenhe Qu": {
+			"name": "Shenhe Qu",
+			"local_name": "沈河区"
+		},
+		"Sujiatun Qu": {
+			"name": "Sujiatun Qu",
+			"local_name": "苏家屯区"
+		},
+		"Tiexi Qu": {
+			"name": "Tiexi Qu",
+			"local_name": "铁西区"
+		},
+		"Xinmin Shi": {
+			"name": "Xinmin Shi",
+			"local_name": "新民市"
+		},
+		"Yuhong Qu": {
+			"name": "Yuhong Qu",
+			"local_name": "于洪区"
+		}
+	}
+}

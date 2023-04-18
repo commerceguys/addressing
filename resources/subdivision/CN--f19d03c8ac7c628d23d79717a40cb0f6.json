@@ -1,0 +1,43 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"HB",
+		"Shiyan Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Danjiangkou Shi": {
+			"name": "Danjiangkou Shi",
+			"local_name": "丹江口市"
+		},
+		"Fang Xian": {
+			"name": "Fang Xian",
+			"local_name": "房县"
+		},
+		"Maojian Qu": {
+			"name": "Maojian Qu",
+			"local_name": "茅箭区"
+		},
+		"Yunxi Xian": {
+			"name": "Yunxi Xian",
+			"local_name": "郧西县"
+		},
+		"Yun Xian": {
+			"name": "Yun Xian",
+			"local_name": "郧县"
+		},
+		"Zhangwan Qu": {
+			"name": "Zhangwan Qu",
+			"local_name": "张湾区"
+		},
+		"Zhushan Xian": {
+			"name": "Zhushan Xian",
+			"local_name": "竹山县"
+		},
+		"Zhuxi Xian": {
+			"name": "Zhuxi Xian",
+			"local_name": "竹溪县"
+		}
+	}
+}

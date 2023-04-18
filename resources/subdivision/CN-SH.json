@@ -1,0 +1,78 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"SH"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Baoshan Qu": {
+			"name": "Baoshan Qu",
+			"local_name": "宝山区"
+		},
+		"Chongming Xian": {
+			"name": "Chongming Xian",
+			"local_name": "崇明县"
+		},
+		"Fengxian Qu": {
+			"name": "Fengxian Qu",
+			"local_name": "奉贤区"
+		},
+		"Hongkou Qu": {
+			"name": "Hongkou Qu",
+			"local_name": "虹口区"
+		},
+		"Huangpu Qu": {
+			"name": "Huangpu Qu",
+			"local_name": "黄浦区"
+		},
+		"Jiading Qu": {
+			"name": "Jiading Qu",
+			"local_name": "嘉定区"
+		},
+		"Jinshan Qu": {
+			"name": "Jinshan Qu",
+			"local_name": "金山区"
+		},
+		"Jing'an Qu": {
+			"name": "Jing'an Qu",
+			"local_name": "静安区"
+		},
+		"Minhang Qu": {
+			"name": "Minhang Qu",
+			"local_name": "闵行区"
+		},
+		"Pudong Xinqu": {
+			"name": "Pudong Xinqu",
+			"local_name": "浦东新区"
+		},
+		"Putuo Qu": {
+			"name": "Putuo Qu",
+			"local_name": "普陀区"
+		},
+		"Qingpu Qu": {
+			"name": "Qingpu Qu",
+			"local_name": "青浦区"
+		},
+		"Songjiang Qu": {
+			"name": "Songjiang Qu",
+			"local_name": "松江区"
+		},
+		"Xuhui Qu": {
+			"name": "Xuhui Qu",
+			"local_name": "徐汇区"
+		},
+		"Yangpu Qu": {
+			"name": "Yangpu Qu",
+			"local_name": "杨浦区"
+		},
+		"Zhabei Qu": {
+			"name": "Zhabei Qu",
+			"local_name": "闸北区"
+		},
+		"Changning Qu": {
+			"name": "Changning Qu",
+			"local_name": "长宁区"
+		}
+	}
+}

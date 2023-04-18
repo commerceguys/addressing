@@ -2,36 +2,39 @@
 	"country_code": "AE",
 	"locale": "ar",
 	"subdivisions": {
-		"Abu Dhabi": {
-			"local_code": "أبو ظبي",
-			"iso_code": "AE-AZ"
+		"AZ": {
+			"name": "Abu Dhabi",
+			"local_name": "أبو ظبي"
 		},
-		"Sharjah": {
+		"SH": {
+			"code": "Sharjah",
 			"local_code": "إمارة الشارقةّ",
-			"local_name": "الشارقة",
-			"iso_code": "AE-SH"
+			"name": "Sharjah",
+			"local_name": "الشارقة"
 		},
-		"Fujairah": {
-			"local_code": "الفجيرة",
-			"iso_code": "AE-FU"
+		"FU": {
+			"name": "Fujairah",
+			"local_name": "الفجيرة"
 		},
-		"Umm Al Quwain": {
-			"local_code": "ام القيوين",
-			"iso_code": "AE-UQ"
+		"UQ": {
+			"name": "Umm Al Quwain",
+			"local_name": "ام القيوين"
 		},
-		"Dubai": {
+		"DU": {
+			"code": "Dubai",
 			"local_code": "إمارة دبيّ",
-			"local_name": "دبي",
-			"iso_code": "AE-DU"
+			"name": "Dubai",
+			"local_name": "دبي"
 		},
-		"Ras Al Khaimah": {
+		"RK": {
+			"code": "Ras Al Khaimah",
 			"local_code": "إمارة رأس الخيمة",
-			"local_name": "رأس الخيمة",
-			"iso_code": "AE-RK"
+			"name": "Ras Al Khaimah",
+			"local_name": "رأس الخيمة"
 		},
-		"Ajman": {
-			"local_code": "عجمان",
-			"iso_code": "AE-AJ"
+		"AJ": {
+			"name": "Ajman",
+			"local_name": "عجمان"
 		}
 	}
 }

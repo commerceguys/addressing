@@ -1,0 +1,34 @@
+{
+	"country_code": "TW",
+	"parents": [
+		"TW",
+		"PEN"
+	],
+	"locale": "zh-Hant",
+	"subdivisions": {
+		"Qimei Township": {
+			"name": "Qimei Township",
+			"local_name": "七美鄉"
+		},
+		"Baisha Township": {
+			"name": "Baisha Township",
+			"local_name": "白沙鄉"
+		},
+		"Xiyu Township": {
+			"name": "Xiyu Township",
+			"local_name": "西嶼鄉"
+		},
+		"Magong City": {
+			"name": "Magong City",
+			"local_name": "馬公市"
+		},
+		"Wang'an Township": {
+			"name": "Wang'an Township",
+			"local_name": "望安鄉"
+		},
+		"Huxi Township": {
+			"name": "Huxi Township",
+			"local_name": "湖西鄉"
+		}
+	}
+}

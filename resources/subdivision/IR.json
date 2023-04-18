@@ -2,129 +2,129 @@
 	"country_code": "IR",
 	"locale": "fa",
 	"subdivisions": {
-		"East Azerbaijan Province": {
-			"local_code": "استان آذربایجان شرقی",
-			"iso_code": "IR-03"
+		"03": {
+			"name": "East Azerbaijan Province",
+			"local_name": "استان آذربایجان شرقی"
 		},
-		"West Azerbaijan Province": {
-			"local_code": "استان آذربایجان غربی",
-			"iso_code": "IR-04"
+		"04": {
+			"name": "West Azerbaijan Province",
+			"local_name": "استان آذربایجان غربی"
 		},
-		"Ardabil Province": {
-			"local_code": "استان اردبیل",
-			"iso_code": "IR-24"
+		"24": {
+			"name": "Ardabil Province",
+			"local_name": "استان اردبیل"
 		},
-		"Isfahan Province": {
-			"local_code": "استان اصفهان",
-			"iso_code": "IR-10"
+		"10": {
+			"name": "Isfahan Province",
+			"local_name": "استان اصفهان"
 		},
-		"Alborz Province": {
-			"local_code": "استان البرز",
-			"iso_code": "IR-30"
+		"30": {
+			"name": "Alborz Province",
+			"local_name": "استان البرز"
 		},
-		"Ilam Province": {
-			"local_code": "استان ایلام",
-			"iso_code": "IR-16"
+		"16": {
+			"name": "Ilam Province",
+			"local_name": "استان ایلام"
 		},
-		"Bushehr Province": {
-			"local_code": "استان بوشهر",
-			"iso_code": "IR-18"
+		"18": {
+			"name": "Bushehr Province",
+			"local_name": "استان بوشهر"
 		},
-		"Tehran Province": {
-			"local_code": "استان تهران",
-			"iso_code": "IR-23"
+		"23": {
+			"name": "Tehran Province",
+			"local_name": "استان تهران"
 		},
-		"Chaharmahal and Bakhtiari Province": {
-			"local_code": "استان چهارمحال و بختیاری",
-			"iso_code": "IR-14"
+		"14": {
+			"name": "Chaharmahal and Bakhtiari Province",
+			"local_name": "استان چهارمحال و بختیاری"
 		},
-		"South Khorasan Province": {
-			"local_code": "استان خراسان جنوبی",
-			"iso_code": "IR-29"
+		"29": {
+			"name": "South Khorasan Province",
+			"local_name": "استان خراسان جنوبی"
 		},
-		"Razavi Khorasan Province": {
-			"local_code": "استان خراسان رضوی",
-			"iso_code": "IR-09"
+		"09": {
+			"name": "Razavi Khorasan Province",
+			"local_name": "استان خراسان رضوی"
 		},
-		"North Khorasan Province": {
-			"local_code": "استان خراسان شمالی",
-			"iso_code": "IR-28"
+		"28": {
+			"name": "North Khorasan Province",
+			"local_name": "استان خراسان شمالی"
 		},
-		"Khuzestan Province": {
-			"local_code": "استان خوزستان",
-			"iso_code": "IR-06"
+		"06": {
+			"name": "Khuzestan Province",
+			"local_name": "استان خوزستان"
 		},
-		"Zanjan Province": {
-			"local_code": "استان زنجان",
-			"iso_code": "IR-19"
+		"19": {
+			"name": "Zanjan Province",
+			"local_name": "استان زنجان"
 		},
-		"Semnan Province": {
-			"local_code": "استان سمنان",
-			"iso_code": "IR-20"
+		"20": {
+			"name": "Semnan Province",
+			"local_name": "استان سمنان"
 		},
-		"Sistan and Baluchestan Province": {
-			"local_code": "استان سیستان و بلوچستان",
-			"iso_code": "IR-11"
+		"11": {
+			"name": "Sistan and Baluchestan Province",
+			"local_name": "استان سیستان و بلوچستان"
 		},
-		"Fars Province": {
-			"local_code": "استان فارس",
-			"iso_code": "IR-07"
+		"07": {
+			"name": "Fars Province",
+			"local_name": "استان فارس"
 		},
-		"Qazvin Province": {
-			"local_code": "استان قزوین",
-			"iso_code": "IR-26"
+		"26": {
+			"name": "Qazvin Province",
+			"local_name": "استان قزوین"
 		},
-		"Qom Province": {
-			"local_code": "استان قم",
-			"iso_code": "IR-25"
+		"25": {
+			"name": "Qom Province",
+			"local_name": "استان قم"
 		},
-		"Kurdistan Province": {
-			"local_code": "استان کردستان",
-			"iso_code": "IR-12"
+		"12": {
+			"name": "Kurdistan Province",
+			"local_name": "استان کردستان"
 		},
-		"Kerman Province": {
-			"local_code": "استان کرمان",
-			"iso_code": "IR-08"
+		"08": {
+			"name": "Kerman Province",
+			"local_name": "استان کرمان"
 		},
-		"Kermanshah Province": {
-			"local_code": "استان کرمانشاه",
-			"iso_code": "IR-05"
+		"05": {
+			"name": "Kermanshah Province",
+			"local_name": "استان کرمانشاه"
 		},
-		"Kohgiluyeh and Boyer-Ahmad Province": {
-			"local_code": "استان کهگیلویه و بویراحمد",
-			"iso_code": "IR-17"
+		"17": {
+			"name": "Kohgiluyeh and Boyer-Ahmad Province",
+			"local_name": "استان کهگیلویه و بویراحمد"
 		},
-		"Golestan Province": {
-			"local_code": "استان گلستان",
-			"iso_code": "IR-27"
+		"27": {
+			"name": "Golestan Province",
+			"local_name": "استان گلستان"
 		},
-		"Gilan Province": {
-			"local_code": "استان گیلان",
-			"iso_code": "IR-01"
+		"01": {
+			"name": "Gilan Province",
+			"local_name": "استان گیلان"
 		},
-		"Lorestan Province": {
-			"local_code": "استان لرستان",
-			"iso_code": "IR-15"
+		"15": {
+			"name": "Lorestan Province",
+			"local_name": "استان لرستان"
 		},
-		"Mazandaran Province": {
-			"local_code": "استان مازندران",
-			"iso_code": "IR-02"
+		"02": {
+			"name": "Mazandaran Province",
+			"local_name": "استان مازندران"
 		},
-		"Markazi Province": {
-			"local_code": "استان مرکزی",
-			"iso_code": "IR-00"
+		"00": {
+			"name": "Markazi Province",
+			"local_name": "استان مرکزی"
 		},
-		"Hormozgan Province": {
-			"local_code": "استان هرمزگان",
-			"iso_code": "IR-22"
+		"22": {
+			"name": "Hormozgan Province",
+			"local_name": "استان هرمزگان"
 		},
-		"Hamadan Province": {
-			"local_code": "استان همدان",
-			"iso_code": "IR-13"
+		"13": {
+			"name": "Hamadan Province",
+			"local_name": "استان همدان"
 		},
-		"Yazd Province": {
-			"local_code": "استان یزد",
-			"iso_code": "IR-21"
+		"21": {
+			"name": "Yazd Province",
+			"local_name": "استان یزد"
 		}
 	}
 }

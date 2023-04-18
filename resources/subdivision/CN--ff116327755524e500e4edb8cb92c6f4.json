@@ -1,0 +1,31 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"GS",
+		"Baiyin Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Baiyin Qu": {
+			"name": "Baiyin Qu",
+			"local_name": "白银区"
+		},
+		"Huining Xian": {
+			"name": "Huining Xian",
+			"local_name": "会宁县"
+		},
+		"Jingtai Xian": {
+			"name": "Jingtai Xian",
+			"local_name": "景泰县"
+		},
+		"Jingyuan Xian": {
+			"name": "Jingyuan Xian",
+			"local_name": "靖远县"
+		},
+		"Pingchuan Qu": {
+			"name": "Pingchuan Qu",
+			"local_name": "平川区"
+		}
+	}
+}

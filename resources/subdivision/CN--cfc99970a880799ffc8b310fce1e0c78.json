@@ -1,0 +1,59 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"TW",
+		"Taipei City"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Beitou District": {
+			"name": "Beitou District",
+			"local_name": "北投區"
+		},
+		"Da'an District": {
+			"name": "Da'an District",
+			"local_name": "大安區"
+		},
+		"Datong District": {
+			"name": "Datong District",
+			"local_name": "大同區"
+		},
+		"Nangang District": {
+			"name": "Nangang District",
+			"local_name": "南港區"
+		},
+		"Neihu District": {
+			"name": "Neihu District",
+			"local_name": "內湖區"
+		},
+		"Shilin District": {
+			"name": "Shilin District",
+			"local_name": "士林區"
+		},
+		"Songshan District": {
+			"name": "Songshan District",
+			"local_name": "松山區"
+		},
+		"Wanhua District": {
+			"name": "Wanhua District",
+			"local_name": "萬華區"
+		},
+		"Wenshan District": {
+			"name": "Wenshan District",
+			"local_name": "文山區"
+		},
+		"Xinyi District": {
+			"name": "Xinyi District",
+			"local_name": "信義區"
+		},
+		"Zhongshan District": {
+			"name": "Zhongshan District",
+			"local_name": "中山區"
+		},
+		"Zhongzheng District": {
+			"name": "Zhongzheng District",
+			"local_name": "中正區"
+		}
+	}
+}

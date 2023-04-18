@@ -1,0 +1,43 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"GD",
+		"Meizhou Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Dabu Xian": {
+			"name": "Dabu Xian",
+			"local_name": "大埔县"
+		},
+		"Fengshun Xian": {
+			"name": "Fengshun Xian",
+			"local_name": "丰顺县"
+		},
+		"Jiaoling Xian": {
+			"name": "Jiaoling Xian",
+			"local_name": "蕉岭县"
+		},
+		"Meijiang Qu": {
+			"name": "Meijiang Qu",
+			"local_name": "梅江区"
+		},
+		"Mei Xian": {
+			"name": "Mei Xian",
+			"local_name": "梅县"
+		},
+		"Pingyuan Xian": {
+			"name": "Pingyuan Xian",
+			"local_name": "平远县"
+		},
+		"Wuhua Xian": {
+			"name": "Wuhua Xian",
+			"local_name": "五华县"
+		},
+		"Xingning Shi": {
+			"name": "Xingning Shi",
+			"local_name": "兴宁市"
+		}
+	}
+}

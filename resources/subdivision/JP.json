@@ -2,193 +2,193 @@
 	"country_code": "JP",
 	"locale": "ja",
 	"subdivisions": {
-		"Hokkaido": {
-			"local_code": "北海道",
-			"iso_code": "JP-01"
+		"01": {
+			"name": "Hokkaido",
+			"local_name": "北海道"
 		},
-		"Aomori": {
-			"local_code": "青森県",
-			"iso_code": "JP-02"
+		"02": {
+			"name": "Aomori",
+			"local_name": "青森県"
 		},
-		"Iwate": {
-			"local_code": "岩手県",
-			"iso_code": "JP-03"
+		"03": {
+			"name": "Iwate",
+			"local_name": "岩手県"
 		},
-		"Miyagi": {
-			"local_code": "宮城県",
-			"iso_code": "JP-04"
+		"04": {
+			"name": "Miyagi",
+			"local_name": "宮城県"
 		},
-		"Akita": {
-			"local_code": "秋田県",
-			"iso_code": "JP-05"
+		"05": {
+			"name": "Akita",
+			"local_name": "秋田県"
 		},
-		"Yamagata": {
-			"local_code": "山形県",
-			"iso_code": "JP-06"
+		"06": {
+			"name": "Yamagata",
+			"local_name": "山形県"
 		},
-		"Fukushima": {
-			"local_code": "福島県",
-			"iso_code": "JP-07"
+		"07": {
+			"name": "Fukushima",
+			"local_name": "福島県"
 		},
-		"Ibaraki": {
-			"local_code": "茨城県",
-			"iso_code": "JP-08"
+		"08": {
+			"name": "Ibaraki",
+			"local_name": "茨城県"
 		},
-		"Tochigi": {
-			"local_code": "栃木県",
-			"iso_code": "JP-09"
+		"09": {
+			"name": "Tochigi",
+			"local_name": "栃木県"
 		},
-		"Gunma": {
-			"local_code": "群馬県",
-			"iso_code": "JP-10"
+		"10": {
+			"name": "Gunma",
+			"local_name": "群馬県"
 		},
-		"Saitama": {
-			"local_code": "埼玉県",
-			"iso_code": "JP-11"
+		"11": {
+			"name": "Saitama",
+			"local_name": "埼玉県"
 		},
-		"Chiba": {
-			"local_code": "千葉県",
-			"iso_code": "JP-12"
+		"12": {
+			"name": "Chiba",
+			"local_name": "千葉県"
 		},
-		"Tokyo": {
-			"local_code": "東京都",
-			"iso_code": "JP-13"
+		"13": {
+			"name": "Tokyo",
+			"local_name": "東京都"
 		},
-		"Kanagawa": {
-			"local_code": "神奈川県",
-			"iso_code": "JP-14"
+		"14": {
+			"name": "Kanagawa",
+			"local_name": "神奈川県"
 		},
-		"Niigata": {
-			"local_code": "新潟県",
-			"iso_code": "JP-15"
+		"15": {
+			"name": "Niigata",
+			"local_name": "新潟県"
 		},
-		"Toyama": {
-			"local_code": "富山県",
-			"iso_code": "JP-16"
+		"16": {
+			"name": "Toyama",
+			"local_name": "富山県"
 		},
-		"Ishikawa": {
-			"local_code": "石川県",
-			"iso_code": "JP-17"
+		"17": {
+			"name": "Ishikawa",
+			"local_name": "石川県"
 		},
-		"Fukui": {
-			"local_code": "福井県",
-			"iso_code": "JP-18"
+		"18": {
+			"name": "Fukui",
+			"local_name": "福井県"
 		},
-		"Yamanashi": {
-			"local_code": "山梨県",
-			"iso_code": "JP-19"
+		"19": {
+			"name": "Yamanashi",
+			"local_name": "山梨県"
 		},
-		"Nagano": {
-			"local_code": "長野県",
-			"iso_code": "JP-20"
+		"20": {
+			"name": "Nagano",
+			"local_name": "長野県"
 		},
-		"Gifu": {
-			"local_code": "岐阜県",
-			"iso_code": "JP-21"
+		"21": {
+			"name": "Gifu",
+			"local_name": "岐阜県"
 		},
-		"Shizuoka": {
-			"local_code": "静岡県",
-			"iso_code": "JP-22"
+		"22": {
+			"name": "Shizuoka",
+			"local_name": "静岡県"
 		},
-		"Aichi": {
-			"local_code": "愛知県",
-			"iso_code": "JP-23"
+		"23": {
+			"name": "Aichi",
+			"local_name": "愛知県"
 		},
-		"Mie": {
-			"local_code": "三重県",
-			"iso_code": "JP-24"
+		"24": {
+			"name": "Mie",
+			"local_name": "三重県"
 		},
-		"Shiga": {
-			"local_code": "滋賀県",
-			"iso_code": "JP-25"
+		"25": {
+			"name": "Shiga",
+			"local_name": "滋賀県"
 		},
-		"Kyoto": {
-			"local_code": "京都府",
-			"iso_code": "JP-26"
+		"26": {
+			"name": "Kyoto",
+			"local_name": "京都府"
 		},
-		"Osaka": {
-			"local_code": "大阪府",
-			"iso_code": "JP-27"
+		"27": {
+			"name": "Osaka",
+			"local_name": "大阪府"
 		},
-		"Hyogo": {
-			"local_code": "兵庫県",
-			"iso_code": "JP-28"
+		"28": {
+			"name": "Hyogo",
+			"local_name": "兵庫県"
 		},
-		"Nara": {
-			"local_code": "奈良県",
-			"iso_code": "JP-29"
+		"29": {
+			"name": "Nara",
+			"local_name": "奈良県"
 		},
-		"Wakayama": {
-			"local_code": "和歌山県",
-			"iso_code": "JP-30"
+		"30": {
+			"name": "Wakayama",
+			"local_name": "和歌山県"
 		},
-		"Tottori": {
-			"local_code": "鳥取県",
-			"iso_code": "JP-31"
+		"31": {
+			"name": "Tottori",
+			"local_name": "鳥取県"
 		},
-		"Shimane": {
-			"local_code": "島根県",
-			"iso_code": "JP-32"
+		"32": {
+			"name": "Shimane",
+			"local_name": "島根県"
 		},
-		"Okayama": {
-			"local_code": "岡山県",
-			"iso_code": "JP-33"
+		"33": {
+			"name": "Okayama",
+			"local_name": "岡山県"
 		},
-		"Hiroshima": {
-			"local_code": "広島県",
-			"iso_code": "JP-34"
+		"34": {
+			"name": "Hiroshima",
+			"local_name": "広島県"
 		},
-		"Yamaguchi": {
-			"local_code": "山口県",
-			"iso_code": "JP-35"
+		"35": {
+			"name": "Yamaguchi",
+			"local_name": "山口県"
 		},
-		"Tokushima": {
-			"local_code": "徳島県",
-			"iso_code": "JP-36"
+		"36": {
+			"name": "Tokushima",
+			"local_name": "徳島県"
 		},
-		"Kagawa": {
-			"local_code": "香川県",
-			"iso_code": "JP-37"
+		"37": {
+			"name": "Kagawa",
+			"local_name": "香川県"
 		},
-		"Ehime": {
-			"local_code": "愛媛県",
-			"iso_code": "JP-38"
+		"38": {
+			"name": "Ehime",
+			"local_name": "愛媛県"
 		},
-		"Kochi": {
-			"local_code": "高知県",
-			"iso_code": "JP-39"
+		"39": {
+			"name": "Kochi",
+			"local_name": "高知県"
 		},
-		"Fukuoka": {
-			"local_code": "福岡県",
-			"iso_code": "JP-40"
+		"40": {
+			"name": "Fukuoka",
+			"local_name": "福岡県"
 		},
-		"Saga": {
-			"local_code": "佐賀県",
-			"iso_code": "JP-41"
+		"41": {
+			"name": "Saga",
+			"local_name": "佐賀県"
 		},
-		"Nagasaki": {
-			"local_code": "長崎県",
-			"iso_code": "JP-42"
+		"42": {
+			"name": "Nagasaki",
+			"local_name": "長崎県"
 		},
-		"Kumamoto": {
-			"local_code": "熊本県",
-			"iso_code": "JP-43"
+		"43": {
+			"name": "Kumamoto",
+			"local_name": "熊本県"
 		},
-		"Oita": {
-			"local_code": "大分県",
-			"iso_code": "JP-44"
+		"44": {
+			"name": "Oita",
+			"local_name": "大分県"
 		},
-		"Miyazaki": {
-			"local_code": "宮崎県",
-			"iso_code": "JP-45"
+		"45": {
+			"name": "Miyazaki",
+			"local_name": "宮崎県"
 		},
-		"Kagoshima": {
-			"local_code": "鹿児島県",
-			"iso_code": "JP-46"
+		"46": {
+			"name": "Kagoshima",
+			"local_name": "鹿児島県"
 		},
-		"Okinawa": {
-			"local_code": "沖縄県",
-			"iso_code": "JP-47"
+		"47": {
+			"name": "Okinawa",
+			"local_name": "沖縄県"
 		}
 	}
 }

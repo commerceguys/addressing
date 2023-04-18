@@ -1,0 +1,39 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"JS",
+		"Changzhou Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Jintan Shi": {
+			"name": "Jintan Shi",
+			"local_name": "金坛市"
+		},
+		"Liyang Shi": {
+			"name": "Liyang Shi",
+			"local_name": "溧阳市"
+		},
+		"Qishuyan Qu": {
+			"name": "Qishuyan Qu",
+			"local_name": "戚墅堰区"
+		},
+		"Tianning Qu": {
+			"name": "Tianning Qu",
+			"local_name": "天宁区"
+		},
+		"Wujin Qu": {
+			"name": "Wujin Qu",
+			"local_name": "武进区"
+		},
+		"Xinbei Qu": {
+			"name": "Xinbei Qu",
+			"local_name": "新北区"
+		},
+		"Zhonglou Qu": {
+			"name": "Zhonglou Qu",
+			"local_name": "钟楼区"
+		}
+	}
+}

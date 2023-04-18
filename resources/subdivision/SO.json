@@ -1,77 +1,77 @@
 {
 	"country_code": "SO",
 	"subdivisions": {
-		"AD": {
-			"name": "Awdal",
-			"iso_code": "SO-AW"
+		"AW": {
+			"code": "AD",
+			"name": "Awdal"
 		},
 		"BK": {
-			"name": "Bakool",
-			"iso_code": "SO-BK"
+			"code": "BK",
+			"name": "Bakool"
 		},
 		"BN": {
-			"name": "Banaadir",
-			"iso_code": "SO-BN"
+			"code": "BN",
+			"name": "Banaadir"
 		},
 		"BR": {
-			"name": "Bari",
-			"iso_code": "SO-BR"
+			"code": "BR",
+			"name": "Bari"
 		},
 		"BY": {
-			"name": "Bay",
-			"iso_code": "SO-BY"
+			"code": "BY",
+			"name": "Bay"
 		},
-		"GG": {
-			"name": "Galguduud",
-			"iso_code": "SO-GA"
+		"GA": {
+			"code": "GG",
+			"name": "Galguduud"
 		},
-		"GD": {
-			"name": "Gedo",
-			"iso_code": "SO-GE"
+		"GE": {
+			"code": "GD",
+			"name": "Gedo"
 		},
-		"HR": {
-			"name": "Hiiraan",
-			"iso_code": "SO-HI"
+		"HI": {
+			"code": "HR",
+			"name": "Hiiraan"
 		},
 		"JD": {
-			"name": "Jubbada Dhexe",
-			"iso_code": "SO-JD"
+			"code": "JD",
+			"name": "Jubbada Dhexe"
 		},
 		"JH": {
-			"name": "Jubbada Hoose",
-			"iso_code": "SO-JH"
+			"code": "JH",
+			"name": "Jubbada Hoose"
 		},
-		"MD": {
-			"name": "Mudug",
-			"iso_code": "SO-MU"
+		"MU": {
+			"code": "MD",
+			"name": "Mudug"
 		},
-		"NG": {
-			"name": "Nugaal",
-			"iso_code": "SO-NU"
+		"NU": {
+			"code": "NG",
+			"name": "Nugaal"
 		},
-		"SG": {
-			"name": "Sanaag",
-			"iso_code": "SO-SA"
+		"SA": {
+			"code": "SG",
+			"name": "Sanaag"
 		},
 		"SD": {
-			"name": "Shabeellaha Dhexe",
-			"iso_code": "SO-SD"
+			"code": "SD",
+			"name": "Shabeellaha Dhexe"
 		},
 		"SH": {
-			"name": "Shabeellaha Hoose",
-			"iso_code": "SO-SH"
+			"code": "SH",
+			"name": "Shabeellaha Hoose"
 		},
-		"SL": {
-			"name": "Sool",
-			"iso_code": "SO-SO"
+		"SO": {
+			"code": "SL",
+			"name": "Sool"
 		},
-		"TG": {
-			"name": "Togdheer",
-			"iso_code": "SO-TO"
+		"TO": {
+			"code": "TG",
+			"name": "Togdheer"
 		},
-		"WG": {
-			"name": "Woqooyi Galbeed",
-			"iso_code": "SO-WO"
+		"WO": {
+			"code": "WG",
+			"name": "Woqooyi Galbeed"
 		}
 	}
 }

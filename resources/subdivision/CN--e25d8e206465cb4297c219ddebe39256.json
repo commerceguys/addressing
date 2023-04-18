@@ -1,0 +1,47 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"HN",
+		"Zhuzhou Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Chaling Xian": {
+			"name": "Chaling Xian",
+			"local_name": "茶陵县"
+		},
+		"Hetang Qu": {
+			"name": "Hetang Qu",
+			"local_name": "荷塘区"
+		},
+		"Liling Shi": {
+			"name": "Liling Shi",
+			"local_name": "醴陵市"
+		},
+		"Lusong Qu": {
+			"name": "Lusong Qu",
+			"local_name": "芦淞区"
+		},
+		"Shifeng Qu": {
+			"name": "Shifeng Qu",
+			"local_name": "石峰区"
+		},
+		"Tianyuan Qu": {
+			"name": "Tianyuan Qu",
+			"local_name": "天元区"
+		},
+		"Yanling Xian": {
+			"name": "Yanling Xian",
+			"local_name": "炎陵县"
+		},
+		"You Xian": {
+			"name": "You Xian",
+			"local_name": "攸县"
+		},
+		"Zhuzhou Xian": {
+			"name": "Zhuzhou Xian",
+			"local_name": "株洲县"
+		}
+	}
+}

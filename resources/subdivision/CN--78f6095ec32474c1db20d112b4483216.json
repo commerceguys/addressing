@@ -1,0 +1,59 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"SD",
+		"Weifang shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Anqiu Shi": {
+			"name": "Anqiu Shi",
+			"local_name": "安丘市"
+		},
+		"Changle Xian": {
+			"name": "Changle Xian",
+			"local_name": "昌乐县"
+		},
+		"Changyi Shi": {
+			"name": "Changyi Shi",
+			"local_name": "昌邑市"
+		},
+		"Fangzi Qu": {
+			"name": "Fangzi Qu",
+			"local_name": "坊子区"
+		},
+		"Gaomi Shi": {
+			"name": "Gaomi Shi",
+			"local_name": "高密市"
+		},
+		"Hanting Qu": {
+			"name": "Hanting Qu",
+			"local_name": "寒亭区"
+		},
+		"Kuiwen Qu": {
+			"name": "Kuiwen Qu",
+			"local_name": "奎文区"
+		},
+		"Linqu Xian": {
+			"name": "Linqu Xian",
+			"local_name": "临朐县"
+		},
+		"Qingzhou Shi": {
+			"name": "Qingzhou Shi",
+			"local_name": "青州市"
+		},
+		"Shouguang Shi": {
+			"name": "Shouguang Shi",
+			"local_name": "寿光市"
+		},
+		"Weicheng Qu": {
+			"name": "Weicheng Qu",
+			"local_name": "潍城区"
+		},
+		"Zhucheng Shi": {
+			"name": "Zhucheng Shi",
+			"local_name": "诸城市"
+		}
+	}
+}

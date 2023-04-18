@@ -1,0 +1,59 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"HA",
+		"Zhengzhou Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Dengfeng Shi": {
+			"name": "Dengfeng Shi",
+			"local_name": "登封市"
+		},
+		"Erqi Qu": {
+			"name": "Erqi Qu",
+			"local_name": "二七区"
+		},
+		"Gongyi Shi": {
+			"name": "Gongyi Shi",
+			"local_name": "巩义市"
+		},
+		"Guancheng Huizu Qu": {
+			"name": "Guancheng Huizu Qu",
+			"local_name": "管城回族区"
+		},
+		"Huiji Qu": {
+			"name": "Huiji Qu",
+			"local_name": "惠济区"
+		},
+		"Jinshui Qu": {
+			"name": "Jinshui Qu",
+			"local_name": "金水区"
+		},
+		"Shangjie Qu": {
+			"name": "Shangjie Qu",
+			"local_name": "上街区"
+		},
+		"Xinmi Shi": {
+			"name": "Xinmi Shi",
+			"local_name": "新密市"
+		},
+		"Xinzheng Shi": {
+			"name": "Xinzheng Shi",
+			"local_name": "新郑市"
+		},
+		"Xingyang Shi": {
+			"name": "Xingyang Shi",
+			"local_name": "荥阳市"
+		},
+		"Zhongmu Xian": {
+			"name": "Zhongmu Xian",
+			"local_name": "中牟县"
+		},
+		"Zhongyuan Qu": {
+			"name": "Zhongyuan Qu",
+			"local_name": "中原区"
+		}
+	}
+}

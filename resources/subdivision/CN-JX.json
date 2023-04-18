@@ -1,0 +1,65 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"JX"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Fuzhou Shi": {
+			"name": "Fuzhou Shi",
+			"local_name": "抚州市",
+			"has_children": true
+		},
+		"Ganzhou Shi": {
+			"name": "Ganzhou Shi",
+			"local_name": "赣州市",
+			"has_children": true
+		},
+		"Ji'an Shi": {
+			"name": "Ji'an Shi",
+			"local_name": "吉安市",
+			"has_children": true
+		},
+		"Jingdezhen Shi": {
+			"name": "Jingdezhen Shi",
+			"local_name": "景德镇市",
+			"has_children": true
+		},
+		"Jiujiang Shi": {
+			"name": "Jiujiang Shi",
+			"local_name": "九江市",
+			"has_children": true
+		},
+		"Nanchang Shi": {
+			"name": "Nanchang Shi",
+			"local_name": "南昌市",
+			"has_children": true
+		},
+		"Pingxiang Shi": {
+			"name": "Pingxiang Shi",
+			"local_name": "萍乡市",
+			"has_children": true
+		},
+		"Shangrao Shi": {
+			"name": "Shangrao Shi",
+			"local_name": "上饶市",
+			"has_children": true
+		},
+		"Xinyu Shi": {
+			"name": "Xinyu Shi",
+			"local_name": "新余市",
+			"has_children": true
+		},
+		"Yichun shi": {
+			"name": "Yichun shi",
+			"local_name": "宜春市",
+			"has_children": true
+		},
+		"Yingtan Shi": {
+			"name": "Yingtan Shi",
+			"local_name": "鹰潭市",
+			"has_children": true
+		}
+	}
+}

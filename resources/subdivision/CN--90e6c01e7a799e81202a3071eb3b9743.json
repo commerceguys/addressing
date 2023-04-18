@@ -1,0 +1,31 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"GD",
+		"Yunfu Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Luoding Shi": {
+			"name": "Luoding Shi",
+			"local_name": "罗定市"
+		},
+		"Xinxing Xian": {
+			"name": "Xinxing Xian",
+			"local_name": "新兴县"
+		},
+		"Yunan Xian": {
+			"name": "Yunan Xian",
+			"local_name": "郁南县"
+		},
+		"Yun'an Xian": {
+			"name": "Yun'an Xian",
+			"local_name": "云安县"
+		},
+		"Yuncheng Qu": {
+			"name": "Yuncheng Qu",
+			"local_name": "云城区"
+		}
+	}
+}

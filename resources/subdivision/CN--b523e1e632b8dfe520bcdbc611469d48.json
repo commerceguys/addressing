@@ -1,0 +1,55 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"NM",
+		"Ulanqab Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Qahar Youyi Houqi": {
+			"name": "Qahar Youyi Houqi",
+			"local_name": "察哈尔右翼后旗"
+		},
+		"Qahar Youyi Qianqi": {
+			"name": "Qahar Youyi Qianqi",
+			"local_name": "察哈尔右翼前旗"
+		},
+		"Qahar Youyi Zhongqi": {
+			"name": "Qahar Youyi Zhongqi",
+			"local_name": "察哈尔右翼中旗"
+		},
+		"Fengzhen Shi": {
+			"name": "Fengzhen Shi",
+			"local_name": "丰镇市"
+		},
+		"Huade Xian": {
+			"name": "Huade Xian",
+			"local_name": "化德县"
+		},
+		"Jining Qu": {
+			"name": "Jining Qu",
+			"local_name": "集宁区"
+		},
+		"Liangcheng Xian": {
+			"name": "Liangcheng Xian",
+			"local_name": "凉城县"
+		},
+		"Shangdu Xian": {
+			"name": "Shangdu Xian",
+			"local_name": "商都县"
+		},
+		"Dorbod Qi": {
+			"name": "Dorbod Qi",
+			"local_name": "四子王旗"
+		},
+		"Xinghe Xian": {
+			"name": "Xinghe Xian",
+			"local_name": "兴和县"
+		},
+		"Zhuozi Xian": {
+			"name": "Zhuozi Xian",
+			"local_name": "卓资县"
+		}
+	}
+}

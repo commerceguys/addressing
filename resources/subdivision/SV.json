@@ -1,54 +1,54 @@
 {
 	"country_code": "SV",
 	"subdivisions": {
-		"Ahuachapan": {
-			"name": "Ahuachapán",
-			"iso_code": "SV-AH"
+		"AH": {
+			"code": "Ahuachapan",
+			"name": "Ahuachapán"
 		},
-		"Cabanas": {
-			"name": "Cabañas",
-			"iso_code": "SV-CA"
+		"CA": {
+			"code": "Cabanas",
+			"name": "Cabañas"
 		},
-		"Calatenango": {
-			"name": "Chalatenango",
-			"iso_code": "SV-CH"
+		"CH": {
+			"code": "Calatenango",
+			"name": "Chalatenango"
 		},
-		"Cuscatlan": {
-			"name": "Cuscatlán",
-			"iso_code": "SV-CU"
+		"CU": {
+			"code": "Cuscatlan",
+			"name": "Cuscatlán"
 		},
-		"La Libertad": {
-			"iso_code": "SV-LI"
+		"LI": {
+			"name": "La Libertad"
 		},
-		"La Paz": {
-			"iso_code": "SV-PA"
+		"PA": {
+			"name": "La Paz"
 		},
-		"La Union": {
-			"name": "La Unión",
-			"iso_code": "SV-UN"
+		"UN": {
+			"code": "La Union",
+			"name": "La Unión"
 		},
-		"Morazan": {
-			"name": "Morazán",
-			"iso_code": "SV-MO"
+		"MO": {
+			"code": "Morazan",
+			"name": "Morazán"
 		},
-		"San Miguel": {
-			"iso_code": "SV-SM"
+		"SM": {
+			"name": "San Miguel"
 		},
-		"San Salvador": {
-			"iso_code": "SV-SS"
+		"SS": {
+			"name": "San Salvador"
 		},
-		"San Vicente": {
-			"iso_code": "SV-SV"
+		"SV": {
+			"name": "San Vicente"
 		},
-		"Santa Ana": {
-			"iso_code": "SV-SA"
+		"SA": {
+			"name": "Santa Ana"
 		},
-		"Sonsonate": {
-			"iso_code": "SV-SO"
+		"SO": {
+			"name": "Sonsonate"
 		},
-		"Usulutan": {
-			"name": "Usulután",
-			"iso_code": "SV-US"
+		"US": {
+			"code": "Usulutan",
+			"name": "Usulután"
 		}
 	}
 }

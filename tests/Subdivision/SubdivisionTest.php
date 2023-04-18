@@ -27,12 +27,12 @@ final class SubdivisionTest extends TestCase
      * @covers ::__construct
      * @covers ::getParent
      * @covers ::getCountryCode
+     * @covers ::getId
      * @covers ::getLocale
      * @covers ::getCode
      * @covers ::getLocalCode
      * @covers ::getName
      * @covers ::getLocalName
-     * @covers ::getIsoCode
      * @covers ::getPostalCodePattern
      * @covers ::getChildren
      * @covers ::hasChildren
@@ -47,12 +47,12 @@ final class SubdivisionTest extends TestCase
         $definition = [
             'parent' => $parent,
             'country_code' => 'US',
+            'id' => 'CA',
             'locale' => 'en',
             'code' => 'CA',
             'local_code' => 'CA!',
             'name' => 'California',
             'local_name' => 'California!',
-            'iso_code' => 'US-CA',
             'postal_code_pattern' => '9[0-5]|96[01]',
             'children' => $children,
         ];
@@ -60,12 +60,12 @@ final class SubdivisionTest extends TestCase
 
         $this->assertEquals($definition['parent'], $subdivision->getParent());
         $this->assertEquals($definition['country_code'], $subdivision->getCountryCode());
+        $this->assertEquals($definition['id'], $subdivision->getId());
         $this->assertEquals($definition['locale'], $subdivision->getLocale());
         $this->assertEquals($definition['code'], $subdivision->getCode());
         $this->assertEquals($definition['local_code'], $subdivision->getLocalCode());
         $this->assertEquals($definition['name'], $subdivision->getName());
         $this->assertEquals($definition['local_name'], $subdivision->getLocalName());
-        $this->assertEquals($definition['iso_code'], $subdivision->getIsoCode());
         $this->assertEquals($definition['postal_code_pattern'], $subdivision->getPostalCodePattern());
         $this->assertEquals($definition['children'], $subdivision->getChildren());
         $this->assertTrue($subdivision->hasChildren());

@@ -1,0 +1,27 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"GZ",
+		"Liupanshui Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Liuzhi Tequ": {
+			"name": "Liuzhi Tequ",
+			"local_name": "六枝特区"
+		},
+		"Pan Xian": {
+			"name": "Pan Xian",
+			"local_name": "盘县"
+		},
+		"Shuicheng Xian": {
+			"name": "Shuicheng Xian",
+			"local_name": "水城县"
+		},
+		"Zhongshan Qu": {
+			"name": "Zhongshan Qu",
+			"local_name": "钟山区"
+		}
+	}
+}

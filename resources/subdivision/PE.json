@@ -1,83 +1,83 @@
 {
 	"country_code": "PE",
 	"subdivisions": {
-		"Amazonas": {
-			"iso_code": "PE-AMA"
+		"AMA": {
+			"name": "Amazonas"
 		},
-		"Áncash": {
-			"iso_code": "PE-ANC"
+		"ANC": {
+			"name": "Áncash"
 		},
-		"Apurímac": {
-			"iso_code": "PE-APU"
+		"APU": {
+			"name": "Apurímac"
 		},
-		"Arequipa": {
-			"iso_code": "PE-ARE"
+		"ARE": {
+			"name": "Arequipa"
 		},
-		"Ayacucho": {
-			"iso_code": "PE-AYA"
+		"AYA": {
+			"name": "Ayacucho"
 		},
-		"Cajamarca": {
-			"iso_code": "PE-CAJ"
+		"CAJ": {
+			"name": "Cajamarca"
 		},
-		"Callao": {
-			"iso_code": "PE-CAL"
+		"CAL": {
+			"name": "Callao"
 		},
-		"Cuzco": {
-			"iso_code": "PE-CUS"
+		"CUS": {
+			"name": "Cuzco"
 		},
-		"Gobierno Regional de Lima": {
-			"iso_code": "PE-LIM"
+		"LIM": {
+			"name": "Gobierno Regional de Lima"
 		},
-		"Huancavelica": {
-			"iso_code": "PE-HUV"
+		"HUV": {
+			"name": "Huancavelica"
 		},
-		"Huánuco": {
-			"iso_code": "PE-HUC"
+		"HUC": {
+			"name": "Huánuco"
 		},
-		"Ica": {
-			"iso_code": "PE-ICA"
+		"ICA": {
+			"name": "Ica"
 		},
-		"Junín": {
-			"iso_code": "PE-JUN"
+		"JUN": {
+			"name": "Junín"
 		},
-		"La Libertad": {
-			"iso_code": "PE-LAL"
+		"LAL": {
+			"name": "La Libertad"
 		},
-		"Lambayeque": {
-			"iso_code": "PE-LAM"
+		"LAM": {
+			"name": "Lambayeque"
 		},
-		"Loreto": {
-			"iso_code": "PE-LOR"
+		"LOR": {
+			"name": "Loreto"
 		},
-		"Madre de Dios": {
-			"iso_code": "PE-MDD"
+		"MDD": {
+			"name": "Madre de Dios"
 		},
-		"Moquegua": {
-			"iso_code": "PE-MOQ"
+		"MOQ": {
+			"name": "Moquegua"
 		},
-		"Municipalidad Metropolitana de Lima": {
-			"iso_code": "PE-LMA"
+		"LMA": {
+			"name": "Municipalidad Metropolitana de Lima"
 		},
-		"Pasco": {
-			"iso_code": "PE-PAS"
+		"PAS": {
+			"name": "Pasco"
 		},
-		"Piura": {
-			"iso_code": "PE-PIU"
+		"PIU": {
+			"name": "Piura"
 		},
-		"Puno": {
-			"iso_code": "PE-PUN"
+		"PUN": {
+			"name": "Puno"
 		},
-		"San Martín": {
-			"iso_code": "PE-SAM"
+		"SAM": {
+			"name": "San Martín"
 		},
-		"Tacna": {
-			"iso_code": "PE-TAC"
+		"TAC": {
+			"name": "Tacna"
 		},
-		"Tumbes": {
-			"iso_code": "PE-TUM"
+		"TUM": {
+			"name": "Tumbes"
 		},
-		"Ucayali": {
-			"iso_code": "PE-UCA"
+		"UCA": {
+			"name": "Ucayali"
 		}
 	}
 }

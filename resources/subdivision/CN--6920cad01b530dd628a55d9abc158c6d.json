@@ -1,0 +1,35 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"GD",
+		"Heyuan Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Dongyuan Xian": {
+			"name": "Dongyuan Xian",
+			"local_name": "东源县"
+		},
+		"Heping Xian": {
+			"name": "Heping Xian",
+			"local_name": "和平县"
+		},
+		"Lianping Xian": {
+			"name": "Lianping Xian",
+			"local_name": "连平县"
+		},
+		"Longchuan Xian": {
+			"name": "Longchuan Xian",
+			"local_name": "龙川县"
+		},
+		"Yuancheng Qu": {
+			"name": "Yuancheng Qu",
+			"local_name": "源城区"
+		},
+		"Zijin Xian": {
+			"name": "Zijin Xian",
+			"local_name": "紫金县"
+		}
+	}
+}

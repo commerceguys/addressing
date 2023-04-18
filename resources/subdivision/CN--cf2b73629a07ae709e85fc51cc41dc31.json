@@ -1,0 +1,27 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"GX",
+		"Qinzhou Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Lingshan Xian": {
+			"name": "Lingshan Xian",
+			"local_name": "灵山县"
+		},
+		"Pubei Xian": {
+			"name": "Pubei Xian",
+			"local_name": "浦北县"
+		},
+		"Qinbei Qu": {
+			"name": "Qinbei Qu",
+			"local_name": "钦北区"
+		},
+		"Qinnan Qu": {
+			"name": "Qinnan Qu",
+			"local_name": "钦南区"
+		}
+	}
+}

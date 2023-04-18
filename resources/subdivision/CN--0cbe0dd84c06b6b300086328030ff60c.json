@@ -1,0 +1,39 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"GS",
+		"Dingxi Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Anding Qu": {
+			"name": "Anding Qu",
+			"local_name": "安定区"
+		},
+		"Lintao Xian": {
+			"name": "Lintao Xian",
+			"local_name": "临洮县"
+		},
+		"Longxi Xian": {
+			"name": "Longxi Xian",
+			"local_name": "陇西县"
+		},
+		"Min Xian": {
+			"name": "Min Xian",
+			"local_name": "岷县"
+		},
+		"Tongwei Xian": {
+			"name": "Tongwei Xian",
+			"local_name": "通渭县"
+		},
+		"Weiyuan Xian": {
+			"name": "Weiyuan Xian",
+			"local_name": "渭源县"
+		},
+		"Zhang Xian": {
+			"name": "Zhang Xian",
+			"local_name": "漳县"
+		}
+	}
+}

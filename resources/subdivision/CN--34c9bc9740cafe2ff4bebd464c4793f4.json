@@ -1,0 +1,41 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"QH",
+		"Xining Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Chengbei Qu": {
+			"name": "Chengbei Qu",
+			"local_name": "城北区"
+		},
+		"Chengdong Qu": {
+			"name": "Chengdong Qu",
+			"local_name": "城东区"
+		},
+		"Chengxi Qu": {
+			"name": "Chengxi Qu",
+			"local_name": "城西区"
+		},
+		"Chengzhong Qu": {
+			"name": "Chengzhong Qu",
+			"local_name": "城中区"
+		},
+		"Datong Xian": {
+			"code": "Datong Xian",
+			"local_code": "大通回族土族自治县",
+			"name": "Datong Xian",
+			"local_name": "大通县"
+		},
+		"Huangyuan Xian": {
+			"name": "Huangyuan Xian",
+			"local_name": "湟源县"
+		},
+		"Huangzhong Xian": {
+			"name": "Huangzhong Xian",
+			"local_name": "湟中县"
+		}
+	}
+}

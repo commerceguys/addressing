@@ -1,0 +1,63 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"SX",
+		"Yuncheng Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Hejin Shi": {
+			"name": "Hejin Shi",
+			"local_name": "河津市"
+		},
+		"Jishan Xian": {
+			"name": "Jishan Xian",
+			"local_name": "稷山县"
+		},
+		"Jiang Xian": {
+			"name": "Jiang Xian",
+			"local_name": "绛县"
+		},
+		"Linyi Xian": {
+			"name": "Linyi Xian",
+			"local_name": "临猗县"
+		},
+		"Pinglu Xian": {
+			"name": "Pinglu Xian",
+			"local_name": "平陆县"
+		},
+		"Ruicheng Xian": {
+			"name": "Ruicheng Xian",
+			"local_name": "芮城县"
+		},
+		"Wanrong Xian": {
+			"name": "Wanrong Xian",
+			"local_name": "万荣县"
+		},
+		"Wenxi Xian": {
+			"name": "Wenxi Xian",
+			"local_name": "闻喜县"
+		},
+		"Xia Xian": {
+			"name": "Xia Xian",
+			"local_name": "夏县"
+		},
+		"Xinjiang Xian": {
+			"name": "Xinjiang Xian",
+			"local_name": "新绛县"
+		},
+		"Yanhu Qu": {
+			"name": "Yanhu Qu",
+			"local_name": "盐湖区"
+		},
+		"Yongji Shi": {
+			"name": "Yongji Shi",
+			"local_name": "永济市"
+		},
+		"Yuanqu Xian": {
+			"name": "Yuanqu Xian",
+			"local_name": "垣曲县"
+		}
+	}
+}

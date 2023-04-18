@@ -1,0 +1,38 @@
+{
+	"country_code": "TW",
+	"parents": [
+		"TW",
+		"KEE"
+	],
+	"locale": "zh-Hant",
+	"subdivisions": {
+		"Qidu District": {
+			"name": "Qidu District",
+			"local_name": "七堵區"
+		},
+		"Zhongshan District": {
+			"name": "Zhongshan District",
+			"local_name": "中山區"
+		},
+		"Zhongzheng District": {
+			"name": "Zhongzheng District",
+			"local_name": "中正區"
+		},
+		"Ren'ai District": {
+			"name": "Ren'ai District",
+			"local_name": "仁愛區"
+		},
+		"Anle District": {
+			"name": "Anle District",
+			"local_name": "安樂區"
+		},
+		"Xinyi District": {
+			"name": "Xinyi District",
+			"local_name": "信義區"
+		},
+		"Nuannuan District": {
+			"name": "Nuannuan District",
+			"local_name": "暖暖區"
+		}
+	}
+}

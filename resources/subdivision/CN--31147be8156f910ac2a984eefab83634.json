@@ -1,0 +1,31 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"GD",
+		"Huizhou Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Boluo Xian": {
+			"name": "Boluo Xian",
+			"local_name": "博罗县"
+		},
+		"Huicheng Qu": {
+			"name": "Huicheng Qu",
+			"local_name": "惠城区"
+		},
+		"Huidong Xian": {
+			"name": "Huidong Xian",
+			"local_name": "惠东县"
+		},
+		"Huiyang Qu": {
+			"name": "Huiyang Qu",
+			"local_name": "惠阳区"
+		},
+		"Longmen Xian": {
+			"name": "Longmen Xian",
+			"local_name": "龙门县"
+		}
+	}
+}

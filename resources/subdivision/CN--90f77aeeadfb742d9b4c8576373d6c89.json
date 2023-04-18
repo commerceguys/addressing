@@ -1,0 +1,55 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"SN",
+		"Weinan Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Baishui Xian": {
+			"name": "Baishui Xian",
+			"local_name": "白水县"
+		},
+		"Chengcheng Xian": {
+			"name": "Chengcheng Xian",
+			"local_name": "澄城县"
+		},
+		"Dali Xian": {
+			"name": "Dali Xian",
+			"local_name": "大荔县"
+		},
+		"Fuping Xian": {
+			"name": "Fuping Xian",
+			"local_name": "富平县"
+		},
+		"Hancheng Shi": {
+			"name": "Hancheng Shi",
+			"local_name": "韩城市"
+		},
+		"Heyang Xian": {
+			"name": "Heyang Xian",
+			"local_name": "合阳县"
+		},
+		"Hua Xian": {
+			"name": "Hua Xian",
+			"local_name": "华县"
+		},
+		"Huayin Shi": {
+			"name": "Huayin Shi",
+			"local_name": "华阴市"
+		},
+		"Linwei Qu": {
+			"name": "Linwei Qu",
+			"local_name": "临渭区"
+		},
+		"Pucheng Xian": {
+			"name": "Pucheng Xian",
+			"local_name": "蒲城县"
+		},
+		"Tongguan Xian": {
+			"name": "Tongguan Xian",
+			"local_name": "潼关县"
+		}
+	}
+}

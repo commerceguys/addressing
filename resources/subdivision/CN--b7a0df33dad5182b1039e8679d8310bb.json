@@ -1,0 +1,41 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"XJ",
+		"Tacheng Diqu"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Emin Xian": {
+			"name": "Emin Xian",
+			"local_name": "额敏县"
+		},
+		"Hoboksar Xian": {
+			"code": "Hoboksar Xian",
+			"local_code": "和布克赛尔蒙古自治县",
+			"name": "Hoboksar Xian",
+			"local_name": "和布克赛尔县"
+		},
+		"Shawan Xian": {
+			"name": "Shawan Xian",
+			"local_name": "沙湾县"
+		},
+		"Tachung Shi": {
+			"name": "Tachung Shi",
+			"local_name": "塔城市"
+		},
+		"Toli Xian": {
+			"name": "Toli Xian",
+			"local_name": "托里县"
+		},
+		"Usu Shi": {
+			"name": "Usu Shi",
+			"local_name": "乌苏市"
+		},
+		"Yumin Xian": {
+			"name": "Yumin Xian",
+			"local_name": "裕民县"
+		}
+	}
+}

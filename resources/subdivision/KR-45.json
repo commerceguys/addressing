@@ -1,0 +1,67 @@
+{
+	"country_code": "KR",
+	"parents": [
+		"KR",
+		"45"
+	],
+	"locale": "ko",
+	"subdivisions": {
+		"Gochang-gun": {
+			"name": "Gochang-gun",
+			"local_name": "고창군"
+		},
+		"Gunsan-si": {
+			"name": "Gunsan-si",
+			"local_name": "군산시"
+		},
+		"Gimje-si": {
+			"name": "Gimje-si",
+			"local_name": "김제시"
+		},
+		"Namwon-si": {
+			"name": "Namwon-si",
+			"local_name": "남원시"
+		},
+		"Muju-gun": {
+			"name": "Muju-gun",
+			"local_name": "무주군"
+		},
+		"Buan-gun": {
+			"name": "Buan-gun",
+			"local_name": "부안군"
+		},
+		"Sunchang-gun": {
+			"name": "Sunchang-gun",
+			"local_name": "순창군"
+		},
+		"Wanju-gun": {
+			"name": "Wanju-gun",
+			"local_name": "완주군"
+		},
+		"Iksan-si": {
+			"name": "Iksan-si",
+			"local_name": "익산시"
+		},
+		"Imsil-gun": {
+			"name": "Imsil-gun",
+			"local_name": "임실군"
+		},
+		"Jangsu-gun": {
+			"name": "Jangsu-gun",
+			"local_name": "장수군"
+		},
+		"Jeonju-si": {
+			"name": "Jeonju-si",
+			"local_name": "전주시",
+			"has_children": true
+		},
+		"Jeongeup-si": {
+			"name": "Jeongeup-si",
+			"local_name": "정읍시"
+		},
+		"Jinan-gun": {
+			"name": "Jinan-gun",
+			"local_name": "진안군"
+		}
+	}
+}

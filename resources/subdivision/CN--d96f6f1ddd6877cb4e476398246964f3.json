@@ -1,0 +1,61 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"HE",
+		"Chengde Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Chengde Xian": {
+			"name": "Chengde Xian",
+			"local_name": "承德县"
+		},
+		"Fengning Xian": {
+			"code": "Fengning Xian",
+			"local_code": "丰宁满族自治县",
+			"name": "Fengning Xian",
+			"local_name": "丰宁县"
+		},
+		"Kuancheng Xian": {
+			"code": "Kuancheng Xian",
+			"local_code": "宽城满族自治县",
+			"name": "Kuancheng Xian",
+			"local_name": "宽城县"
+		},
+		"Longhua Xian": {
+			"name": "Longhua Xian",
+			"local_name": "隆化县"
+		},
+		"Luanping Xian": {
+			"name": "Luanping Xian",
+			"local_name": "滦平县"
+		},
+		"Pingquan Xian": {
+			"name": "Pingquan Xian",
+			"local_name": "平泉县"
+		},
+		"Shuangluan Qu": {
+			"name": "Shuangluan Qu",
+			"local_name": "双滦区"
+		},
+		"Shuangqiao Qu": {
+			"name": "Shuangqiao Qu",
+			"local_name": "双桥区"
+		},
+		"Weichang Xian": {
+			"code": "Weichang Xian",
+			"local_code": "围场满族蒙古族自治县",
+			"name": "Weichang Xian",
+			"local_name": "围场县"
+		},
+		"Xinglong Xian": {
+			"name": "Xinglong Xian",
+			"local_name": "兴隆县"
+		},
+		"Yingshouyingzi Kuangqu": {
+			"name": "Yingshouyingzi Kuangqu",
+			"local_name": "鹰手营子矿区"
+		}
+	}
+}

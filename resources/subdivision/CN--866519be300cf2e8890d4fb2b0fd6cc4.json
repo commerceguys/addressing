@@ -1,0 +1,47 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"JL",
+		"Jilin Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Changyi Qu": {
+			"name": "Changyi Qu",
+			"local_name": "昌邑区"
+		},
+		"Chuanying Qu": {
+			"name": "Chuanying Qu",
+			"local_name": "船营区"
+		},
+		"Fengman Qu": {
+			"name": "Fengman Qu",
+			"local_name": "丰满区"
+		},
+		"Huadian Shi": {
+			"name": "Huadian Shi",
+			"local_name": "桦甸市"
+		},
+		"Jiaohe Shi": {
+			"name": "Jiaohe Shi",
+			"local_name": "蛟河市"
+		},
+		"Longtan Qu": {
+			"name": "Longtan Qu",
+			"local_name": "龙潭区"
+		},
+		"Panshi Shi": {
+			"name": "Panshi Shi",
+			"local_name": "磐石市"
+		},
+		"Shulan Shi": {
+			"name": "Shulan Shi",
+			"local_name": "舒兰市"
+		},
+		"Yongji Xian": {
+			"name": "Yongji Xian",
+			"local_name": "永吉县"
+		}
+	}
+}

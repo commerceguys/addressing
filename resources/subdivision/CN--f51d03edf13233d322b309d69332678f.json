@@ -1,0 +1,47 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"ZJ",
+		"Jinhua Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Dongyang Shi": {
+			"name": "Dongyang Shi",
+			"local_name": "东阳市"
+		},
+		"Jindong Qu": {
+			"name": "Jindong Qu",
+			"local_name": "金东区"
+		},
+		"Lanxi Shi": {
+			"name": "Lanxi Shi",
+			"local_name": "兰溪市"
+		},
+		"Pan'an Xian": {
+			"name": "Pan'an Xian",
+			"local_name": "磐安县"
+		},
+		"Pujiang Xian": {
+			"name": "Pujiang Xian",
+			"local_name": "浦江县"
+		},
+		"Wuyi Xian": {
+			"name": "Wuyi Xian",
+			"local_name": "武义县"
+		},
+		"Wucheng Qu": {
+			"name": "Wucheng Qu",
+			"local_name": "婺城区"
+		},
+		"Yiwu Shi": {
+			"name": "Yiwu Shi",
+			"local_name": "义乌市"
+		},
+		"Yongkang Shi": {
+			"name": "Yongkang Shi",
+			"local_name": "永康市"
+		}
+	}
+}

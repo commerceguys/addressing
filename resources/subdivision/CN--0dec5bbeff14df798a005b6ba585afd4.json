@@ -1,0 +1,43 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"JL",
+		"Yanbian Zhou"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Antu Xian": {
+			"name": "Antu Xian",
+			"local_name": "安图县"
+		},
+		"Dunhua Shi": {
+			"name": "Dunhua Shi",
+			"local_name": "敦化市"
+		},
+		"Helong Shi": {
+			"name": "Helong Shi",
+			"local_name": "和龙市"
+		},
+		"Hunchun Shi": {
+			"name": "Hunchun Shi",
+			"local_name": "珲春市"
+		},
+		"Longjing Shi": {
+			"name": "Longjing Shi",
+			"local_name": "龙井市"
+		},
+		"Tumen Shi": {
+			"name": "Tumen Shi",
+			"local_name": "图们市"
+		},
+		"Wangqing Xian": {
+			"name": "Wangqing Xian",
+			"local_name": "汪清县"
+		},
+		"Yanji Shi": {
+			"name": "Yanji Shi",
+			"local_name": "延吉市"
+		}
+	}
+}

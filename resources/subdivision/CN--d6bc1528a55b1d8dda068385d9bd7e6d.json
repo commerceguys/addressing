@@ -1,0 +1,47 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"SC",
+		"Nanchong Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Gaoping Qu": {
+			"name": "Gaoping Qu",
+			"local_name": "高坪区"
+		},
+		"Jialing Qu": {
+			"name": "Jialing Qu",
+			"local_name": "嘉陵区"
+		},
+		"Langzhong Shi": {
+			"name": "Langzhong Shi",
+			"local_name": "阆中市"
+		},
+		"Nanbu Xian": {
+			"name": "Nanbu Xian",
+			"local_name": "南部县"
+		},
+		"Peng'an Xian": {
+			"name": "Peng'an Xian",
+			"local_name": "蓬安县"
+		},
+		"Shunqing Qu": {
+			"name": "Shunqing Qu",
+			"local_name": "顺庆区"
+		},
+		"Xichong Xian": {
+			"name": "Xichong Xian",
+			"local_name": "西充县"
+		},
+		"Yilong Xian": {
+			"name": "Yilong Xian",
+			"local_name": "仪陇县"
+		},
+		"Yingshan Xian": {
+			"name": "Yingshan Xian",
+			"local_name": "营山县"
+		}
+	}
+}

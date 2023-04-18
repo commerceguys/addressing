@@ -1,0 +1,43 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"XJ",
+		"Ürümqi Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Dabancheng Qu": {
+			"name": "Dabancheng Qu",
+			"local_name": "达坂城区"
+		},
+		"Midong Qu": {
+			"name": "Midong Qu",
+			"local_name": "米东区"
+		},
+		"Saybagh Qu": {
+			"name": "Saybagh Qu",
+			"local_name": "沙依巴克区"
+		},
+		"Shuimogou Qu": {
+			"name": "Shuimogou Qu",
+			"local_name": "水磨沟区"
+		},
+		"Tianshan Qu": {
+			"name": "Tianshan Qu",
+			"local_name": "天山区"
+		},
+		"Toutunhe Qu": {
+			"name": "Toutunhe Qu",
+			"local_name": "头屯河区"
+		},
+		"Ürümqi Xian": {
+			"name": "Ürümqi Xian",
+			"local_name": "乌鲁木齐县"
+		},
+		"Xinshi Qu": {
+			"name": "Xinshi Qu",
+			"local_name": "新市区"
+		}
+	}
+}

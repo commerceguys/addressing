@@ -1,101 +1,101 @@
 {
 	"country_code": "BS",
 	"subdivisions": {
-		"Acklins": {
-			"iso_code": "BS-AK"
+		"AK": {
+			"name": "Acklins"
 		},
-		"Berry Islands": {
-			"iso_code": "BS-BY"
+		"BY": {
+			"name": "Berry Islands"
 		},
-		"Bimini": {
-			"iso_code": "BS-BI"
+		"BI": {
+			"name": "Bimini"
 		},
-		"Black Point": {
-			"iso_code": "BS-BP"
+		"BP": {
+			"name": "Black Point"
 		},
-		"Cat Island": {
-			"iso_code": "BS-CI"
+		"CI": {
+			"name": "Cat Island"
 		},
-		"Central Abaco": {
-			"iso_code": "BS-CO"
+		"CO": {
+			"name": "Central Abaco"
 		},
-		"Central Andros": {
-			"iso_code": "BS-CS"
+		"CS": {
+			"name": "Central Andros"
 		},
-		"Central Eleuthera": {
-			"iso_code": "BS-CE"
+		"CE": {
+			"name": "Central Eleuthera"
 		},
-		"City of Freeport": {
-			"iso_code": "BS-FP"
+		"FP": {
+			"name": "City of Freeport"
 		},
-		"Crooked Island and Long Cay": {
-			"iso_code": "BS-CK"
+		"CK": {
+			"name": "Crooked Island and Long Cay"
 		},
-		"East Grand Bahama": {
-			"iso_code": "BS-EG"
+		"EG": {
+			"name": "East Grand Bahama"
 		},
-		"Exuma": {
-			"iso_code": "BS-EX"
+		"EX": {
+			"name": "Exuma"
 		},
-		"Grand Cay": {
-			"iso_code": "BS-GC"
+		"GC": {
+			"name": "Grand Cay"
 		},
-		"Harbour Island": {
-			"iso_code": "BS-HI"
+		"HI": {
+			"name": "Harbour Island"
 		},
-		"Hope Town": {
-			"iso_code": "BS-HT"
+		"HT": {
+			"name": "Hope Town"
 		},
-		"Inagua": {
-			"iso_code": "BS-IN"
+		"IN": {
+			"name": "Inagua"
 		},
-		"Long Island": {
-			"iso_code": "BS-LI"
+		"LI": {
+			"name": "Long Island"
 		},
-		"Mangrove Cay": {
-			"iso_code": "BS-MC"
+		"MC": {
+			"name": "Mangrove Cay"
 		},
-		"Mayaguana": {
-			"iso_code": "BS-MG"
+		"MG": {
+			"name": "Mayaguana"
 		},
-		"Moore's Island": {
-			"iso_code": "BS-MI"
+		"MI": {
+			"name": "Moore's Island"
 		},
-		"New Providence": {
-			"iso_code": "BS-NP"
+		"NP": {
+			"name": "New Providence"
 		},
-		"North Abaco": {
-			"iso_code": "BS-NO"
+		"NO": {
+			"name": "North Abaco"
 		},
-		"North Andros": {
-			"iso_code": "BS-NS"
+		"NS": {
+			"name": "North Andros"
 		},
-		"North Eleuthera": {
-			"iso_code": "BS-NE"
+		"NE": {
+			"name": "North Eleuthera"
 		},
-		"Ragged Island": {
-			"iso_code": "BS-RI"
+		"RI": {
+			"name": "Ragged Island"
 		},
-		"Rum Cay": {
-			"iso_code": "BS-RC"
+		"RC": {
+			"name": "Rum Cay"
 		},
-		"San Salvador": {
-			"iso_code": "BS-SS"
+		"SS": {
+			"name": "San Salvador"
 		},
-		"South Abaco": {
-			"iso_code": "BS-SO"
+		"SO": {
+			"name": "South Abaco"
 		},
-		"South Andros": {
-			"iso_code": "BS-SA"
+		"SA": {
+			"name": "South Andros"
 		},
-		"South Eleuthera": {
-			"iso_code": "BS-SE"
+		"SE": {
+			"name": "South Eleuthera"
 		},
-		"Spanish Wells": {
-			"iso_code": "BS-SW"
+		"SW": {
+			"name": "Spanish Wells"
 		},
-		"West Grand Bahama": {
-			"iso_code": "BS-WG"
+		"WG": {
+			"name": "West Grand Bahama"
 		}
 	}
 }

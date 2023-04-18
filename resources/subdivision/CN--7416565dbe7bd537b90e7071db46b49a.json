@@ -1,0 +1,87 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"SC",
+		"Chengdu Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Chenghua Qu": {
+			"name": "Chenghua Qu",
+			"local_name": "成华区"
+		},
+		"Chongzhou Shi": {
+			"name": "Chongzhou Shi",
+			"local_name": "崇州市"
+		},
+		"Dayi Xian": {
+			"name": "Dayi Xian",
+			"local_name": "大邑县"
+		},
+		"Dujiangyan Shi": {
+			"name": "Dujiangyan Shi",
+			"local_name": "都江堰市"
+		},
+		"Jinniu Qu": {
+			"name": "Jinniu Qu",
+			"local_name": "金牛区"
+		},
+		"Jintang Xian": {
+			"name": "Jintang Xian",
+			"local_name": "金堂县"
+		},
+		"Jinjiang Qu": {
+			"name": "Jinjiang Qu",
+			"local_name": "锦江区"
+		},
+		"Longquanyi Qu": {
+			"name": "Longquanyi Qu",
+			"local_name": "龙泉驿区"
+		},
+		"Pengzhou Shi": {
+			"name": "Pengzhou Shi",
+			"local_name": "彭州市"
+		},
+		"Pi Xian": {
+			"name": "Pi Xian",
+			"local_name": "郫县"
+		},
+		"Pujiang Xian": {
+			"name": "Pujiang Xian",
+			"local_name": "蒲江县"
+		},
+		"Qingbaijiang Qu": {
+			"name": "Qingbaijiang Qu",
+			"local_name": "青白江区"
+		},
+		"Qingyang Qu": {
+			"name": "Qingyang Qu",
+			"local_name": "青羊区"
+		},
+		"Qionglai Shi": {
+			"name": "Qionglai Shi",
+			"local_name": "邛崃市"
+		},
+		"Shuangliu Xian": {
+			"name": "Shuangliu Xian",
+			"local_name": "双流县"
+		},
+		"Wenjiang Qu": {
+			"name": "Wenjiang Qu",
+			"local_name": "温江区"
+		},
+		"Wuhou Qu": {
+			"name": "Wuhou Qu",
+			"local_name": "武侯区"
+		},
+		"Xindu Qu": {
+			"name": "Xindu Qu",
+			"local_name": "新都区"
+		},
+		"Xinjin Xian": {
+			"name": "Xinjin Xian",
+			"local_name": "新津县"
+		}
+	}
+}

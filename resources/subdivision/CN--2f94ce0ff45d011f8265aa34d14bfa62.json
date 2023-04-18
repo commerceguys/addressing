@@ -1,0 +1,39 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"AH",
+		"Lu'an Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Huoqiu Xian": {
+			"name": "Huoqiu Xian",
+			"local_name": "霍邱县"
+		},
+		"Huoshan Xian": {
+			"name": "Huoshan Xian",
+			"local_name": "霍山县"
+		},
+		"Jin'an Qu": {
+			"name": "Jin'an Qu",
+			"local_name": "金安区"
+		},
+		"Jinzhai Xian": {
+			"name": "Jinzhai Xian",
+			"local_name": "金寨县"
+		},
+		"Shou Xian": {
+			"name": "Shou Xian",
+			"local_name": "寿县"
+		},
+		"Shucheng Xian": {
+			"name": "Shucheng Xian",
+			"local_name": "舒城县"
+		},
+		"Yu'an Qu": {
+			"name": "Yu'an Qu",
+			"local_name": "裕安区"
+		}
+	}
+}

@@ -1,0 +1,35 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"TW",
+		"Kinmen County"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Jincheng Township": {
+			"name": "Jincheng Township",
+			"local_name": "金城鎮"
+		},
+		"Jinhu Township": {
+			"name": "Jinhu Township",
+			"local_name": "金湖鎮"
+		},
+		"Jinning Township": {
+			"name": "Jinning Township",
+			"local_name": "金寧鄉"
+		},
+		"Jinsha Township": {
+			"name": "Jinsha Township",
+			"local_name": "金沙鎮"
+		},
+		"Lieyu Township": {
+			"name": "Lieyu Township",
+			"local_name": "烈嶼鄉"
+		},
+		"Wuqiu Township": {
+			"name": "Wuqiu Township",
+			"local_name": "烏坵鄉"
+		}
+	}
+}

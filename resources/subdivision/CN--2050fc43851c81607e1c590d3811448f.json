@@ -1,0 +1,55 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"SX",
+		"Jinzhong Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Heshun Xian": {
+			"name": "Heshun Xian",
+			"local_name": "和顺县"
+		},
+		"Jiexiu Shi": {
+			"name": "Jiexiu Shi",
+			"local_name": "介休市"
+		},
+		"Lingshi Xian": {
+			"name": "Lingshi Xian",
+			"local_name": "灵石县"
+		},
+		"Pingyao Xian": {
+			"name": "Pingyao Xian",
+			"local_name": "平遥县"
+		},
+		"Qi Xian": {
+			"name": "Qi Xian",
+			"local_name": "祁县"
+		},
+		"Shouyang Xian": {
+			"name": "Shouyang Xian",
+			"local_name": "寿阳县"
+		},
+		"Taigu Xian": {
+			"name": "Taigu Xian",
+			"local_name": "太谷县"
+		},
+		"Xiyang Xian": {
+			"name": "Xiyang Xian",
+			"local_name": "昔阳县"
+		},
+		"Yuci Qu": {
+			"name": "Yuci Qu",
+			"local_name": "榆次区"
+		},
+		"Yushe Xian": {
+			"name": "Yushe Xian",
+			"local_name": "榆社县"
+		},
+		"Zuoquan Xian": {
+			"name": "Zuoquan Xian",
+			"local_name": "左权县"
+		}
+	}
+}

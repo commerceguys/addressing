@@ -1,0 +1,74 @@
+{
+	"country_code": "KR",
+	"parents": [
+		"KR",
+		"26"
+	],
+	"locale": "ko",
+	"subdivisions": {
+		"Gangseo-gu": {
+			"name": "Gangseo-gu",
+			"local_name": "강서구"
+		},
+		"Geumjeong-gu": {
+			"name": "Geumjeong-gu",
+			"local_name": "금정구"
+		},
+		"Gijang-gun": {
+			"name": "Gijang-gun",
+			"local_name": "기장군"
+		},
+		"Nam-gu": {
+			"name": "Nam-gu",
+			"local_name": "남구"
+		},
+		"Dong-gu": {
+			"name": "Dong-gu",
+			"local_name": "동구"
+		},
+		"Dongnae-gu": {
+			"name": "Dongnae-gu",
+			"local_name": "동래구"
+		},
+		"Busanjin-gu": {
+			"name": "Busanjin-gu",
+			"local_name": "부산진구"
+		},
+		"Buk-gu": {
+			"name": "Buk-gu",
+			"local_name": "북구"
+		},
+		"Sasang-gu": {
+			"name": "Sasang-gu",
+			"local_name": "사상구"
+		},
+		"Saha-gu": {
+			"name": "Saha-gu",
+			"local_name": "사하구"
+		},
+		"Seo-gu": {
+			"name": "Seo-gu",
+			"local_name": "서구"
+		},
+		"Suyeong-gu": {
+			"name": "Suyeong-gu",
+			"local_name": "수영구"
+		},
+		"Yeonje-gu": {
+			"name": "Yeonje-gu",
+			"local_name": "연제구"
+		},
+		"Yeongdo-gu": {
+			"name": "Yeongdo-gu",
+			"local_name": "영도구"
+		},
+		"Jung-gu": {
+			"name": "Jung-gu",
+			"local_name": "중구"
+		},
+		"Haeundae-gu": {
+			"name": "Haeundae-gu",
+			"local_name": "해운대구"
+		}
+	}
+}

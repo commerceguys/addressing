@@ -1,116 +1,116 @@
 {
 	"country_code": "IN",
 	"subdivisions": {
-		"Andaman and Nicobar Islands": {
-			"name": "Andaman & Nicobar",
-			"iso_code": "IN-AN"
+		"AN": {
+			"code": "Andaman and Nicobar Islands",
+			"name": "Andaman & Nicobar"
 		},
-		"Andhra Pradesh": {
-			"iso_code": "IN-AP"
+		"AP": {
+			"name": "Andhra Pradesh"
 		},
-		"Arunachal Pradesh": {
-			"iso_code": "IN-AR"
+		"AR": {
+			"name": "Arunachal Pradesh"
 		},
-		"Assam": {
-			"iso_code": "IN-AS"
+		"AS": {
+			"name": "Assam"
 		},
-		"Bihar": {
-			"iso_code": "IN-BR"
+		"BR": {
+			"name": "Bihar"
 		},
-		"Chandigarh": {
-			"iso_code": "IN-CH"
+		"CH": {
+			"name": "Chandigarh"
 		},
-		"Chhattisgarh": {
-			"iso_code": "IN-CT"
+		"CT": {
+			"name": "Chhattisgarh"
 		},
-		"Dadra and Nagar Haveli and Daman and Diu": {
-			"name": "Dadra & Nagar Haveli & Daman & Diu",
-			"iso_code": "IN-DH"
+		"DH": {
+			"code": "Dadra and Nagar Haveli and Daman and Diu",
+			"name": "Dadra & Nagar Haveli & Daman & Diu"
 		},
-		"Delhi": {
-			"iso_code": "IN-DL"
+		"DL": {
+			"name": "Delhi"
 		},
-		"Goa": {
-			"iso_code": "IN-GA"
+		"GA": {
+			"name": "Goa"
 		},
-		"Gujarat": {
-			"iso_code": "IN-GJ"
+		"GJ": {
+			"name": "Gujarat"
 		},
-		"Haryana": {
-			"iso_code": "IN-HR"
+		"HR": {
+			"name": "Haryana"
 		},
-		"Himachal Pradesh": {
-			"iso_code": "IN-HP"
+		"HP": {
+			"name": "Himachal Pradesh"
 		},
-		"Jammu and Kashmir": {
-			"name": "Jammu & Kashmir",
-			"iso_code": "IN-JK"
+		"JK": {
+			"code": "Jammu and Kashmir",
+			"name": "Jammu & Kashmir"
 		},
-		"Jharkhand": {
-			"iso_code": "IN-JH"
+		"JH": {
+			"name": "Jharkhand"
 		},
-		"Karnataka": {
-			"iso_code": "IN-KA"
+		"KA": {
+			"name": "Karnataka"
 		},
-		"Kerala": {
-			"iso_code": "IN-KL"
+		"KL": {
+			"name": "Kerala"
 		},
-		"Ladakh": {
-			"iso_code": "IN-LA"
+		"LA": {
+			"name": "Ladakh"
 		},
-		"Lakshadweep": {
-			"iso_code": "IN-LD"
+		"LD": {
+			"name": "Lakshadweep"
 		},
-		"Madhya Pradesh": {
-			"iso_code": "IN-MP"
+		"MP": {
+			"name": "Madhya Pradesh"
 		},
-		"Maharashtra": {
-			"iso_code": "IN-MH"
+		"MH": {
+			"name": "Maharashtra"
 		},
-		"Manipur": {
-			"iso_code": "IN-MN"
+		"MN": {
+			"name": "Manipur"
 		},
-		"Meghalaya": {
-			"iso_code": "IN-ML"
+		"ML": {
+			"name": "Meghalaya"
 		},
-		"Mizoram": {
-			"iso_code": "IN-MZ"
+		"MZ": {
+			"name": "Mizoram"
 		},
-		"Nagaland": {
-			"iso_code": "IN-NL"
+		"NL": {
+			"name": "Nagaland"
 		},
-		"Odisha": {
-			"iso_code": "IN-OR"
+		"OR": {
+			"name": "Odisha"
 		},
-		"Puducherry": {
-			"iso_code": "IN-PY"
+		"PY": {
+			"name": "Puducherry"
 		},
-		"Punjab": {
-			"iso_code": "IN-PB"
+		"PB": {
+			"name": "Punjab"
 		},
-		"Rajasthan": {
-			"iso_code": "IN-RJ"
+		"RJ": {
+			"name": "Rajasthan"
 		},
-		"Sikkim": {
-			"iso_code": "IN-SK"
+		"SK": {
+			"name": "Sikkim"
 		},
-		"Tamil Nadu": {
-			"iso_code": "IN-TN"
+		"TN": {
+			"name": "Tamil Nadu"
 		},
-		"Telangana": {
-			"iso_code": "IN-TG"
+		"TG": {
+			"name": "Telangana"
 		},
-		"Tripura": {
-			"iso_code": "IN-TR"
+		"TR": {
+			"name": "Tripura"
 		},
-		"Uttar Pradesh": {
-			"iso_code": "IN-UP"
+		"UP": {
+			"name": "Uttar Pradesh"
 		},
-		"Uttarakhand": {
-			"iso_code": "IN-UT"
+		"UT": {
+			"name": "Uttarakhand"
 		},
-		"West Bengal": {
-			"iso_code": "IN-WB"
+		"WB": {
+			"name": "West Bengal"
 		}
 	}
 }

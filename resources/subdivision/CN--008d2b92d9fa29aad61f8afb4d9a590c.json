@@ -1,0 +1,43 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"HL",
+		"Hegang Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Dongshan Qu": {
+			"name": "Dongshan Qu",
+			"local_name": "东山区"
+		},
+		"Gongnong Qu": {
+			"name": "Gongnong Qu",
+			"local_name": "工农区"
+		},
+		"Luobei Xian": {
+			"name": "Luobei Xian",
+			"local_name": "萝北县"
+		},
+		"Nanshan Qu": {
+			"name": "Nanshan Qu",
+			"local_name": "南山区"
+		},
+		"Suibin Xian": {
+			"name": "Suibin Xian",
+			"local_name": "绥滨县"
+		},
+		"Xiangyang Qu": {
+			"name": "Xiangyang Qu",
+			"local_name": "向阳区"
+		},
+		"Xing'an Qu": {
+			"name": "Xing'an Qu",
+			"local_name": "兴安区"
+		},
+		"Xingshan Qu": {
+			"name": "Xingshan Qu",
+			"local_name": "兴山区"
+		}
+	}
+}

@@ -1,0 +1,59 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"XZ",
+		"Shannan Diqu"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Comai Xian": {
+			"name": "Comai Xian",
+			"local_name": "措美县"
+		},
+		"Cona Xian": {
+			"name": "Cona Xian",
+			"local_name": "错那县"
+		},
+		"Gonggar Xian": {
+			"name": "Gonggar Xian",
+			"local_name": "贡嘎县"
+		},
+		"Gyaca Xian": {
+			"name": "Gyaca Xian",
+			"local_name": "加查县"
+		},
+		"Nagarzê Xian": {
+			"name": "Nagarzê Xian",
+			"local_name": "浪卡子县"
+		},
+		"Lhünzê Xian": {
+			"name": "Lhünzê Xian",
+			"local_name": "隆子县"
+		},
+		"Lhozhag Xian": {
+			"name": "Lhozhag Xian",
+			"local_name": "洛扎县"
+		},
+		"Nêdong Xian": {
+			"name": "Nêdong Xian",
+			"local_name": "乃东县"
+		},
+		"Qonggyai Xian": {
+			"name": "Qonggyai Xian",
+			"local_name": "琼结县"
+		},
+		"Qusum Xian": {
+			"name": "Qusum Xian",
+			"local_name": "曲松县"
+		},
+		"Sangri Xian": {
+			"name": "Sangri Xian",
+			"local_name": "桑日县"
+		},
+		"Zhanang Xian": {
+			"name": "Zhanang Xian",
+			"local_name": "扎囊县"
+		}
+	}
+}

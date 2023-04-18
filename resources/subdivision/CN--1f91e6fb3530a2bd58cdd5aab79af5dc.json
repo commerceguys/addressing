@@ -1,0 +1,55 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"JS",
+		"Xuzhou Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Feng Xian": {
+			"name": "Feng Xian",
+			"local_name": "丰县"
+		},
+		"Gulou Qu": {
+			"name": "Gulou Qu",
+			"local_name": "鼓楼区"
+		},
+		"Jiawang Qu": {
+			"name": "Jiawang Qu",
+			"local_name": "贾汪区"
+		},
+		"Jiuli Qu": {
+			"name": "Jiuli Qu",
+			"local_name": "九里区"
+		},
+		"Pei Xian": {
+			"name": "Pei Xian",
+			"local_name": "沛县"
+		},
+		"Pizhou Shi": {
+			"name": "Pizhou Shi",
+			"local_name": "邳州市"
+		},
+		"Quanshan Qu": {
+			"name": "Quanshan Qu",
+			"local_name": "泉山区"
+		},
+		"Suining Xian": {
+			"name": "Suining Xian",
+			"local_name": "睢宁县"
+		},
+		"Tongshan Xian": {
+			"name": "Tongshan Xian",
+			"local_name": "铜山县"
+		},
+		"Xinyi Shi": {
+			"name": "Xinyi Shi",
+			"local_name": "新沂市"
+		},
+		"Yunlong Qu": {
+			"name": "Yunlong Qu",
+			"local_name": "云龙区"
+		}
+	}
+}

@@ -1,0 +1,27 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"SC",
+		"Bazhong Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Bazhou Qu": {
+			"name": "Bazhou Qu",
+			"local_name": "巴州区"
+		},
+		"Nanjiang Xian": {
+			"name": "Nanjiang Xian",
+			"local_name": "南江县"
+		},
+		"Pingchang Xian": {
+			"name": "Pingchang Xian",
+			"local_name": "平昌县"
+		},
+		"Tongjiang Xian": {
+			"name": "Tongjiang Xian",
+			"local_name": "通江县"
+		}
+	}
+}

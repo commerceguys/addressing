@@ -1,0 +1,51 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"HL",
+		"Suihua Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Anda Shi": {
+			"name": "Anda Shi",
+			"local_name": "安达市"
+		},
+		"Beilin Qu": {
+			"name": "Beilin Qu",
+			"local_name": "北林区"
+		},
+		"Hailun Shi": {
+			"name": "Hailun Shi",
+			"local_name": "海伦市"
+		},
+		"Lanxi Xian": {
+			"name": "Lanxi Xian",
+			"local_name": "兰西县"
+		},
+		"Mingshui Xian": {
+			"name": "Mingshui Xian",
+			"local_name": "明水县"
+		},
+		"Qinggang Xian": {
+			"name": "Qinggang Xian",
+			"local_name": "青冈县"
+		},
+		"Qing'an Xian": {
+			"name": "Qing'an Xian",
+			"local_name": "庆安县"
+		},
+		"Suileng Xian": {
+			"name": "Suileng Xian",
+			"local_name": "绥棱县"
+		},
+		"Wangkui Xian": {
+			"name": "Wangkui Xian",
+			"local_name": "望奎县"
+		},
+		"Zhaodong Shi": {
+			"name": "Zhaodong Shi",
+			"local_name": "肇东市"
+		}
+	}
+}

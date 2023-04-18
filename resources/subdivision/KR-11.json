@@ -1,0 +1,110 @@
+{
+	"country_code": "KR",
+	"parents": [
+		"KR",
+		"11"
+	],
+	"locale": "ko",
+	"subdivisions": {
+		"Gangnam-gu": {
+			"name": "Gangnam-gu",
+			"local_name": "강남구"
+		},
+		"Gangdong-gu": {
+			"name": "Gangdong-gu",
+			"local_name": "강동구"
+		},
+		"Gangbuk-gu": {
+			"name": "Gangbuk-gu",
+			"local_name": "강북구"
+		},
+		"Gangseo-gu": {
+			"name": "Gangseo-gu",
+			"local_name": "강서구"
+		},
+		"Gwanak-gu": {
+			"name": "Gwanak-gu",
+			"local_name": "관악구"
+		},
+		"Gwangjin-gu": {
+			"name": "Gwangjin-gu",
+			"local_name": "광진구"
+		},
+		"Guro-gu": {
+			"name": "Guro-gu",
+			"local_name": "구로구"
+		},
+		"Geumcheon-gu": {
+			"name": "Geumcheon-gu",
+			"local_name": "금천구"
+		},
+		"Nowon-gu": {
+			"name": "Nowon-gu",
+			"local_name": "노원구"
+		},
+		"Dobong-gu": {
+			"name": "Dobong-gu",
+			"local_name": "도봉구"
+		},
+		"Dongdaemun-gu": {
+			"name": "Dongdaemun-gu",
+			"local_name": "동대문구"
+		},
+		"Dongjak-gu": {
+			"name": "Dongjak-gu",
+			"local_name": "동작구"
+		},
+		"Mapo-gu": {
+			"name": "Mapo-gu",
+			"local_name": "마포구"
+		},
+		"Seodaemun-gu": {
+			"name": "Seodaemun-gu",
+			"local_name": "서대문구"
+		},
+		"Seocho-gu": {
+			"name": "Seocho-gu",
+			"local_name": "서초구"
+		},
+		"Seongdong-gu": {
+			"name": "Seongdong-gu",
+			"local_name": "성동구"
+		},
+		"Seongbuk-gu": {
+			"name": "Seongbuk-gu",
+			"local_name": "성북구"
+		},
+		"Songpa-gu": {
+			"name": "Songpa-gu",
+			"local_name": "송파구"
+		},
+		"Yangcheon-gu": {
+			"name": "Yangcheon-gu",
+			"local_name": "양천구"
+		},
+		"Yeongdeungpo-gu": {
+			"name": "Yeongdeungpo-gu",
+			"local_name": "영등포구"
+		},
+		"Yongsan-gu": {
+			"name": "Yongsan-gu",
+			"local_name": "용산구"
+		},
+		"Eunpyeong-gu": {
+			"name": "Eunpyeong-gu",
+			"local_name": "은평구"
+		},
+		"Jongno-gu": {
+			"name": "Jongno-gu",
+			"local_name": "종로구"
+		},
+		"Jung-gu": {
+			"name": "Jung-gu",
+			"local_name": "중구"
+		},
+		"Jungnang-gu": {
+			"name": "Jungnang-gu",
+			"local_name": "중랑구"
+		}
+	}
+}

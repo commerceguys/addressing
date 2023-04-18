@@ -1,0 +1,31 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"HB",
+		"Jingmen Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Dongbao Qu": {
+			"name": "Dongbao Qu",
+			"local_name": "东宝区"
+		},
+		"Duodao Qu": {
+			"name": "Duodao Qu",
+			"local_name": "掇刀区"
+		},
+		"Jingshan Xian": {
+			"name": "Jingshan Xian",
+			"local_name": "京山县"
+		},
+		"Shayang Xian": {
+			"name": "Shayang Xian",
+			"local_name": "沙洋县"
+		},
+		"Zhongxiang Shi": {
+			"name": "Zhongxiang Shi",
+			"local_name": "钟祥市"
+		}
+	}
+}

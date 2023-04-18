@@ -2,141 +2,141 @@
 	"country_code": "ID",
 	"locale": "id",
 	"subdivisions": {
-		"Aceh": {
-			"local_code": "Aceh",
-			"iso_code": "ID-AC"
+		"AC": {
+			"name": "Aceh",
+			"local_name": "Aceh"
 		},
-		"Bali": {
-			"local_code": "Bali",
-			"iso_code": "ID-BA"
+		"BA": {
+			"name": "Bali",
+			"local_name": "Bali"
 		},
-		"Banten": {
-			"local_code": "Banten",
-			"iso_code": "ID-BT"
+		"BT": {
+			"name": "Banten",
+			"local_name": "Banten"
 		},
-		"Bengkulu": {
-			"local_code": "Bengkulu",
-			"iso_code": "ID-BE"
+		"BE": {
+			"name": "Bengkulu",
+			"local_name": "Bengkulu"
 		},
-		"Special Region of Yogyakarta": {
-			"local_code": "Daerah Istimewa Yogyakarta",
-			"iso_code": "ID-YO"
+		"YO": {
+			"name": "Special Region of Yogyakarta",
+			"local_name": "Daerah Istimewa Yogyakarta"
 		},
-		"Jakarta": {
-			"local_code": "DKI Jakarta",
-			"iso_code": "ID-JK"
+		"JK": {
+			"name": "Jakarta",
+			"local_name": "DKI Jakarta"
 		},
-		"Gorontalo": {
-			"local_code": "Gorontalo",
-			"iso_code": "ID-GO"
+		"GO": {
+			"name": "Gorontalo",
+			"local_name": "Gorontalo"
 		},
-		"Jambi": {
-			"local_code": "Jambi",
-			"iso_code": "ID-JA"
+		"JA": {
+			"name": "Jambi",
+			"local_name": "Jambi"
 		},
-		"West Java": {
-			"local_code": "Jawa Barat",
-			"iso_code": "ID-JB"
+		"JB": {
+			"name": "West Java",
+			"local_name": "Jawa Barat"
 		},
-		"Central Java": {
-			"local_code": "Jawa Tengah",
-			"iso_code": "ID-JT"
+		"JT": {
+			"name": "Central Java",
+			"local_name": "Jawa Tengah"
 		},
-		"East Java": {
-			"local_code": "Jawa Timur",
-			"iso_code": "ID-JI"
+		"JI": {
+			"name": "East Java",
+			"local_name": "Jawa Timur"
 		},
-		"West Kalimantan": {
-			"local_code": "Kalimantan Barat",
-			"iso_code": "ID-KB"
+		"KB": {
+			"name": "West Kalimantan",
+			"local_name": "Kalimantan Barat"
 		},
-		"South Kalimantan": {
-			"local_code": "Kalimantan Selatan",
-			"iso_code": "ID-KS"
+		"KS": {
+			"name": "South Kalimantan",
+			"local_name": "Kalimantan Selatan"
 		},
-		"Central Kalimantan": {
-			"local_code": "Kalimantan Tengah",
-			"iso_code": "ID-KT"
+		"KT": {
+			"name": "Central Kalimantan",
+			"local_name": "Kalimantan Tengah"
 		},
-		"East Kalimantan": {
-			"local_code": "Kalimantan Timur",
-			"iso_code": "ID-KI"
+		"KI": {
+			"name": "East Kalimantan",
+			"local_name": "Kalimantan Timur"
 		},
-		"North Kalimantan": {
-			"local_code": "Kalimantan Utara",
-			"iso_code": "ID-KU"
+		"KU": {
+			"name": "North Kalimantan",
+			"local_name": "Kalimantan Utara"
 		},
-		"Bangka Belitung Islands": {
-			"local_code": "Kepulauan Bangka Belitung",
-			"iso_code": "ID-BB"
+		"BB": {
+			"name": "Bangka Belitung Islands",
+			"local_name": "Kepulauan Bangka Belitung"
 		},
-		"Riau Islands": {
-			"local_code": "Kepulauan Riau",
-			"iso_code": "ID-KR"
+		"KR": {
+			"name": "Riau Islands",
+			"local_name": "Kepulauan Riau"
 		},
-		"Lampung": {
-			"local_code": "Lampung",
-			"iso_code": "ID-LA"
+		"LA": {
+			"name": "Lampung",
+			"local_name": "Lampung"
 		},
-		"Maluku": {
-			"local_code": "Maluku",
-			"iso_code": "ID-MA"
+		"MA": {
+			"name": "Maluku",
+			"local_name": "Maluku"
 		},
-		"North Maluku": {
-			"local_code": "Maluku Utara",
-			"iso_code": "ID-MU"
+		"MU": {
+			"name": "North Maluku",
+			"local_name": "Maluku Utara"
 		},
-		"West Nusa Tenggara": {
-			"local_code": "Nusa Tenggara Barat",
-			"iso_code": "ID-NB"
+		"NB": {
+			"name": "West Nusa Tenggara",
+			"local_name": "Nusa Tenggara Barat"
 		},
-		"East Nusa Tenggara": {
-			"local_code": "Nusa Tenggara Timur",
-			"iso_code": "ID-NT"
+		"NT": {
+			"name": "East Nusa Tenggara",
+			"local_name": "Nusa Tenggara Timur"
 		},
-		"Papua": {
-			"local_code": "Papua",
-			"iso_code": "ID-PA"
+		"PA": {
+			"name": "Papua",
+			"local_name": "Papua"
 		},
-		"West Papua": {
-			"local_code": "Papua Barat",
-			"iso_code": "ID-PB"
+		"PB": {
+			"name": "West Papua",
+			"local_name": "Papua Barat"
 		},
-		"Riau": {
-			"local_code": "Riau",
-			"iso_code": "ID-RI"
+		"RI": {
+			"name": "Riau",
+			"local_name": "Riau"
 		},
-		"West Sulawesi": {
-			"local_code": "Sulawesi Barat",
-			"iso_code": "ID-SR"
+		"SR": {
+			"name": "West Sulawesi",
+			"local_name": "Sulawesi Barat"
 		},
-		"South Sulawesi": {
-			"local_code": "Sulawesi Selatan",
-			"iso_code": "ID-SN"
+		"SN": {
+			"name": "South Sulawesi",
+			"local_name": "Sulawesi Selatan"
 		},
-		"Central Sulawesi": {
-			"local_code": "Sulawesi Tengah",
-			"iso_code": "ID-ST"
+		"ST": {
+			"name": "Central Sulawesi",
+			"local_name": "Sulawesi Tengah"
 		},
-		"South East Sulawesi": {
-			"local_code": "Sulawesi Tenggara",
-			"iso_code": "ID-SG"
+		"SG": {
+			"name": "South East Sulawesi",
+			"local_name": "Sulawesi Tenggara"
 		},
-		"North Sulawesi": {
-			"local_code": "Sulawesi Utara",
-			"iso_code": "ID-SA"
+		"SA": {
+			"name": "North Sulawesi",
+			"local_name": "Sulawesi Utara"
 		},
-		"West Sumatra": {
-			"local_code": "Sumatera Barat",
-			"iso_code": "ID-SB"
+		"SB": {
+			"name": "West Sumatra",
+			"local_name": "Sumatera Barat"
 		},
-		"South Sumatra": {
-			"local_code": "Sumatera Selatan",
-			"iso_code": "ID-SS"
+		"SS": {
+			"name": "South Sumatra",
+			"local_name": "Sumatera Selatan"
 		},
-		"North Sumatra": {
-			"local_code": "Sumatera Utara",
-			"iso_code": "ID-SU"
+		"SU": {
+			"name": "North Sumatra",
+			"local_name": "Sumatera Utara"
 		}
 	}
 }

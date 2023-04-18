@@ -1,133 +1,133 @@
 {
 	"country_code": "MX",
 	"subdivisions": {
-		"Ags.": {
-			"name": "Aguascalientes",
-			"iso_code": "MX-AGU"
+		"AGU": {
+			"code": "Ags.",
+			"name": "Aguascalientes"
 		},
-		"B.C.": {
-			"name": "Baja California",
-			"iso_code": "MX-BCN"
+		"BCN": {
+			"code": "B.C.",
+			"name": "Baja California"
 		},
-		"B.C.S.": {
-			"name": "Baja California Sur",
-			"iso_code": "MX-BCS"
+		"BCS": {
+			"code": "B.C.S.",
+			"name": "Baja California Sur"
 		},
-		"Camp.": {
-			"name": "Campeche",
-			"iso_code": "MX-CAM"
+		"CAM": {
+			"code": "Camp.",
+			"name": "Campeche"
 		},
-		"Chis.": {
-			"name": "Chiapas",
-			"iso_code": "MX-CHP"
+		"CHP": {
+			"code": "Chis.",
+			"name": "Chiapas"
 		},
-		"Chih.": {
-			"name": "Chihuahua",
-			"iso_code": "MX-CHH"
+		"CHH": {
+			"code": "Chih.",
+			"name": "Chihuahua"
 		},
-		"CDMX": {
-			"name": "Ciudad de México",
-			"iso_code": "MX-CMX"
+		"CMX": {
+			"code": "CDMX",
+			"name": "Ciudad de México"
 		},
-		"Coah.": {
-			"name": "Coahuila de Zaragoza",
-			"iso_code": "MX-COA"
+		"COA": {
+			"code": "Coah.",
+			"name": "Coahuila de Zaragoza"
 		},
-		"Col.": {
-			"name": "Colima",
-			"iso_code": "MX-COL"
+		"COL": {
+			"code": "Col.",
+			"name": "Colima"
 		},
-		"Dgo.": {
-			"name": "Durango",
-			"iso_code": "MX-DUR"
+		"DUR": {
+			"code": "Dgo.",
+			"name": "Durango"
 		},
-		"Méx.": {
-			"name": "Estado de México",
-			"iso_code": "MX-MEX"
+		"MEX": {
+			"code": "Méx.",
+			"name": "Estado de México"
 		},
-		"Gto.": {
-			"name": "Guanajuato",
-			"iso_code": "MX-GUA"
+		"GUA": {
+			"code": "Gto.",
+			"name": "Guanajuato"
 		},
-		"Gro.": {
-			"name": "Guerrero",
-			"iso_code": "MX-GRO"
+		"GRO": {
+			"code": "Gro.",
+			"name": "Guerrero"
 		},
-		"Hgo.": {
-			"name": "Hidalgo",
-			"iso_code": "MX-HID"
+		"HID": {
+			"code": "Hgo.",
+			"name": "Hidalgo"
 		},
-		"Jal.": {
-			"name": "Jalisco",
-			"iso_code": "MX-JAL"
+		"JAL": {
+			"code": "Jal.",
+			"name": "Jalisco"
 		},
-		"Mich.": {
-			"name": "Michoacán",
-			"iso_code": "MX-MIC"
+		"MIC": {
+			"code": "Mich.",
+			"name": "Michoacán"
 		},
-		"Mor.": {
-			"name": "Morelos",
-			"iso_code": "MX-MOR"
+		"MOR": {
+			"code": "Mor.",
+			"name": "Morelos"
 		},
-		"Nay.": {
-			"name": "Nayarit",
-			"iso_code": "MX-NAY"
+		"NAY": {
+			"code": "Nay.",
+			"name": "Nayarit"
 		},
-		"N.L.": {
-			"name": "Nuevo León",
-			"iso_code": "MX-NLE"
+		"NLE": {
+			"code": "N.L.",
+			"name": "Nuevo León"
 		},
-		"Oax.": {
-			"name": "Oaxaca",
-			"iso_code": "MX-OAX"
+		"OAX": {
+			"code": "Oax.",
+			"name": "Oaxaca"
 		},
-		"Pue.": {
-			"name": "Puebla",
-			"iso_code": "MX-PUE"
+		"PUE": {
+			"code": "Pue.",
+			"name": "Puebla"
 		},
-		"Qro.": {
-			"name": "Querétaro",
-			"iso_code": "MX-QUE"
+		"QUE": {
+			"code": "Qro.",
+			"name": "Querétaro"
 		},
-		"Q.R.": {
-			"name": "Quintana Roo",
-			"iso_code": "MX-ROO"
+		"ROO": {
+			"code": "Q.R.",
+			"name": "Quintana Roo"
 		},
-		"S.L.P.": {
-			"name": "San Luis Potosí",
-			"iso_code": "MX-SLP"
+		"SLP": {
+			"code": "S.L.P.",
+			"name": "San Luis Potosí"
 		},
-		"Sin.": {
-			"name": "Sinaloa",
-			"iso_code": "MX-SIN"
+		"SIN": {
+			"code": "Sin.",
+			"name": "Sinaloa"
 		},
-		"Son.": {
-			"name": "Sonora",
-			"iso_code": "MX-SON"
+		"SON": {
+			"code": "Son.",
+			"name": "Sonora"
 		},
-		"Tab.": {
-			"name": "Tabasco",
-			"iso_code": "MX-TAB"
+		"TAB": {
+			"code": "Tab.",
+			"name": "Tabasco"
 		},
-		"Tamps.": {
-			"name": "Tamaulipas",
-			"iso_code": "MX-TAM"
+		"TAM": {
+			"code": "Tamps.",
+			"name": "Tamaulipas"
 		},
-		"Tlax.": {
-			"name": "Tlaxcala",
-			"iso_code": "MX-TLA"
+		"TLA": {
+			"code": "Tlax.",
+			"name": "Tlaxcala"
 		},
-		"Ver.": {
-			"name": "Veracruz",
-			"iso_code": "MX-VER"
+		"VER": {
+			"code": "Ver.",
+			"name": "Veracruz"
 		},
-		"Yuc.": {
-			"name": "Yucatán",
-			"iso_code": "MX-YUC"
+		"YUC": {
+			"code": "Yuc.",
+			"name": "Yucatán"
 		},
-		"Zac.": {
-			"name": "Zacatecas",
-			"iso_code": "MX-ZAC"
+		"ZAC": {
+			"code": "Zac.",
+			"name": "Zacatecas"
 		}
 	}
 }

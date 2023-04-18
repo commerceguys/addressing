@@ -1,0 +1,43 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"JS",
+		"Nantong Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Chongchuan Qu": {
+			"name": "Chongchuan Qu",
+			"local_name": "崇川区"
+		},
+		"Gangzha Qu": {
+			"name": "Gangzha Qu",
+			"local_name": "港闸区"
+		},
+		"Hai'an Xian": {
+			"name": "Hai'an Xian",
+			"local_name": "海安县"
+		},
+		"Haimen Shi": {
+			"name": "Haimen Shi",
+			"local_name": "海门市"
+		},
+		"Qidong Shi": {
+			"name": "Qidong Shi",
+			"local_name": "启东市"
+		},
+		"Rudong Xian": {
+			"name": "Rudong Xian",
+			"local_name": "如东县"
+		},
+		"Rugao Shi": {
+			"name": "Rugao Shi",
+			"local_name": "如皋市"
+		},
+		"Tongzhou Shi": {
+			"name": "Tongzhou Shi",
+			"local_name": "通州市"
+		}
+	}
+}

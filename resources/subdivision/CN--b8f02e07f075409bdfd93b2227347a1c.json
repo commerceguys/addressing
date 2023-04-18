@@ -1,0 +1,25 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"HI",
+		"Sansha Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Nansha Qundao": {
+			"name": "Nansha Qundao",
+			"local_name": "南沙群岛"
+		},
+		"Xisha Qundao": {
+			"name": "Xisha Qundao",
+			"local_name": "西沙群岛"
+		},
+		"Zhongsha Qundao": {
+			"code": "Zhongsha Qundao",
+			"local_code": "中沙群岛的岛礁及其海域",
+			"name": "Zhongsha Qundao",
+			"local_name": "中沙群岛"
+		}
+	}
+}

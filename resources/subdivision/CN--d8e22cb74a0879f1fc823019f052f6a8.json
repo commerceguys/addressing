@@ -1,0 +1,35 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"QH",
+		"Golog Zhou"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Baima Xian": {
+			"name": "Baima Xian",
+			"local_name": "班玛县"
+		},
+		"Tarlag Xian": {
+			"name": "Tarlag Xian",
+			"local_name": "达日县"
+		},
+		"Gadê Xian": {
+			"name": "Gadê Xian",
+			"local_name": "甘德县"
+		},
+		"Jigzhi Xian": {
+			"name": "Jigzhi Xian",
+			"local_name": "久治县"
+		},
+		"Madoi Xian": {
+			"name": "Madoi Xian",
+			"local_name": "玛多县"
+		},
+		"Maqên Xian": {
+			"name": "Maqên Xian",
+			"local_name": "玛沁县"
+		}
+	}
+}

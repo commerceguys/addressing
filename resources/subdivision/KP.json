@@ -2,49 +2,49 @@
 	"country_code": "KP",
 	"locale": "ko",
 	"subdivisions": {
-		"Kangwon": {
-			"local_code": "강원도",
-			"iso_code": "KP-07"
+		"07": {
+			"name": "Kangwon",
+			"local_name": "강원도"
 		},
-		"Rason": {
-			"local_code": "라선 특별시",
-			"iso_code": "KP-13"
+		"13": {
+			"name": "Rason",
+			"local_name": "라선 특별시"
 		},
-		"Ryanggang": {
-			"local_code": "량강도",
-			"iso_code": "KP-10"
+		"10": {
+			"name": "Ryanggang",
+			"local_name": "량강도"
 		},
-		"Chagang": {
-			"local_code": "자강도",
-			"iso_code": "KP-04"
+		"04": {
+			"name": "Chagang",
+			"local_name": "자강도"
 		},
-		"South Pyongan": {
-			"local_code": "평안 남도",
-			"iso_code": "KP-02"
+		"02": {
+			"name": "South Pyongan",
+			"local_name": "평안 남도"
 		},
-		"North Pyongan": {
-			"local_code": "평안 북도",
-			"iso_code": "KP-03"
+		"03": {
+			"name": "North Pyongan",
+			"local_name": "평안 북도"
 		},
-		"Pyongyang": {
-			"local_code": "평양 직할시",
-			"iso_code": "KP-01"
+		"01": {
+			"name": "Pyongyang",
+			"local_name": "평양 직할시"
 		},
-		"South Hamgyong": {
-			"local_code": "함경 남도",
-			"iso_code": "KP-08"
+		"08": {
+			"name": "South Hamgyong",
+			"local_name": "함경 남도"
 		},
-		"North Hamgyong": {
-			"local_code": "함경 북도",
-			"iso_code": "KP-09"
+		"09": {
+			"name": "North Hamgyong",
+			"local_name": "함경 북도"
 		},
-		"South Hwanghae": {
-			"local_code": "황해남도",
-			"iso_code": "KP-05"
+		"05": {
+			"name": "South Hwanghae",
+			"local_name": "황해남도"
 		},
-		"North Hwanghae": {
-			"local_code": "황해북도",
-			"iso_code": "KP-06"
+		"06": {
+			"name": "North Hwanghae",
+			"local_name": "황해북도"
 		}
 	}
 }

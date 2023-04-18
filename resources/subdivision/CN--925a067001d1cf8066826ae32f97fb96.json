@@ -1,0 +1,77 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"HE",
+		"Cangzhou Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Cang Xian": {
+			"name": "Cang Xian",
+			"local_name": "沧县"
+		},
+		"Dongguang Xian": {
+			"name": "Dongguang Xian",
+			"local_name": "东光县"
+		},
+		"Haixing Xian": {
+			"name": "Haixing Xian",
+			"local_name": "海兴县"
+		},
+		"Hejian Shi": {
+			"name": "Hejian Shi",
+			"local_name": "河间市"
+		},
+		"Huanghua Shi": {
+			"name": "Huanghua Shi",
+			"local_name": "黄骅市"
+		},
+		"Mengcun Xian": {
+			"code": "Mengcun Xian",
+			"local_code": "孟村回族自治县",
+			"name": "Mengcun Xian",
+			"local_name": "孟村县"
+		},
+		"Nanpi Xian": {
+			"name": "Nanpi Xian",
+			"local_name": "南皮县"
+		},
+		"Botou Shi": {
+			"name": "Botou Shi",
+			"local_name": "泊头市"
+		},
+		"Qing Xian": {
+			"name": "Qing Xian",
+			"local_name": "青县"
+		},
+		"Renqiu Shi": {
+			"name": "Renqiu Shi",
+			"local_name": "任丘市"
+		},
+		"Suning Xian": {
+			"name": "Suning Xian",
+			"local_name": "肃宁县"
+		},
+		"Wuqiao Xian": {
+			"name": "Wuqiao Xian",
+			"local_name": "吴桥县"
+		},
+		"Xian Xian": {
+			"name": "Xian Xian",
+			"local_name": "献县"
+		},
+		"Xinhua Qu": {
+			"name": "Xinhua Qu",
+			"local_name": "新华区"
+		},
+		"Yanshan Xian": {
+			"name": "Yanshan Xian",
+			"local_name": "盐山县"
+		},
+		"Yunhe Qu": {
+			"name": "Yunhe Qu",
+			"local_name": "运河区"
+		}
+	}
+}

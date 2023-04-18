@@ -1,0 +1,51 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"FJ",
+		"Nanping Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Guangze Xian": {
+			"name": "Guangze Xian",
+			"local_name": "光泽县"
+		},
+		"Jian'ou Shi": {
+			"name": "Jian'ou Shi",
+			"local_name": "建瓯市"
+		},
+		"Jianyang Shi": {
+			"name": "Jianyang Shi",
+			"local_name": "建阳市"
+		},
+		"Pucheng Xian": {
+			"name": "Pucheng Xian",
+			"local_name": "浦城县"
+		},
+		"Shaowu Shi": {
+			"name": "Shaowu Shi",
+			"local_name": "邵武市"
+		},
+		"Shunchang Xian": {
+			"name": "Shunchang Xian",
+			"local_name": "顺昌县"
+		},
+		"Songxi Xian": {
+			"name": "Songxi Xian",
+			"local_name": "松溪县"
+		},
+		"Wuyishan Shi": {
+			"name": "Wuyishan Shi",
+			"local_name": "武夷山市"
+		},
+		"Yanping Qu": {
+			"name": "Yanping Qu",
+			"local_name": "延平区"
+		},
+		"Zhenghe Xian": {
+			"name": "Zhenghe Xian",
+			"local_name": "政和县"
+		}
+	}
+}

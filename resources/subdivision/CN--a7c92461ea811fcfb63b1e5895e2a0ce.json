@@ -1,0 +1,41 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"XJ",
+		"Changji Zhou"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Changji Shi": {
+			"name": "Changji Shi",
+			"local_name": "昌吉市"
+		},
+		"Fukang Shi": {
+			"name": "Fukang Shi",
+			"local_name": "阜康市"
+		},
+		"Hutubi Xian": {
+			"name": "Hutubi Xian",
+			"local_name": "呼图壁县"
+		},
+		"Jimsar Xian": {
+			"name": "Jimsar Xian",
+			"local_name": "吉木萨尔县"
+		},
+		"Manas Xian": {
+			"name": "Manas Xian",
+			"local_name": "玛纳斯县"
+		},
+		"Mori Xian": {
+			"code": "Mori Xian",
+			"local_code": "木垒哈萨克自治县",
+			"name": "Mori Xian",
+			"local_name": "木垒县"
+		},
+		"Qitai Xian": {
+			"name": "Qitai Xian",
+			"local_name": "奇台县"
+		}
+	}
+}

@@ -1,0 +1,45 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"XZ"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Ngari Diqu": {
+			"name": "Ngari Diqu",
+			"local_name": "阿里地区",
+			"has_children": true
+		},
+		"Qamdo Diqu": {
+			"name": "Qamdo Diqu",
+			"local_name": "昌都地区",
+			"has_children": true
+		},
+		"Lhasa Shi": {
+			"name": "Lhasa Shi",
+			"local_name": "拉萨市",
+			"has_children": true
+		},
+		"Nyingchi Diqu": {
+			"name": "Nyingchi Diqu",
+			"local_name": "林芝地区",
+			"has_children": true
+		},
+		"Nagqu Diqu": {
+			"name": "Nagqu Diqu",
+			"local_name": "那曲地区",
+			"has_children": true
+		},
+		"Xigazê Diqu": {
+			"name": "Xigazê Diqu",
+			"local_name": "日喀则地区",
+			"has_children": true
+		},
+		"Shannan Diqu": {
+			"name": "Shannan Diqu",
+			"local_name": "山南地区",
+			"has_children": true
+		}
+	}
+}

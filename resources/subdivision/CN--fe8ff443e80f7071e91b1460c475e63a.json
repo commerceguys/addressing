@@ -1,0 +1,27 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"SD",
+		"Rizhao Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Donggang Qu": {
+			"name": "Donggang Qu",
+			"local_name": "东港区"
+		},
+		"Ju Xian": {
+			"name": "Ju Xian",
+			"local_name": "莒县"
+		},
+		"Lanshan Qu": {
+			"name": "Lanshan Qu",
+			"local_name": "岚山区"
+		},
+		"Wulian Xian": {
+			"name": "Wulian Xian",
+			"local_name": "五莲县"
+		}
+	}
+}

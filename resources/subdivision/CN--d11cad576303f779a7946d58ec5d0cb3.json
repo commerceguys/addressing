@@ -1,0 +1,43 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"XZ",
+		"Lhasa Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Chengguan Qu": {
+			"name": "Chengguan Qu",
+			"local_name": "城关区"
+		},
+		"Dagzê Xian": {
+			"name": "Dagzê Xian",
+			"local_name": "达孜县"
+		},
+		"Damxung Xian": {
+			"name": "Damxung Xian",
+			"local_name": "当雄县"
+		},
+		"Doilungdêqên Xian": {
+			"name": "Doilungdêqên Xian",
+			"local_name": "堆龙德庆县"
+		},
+		"Lhünzhub Xian": {
+			"name": "Lhünzhub Xian",
+			"local_name": "林周县"
+		},
+		"Maizhokunggar Xian": {
+			"name": "Maizhokunggar Xian",
+			"local_name": "墨竹工卡县"
+		},
+		"Nyêmo Xian": {
+			"name": "Nyêmo Xian",
+			"local_name": "尼木县"
+		},
+		"Qüxü Xian": {
+			"name": "Qüxü Xian",
+			"local_name": "曲水县"
+		}
+	}
+}

@@ -1,0 +1,79 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"HL",
+		"Yichun Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Cuiluan Qu": {
+			"name": "Cuiluan Qu",
+			"local_name": "翠峦区"
+		},
+		"Dailing Qu": {
+			"name": "Dailing Qu",
+			"local_name": "带岭区"
+		},
+		"Hongxing Qu": {
+			"name": "Hongxing Qu",
+			"local_name": "红星区"
+		},
+		"Jiayin Xian": {
+			"name": "Jiayin Xian",
+			"local_name": "嘉荫县"
+		},
+		"Jinshantun Qu": {
+			"name": "Jinshantun Qu",
+			"local_name": "金山屯区"
+		},
+		"Meixi Qu": {
+			"name": "Meixi Qu",
+			"local_name": "美溪区"
+		},
+		"Nancha Qu": {
+			"name": "Nancha Qu",
+			"local_name": "南岔区"
+		},
+		"Shangganling Qu": {
+			"name": "Shangganling Qu",
+			"local_name": "上甘岭区"
+		},
+		"Tangwanghe Qu": {
+			"name": "Tangwanghe Qu",
+			"local_name": "汤旺河区"
+		},
+		"Tieli Shi": {
+			"name": "Tieli Shi",
+			"local_name": "铁力市"
+		},
+		"Wumahe Qu": {
+			"name": "Wumahe Qu",
+			"local_name": "乌马河区"
+		},
+		"Wuyiling Qu": {
+			"name": "Wuyiling Qu",
+			"local_name": "乌伊岭区"
+		},
+		"Wuying Qu": {
+			"name": "Wuying Qu",
+			"local_name": "五营区"
+		},
+		"Xilin Qu": {
+			"name": "Xilin Qu",
+			"local_name": "西林区"
+		},
+		"Xinqing Qu": {
+			"name": "Xinqing Qu",
+			"local_name": "新青区"
+		},
+		"Yichun Qu": {
+			"name": "Yichun Qu",
+			"local_name": "伊春区"
+		},
+		"Youhao Qu": {
+			"name": "Youhao Qu",
+			"local_name": "友好区"
+		}
+	}
+}

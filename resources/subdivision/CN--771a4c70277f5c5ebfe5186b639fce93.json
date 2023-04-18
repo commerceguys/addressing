@@ -1,0 +1,55 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"SX",
+		"Datong Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Cheng Qu": {
+			"name": "Cheng Qu",
+			"local_name": "城区"
+		},
+		"Datong Xian": {
+			"name": "Datong Xian",
+			"local_name": "大同县"
+		},
+		"Guangling Xian": {
+			"name": "Guangling Xian",
+			"local_name": "广灵县"
+		},
+		"Hunyuan Xian": {
+			"name": "Hunyuan Xian",
+			"local_name": "浑源县"
+		},
+		"Kuang Qu": {
+			"name": "Kuang Qu",
+			"local_name": "矿区"
+		},
+		"Lingqiu Xian": {
+			"name": "Lingqiu Xian",
+			"local_name": "灵丘县"
+		},
+		"Nanjiao Qu": {
+			"name": "Nanjiao Qu",
+			"local_name": "南郊区"
+		},
+		"Tianzhen Xian": {
+			"name": "Tianzhen Xian",
+			"local_name": "天镇县"
+		},
+		"Xinrong Qu": {
+			"name": "Xinrong Qu",
+			"local_name": "新荣区"
+		},
+		"Yanggao Xian": {
+			"name": "Yanggao Xian",
+			"local_name": "阳高县"
+		},
+		"Zuoyun Xian": {
+			"name": "Zuoyun Xian",
+			"local_name": "左云县"
+		}
+	}
+}

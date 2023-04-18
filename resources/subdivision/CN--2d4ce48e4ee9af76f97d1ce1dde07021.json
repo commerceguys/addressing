@@ -1,0 +1,63 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"HA",
+		"Nanyang Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Dengzhou Shi": {
+			"name": "Dengzhou Shi",
+			"local_name": "邓州市"
+		},
+		"Fangcheng Xian": {
+			"name": "Fangcheng Xian",
+			"local_name": "方城县"
+		},
+		"Nanzhao Xian": {
+			"name": "Nanzhao Xian",
+			"local_name": "南召县"
+		},
+		"Neixiang Xian": {
+			"name": "Neixiang Xian",
+			"local_name": "内乡县"
+		},
+		"Sheqi Xian": {
+			"name": "Sheqi Xian",
+			"local_name": "社旗县"
+		},
+		"Tanghe Xian": {
+			"name": "Tanghe Xian",
+			"local_name": "唐河县"
+		},
+		"Tongbai Xian": {
+			"name": "Tongbai Xian",
+			"local_name": "桐柏县"
+		},
+		"Wancheng Qu": {
+			"name": "Wancheng Qu",
+			"local_name": "宛城区"
+		},
+		"Wolong Qu": {
+			"name": "Wolong Qu",
+			"local_name": "卧龙区"
+		},
+		"Xixia Xian": {
+			"name": "Xixia Xian",
+			"local_name": "西峡县"
+		},
+		"Xichuan Xian": {
+			"name": "Xichuan Xian",
+			"local_name": "淅川县"
+		},
+		"Xinye Xian": {
+			"name": "Xinye Xian",
+			"local_name": "新野县"
+		},
+		"Zhenping Xian": {
+			"name": "Zhenping Xian",
+			"local_name": "镇平县"
+		}
+	}
+}

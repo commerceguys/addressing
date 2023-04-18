@@ -1,0 +1,23 @@
+{
+	"country_code": "KR",
+	"parents": [
+		"KR",
+		"41",
+		"Bucheon-si"
+	],
+	"locale": "ko",
+	"subdivisions": {
+		"Sosa-gu": {
+			"name": "Sosa-gu",
+			"local_name": "소사구"
+		},
+		"Ojeong-gu": {
+			"name": "Ojeong-gu",
+			"local_name": "오정구"
+		},
+		"Wonmi-gu": {
+			"name": "Wonmi-gu",
+			"local_name": "원미구"
+		}
+	}
+}

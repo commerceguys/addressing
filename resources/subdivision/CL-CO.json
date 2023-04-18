@@ -1,0 +1,24 @@
+{
+	"country_code": "CL",
+	"parents": [
+		"CL",
+		"CO"
+	],
+	"subdivisions": {
+		"Andacollo": [],
+		"Canela": [],
+		"Combarbalá": [],
+		"Coquimbo": [],
+		"Illapel": [],
+		"La Higuera": [],
+		"La Serena": [],
+		"Los Vilos": [],
+		"Monte Patria": [],
+		"Ovalle": [],
+		"Paihuano": [],
+		"Punitaqui": [],
+		"Río Hurtado": [],
+		"Salamanca": [],
+		"Vicuña": []
+	}
+}

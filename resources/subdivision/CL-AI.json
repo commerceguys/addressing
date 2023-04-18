@@ -1,0 +1,19 @@
+{
+	"country_code": "CL",
+	"parents": [
+		"CL",
+		"AI"
+	],
+	"subdivisions": {
+		"Aysén": [],
+		"Chile Chico": [],
+		"Cisnes": [],
+		"Cochrane": [],
+		"Coyhaique": [],
+		"Guaitecas": [],
+		"Lago Verde": [],
+		"O'Higgins": [],
+		"Río Ibáñez": [],
+		"Tortel": []
+	}
+}

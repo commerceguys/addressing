@@ -1,0 +1,47 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"GS",
+		"Longnan Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Cheng Xian": {
+			"name": "Cheng Xian",
+			"local_name": "成县"
+		},
+		"Tanchang Xian": {
+			"name": "Tanchang Xian",
+			"local_name": "宕昌县"
+		},
+		"Hui Xian": {
+			"name": "Hui Xian",
+			"local_name": "徽县"
+		},
+		"Kang Xian": {
+			"name": "Kang Xian",
+			"local_name": "康县"
+		},
+		"Li Xian": {
+			"name": "Li Xian",
+			"local_name": "礼县"
+		},
+		"Liangdang Xian": {
+			"name": "Liangdang Xian",
+			"local_name": "两当县"
+		},
+		"Wen Xian": {
+			"name": "Wen Xian",
+			"local_name": "文县"
+		},
+		"Wudu Qu": {
+			"name": "Wudu Qu",
+			"local_name": "武都区"
+		},
+		"Xihe Xian": {
+			"name": "Xihe Xian",
+			"local_name": "西和县"
+		}
+	}
+}

@@ -1,0 +1,35 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"ZJ",
+		"Quzhou Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Changshan Xian": {
+			"name": "Changshan Xian",
+			"local_name": "常山县"
+		},
+		"Jiangshan Shi": {
+			"name": "Jiangshan Shi",
+			"local_name": "江山市"
+		},
+		"Kaihua Xian": {
+			"name": "Kaihua Xian",
+			"local_name": "开化县"
+		},
+		"Kecheng Qu": {
+			"name": "Kecheng Qu",
+			"local_name": "柯城区"
+		},
+		"Longyou Xian": {
+			"name": "Longyou Xian",
+			"local_name": "龙游县"
+		},
+		"Qujiang Qu": {
+			"name": "Qujiang Qu",
+			"local_name": "衢江区"
+		}
+	}
+}

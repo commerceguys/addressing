@@ -1,0 +1,65 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"GX",
+		"Hechi Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Bama Xian": {
+			"code": "Bama Xian",
+			"local_code": "巴马瑶族自治县",
+			"name": "Bama Xian",
+			"local_name": "巴马县"
+		},
+		"Dahua Xian": {
+			"code": "Dahua Xian",
+			"local_code": "大化瑶族自治县",
+			"name": "Dahua Xian",
+			"local_name": "大化县"
+		},
+		"Donglan Xian": {
+			"name": "Donglan Xian",
+			"local_name": "东兰县"
+		},
+		"Du'an Xian": {
+			"code": "Du'an Xian",
+			"local_code": "都安瑶族自治县",
+			"name": "Du'an Xian",
+			"local_name": "都安县"
+		},
+		"Fengshan Xian": {
+			"name": "Fengshan Xian",
+			"local_name": "凤山县"
+		},
+		"Huanjiang Xian": {
+			"code": "Huanjiang Xian",
+			"local_code": "环江毛南族自治县",
+			"name": "Huanjiang Xian",
+			"local_name": "环江县"
+		},
+		"Jinchengjiang Qu": {
+			"name": "Jinchengjiang Qu",
+			"local_name": "金城江区"
+		},
+		"Luocheng Xian": {
+			"code": "Luocheng Xian",
+			"local_code": "罗城仫佬族自治县",
+			"name": "Luocheng Xian",
+			"local_name": "罗城县"
+		},
+		"Nandan Xian": {
+			"name": "Nandan Xian",
+			"local_name": "南丹县"
+		},
+		"Tian'e Xian": {
+			"name": "Tian'e Xian",
+			"local_name": "天峨县"
+		},
+		"Yizhou Shi": {
+			"name": "Yizhou Shi",
+			"local_name": "宜州市"
+		}
+	}
+}

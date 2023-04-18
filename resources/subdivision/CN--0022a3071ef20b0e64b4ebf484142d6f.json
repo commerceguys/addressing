@@ -1,0 +1,171 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"TW",
+		"Kaohsiung City"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Alian District": {
+			"name": "Alian District",
+			"local_name": "阿蓮區"
+		},
+		"Daliao District": {
+			"name": "Daliao District",
+			"local_name": "大寮區"
+		},
+		"Dashe District": {
+			"name": "Dashe District",
+			"local_name": "大社區"
+		},
+		"Dashu District": {
+			"name": "Dashu District",
+			"local_name": "大樹區"
+		},
+		"Dongsha Island": {
+			"name": "Dongsha Island",
+			"local_name": "東沙島"
+		},
+		"Fengshan District": {
+			"name": "Fengshan District",
+			"local_name": "鳳山區"
+		},
+		"Gangshan District": {
+			"name": "Gangshan District",
+			"local_name": "岡山區"
+		},
+		"Gushan District": {
+			"name": "Gushan District",
+			"local_name": "鼓山區"
+		},
+		"Hunei District": {
+			"name": "Hunei District",
+			"local_name": "湖內區"
+		},
+		"Jiading District": {
+			"name": "Jiading District",
+			"local_name": "茄萣區"
+		},
+		"Jiaxian District": {
+			"name": "Jiaxian District",
+			"local_name": "甲仙區"
+		},
+		"Linyuan District": {
+			"name": "Linyuan District",
+			"local_name": "林園區"
+		},
+		"Lingya District": {
+			"name": "Lingya District",
+			"local_name": "苓雅區"
+		},
+		"Liugui District": {
+			"name": "Liugui District",
+			"local_name": "六龜區"
+		},
+		"Luzhu District": {
+			"name": "Luzhu District",
+			"local_name": "路竹區"
+		},
+		"Maolin District": {
+			"name": "Maolin District",
+			"local_name": "茂林區"
+		},
+		"Meinong District": {
+			"name": "Meinong District",
+			"local_name": "美濃區"
+		},
+		"Mituo District": {
+			"name": "Mituo District",
+			"local_name": "彌陀區"
+		},
+		"Namaxia District": {
+			"name": "Namaxia District",
+			"local_name": "那瑪夏區"
+		},
+		"Nansha Island": {
+			"name": "Nansha Island",
+			"local_name": "南沙島"
+		},
+		"Nanzi District": {
+			"name": "Nanzi District",
+			"local_name": "楠梓區"
+		},
+		"Neimen District": {
+			"name": "Neimen District",
+			"local_name": "內門區"
+		},
+		"Niaosong District": {
+			"name": "Niaosong District",
+			"local_name": "鳥松區"
+		},
+		"Qijin District": {
+			"name": "Qijin District",
+			"local_name": "旗津區"
+		},
+		"Qishan District": {
+			"name": "Qishan District",
+			"local_name": "旗山區"
+		},
+		"Qianjin District": {
+			"name": "Qianjin District",
+			"local_name": "前金區"
+		},
+		"Qianzhen District": {
+			"name": "Qianzhen District",
+			"local_name": "前鎮區"
+		},
+		"Qiaotou District": {
+			"name": "Qiaotou District",
+			"local_name": "橋頭區"
+		},
+		"Renwu District": {
+			"name": "Renwu District",
+			"local_name": "仁武區"
+		},
+		"Sanmin District": {
+			"name": "Sanmin District",
+			"local_name": "三民區"
+		},
+		"Shanlin District": {
+			"name": "Shanlin District",
+			"local_name": "杉林區"
+		},
+		"Taoyuan District": {
+			"name": "Taoyuan District",
+			"local_name": "桃源區"
+		},
+		"Tianliao District": {
+			"name": "Tianliao District",
+			"local_name": "田寮區"
+		},
+		"Xiaogang District": {
+			"name": "Xiaogang District",
+			"local_name": "小港區"
+		},
+		"Xinxing District": {
+			"name": "Xinxing District",
+			"local_name": "新興區"
+		},
+		"Yancheng District": {
+			"name": "Yancheng District",
+			"local_name": "鹽埕區"
+		},
+		"Yanchao District": {
+			"name": "Yanchao District",
+			"local_name": "燕巢區"
+		},
+		"Yong'an District": {
+			"name": "Yong'an District",
+			"local_name": "永安區"
+		},
+		"Ziguan District": {
+			"name": "Ziguan District",
+			"local_name": "梓官區"
+		},
+		"Zuoying District": {
+			"name": "Zuoying District",
+			"local_name": "左營區"
+		}
+	}
+}

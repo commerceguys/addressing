@@ -2,114 +2,114 @@
 	"country_code": "TW",
 	"locale": "zh-Hant",
 	"subdivisions": {
-		"Keelung City": {
-			"local_code": "基隆市",
-			"iso_code": "TW-KEE",
+		"KEE": {
+			"name": "Keelung City",
+			"local_name": "基隆市",
 			"has_children": true
 		},
-		"Taipei City": {
-			"local_code": "台北市",
-			"iso_code": "TW-TPE",
+		"TPE": {
+			"name": "Taipei City",
+			"local_name": "台北市",
 			"has_children": true
 		},
-		"New Taipei City": {
-			"local_code": "新北市",
-			"iso_code": "TW-NWT",
+		"NWT": {
+			"name": "New Taipei City",
+			"local_name": "新北市",
 			"has_children": true
 		},
-		"Taoyuan City": {
-			"local_code": "桃園市",
-			"iso_code": "TW-TAO",
+		"TAO": {
+			"name": "Taoyuan City",
+			"local_name": "桃園市",
 			"has_children": true
 		},
-		"Hsinchu City": {
-			"local_code": "新竹市",
-			"iso_code": "TW-HSZ",
+		"HSZ": {
+			"name": "Hsinchu City",
+			"local_name": "新竹市",
 			"has_children": true
 		},
-		"Hsinchu County": {
-			"local_code": "新竹縣",
-			"iso_code": "TW-HSQ",
+		"HSQ": {
+			"name": "Hsinchu County",
+			"local_name": "新竹縣",
 			"has_children": true
 		},
-		"Miaoli County": {
-			"local_code": "苗栗縣",
-			"iso_code": "TW-MIA",
+		"MIA": {
+			"name": "Miaoli County",
+			"local_name": "苗栗縣",
 			"has_children": true
 		},
-		"Taichung City": {
-			"local_code": "台中市",
-			"iso_code": "TW-TXG",
+		"TXG": {
+			"name": "Taichung City",
+			"local_name": "台中市",
 			"has_children": true
 		},
-		"Changhua County": {
-			"local_code": "彰化縣",
-			"iso_code": "TW-CHA",
+		"CHA": {
+			"name": "Changhua County",
+			"local_name": "彰化縣",
 			"has_children": true
 		},
-		"Nantou County": {
-			"local_code": "南投縣",
-			"iso_code": "TW-NAN",
+		"NAN": {
+			"name": "Nantou County",
+			"local_name": "南投縣",
 			"has_children": true
 		},
-		"Yunlin County": {
-			"local_code": "雲林縣",
-			"iso_code": "TW-YUN",
+		"YUN": {
+			"name": "Yunlin County",
+			"local_name": "雲林縣",
 			"has_children": true
 		},
-		"Chiayi City": {
-			"local_code": "嘉義市",
-			"iso_code": "TW-CYI",
+		"CYI": {
+			"name": "Chiayi City",
+			"local_name": "嘉義市",
 			"has_children": true
 		},
-		"Chiayi County": {
-			"local_code": "嘉義縣",
-			"iso_code": "TW-CYQ",
+		"CYQ": {
+			"name": "Chiayi County",
+			"local_name": "嘉義縣",
 			"has_children": true
 		},
-		"Tainan City": {
-			"local_code": "台南市",
-			"iso_code": "TW-TNN",
+		"TNN": {
+			"name": "Tainan City",
+			"local_name": "台南市",
 			"has_children": true
 		},
-		"Kaohsiung City": {
-			"local_code": "高雄市",
-			"iso_code": "TW-KHH",
+		"KHH": {
+			"name": "Kaohsiung City",
+			"local_name": "高雄市",
 			"has_children": true
 		},
-		"Pingtung County": {
-			"local_code": "屏東縣",
-			"iso_code": "TW-PIF",
+		"PIF": {
+			"name": "Pingtung County",
+			"local_name": "屏東縣",
 			"has_children": true
 		},
-		"Taitung County": {
-			"local_code": "台東縣",
-			"iso_code": "TW-TTT",
+		"TTT": {
+			"name": "Taitung County",
+			"local_name": "台東縣",
 			"has_children": true
 		},
-		"Hualien County": {
-			"local_code": "花蓮縣",
-			"iso_code": "TW-HUA",
+		"HUA": {
+			"name": "Hualien County",
+			"local_name": "花蓮縣",
 			"has_children": true
 		},
-		"Yilan County": {
-			"local_code": "宜蘭縣",
-			"iso_code": "TW-ILA",
+		"ILA": {
+			"name": "Yilan County",
+			"local_name": "宜蘭縣",
 			"has_children": true
 		},
-		"Penghu County": {
-			"local_code": "澎湖縣",
-			"iso_code": "TW-PEN",
+		"PEN": {
+			"name": "Penghu County",
+			"local_name": "澎湖縣",
 			"has_children": true
 		},
-		"Kinmen County": {
-			"local_code": "金門縣",
-			"iso_code": "TW-KIN",
+		"KIN": {
+			"name": "Kinmen County",
+			"local_name": "金門縣",
 			"has_children": true
 		},
-		"Lienchiang County": {
-			"local_code": "連江縣",
-			"iso_code": "TW-LIE",
+		"LIE": {
+			"name": "Lienchiang County",
+			"local_name": "連江縣",
 			"has_children": true
 		}
 	}

@@ -1,0 +1,43 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"SC",
+		"Guangyuan Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Cangxi Xian": {
+			"name": "Cangxi Xian",
+			"local_name": "苍溪县"
+		},
+		"Chaotian Qu": {
+			"name": "Chaotian Qu",
+			"local_name": "朝天区"
+		},
+		"Jiange Xian": {
+			"name": "Jiange Xian",
+			"local_name": "剑阁县"
+		},
+		"Lizhou Qu": {
+			"name": "Lizhou Qu",
+			"local_name": "利州区"
+		},
+		"Qingchuan Xian": {
+			"name": "Qingchuan Xian",
+			"local_name": "青川县"
+		},
+		"Shizhong Qu": {
+			"name": "Shizhong Qu",
+			"local_name": "市中区"
+		},
+		"Wangcang Xian": {
+			"name": "Wangcang Xian",
+			"local_name": "旺苍县"
+		},
+		"Yuanba Qu": {
+			"name": "Yuanba Qu",
+			"local_name": "元坝区"
+		}
+	}
+}

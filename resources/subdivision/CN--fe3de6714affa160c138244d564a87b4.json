@@ -1,0 +1,51 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"HA",
+		"Pingdingshan Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Baofeng Xian": {
+			"name": "Baofeng Xian",
+			"local_name": "宝丰县"
+		},
+		"Jia Xian": {
+			"name": "Jia Xian",
+			"local_name": "郏县"
+		},
+		"Lushan Xian": {
+			"name": "Lushan Xian",
+			"local_name": "鲁山县"
+		},
+		"Ruzhou Shi": {
+			"name": "Ruzhou Shi",
+			"local_name": "汝州市"
+		},
+		"Shilong Qu": {
+			"name": "Shilong Qu",
+			"local_name": "石龙区"
+		},
+		"Weidong Qu": {
+			"name": "Weidong Qu",
+			"local_name": "卫东区"
+		},
+		"Wugang Shi": {
+			"name": "Wugang Shi",
+			"local_name": "舞钢市"
+		},
+		"Xinhua Qu": {
+			"name": "Xinhua Qu",
+			"local_name": "新华区"
+		},
+		"Ye Xian": {
+			"name": "Ye Xian",
+			"local_name": "叶县"
+		},
+		"Zhanhe Qu": {
+			"name": "Zhanhe Qu",
+			"local_name": "湛河区"
+		}
+	}
+}

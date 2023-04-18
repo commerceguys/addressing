@@ -1,0 +1,31 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"SC",
+		"Panzhihua Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Dong Qu": {
+			"name": "Dong Qu",
+			"local_name": "东区"
+		},
+		"Miyi Xian": {
+			"name": "Miyi Xian",
+			"local_name": "米易县"
+		},
+		"Renhe Qu": {
+			"name": "Renhe Qu",
+			"local_name": "仁和区"
+		},
+		"Xi Qu": {
+			"name": "Xi Qu",
+			"local_name": "西区"
+		},
+		"Yanbian Xian": {
+			"name": "Yanbian Xian",
+			"local_name": "盐边县"
+		}
+	}
+}

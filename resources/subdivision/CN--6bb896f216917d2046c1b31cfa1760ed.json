@@ -1,0 +1,23 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"GD",
+		"Zhuhai Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Doumen Qu": {
+			"name": "Doumen Qu",
+			"local_name": "斗门区"
+		},
+		"Jinwan Qu": {
+			"name": "Jinwan Qu",
+			"local_name": "金湾区"
+		},
+		"Xiangzhou Qu": {
+			"name": "Xiangzhou Qu",
+			"local_name": "香洲区"
+		}
+	}
+}

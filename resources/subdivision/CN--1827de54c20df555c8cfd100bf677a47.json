@@ -1,0 +1,69 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"YN",
+		"Honghe Zhou"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Gejiu Shi": {
+			"name": "Gejiu Shi",
+			"local_name": "个旧市"
+		},
+		"Hekou Xian": {
+			"code": "Hekou Xian",
+			"local_code": "河口瑶族自治县",
+			"name": "Hekou Xian",
+			"local_name": "河口县"
+		},
+		"Honghe Xian": {
+			"name": "Honghe Xian",
+			"local_name": "红河县"
+		},
+		"Jianshui Xian": {
+			"name": "Jianshui Xian",
+			"local_name": "建水县"
+		},
+		"Jinping Xian": {
+			"code": "Jinping Xian",
+			"local_code": "金平苗族瑶族傣族自治县",
+			"name": "Jinping Xian",
+			"local_name": "金平县"
+		},
+		"Kaiyuan Shi": {
+			"name": "Kaiyuan Shi",
+			"local_name": "开远市"
+		},
+		"Luxi Xian": {
+			"name": "Luxi Xian",
+			"local_name": "泸西县"
+		},
+		"Lüchun Xian": {
+			"name": "Lüchun Xian",
+			"local_name": "绿春县"
+		},
+		"Mengzi Shi": {
+			"name": "Mengzi Shi",
+			"local_name": "蒙自市"
+		},
+		"Mile Xian": {
+			"name": "Mile Xian",
+			"local_name": "弥勒县"
+		},
+		"Pingbian Xian": {
+			"code": "Pingbian Xian",
+			"local_code": "屏边苗族自治县",
+			"name": "Pingbian Xian",
+			"local_name": "屏边县"
+		},
+		"Shiping Xian": {
+			"name": "Shiping Xian",
+			"local_name": "石屏县"
+		},
+		"Yuanyang Xian": {
+			"name": "Yuanyang Xian",
+			"local_name": "元阳县"
+		}
+	}
+}

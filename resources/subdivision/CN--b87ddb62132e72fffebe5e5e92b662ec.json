@@ -1,0 +1,51 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"HA",
+		"Kaifeng Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Gulou Qu": {
+			"name": "Gulou Qu",
+			"local_name": "鼓楼区"
+		},
+		"Jinming Qu": {
+			"name": "Jinming Qu",
+			"local_name": "金明区"
+		},
+		"Kaifeng Xian": {
+			"name": "Kaifeng Xian",
+			"local_name": "开封县"
+		},
+		"Lankao Xian": {
+			"name": "Lankao Xian",
+			"local_name": "兰考县"
+		},
+		"Longting Qu": {
+			"name": "Longting Qu",
+			"local_name": "龙亭区"
+		},
+		"Qi Xian": {
+			"name": "Qi Xian",
+			"local_name": "杞县"
+		},
+		"Shunhe Huizu Qu": {
+			"name": "Shunhe Huizu Qu",
+			"local_name": "顺河回族区"
+		},
+		"Tongxu Xian": {
+			"name": "Tongxu Xian",
+			"local_name": "通许县"
+		},
+		"Weishi Xian": {
+			"name": "Weishi Xian",
+			"local_name": "尉氏县"
+		},
+		"Yuwangtai Qu": {
+			"name": "Yuwangtai Qu",
+			"local_name": "禹王台区"
+		}
+	}
+}

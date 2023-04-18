@@ -1,0 +1,59 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"SC",
+		"Leshan Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Ebian Xian": {
+			"code": "Ebian Xian",
+			"local_code": "峨边彝族自治县",
+			"name": "Ebian Xian",
+			"local_name": "峨边县"
+		},
+		"Emeishan Shi": {
+			"name": "Emeishan Shi",
+			"local_name": "峨眉山市"
+		},
+		"Jiajiang Xian": {
+			"name": "Jiajiang Xian",
+			"local_name": "夹江县"
+		},
+		"Qianwei Xian": {
+			"name": "Qianwei Xian",
+			"local_name": "犍为县"
+		},
+		"Jinkouhe Qu": {
+			"name": "Jinkouhe Qu",
+			"local_name": "金口河区"
+		},
+		"Jingyan Xian": {
+			"name": "Jingyan Xian",
+			"local_name": "井研县"
+		},
+		"Mabian Xian": {
+			"code": "Mabian Xian",
+			"local_code": "马边彝族自治县",
+			"name": "Mabian Xian",
+			"local_name": "马边县"
+		},
+		"Muchuan Xian": {
+			"name": "Muchuan Xian",
+			"local_name": "沐川县"
+		},
+		"Shawan Qu": {
+			"name": "Shawan Qu",
+			"local_name": "沙湾区"
+		},
+		"Shizhong Qu": {
+			"name": "Shizhong Qu",
+			"local_name": "市中区"
+		},
+		"Wutongqiao Qu": {
+			"name": "Wutongqiao Qu",
+			"local_name": "五通桥区"
+		}
+	}
+}

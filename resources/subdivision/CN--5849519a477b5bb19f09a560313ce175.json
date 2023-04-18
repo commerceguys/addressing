@@ -1,0 +1,19 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"HB",
+		"Suizhou Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Zengdu Qu": {
+			"name": "Zengdu Qu",
+			"local_name": "曾都区"
+		},
+		"Guangshui Shi": {
+			"name": "Guangshui Shi",
+			"local_name": "广水市"
+		}
+	}
+}

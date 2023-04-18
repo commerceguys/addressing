@@ -1,0 +1,23 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"YN",
+		"Xishuangbanna Zhou"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Jinghong Shi": {
+			"name": "Jinghong Shi",
+			"local_name": "景洪市"
+		},
+		"Menghai Xian": {
+			"name": "Menghai Xian",
+			"local_name": "勐海县"
+		},
+		"Mengla Xian": {
+			"name": "Mengla Xian",
+			"local_name": "勐腊县"
+		}
+	}
+}

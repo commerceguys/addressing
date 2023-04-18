@@ -17,27 +17,15 @@ class Subdivision
 
     protected string $countryCode;
 
-    /**
-     * The subdivision code.
-     */
+    protected string $id;
+
     protected string $code;
 
-    /**
-     * The local subdivision code.
-     */
     protected ?string $localCode;
 
-    /**
-     * The subdivision name.
-     */
     protected string $name;
 
-    /**
-     * The local subdivision name.
-     */
     protected ?string $localName;
-
-    protected ?string $isoCode;
 
     protected ?string $postalCodePattern;
 
@@ -59,7 +47,7 @@ class Subdivision
     {
         // Validate the presence of required properties.
         $requiredProperties = [
-            'country_code', 'code', 'name',
+            'country_code', 'id', 'name',
         ];
         foreach ($requiredProperties as $requiredProperty) {
             if (empty($definition[$requiredProperty])) {
@@ -72,19 +60,18 @@ class Subdivision
             'locale' => null,
             'local_code' => null,
             'local_name' => null,
-            'iso_code' => null,
             'postal_code_pattern' => null,
             'children' => new ArrayCollection(),
         ];
 
         $this->parent = $definition['parent'];
         $this->countryCode = $definition['country_code'];
+        $this->id = $definition['id'];
         $this->locale = $definition['locale'];
         $this->code = $definition['code'];
         $this->localCode = $definition['local_code'];
         $this->name = $definition['name'];
         $this->localName = $definition['local_name'];
-        $this->isoCode = $definition['iso_code'];
         $this->postalCodePattern = $definition['postal_code_pattern'];
         $this->children = $definition['children'];
     }
@@ -113,6 +100,20 @@ class Subdivision
     }
 
     /**
+     * Gets the subdivision id.
+     *
+     * This is an ISO code when available (e.g. "CA" for the US state of California),
+     * in which case it consists of up to 3 alphanumeric characters.
+     * Otherwise it matches the subdivision code and could be of any length.
+     *
+     * @return string The subdivision id.
+     */
+    public function getId(): string
+    {
+        return $this->id;
+    }
+
+    /**
      * Gets the subdivision locale.
      *
      * Used for selecting local subdivision codes/names. Only defined if the
@@ -132,7 +133,6 @@ class Subdivision
      * Could be an abbreviation, such as "CA" for California, or a full string
      * such as "Grand Cayman".
      *
-     * This is the value that is stored on the address object.
      * Guaranteed to be in latin script.
      */
     public function getCode(): string
@@ -177,18 +177,6 @@ class Subdivision
     public function getLocalName(): ?string
     {
         return $this->localName;
-    }
-
-    /**
-     * Gets the subdivision ISO 3166-2 code.
-     *
-     * Only defined for administrative areas. Examples: 'US-CA', 'JP-01'.
-     *
-     * @return string|null The subdivision ISO 3166-2 code.
-     */
-    public function getIsoCode(): ?string
-    {
-        return $this->isoCode;
     }
 
     /**

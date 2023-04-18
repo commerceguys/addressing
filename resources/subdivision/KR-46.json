@@ -1,0 +1,98 @@
+{
+	"country_code": "KR",
+	"parents": [
+		"KR",
+		"46"
+	],
+	"locale": "ko",
+	"subdivisions": {
+		"Gangjin-gun": {
+			"name": "Gangjin-gun",
+			"local_name": "강진군"
+		},
+		"Goheung-gun": {
+			"name": "Goheung-gun",
+			"local_name": "고흥군"
+		},
+		"Gokseong-gun": {
+			"name": "Gokseong-gun",
+			"local_name": "곡성군"
+		},
+		"Gwangyang-si": {
+			"name": "Gwangyang-si",
+			"local_name": "광양시"
+		},
+		"Gurye-gun": {
+			"name": "Gurye-gun",
+			"local_name": "구례군"
+		},
+		"Naju-si": {
+			"name": "Naju-si",
+			"local_name": "나주시"
+		},
+		"Damyang-gun": {
+			"name": "Damyang-gun",
+			"local_name": "담양군"
+		},
+		"Mokpo-si": {
+			"name": "Mokpo-si",
+			"local_name": "목포시"
+		},
+		"Muan-gun": {
+			"name": "Muan-gun",
+			"local_name": "무안군"
+		},
+		"Boseong-gun": {
+			"name": "Boseong-gun",
+			"local_name": "보성군"
+		},
+		"Suncheon-si": {
+			"name": "Suncheon-si",
+			"local_name": "순천시"
+		},
+		"Sinan-gun": {
+			"name": "Sinan-gun",
+			"local_name": "신안군"
+		},
+		"Yeosu-si": {
+			"name": "Yeosu-si",
+			"local_name": "여수시"
+		},
+		"Yeonggwang-gun": {
+			"name": "Yeonggwang-gun",
+			"local_name": "영광군"
+		},
+		"Yeongam-gun": {
+			"name": "Yeongam-gun",
+			"local_name": "영암군"
+		},
+		"Wando-gun": {
+			"name": "Wando-gun",
+			"local_name": "완도군"
+		},
+		"Jangseong-gun": {
+			"name": "Jangseong-gun",
+			"local_name": "장성군"
+		},
+		"Jangheung-gun": {
+			"name": "Jangheung-gun",
+			"local_name": "장흥군"
+		},
+		"Jindo-gun": {
+			"name": "Jindo-gun",
+			"local_name": "진도군"
+		},
+		"Hampyeong-gun": {
+			"name": "Hampyeong-gun",
+			"local_name": "함평군"
+		},
+		"Haenam-gun": {
+			"name": "Haenam-gun",
+			"local_name": "해남군"
+		},
+		"Hwasun-gun": {
+			"name": "Hwasun-gun",
+			"local_name": "화순군"
+		}
+	}
+}

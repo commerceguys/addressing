@@ -85,7 +85,7 @@ final class DefaultFormatterTest extends TestCase
         $address = new Address();
         $address = $address
             ->withCountryCode('AD')
-            ->withLocality("Parròquia d'Andorra la Vella")
+            ->withLocality("07")
             ->withPostalCode('AD500')
             ->withAddressLine1('C. Prat de la Creu, 62-64');
 
@@ -108,7 +108,7 @@ final class DefaultFormatterTest extends TestCase
         $address = new Address();
         $address = $address
             ->withCountryCode('SV')
-            ->withAdministrativeArea('Ahuachapán')
+            ->withAdministrativeArea('AH')
             ->withLocality('Ahuachapán')
             ->withAddressLine1('Some Street 12');
 
@@ -116,7 +116,7 @@ final class DefaultFormatterTest extends TestCase
             '<p translate="no">',
             '<span class="address-line1">Some Street 12</span><br>',
             '<span class="locality">Ahuachapán</span><br>',
-            '<span class="administrative-area">Ahuachapán</span><br>',
+            '<span class="administrative-area">Ahuachapan</span><br>',
             '<span class="country">El Salvador</span>',
             '</p>',
         ];
@@ -126,7 +126,7 @@ final class DefaultFormatterTest extends TestCase
         $expectedTextLines = [
             'Some Street 12',
             'Ahuachapán',
-            'Ahuachapán',
+            'Ahuachapan',
             'El Salvador',
         ];
         $textAddress = $this->formatter->format($address, ['html' => false]);
@@ -137,7 +137,7 @@ final class DefaultFormatterTest extends TestCase
             '<p translate="no">',
             '<span class="address-line1">Some Street 12</span><br>',
             '<span class="postal-code">CP 2101</span>-<span class="locality">Ahuachapán</span><br>',
-            '<span class="administrative-area">Ahuachapán</span><br>',
+            '<span class="administrative-area">Ahuachapan</span><br>',
             '<span class="country">El Salvador</span>',
             '</p>',
         ];
@@ -147,7 +147,7 @@ final class DefaultFormatterTest extends TestCase
         $expectedTextLines = [
             'Some Street 12',
             'CP 2101-Ahuachapán',
-            'Ahuachapán',
+            'Ahuachapan',
             'El Salvador',
         ];
         $textAddress = $this->formatter->format($address, ['html' => false]);
@@ -164,7 +164,7 @@ final class DefaultFormatterTest extends TestCase
         $address = new Address();
         $address = $address
             ->withCountryCode('TW')
-            ->withAdministrativeArea('Taipei City')
+            ->withAdministrativeArea('TPE')
             ->withLocality("Da'an District")
             ->withAddressLine1('Sec. 3 Hsin-yi Rd.')
             ->withPostalCode('106')

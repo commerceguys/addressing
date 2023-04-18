@@ -1,0 +1,19 @@
+{
+	"country_code": "KR",
+	"parents": [
+		"KR",
+		"44",
+		"Cheonan-si"
+	],
+	"locale": "ko",
+	"subdivisions": {
+		"Dongnam-gu": {
+			"name": "Dongnam-gu",
+			"local_name": "동남구"
+		},
+		"Seobuk-gu": {
+			"name": "Seobuk-gu",
+			"local_name": "서북구"
+		}
+	}
+}

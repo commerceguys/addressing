@@ -1,0 +1,27 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"LN",
+		"Panjin Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Dawa Xian": {
+			"name": "Dawa Xian",
+			"local_name": "大洼县"
+		},
+		"Panshan Xian": {
+			"name": "Panshan Xian",
+			"local_name": "盘山县"
+		},
+		"Shuangtaizi Qu": {
+			"name": "Shuangtaizi Qu",
+			"local_name": "双台子区"
+		},
+		"Xinglongtai Qu": {
+			"name": "Xinglongtai Qu",
+			"local_name": "兴隆台区"
+		}
+	}
+}

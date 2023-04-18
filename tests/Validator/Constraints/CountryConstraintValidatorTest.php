@@ -70,8 +70,6 @@ final class CountryConstraintValidatorTest extends ConstraintValidatorTestCase
 
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\CountryConstraintValidator
-     *
-     *
      */
     public function testInvalidValueType(): void
     {

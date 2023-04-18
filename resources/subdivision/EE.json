@@ -1,50 +1,50 @@
 {
 	"country_code": "EE",
 	"subdivisions": {
-		"Harjumaa": {
-			"iso_code": "EE-37"
+		"37": {
+			"name": "Harjumaa"
 		},
-		"Hiiumaa": {
-			"iso_code": "EE-39"
+		"39": {
+			"name": "Hiiumaa"
 		},
-		"Ida-Virumaa": {
-			"iso_code": "EE-45"
+		"45": {
+			"name": "Ida-Virumaa"
 		},
-		"Jõgevamaa": {
-			"iso_code": "EE-50"
+		"50": {
+			"name": "Jõgevamaa"
 		},
-		"Järvamaa": {
-			"iso_code": "EE-52"
+		"52": {
+			"name": "Järvamaa"
 		},
-		"Läänemaa": {
-			"iso_code": "EE-56"
+		"56": {
+			"name": "Läänemaa"
 		},
-		"Lääne-Virumaa": {
-			"iso_code": "EE-60"
+		"60": {
+			"name": "Lääne-Virumaa"
 		},
-		"Põlvamaa": {
-			"iso_code": "EE-64"
+		"64": {
+			"name": "Põlvamaa"
 		},
-		"Pärnumaa": {
-			"iso_code": "EE-68"
+		"68": {
+			"name": "Pärnumaa"
 		},
-		"Raplamaa": {
-			"iso_code": "EE-71"
+		"71": {
+			"name": "Raplamaa"
 		},
-		"Saaremaa": {
-			"iso_code": "EE-74"
+		"74": {
+			"name": "Saaremaa"
 		},
-		"Tartumaa": {
-			"iso_code": "EE-79"
+		"79": {
+			"name": "Tartumaa"
 		},
-		"Valgamaa": {
-			"iso_code": "EE-81"
+		"81": {
+			"name": "Valgamaa"
 		},
-		"Viljandimaa": {
-			"iso_code": "EE-84"
+		"84": {
+			"name": "Viljandimaa"
 		},
-		"Võrumaa": {
-			"iso_code": "EE-87"
+		"87": {
+			"name": "Võrumaa"
 		}
 	}
 }

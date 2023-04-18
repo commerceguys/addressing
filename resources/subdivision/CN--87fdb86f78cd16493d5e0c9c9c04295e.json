@@ -1,0 +1,55 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"JS",
+		"Nanjing Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Gaochun Qu": {
+			"name": "Gaochun Qu",
+			"local_name": "高淳区"
+		},
+		"Gulou Qu": {
+			"name": "Gulou Qu",
+			"local_name": "鼓楼区"
+		},
+		"Jianye Qu": {
+			"name": "Jianye Qu",
+			"local_name": "建邺区"
+		},
+		"Jiangning Qu": {
+			"name": "Jiangning Qu",
+			"local_name": "江宁区"
+		},
+		"Lishui Qu": {
+			"name": "Lishui Qu",
+			"local_name": "溧水区"
+		},
+		"Liuhe Qu": {
+			"name": "Liuhe Qu",
+			"local_name": "六合区"
+		},
+		"Pukou Qu": {
+			"name": "Pukou Qu",
+			"local_name": "浦口区"
+		},
+		"Qixia Qu": {
+			"name": "Qixia Qu",
+			"local_name": "栖霞区"
+		},
+		"Qinhuai Qu": {
+			"name": "Qinhuai Qu",
+			"local_name": "秦淮区"
+		},
+		"Xuanwu Qu": {
+			"name": "Xuanwu Qu",
+			"local_name": "玄武区"
+		},
+		"Yuhuatai Qu": {
+			"name": "Yuhuatai Qu",
+			"local_name": "雨花台区"
+		}
+	}
+}

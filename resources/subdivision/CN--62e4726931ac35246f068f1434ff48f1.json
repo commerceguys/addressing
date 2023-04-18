@@ -1,0 +1,43 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"SD",
+		"Zibo Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Boshan Qu": {
+			"name": "Boshan Qu",
+			"local_name": "博山区"
+		},
+		"Gaoqing Xian": {
+			"name": "Gaoqing Xian",
+			"local_name": "高青县"
+		},
+		"Huantai Xian": {
+			"name": "Huantai Xian",
+			"local_name": "桓台县"
+		},
+		"Linzi Qu": {
+			"name": "Linzi Qu",
+			"local_name": "临淄区"
+		},
+		"Yiyuan Xian": {
+			"name": "Yiyuan Xian",
+			"local_name": "沂源县"
+		},
+		"Zhangdian Qu": {
+			"name": "Zhangdian Qu",
+			"local_name": "张店区"
+		},
+		"Zhoucun Qu": {
+			"name": "Zhoucun Qu",
+			"local_name": "周村区"
+		},
+		"Zichuan Qu": {
+			"name": "Zichuan Qu",
+			"local_name": "淄川区"
+		}
+	}
+}

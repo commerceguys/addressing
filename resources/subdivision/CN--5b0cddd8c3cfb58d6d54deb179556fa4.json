@@ -1,0 +1,59 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"GZ",
+		"Tongren Diqu"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Dejiang Xian": {
+			"name": "Dejiang Xian",
+			"local_name": "德江县"
+		},
+		"Jiangkou Xian": {
+			"name": "Jiangkou Xian",
+			"local_name": "江口县"
+		},
+		"Shiqian Xian": {
+			"name": "Shiqian Xian",
+			"local_name": "石阡县"
+		},
+		"Sinan Xian": {
+			"name": "Sinan Xian",
+			"local_name": "思南县"
+		},
+		"Songtao Xian": {
+			"code": "Songtao Xian",
+			"local_code": "松桃苗族自治县",
+			"name": "Songtao Xian",
+			"local_name": "松桃县"
+		},
+		"Tongren Shi": {
+			"name": "Tongren Shi",
+			"local_name": "铜仁市"
+		},
+		"Wanshan Tequ": {
+			"name": "Wanshan Tequ",
+			"local_name": "万山特区"
+		},
+		"Yanhe Xian": {
+			"code": "Yanhe Xian",
+			"local_code": "沿河土家族自治县",
+			"name": "Yanhe Xian",
+			"local_name": "沿河县"
+		},
+		"Yinjiang Xian": {
+			"code": "Yinjiang Xian",
+			"local_code": "印江土家族苗族自治县",
+			"name": "Yinjiang Xian",
+			"local_name": "印江县"
+		},
+		"Yuping Xian": {
+			"code": "Yuping Xian",
+			"local_code": "玉屏侗族自治县",
+			"name": "Yuping Xian",
+			"local_name": "玉屏县"
+		}
+	}
+}

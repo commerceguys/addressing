@@ -1,0 +1,35 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"HA",
+		"Puyang Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Fan Xian": {
+			"name": "Fan Xian",
+			"local_name": "范县"
+		},
+		"Hualong Qu": {
+			"name": "Hualong Qu",
+			"local_name": "华龙区"
+		},
+		"Nanle Xian": {
+			"name": "Nanle Xian",
+			"local_name": "南乐县"
+		},
+		"Puyang Xian": {
+			"name": "Puyang Xian",
+			"local_name": "濮阳县"
+		},
+		"Qingfeng Xian": {
+			"name": "Qingfeng Xian",
+			"local_name": "清丰县"
+		},
+		"Taiqian Xian": {
+			"name": "Taiqian Xian",
+			"local_name": "台前县"
+		}
+	}
+}

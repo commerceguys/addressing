@@ -1,0 +1,47 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"SD",
+		"Heze Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Cao Xian": {
+			"name": "Cao Xian",
+			"local_name": "曹县"
+		},
+		"Chengwu Xian": {
+			"name": "Chengwu Xian",
+			"local_name": "成武县"
+		},
+		"Shan Xian": {
+			"name": "Shan Xian",
+			"local_name": "单县"
+		},
+		"Dingtao Xian": {
+			"name": "Dingtao Xian",
+			"local_name": "定陶县"
+		},
+		"Dongming Xian": {
+			"name": "Dongming Xian",
+			"local_name": "东明县"
+		},
+		"Juye Xian": {
+			"name": "Juye Xian",
+			"local_name": "巨野县"
+		},
+		"Juancheng Xian": {
+			"name": "Juancheng Xian",
+			"local_name": "鄄城县"
+		},
+		"Mudan Qu": {
+			"name": "Mudan Qu",
+			"local_name": "牡丹区"
+		},
+		"Yuncheng Xian": {
+			"name": "Yuncheng Xian",
+			"local_name": "郓城县"
+		}
+	}
+}

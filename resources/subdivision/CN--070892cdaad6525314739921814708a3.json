@@ -1,0 +1,59 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"JX",
+		"Jiujiang Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"De'an Xian": {
+			"name": "De'an Xian",
+			"local_name": "德安县"
+		},
+		"Duchang Xian": {
+			"name": "Duchang Xian",
+			"local_name": "都昌县"
+		},
+		"Hukou Xian": {
+			"name": "Hukou Xian",
+			"local_name": "湖口县"
+		},
+		"Jiujiang Xian": {
+			"name": "Jiujiang Xian",
+			"local_name": "九江县"
+		},
+		"Lushan Qu": {
+			"name": "Lushan Qu",
+			"local_name": "庐山区"
+		},
+		"Pengze Xian": {
+			"name": "Pengze Xian",
+			"local_name": "彭泽县"
+		},
+		"Ruichang Shi": {
+			"name": "Ruichang Shi",
+			"local_name": "瑞昌市"
+		},
+		"Wuning Xian": {
+			"name": "Wuning Xian",
+			"local_name": "武宁县"
+		},
+		"Xingzi Xian": {
+			"name": "Xingzi Xian",
+			"local_name": "星子县"
+		},
+		"Xiushui Xian": {
+			"name": "Xiushui Xian",
+			"local_name": "修水县"
+		},
+		"Xunyang Qu": {
+			"name": "Xunyang Qu",
+			"local_name": "浔阳区"
+		},
+		"Yongxiu Xian": {
+			"name": "Yongxiu Xian",
+			"local_name": "永修县"
+		}
+	}
+}

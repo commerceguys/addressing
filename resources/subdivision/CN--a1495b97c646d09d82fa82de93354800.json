@@ -1,0 +1,63 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"SC",
+		"Aba Zangzuqiangzuzizhizhou"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Aba Xian": {
+			"name": "Aba Xian",
+			"local_name": "阿坝县"
+		},
+		"Heishui Xian": {
+			"name": "Heishui Xian",
+			"local_name": "黑水县"
+		},
+		"Hongyuan Xian": {
+			"name": "Hongyuan Xian",
+			"local_name": "红原县"
+		},
+		"Jinchuan Xian": {
+			"name": "Jinchuan Xian",
+			"local_name": "金川县"
+		},
+		"Jiuzhaigou Xian": {
+			"name": "Jiuzhaigou Xian",
+			"local_name": "九寨沟县"
+		},
+		"Li Xian": {
+			"name": "Li Xian",
+			"local_name": "理县"
+		},
+		"Barkam Xian": {
+			"name": "Barkam Xian",
+			"local_name": "马尔康县"
+		},
+		"Mao Xian": {
+			"name": "Mao Xian",
+			"local_name": "茂县"
+		},
+		"Zamtang Xian": {
+			"name": "Zamtang Xian",
+			"local_name": "壤塘县"
+		},
+		"Zoǐgê Xian": {
+			"name": "Zoǐgê Xian",
+			"local_name": "若尔盖县"
+		},
+		"Songpan Xian": {
+			"name": "Songpan Xian",
+			"local_name": "松潘县"
+		},
+		"Wenchuan Xian": {
+			"name": "Wenchuan Xian",
+			"local_name": "汶川县"
+		},
+		"Xiaojin Xian": {
+			"name": "Xiaojin Xian",
+			"local_name": "小金县"
+		}
+	}
+}

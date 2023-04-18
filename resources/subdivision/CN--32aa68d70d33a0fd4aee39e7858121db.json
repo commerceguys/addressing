@@ -1,0 +1,39 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"XZ",
+		"Ngari Diqu"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Coqên Xian": {
+			"name": "Coqên Xian",
+			"local_name": "措勤县"
+		},
+		"Gar Xian": {
+			"name": "Gar Xian",
+			"local_name": "噶尔县"
+		},
+		"Gêrzê Xian": {
+			"name": "Gêrzê Xian",
+			"local_name": "改则县"
+		},
+		"Gê'gyai Xian": {
+			"name": "Gê'gyai Xian",
+			"local_name": "革吉县"
+		},
+		"Burang Xian": {
+			"name": "Burang Xian",
+			"local_name": "普兰县"
+		},
+		"Rutog Xian": {
+			"name": "Rutog Xian",
+			"local_name": "日土县"
+		},
+		"Zanda Xian": {
+			"name": "Zanda Xian",
+			"local_name": "札达县"
+		}
+	}
+}

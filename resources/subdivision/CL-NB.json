@@ -1,0 +1,30 @@
+{
+	"country_code": "CL",
+	"parents": [
+		"CL",
+		"NB"
+	],
+	"subdivisions": {
+		"Bulnes": [],
+		"Cobquecura": [],
+		"Coelemu": [],
+		"Coihueco": [],
+		"Chillán": [],
+		"Chillán Viejo": [],
+		"El Carmen": [],
+		"Ninhue": [],
+		"Ñiquén": [],
+		"Pemuco": [],
+		"Pinto": [],
+		"Portezuelo": [],
+		"Quillón": [],
+		"Quirihue": [],
+		"Ránquil": [],
+		"San Carlos": [],
+		"San Fabián": [],
+		"San Ignacio": [],
+		"San Nicolás": [],
+		"Treguaco": [],
+		"Yungay": []
+	}
+}

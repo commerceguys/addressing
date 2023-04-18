@@ -1,0 +1,39 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"XZ",
+		"Nyingchi Diqu"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Bomi Xian": {
+			"name": "Bomi Xian",
+			"local_name": "波密县"
+		},
+		"Zayü Xian": {
+			"name": "Zayü Xian",
+			"local_name": "察隅县"
+		},
+		"Gongbo'gyamda Xian": {
+			"name": "Gongbo'gyamda Xian",
+			"local_name": "工布江达县"
+		},
+		"Nang Xian": {
+			"name": "Nang Xian",
+			"local_name": "朗县"
+		},
+		"Nyingchi Xian": {
+			"name": "Nyingchi Xian",
+			"local_name": "林芝县"
+		},
+		"Mainling Xian": {
+			"name": "Mainling Xian",
+			"local_name": "米林县"
+		},
+		"Mêtog Xian": {
+			"name": "Mêtog Xian",
+			"local_name": "墨脱县"
+		}
+	}
+}

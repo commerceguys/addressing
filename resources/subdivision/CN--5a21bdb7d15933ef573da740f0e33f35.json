@@ -1,0 +1,35 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"SC",
+		"Deyang Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Guanghan Shi": {
+			"name": "Guanghan Shi",
+			"local_name": "广汉市"
+		},
+		"Jingyang Qu": {
+			"name": "Jingyang Qu",
+			"local_name": "旌阳区"
+		},
+		"Luojiang Xian": {
+			"name": "Luojiang Xian",
+			"local_name": "罗江县"
+		},
+		"Mianzhu Shi": {
+			"name": "Mianzhu Shi",
+			"local_name": "绵竹市"
+		},
+		"Shifang Shi": {
+			"name": "Shifang Shi",
+			"local_name": "什邡市"
+		},
+		"Zhongjiang Xian": {
+			"name": "Zhongjiang Xian",
+			"local_name": "中江县"
+		}
+	}
+}

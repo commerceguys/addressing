@@ -2,106 +2,123 @@
 	"country_code": "KR",
 	"locale": "ko",
 	"subdivisions": {
-		"Gangwon-do": {
+		"42": {
+			"code": "Gangwon-do",
 			"local_code": "강원도",
+			"name": "Gangwon-do",
 			"local_name": "강원",
-			"iso_code": "KR-42",
 			"has_children": true
 		},
-		"Gyeonggi-do": {
+		"41": {
+			"code": "Gyeonggi-do",
 			"local_code": "경기도",
+			"name": "Gyeonggi-do",
 			"local_name": "경기",
-			"iso_code": "KR-41",
 			"has_children": true
 		},
-		"Gyeongsangnam-do": {
+		"48": {
+			"code": "Gyeongsangnam-do",
 			"local_code": "경상남도",
+			"name": "Gyeongsangnam-do",
 			"local_name": "경남",
-			"iso_code": "KR-48",
 			"has_children": true
 		},
-		"Gyeongsangbuk-do": {
+		"47": {
+			"code": "Gyeongsangbuk-do",
 			"local_code": "경상북도",
+			"name": "Gyeongsangbuk-do",
 			"local_name": "경북",
-			"iso_code": "KR-47",
 			"has_children": true
 		},
-		"Gwangju": {
+		"29": {
+			"code": "Gwangju",
 			"local_code": "광주광역시",
+			"name": "Gwangju",
 			"local_name": "광주",
-			"iso_code": "KR-29",
 			"has_children": true
 		},
-		"Daegu": {
+		"27": {
+			"code": "Daegu",
 			"local_code": "대구광역시",
+			"name": "Daegu",
 			"local_name": "대구",
-			"iso_code": "KR-27",
 			"has_children": true
 		},
-		"Daejeon": {
+		"30": {
+			"code": "Daejeon",
 			"local_code": "대전광역시",
+			"name": "Daejeon",
 			"local_name": "대전",
-			"iso_code": "KR-30",
 			"has_children": true
 		},
-		"Busan": {
+		"26": {
+			"code": "Busan",
 			"local_code": "부산광역시",
+			"name": "Busan",
 			"local_name": "부산",
-			"iso_code": "KR-26",
 			"has_children": true
 		},
-		"Seoul": {
+		"11": {
+			"code": "Seoul",
 			"local_code": "서울특별시",
+			"name": "Seoul",
 			"local_name": "서울",
-			"iso_code": "KR-11",
 			"has_children": true
 		},
-		"Sejong": {
+		"50": {
+			"code": "Sejong",
 			"local_code": "세종특별자치시",
+			"name": "Sejong",
 			"local_name": "세종",
-			"iso_code": "KR-50",
 			"has_children": true
 		},
-		"Ulsan": {
+		"31": {
+			"code": "Ulsan",
 			"local_code": "울산광역시",
+			"name": "Ulsan",
 			"local_name": "울산",
-			"iso_code": "KR-31",
 			"has_children": true
 		},
-		"Incheon": {
+		"28": {
+			"code": "Incheon",
 			"local_code": "인천광역시",
+			"name": "Incheon",
 			"local_name": "인천",
-			"iso_code": "KR-28",
 			"has_children": true
 		},
-		"Jeollanam-do": {
+		"46": {
+			"code": "Jeollanam-do",
 			"local_code": "전라남도",
+			"name": "Jeollanam-do",
 			"local_name": "전남",
-			"iso_code": "KR-46",
 			"has_children": true
 		},
-		"Jeollabuk-do": {
+		"45": {
+			"code": "Jeollabuk-do",
 			"local_code": "전라북도",
+			"name": "Jeollabuk-do",
 			"local_name": "전북",
-			"iso_code": "KR-45",
 			"has_children": true
 		},
-		"Jeju-do": {
+		"49": {
+			"code": "Jeju-do",
 			"local_code": "제주특별자치도",
+			"name": "Jeju-do",
 			"local_name": "제주",
-			"iso_code": "KR-49",
 			"has_children": true
 		},
-		"Chungcheongnam-do": {
+		"44": {
+			"code": "Chungcheongnam-do",
 			"local_code": "충청남도",
+			"name": "Chungcheongnam-do",
 			"local_name": "충남",
-			"iso_code": "KR-44",
 			"has_children": true
 		},
-		"Chungcheongbuk-do": {
+		"43": {
+			"code": "Chungcheongbuk-do",
 			"local_code": "충청북도",
+			"name": "Chungcheongbuk-do",
 			"local_name": "충북",
-			"iso_code": "KR-43",
 			"has_children": true
 		}
 	}

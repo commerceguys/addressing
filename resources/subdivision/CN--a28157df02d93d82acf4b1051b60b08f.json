@@ -1,0 +1,127 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"TW",
+		"Taichung City"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"North District": {
+			"name": "North District",
+			"local_name": "北區"
+		},
+		"Beitun District": {
+			"name": "Beitun District",
+			"local_name": "北屯區"
+		},
+		"Da'an District": {
+			"name": "Da'an District",
+			"local_name": "大安區"
+		},
+		"Dadu District": {
+			"name": "Dadu District",
+			"local_name": "大肚區"
+		},
+		"Dajia District": {
+			"name": "Dajia District",
+			"local_name": "大甲區"
+		},
+		"Dali District": {
+			"name": "Dali District",
+			"local_name": "大里區"
+		},
+		"Daya District": {
+			"name": "Daya District",
+			"local_name": "大雅區"
+		},
+		"East District": {
+			"name": "East District",
+			"local_name": "東區"
+		},
+		"Dongshi District": {
+			"name": "Dongshi District",
+			"local_name": "東勢區"
+		},
+		"Fengyuan District": {
+			"name": "Fengyuan District",
+			"local_name": "豐原區"
+		},
+		"Heping District": {
+			"name": "Heping District",
+			"local_name": "和平區"
+		},
+		"Houli District": {
+			"name": "Houli District",
+			"local_name": "后里區"
+		},
+		"Longjing District": {
+			"name": "Longjing District",
+			"local_name": "龍井區"
+		},
+		"South District": {
+			"name": "South District",
+			"local_name": "南區"
+		},
+		"Nantun District": {
+			"name": "Nantun District",
+			"local_name": "南屯區"
+		},
+		"Qingshui District": {
+			"name": "Qingshui District",
+			"local_name": "清水區"
+		},
+		"Shalu District": {
+			"name": "Shalu District",
+			"local_name": "沙鹿區"
+		},
+		"Shengang District": {
+			"name": "Shengang District",
+			"local_name": "神岡區"
+		},
+		"Shigang District": {
+			"name": "Shigang District",
+			"local_name": "石岡區"
+		},
+		"Taiping District": {
+			"name": "Taiping District",
+			"local_name": "太平區"
+		},
+		"Tanzi District": {
+			"name": "Tanzi District",
+			"local_name": "潭子區"
+		},
+		"Waipu District": {
+			"name": "Waipu District",
+			"local_name": "外埔區"
+		},
+		"Wuri District": {
+			"name": "Wuri District",
+			"local_name": "烏日區"
+		},
+		"Wuqi District": {
+			"name": "Wuqi District",
+			"local_name": "梧棲區"
+		},
+		"Wufeng District": {
+			"name": "Wufeng District",
+			"local_name": "霧峰區"
+		},
+		"West District": {
+			"name": "West District",
+			"local_name": "西區"
+		},
+		"Xitun District": {
+			"name": "Xitun District",
+			"local_name": "西屯區"
+		},
+		"Xinshe District": {
+			"name": "Xinshe District",
+			"local_name": "新社區"
+		},
+		"Central District": {
+			"name": "Central District",
+			"local_name": "中區"
+		}
+	}
+}

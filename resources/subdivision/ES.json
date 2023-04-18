@@ -1,161 +1,161 @@
 {
 	"country_code": "ES",
 	"subdivisions": {
-		"A Coruña": {
-			"iso_code": "ES-C"
+		"C": {
+			"name": "A Coruña"
 		},
-		"Álava": {
-			"iso_code": "ES-VI"
+		"VI": {
+			"name": "Álava"
 		},
-		"Albacete": {
-			"iso_code": "ES-AB"
+		"AB": {
+			"name": "Albacete"
 		},
-		"Alicante": {
-			"iso_code": "ES-A"
+		"A": {
+			"name": "Alicante"
 		},
-		"Almería": {
-			"iso_code": "ES-AL"
+		"AL": {
+			"name": "Almería"
 		},
-		"Asturias": {
-			"iso_code": "ES-O"
+		"O": {
+			"name": "Asturias"
 		},
-		"Ávila": {
-			"iso_code": "ES-AV"
+		"AV": {
+			"name": "Ávila"
 		},
-		"Badajoz": {
-			"iso_code": "ES-BA"
+		"BA": {
+			"name": "Badajoz"
 		},
-		"Balears": {
-			"iso_code": "ES-PM"
+		"PM": {
+			"name": "Balears"
 		},
-		"Barcelona": {
-			"iso_code": "ES-B"
+		"B": {
+			"name": "Barcelona"
 		},
-		"Burgos": {
-			"iso_code": "ES-BU"
+		"BU": {
+			"name": "Burgos"
 		},
-		"Cáceres": {
-			"iso_code": "ES-CC"
+		"CC": {
+			"name": "Cáceres"
 		},
-		"Cádiz": {
-			"iso_code": "ES-CA"
+		"CA": {
+			"name": "Cádiz"
 		},
-		"Cantabria": {
-			"iso_code": "ES-S"
+		"S": {
+			"name": "Cantabria"
 		},
-		"Castellón": {
-			"iso_code": "ES-CS"
+		"CS": {
+			"name": "Castellón"
 		},
-		"Ceuta": {
-			"iso_code": "ES-CE"
+		"CE": {
+			"name": "Ceuta"
 		},
-		"Ciudad Real": {
-			"iso_code": "ES-CR"
+		"CR": {
+			"name": "Ciudad Real"
 		},
-		"Córdoba": {
-			"iso_code": "ES-CO"
+		"CO": {
+			"name": "Córdoba"
 		},
-		"Cuenca": {
-			"iso_code": "ES-CU"
+		"CU": {
+			"name": "Cuenca"
 		},
-		"Girona": {
-			"iso_code": "ES-GI"
+		"GI": {
+			"name": "Girona"
 		},
-		"Granada": {
-			"iso_code": "ES-GR"
+		"GR": {
+			"name": "Granada"
 		},
-		"Guadalajara": {
-			"iso_code": "ES-GU"
+		"GU": {
+			"name": "Guadalajara"
 		},
-		"Guipúzcoa": {
-			"iso_code": "ES-SS"
+		"SS": {
+			"name": "Guipúzcoa"
 		},
-		"Huelva": {
-			"iso_code": "ES-H"
+		"H": {
+			"name": "Huelva"
 		},
-		"Huesca": {
-			"iso_code": "ES-HU"
+		"HU": {
+			"name": "Huesca"
 		},
-		"Jaén": {
-			"iso_code": "ES-J"
+		"J": {
+			"name": "Jaén"
 		},
-		"La Rioja": {
-			"iso_code": "ES-LO"
+		"LO": {
+			"name": "La Rioja"
 		},
-		"Las Palmas": {
-			"iso_code": "ES-GC"
+		"GC": {
+			"name": "Las Palmas"
 		},
-		"León": {
-			"iso_code": "ES-LE"
+		"LE": {
+			"name": "León"
 		},
-		"Lleida": {
-			"iso_code": "ES-L"
+		"L": {
+			"name": "Lleida"
 		},
-		"Lugo": {
-			"iso_code": "ES-LU"
+		"LU": {
+			"name": "Lugo"
 		},
-		"Madrid": {
-			"iso_code": "ES-M"
+		"M": {
+			"name": "Madrid"
 		},
-		"Málaga": {
-			"iso_code": "ES-MA"
+		"MA": {
+			"name": "Málaga"
 		},
-		"Melilla": {
-			"iso_code": "ES-ML"
+		"ML": {
+			"name": "Melilla"
 		},
-		"Murcia": {
-			"iso_code": "ES-MU"
+		"MU": {
+			"name": "Murcia"
 		},
-		"Navarra": {
-			"iso_code": "ES-NA"
+		"NA": {
+			"name": "Navarra"
 		},
-		"Ourense": {
-			"iso_code": "ES-OR"
+		"OR": {
+			"name": "Ourense"
 		},
-		"Palencia": {
-			"iso_code": "ES-P"
+		"P": {
+			"name": "Palencia"
 		},
-		"Pontevedra": {
-			"iso_code": "ES-PO"
+		"PO": {
+			"name": "Pontevedra"
 		},
-		"Salamanca": {
-			"iso_code": "ES-SA"
+		"SA": {
+			"name": "Salamanca"
 		},
-		"Santa Cruz de Tenerife": {
-			"iso_code": "ES-TF"
+		"TF": {
+			"name": "Santa Cruz de Tenerife"
 		},
-		"Segovia": {
-			"iso_code": "ES-SG"
+		"SG": {
+			"name": "Segovia"
 		},
-		"Sevilla": {
-			"iso_code": "ES-SE"
+		"SE": {
+			"name": "Sevilla"
 		},
-		"Soria": {
-			"iso_code": "ES-SO"
+		"SO": {
+			"name": "Soria"
 		},
-		"Tarragona": {
-			"iso_code": "ES-T"
+		"T": {
+			"name": "Tarragona"
 		},
-		"Teruel": {
-			"iso_code": "ES-TE"
+		"TE": {
+			"name": "Teruel"
 		},
-		"Toledo": {
-			"iso_code": "ES-TO"
+		"TO": {
+			"name": "Toledo"
 		},
-		"Valencia": {
-			"iso_code": "ES-V"
+		"V": {
+			"name": "Valencia"
 		},
-		"Valladolid": {
-			"iso_code": "ES-VA"
+		"VA": {
+			"name": "Valladolid"
 		},
-		"Vizcaya": {
-			"iso_code": "ES-BI"
+		"BI": {
+			"name": "Vizcaya"
 		},
-		"Zamora": {
-			"iso_code": "ES-ZA"
+		"ZA": {
+			"name": "Zamora"
 		},
-		"Zaragoza": {
-			"iso_code": "ES-Z"
+		"Z": {
+			"name": "Zaragoza"
 		}
 	}
 }

@@ -1,24 +1,24 @@
 {
 	"country_code": "CV",
 	"subdivisions": {
-		"Boa Vista": {
-			"iso_code": "CV-BV"
+		"BV": {
+			"name": "Boa Vista"
 		},
-		"Brava": {
-			"iso_code": "CV-BR"
+		"BR": {
+			"name": "Brava"
 		},
 		"Fogo": [],
-		"Maio": {
-			"iso_code": "CV-MA"
+		"MA": {
+			"name": "Maio"
 		},
-		"Sal": {
-			"iso_code": "CV-SL"
+		"SL": {
+			"name": "Sal"
 		},
 		"Santiago": [],
 		"Santo Antão": [],
 		"São Nicolau": [],
-		"São Vicente": {
-			"iso_code": "CV-SV"
+		"SV": {
+			"name": "São Vicente"
 		}
 	}
 }

@@ -1,0 +1,59 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"SD",
+		"Qingdao Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Chengyang Qu": {
+			"name": "Chengyang Qu",
+			"local_name": "城阳区"
+		},
+		"Huangdao Qu": {
+			"name": "Huangdao Qu",
+			"local_name": "黄岛区"
+		},
+		"Jimo Shi": {
+			"name": "Jimo Shi",
+			"local_name": "即墨市"
+		},
+		"Jiaonan Shi": {
+			"name": "Jiaonan Shi",
+			"local_name": "胶南市"
+		},
+		"Jiaozhou Shi": {
+			"name": "Jiaozhou Shi",
+			"local_name": "胶州市"
+		},
+		"Laixi Shi": {
+			"name": "Laixi Shi",
+			"local_name": "莱西市"
+		},
+		"Laoshan Qu": {
+			"name": "Laoshan Qu",
+			"local_name": "崂山区"
+		},
+		"Licang Qu": {
+			"name": "Licang Qu",
+			"local_name": "李沧区"
+		},
+		"Pingdu Shi": {
+			"name": "Pingdu Shi",
+			"local_name": "平度市"
+		},
+		"Shibei Qu": {
+			"name": "Shibei Qu",
+			"local_name": "市北区"
+		},
+		"Shinan Qu": {
+			"name": "Shinan Qu",
+			"local_name": "市南区"
+		},
+		"Sifang Qu": {
+			"name": "Sifang Qu",
+			"local_name": "四方区"
+		}
+	}
+}

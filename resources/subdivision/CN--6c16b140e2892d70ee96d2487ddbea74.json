@@ -1,0 +1,31 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"AH",
+		"Chaohu Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Hanshan Xian": {
+			"name": "Hanshan Xian",
+			"local_name": "含山县"
+		},
+		"He Xian": {
+			"name": "He Xian",
+			"local_name": "和县"
+		},
+		"Juchao Qu": {
+			"name": "Juchao Qu",
+			"local_name": "居巢区"
+		},
+		"Lujiang Xian": {
+			"name": "Lujiang Xian",
+			"local_name": "庐江县"
+		},
+		"Wuwei Xian": {
+			"name": "Wuwei Xian",
+			"local_name": "无为县"
+		}
+	}
+}

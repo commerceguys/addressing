@@ -1,0 +1,49 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"YN",
+		"Lincang Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Cangyuan Xian": {
+			"code": "Cangyuan Xian",
+			"local_code": "沧源佤族自治县",
+			"name": "Cangyuan Xian",
+			"local_name": "沧源县"
+		},
+		"Fengqing Xian": {
+			"name": "Fengqing Xian",
+			"local_name": "凤庆县"
+		},
+		"Gengma Xian": {
+			"code": "Gengma Xian",
+			"local_code": "耿马傣族佤族自治县",
+			"name": "Gengma Xian",
+			"local_name": "耿马县"
+		},
+		"Linxiang Qu": {
+			"name": "Linxiang Qu",
+			"local_name": "临翔区"
+		},
+		"Shuangjiang Xian": {
+			"code": "Shuangjiang Xian",
+			"local_code": "双江拉祜族佤族布朗族傣族自治县",
+			"name": "Shuangjiang Xian",
+			"local_name": "双江县"
+		},
+		"Yongde Xian": {
+			"name": "Yongde Xian",
+			"local_name": "永德县"
+		},
+		"Yun Xian": {
+			"name": "Yun Xian",
+			"local_name": "云县"
+		},
+		"Zhenkang Xian": {
+			"name": "Zhenkang Xian",
+			"local_name": "镇康县"
+		}
+	}
+}

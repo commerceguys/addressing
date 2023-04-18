@@ -1,0 +1,25 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"YN",
+		"Dêqên Zhou"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Dêqên Xian": {
+			"name": "Dêqên Xian",
+			"local_name": "德钦县"
+		},
+		"Weixi Xian": {
+			"code": "Weixi Xian",
+			"local_code": "维西傈僳族自治县",
+			"name": "Weixi Xian",
+			"local_name": "维西县"
+		},
+		"Shangêlila Xian": {
+			"name": "Shangêlila Xian",
+			"local_name": "香格里拉县"
+		}
+	}
+}

@@ -1,0 +1,27 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"AH",
+		"Tongling shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Jiao Qu": {
+			"name": "Jiao Qu",
+			"local_name": "郊区"
+		},
+		"Shizishan Qu": {
+			"name": "Shizishan Qu",
+			"local_name": "狮子山区"
+		},
+		"Tongguanshan Qu": {
+			"name": "Tongguanshan Qu",
+			"local_name": "铜官山区"
+		},
+		"Tongling Xian": {
+			"name": "Tongling Xian",
+			"local_name": "铜陵县"
+		}
+	}
+}

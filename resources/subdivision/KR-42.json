@@ -1,0 +1,82 @@
+{
+	"country_code": "KR",
+	"parents": [
+		"KR",
+		"42"
+	],
+	"locale": "ko",
+	"subdivisions": {
+		"Gangneung-si": {
+			"name": "Gangneung-si",
+			"local_name": "강릉시"
+		},
+		"Goseong-gun": {
+			"name": "Goseong-gun",
+			"local_name": "고성군"
+		},
+		"Donghae-si": {
+			"name": "Donghae-si",
+			"local_name": "동해시"
+		},
+		"Samcheok-si": {
+			"name": "Samcheok-si",
+			"local_name": "삼척시"
+		},
+		"Sokcho-si": {
+			"name": "Sokcho-si",
+			"local_name": "속초시"
+		},
+		"Yanggu-gun": {
+			"name": "Yanggu-gun",
+			"local_name": "양구군"
+		},
+		"Yangyang-gun": {
+			"name": "Yangyang-gun",
+			"local_name": "양양군"
+		},
+		"Yeongwol-gun": {
+			"name": "Yeongwol-gun",
+			"local_name": "영월군"
+		},
+		"Wonju-si": {
+			"name": "Wonju-si",
+			"local_name": "원주시"
+		},
+		"Inje-gun": {
+			"name": "Inje-gun",
+			"local_name": "인제군"
+		},
+		"Jeongseon-gun": {
+			"name": "Jeongseon-gun",
+			"local_name": "정선군"
+		},
+		"Cheorwon-gun": {
+			"name": "Cheorwon-gun",
+			"local_name": "철원군"
+		},
+		"Chuncheon-si": {
+			"name": "Chuncheon-si",
+			"local_name": "춘천시"
+		},
+		"Taebaek-si": {
+			"name": "Taebaek-si",
+			"local_name": "태백시"
+		},
+		"Pyeongchang-gun": {
+			"name": "Pyeongchang-gun",
+			"local_name": "평창군"
+		},
+		"Hongcheon-gun": {
+			"name": "Hongcheon-gun",
+			"local_name": "홍천군"
+		},
+		"Hwacheon-gun": {
+			"name": "Hwacheon-gun",
+			"local_name": "화천군"
+		},
+		"Hoengseong-gun": {
+			"name": "Hoengseong-gun",
+			"local_name": "횡성군"
+		}
+	}
+}

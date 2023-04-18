@@ -1,0 +1,63 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"HB",
+		"Wuhan Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Caidian Qu": {
+			"name": "Caidian Qu",
+			"local_name": "蔡甸区"
+		},
+		"Dongxihu Qu": {
+			"name": "Dongxihu Qu",
+			"local_name": "东西湖区"
+		},
+		"Hannan Qu": {
+			"name": "Hannan Qu",
+			"local_name": "汉南区"
+		},
+		"Hanyang Qu": {
+			"name": "Hanyang Qu",
+			"local_name": "汉阳区"
+		},
+		"Hongshan Qu": {
+			"name": "Hongshan Qu",
+			"local_name": "洪山区"
+		},
+		"Huangpi Qu": {
+			"name": "Huangpi Qu",
+			"local_name": "黄陂区"
+		},
+		"Jiang'an Qu": {
+			"name": "Jiang'an Qu",
+			"local_name": "江岸区"
+		},
+		"Jianghan Qu": {
+			"name": "Jianghan Qu",
+			"local_name": "江汉区"
+		},
+		"Jiangxia Qu": {
+			"name": "Jiangxia Qu",
+			"local_name": "江夏区"
+		},
+		"Qiaokou Qu": {
+			"name": "Qiaokou Qu",
+			"local_name": "硚口区"
+		},
+		"Qingshan Qu": {
+			"name": "Qingshan Qu",
+			"local_name": "青山区"
+		},
+		"Wuchang Qu": {
+			"name": "Wuchang Qu",
+			"local_name": "武昌区"
+		},
+		"Xinzhou Qu": {
+			"name": "Xinzhou Qu",
+			"local_name": "新洲区"
+		}
+	}
+}

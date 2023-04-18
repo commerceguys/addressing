@@ -1,0 +1,31 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"JL",
+		"Baicheng Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Da'an Shi": {
+			"name": "Da'an Shi",
+			"local_name": "大安市"
+		},
+		"Taobei Qu": {
+			"name": "Taobei Qu",
+			"local_name": "洮北区"
+		},
+		"Taonan Shi": {
+			"name": "Taonan Shi",
+			"local_name": "洮南市"
+		},
+		"Tongyu Xian": {
+			"name": "Tongyu Xian",
+			"local_name": "通榆县"
+		},
+		"Zhenlai Xian": {
+			"name": "Zhenlai Xian",
+			"local_name": "镇赉县"
+		}
+	}
+}

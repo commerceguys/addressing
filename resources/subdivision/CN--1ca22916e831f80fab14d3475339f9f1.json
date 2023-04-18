@@ -1,0 +1,83 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"XZ",
+		"Xigazê Diqu"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Ngamring Xian": {
+			"name": "Ngamring Xian",
+			"local_name": "昂仁县"
+		},
+		"Bainang Xian": {
+			"name": "Bainang Xian",
+			"local_name": "白朗县"
+		},
+		"Dinggyê Xian": {
+			"name": "Dinggyê Xian",
+			"local_name": "定结县"
+		},
+		"Tingri Xian": {
+			"name": "Tingri Xian",
+			"local_name": "定日县"
+		},
+		"Gamba Xian": {
+			"name": "Gamba Xian",
+			"local_name": "岗巴县"
+		},
+		"Gyirong Xian": {
+			"name": "Gyirong Xian",
+			"local_name": "吉隆县"
+		},
+		"Gyangzê Xian": {
+			"name": "Gyangzê Xian",
+			"local_name": "江孜县"
+		},
+		"Kangmar Xian": {
+			"name": "Kangmar Xian",
+			"local_name": "康马县"
+		},
+		"Lhazê Xian": {
+			"name": "Lhazê Xian",
+			"local_name": "拉孜县"
+		},
+		"Namling Xian": {
+			"name": "Namling Xian",
+			"local_name": "南木林县"
+		},
+		"Nyalam Xian": {
+			"name": "Nyalam Xian",
+			"local_name": "聂拉木县"
+		},
+		"Rinbung Xian": {
+			"name": "Rinbung Xian",
+			"local_name": "仁布县"
+		},
+		"Xigazê Shi": {
+			"name": "Xigazê Shi",
+			"local_name": "日喀则市"
+		},
+		"Saga Xian": {
+			"name": "Saga Xian",
+			"local_name": "萨嘎县"
+		},
+		"Sa'gya Xian": {
+			"name": "Sa'gya Xian",
+			"local_name": "萨迦县"
+		},
+		"Xaitongmoin Xian": {
+			"name": "Xaitongmoin Xian",
+			"local_name": "谢通门县"
+		},
+		"Yadong Xian": {
+			"name": "Yadong Xian",
+			"local_name": "亚东县"
+		},
+		"Zhongba Xian": {
+			"name": "Zhongba Xian",
+			"local_name": "仲巴县"
+		}
+	}
+}

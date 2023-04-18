@@ -2,49 +2,49 @@
 	"country_code": "AM",
 	"locale": "hy",
 	"subdivisions": {
-		"Aragatsotn": {
-			"local_code": "Արագածոտն",
-			"iso_code": "AM-AG"
+		"AG": {
+			"name": "Aragatsotn",
+			"local_name": "Արագածոտն"
 		},
-		"Ararat": {
-			"local_code": "Արարատ",
-			"iso_code": "AM-AR"
+		"AR": {
+			"name": "Ararat",
+			"local_name": "Արարատ"
 		},
-		"Armavir": {
-			"local_code": "Արմավիր",
-			"iso_code": "AM-AV"
+		"AV": {
+			"name": "Armavir",
+			"local_name": "Արմավիր"
 		},
-		"Gegharkunik": {
-			"local_code": "Գեղարքունիք",
-			"iso_code": "AM-GR"
+		"GR": {
+			"name": "Gegharkunik",
+			"local_name": "Գեղարքունիք"
 		},
-		"Yerevan": {
-			"local_code": "Երևան",
-			"iso_code": "AM-ER"
+		"ER": {
+			"name": "Yerevan",
+			"local_name": "Երևան"
 		},
-		"Lori": {
-			"local_code": "Լոռի",
-			"iso_code": "AM-LO"
+		"LO": {
+			"name": "Lori",
+			"local_name": "Լոռի"
 		},
-		"Kotayk": {
-			"local_code": "Կոտայք",
-			"iso_code": "AM-KT"
+		"KT": {
+			"name": "Kotayk",
+			"local_name": "Կոտայք"
 		},
-		"Shirak": {
-			"local_code": "Շիրակ",
-			"iso_code": "AM-SH"
+		"SH": {
+			"name": "Shirak",
+			"local_name": "Շիրակ"
 		},
-		"Syunik": {
-			"local_code": "Սյունիք",
-			"iso_code": "AM-SU"
+		"SU": {
+			"name": "Syunik",
+			"local_name": "Սյունիք"
 		},
-		"Vayots Dzor": {
-			"local_code": "Վայոց ձոր",
-			"iso_code": "AM-VD"
+		"VD": {
+			"name": "Vayots Dzor",
+			"local_name": "Վայոց ձոր"
 		},
-		"Tavush": {
-			"local_code": "Տավուշ",
-			"iso_code": "AM-TV"
+		"TV": {
+			"name": "Tavush",
+			"local_name": "Տավուշ"
 		}
 	}
 }

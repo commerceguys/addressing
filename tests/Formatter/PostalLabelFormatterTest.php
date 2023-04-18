@@ -98,7 +98,7 @@ final class PostalLabelFormatterTest extends TestCase
         $address = new Address();
         $address = $address
             ->withCountryCode('JP')
-            ->withAdministrativeArea('Hokkaido')
+            ->withAdministrativeArea('01')
             ->withLocality('Some City')
             ->withAddressLine1('Address Line 1')
             ->withAddressLine2('Address Line 2')

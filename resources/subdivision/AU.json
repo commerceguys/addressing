@@ -2,36 +2,36 @@
 	"country_code": "AU",
 	"subdivisions": {
 		"ACT": {
-			"name": "Australian Capital Territory",
-			"iso_code": "AU-ACT"
+			"code": "ACT",
+			"name": "Australian Capital Territory"
 		},
 		"NSW": {
-			"name": "New South Wales",
-			"iso_code": "AU-NSW"
+			"code": "NSW",
+			"name": "New South Wales"
 		},
 		"NT": {
-			"name": "Northern Territory",
-			"iso_code": "AU-NT"
+			"code": "NT",
+			"name": "Northern Territory"
 		},
 		"QLD": {
-			"name": "Queensland",
-			"iso_code": "AU-QLD"
+			"code": "QLD",
+			"name": "Queensland"
 		},
 		"SA": {
-			"name": "South Australia",
-			"iso_code": "AU-SA"
+			"code": "SA",
+			"name": "South Australia"
 		},
 		"TAS": {
-			"name": "Tasmania",
-			"iso_code": "AU-TAS"
+			"code": "TAS",
+			"name": "Tasmania"
 		},
 		"VIC": {
-			"name": "Victoria",
-			"iso_code": "AU-VIC"
+			"code": "VIC",
+			"name": "Victoria"
 		},
 		"WA": {
-			"name": "Western Australia",
-			"iso_code": "AU-WA"
+			"code": "WA",
+			"name": "Western Australia"
 		}
 	}
 }

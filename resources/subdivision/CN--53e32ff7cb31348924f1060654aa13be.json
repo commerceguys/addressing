@@ -1,0 +1,39 @@
+{
+	"country_code": "CN",
+	"parents": [
+		"CN",
+		"ZJ",
+		"Jiaxing Shi"
+	],
+	"locale": "zh-Hans",
+	"subdivisions": {
+		"Haining Shi": {
+			"name": "Haining Shi",
+			"local_name": "海宁市"
+		},
+		"Haiyan Xian": {
+			"name": "Haiyan Xian",
+			"local_name": "海盐县"
+		},
+		"Jiashan Xian": {
+			"name": "Jiashan Xian",
+			"local_name": "嘉善县"
+		},
+		"Nanhu Qu": {
+			"name": "Nanhu Qu",
+			"local_name": "南湖区"
+		},
+		"Pinghu Shi": {
+			"name": "Pinghu Shi",
+			"local_name": "平湖市"
+		},
+		"Tongxiang Shi": {
+			"name": "Tongxiang Shi",
+			"local_name": "桐乡市"
+		},
+		"Xiuzhou Qu": {
+			"name": "Xiuzhou Qu",
+			"local_name": "秀洲区"
+		}
+	}
+}
