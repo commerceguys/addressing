@@ -8,51 +8,39 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Fengqiu Xian": {
-			"name": "Fengqiu Xian",
 			"local_name": "封丘县"
 		},
 		"Fengquan Qu": {
-			"name": "Fengquan Qu",
 			"local_name": "凤泉区"
 		},
 		"Hongqi Qu": {
-			"name": "Hongqi Qu",
 			"local_name": "红旗区"
 		},
 		"Huixian Shi": {
-			"name": "Huixian Shi",
 			"local_name": "辉县市"
 		},
 		"Huojia Xian": {
-			"name": "Huojia Xian",
 			"local_name": "获嘉县"
 		},
 		"Muye Qu": {
-			"name": "Muye Qu",
 			"local_name": "牧野区"
 		},
 		"Weibin Qu": {
-			"name": "Weibin Qu",
 			"local_name": "卫滨区"
 		},
 		"Weihui Shi": {
-			"name": "Weihui Shi",
 			"local_name": "卫辉市"
 		},
 		"Xinxiang Xian": {
-			"name": "Xinxiang Xian",
 			"local_name": "新乡县"
 		},
 		"Yanjin Xian": {
-			"name": "Yanjin Xian",
 			"local_name": "延津县"
 		},
 		"Yuanyang Xian": {
-			"name": "Yuanyang Xian",
 			"local_name": "原阳县"
 		},
 		"Changyuan Xian": {
-			"name": "Changyuan Xian",
 			"local_name": "长垣县"
 		}
 	}

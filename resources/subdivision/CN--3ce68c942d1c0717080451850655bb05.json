@@ -8,31 +8,24 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Liancheng Xian": {
-			"name": "Liancheng Xian",
 			"local_name": "连城县"
 		},
 		"Shanghang Xian": {
-			"name": "Shanghang Xian",
 			"local_name": "上杭县"
 		},
 		"Wuping Xian": {
-			"name": "Wuping Xian",
 			"local_name": "武平县"
 		},
 		"Xinluo Qu": {
-			"name": "Xinluo Qu",
 			"local_name": "新罗区"
 		},
 		"Yongding Xian": {
-			"name": "Yongding Xian",
 			"local_name": "永定县"
 		},
 		"Zhangping Shi": {
-			"name": "Zhangping Shi",
 			"local_name": "漳平市"
 		},
 		"Changting Xian": {
-			"name": "Changting Xian",
 			"local_name": "长汀县"
 		}
 	}

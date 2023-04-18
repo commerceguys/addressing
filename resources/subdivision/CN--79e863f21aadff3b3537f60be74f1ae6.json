@@ -8,27 +8,21 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Dantu Qu": {
-			"name": "Dantu Qu",
 			"local_name": "丹徒区"
 		},
 		"Danyang Shi": {
-			"name": "Danyang Shi",
 			"local_name": "丹阳市"
 		},
 		"Jingkou Qu": {
-			"name": "Jingkou Qu",
 			"local_name": "京口区"
 		},
 		"Jurong Shi": {
-			"name": "Jurong Shi",
 			"local_name": "句容市"
 		},
 		"Runzhou Qu": {
-			"name": "Runzhou Qu",
 			"local_name": "润州区"
 		},
 		"Yangzhong Shi": {
-			"name": "Yangzhong Shi",
 			"local_name": "扬中市"
 		}
 	}

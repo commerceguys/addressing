@@ -8,29 +8,22 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Gongzhuling Shi": {
-			"name": "Gongzhuling Shi",
 			"local_name": "公主岭市"
 		},
 		"Lishu Xian": {
-			"name": "Lishu Xian",
 			"local_name": "梨树县"
 		},
 		"Shuangliao Shi": {
-			"name": "Shuangliao Shi",
 			"local_name": "双辽市"
 		},
 		"Tiedong Qu": {
-			"name": "Tiedong Qu",
 			"local_name": "铁东区"
 		},
 		"Tiexi Qu": {
-			"name": "Tiexi Qu",
 			"local_name": "铁西区"
 		},
 		"Yitong Xian": {
-			"code": "Yitong Xian",
 			"local_code": "伊通满族自治县",
-			"name": "Yitong Xian",
 			"local_name": "伊通县"
 		}
 	}

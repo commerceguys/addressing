@@ -8,39 +8,30 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Fu'an Shi": {
-			"name": "Fu'an Shi",
 			"local_name": "福安市"
 		},
 		"Fuding Shi": {
-			"name": "Fuding Shi",
 			"local_name": "福鼎市"
 		},
 		"Gutian Xian": {
-			"name": "Gutian Xian",
 			"local_name": "古田县"
 		},
 		"Jiaocheng Qu": {
-			"name": "Jiaocheng Qu",
 			"local_name": "蕉城区"
 		},
 		"Pingnan Xian": {
-			"name": "Pingnan Xian",
 			"local_name": "屏南县"
 		},
 		"Shouning Xian": {
-			"name": "Shouning Xian",
 			"local_name": "寿宁县"
 		},
 		"Xiapu Xian": {
-			"name": "Xiapu Xian",
 			"local_name": "霞浦县"
 		},
 		"Zherong Xian": {
-			"name": "Zherong Xian",
 			"local_name": "柘荣县"
 		},
 		"Zhouning Xian": {
-			"name": "Zhouning Xian",
 			"local_name": "周宁县"
 		}
 	}

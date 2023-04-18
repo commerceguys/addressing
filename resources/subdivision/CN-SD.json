@@ -7,87 +7,70 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Binzhou shi": {
-			"name": "Binzhou shi",
 			"local_name": "滨州市",
 			"has_children": true
 		},
 		"Dezhou Shi": {
-			"name": "Dezhou Shi",
 			"local_name": "德州市",
 			"has_children": true
 		},
 		"Dongying Shi": {
-			"name": "Dongying Shi",
 			"local_name": "东营市",
 			"has_children": true
 		},
 		"Heze Shi": {
-			"name": "Heze Shi",
 			"local_name": "菏泽市",
 			"has_children": true
 		},
 		"Jinan Shi": {
-			"name": "Jinan Shi",
 			"local_name": "济南市",
 			"has_children": true
 		},
 		"Jining Shi": {
-			"name": "Jining Shi",
 			"local_name": "济宁市",
 			"has_children": true
 		},
 		"Laiwu Shi": {
-			"name": "Laiwu Shi",
 			"local_name": "莱芜市",
 			"has_children": true
 		},
 		"Liaocheng Shi": {
-			"name": "Liaocheng Shi",
 			"local_name": "聊城市",
 			"has_children": true
 		},
 		"Linyi Shi": {
-			"name": "Linyi Shi",
 			"local_name": "临沂市",
 			"has_children": true
 		},
 		"Qingdao Shi": {
-			"name": "Qingdao Shi",
 			"local_name": "青岛市",
 			"has_children": true
 		},
 		"Rizhao Shi": {
-			"name": "Rizhao Shi",
 			"local_name": "日照市",
 			"has_children": true
 		},
 		"Tai'an Shi": {
-			"name": "Tai'an Shi",
 			"local_name": "泰安市",
 			"has_children": true
 		},
 		"Weihai Shi": {
-			"name": "Weihai Shi",
 			"local_name": "威海市",
 			"has_children": true
 		},
 		"Weifang shi": {
-			"name": "Weifang shi",
 			"local_name": "潍坊市",
 			"has_children": true
 		},
 		"Yantai Shi": {
-			"name": "Yantai Shi",
 			"local_name": "烟台市",
 			"has_children": true
 		},
 		"Zaozhuang Shi": {
-			"name": "Zaozhuang Shi",
 			"local_name": "枣庄市",
 			"has_children": true
 		},
 		"Zibo Shi": {
-			"name": "Zibo Shi",
 			"local_name": "淄博市",
 			"has_children": true
 		}

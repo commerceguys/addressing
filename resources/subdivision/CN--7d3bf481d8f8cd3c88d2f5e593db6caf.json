@@ -8,43 +8,33 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Aimin Qu": {
-			"name": "Aimin Qu",
 			"local_name": "爱民区"
 		},
 		"Dong'an Qu": {
-			"name": "Dong'an Qu",
 			"local_name": "东安区"
 		},
 		"Dongning Xian": {
-			"name": "Dongning Xian",
 			"local_name": "东宁县"
 		},
 		"Hailin Shi": {
-			"name": "Hailin Shi",
 			"local_name": "海林市"
 		},
 		"Linkou Xian": {
-			"name": "Linkou Xian",
 			"local_name": "林口县"
 		},
 		"Muling Shi": {
-			"name": "Muling Shi",
 			"local_name": "穆棱市"
 		},
 		"Ning'an Shi": {
-			"name": "Ning'an Shi",
 			"local_name": "宁安市"
 		},
 		"Suifenhe Shi": {
-			"name": "Suifenhe Shi",
 			"local_name": "绥芬河市"
 		},
 		"Xi'an Qu": {
-			"name": "Xi'an Qu",
 			"local_name": "西安区"
 		},
 		"Yangming Qu": {
-			"name": "Yangming Qu",
 			"local_name": "阳明区"
 		}
 	}

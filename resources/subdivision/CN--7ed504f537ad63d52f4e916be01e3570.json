@@ -8,27 +8,21 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Bayuquan Qu": {
-			"name": "Bayuquan Qu",
 			"local_name": "鲅鱼圈区"
 		},
 		"Dashiqiao Shi": {
-			"name": "Dashiqiao Shi",
 			"local_name": "大石桥市"
 		},
 		"Gaizhou Shi": {
-			"name": "Gaizhou Shi",
 			"local_name": "盖州市"
 		},
 		"Laobian Qu": {
-			"name": "Laobian Qu",
 			"local_name": "老边区"
 		},
 		"Xishi Qu": {
-			"name": "Xishi Qu",
 			"local_name": "西市区"
 		},
 		"Zhanqian Qu": {
-			"name": "Zhanqian Qu",
 			"local_name": "站前区"
 		}
 	}

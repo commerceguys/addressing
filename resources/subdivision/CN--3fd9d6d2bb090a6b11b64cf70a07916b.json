@@ -8,11 +8,9 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Jinchuan Qu": {
-			"name": "Jinchuan Qu",
 			"local_name": "金川区"
 		},
 		"Yongchang Xian": {
-			"name": "Yongchang Xian",
 			"local_name": "永昌县"
 		}
 	}

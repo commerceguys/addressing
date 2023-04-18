@@ -8,23 +8,18 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Heshan Qu": {
-			"name": "Heshan Qu",
 			"local_name": "鹤山区"
 		},
 		"Xun Xian": {
-			"name": "Xun Xian",
 			"local_name": "浚县"
 		},
 		"Qibin Qu": {
-			"name": "Qibin Qu",
 			"local_name": "淇滨区"
 		},
 		"Qi Xian": {
-			"name": "Qi Xian",
 			"local_name": "淇县"
 		},
 		"Shancheng Qu": {
-			"name": "Shancheng Qu",
 			"local_name": "山城区"
 		}
 	}

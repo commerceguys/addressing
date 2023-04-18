@@ -8,27 +8,21 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Chindu Xian": {
-			"name": "Chindu Xian",
 			"local_name": "称多县"
 		},
 		"Nangqên Xian": {
-			"name": "Nangqên Xian",
 			"local_name": "囊谦县"
 		},
 		"Qumarlêb Xian": {
-			"name": "Qumarlêb Xian",
 			"local_name": "曲麻莱县"
 		},
 		"Yushu Xian": {
-			"name": "Yushu Xian",
 			"local_name": "玉树县"
 		},
 		"Zadoi Xian": {
-			"name": "Zadoi Xian",
 			"local_name": "杂多县"
 		},
 		"Zhidoi Xian": {
-			"name": "Zhidoi Xian",
 			"local_name": "治多县"
 		}
 	}

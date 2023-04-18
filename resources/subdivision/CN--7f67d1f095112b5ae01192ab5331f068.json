@@ -8,47 +8,36 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Daguan Xian": {
-			"name": "Daguan Xian",
 			"local_name": "大关县"
 		},
 		"Ludian Xian": {
-			"name": "Ludian Xian",
 			"local_name": "鲁甸县"
 		},
 		"Qiaojia Xian": {
-			"name": "Qiaojia Xian",
 			"local_name": "巧家县"
 		},
 		"Shuifu Xian": {
-			"name": "Shuifu Xian",
 			"local_name": "水富县"
 		},
 		"Suijiang Xian": {
-			"name": "Suijiang Xian",
 			"local_name": "绥江县"
 		},
 		"Weixin Xian": {
-			"name": "Weixin Xian",
 			"local_name": "威信县"
 		},
 		"Yanjin Xian": {
-			"name": "Yanjin Xian",
 			"local_name": "盐津县"
 		},
 		"Yiliang Xian": {
-			"name": "Yiliang Xian",
 			"local_name": "彝良县"
 		},
 		"Yongshan Xian": {
-			"name": "Yongshan Xian",
 			"local_name": "永善县"
 		},
 		"Zhaoyang Qu": {
-			"name": "Zhaoyang Qu",
 			"local_name": "昭阳区"
 		},
 		"Zhenxiong Xian": {
-			"name": "Zhenxiong Xian",
 			"local_name": "镇雄县"
 		}
 	}

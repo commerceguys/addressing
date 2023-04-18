@@ -8,51 +8,39 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Ar Horqin Qi": {
-			"name": "Ar Horqin Qi",
 			"local_name": "阿鲁科尔沁旗"
 		},
 		"Aohan Qi": {
-			"name": "Aohan Qi",
 			"local_name": "敖汉旗"
 		},
 		"Bairin Youqi": {
-			"name": "Bairin Youqi",
 			"local_name": "巴林右旗"
 		},
 		"Bairin Zuoqi": {
-			"name": "Bairin Zuoqi",
 			"local_name": "巴林左旗"
 		},
 		"Hongshan Qu": {
-			"name": "Hongshan Qu",
 			"local_name": "红山区"
 		},
 		"Harqin Qi": {
-			"name": "Harqin Qi",
 			"local_name": "喀喇沁旗"
 		},
 		"Hexigten Qi": {
-			"name": "Hexigten Qi",
 			"local_name": "克什克腾旗"
 		},
 		"Linxi Xian": {
-			"name": "Linxi Xian",
 			"local_name": "林西县"
 		},
 		"Ningcheng Xian": {
-			"name": "Ningcheng Xian",
 			"local_name": "宁城县"
 		},
 		"Songshan Qu": {
-			"name": "Songshan Qu",
 			"local_name": "松山区"
 		},
 		"Ongniud Qi": {
-			"name": "Ongniud Qi",
 			"local_name": "翁牛特旗"
 		},
 		"Yuanbaoshan Qu": {
-			"name": "Yuanbaoshan Qu",
 			"local_name": "元宝山区"
 		}
 	}

@@ -7,105 +7,84 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Chaozhou Shi": {
-			"name": "Chaozhou Shi",
 			"local_name": "潮州市",
 			"has_children": true
 		},
 		"Dongguan Shi": {
-			"name": "Dongguan Shi",
 			"local_name": "东莞市"
 		},
 		"Foshan Shi": {
-			"name": "Foshan Shi",
 			"local_name": "佛山市",
 			"has_children": true
 		},
 		"Guangzhou Shi": {
-			"name": "Guangzhou Shi",
 			"local_name": "广州市",
 			"has_children": true
 		},
 		"Heyuan Shi": {
-			"name": "Heyuan Shi",
 			"local_name": "河源市",
 			"has_children": true
 		},
 		"Huizhou Shi": {
-			"name": "Huizhou Shi",
 			"local_name": "惠州市",
 			"has_children": true
 		},
 		"Jiangmen Shi": {
-			"name": "Jiangmen Shi",
 			"local_name": "江门市",
 			"has_children": true
 		},
 		"Jieyang Shi": {
-			"name": "Jieyang Shi",
 			"local_name": "揭阳市",
 			"has_children": true
 		},
 		"Maoming Shi": {
-			"name": "Maoming Shi",
 			"local_name": "茂名市",
 			"has_children": true
 		},
 		"Meizhou Shi": {
-			"name": "Meizhou Shi",
 			"local_name": "梅州市",
 			"has_children": true
 		},
 		"Qingyuan Shi": {
-			"name": "Qingyuan Shi",
 			"local_name": "清远市",
 			"has_children": true
 		},
 		"Shantou Shi": {
-			"name": "Shantou Shi",
 			"local_name": "汕头市",
 			"has_children": true
 		},
 		"Shanwei Shi": {
-			"name": "Shanwei Shi",
 			"local_name": "汕尾市",
 			"has_children": true
 		},
 		"Shaoguan Shi": {
-			"name": "Shaoguan Shi",
 			"local_name": "韶关市",
 			"has_children": true
 		},
 		"Shenzhen Shi": {
-			"name": "Shenzhen Shi",
 			"local_name": "深圳市",
 			"has_children": true
 		},
 		"Yangjiang Shi": {
-			"name": "Yangjiang Shi",
 			"local_name": "阳江市",
 			"has_children": true
 		},
 		"Yunfu Shi": {
-			"name": "Yunfu Shi",
 			"local_name": "云浮市",
 			"has_children": true
 		},
 		"Zhanjiang Shi": {
-			"name": "Zhanjiang Shi",
 			"local_name": "湛江市",
 			"has_children": true
 		},
 		"Zhaoqing Shi": {
-			"name": "Zhaoqing Shi",
 			"local_name": "肇庆市",
 			"has_children": true
 		},
 		"Zhongshan Shi": {
-			"name": "Zhongshan Shi",
 			"local_name": "中山市"
 		},
 		"Zhuhai Shi": {
-			"name": "Zhuhai Shi",
 			"local_name": "珠海市",
 			"has_children": true
 		}

@@ -8,31 +8,24 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Huangshan Qu": {
-			"name": "Huangshan Qu",
 			"local_name": "黄山区"
 		},
 		"Huizhou Qu": {
-			"name": "Huizhou Qu",
 			"local_name": "徽州区"
 		},
 		"Qimen Xian": {
-			"name": "Qimen Xian",
 			"local_name": "祁门县"
 		},
 		"She Xian": {
-			"name": "She Xian",
 			"local_name": "歙县"
 		},
 		"Tunxi Qu": {
-			"name": "Tunxi Qu",
 			"local_name": "屯溪区"
 		},
 		"Xiuning Xian": {
-			"name": "Xiuning Xian",
 			"local_name": "休宁县"
 		},
 		"Yi Xian": {
-			"name": "Yi Xian",
 			"local_name": "黟县"
 		}
 	}

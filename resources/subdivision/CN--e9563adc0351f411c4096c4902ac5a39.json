@@ -8,33 +8,25 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Beipiao Shi": {
-			"name": "Beipiao Shi",
 			"local_name": "北票市"
 		},
 		"Chaoyang Xian": {
-			"name": "Chaoyang Xian",
 			"local_name": "朝阳县"
 		},
 		"Jianping Xian": {
-			"name": "Jianping Xian",
 			"local_name": "建平县"
 		},
 		"Harqin Zuoyi Xian": {
-			"code": "Harqin Zuoyi Xian",
 			"local_code": "喀喇沁左翼蒙古族自治县",
-			"name": "Harqin Zuoyi Xian",
 			"local_name": "喀喇沁左翼县"
 		},
 		"Lingyuan Shi": {
-			"name": "Lingyuan Shi",
 			"local_name": "凌源市"
 		},
 		"Longcheng Qu": {
-			"name": "Longcheng Qu",
 			"local_name": "龙城区"
 		},
 		"Shuangta Qu": {
-			"name": "Shuangta Qu",
 			"local_name": "双塔区"
 		}
 	}

@@ -8,43 +8,33 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Baihe Xian": {
-			"name": "Baihe Xian",
 			"local_name": "白河县"
 		},
 		"Hanbin Qu": {
-			"name": "Hanbin Qu",
 			"local_name": "汉滨区"
 		},
 		"Hanyin Xian": {
-			"name": "Hanyin Xian",
 			"local_name": "汉阴县"
 		},
 		"Langao Xian": {
-			"name": "Langao Xian",
 			"local_name": "岚皋县"
 		},
 		"Ningshan Xian": {
-			"name": "Ningshan Xian",
 			"local_name": "宁陕县"
 		},
 		"Pingli Xian": {
-			"name": "Pingli Xian",
 			"local_name": "平利县"
 		},
 		"Shiquan Xian": {
-			"name": "Shiquan Xian",
 			"local_name": "石泉县"
 		},
 		"Xunyang Xian": {
-			"name": "Xunyang Xian",
 			"local_name": "旬阳县"
 		},
 		"Zhenping Xian": {
-			"name": "Zhenping Xian",
 			"local_name": "镇坪县"
 		},
 		"Ziyang Xian": {
-			"name": "Ziyang Xian",
 			"local_name": "紫阳县"
 		}
 	}

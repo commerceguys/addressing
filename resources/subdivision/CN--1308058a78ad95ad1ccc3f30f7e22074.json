@@ -8,51 +8,39 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Anxi Xian": {
-			"name": "Anxi Xian",
 			"local_name": "安溪县"
 		},
 		"Dehua Xian": {
-			"name": "Dehua Xian",
 			"local_name": "德化县"
 		},
 		"Fengze Qu": {
-			"name": "Fengze Qu",
 			"local_name": "丰泽区"
 		},
 		"Hui'an Xian": {
-			"name": "Hui'an Xian",
 			"local_name": "惠安县"
 		},
 		"Jinmen Xian": {
-			"name": "Jinmen Xian",
 			"local_name": "金门县"
 		},
 		"Jinjiang Shi": {
-			"name": "Jinjiang Shi",
 			"local_name": "晋江市"
 		},
 		"Licheng Qu": {
-			"name": "Licheng Qu",
 			"local_name": "鲤城区"
 		},
 		"Luojiang Qu": {
-			"name": "Luojiang Qu",
 			"local_name": "洛江区"
 		},
 		"Nan'an Shi": {
-			"name": "Nan'an Shi",
 			"local_name": "南安市"
 		},
 		"Quangang Qu": {
-			"name": "Quangang Qu",
 			"local_name": "泉港区"
 		},
 		"Shishi Shi": {
-			"name": "Shishi Shi",
 			"local_name": "石狮市"
 		},
 		"Yongchun Xian": {
-			"name": "Yongchun Xian",
 			"local_name": "永春县"
 		}
 	}

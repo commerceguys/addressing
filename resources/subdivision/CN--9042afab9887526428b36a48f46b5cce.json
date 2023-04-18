@@ -8,55 +8,42 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Cangshan Qu": {
-			"name": "Cangshan Qu",
 			"local_name": "仓山区"
 		},
 		"Fuqing Shi": {
-			"name": "Fuqing Shi",
 			"local_name": "福清市"
 		},
 		"Gulou Qu": {
-			"name": "Gulou Qu",
 			"local_name": "鼓楼区"
 		},
 		"Jin'an Qu": {
-			"name": "Jin'an Qu",
 			"local_name": "晋安区"
 		},
 		"Lianjiang Xian": {
-			"name": "Lianjiang Xian",
 			"local_name": "连江县"
 		},
 		"Luoyuan Xian": {
-			"name": "Luoyuan Xian",
 			"local_name": "罗源县"
 		},
 		"Mawei Qu": {
-			"name": "Mawei Qu",
 			"local_name": "马尾区"
 		},
 		"Minhou Xian": {
-			"name": "Minhou Xian",
 			"local_name": "闽侯县"
 		},
 		"Minqing Xian": {
-			"name": "Minqing Xian",
 			"local_name": "闽清县"
 		},
 		"Pingtan Xian": {
-			"name": "Pingtan Xian",
 			"local_name": "平潭县"
 		},
 		"Taijiang Qu": {
-			"name": "Taijiang Qu",
 			"local_name": "台江区"
 		},
 		"Yongtai Xian": {
-			"name": "Yongtai Xian",
 			"local_name": "永泰县"
 		},
 		"Changle Shi": {
-			"name": "Changle Shi",
 			"local_name": "长乐市"
 		}
 	}

@@ -7,95 +7,72 @@
 	"locale": "ko",
 	"subdivisions": {
 		"Gyeongsan-si": {
-			"name": "Gyeongsan-si",
 			"local_name": "경산시"
 		},
 		"Gyeongju-si": {
-			"name": "Gyeongju-si",
 			"local_name": "경주시"
 		},
 		"Goryeong-gun": {
-			"name": "Goryeong-gun",
 			"local_name": "고령군"
 		},
 		"Gumi-si": {
-			"name": "Gumi-si",
 			"local_name": "구미시"
 		},
 		"Gunwi-gun": {
-			"name": "Gunwi-gun",
 			"local_name": "군위군"
 		},
 		"Gimcheon-si": {
-			"name": "Gimcheon-si",
 			"local_name": "김천시"
 		},
 		"Mungyeong-si": {
-			"name": "Mungyeong-si",
 			"local_name": "문경시"
 		},
 		"Bonghwa-gun": {
-			"name": "Bonghwa-gun",
 			"local_name": "봉화군"
 		},
 		"Sangju-si": {
-			"name": "Sangju-si",
 			"local_name": "상주시"
 		},
 		"Seongju-gun": {
-			"name": "Seongju-gun",
 			"local_name": "성주군"
 		},
 		"Andong-si": {
-			"name": "Andong-si",
 			"local_name": "안동시"
 		},
 		"Yeongdeok-gun": {
-			"name": "Yeongdeok-gun",
 			"local_name": "영덕군"
 		},
 		"Yeongyang-gun": {
-			"name": "Yeongyang-gun",
 			"local_name": "영양군"
 		},
 		"Yeongju-si": {
-			"name": "Yeongju-si",
 			"local_name": "영주시"
 		},
 		"Yeongcheon-si": {
-			"name": "Yeongcheon-si",
 			"local_name": "영천시"
 		},
 		"Yecheon-gun": {
-			"name": "Yecheon-gun",
 			"local_name": "예천군"
 		},
 		"Ulleung-gun": {
-			"name": "Ulleung-gun",
 			"local_name": "울릉군"
 		},
 		"Uljin-gun": {
-			"name": "Uljin-gun",
 			"local_name": "울진군"
 		},
 		"Uiseong-gun": {
-			"name": "Uiseong-gun",
 			"local_name": "의성군"
 		},
 		"Cheongdo-gun": {
-			"name": "Cheongdo-gun",
 			"local_name": "청도군"
 		},
 		"Cheongsong-gun": {
-			"name": "Cheongsong-gun",
 			"local_name": "청송군"
 		},
 		"Chilgok-gun": {
-			"name": "Chilgok-gun",
 			"local_name": "칠곡군"
 		},
 		"Pohang-si": {
-			"name": "Pohang-si",
 			"local_name": "포항시",
 			"has_children": true
 		}

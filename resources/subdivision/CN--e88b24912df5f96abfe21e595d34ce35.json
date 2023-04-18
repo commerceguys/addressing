@@ -8,11 +8,9 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Fenyi Xian": {
-			"name": "Fenyi Xian",
 			"local_name": "分宜县"
 		},
 		"Yushui Qu": {
-			"name": "Yushui Qu",
 			"local_name": "渝水区"
 		}
 	}

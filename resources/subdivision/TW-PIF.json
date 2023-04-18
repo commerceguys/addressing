@@ -7,135 +7,102 @@
 	"locale": "zh-Hant",
 	"subdivisions": {
 		"Jiuru Township": {
-			"name": "Jiuru Township",
 			"local_name": "九如鄉"
 		},
 		"Sandimen Township": {
-			"name": "Sandimen Township",
 			"local_name": "三地門鄉"
 		},
 		"Neipu Township": {
-			"name": "Neipu Township",
 			"local_name": "內埔鄉"
 		},
 		"Zhutian Township": {
-			"name": "Zhutian Township",
 			"local_name": "竹田鄉"
 		},
 		"Mudan Township": {
-			"name": "Mudan Township",
 			"local_name": "牡丹鄉"
 		},
 		"Checheng Township": {
-			"name": "Checheng Township",
 			"local_name": "車城鄉"
 		},
 		"Ligang Township": {
-			"name": "Ligang Township",
 			"local_name": "里港鄉"
 		},
 		"Jiadong Township": {
-			"name": "Jiadong Township",
 			"local_name": "佳冬鄉"
 		},
 		"Laiyi Township": {
-			"name": "Laiyi Township",
 			"local_name": "來義鄉"
 		},
 		"Donggang Township": {
-			"name": "Donggang Township",
 			"local_name": "東港鎮"
 		},
 		"Fangshan Township": {
-			"name": "Fangshan Township",
 			"local_name": "枋山鄉"
 		},
 		"Fangliao Township": {
-			"name": "Fangliao Township",
 			"local_name": "枋寮鄉"
 		},
 		"Linbian Township": {
-			"name": "Linbian Township",
 			"local_name": "林邊鄉"
 		},
 		"Changzhi Township": {
-			"name": "Changzhi Township",
 			"local_name": "長治鄉"
 		},
 		"Nanzhou Township": {
-			"name": "Nanzhou Township",
 			"local_name": "南州鄉"
 		},
 		"Pingtung City": {
-			"name": "Pingtung City",
 			"local_name": "屏東市"
 		},
 		"Hengchun Township": {
-			"name": "Hengchun Township",
 			"local_name": "恆春鎮"
 		},
 		"Chunri Township": {
-			"name": "Chunri Township",
 			"local_name": "春日鄉"
 		},
 		"Kanding Township": {
-			"name": "Kanding Township",
 			"local_name": "崁頂鄉"
 		},
 		"Taiwu Township": {
-			"name": "Taiwu Township",
 			"local_name": "泰武鄉"
 		},
 		"Liuqiu Township": {
-			"name": "Liuqiu Township",
 			"local_name": "琉球鄉"
 		},
 		"Gaoshu Township": {
-			"name": "Gaoshu Township",
 			"local_name": "高樹鄉"
 		},
 		"Xinpi Township": {
-			"name": "Xinpi Township",
 			"local_name": "新埤鄉"
 		},
 		"Xinyuan Township": {
-			"name": "Xinyuan Township",
 			"local_name": "新園鄉"
 		},
 		"Shizi Township": {
-			"name": "Shizi Township",
 			"local_name": "獅子鄉"
 		},
 		"Wandan Township": {
-			"name": "Wandan Township",
 			"local_name": "萬丹鄉"
 		},
 		"Wanluan Township": {
-			"name": "Wanluan Township",
 			"local_name": "萬巒鄉"
 		},
 		"Manzhou Township": {
-			"name": "Manzhou Township",
 			"local_name": "滿洲鄉"
 		},
 		"Majia Township": {
-			"name": "Majia Township",
 			"local_name": "瑪家鄉"
 		},
 		"Chaozhou Township": {
-			"name": "Chaozhou Township",
 			"local_name": "潮州鎮"
 		},
 		"Wutai Township": {
-			"name": "Wutai Township",
 			"local_name": "霧台鄉"
 		},
 		"Linluo Township": {
-			"name": "Linluo Township",
 			"local_name": "麟洛鄉"
 		},
 		"Yanpu Township": {
-			"name": "Yanpu Township",
 			"local_name": "鹽埔鄉"
 		}
 	}

@@ -8,33 +8,25 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Beidaihe Qu": {
-			"name": "Beidaihe Qu",
 			"local_name": "北戴河区"
 		},
 		"Changli Xian": {
-			"name": "Changli Xian",
 			"local_name": "昌黎县"
 		},
 		"Funing Xian": {
-			"name": "Funing Xian",
 			"local_name": "抚宁县"
 		},
 		"Haigang Qu": {
-			"name": "Haigang Qu",
 			"local_name": "海港区"
 		},
 		"Lulong Xian": {
-			"name": "Lulong Xian",
 			"local_name": "卢龙县"
 		},
 		"Qinglong Xian": {
-			"code": "Qinglong Xian",
 			"local_code": "青龙满族自治县",
-			"name": "Qinglong Xian",
 			"local_name": "青龙县"
 		},
 		"Shanhaiguan Qu": {
-			"name": "Shanhaiguan Qu",
 			"local_name": "山海关区"
 		}
 	}

@@ -8,31 +8,24 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Aleitai Shi": {
-			"name": "Aleitai Shi",
 			"local_name": "阿勒泰市"
 		},
 		"Burqin Xian": {
-			"name": "Burqin Xian",
 			"local_name": "布尔津县"
 		},
 		"Fuhai Xian": {
-			"name": "Fuhai Xian",
 			"local_name": "福海县"
 		},
 		"Fuyun Xian": {
-			"name": "Fuyun Xian",
 			"local_name": "富蕴县"
 		},
 		"Habahe Xian": {
-			"name": "Habahe Xian",
 			"local_name": "哈巴河县"
 		},
 		"Jeminay Xian": {
-			"name": "Jeminay Xian",
 			"local_name": "吉木乃县"
 		},
 		"Qinghe Xian": {
-			"name": "Qinghe Xian",
 			"local_name": "青河县"
 		}
 	}

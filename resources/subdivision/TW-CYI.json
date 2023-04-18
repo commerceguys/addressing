@@ -7,11 +7,9 @@
 	"locale": "zh-Hant",
 	"subdivisions": {
 		"West District": {
-			"name": "West District",
 			"local_name": "西區"
 		},
 		"East District": {
-			"name": "East District",
 			"local_name": "東區"
 		}
 	}

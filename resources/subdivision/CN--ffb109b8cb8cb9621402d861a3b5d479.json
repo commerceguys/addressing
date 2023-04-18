@@ -8,43 +8,33 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Gujiao Shi": {
-			"name": "Gujiao Shi",
 			"local_name": "古交市"
 		},
 		"Jiancaoping Qu": {
-			"name": "Jiancaoping Qu",
 			"local_name": "尖草坪区"
 		},
 		"Jinyuan Qu": {
-			"name": "Jinyuan Qu",
 			"local_name": "晋源区"
 		},
 		"Loufan Xian": {
-			"name": "Loufan Xian",
 			"local_name": "娄烦县"
 		},
 		"Qingxu Xian": {
-			"name": "Qingxu Xian",
 			"local_name": "清徐县"
 		},
 		"Wanbailin Qu": {
-			"name": "Wanbailin Qu",
 			"local_name": "万柏林区"
 		},
 		"Xiaodian Qu": {
-			"name": "Xiaodian Qu",
 			"local_name": "小店区"
 		},
 		"Xinghualing Qu": {
-			"name": "Xinghualing Qu",
 			"local_name": "杏花岭区"
 		},
 		"Yangqu Xian": {
-			"name": "Yangqu Xian",
 			"local_name": "阳曲县"
 		},
 		"Yingze Qu": {
-			"name": "Yingze Qu",
 			"local_name": "迎泽区"
 		}
 	}

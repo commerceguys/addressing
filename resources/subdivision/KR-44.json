@@ -7,64 +7,49 @@
 	"locale": "ko",
 	"subdivisions": {
 		"Gyeryong-si": {
-			"name": "Gyeryong-si",
 			"local_name": "계룡시"
 		},
 		"Gongju-si": {
-			"name": "Gongju-si",
 			"local_name": "공주시"
 		},
 		"Geumsan-gun": {
-			"name": "Geumsan-gun",
 			"local_name": "금산군"
 		},
 		"Nonsan-si": {
-			"name": "Nonsan-si",
 			"local_name": "논산시"
 		},
 		"Dangjin-si": {
-			"name": "Dangjin-si",
 			"local_name": "당진시"
 		},
 		"Boryeong-si": {
-			"name": "Boryeong-si",
 			"local_name": "보령시"
 		},
 		"Buyeo-gun": {
-			"name": "Buyeo-gun",
 			"local_name": "부여군"
 		},
 		"Seosan-si": {
-			"name": "Seosan-si",
 			"local_name": "서산시"
 		},
 		"Seocheon-gun": {
-			"name": "Seocheon-gun",
 			"local_name": "서천군"
 		},
 		"Asan-si": {
-			"name": "Asan-si",
 			"local_name": "아산시"
 		},
 		"Yesan-gun": {
-			"name": "Yesan-gun",
 			"local_name": "예산군"
 		},
 		"Cheonan-si": {
-			"name": "Cheonan-si",
 			"local_name": "천안시",
 			"has_children": true
 		},
 		"Cheongyang-gun": {
-			"name": "Cheongyang-gun",
 			"local_name": "청양군"
 		},
 		"Taean-gun": {
-			"name": "Taean-gun",
 			"local_name": "태안군"
 		},
 		"Hongseong-gun": {
-			"name": "Hongseong-gun",
 			"local_name": "홍성군"
 		}
 	}

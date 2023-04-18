@@ -8,39 +8,30 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Aksu Shi": {
-			"name": "Aksu Shi",
 			"local_name": "阿克苏市"
 		},
 		"Awat Xian": {
-			"name": "Awat Xian",
 			"local_name": "阿瓦提县"
 		},
 		"Baicheng Xian": {
-			"name": "Baicheng Xian",
 			"local_name": "拜城县"
 		},
 		"Kalpin Xian": {
-			"name": "Kalpin Xian",
 			"local_name": "柯坪县"
 		},
 		"Kuqa Xian": {
-			"name": "Kuqa Xian",
 			"local_name": "库车县"
 		},
 		"Xayar Xian": {
-			"name": "Xayar Xian",
 			"local_name": "沙雅县"
 		},
 		"Wensu Xian": {
-			"name": "Wensu Xian",
 			"local_name": "温宿县"
 		},
 		"Wushi Xian": {
-			"name": "Wushi Xian",
 			"local_name": "乌什县"
 		},
 		"Xinhe Xian": {
-			"name": "Xinhe Xian",
 			"local_name": "新和县"
 		}
 	}

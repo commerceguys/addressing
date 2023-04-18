@@ -8,23 +8,17 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Fugong Xian": {
-			"name": "Fugong Xian",
 			"local_name": "福贡县"
 		},
 		"Gongshan Xian": {
-			"code": "Gongshan Xian",
 			"local_code": "贡山独龙族怒族自治县",
-			"name": "Gongshan Xian",
 			"local_name": "贡山县"
 		},
 		"Lanping Xian": {
-			"code": "Lanping Xian",
 			"local_code": "兰坪白族普米族自治县",
-			"name": "Lanping Xian",
 			"local_name": "兰坪县"
 		},
 		"Lushui Xian": {
-			"name": "Lushui Xian",
 			"local_name": "泸水县"
 		}
 	}

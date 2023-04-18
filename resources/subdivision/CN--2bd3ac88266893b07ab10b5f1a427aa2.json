@@ -8,47 +8,36 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Anren Xian": {
-			"name": "Anren Xian",
 			"local_name": "安仁县"
 		},
 		"Beihu Qu": {
-			"name": "Beihu Qu",
 			"local_name": "北湖区"
 		},
 		"Guidong Xian": {
-			"name": "Guidong Xian",
 			"local_name": "桂东县"
 		},
 		"Guiyang Xian": {
-			"name": "Guiyang Xian",
 			"local_name": "桂阳县"
 		},
 		"Jiahe Xian": {
-			"name": "Jiahe Xian",
 			"local_name": "嘉禾县"
 		},
 		"Linwu Xian": {
-			"name": "Linwu Xian",
 			"local_name": "临武县"
 		},
 		"Rucheng Xian": {
-			"name": "Rucheng Xian",
 			"local_name": "汝城县"
 		},
 		"Suxian Qu": {
-			"name": "Suxian Qu",
 			"local_name": "苏仙区"
 		},
 		"Yizhang Xian": {
-			"name": "Yizhang Xian",
 			"local_name": "宜章县"
 		},
 		"Yongxing Xian": {
-			"name": "Yongxing Xian",
 			"local_name": "永兴县"
 		},
 		"Zixing Shi": {
-			"name": "Zixing Shi",
 			"local_name": "资兴市"
 		}
 	}

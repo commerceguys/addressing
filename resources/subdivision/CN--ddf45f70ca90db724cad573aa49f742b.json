@@ -8,31 +8,24 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Gulin Xian": {
-			"name": "Gulin Xian",
 			"local_name": "古蔺县"
 		},
 		"Hejiang Xian": {
-			"name": "Hejiang Xian",
 			"local_name": "合江县"
 		},
 		"Jiangyang Qu": {
-			"name": "Jiangyang Qu",
 			"local_name": "江阳区"
 		},
 		"Longmatan Qu": {
-			"name": "Longmatan Qu",
 			"local_name": "龙马潭区"
 		},
 		"Lu Xian": {
-			"name": "Lu Xian",
 			"local_name": "泸县"
 		},
 		"Naxi Qu": {
-			"name": "Naxi Qu",
 			"local_name": "纳溪区"
 		},
 		"Xuyong Xian": {
-			"name": "Xuyong Xian",
 			"local_name": "叙永县"
 		}
 	}

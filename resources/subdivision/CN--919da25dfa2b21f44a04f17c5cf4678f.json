@@ -8,75 +8,57 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Anyuan Xian": {
-			"name": "Anyuan Xian",
 			"local_name": "安远县"
 		},
 		"Chongyi Xian": {
-			"name": "Chongyi Xian",
 			"local_name": "崇义县"
 		},
 		"Dayu Xian": {
-			"name": "Dayu Xian",
 			"local_name": "大余县"
 		},
 		"Dingnan Xian": {
-			"name": "Dingnan Xian",
 			"local_name": "定南县"
 		},
 		"Gan Xian": {
-			"name": "Gan Xian",
 			"local_name": "赣县"
 		},
 		"Huichang Xian": {
-			"name": "Huichang Xian",
 			"local_name": "会昌县"
 		},
 		"Longnan Xian": {
-			"name": "Longnan Xian",
 			"local_name": "龙南县"
 		},
 		"Nankang Shi": {
-			"name": "Nankang Shi",
 			"local_name": "南康市"
 		},
 		"Ningdu Xian": {
-			"name": "Ningdu Xian",
 			"local_name": "宁都县"
 		},
 		"Quannan Xian": {
-			"name": "Quannan Xian",
 			"local_name": "全南县"
 		},
 		"Ruijin Shi": {
-			"name": "Ruijin Shi",
 			"local_name": "瑞金市"
 		},
 		"Shangyou Xian": {
-			"name": "Shangyou Xian",
 			"local_name": "上犹县"
 		},
 		"Shicheng Xian": {
-			"name": "Shicheng Xian",
 			"local_name": "石城县"
 		},
 		"Xinfeng Xian": {
-			"name": "Xinfeng Xian",
 			"local_name": "信丰县"
 		},
 		"Xingguo Xian": {
-			"name": "Xingguo Xian",
 			"local_name": "兴国县"
 		},
 		"Xunwu Xian": {
-			"name": "Xunwu Xian",
 			"local_name": "寻乌县"
 		},
 		"Yudu Xian": {
-			"name": "Yudu Xian",
 			"local_name": "于都县"
 		},
 		"Zhanggong Qu": {
-			"name": "Zhanggong Qu",
 			"local_name": "章贡区"
 		}
 	}

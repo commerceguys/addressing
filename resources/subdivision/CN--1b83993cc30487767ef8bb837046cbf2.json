@@ -8,23 +8,18 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Shancheng Qu": {
-			"name": "Shancheng Qu",
 			"local_name": "禅城区"
 		},
 		"Gaoming Qu": {
-			"name": "Gaoming Qu",
 			"local_name": "高明区"
 		},
 		"Nanhai Qu": {
-			"name": "Nanhai Qu",
 			"local_name": "南海区"
 		},
 		"Sanshui Qu": {
-			"name": "Sanshui Qu",
 			"local_name": "三水区"
 		},
 		"Shunde Qu": {
-			"name": "Shunde Qu",
 			"local_name": "顺德区"
 		}
 	}

@@ -8,65 +8,48 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Anning Shi": {
-			"name": "Anning Shi",
 			"local_name": "安宁市"
 		},
 		"Chenggong Qu": {
-			"name": "Chenggong Qu",
 			"local_name": "呈贡区"
 		},
 		"Dongchuan Qu": {
-			"name": "Dongchuan Qu",
 			"local_name": "东川区"
 		},
 		"Fumin Xian": {
-			"name": "Fumin Xian",
 			"local_name": "富民县"
 		},
 		"Guandu Qu": {
-			"name": "Guandu Qu",
 			"local_name": "官渡区"
 		},
 		"Jinning Xian": {
-			"name": "Jinning Xian",
 			"local_name": "晋宁县"
 		},
 		"Luquan Xian": {
-			"code": "Luquan Xian",
 			"local_code": "禄劝彝族苗族自治县",
-			"name": "Luquan Xian",
 			"local_name": "禄劝县"
 		},
 		"Panlong Qu": {
-			"name": "Panlong Qu",
 			"local_name": "盘龙区"
 		},
 		"Shilin Xian": {
-			"code": "Shilin Xian",
 			"local_code": "石林彝族自治县",
-			"name": "Shilin Xian",
 			"local_name": "石林县"
 		},
 		"Songming Xian": {
-			"name": "Songming Xian",
 			"local_name": "嵩明县"
 		},
 		"Wuhua Qu": {
-			"name": "Wuhua Qu",
 			"local_name": "五华区"
 		},
 		"Xishan Qu": {
-			"name": "Xishan Qu",
 			"local_name": "西山区"
 		},
 		"Xundian Xian": {
-			"code": "Xundian Xian",
 			"local_code": "寻甸回族彝族自治县",
-			"name": "Xundian Xian",
 			"local_name": "寻甸县"
 		},
 		"Yiliang Xian": {
-			"name": "Yiliang Xian",
 			"local_name": "宜良县"
 		}
 	}

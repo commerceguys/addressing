@@ -8,27 +8,21 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Beiliu Shi": {
-			"name": "Beiliu Shi",
 			"local_name": "北流市"
 		},
 		"Bobai Xian": {
-			"name": "Bobai Xian",
 			"local_name": "博白县"
 		},
 		"Luchuan Xian": {
-			"name": "Luchuan Xian",
 			"local_name": "陆川县"
 		},
 		"Rong Xian": {
-			"name": "Rong Xian",
 			"local_name": "容县"
 		},
 		"Xingye Xian": {
-			"name": "Xingye Xian",
 			"local_name": "兴业县"
 		},
 		"Yuzhou Qu": {
-			"name": "Yuzhou Qu",
 			"local_name": "玉州区"
 		}
 	}

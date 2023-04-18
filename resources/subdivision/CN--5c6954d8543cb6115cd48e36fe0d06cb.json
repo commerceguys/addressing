@@ -8,35 +8,27 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Baoqing Xian": {
-			"name": "Baoqing Xian",
 			"local_name": "宝清县"
 		},
 		"Baoshan Qu": {
-			"name": "Baoshan Qu",
 			"local_name": "宝山区"
 		},
 		"Jixian Xian": {
-			"name": "Jixian Xian",
 			"local_name": "集贤县"
 		},
 		"Jianshan Qu": {
-			"name": "Jianshan Qu",
 			"local_name": "尖山区"
 		},
 		"Lingdong Qu": {
-			"name": "Lingdong Qu",
 			"local_name": "岭东区"
 		},
 		"Raohe Xian": {
-			"name": "Raohe Xian",
 			"local_name": "饶河县"
 		},
 		"Sifangtai Qu": {
-			"name": "Sifangtai Qu",
 			"local_name": "四方台区"
 		},
 		"Youyi Xian": {
-			"name": "Youyi Xian",
 			"local_name": "友谊县"
 		}
 	}

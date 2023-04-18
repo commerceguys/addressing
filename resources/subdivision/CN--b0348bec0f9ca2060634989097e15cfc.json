@@ -8,35 +8,27 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Chuzhou Qu": {
-			"name": "Chuzhou Qu",
 			"local_name": "楚州区"
 		},
 		"Hongze Xian": {
-			"name": "Hongze Xian",
 			"local_name": "洪泽县"
 		},
 		"Huaiyin Qu": {
-			"name": "Huaiyin Qu",
 			"local_name": "淮阴区"
 		},
 		"Jinhu Xian": {
-			"name": "Jinhu Xian",
 			"local_name": "金湖县"
 		},
 		"Lianshui Xian": {
-			"name": "Lianshui Xian",
 			"local_name": "涟水县"
 		},
 		"Qinghe Qu": {
-			"name": "Qinghe Qu",
 			"local_name": "清河区"
 		},
 		"Qingpu Qu": {
-			"name": "Qingpu Qu",
 			"local_name": "清浦区"
 		},
 		"Xuyi Xian": {
-			"name": "Xuyi Xian",
 			"local_name": "盱眙县"
 		}
 	}

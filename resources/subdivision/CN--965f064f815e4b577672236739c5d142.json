@@ -8,51 +8,39 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Abag Qi": {
-			"name": "Abag Qi",
 			"local_name": "阿巴嘎旗"
 		},
 		"Dong Ujimqin Qi": {
-			"name": "Dong Ujimqin Qi",
 			"local_name": "东乌珠穆沁旗"
 		},
 		"Duolun Xian": {
-			"name": "Duolun Xian",
 			"local_name": "多伦县"
 		},
 		"Erenhot Shi": {
-			"name": "Erenhot Shi",
 			"local_name": "二连浩特市"
 		},
 		"Sonid Youqi": {
-			"name": "Sonid Youqi",
 			"local_name": "苏尼特右旗"
 		},
 		"Sonid Zuoqi": {
-			"name": "Sonid Zuoqi",
 			"local_name": "苏尼特左旗"
 		},
 		"Taibus Qi": {
-			"name": "Taibus Qi",
 			"local_name": "太仆寺旗"
 		},
 		"Xi Ujimqin Qi": {
-			"name": "Xi Ujimqin Qi",
 			"local_name": "西乌珠穆沁旗"
 		},
 		"Xilinhot Shi": {
-			"name": "Xilinhot Shi",
 			"local_name": "锡林浩特市"
 		},
 		"Xianghuang Qi": {
-			"name": "Xianghuang Qi",
 			"local_name": "镶黄旗"
 		},
 		"Zhenglan Qi": {
-			"name": "Zhenglan Qi",
 			"local_name": "正蓝旗"
 		},
 		"Zhengxiangbai Qi": {
-			"name": "Zhengxiangbai Qi",
 			"local_name": "正镶白旗"
 		}
 	}

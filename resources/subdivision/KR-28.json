@@ -7,43 +7,33 @@
 	"locale": "ko",
 	"subdivisions": {
 		"Ganghwa-gun": {
-			"name": "Ganghwa-gun",
 			"local_name": "강화군"
 		},
 		"Gyeyang-gu": {
-			"name": "Gyeyang-gu",
 			"local_name": "계양구"
 		},
 		"Nam-gu": {
-			"name": "Nam-gu",
 			"local_name": "남구"
 		},
 		"Namdong-gu": {
-			"name": "Namdong-gu",
 			"local_name": "남동구"
 		},
 		"Dong-gu": {
-			"name": "Dong-gu",
 			"local_name": "동구"
 		},
 		"Bupyeong-gu": {
-			"name": "Bupyeong-gu",
 			"local_name": "부평구"
 		},
 		"Seo-gu": {
-			"name": "Seo-gu",
 			"local_name": "서구"
 		},
 		"Yeonsu-gu": {
-			"name": "Yeonsu-gu",
 			"local_name": "연수구"
 		},
 		"Ongjin-gun": {
-			"name": "Ongjin-gun",
 			"local_name": "옹진군"
 		},
 		"Jung-gu": {
-			"name": "Jung-gu",
 			"local_name": "중구"
 		}
 	}

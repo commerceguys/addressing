@@ -8,103 +8,78 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Anguo Shi": {
-			"name": "Anguo Shi",
 			"local_name": "安国市"
 		},
 		"Anxin Xian": {
-			"name": "Anxin Xian",
 			"local_name": "安新县"
 		},
 		"Beishi Qu": {
-			"name": "Beishi Qu",
 			"local_name": "北市区"
 		},
 		"Boye Xian": {
-			"name": "Boye Xian",
 			"local_name": "博野县"
 		},
 		"Dingxing Xian": {
-			"name": "Dingxing Xian",
 			"local_name": "定兴县"
 		},
 		"Dingzhou Shi": {
-			"name": "Dingzhou Shi",
 			"local_name": "定州市"
 		},
 		"Fuping Xian": {
-			"name": "Fuping Xian",
 			"local_name": "阜平县"
 		},
 		"Gaobeidian Shi": {
-			"name": "Gaobeidian Shi",
 			"local_name": "高碑店市"
 		},
 		"Gaoyang Xian": {
-			"name": "Gaoyang Xian",
 			"local_name": "高阳县"
 		},
 		"Laishui Xian": {
-			"name": "Laishui Xian",
 			"local_name": "涞水县"
 		},
 		"Laiyuan Xian": {
-			"name": "Laiyuan Xian",
 			"local_name": "涞源县"
 		},
 		"Li Xian": {
-			"name": "Li Xian",
 			"local_name": "蠡县"
 		},
 		"Mancheng Xian": {
-			"name": "Mancheng Xian",
 			"local_name": "满城县"
 		},
 		"Nanshi Qu": {
-			"name": "Nanshi Qu",
 			"local_name": "南市区"
 		},
 		"Qingyuan Xian": {
-			"name": "Qingyuan Xian",
 			"local_name": "清苑县"
 		},
 		"Quyang Xian": {
-			"name": "Quyang Xian",
 			"local_name": "曲阳县"
 		},
 		"Rongcheng Xian": {
-			"name": "Rongcheng Xian",
 			"local_name": "容城县"
 		},
 		"Shunping Xian": {
-			"name": "Shunping Xian",
 			"local_name": "顺平县"
 		},
 		"Tang Xian": {
-			"name": "Tang Xian",
 			"local_name": "唐县"
 		},
 		"Wangdu Xian": {
-			"name": "Wangdu Xian",
 			"local_name": "望都县"
 		},
 		"Xinshi Qu": {
-			"name": "Xinshi Qu",
 			"local_name": "新市区"
 		},
 		"Xiong Xian": {
-			"name": "Xiong Xian",
 			"local_name": "雄县"
 		},
 		"Xushui Xian": {
-			"name": "Xushui Xian",
 			"local_name": "徐水县"
 		},
 		"Yi Xian": {
-			"name": "Yi Xian",
 			"local_name": "易县"
 		},
 		"Zhuozhou Shi": {
-			"name": "Zhuozhou Shi",
 			"local_name": "涿州市"
 		}
 	}

@@ -8,27 +8,21 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Helan Xian": {
-			"name": "Helan Xian",
 			"local_name": "贺兰县"
 		},
 		"Jinfeng Qu": {
-			"name": "Jinfeng Qu",
 			"local_name": "金凤区"
 		},
 		"Lingwu Shi": {
-			"name": "Lingwu Shi",
 			"local_name": "灵武市"
 		},
 		"Xixia Qu": {
-			"name": "Xixia Qu",
 			"local_name": "西夏区"
 		},
 		"Xingqing Qu": {
-			"name": "Xingqing Qu",
 			"local_name": "兴庆区"
 		},
 		"Yongning Xian": {
-			"name": "Yongning Xian",
 			"local_name": "永宁县"
 		}
 	}

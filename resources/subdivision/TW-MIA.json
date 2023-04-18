@@ -7,75 +7,57 @@
 	"locale": "zh-Hant",
 	"subdivisions": {
 		"Sanyi Township": {
-			"name": "Sanyi Township",
 			"local_name": "三義鄉"
 		},
 		"Sanwan Township": {
-			"name": "Sanwan Township",
 			"local_name": "三灣鄉"
 		},
 		"Dahu Township": {
-			"name": "Dahu Township",
 			"local_name": "大湖鄉"
 		},
 		"Gongguan Township": {
-			"name": "Gongguan Township",
 			"local_name": "公館鄉"
 		},
 		"Zhunan Township": {
-			"name": "Zhunan Township",
 			"local_name": "竹南鎮"
 		},
 		"Xihu Township": {
-			"name": "Xihu Township",
 			"local_name": "西湖鄉"
 		},
 		"Zhuolan Township": {
-			"name": "Zhuolan Township",
 			"local_name": "卓蘭鎮"
 		},
 		"Nanzhuang Township": {
-			"name": "Nanzhuang Township",
 			"local_name": "南庄鄉"
 		},
 		"Houlong Township": {
-			"name": "Houlong Township",
 			"local_name": "後龍鎮"
 		},
 		"Yuanli Township": {
-			"name": "Yuanli Township",
 			"local_name": "苑裡鎮"
 		},
 		"Miaoli City": {
-			"name": "Miaoli City",
 			"local_name": "苗栗市"
 		},
 		"Tai'an Township": {
-			"name": "Tai'an Township",
 			"local_name": "泰安鄉"
 		},
 		"Tongxiao Township": {
-			"name": "Tongxiao Township",
 			"local_name": "通霄鎮"
 		},
 		"Zaoqiao Township": {
-			"name": "Zaoqiao Township",
 			"local_name": "造橋鄉"
 		},
 		"Shitan Township": {
-			"name": "Shitan Township",
 			"local_name": "獅潭鄉"
 		},
 		"Tongluo Township": {
-			"name": "Tongluo Township",
 			"local_name": "銅鑼鄉"
 		},
 		"Toufen City": {
-			"name": "Toufen City",
 			"local_name": "頭份市"
 		},
 		"Touwu Township": {
-			"name": "Touwu Township",
 			"local_name": "頭屋鄉"
 		}
 	}

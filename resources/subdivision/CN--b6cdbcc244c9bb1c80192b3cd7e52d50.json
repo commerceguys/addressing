@@ -8,19 +8,15 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Dongfeng Xian": {
-			"name": "Dongfeng Xian",
 			"local_name": "东丰县"
 		},
 		"Dongliao Xian": {
-			"name": "Dongliao Xian",
 			"local_name": "东辽县"
 		},
 		"Longshan Qu": {
-			"name": "Longshan Qu",
 			"local_name": "龙山区"
 		},
 		"Xi'an Qu": {
-			"name": "Xi'an Qu",
 			"local_name": "西安区"
 		}
 	}

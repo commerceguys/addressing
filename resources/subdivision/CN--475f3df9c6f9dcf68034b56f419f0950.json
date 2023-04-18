@@ -8,21 +8,16 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Babu Qu": {
-			"name": "Babu Qu",
 			"local_name": "八步区"
 		},
 		"Fuchuan Xian": {
-			"code": "Fuchuan Xian",
 			"local_code": "富川瑶族自治县",
-			"name": "Fuchuan Xian",
 			"local_name": "富川县"
 		},
 		"Zhaoping Xian": {
-			"name": "Zhaoping Xian",
 			"local_name": "昭平县"
 		},
 		"Zhongshan Xian": {
-			"name": "Zhongshan Xian",
 			"local_name": "钟山县"
 		}
 	}

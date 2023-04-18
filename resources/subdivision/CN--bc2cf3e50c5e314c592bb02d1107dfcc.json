@@ -8,39 +8,30 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Horinger Xian": {
-			"name": "Horinger Xian",
 			"local_name": "和林格尔县"
 		},
 		"Huimin Qu": {
-			"name": "Huimin Qu",
 			"local_name": "回民区"
 		},
 		"Qingshuihe Xian": {
-			"name": "Qingshuihe Xian",
 			"local_name": "清水河县"
 		},
 		"Saihan Qu": {
-			"name": "Saihan Qu",
 			"local_name": "赛罕区"
 		},
 		"Tumd Zuoqi": {
-			"name": "Tumd Zuoqi",
 			"local_name": "土默特左旗"
 		},
 		"Togtoh Xian": {
-			"name": "Togtoh Xian",
 			"local_name": "托克托县"
 		},
 		"Wuchuan Xian": {
-			"name": "Wuchuan Xian",
 			"local_name": "武川县"
 		},
 		"Xincheng Qu": {
-			"name": "Xincheng Qu",
 			"local_name": "新城区"
 		},
 		"Yuquan Qu": {
-			"name": "Yuquan Qu",
 			"local_name": "玉泉区"
 		}
 	}

@@ -8,41 +8,31 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Datong Qu": {
-			"name": "Datong Qu",
 			"local_name": "大同区"
 		},
 		"Dorbod Xian": {
-			"code": "Dorbod Xian",
 			"local_code": "杜尔伯特蒙古族自治县",
-			"name": "Dorbod Xian",
 			"local_name": "杜尔伯特县"
 		},
 		"Honggang Qu": {
-			"name": "Honggang Qu",
 			"local_name": "红岗区"
 		},
 		"Lindian Xian": {
-			"name": "Lindian Xian",
 			"local_name": "林甸县"
 		},
 		"Longfeng Qu": {
-			"name": "Longfeng Qu",
 			"local_name": "龙凤区"
 		},
 		"Ranghulu Qu": {
-			"name": "Ranghulu Qu",
 			"local_name": "让胡路区"
 		},
 		"Sairt Qu": {
-			"name": "Sairt Qu",
 			"local_name": "萨尔图区"
 		},
 		"Zhaoyuan Xian": {
-			"name": "Zhaoyuan Xian",
 			"local_name": "肇源县"
 		},
 		"Zhaozhou Xian": {
-			"name": "Zhaozhou Xian",
 			"local_name": "肇州县"
 		}
 	}

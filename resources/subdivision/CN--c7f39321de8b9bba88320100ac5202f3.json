@@ -8,47 +8,36 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Cangnan Xian": {
-			"name": "Cangnan Xian",
 			"local_name": "苍南县"
 		},
 		"Dongtou Xian": {
-			"name": "Dongtou Xian",
 			"local_name": "洞头县"
 		},
 		"Yueqing Shi": {
-			"name": "Yueqing Shi",
 			"local_name": "乐清市"
 		},
 		"Longwan Qu": {
-			"name": "Longwan Qu",
 			"local_name": "龙湾区"
 		},
 		"Lucheng Qu": {
-			"name": "Lucheng Qu",
 			"local_name": "鹿城区"
 		},
 		"Ouhai Qu": {
-			"name": "Ouhai Qu",
 			"local_name": "瓯海区"
 		},
 		"Pingyang Xian": {
-			"name": "Pingyang Xian",
 			"local_name": "平阳县"
 		},
 		"Rui'an Shi": {
-			"name": "Rui'an Shi",
 			"local_name": "瑞安市"
 		},
 		"Taishun Xian": {
-			"name": "Taishun Xian",
 			"local_name": "泰顺县"
 		},
 		"Wencheng Xian": {
-			"name": "Wencheng Xian",
 			"local_name": "文成县"
 		},
 		"Yongjia Xian": {
-			"name": "Yongjia Xian",
 			"local_name": "永嘉县"
 		}
 	}

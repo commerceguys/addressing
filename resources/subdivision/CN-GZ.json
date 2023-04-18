@@ -7,53 +7,41 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Anshun Shi": {
-			"name": "Anshun Shi",
 			"local_name": "安顺市",
 			"has_children": true
 		},
 		"Bijie Diqu": {
-			"name": "Bijie Diqu",
 			"local_name": "毕节地区",
 			"has_children": true
 		},
 		"Guiyang Shi": {
-			"name": "Guiyang Shi",
 			"local_name": "贵阳市",
 			"has_children": true
 		},
 		"Liupanshui Shi": {
-			"name": "Liupanshui Shi",
 			"local_name": "六盘水市",
 			"has_children": true
 		},
 		"Qiandongnan Zhou": {
-			"code": "Qiandongnan Zhou",
 			"local_code": "黔东南苗族侗族自治州",
-			"name": "Qiandongnan Zhou",
 			"local_name": "黔东南州",
 			"has_children": true
 		},
 		"Qiannan Zhou": {
-			"code": "Qiannan Zhou",
 			"local_code": "黔南布依族苗族自治州",
-			"name": "Qiannan Zhou",
 			"local_name": "黔南州",
 			"has_children": true
 		},
 		"Qianxinan Zhou": {
-			"code": "Qianxinan Zhou",
 			"local_code": "黔西南布依族苗族自治州",
-			"name": "Qianxinan Zhou",
 			"local_name": "黔西南州",
 			"has_children": true
 		},
 		"Tongren Diqu": {
-			"name": "Tongren Diqu",
 			"local_name": "铜仁地区",
 			"has_children": true
 		},
 		"Zunyi Shi": {
-			"name": "Zunyi Shi",
 			"local_name": "遵义市",
 			"has_children": true
 		}

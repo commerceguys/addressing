@@ -8,75 +8,56 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Diecai Qu": {
-			"name": "Diecai Qu",
 			"local_name": "叠彩区"
 		},
 		"Gongcheng Xian": {
-			"code": "Gongcheng Xian",
 			"local_code": "恭城瑶族自治县",
-			"name": "Gongcheng Xian",
 			"local_name": "恭城县"
 		},
 		"Guanyang Xian": {
-			"name": "Guanyang Xian",
 			"local_name": "灌阳县"
 		},
 		"Lipu Xian": {
-			"name": "Lipu Xian",
 			"local_name": "荔浦县"
 		},
 		"Lingui Qu": {
-			"name": "Lingui Qu",
 			"local_name": "临桂区"
 		},
 		"Lingchuan Xian": {
-			"name": "Lingchuan Xian",
 			"local_name": "灵川县"
 		},
 		"Longsheng Xian": {
-			"code": "Longsheng Xian",
 			"local_code": "龙胜各族自治县",
-			"name": "Longsheng Xian",
 			"local_name": "龙胜县"
 		},
 		"Pingle Xian": {
-			"name": "Pingle Xian",
 			"local_name": "平乐县"
 		},
 		"Qixing Qu": {
-			"name": "Qixing Qu",
 			"local_name": "七星区"
 		},
 		"Quanzhou Xian": {
-			"name": "Quanzhou Xian",
 			"local_name": "全州县"
 		},
 		"Xiangshan Qu": {
-			"name": "Xiangshan Qu",
 			"local_name": "象山区"
 		},
 		"Xing'an Xian": {
-			"name": "Xing'an Xian",
 			"local_name": "兴安县"
 		},
 		"Xiufeng Qu": {
-			"name": "Xiufeng Qu",
 			"local_name": "秀峰区"
 		},
 		"Yanshan Qu": {
-			"name": "Yanshan Qu",
 			"local_name": "雁山区"
 		},
 		"Yangshuo Xian": {
-			"name": "Yangshuo Xian",
 			"local_name": "阳朔县"
 		},
 		"Yongfu Xian": {
-			"name": "Yongfu Xian",
 			"local_name": "永福县"
 		},
 		"Ziyuan Xian": {
-			"name": "Ziyuan Xian",
 			"local_name": "资源县"
 		}
 	}

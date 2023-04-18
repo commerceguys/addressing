@@ -8,15 +8,12 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Dawukou Qu": {
-			"name": "Dawukou Qu",
 			"local_name": "大武口区"
 		},
 		"Huinong Qu": {
-			"name": "Huinong Qu",
 			"local_name": "惠农区"
 		},
 		"Pingluo Xian": {
-			"name": "Pingluo Xian",
 			"local_name": "平罗县"
 		}
 	}

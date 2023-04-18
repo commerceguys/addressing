@@ -8,23 +8,18 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Shaoshan Shi": {
-			"name": "Shaoshan Shi",
 			"local_name": "韶山市"
 		},
 		"Xiangtan Xian": {
-			"name": "Xiangtan Xian",
 			"local_name": "湘潭县"
 		},
 		"Xiangxiang Shi": {
-			"name": "Xiangxiang Shi",
 			"local_name": "湘乡市"
 		},
 		"Yuhu Qu": {
-			"name": "Yuhu Qu",
 			"local_name": "雨湖区"
 		},
 		"Yuetang Qu": {
-			"name": "Yuetang Qu",
 			"local_name": "岳塘区"
 		}
 	}

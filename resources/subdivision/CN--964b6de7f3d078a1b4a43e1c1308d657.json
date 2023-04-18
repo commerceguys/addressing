@@ -8,39 +8,30 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Huarong Xian": {
-			"name": "Huarong Xian",
 			"local_name": "华容县"
 		},
 		"Junshan Qu": {
-			"name": "Junshan Qu",
 			"local_name": "君山区"
 		},
 		"Linxiang Shi": {
-			"name": "Linxiang Shi",
 			"local_name": "临湘市"
 		},
 		"Miluo Shi": {
-			"name": "Miluo Shi",
 			"local_name": "汨罗市"
 		},
 		"Pingjiang Xian": {
-			"name": "Pingjiang Xian",
 			"local_name": "平江县"
 		},
 		"Xiangyin Xian": {
-			"name": "Xiangyin Xian",
 			"local_name": "湘阴县"
 		},
 		"Yueyanglou Qu": {
-			"name": "Yueyanglou Qu",
 			"local_name": "岳阳楼区"
 		},
 		"Yueyang Xian": {
-			"name": "Yueyang Xian",
 			"local_name": "岳阳县"
 		},
 		"Yunxi Qu": {
-			"name": "Yunxi Qu",
 			"local_name": "云溪区"
 		}
 	}

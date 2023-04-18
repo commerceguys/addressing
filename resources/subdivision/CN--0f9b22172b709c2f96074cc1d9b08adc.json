@@ -8,75 +8,57 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Batang Xian": {
-			"name": "Batang Xian",
 			"local_name": "巴塘县"
 		},
 		"Baiyu Xian": {
-			"name": "Baiyu Xian",
 			"local_name": "白玉县"
 		},
 		"Danba Xian": {
-			"name": "Danba Xian",
 			"local_name": "丹巴县"
 		},
 		"Dawu Xian": {
-			"name": "Dawu Xian",
 			"local_name": "道孚县"
 		},
 		"Daocheng Xian": {
-			"name": "Daocheng Xian",
 			"local_name": "稻城县"
 		},
 		"Dêrong Xian": {
-			"name": "Dêrong Xian",
 			"local_name": "得荣县"
 		},
 		"Dêgê Xian": {
-			"name": "Dêgê Xian",
 			"local_name": "德格县"
 		},
 		"Garzê Xian": {
-			"name": "Garzê Xian",
 			"local_name": "甘孜县"
 		},
 		"Jiulong Xian": {
-			"name": "Jiulong Xian",
 			"local_name": "九龙县"
 		},
 		"Kangding Xian": {
-			"name": "Kangding Xian",
 			"local_name": "康定县"
 		},
 		"Litang Xian": {
-			"name": "Litang Xian",
 			"local_name": "理塘县"
 		},
 		"Luding Xian": {
-			"name": "Luding Xian",
 			"local_name": "泸定县"
 		},
 		"Luhuo Xian": {
-			"name": "Luhuo Xian",
 			"local_name": "炉霍县"
 		},
 		"Sêrtar Xian": {
-			"name": "Sêrtar Xian",
 			"local_name": "色达县"
 		},
 		"Sêrxü Xian": {
-			"name": "Sêrxü Xian",
 			"local_name": "石渠县"
 		},
 		"Xiangcheng Xian": {
-			"name": "Xiangcheng Xian",
 			"local_name": "乡城县"
 		},
 		"Xinlong Xian": {
-			"name": "Xinlong Xian",
 			"local_name": "新龙县"
 		},
 		"Yajiang Xian": {
-			"name": "Yajiang Xian",
 			"local_name": "雅江县"
 		}
 	}

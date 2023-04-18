@@ -8,43 +8,33 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Chaoyang Qu": {
-			"name": "Chaoyang Qu",
 			"local_name": "朝阳区"
 		},
 		"Dehui Shi": {
-			"name": "Dehui Shi",
 			"local_name": "德惠市"
 		},
 		"Erdao Qu": {
-			"name": "Erdao Qu",
 			"local_name": "二道区"
 		},
 		"Jiutai Shi": {
-			"name": "Jiutai Shi",
 			"local_name": "九台市"
 		},
 		"Kuancheng Qu": {
-			"name": "Kuancheng Qu",
 			"local_name": "宽城区"
 		},
 		"Lüyuan Qu": {
-			"name": "Lüyuan Qu",
 			"local_name": "绿园区"
 		},
 		"Nanguan Qu": {
-			"name": "Nanguan Qu",
 			"local_name": "南关区"
 		},
 		"Nong'an Xian": {
-			"name": "Nong'an Xian",
 			"local_name": "农安县"
 		},
 		"Shuangyang Qu": {
-			"name": "Shuangyang Qu",
 			"local_name": "双阳区"
 		},
 		"Yushu Shi": {
-			"name": "Yushu Shi",
 			"local_name": "榆树市"
 		}
 	}

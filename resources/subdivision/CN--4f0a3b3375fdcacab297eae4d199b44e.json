@@ -8,19 +8,15 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Lixin Xian": {
-			"name": "Lixin Xian",
 			"local_name": "利辛县"
 		},
 		"Mengcheng Xian": {
-			"name": "Mengcheng Xian",
 			"local_name": "蒙城县"
 		},
 		"Qiaocheng Qu": {
-			"name": "Qiaocheng Qu",
 			"local_name": "谯城区"
 		},
 		"Guoyang Xian": {
-			"name": "Guoyang Xian",
 			"local_name": "涡阳县"
 		}
 	}

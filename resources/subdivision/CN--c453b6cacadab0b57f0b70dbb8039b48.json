@@ -8,63 +8,47 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Chishui Shi": {
-			"name": "Chishui Shi",
 			"local_name": "赤水市"
 		},
 		"Daozhen Xian": {
-			"code": "Daozhen Xian",
 			"local_code": "道真仡佬族苗族自治县",
-			"name": "Daozhen Xian",
 			"local_name": "道真县"
 		},
 		"Fenggang Xian": {
-			"name": "Fenggang Xian",
 			"local_name": "凤冈县"
 		},
 		"Honghuagang Qu": {
-			"name": "Honghuagang Qu",
 			"local_name": "红花岗区"
 		},
 		"Huichuan Qu": {
-			"name": "Huichuan Qu",
 			"local_name": "汇川区"
 		},
 		"Meitan Xian": {
-			"name": "Meitan Xian",
 			"local_name": "湄潭县"
 		},
 		"Renhuai Shi": {
-			"name": "Renhuai Shi",
 			"local_name": "仁怀市"
 		},
 		"Suiyang Xian": {
-			"name": "Suiyang Xian",
 			"local_name": "绥阳县"
 		},
 		"Tongzi Xian": {
-			"name": "Tongzi Xian",
 			"local_name": "桐梓县"
 		},
 		"Wuchuan Xian": {
-			"code": "Wuchuan Xian",
 			"local_code": "务川仡佬族苗族自治县",
-			"name": "Wuchuan Xian",
 			"local_name": "务川县"
 		},
 		"Xishui Xian": {
-			"name": "Xishui Xian",
 			"local_name": "习水县"
 		},
 		"Yuqing Xian": {
-			"name": "Yuqing Xian",
 			"local_name": "余庆县"
 		},
 		"Zheng'an Xian": {
-			"name": "Zheng'an Xian",
 			"local_name": "正安县"
 		},
 		"Zunyi Xian": {
-			"name": "Zunyi Xian",
 			"local_name": "遵义县"
 		}
 	}

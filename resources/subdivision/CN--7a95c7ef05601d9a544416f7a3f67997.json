@@ -8,91 +8,69 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Gaoyi Xian": {
-			"name": "Gaoyi Xian",
 			"local_name": "高邑县"
 		},
 		"Gaocheng Qu": {
-			"name": "Gaocheng Qu",
 			"local_name": "藁城区"
 		},
 		"Jinzhou Shi": {
-			"name": "Jinzhou Shi",
 			"local_name": "晋州市"
 		},
 		"Jingxing Kuangqu": {
-			"name": "Jingxing Kuangqu",
 			"local_name": "井陉矿区"
 		},
 		"Jingxing Xian": {
-			"name": "Jingxing Xian",
 			"local_name": "井陉县"
 		},
 		"Lingshou Xian": {
-			"name": "Lingshou Xian",
 			"local_name": "灵寿县"
 		},
 		"Luquan Qu": {
-			"name": "Luquan Qu",
 			"local_name": "鹿泉区"
 		},
 		"Luancheng Qu": {
-			"name": "Luancheng Qu",
 			"local_name": "栾城区"
 		},
 		"Pingshan Xian": {
-			"name": "Pingshan Xian",
 			"local_name": "平山县"
 		},
 		"Qiaoxi Qu": {
-			"name": "Qiaoxi Qu",
 			"local_name": "桥西区"
 		},
 		"Shenze Xian": {
-			"name": "Shenze Xian",
 			"local_name": "深泽县"
 		},
 		"Wuji Xian": {
-			"name": "Wuji Xian",
 			"local_name": "无极县"
 		},
 		"Xinji Shi": {
-			"name": "Xinji Shi",
 			"local_name": "辛集市"
 		},
 		"Xinhua Qu": {
-			"name": "Xinhua Qu",
 			"local_name": "新华区"
 		},
 		"Xinle Shi": {
-			"name": "Xinle Shi",
 			"local_name": "新乐市"
 		},
 		"Xingtang Xian": {
-			"name": "Xingtang Xian",
 			"local_name": "行唐县"
 		},
 		"Yuhua Qu": {
-			"name": "Yuhua Qu",
 			"local_name": "裕华区"
 		},
 		"Yuanshi Xian": {
-			"name": "Yuanshi Xian",
 			"local_name": "元氏县"
 		},
 		"Zanhuang Xian": {
-			"name": "Zanhuang Xian",
 			"local_name": "赞皇县"
 		},
 		"Chang'an Qu": {
-			"name": "Chang'an Qu",
 			"local_name": "长安区"
 		},
 		"Zhao Xian": {
-			"name": "Zhao Xian",
 			"local_name": "赵县"
 		},
 		"Zhengding Xian": {
-			"name": "Zhengding Xian",
 			"local_name": "正定县"
 		}
 	}

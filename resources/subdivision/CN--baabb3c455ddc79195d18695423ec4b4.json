@@ -8,21 +8,16 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Henan Xian": {
-			"code": "Henan Xian",
 			"local_code": "河南蒙古族自治县",
-			"name": "Henan Xian",
 			"local_name": "河南县"
 		},
 		"Jianca Xian": {
-			"name": "Jianca Xian",
 			"local_name": "尖扎县"
 		},
 		"Tongren Xian": {
-			"name": "Tongren Xian",
 			"local_name": "同仁县"
 		},
 		"Zêkog Xian": {
-			"name": "Zêkog Xian",
 			"local_name": "泽库县"
 		}
 	}

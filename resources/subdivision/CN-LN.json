@@ -7,72 +7,58 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Anshan Shi": {
-			"name": "Anshan Shi",
 			"local_name": "鞍山市",
 			"has_children": true
 		},
 		"Benxi Shi": {
-			"name": "Benxi Shi",
 			"local_name": "本溪市",
 			"has_children": true
 		},
 		"Chaoyang Shi": {
-			"name": "Chaoyang Shi",
 			"local_name": "朝阳市",
 			"has_children": true
 		},
 		"Dalian Shi": {
-			"name": "Dalian Shi",
 			"local_name": "大连市",
 			"has_children": true
 		},
 		"Dandong Shi": {
-			"name": "Dandong Shi",
 			"local_name": "丹东市",
 			"has_children": true
 		},
 		"Fushun Shi": {
-			"name": "Fushun Shi",
 			"local_name": "抚顺市",
 			"has_children": true
 		},
 		"Fuxin Shi": {
-			"name": "Fuxin Shi",
 			"local_name": "阜新市",
 			"has_children": true
 		},
 		"Huludao Shi": {
-			"name": "Huludao Shi",
 			"local_name": "葫芦岛市",
 			"has_children": true
 		},
 		"Jinzhou Shi": {
-			"name": "Jinzhou Shi",
 			"local_name": "锦州市",
 			"has_children": true
 		},
 		"Liaoyang Shi": {
-			"name": "Liaoyang Shi",
 			"local_name": "辽阳市",
 			"has_children": true
 		},
 		"Panjin Shi": {
-			"name": "Panjin Shi",
 			"local_name": "盘锦市",
 			"has_children": true
 		},
 		"Shenyang Shi": {
-			"name": "Shenyang Shi",
 			"local_name": "沈阳市",
 			"has_children": true
 		},
 		"Tieling Shi": {
-			"name": "Tieling Shi",
 			"local_name": "铁岭市",
 			"has_children": true
 		},
 		"Yingkou Shi": {
-			"name": "Yingkou Shi",
 			"local_name": "营口市",
 			"has_children": true
 		}

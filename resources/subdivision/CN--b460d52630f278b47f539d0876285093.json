@@ -8,53 +8,40 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Duyun Shi": {
-			"name": "Duyun Shi",
 			"local_name": "都匀市"
 		},
 		"Dushan Xian": {
-			"name": "Dushan Xian",
 			"local_name": "独山县"
 		},
 		"Fuquan Shi": {
-			"name": "Fuquan Shi",
 			"local_name": "福泉市"
 		},
 		"Guiding Xian": {
-			"name": "Guiding Xian",
 			"local_name": "贵定县"
 		},
 		"Huishui Xian": {
-			"name": "Huishui Xian",
 			"local_name": "惠水县"
 		},
 		"Libo Xian": {
-			"name": "Libo Xian",
 			"local_name": "荔波县"
 		},
 		"Longli Xian": {
-			"name": "Longli Xian",
 			"local_name": "龙里县"
 		},
 		"Luodian Xian": {
-			"name": "Luodian Xian",
 			"local_name": "罗甸县"
 		},
 		"Pingtang Xian": {
-			"name": "Pingtang Xian",
 			"local_name": "平塘县"
 		},
 		"Sandu Xian": {
-			"code": "Sandu Xian",
 			"local_code": "三都水族自治县",
-			"name": "Sandu Xian",
 			"local_name": "三都县"
 		},
 		"Weng'an Xian": {
-			"name": "Weng'an Xian",
 			"local_name": "瓮安县"
 		},
 		"Changshun Xian": {
-			"name": "Changshun Xian",
 			"local_name": "长顺县"
 		}
 	}

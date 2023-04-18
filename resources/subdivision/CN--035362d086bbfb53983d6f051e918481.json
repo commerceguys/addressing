@@ -8,39 +8,30 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Baiyun Kuangqu": {
-			"name": "Baiyun Kuangqu",
 			"local_name": "白云矿区"
 		},
 		"Darhan Mumingan Lianheqi": {
-			"name": "Darhan Mumingan Lianheqi",
 			"local_name": "达尔罕茂明安联合旗"
 		},
 		"Donghe Qu": {
-			"name": "Donghe Qu",
 			"local_name": "东河区"
 		},
 		"Guyang Xian": {
-			"name": "Guyang Xian",
 			"local_name": "固阳县"
 		},
 		"Jiuyuan Qu": {
-			"name": "Jiuyuan Qu",
 			"local_name": "九原区"
 		},
 		"Hondlon Qu": {
-			"name": "Hondlon Qu",
 			"local_name": "昆都仑区"
 		},
 		"Qingshan Qu": {
-			"name": "Qingshan Qu",
 			"local_name": "青山区"
 		},
 		"Shiguai Qu": {
-			"name": "Shiguai Qu",
 			"local_name": "石拐区"
 		},
 		"Tumd Youqi": {
-			"name": "Tumd Youqi",
 			"local_name": "土默特右旗"
 		}
 	}

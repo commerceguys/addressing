@@ -8,31 +8,24 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Chongxin Xian": {
-			"name": "Chongxin Xian",
 			"local_name": "崇信县"
 		},
 		"Huating Xian": {
-			"name": "Huating Xian",
 			"local_name": "华亭县"
 		},
 		"Jingchuan Xian": {
-			"name": "Jingchuan Xian",
 			"local_name": "泾川县"
 		},
 		"Jingning Xian": {
-			"name": "Jingning Xian",
 			"local_name": "静宁县"
 		},
 		"Kongtong Qu": {
-			"name": "Kongtong Qu",
 			"local_name": "崆峒区"
 		},
 		"Lingtai Xian": {
-			"name": "Lingtai Xian",
 			"local_name": "灵台县"
 		},
 		"Zhuangliang Xian": {
-			"name": "Zhuangliang Xian",
 			"local_name": "庄浪县"
 		}
 	}

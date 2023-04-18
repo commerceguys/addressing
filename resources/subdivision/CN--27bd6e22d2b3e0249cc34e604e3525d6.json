@@ -8,29 +8,22 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Donggang Shi": {
-			"name": "Donggang Shi",
 			"local_name": "东港市"
 		},
 		"Fengcheng Shi": {
-			"name": "Fengcheng Shi",
 			"local_name": "凤城市"
 		},
 		"Kuandian Xian": {
-			"code": "Kuandian Xian",
 			"local_code": "宽甸满族自治县",
-			"name": "Kuandian Xian",
 			"local_name": "宽甸县"
 		},
 		"Yuanbao Qu": {
-			"name": "Yuanbao Qu",
 			"local_name": "元宝区"
 		},
 		"Zhen'an Qu": {
-			"name": "Zhen'an Qu",
 			"local_name": "振安区"
 		},
 		"Zhenxing Qu": {
-			"name": "Zhenxing Qu",
 			"local_name": "振兴区"
 		}
 	}

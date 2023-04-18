@@ -8,35 +8,27 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Holingol Shi": {
-			"name": "Holingol Shi",
 			"local_name": "霍林郭勒市"
 		},
 		"Kailu Xian": {
-			"name": "Kailu Xian",
 			"local_name": "开鲁县"
 		},
 		"Horqin Qu": {
-			"name": "Horqin Qu",
 			"local_name": "科尔沁区"
 		},
 		"Horqin Zuoyi Houqi": {
-			"name": "Horqin Zuoyi Houqi",
 			"local_name": "科尔沁左翼后旗"
 		},
 		"Horqin Zuoyi Zhongqi": {
-			"name": "Horqin Zuoyi Zhongqi",
 			"local_name": "科尔沁左翼中旗"
 		},
 		"Hure Qi": {
-			"name": "Hure Qi",
 			"local_name": "库伦旗"
 		},
 		"Naiman Qi": {
-			"name": "Naiman Qi",
 			"local_name": "奈曼旗"
 		},
 		"Jarud Qi": {
-			"name": "Jarud Qi",
 			"local_name": "扎鲁特旗"
 		}
 	}

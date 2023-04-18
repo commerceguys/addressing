@@ -8,27 +8,21 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Gaogang Qu": {
-			"name": "Gaogang Qu",
 			"local_name": "高港区"
 		},
 		"Hailing Qu": {
-			"name": "Hailing Qu",
 			"local_name": "海陵区"
 		},
 		"Jiangyan Shi": {
-			"name": "Jiangyan Shi",
 			"local_name": "姜堰市"
 		},
 		"Jingjiang Shi": {
-			"name": "Jingjiang Shi",
 			"local_name": "靖江市"
 		},
 		"Taixing Shi": {
-			"name": "Taixing Shi",
 			"local_name": "泰兴市"
 		},
 		"Xinghua Shi": {
-			"name": "Xinghua Shi",
 			"local_name": "兴化市"
 		}
 	}

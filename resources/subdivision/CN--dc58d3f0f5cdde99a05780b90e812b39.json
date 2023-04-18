@@ -8,39 +8,30 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Anyang Xian": {
-			"name": "Anyang Xian",
 			"local_name": "安阳县"
 		},
 		"Beiguan Qu": {
-			"name": "Beiguan Qu",
 			"local_name": "北关区"
 		},
 		"Hua Xian": {
-			"name": "Hua Xian",
 			"local_name": "滑县"
 		},
 		"Linzhou Shi": {
-			"name": "Linzhou Shi",
 			"local_name": "林州市"
 		},
 		"Long'an Qu": {
-			"name": "Long'an Qu",
 			"local_name": "龙安区"
 		},
 		"Neihuang Xian": {
-			"name": "Neihuang Xian",
 			"local_name": "内黄县"
 		},
 		"Tangyin Xian": {
-			"name": "Tangyin Xian",
 			"local_name": "汤阴县"
 		},
 		"Wenfeng Qu": {
-			"name": "Wenfeng Qu",
 			"local_name": "文峰区"
 		},
 		"Yindou Qu": {
-			"name": "Yindou Qu",
 			"local_name": "殷都区"
 		}
 	}

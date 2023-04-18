@@ -7,151 +7,114 @@
 	"locale": "zh-Hant",
 	"subdivisions": {
 		"Qigu District": {
-			"name": "Qigu District",
 			"local_name": "七股區"
 		},
 		"Xiaying District": {
-			"name": "Xiaying District",
 			"local_name": "下營區"
 		},
 		"Danei District": {
-			"name": "Danei District",
 			"local_name": "大內區"
 		},
 		"Shanshang District": {
-			"name": "Shanshang District",
 			"local_name": "山上區"
 		},
 		"West Central District": {
-			"name": "West Central District",
 			"local_name": "中西區"
 		},
 		"Rende District": {
-			"name": "Rende District",
 			"local_name": "仁德區"
 		},
 		"Liujia District": {
-			"name": "Liujia District",
 			"local_name": "六甲區"
 		},
 		"Beimen District": {
-			"name": "Beimen District",
 			"local_name": "北門區"
 		},
 		"North District": {
-			"name": "North District",
 			"local_name": "北區"
 		},
 		"Zuozhen District": {
-			"name": "Zuozhen District",
 			"local_name": "左鎮區"
 		},
 		"Yongkang District": {
-			"name": "Yongkang District",
 			"local_name": "永康區"
 		},
 		"Yujing District": {
-			"name": "Yujing District",
 			"local_name": "玉井區"
 		},
 		"Baihe District": {
-			"name": "Baihe District",
 			"local_name": "白河區"
 		},
 		"Anping District": {
-			"name": "Anping District",
 			"local_name": "安平區"
 		},
 		"Anding District": {
-			"name": "Anding District",
 			"local_name": "安定區"
 		},
 		"Annan District": {
-			"name": "Annan District",
 			"local_name": "安南區"
 		},
 		"Xigang District": {
-			"name": "Xigang District",
 			"local_name": "西港區"
 		},
 		"Jiali District": {
-			"name": "Jiali District",
 			"local_name": "佳里區"
 		},
 		"Guantian District": {
-			"name": "Guantian District",
 			"local_name": "官田區"
 		},
 		"Dongshan District": {
-			"name": "Dongshan District",
 			"local_name": "東山區"
 		},
 		"East District": {
-			"name": "East District",
 			"local_name": "東區"
 		},
 		"Nanhua District": {
-			"name": "Nanhua District",
 			"local_name": "南化區"
 		},
 		"South District": {
-			"name": "South District",
 			"local_name": "南區"
 		},
 		"Houbi District": {
-			"name": "Houbi District",
 			"local_name": "後壁區"
 		},
 		"Liuying District": {
-			"name": "Liuying District",
 			"local_name": "柳營區"
 		},
 		"Jiangjun District": {
-			"name": "Jiangjun District",
 			"local_name": "將軍區"
 		},
 		"Madou District": {
-			"name": "Madou District",
 			"local_name": "麻豆區"
 		},
 		"Shanhua District": {
-			"name": "Shanhua District",
 			"local_name": "善化區"
 		},
 		"Xinhua District": {
-			"name": "Xinhua District",
 			"local_name": "新化區"
 		},
 		"Xinshi District": {
-			"name": "Xinshi District",
 			"local_name": "新市區"
 		},
 		"Xinying District": {
-			"name": "Xinying District",
 			"local_name": "新營區"
 		},
 		"Nanxi District": {
-			"name": "Nanxi District",
 			"local_name": "楠西區"
 		},
 		"Xuejia District": {
-			"name": "Xuejia District",
 			"local_name": "學甲區"
 		},
 		"Longqi District": {
-			"name": "Longqi District",
 			"local_name": "龍崎區"
 		},
 		"Guiren District": {
-			"name": "Guiren District",
 			"local_name": "歸仁區"
 		},
 		"Guanmiao District": {
-			"name": "Guanmiao District",
 			"local_name": "關廟區"
 		},
 		"Yanshui District": {
-			"name": "Yanshui District",
 			"local_name": "鹽水區"
 		}
 	}

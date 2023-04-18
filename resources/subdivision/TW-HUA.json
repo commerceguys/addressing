@@ -7,55 +7,42 @@
 	"locale": "zh-Hant",
 	"subdivisions": {
 		"Yuli Township": {
-			"name": "Yuli Township",
 			"local_name": "玉里鎮"
 		},
 		"Guangfu Township": {
-			"name": "Guangfu Township",
 			"local_name": "光復鄉"
 		},
 		"Ji'an Township": {
-			"name": "Ji'an Township",
 			"local_name": "吉安鄉"
 		},
 		"Xiulin Township": {
-			"name": "Xiulin Township",
 			"local_name": "秀林鄉"
 		},
 		"Zhuoxi Township": {
-			"name": "Zhuoxi Township",
 			"local_name": "卓溪鄉"
 		},
 		"Hualien City": {
-			"name": "Hualien City",
 			"local_name": "花蓮市"
 		},
 		"Fuli Township": {
-			"name": "Fuli Township",
 			"local_name": "富里鄉"
 		},
 		"Xincheng Township": {
-			"name": "Xincheng Township",
 			"local_name": "新城鄉"
 		},
 		"Ruisui Township": {
-			"name": "Ruisui Township",
 			"local_name": "瑞穗鄉"
 		},
 		"Wanrong Township": {
-			"name": "Wanrong Township",
 			"local_name": "萬榮鄉"
 		},
 		"Shoufeng Township": {
-			"name": "Shoufeng Township",
 			"local_name": "壽豐鄉"
 		},
 		"Fenglin Township": {
-			"name": "Fenglin Township",
 			"local_name": "鳳林鎮"
 		},
 		"Fengbin Township": {
-			"name": "Fengbin Township",
 			"local_name": "豐濱鄉"
 		}
 	}

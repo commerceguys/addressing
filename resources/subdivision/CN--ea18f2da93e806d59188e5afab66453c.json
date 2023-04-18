@@ -8,35 +8,27 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Anlong Xian": {
-			"name": "Anlong Xian",
 			"local_name": "安龙县"
 		},
 		"Ceheng Xian": {
-			"name": "Ceheng Xian",
 			"local_name": "册亨县"
 		},
 		"Pu'an Xian": {
-			"name": "Pu'an Xian",
 			"local_name": "普安县"
 		},
 		"Qinglong Xian": {
-			"name": "Qinglong Xian",
 			"local_name": "晴隆县"
 		},
 		"Wangmo Xian": {
-			"name": "Wangmo Xian",
 			"local_name": "望谟县"
 		},
 		"Xingren Xian": {
-			"name": "Xingren Xian",
 			"local_name": "兴仁县"
 		},
 		"Xingyi Shi": {
-			"name": "Xingyi Shi",
 			"local_name": "兴义市"
 		},
 		"Zhenfeng Xian": {
-			"name": "Zhenfeng Xian",
 			"local_name": "贞丰县"
 		}
 	}

@@ -8,27 +8,21 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Shanting Qu": {
-			"name": "Shanting Qu",
 			"local_name": "山亭区"
 		},
 		"Shizhong Qu": {
-			"name": "Shizhong Qu",
 			"local_name": "市中区"
 		},
 		"Tai'erzhuang Qu": {
-			"name": "Tai'erzhuang Qu",
 			"local_name": "台儿庄区"
 		},
 		"Tengzhou Shi": {
-			"name": "Tengzhou Shi",
 			"local_name": "滕州市"
 		},
 		"Xuecheng Qu": {
-			"name": "Xuecheng Qu",
 			"local_name": "薛城区"
 		},
 		"Yicheng Qu": {
-			"name": "Yicheng Qu",
 			"local_name": "峄城区"
 		}
 	}

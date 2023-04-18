@@ -8,43 +8,33 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Chuanhui Qu": {
-			"name": "Chuanhui Qu",
 			"local_name": "川汇区"
 		},
 		"Dancheng Xian": {
-			"name": "Dancheng Xian",
 			"local_name": "郸城县"
 		},
 		"Fugou Xian": {
-			"name": "Fugou Xian",
 			"local_name": "扶沟县"
 		},
 		"Huaiyang Xian": {
-			"name": "Huaiyang Xian",
 			"local_name": "淮阳县"
 		},
 		"Luyi Xian": {
-			"name": "Luyi Xian",
 			"local_name": "鹿邑县"
 		},
 		"Shangshui Xian": {
-			"name": "Shangshui Xian",
 			"local_name": "商水县"
 		},
 		"Shenqiu Xian": {
-			"name": "Shenqiu Xian",
 			"local_name": "沈丘县"
 		},
 		"Taikang Xian": {
-			"name": "Taikang Xian",
 			"local_name": "太康县"
 		},
 		"Xihua Xian": {
-			"name": "Xihua Xian",
 			"local_name": "西华县"
 		},
 		"Xiangcheng Shi": {
-			"name": "Xiangcheng Shi",
 			"local_name": "项城市"
 		}
 	}

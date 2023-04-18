@@ -8,19 +8,15 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Haicheng Qu": {
-			"name": "Haicheng Qu",
 			"local_name": "海城区"
 		},
 		"Hepu Xian": {
-			"name": "Hepu Xian",
 			"local_name": "合浦县"
 		},
 		"Tieshangang Qu": {
-			"name": "Tieshangang Qu",
 			"local_name": "铁山港区"
 		},
 		"Yinhai Qu": {
-			"name": "Yinhai Qu",
 			"local_name": "银海区"
 		}
 	}

@@ -8,15 +8,12 @@
 	"locale": "ko",
 	"subdivisions": {
 		"Giheung-gu": {
-			"name": "Giheung-gu",
 			"local_name": "기흥구"
 		},
 		"Suji-gu": {
-			"name": "Suji-gu",
 			"local_name": "수지구"
 		},
 		"Cheoin-gu": {
-			"name": "Cheoin-gu",
 			"local_name": "처인구"
 		}
 	}

@@ -8,35 +8,27 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Baoxing Xian": {
-			"name": "Baoxing Xian",
 			"local_name": "宝兴县"
 		},
 		"Hanyuan Xian": {
-			"name": "Hanyuan Xian",
 			"local_name": "汉源县"
 		},
 		"Lushan Xian": {
-			"name": "Lushan Xian",
 			"local_name": "芦山县"
 		},
 		"Mingshan Qu": {
-			"name": "Mingshan Qu",
 			"local_name": "名山区"
 		},
 		"Shimian Xian": {
-			"name": "Shimian Xian",
 			"local_name": "石棉县"
 		},
 		"Tianquan Xian": {
-			"name": "Tianquan Xian",
 			"local_name": "天全县"
 		},
 		"Yingjing Xian": {
-			"name": "Yingjing Xian",
 			"local_name": "荥经县"
 		},
 		"Yucheng Qu": {
-			"name": "Yucheng Qu",
 			"local_name": "雨城区"
 		}
 	}

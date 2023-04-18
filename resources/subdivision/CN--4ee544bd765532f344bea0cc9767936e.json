@@ -8,73 +8,55 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Butuo Xian": {
-			"name": "Butuo Xian",
 			"local_name": "布拖县"
 		},
 		"Dechang Xian": {
-			"name": "Dechang Xian",
 			"local_name": "德昌县"
 		},
 		"Ganluo Xian": {
-			"name": "Ganluo Xian",
 			"local_name": "甘洛县"
 		},
 		"Huidong Xian": {
-			"name": "Huidong Xian",
 			"local_name": "会东县"
 		},
 		"Huili Xian": {
-			"name": "Huili Xian",
 			"local_name": "会理县"
 		},
 		"Jinyang Xian": {
-			"name": "Jinyang Xian",
 			"local_name": "金阳县"
 		},
 		"Leibo Xian": {
-			"name": "Leibo Xian",
 			"local_name": "雷波县"
 		},
 		"Meigu Xian": {
-			"name": "Meigu Xian",
 			"local_name": "美姑县"
 		},
 		"Mianning Xian": {
-			"name": "Mianning Xian",
 			"local_name": "冕宁县"
 		},
 		"Muli Xian": {
-			"code": "Muli Xian",
 			"local_code": "木里藏族自治县",
-			"name": "Muli Xian",
 			"local_name": "木里县"
 		},
 		"Ningnan Xian": {
-			"name": "Ningnan Xian",
 			"local_name": "宁南县"
 		},
 		"Puge Xian": {
-			"name": "Puge Xian",
 			"local_name": "普格县"
 		},
 		"Xichang Shi": {
-			"name": "Xichang Shi",
 			"local_name": "西昌市"
 		},
 		"Xide Xian": {
-			"name": "Xide Xian",
 			"local_name": "喜德县"
 		},
 		"Yanyuan Xian": {
-			"name": "Yanyuan Xian",
 			"local_name": "盐源县"
 		},
 		"Yuexi Xian": {
-			"name": "Yuexi Xian",
 			"local_name": "越西县"
 		},
 		"Zhaojue Xian": {
-			"name": "Zhaojue Xian",
 			"local_name": "昭觉县"
 		}
 	}

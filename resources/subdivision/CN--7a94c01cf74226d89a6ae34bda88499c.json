@@ -8,51 +8,39 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Cangshan Xian": {
-			"name": "Cangshan Xian",
 			"local_name": "苍山县"
 		},
 		"Fei Xian": {
-			"name": "Fei Xian",
 			"local_name": "费县"
 		},
 		"Hedong Qu": {
-			"name": "Hedong Qu",
 			"local_name": "河东区"
 		},
 		"Junan Xian": {
-			"name": "Junan Xian",
 			"local_name": "莒南县"
 		},
 		"Lanshan Qu": {
-			"name": "Lanshan Qu",
 			"local_name": "兰山区"
 		},
 		"Linshu Xian": {
-			"name": "Linshu Xian",
 			"local_name": "临沭县"
 		},
 		"Luozhuang Qu": {
-			"name": "Luozhuang Qu",
 			"local_name": "罗庄区"
 		},
 		"Mengyin Xian": {
-			"name": "Mengyin Xian",
 			"local_name": "蒙阴县"
 		},
 		"Pingyi Xian": {
-			"name": "Pingyi Xian",
 			"local_name": "平邑县"
 		},
 		"Tancheng Xian": {
-			"name": "Tancheng Xian",
 			"local_name": "郯城县"
 		},
 		"Yinan Xian": {
-			"name": "Yinan Xian",
 			"local_name": "沂南县"
 		},
 		"Yishui Xian": {
-			"name": "Yishui Xian",
 			"local_name": "沂水县"
 		}
 	}

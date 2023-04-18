@@ -7,55 +7,42 @@
 	"locale": "zh-Hant",
 	"subdivisions": {
 		"Bade District": {
-			"name": "Bade District",
 			"local_name": "八德區"
 		},
 		"Dayuan District": {
-			"name": "Dayuan District",
 			"local_name": "大園區"
 		},
 		"Daxi District": {
-			"name": "Daxi District",
 			"local_name": "大溪區"
 		},
 		"Zhongli District": {
-			"name": "Zhongli District",
 			"local_name": "中壢區"
 		},
 		"Pingzhen District": {
-			"name": "Pingzhen District",
 			"local_name": "平鎮區"
 		},
 		"Taoyuan District": {
-			"name": "Taoyuan District",
 			"local_name": "桃園區"
 		},
 		"Fuxing District": {
-			"name": "Fuxing District",
 			"local_name": "復興區"
 		},
 		"Xinwu District": {
-			"name": "Xinwu District",
 			"local_name": "新屋區"
 		},
 		"Yangmei District": {
-			"name": "Yangmei District",
 			"local_name": "楊梅區"
 		},
 		"Longtan District": {
-			"name": "Longtan District",
 			"local_name": "龍潭區"
 		},
 		"Guishan District": {
-			"name": "Guishan District",
 			"local_name": "龜山區"
 		},
 		"Luzhu District": {
-			"name": "Luzhu District",
 			"local_name": "蘆竹區"
 		},
 		"Guanyin District": {
-			"name": "Guanyin District",
 			"local_name": "觀音區"
 		}
 	}

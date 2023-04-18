@@ -8,23 +8,18 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Dongxing Qu": {
-			"name": "Dongxing Qu",
 			"local_name": "东兴区"
 		},
 		"Longchang Xian": {
-			"name": "Longchang Xian",
 			"local_name": "隆昌县"
 		},
 		"Shizhong Qu": {
-			"name": "Shizhong Qu",
 			"local_name": "市中区"
 		},
 		"Weiyuan Xian": {
-			"name": "Weiyuan Xian",
 			"local_name": "威远县"
 		},
 		"Zizhong Xian": {
-			"name": "Zizhong Xian",
 			"local_name": "资中县"
 		}
 	}

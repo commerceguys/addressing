@@ -8,83 +8,63 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Baozhong Township": {
-			"name": "Baozhong Township",
 			"local_name": "褒忠鄉"
 		},
 		"Beigang Township": {
-			"name": "Beigang Township",
 			"local_name": "北港鎮"
 		},
 		"Citong Township": {
-			"name": "Citong Township",
 			"local_name": "莿桐鄉"
 		},
 		"Dapi Township": {
-			"name": "Dapi Township",
 			"local_name": "大埤鄉"
 		},
 		"Dongshi Township": {
-			"name": "Dongshi Township",
 			"local_name": "東勢鄉"
 		},
 		"Douliu City": {
-			"name": "Douliu City",
 			"local_name": "斗六市"
 		},
 		"Dounan Township": {
-			"name": "Dounan Township",
 			"local_name": "斗南鎮"
 		},
 		"Erlun Township": {
-			"name": "Erlun Township",
 			"local_name": "二崙鄉"
 		},
 		"Gukeng Township": {
-			"name": "Gukeng Township",
 			"local_name": "古坑鄉"
 		},
 		"Huwei Township": {
-			"name": "Huwei Township",
 			"local_name": "虎尾鎮"
 		},
 		"Kouhu Township": {
-			"name": "Kouhu Township",
 			"local_name": "口湖鄉"
 		},
 		"Linnei Township": {
-			"name": "Linnei Township",
 			"local_name": "林內鄉"
 		},
 		"Lunbei Township": {
-			"name": "Lunbei Township",
 			"local_name": "崙背鄉"
 		},
 		"Mailiao Township": {
-			"name": "Mailiao Township",
 			"local_name": "麥寮鄉"
 		},
 		"Shuilin Township": {
-			"name": "Shuilin Township",
 			"local_name": "水林鄉"
 		},
 		"Sihu Township": {
-			"name": "Sihu Township",
 			"local_name": "四湖鄉"
 		},
 		"Taixi Township": {
-			"name": "Taixi Township",
 			"local_name": "台西鄉"
 		},
 		"Tuku Township": {
-			"name": "Tuku Township",
 			"local_name": "土庫鎮"
 		},
 		"Xiluo Township": {
-			"name": "Xiluo Township",
 			"local_name": "西螺鎮"
 		},
 		"Yuanchang Township": {
-			"name": "Yuanchang Township",
 			"local_name": "元長鄉"
 		}
 	}

@@ -8,59 +8,44 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Dangyang Shi": {
-			"name": "Dangyang Shi",
 			"local_name": "当阳市"
 		},
 		"Dianjun Qu": {
-			"name": "Dianjun Qu",
 			"local_name": "点军区"
 		},
 		"Wufeng Xian": {
-			"code": "Wufeng Xian",
 			"local_code": "五峰土家族自治县",
-			"name": "Wufeng Xian",
 			"local_name": "五峰县"
 		},
 		"Wujiagang Qu": {
-			"name": "Wujiagang Qu",
 			"local_name": "伍家岗区"
 		},
 		"Xiling Qu": {
-			"name": "Xiling Qu",
 			"local_name": "西陵区"
 		},
 		"Xiaoting Qu": {
-			"name": "Xiaoting Qu",
 			"local_name": "猇亭区"
 		},
 		"Xingshan Xian": {
-			"name": "Xingshan Xian",
 			"local_name": "兴山县"
 		},
 		"Yiling Qu": {
-			"name": "Yiling Qu",
 			"local_name": "夷陵区"
 		},
 		"Yidu Shi": {
-			"name": "Yidu Shi",
 			"local_name": "宜都市"
 		},
 		"Yuan'an Xian": {
-			"name": "Yuan'an Xian",
 			"local_name": "远安县"
 		},
 		"Changyang Xian": {
-			"code": "Changyang Xian",
 			"local_code": "长阳土家族自治县",
-			"name": "Changyang Xian",
 			"local_name": "长阳县"
 		},
 		"Zhijiang Shi": {
-			"name": "Zhijiang Shi",
 			"local_name": "枝江市"
 		},
 		"Zigui Xian": {
-			"name": "Zigui Xian",
 			"local_name": "秭归县"
 		}
 	}

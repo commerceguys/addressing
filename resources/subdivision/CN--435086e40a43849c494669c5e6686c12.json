@@ -8,51 +8,39 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Datian Xian": {
-			"name": "Datian Xian",
 			"local_name": "大田县"
 		},
 		"Jianning Xian": {
-			"name": "Jianning Xian",
 			"local_name": "建宁县"
 		},
 		"Jiangle Xian": {
-			"name": "Jiangle Xian",
 			"local_name": "将乐县"
 		},
 		"Meilie Qu": {
-			"name": "Meilie Qu",
 			"local_name": "梅列区"
 		},
 		"Mingxi Xian": {
-			"name": "Mingxi Xian",
 			"local_name": "明溪县"
 		},
 		"Ninghua Xian": {
-			"name": "Ninghua Xian",
 			"local_name": "宁化县"
 		},
 		"Qingliu Xian": {
-			"name": "Qingliu Xian",
 			"local_name": "清流县"
 		},
 		"Sanyuan Qu": {
-			"name": "Sanyuan Qu",
 			"local_name": "三元区"
 		},
 		"Sha Xian": {
-			"name": "Sha Xian",
 			"local_name": "沙县"
 		},
 		"Taining Xian": {
-			"name": "Taining Xian",
 			"local_name": "泰宁县"
 		},
 		"Yong'an Shi": {
-			"name": "Yong'an Shi",
 			"local_name": "永安市"
 		},
 		"Youxi Xian": {
-			"name": "Youxi Xian",
 			"local_name": "尤溪县"
 		}
 	}

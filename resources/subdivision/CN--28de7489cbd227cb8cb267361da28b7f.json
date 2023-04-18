@@ -8,57 +8,42 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Binchuan Xian": {
-			"name": "Binchuan Xian",
 			"local_name": "宾川县"
 		},
 		"Dali Shi": {
-			"name": "Dali Shi",
 			"local_name": "大理市"
 		},
 		"Eryuan Xian": {
-			"name": "Eryuan Xian",
 			"local_name": "洱源县"
 		},
 		"Heqing Xian": {
-			"name": "Heqing Xian",
 			"local_name": "鹤庆县"
 		},
 		"Jianchuan Xian": {
-			"name": "Jianchuan Xian",
 			"local_name": "剑川县"
 		},
 		"Midu Xian": {
-			"name": "Midu Xian",
 			"local_name": "弥渡县"
 		},
 		"Nanjian Xian": {
-			"code": "Nanjian Xian",
 			"local_code": "南涧彝族自治县",
-			"name": "Nanjian Xian",
 			"local_name": "南涧县"
 		},
 		"Weishan Xian": {
-			"code": "Weishan Xian",
 			"local_code": "巍山彝族回族自治县",
-			"name": "Weishan Xian",
 			"local_name": "巍山县"
 		},
 		"Xiangyun Xian": {
-			"name": "Xiangyun Xian",
 			"local_name": "祥云县"
 		},
 		"Yangbi Xian": {
-			"code": "Yangbi Xian",
 			"local_code": "漾濞彝族自治县",
-			"name": "Yangbi Xian",
 			"local_name": "漾濞县"
 		},
 		"Yongping Xian": {
-			"name": "Yongping Xian",
 			"local_name": "永平县"
 		},
 		"Yunlong Xian": {
-			"name": "Yunlong Xian",
 			"local_name": "云龙县"
 		}
 	}

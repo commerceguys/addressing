@@ -8,47 +8,36 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Dongshan Xian": {
-			"name": "Dongshan Xian",
 			"local_name": "东山县"
 		},
 		"Hua'an Xian": {
-			"name": "Hua'an Xian",
 			"local_name": "华安县"
 		},
 		"Longhai Shi": {
-			"name": "Longhai Shi",
 			"local_name": "龙海市"
 		},
 		"Longwen Qu": {
-			"name": "Longwen Qu",
 			"local_name": "龙文区"
 		},
 		"Nanjing Xian": {
-			"name": "Nanjing Xian",
 			"local_name": "南靖县"
 		},
 		"Pinghe Xian": {
-			"name": "Pinghe Xian",
 			"local_name": "平和县"
 		},
 		"Xiangcheng Qu": {
-			"name": "Xiangcheng Qu",
 			"local_name": "芗城区"
 		},
 		"Yunxiao Xian": {
-			"name": "Yunxiao Xian",
 			"local_name": "云霄县"
 		},
 		"Zhangpu Xian": {
-			"name": "Zhangpu Xian",
 			"local_name": "漳浦县"
 		},
 		"Changtai Xian": {
-			"name": "Changtai Xian",
 			"local_name": "长泰县"
 		},
 		"Zhao'an Xian": {
-			"name": "Zhao'an Xian",
 			"local_name": "诏安县"
 		}
 	}

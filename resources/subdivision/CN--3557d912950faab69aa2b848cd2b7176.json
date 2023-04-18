@@ -8,19 +8,15 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Beigan Township": {
-			"name": "Beigan Township",
 			"local_name": "北竿鄉"
 		},
 		"Dongyin Township": {
-			"name": "Dongyin Township",
 			"local_name": "東引鄉"
 		},
 		"Juguang Township": {
-			"name": "Juguang Township",
 			"local_name": "莒光鄉"
 		},
 		"Nangan Township": {
-			"name": "Nangan Township",
 			"local_name": "南竿鄉"
 		}
 	}

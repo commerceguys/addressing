@@ -8,47 +8,36 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Anping Xian": {
-			"name": "Anping Xian",
 			"local_name": "安平县"
 		},
 		"Fucheng Xian": {
-			"name": "Fucheng Xian",
 			"local_name": "阜城县"
 		},
 		"Gucheng Xian": {
-			"name": "Gucheng Xian",
 			"local_name": "故城县"
 		},
 		"Jizhou Shi": {
-			"name": "Jizhou Shi",
 			"local_name": "冀州市"
 		},
 		"Jing Xian": {
-			"name": "Jing Xian",
 			"local_name": "景县"
 		},
 		"Raoyang Xian": {
-			"name": "Raoyang Xian",
 			"local_name": "饶阳县"
 		},
 		"Shenzhou Shi": {
-			"name": "Shenzhou Shi",
 			"local_name": "深州市"
 		},
 		"Taocheng Qu": {
-			"name": "Taocheng Qu",
 			"local_name": "桃城区"
 		},
 		"Wuqiang Xian": {
-			"name": "Wuqiang Xian",
 			"local_name": "武强县"
 		},
 		"Wuyi Xian": {
-			"name": "Wuyi Xian",
 			"local_name": "武邑县"
 		},
 		"Zaoqiang Xian": {
-			"name": "Zaoqiang Xian",
 			"local_name": "枣强县"
 		}
 	}

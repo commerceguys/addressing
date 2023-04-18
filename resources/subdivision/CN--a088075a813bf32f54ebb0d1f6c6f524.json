@@ -8,19 +8,15 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Dongxing Shi": {
-			"name": "Dongxing Shi",
 			"local_name": "东兴市"
 		},
 		"Fangcheng Qu": {
-			"name": "Fangcheng Qu",
 			"local_name": "防城区"
 		},
 		"Gangkou Qu": {
-			"name": "Gangkou Qu",
 			"local_name": "港口区"
 		},
 		"Shangsi Xian": {
-			"name": "Shangsi Xian",
 			"local_name": "上思县"
 		}
 	}

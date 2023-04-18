@@ -8,35 +8,27 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Qira Xian": {
-			"name": "Qira Xian",
 			"local_name": "策勒县"
 		},
 		"Hotan Shi": {
-			"name": "Hotan Shi",
 			"local_name": "和田市"
 		},
 		"Hotan Xian": {
-			"name": "Hotan Xian",
 			"local_name": "和田县"
 		},
 		"Lop Xian": {
-			"name": "Lop Xian",
 			"local_name": "洛浦县"
 		},
 		"Minfeng Xian": {
-			"name": "Minfeng Xian",
 			"local_name": "民丰县"
 		},
 		"Moyu Xian": {
-			"name": "Moyu Xian",
 			"local_name": "墨玉县"
 		},
 		"Pishan Xian": {
-			"name": "Pishan Xian",
 			"local_name": "皮山县"
 		},
 		"Yutian Xian": {
-			"name": "Yutian Xian",
 			"local_name": "于田县"
 		}
 	}

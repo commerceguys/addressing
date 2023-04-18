@@ -8,39 +8,30 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Liangyuan Qu": {
-			"name": "Liangyuan Qu",
 			"local_name": "梁园区"
 		},
 		"Minquan Xian": {
-			"name": "Minquan Xian",
 			"local_name": "民权县"
 		},
 		"Ningling Xian": {
-			"name": "Ningling Xian",
 			"local_name": "宁陵县"
 		},
 		"Sui Xian": {
-			"name": "Sui Xian",
 			"local_name": "睢县"
 		},
 		"Suiyang Qu": {
-			"name": "Suiyang Qu",
 			"local_name": "睢阳区"
 		},
 		"Xiayi Xian": {
-			"name": "Xiayi Xian",
 			"local_name": "夏邑县"
 		},
 		"Yongcheng Shi": {
-			"name": "Yongcheng Shi",
 			"local_name": "永城市"
 		},
 		"Yucheng Xian": {
-			"name": "Yucheng Xian",
 			"local_name": "虞城县"
 		},
 		"Zhecheng Xian": {
-			"name": "Zhecheng Xian",
 			"local_name": "柘城县"
 		}
 	}

@@ -8,35 +8,27 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Fanchang Xian": {
-			"name": "Fanchang Xian",
 			"local_name": "繁昌县"
 		},
 		"Jinghu Qu": {
-			"name": "Jinghu Qu",
 			"local_name": "镜湖区"
 		},
 		"Jiujiang Qu": {
-			"name": "Jiujiang Qu",
 			"local_name": "鸠江区"
 		},
 		"Nanling Xian": {
-			"name": "Nanling Xian",
 			"local_name": "南陵县"
 		},
 		"Sanshan Qu": {
-			"name": "Sanshan Qu",
 			"local_name": "三山区"
 		},
 		"Wuwei Xian": {
-			"name": "Wuwei Xian",
 			"local_name": "无为县"
 		},
 		"Wuhu Xian": {
-			"name": "Wuhu Xian",
 			"local_name": "芜湖县"
 		},
 		"Yijiang Qu": {
-			"name": "Yijiang Qu",
 			"local_name": "弋江区"
 		}
 	}

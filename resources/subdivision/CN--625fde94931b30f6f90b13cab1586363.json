@@ -8,33 +8,25 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Gangu Xian": {
-			"name": "Gangu Xian",
 			"local_name": "甘谷县"
 		},
 		"Maiji Qu": {
-			"name": "Maiji Qu",
 			"local_name": "麦积区"
 		},
 		"Qin'an Xian": {
-			"name": "Qin'an Xian",
 			"local_name": "秦安县"
 		},
 		"Qinzhou Qu": {
-			"name": "Qinzhou Qu",
 			"local_name": "秦州区"
 		},
 		"Qingshui Xian": {
-			"name": "Qingshui Xian",
 			"local_name": "清水县"
 		},
 		"Wushan Xian": {
-			"name": "Wushan Xian",
 			"local_name": "武山县"
 		},
 		"Zhangjiachuan Xian": {
-			"code": "Zhangjiachuan Xian",
 			"local_code": "张家川回族自治县",
-			"name": "Zhangjiachuan Xian",
 			"local_name": "张家川县"
 		}
 	}

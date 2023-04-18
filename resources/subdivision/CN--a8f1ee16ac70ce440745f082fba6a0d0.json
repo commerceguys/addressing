@@ -8,23 +8,18 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Dongying Qu": {
-			"name": "Dongying Qu",
 			"local_name": "东营区"
 		},
 		"Guangrao Xian": {
-			"name": "Guangrao Xian",
 			"local_name": "广饶县"
 		},
 		"Hekou Qu": {
-			"name": "Hekou Qu",
 			"local_name": "河口区"
 		},
 		"Kenli Xian": {
-			"name": "Kenli Xian",
 			"local_name": "垦利县"
 		},
 		"Lijin Xian": {
-			"name": "Lijin Xian",
 			"local_name": "利津县"
 		}
 	}

@@ -8,31 +8,24 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Dongchang Qu": {
-			"name": "Dongchang Qu",
 			"local_name": "东昌区"
 		},
 		"Erdaojiang Qu": {
-			"name": "Erdaojiang Qu",
 			"local_name": "二道江区"
 		},
 		"Huinan Xian": {
-			"name": "Huinan Xian",
 			"local_name": "辉南县"
 		},
 		"Ji'an Shi": {
-			"name": "Ji'an Shi",
 			"local_name": "集安市"
 		},
 		"Liuhe Xian": {
-			"name": "Liuhe Xian",
 			"local_name": "柳河县"
 		},
 		"Meihekou Shi": {
-			"name": "Meihekou Shi",
 			"local_name": "梅河口市"
 		},
 		"Tonghua Xian": {
-			"name": "Tonghua Xian",
 			"local_name": "通化县"
 		}
 	}

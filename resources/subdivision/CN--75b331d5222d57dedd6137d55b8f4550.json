@@ -8,31 +8,24 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Anlu Shi": {
-			"name": "Anlu Shi",
 			"local_name": "安陆市"
 		},
 		"Dawu Xian": {
-			"name": "Dawu Xian",
 			"local_name": "大悟县"
 		},
 		"Hanchuan Shi": {
-			"name": "Hanchuan Shi",
 			"local_name": "汉川市"
 		},
 		"Xiaochang Xian": {
-			"name": "Xiaochang Xian",
 			"local_name": "孝昌县"
 		},
 		"Xiaonan Qu": {
-			"name": "Xiaonan Qu",
 			"local_name": "孝南区"
 		},
 		"Yingcheng Shi": {
-			"name": "Yingcheng Shi",
 			"local_name": "应城市"
 		},
 		"Yunmeng Xian": {
-			"name": "Yunmeng Xian",
 			"local_name": "云梦县"
 		}
 	}

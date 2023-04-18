@@ -8,41 +8,31 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Bohu Xian": {
-			"name": "Bohu Xian",
 			"local_name": "博湖县"
 		},
 		"Hejing Xian": {
-			"name": "Hejing Xian",
 			"local_name": "和静县"
 		},
 		"Hoxud Xian": {
-			"name": "Hoxud Xian",
 			"local_name": "和硕县"
 		},
 		"Korla Shi": {
-			"name": "Korla Shi",
 			"local_name": "库尔勒市"
 		},
 		"Luntai Xian": {
-			"name": "Luntai Xian",
 			"local_name": "轮台县"
 		},
 		"Qiemo Xian": {
-			"name": "Qiemo Xian",
 			"local_name": "且末县"
 		},
 		"Ruoqiang Xian": {
-			"name": "Ruoqiang Xian",
 			"local_name": "若羌县"
 		},
 		"Yuli Xian": {
-			"name": "Yuli Xian",
 			"local_name": "尉犁县"
 		},
 		"Yanqi Xian": {
-			"code": "Yanqi Xian",
 			"local_code": "焉耆回族自治县",
-			"name": "Yanqi Xian",
 			"local_name": "焉耆县"
 		}
 	}

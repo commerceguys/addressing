@@ -8,23 +8,18 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Chengxiang Qu": {
-			"name": "Chengxiang Qu",
 			"local_name": "城厢区"
 		},
 		"Hanjiang Qu": {
-			"name": "Hanjiang Qu",
 			"local_name": "涵江区"
 		},
 		"Licheng Qu": {
-			"name": "Licheng Qu",
 			"local_name": "荔城区"
 		},
 		"Xianyou Xian": {
-			"name": "Xianyou Xian",
 			"local_name": "仙游县"
 		},
 		"Xiuyu Qu": {
-			"name": "Xiuyu Qu",
 			"local_name": "秀屿区"
 		}
 	}

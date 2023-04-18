@@ -8,31 +8,24 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Bengshan Qu": {
-			"name": "Bengshan Qu",
 			"local_name": "蚌山区"
 		},
 		"Guzhen Xian": {
-			"name": "Guzhen Xian",
 			"local_name": "固镇县"
 		},
 		"Huaiyuan Xian": {
-			"name": "Huaiyuan Xian",
 			"local_name": "怀远县"
 		},
 		"Huaishang Qu": {
-			"name": "Huaishang Qu",
 			"local_name": "淮上区"
 		},
 		"Longzihu Qu": {
-			"name": "Longzihu Qu",
 			"local_name": "龙子湖区"
 		},
 		"Wuhe Xian": {
-			"name": "Wuhe Xian",
 			"local_name": "五河县"
 		},
 		"Yuhui Qu": {
-			"name": "Yuhui Qu",
 			"local_name": "禹会区"
 		}
 	}

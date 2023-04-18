@@ -8,39 +8,30 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Chikan Qu": {
-			"name": "Chikan Qu",
 			"local_name": "赤坎区"
 		},
 		"Leizhou Shi": {
-			"name": "Leizhou Shi",
 			"local_name": "雷州市"
 		},
 		"Lianjiang Shi": {
-			"name": "Lianjiang Shi",
 			"local_name": "廉江市"
 		},
 		"Mazhang Qu": {
-			"name": "Mazhang Qu",
 			"local_name": "麻章区"
 		},
 		"Potou Qu": {
-			"name": "Potou Qu",
 			"local_name": "坡头区"
 		},
 		"Suixi Xian": {
-			"name": "Suixi Xian",
 			"local_name": "遂溪县"
 		},
 		"Wuchuan Shi": {
-			"name": "Wuchuan Shi",
 			"local_name": "吴川市"
 		},
 		"Xiashan Qu": {
-			"name": "Xiashan Qu",
 			"local_name": "霞山区"
 		},
 		"Xuwen Xian": {
-			"name": "Xuwen Xian",
 			"local_name": "徐闻县"
 		}
 	}

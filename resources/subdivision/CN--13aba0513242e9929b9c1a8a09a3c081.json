@@ -8,15 +8,12 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Alxa Youqi": {
-			"name": "Alxa Youqi",
 			"local_name": "阿拉善右旗"
 		},
 		"Alxa Zuoqi": {
-			"name": "Alxa Zuoqi",
 			"local_name": "阿拉善左旗"
 		},
 		"Ejin Qi": {
-			"name": "Ejin Qi",
 			"local_name": "额济纳旗"
 		}
 	}

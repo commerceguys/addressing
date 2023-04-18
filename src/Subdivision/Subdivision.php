@@ -104,7 +104,7 @@ class Subdivision
      *
      * This is an ISO code when available (e.g. "CA" for the US state of California),
      * in which case it consists of up to 3 alphanumeric characters.
-     * Otherwise it matches the subdivision code and could be of any length.
+     * Otherwise it matches the subdivision name and could be of any length.
      *
      * @return string The subdivision id.
      */

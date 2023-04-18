@@ -8,35 +8,27 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Gong'an Xian": {
-			"name": "Gong'an Xian",
 			"local_name": "公安县"
 		},
 		"Honghu Shi": {
-			"name": "Honghu Shi",
 			"local_name": "洪湖市"
 		},
 		"Jianli Xian": {
-			"name": "Jianli Xian",
 			"local_name": "监利县"
 		},
 		"Jiangling Xian": {
-			"name": "Jiangling Xian",
 			"local_name": "江陵县"
 		},
 		"Jingzhou Qu": {
-			"name": "Jingzhou Qu",
 			"local_name": "荆州区"
 		},
 		"Shashi Qu": {
-			"name": "Shashi Qu",
 			"local_name": "沙市区"
 		},
 		"Shishou Shi": {
-			"name": "Shishou Shi",
 			"local_name": "石首市"
 		},
 		"Songzi Shi": {
-			"name": "Songzi Shi",
 			"local_name": "松滋市"
 		}
 	}

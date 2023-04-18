@@ -7,263 +7,198 @@
 	"locale": "zh-Hant",
 	"subdivisions": {
 		"Kau To Shan": {
-			"name": "Kau To Shan",
 			"local_name": "九肚山"
 		},
 		"Sheung Shui": {
-			"name": "Sheung Shui",
 			"local_name": "上水"
 		},
 		"Tai Po": {
-			"name": "Tai Po",
 			"local_name": "大埔"
 		},
 		"Ting Kok Tai Po": {
-			"name": "Ting Kok Tai Po",
 			"local_name": "大埔汀角"
 		},
 		"Lam Tsuen Tai Po": {
-			"name": "Lam Tsuen Tai Po",
 			"local_name": "大埔林村"
 		},
 		"Shuen Wan Tai Po": {
-			"name": "Shuen Wan Tai Po",
 			"local_name": "大埔船灣"
 		},
 		"Tai Po Kau": {
-			"name": "Tai Po Kau",
 			"local_name": "大埔滘"
 		},
 		"Lantau Island": {
-			"name": "Lantau Island",
 			"local_name": "大嶼山"
 		},
 		"Tai O Lantau Island": {
-			"name": "Tai O Lantau Island",
 			"local_name": "大嶼山大澳"
 		},
 		"Shek Pik Lantau Island": {
-			"name": "Shek Pik Lantau Island",
 			"local_name": "大嶼山石壁"
 		},
 		"Chek Lap Kok Lantau Island": {
-			"name": "Chek Lap Kok Lantau Island",
 			"local_name": "大嶼山赤鱲角"
 		},
 		"Ngong Ping Lantau Island": {
-			"name": "Ngong Ping Lantau Island",
 			"local_name": "大嶼山昂坪"
 		},
 		"Tung Chung Lantau Island": {
-			"name": "Tung Chung Lantau Island",
 			"local_name": "大嶼山東涌"
 		},
 		"Chi Ma Wan Lantau Island": {
-			"name": "Chi Ma Wan Lantau Island",
 			"local_name": "大嶼山芝麻灣"
 		},
 		"Cheung Sha Lantau Island": {
-			"name": "Cheung Sha Lantau Island",
 			"local_name": "大嶼山長沙"
 		},
 		"Mui Wo Lantau Island": {
-			"name": "Mui Wo Lantau Island",
 			"local_name": "大嶼山梅窩"
 		},
 		"Discovery Bay Lantau Island": {
-			"name": "Discovery Bay Lantau Island",
 			"local_name": "大嶼山愉景灣"
 		},
 		"Tong Fuk Lantau Island": {
-			"name": "Tong Fuk Lantau Island",
 			"local_name": "大嶼山塘福"
 		},
 		"Tai Lam": {
-			"name": "Tai Lam",
 			"local_name": "大欖"
 		},
 		"Yuen Long": {
-			"name": "Yuen Long",
 			"local_name": "元朗"
 		},
 		"Pat Heung Yuen Long": {
-			"name": "Pat Heung Yuen Long",
 			"local_name": "元朗八鄉"
 		},
 		"Tai Tong Yuen Long": {
-			"name": "Tai Tong Yuen Long",
 			"local_name": "元朗大棠"
 		},
 		"Shek Kong Yuen Long": {
-			"name": "Shek Kong Yuen Long",
 			"local_name": "元朗石崗"
 		},
 		"Ping Shan Yuen Long": {
-			"name": "Ping Shan Yuen Long",
 			"local_name": "元朗屏山"
 		},
 		"Ha Tsuen Yuen Long": {
-			"name": "Ha Tsuen Yuen Long",
 			"local_name": "元朗廈村"
 		},
 		"San Tin Yuen Long": {
-			"name": "San Tin Yuen Long",
 			"local_name": "元朗新田"
 		},
 		"Tam Mei Yuen Long": {
-			"name": "Tam Mei Yuen Long",
 			"local_name": "元朗潭尾"
 		},
 		"Kam Tin Yuen Long": {
-			"name": "Kam Tin Yuen Long",
 			"local_name": "元朗錦田"
 		},
 		"Tin Shui Wai": {
-			"name": "Tin Shui Wai",
 			"local_name": "天水圍"
 		},
 		"Tai Wo": {
-			"name": "Tai Wo",
 			"local_name": "太和"
 		},
 		"Tuen Mun": {
-			"name": "Tuen Mun",
 			"local_name": "屯門"
 		},
 		"Fu Tei Tuen Mun": {
-			"name": "Fu Tei Tuen Mun",
 			"local_name": "屯門虎地"
 		},
 		"San Hui Tuen Mun": {
-			"name": "San Hui Tuen Mun",
 			"local_name": "屯門新墟"
 		},
 		"Lam Tei Tuen Mun": {
-			"name": "Lam Tei Tuen Mun",
 			"local_name": "屯門藍地"
 		},
 		"Siu Lam Tuen Mun": {
-			"name": "Siu Lam Tuen Mun",
 			"local_name": "屯門小欖"
 		},
 		"Kwu Tung": {
-			"name": "Kwu Tung",
 			"local_name": "古洞"
 		},
 		"Ta Kwu Ling": {
-			"name": "Ta Kwu Ling",
 			"local_name": "打鼓嶺"
 		},
 		"Ting Kau": {
-			"name": "Ting Kau",
 			"local_name": "汀九"
 		},
 		"Sai Kung": {
-			"name": "Sai Kung",
 			"local_name": "西貢"
 		},
 		"Hang Hau Sai Kung": {
-			"name": "Hang Hau Sai Kung",
 			"local_name": "西貢坑口"
 		},
 		"Sha Tin": {
-			"name": "Sha Tin",
 			"local_name": "沙田"
 		},
 		"Tai Wai Sha Tin": {
-			"name": "Tai Wai Sha Tin",
 			"local_name": "沙田大圍"
 		},
 		"Fo Tan Sha Tin": {
-			"name": "Fo Tan Sha Tin",
 			"local_name": "沙田火炭"
 		},
 		"Siu Lek Yuen Sha Tin": {
-			"name": "Siu Lek Yuen Sha Tin",
 			"local_name": "沙田小瀝源"
 		},
 		"Sha Tau Kok": {
-			"name": "Sha Tau Kok",
 			"local_name": "沙頭角"
 		},
 		"Peng Chau": {
-			"name": "Peng Chau",
 			"local_name": "坪洲"
 		},
 		"Ping Che": {
-			"name": "Ping Che",
 			"local_name": "坪輋"
 		},
 		"Cheung Chau": {
-			"name": "Cheung Chau",
 			"local_name": "長洲"
 		},
 		"Tsing Yi": {
-			"name": "Tsing Yi",
 			"local_name": "青衣"
 		},
 		"Lamma Island": {
-			"name": "Lamma Island",
 			"local_name": "南丫島"
 		},
 		"Hung Shui Kiu": {
-			"name": "Hung Shui Kiu",
 			"local_name": "洪水橋"
 		},
 		"Lau Fau Shan": {
-			"name": "Lau Fau Shan",
 			"local_name": "流浮山"
 		},
 		"Fanling": {
-			"name": "Fanling",
 			"local_name": "粉嶺"
 		},
 		"Kwan Tei Fanling": {
-			"name": "Kwan Tei Fanling",
 			"local_name": "粉嶺軍地"
 		},
 		"Tsuen Wan": {
-			"name": "Tsuen Wan",
 			"local_name": "荃灣"
 		},
 		"Lo Wai Tsuen Wan": {
-			"name": "Lo Wai Tsuen Wan",
 			"local_name": "荃灣老圍"
 		},
 		"Ma Liu Shui": {
-			"name": "Ma Liu Shui",
 			"local_name": "馬料水"
 		},
 		"Ma On Shan": {
-			"name": "Ma On Shan",
 			"local_name": "馬鞍山"
 		},
 		"Ma Wan": {
-			"name": "Ma Wan",
 			"local_name": "馬灣"
 		},
 		"Tseung Kwan O": {
-			"name": "Tseung Kwan O",
 			"local_name": "將軍澳"
 		},
 		"So Kwun Wat": {
-			"name": "So Kwun Wat",
 			"local_name": "掃管笏"
 		},
 		"Sham Tseng": {
-			"name": "Sham Tseng",
 			"local_name": "深井"
 		},
 		"Clear Water Bay": {
-			"name": "Clear Water Bay",
 			"local_name": "清水灣"
 		},
 		"Hei Ling Chau": {
-			"name": "Hei Ling Chau",
 			"local_name": "喜靈洲"
 		},
 		"Kwai Chung": {
-			"name": "Kwai Chung",
 			"local_name": "葵涌"
 		}
 	}

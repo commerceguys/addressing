@@ -8,27 +8,20 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Gucheng Qu": {
-			"name": "Gucheng Qu",
 			"local_name": "古城区"
 		},
 		"Huaping Xian": {
-			"name": "Huaping Xian",
 			"local_name": "华坪县"
 		},
 		"Ninglang Xian": {
-			"code": "Ninglang Xian",
 			"local_code": "宁蒗彝族自治县",
-			"name": "Ninglang Xian",
 			"local_name": "宁蒗县"
 		},
 		"Yongsheng Xian": {
-			"name": "Yongsheng Xian",
 			"local_name": "永胜县"
 		},
 		"Yulong Xian": {
-			"code": "Yulong Xian",
 			"local_code": "玉龙纳西族自治县",
-			"name": "Yulong Xian",
 			"local_name": "玉龙县"
 		}
 	}

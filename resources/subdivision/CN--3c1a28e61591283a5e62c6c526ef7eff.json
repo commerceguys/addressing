@@ -8,55 +8,42 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Ansai Xian": {
-			"name": "Ansai Xian",
 			"local_name": "安塞县"
 		},
 		"Baota Qu": {
-			"name": "Baota Qu",
 			"local_name": "宝塔区"
 		},
 		"Fu Xian": {
-			"name": "Fu Xian",
 			"local_name": "富县"
 		},
 		"Ganquan Xian": {
-			"name": "Ganquan Xian",
 			"local_name": "甘泉县"
 		},
 		"Huangling Xian": {
-			"name": "Huangling Xian",
 			"local_name": "黄陵县"
 		},
 		"Huanglong Xian": {
-			"name": "Huanglong Xian",
 			"local_name": "黄龙县"
 		},
 		"Luochuan Xian": {
-			"name": "Luochuan Xian",
 			"local_name": "洛川县"
 		},
 		"Wuqi Xian": {
-			"name": "Wuqi Xian",
 			"local_name": "吴起县"
 		},
 		"Yanchuan Xian": {
-			"name": "Yanchuan Xian",
 			"local_name": "延川县"
 		},
 		"Yanzhang Xian": {
-			"name": "Yanzhang Xian",
 			"local_name": "延长县"
 		},
 		"Yichuan Xian": {
-			"name": "Yichuan Xian",
 			"local_name": "宜川县"
 		},
 		"Zhidan Xian": {
-			"name": "Zhidan Xian",
 			"local_name": "志丹县"
 		},
 		"Zichang Xian": {
-			"name": "Zichang Xian",
 			"local_name": "子长县"
 		}
 	}

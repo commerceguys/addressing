@@ -8,31 +8,24 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Dengkou Xian": {
-			"name": "Dengkou Xian",
 			"local_name": "磴口县"
 		},
 		"Hanggin Houqi": {
-			"name": "Hanggin Houqi",
 			"local_name": "杭锦后旗"
 		},
 		"Linhe Qu": {
-			"name": "Linhe Qu",
 			"local_name": "临河区"
 		},
 		"Urad Houqi": {
-			"name": "Urad Houqi",
 			"local_name": "乌拉特后旗"
 		},
 		"Urad Qianqi": {
-			"name": "Urad Qianqi",
 			"local_name": "乌拉特前旗"
 		},
 		"Urad Zhongqi": {
-			"name": "Urad Zhongqi",
 			"local_name": "乌拉特中旗"
 		},
 		"Wuyuan Xian": {
-			"name": "Wuyuan Xian",
 			"local_name": "五原县"
 		}
 	}

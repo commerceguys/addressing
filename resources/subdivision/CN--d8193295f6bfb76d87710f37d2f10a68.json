@@ -8,19 +8,15 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Litong Qu": {
-			"name": "Litong Qu",
 			"local_name": "利通区"
 		},
 		"Qingtongxia Shi": {
-			"name": "Qingtongxia Shi",
 			"local_name": "青铜峡市"
 		},
 		"Tongxin Xian": {
-			"name": "Tongxin Xian",
 			"local_name": "同心县"
 		},
 		"Yanchi Xian": {
-			"name": "Yanchi Xian",
 			"local_name": "盐池县"
 		}
 	}

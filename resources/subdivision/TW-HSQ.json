@@ -7,55 +7,42 @@
 	"locale": "zh-Hant",
 	"subdivisions": {
 		"Wufeng Township": {
-			"name": "Wufeng Township",
 			"local_name": "五峰鄉"
 		},
 		"Beipu Township": {
-			"name": "Beipu Township",
 			"local_name": "北埔鄉"
 		},
 		"Jianshi Township": {
-			"name": "Jianshi Township",
 			"local_name": "尖石鄉"
 		},
 		"Zhubei City": {
-			"name": "Zhubei City",
 			"local_name": "竹北市"
 		},
 		"Zhudong Township": {
-			"name": "Zhudong Township",
 			"local_name": "竹東鎮"
 		},
 		"Qionglin Township": {
-			"name": "Qionglin Township",
 			"local_name": "芎林鄉"
 		},
 		"Emei Township": {
-			"name": "Emei Township",
 			"local_name": "峨眉鄉"
 		},
 		"Hukou Township": {
-			"name": "Hukou Township",
 			"local_name": "湖口鄉"
 		},
 		"Xinpu Township": {
-			"name": "Xinpu Township",
 			"local_name": "新埔鎮"
 		},
 		"Xinfeng Township": {
-			"name": "Xinfeng Township",
 			"local_name": "新豐鄉"
 		},
 		"Hengshan Township": {
-			"name": "Hengshan Township",
 			"local_name": "橫山鄉"
 		},
 		"Guanxi Township": {
-			"name": "Guanxi Township",
 			"local_name": "關西鎮"
 		},
 		"Baoshan Township": {
-			"name": "Baoshan Township",
 			"local_name": "寶山鄉"
 		}
 	}

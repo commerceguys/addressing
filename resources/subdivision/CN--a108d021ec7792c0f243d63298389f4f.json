@@ -8,35 +8,25 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Huzhu Xian": {
-			"code": "Huzhu Xian",
 			"local_code": "互助土族自治县",
-			"name": "Huzhu Xian",
 			"local_name": "互助县"
 		},
 		"Hualong Xian": {
-			"code": "Hualong Xian",
 			"local_code": "化隆回族自治县",
-			"name": "Hualong Xian",
 			"local_name": "化隆县"
 		},
 		"Ledu Qu": {
-			"name": "Ledu Qu",
 			"local_name": "乐都区"
 		},
 		"Minhe Xian": {
-			"code": "Minhe Xian",
 			"local_code": "民和回族土族自治县",
-			"name": "Minhe Xian",
 			"local_name": "民和县"
 		},
 		"Ping'an Xian": {
-			"name": "Ping'an Xian",
 			"local_name": "平安县"
 		},
 		"Xunhua Xian": {
-			"code": "Xunhua Xian",
 			"local_code": "循化撒拉族自治县",
-			"name": "Xunhua Xian",
 			"local_name": "循化县"
 		}
 	}

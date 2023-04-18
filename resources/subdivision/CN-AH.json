@@ -7,87 +7,70 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Anqing Shi": {
-			"name": "Anqing Shi",
 			"local_name": "安庆市",
 			"has_children": true
 		},
 		"Bengbu Shi": {
-			"name": "Bengbu Shi",
 			"local_name": "蚌埠市",
 			"has_children": true
 		},
 		"Bozhou Shi": {
-			"name": "Bozhou Shi",
 			"local_name": "亳州市",
 			"has_children": true
 		},
 		"Chaohu Shi": {
-			"name": "Chaohu Shi",
 			"local_name": "巢湖市",
 			"has_children": true
 		},
 		"Chizhou Shi": {
-			"name": "Chizhou Shi",
 			"local_name": "池州市",
 			"has_children": true
 		},
 		"Chuzhou Shi": {
-			"name": "Chuzhou Shi",
 			"local_name": "滁州市",
 			"has_children": true
 		},
 		"Fuyang Shi": {
-			"name": "Fuyang Shi",
 			"local_name": "阜阳市",
 			"has_children": true
 		},
 		"Hefei Shi": {
-			"name": "Hefei Shi",
 			"local_name": "合肥市",
 			"has_children": true
 		},
 		"Huaibei Shi": {
-			"name": "Huaibei Shi",
 			"local_name": "淮北市",
 			"has_children": true
 		},
 		"Huainan Shi": {
-			"name": "Huainan Shi",
 			"local_name": "淮南市",
 			"has_children": true
 		},
 		"Huangshan Shi": {
-			"name": "Huangshan Shi",
 			"local_name": "黄山市",
 			"has_children": true
 		},
 		"Lu'an Shi": {
-			"name": "Lu'an Shi",
 			"local_name": "六安市",
 			"has_children": true
 		},
 		"Ma'anshan Shi": {
-			"name": "Ma'anshan Shi",
 			"local_name": "马鞍山市",
 			"has_children": true
 		},
 		"Suzhou Shi": {
-			"name": "Suzhou Shi",
 			"local_name": "宿州市",
 			"has_children": true
 		},
 		"Tongling shi": {
-			"name": "Tongling shi",
 			"local_name": "铜陵市",
 			"has_children": true
 		},
 		"Wuhu Shi": {
-			"name": "Wuhu Shi",
 			"local_name": "芜湖市",
 			"has_children": true
 		},
 		"Xuancheng Shi": {
-			"name": "Xuancheng Shi",
 			"local_name": "宣城市",
 			"has_children": true
 		}

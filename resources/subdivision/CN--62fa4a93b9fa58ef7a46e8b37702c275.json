@@ -8,27 +8,21 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Baisha Township": {
-			"name": "Baisha Township",
 			"local_name": "白沙鄉"
 		},
 		"Huxi Township": {
-			"name": "Huxi Township",
 			"local_name": "湖西鄉"
 		},
 		"Magong City": {
-			"name": "Magong City",
 			"local_name": "馬公市"
 		},
 		"Qimei Township": {
-			"name": "Qimei Township",
 			"local_name": "七美鄉"
 		},
 		"Wang'an Township": {
-			"name": "Wang'an Township",
 			"local_name": "望安鄉"
 		},
 		"Xiyu Township": {
-			"name": "Xiyu Township",
 			"local_name": "西嶼鄉"
 		}
 	}

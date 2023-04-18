@@ -8,75 +8,57 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Acheng Qu": {
-			"name": "Acheng Qu",
 			"local_name": "阿城区"
 		},
 		"Bayan Xian": {
-			"name": "Bayan Xian",
 			"local_name": "巴彦县"
 		},
 		"Bin Xian": {
-			"name": "Bin Xian",
 			"local_name": "宾县"
 		},
 		"Daoli Qu": {
-			"name": "Daoli Qu",
 			"local_name": "道里区"
 		},
 		"Daowai Qu": {
-			"name": "Daowai Qu",
 			"local_name": "道外区"
 		},
 		"Fangzheng Xian": {
-			"name": "Fangzheng Xian",
 			"local_name": "方正县"
 		},
 		"Hulan Qu": {
-			"name": "Hulan Qu",
 			"local_name": "呼兰区"
 		},
 		"Mulan Xian": {
-			"name": "Mulan Xian",
 			"local_name": "木兰县"
 		},
 		"Nangang Qu": {
-			"name": "Nangang Qu",
 			"local_name": "南岗区"
 		},
 		"Pingfang Qu": {
-			"name": "Pingfang Qu",
 			"local_name": "平房区"
 		},
 		"Shangzhi Shi": {
-			"name": "Shangzhi Shi",
 			"local_name": "尚志市"
 		},
 		"Shuangcheng Shi": {
-			"name": "Shuangcheng Shi",
 			"local_name": "双城市"
 		},
 		"Sonbgei Qu": {
-			"name": "Sonbgei Qu",
 			"local_name": "松北区"
 		},
 		"Tonghe Xian": {
-			"name": "Tonghe Xian",
 			"local_name": "通河县"
 		},
 		"Wuchang Shi": {
-			"name": "Wuchang Shi",
 			"local_name": "五常市"
 		},
 		"Xiangfang Qu": {
-			"name": "Xiangfang Qu",
 			"local_name": "香坊区"
 		},
 		"Yanshou Xian": {
-			"name": "Yanshou Xian",
 			"local_name": "延寿县"
 		},
 		"Yilan Xian": {
-			"name": "Yilan Xian",
 			"local_name": "依兰县"
 		}
 	}

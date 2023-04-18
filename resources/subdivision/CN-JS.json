@@ -7,67 +7,54 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Changzhou Shi": {
-			"name": "Changzhou Shi",
 			"local_name": "常州市",
 			"has_children": true
 		},
 		"Huai'an Shi": {
-			"name": "Huai'an Shi",
 			"local_name": "淮安市",
 			"has_children": true
 		},
 		"Lianyungang Shi": {
-			"name": "Lianyungang Shi",
 			"local_name": "连云港市",
 			"has_children": true
 		},
 		"Nanjing Shi": {
-			"name": "Nanjing Shi",
 			"local_name": "南京市",
 			"has_children": true
 		},
 		"Nantong Shi": {
-			"name": "Nantong Shi",
 			"local_name": "南通市",
 			"has_children": true
 		},
 		"Suzhou Shi": {
-			"name": "Suzhou Shi",
 			"local_name": "苏州市",
 			"has_children": true
 		},
 		"Suqian Shi": {
-			"name": "Suqian Shi",
 			"local_name": "宿迁市",
 			"has_children": true
 		},
 		"Taizhou Shi": {
-			"name": "Taizhou Shi",
 			"local_name": "泰州市",
 			"has_children": true
 		},
 		"Wuxi Shi": {
-			"name": "Wuxi Shi",
 			"local_name": "无锡市",
 			"has_children": true
 		},
 		"Xuzhou Shi": {
-			"name": "Xuzhou Shi",
 			"local_name": "徐州市",
 			"has_children": true
 		},
 		"Yancheng Shi": {
-			"name": "Yancheng Shi",
 			"local_name": "盐城市",
 			"has_children": true
 		},
 		"Yangzhou Shi": {
-			"name": "Yangzhou Shi",
 			"local_name": "扬州市",
 			"has_children": true
 		},
 		"Zhenjiang Shi": {
-			"name": "Zhenjiang Shi",
 			"local_name": "镇江市",
 			"has_children": true
 		}

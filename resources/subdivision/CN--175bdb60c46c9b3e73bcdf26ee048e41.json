@@ -8,21 +8,16 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Gulang Xian": {
-			"name": "Gulang Xian",
 			"local_name": "古浪县"
 		},
 		"Liangzhou Qu": {
-			"name": "Liangzhou Qu",
 			"local_name": "凉州区"
 		},
 		"Minqin Xian": {
-			"name": "Minqin Xian",
 			"local_name": "民勤县"
 		},
 		"Tianzhu Xian": {
-			"code": "Tianzhu Xian",
 			"local_code": "天祝藏族自治县",
-			"name": "Tianzhu Xian",
 			"local_name": "天祝县"
 		}
 	}

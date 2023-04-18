@@ -7,23 +7,18 @@
 	"locale": "ko",
 	"subdivisions": {
 		"Gwangsan-gu": {
-			"name": "Gwangsan-gu",
 			"local_name": "광산구"
 		},
 		"Nam-gu": {
-			"name": "Nam-gu",
 			"local_name": "남구"
 		},
 		"Dong-gu": {
-			"name": "Dong-gu",
 			"local_name": "동구"
 		},
 		"Buk-gu": {
-			"name": "Buk-gu",
 			"local_name": "북구"
 		},
 		"Seo-gu": {
-			"name": "Seo-gu",
 			"local_name": "서구"
 		}
 	}

@@ -8,55 +8,42 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Cheng Qu": {
-			"name": "Cheng Qu",
 			"local_name": "城区"
 		},
 		"Huguan Xian": {
-			"name": "Huguan Xian",
 			"local_name": "壶关县"
 		},
 		"Jiao Qu": {
-			"name": "Jiao Qu",
 			"local_name": "郊区"
 		},
 		"Licheng Xian": {
-			"name": "Licheng Xian",
 			"local_name": "黎城县"
 		},
 		"Lucheng Shi": {
-			"name": "Lucheng Shi",
 			"local_name": "潞城市"
 		},
 		"Pingshun Xian": {
-			"name": "Pingshun Xian",
 			"local_name": "平顺县"
 		},
 		"Qin Xian": {
-			"name": "Qin Xian",
 			"local_name": "沁县"
 		},
 		"Qinyuan Xian": {
-			"name": "Qinyuan Xian",
 			"local_name": "沁源县"
 		},
 		"Tunliu Xian": {
-			"name": "Tunliu Xian",
 			"local_name": "屯留县"
 		},
 		"Wuxiang Xian": {
-			"name": "Wuxiang Xian",
 			"local_name": "武乡县"
 		},
 		"Xiangyuan Xian": {
-			"name": "Xiangyuan Xian",
 			"local_name": "襄垣县"
 		},
 		"Changzhi Xian": {
-			"name": "Changzhi Xian",
 			"local_name": "长治县"
 		},
 		"Zhangzi Xian": {
-			"name": "Zhangzi Xian",
 			"local_name": "长子县"
 		}
 	}

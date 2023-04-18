@@ -8,11 +8,9 @@
 	"locale": "ko",
 	"subdivisions": {
 		"Nam-gu": {
-			"name": "Nam-gu",
 			"local_name": "남구"
 		},
 		"Buk-gu": {
-			"name": "Buk-gu",
 			"local_name": "북구"
 		}
 	}

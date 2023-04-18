@@ -8,43 +8,33 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Huaiyin Qu": {
-			"name": "Huaiyin Qu",
 			"local_name": "槐荫区"
 		},
 		"Jiyang Xian": {
-			"name": "Jiyang Xian",
 			"local_name": "济阳县"
 		},
 		"Licheng Qu": {
-			"name": "Licheng Qu",
 			"local_name": "历城区"
 		},
 		"Lixia Qu": {
-			"name": "Lixia Qu",
 			"local_name": "历下区"
 		},
 		"Pingyin Xian": {
-			"name": "Pingyin Xian",
 			"local_name": "平阴县"
 		},
 		"Shanghe Xian": {
-			"name": "Shanghe Xian",
 			"local_name": "商河县"
 		},
 		"Shizhong Qu": {
-			"name": "Shizhong Qu",
 			"local_name": "市中区"
 		},
 		"Tianqiao Qu": {
-			"name": "Tianqiao Qu",
 			"local_name": "天桥区"
 		},
 		"Zhangqiu Shi": {
-			"name": "Zhangqiu Shi",
 			"local_name": "章丘市"
 		},
 		"Changqing Qu": {
-			"name": "Changqing Qu",
 			"local_name": "长清区"
 		}
 	}

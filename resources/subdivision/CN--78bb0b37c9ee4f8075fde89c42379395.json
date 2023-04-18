@@ -8,27 +8,21 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Hubin Qu": {
-			"name": "Hubin Qu",
 			"local_name": "湖滨区"
 		},
 		"Lingbao Shi": {
-			"name": "Lingbao Shi",
 			"local_name": "灵宝市"
 		},
 		"Lushi Xian": {
-			"name": "Lushi Xian",
 			"local_name": "卢氏县"
 		},
 		"Mianchi Xian": {
-			"name": "Mianchi Xian",
 			"local_name": "渑池县"
 		},
 		"Shan Xian": {
-			"name": "Shan Xian",
 			"local_name": "陕县"
 		},
 		"Yima Shi": {
-			"name": "Yima Shi",
 			"local_name": "义马市"
 		}
 	}

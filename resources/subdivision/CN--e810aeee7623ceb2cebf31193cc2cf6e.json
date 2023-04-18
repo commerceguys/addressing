@@ -8,43 +8,33 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Cuiping Qu": {
-			"name": "Cuiping Qu",
 			"local_name": "翠屏区"
 		},
 		"Gao Xian": {
-			"name": "Gao Xian",
 			"local_name": "高县"
 		},
 		"Gong Xian": {
-			"name": "Gong Xian",
 			"local_name": "珙县"
 		},
 		"Jiang'an Xian": {
-			"name": "Jiang'an Xian",
 			"local_name": "江安县"
 		},
 		"Nanxi Xian": {
-			"name": "Nanxi Xian",
 			"local_name": "南溪县"
 		},
 		"Pingshan Xian": {
-			"name": "Pingshan Xian",
 			"local_name": "屏山县"
 		},
 		"Xingwen Xian": {
-			"name": "Xingwen Xian",
 			"local_name": "兴文县"
 		},
 		"Yibin Xian": {
-			"name": "Yibin Xian",
 			"local_name": "宜宾县"
 		},
 		"Junlian Xian": {
-			"name": "Junlian Xian",
 			"local_name": "筠连县"
 		},
 		"Changning Xian": {
-			"name": "Changning Xian",
 			"local_name": "长宁县"
 		}
 	}

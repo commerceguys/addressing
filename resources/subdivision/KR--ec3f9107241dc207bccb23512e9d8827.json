@@ -8,15 +8,12 @@
 	"locale": "ko",
 	"subdivisions": {
 		"Deogyang-gu": {
-			"name": "Deogyang-gu",
 			"local_name": "덕양구"
 		},
 		"Ilsandong-gu": {
-			"name": "Ilsandong-gu",
 			"local_name": "일산동구"
 		},
 		"Ilsanseo-gu": {
-			"name": "Ilsanseo-gu",
 			"local_name": "일산서구"
 		}
 	}

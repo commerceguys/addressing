@@ -8,11 +8,9 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Gangcheng Qu": {
-			"name": "Gangcheng Qu",
 			"local_name": "钢城区"
 		},
 		"Laicheng Qu": {
-			"name": "Laicheng Qu",
 			"local_name": "莱城区"
 		}
 	}

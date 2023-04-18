@@ -7,67 +7,51 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Baodi Qu": {
-			"name": "Baodi Qu",
 			"local_name": "宝坻区"
 		},
 		"Beichen Qu": {
-			"name": "Beichen Qu",
 			"local_name": "北辰区"
 		},
 		"Binhai Xinqu": {
-			"name": "Binhai Xinqu",
 			"local_name": "滨海新区"
 		},
 		"Dongli Qu": {
-			"name": "Dongli Qu",
 			"local_name": "东丽区"
 		},
 		"Heping Qu": {
-			"name": "Heping Qu",
 			"local_name": "和平区"
 		},
 		"Hebei Qu": {
-			"name": "Hebei Qu",
 			"local_name": "河北区"
 		},
 		"Hedong Qu": {
-			"name": "Hedong Qu",
 			"local_name": "河东区"
 		},
 		"Hexi Qu": {
-			"name": "Hexi Qu",
 			"local_name": "河西区"
 		},
 		"Hongqiao Qu": {
-			"name": "Hongqiao Qu",
 			"local_name": "红桥区"
 		},
 		"Ji Xian": {
-			"name": "Ji Xian",
 			"local_name": "蓟县"
 		},
 		"Jinnan Qu": {
-			"name": "Jinnan Qu",
 			"local_name": "津南区"
 		},
 		"Jinghai Xian": {
-			"name": "Jinghai Xian",
 			"local_name": "静海县"
 		},
 		"Nankai Qu": {
-			"name": "Nankai Qu",
 			"local_name": "南开区"
 		},
 		"Ninghe Xian": {
-			"name": "Ninghe Xian",
 			"local_name": "宁河县"
 		},
 		"Wuqing Qu": {
-			"name": "Wuqing Qu",
 			"local_name": "武清区"
 		},
 		"Xiqing Qu": {
-			"name": "Xiqing Qu",
 			"local_name": "西青区"
 		}
 	}

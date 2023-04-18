@@ -8,39 +8,30 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Chengzihe Qu": {
-			"name": "Chengzihe Qu",
 			"local_name": "城子河区"
 		},
 		"Keyao Qu": {
-			"name": "Keyao Qu",
 			"local_name": "滴道区"
 		},
 		"Hengshan Qu": {
-			"name": "Hengshan Qu",
 			"local_name": "恒山区"
 		},
 		"Hulin Shi": {
-			"name": "Hulin Shi",
 			"local_name": "虎林市"
 		},
 		"Jidong Xian": {
-			"name": "Jidong Xian",
 			"local_name": "鸡东县"
 		},
 		"Jiguan Qu": {
-			"name": "Jiguan Qu",
 			"local_name": "鸡冠区"
 		},
 		"Lishu Qu": {
-			"name": "Lishu Qu",
 			"local_name": "梨树区"
 		},
 		"Mashan Qu": {
-			"name": "Mashan Qu",
 			"local_name": "麻山区"
 		},
 		"Mishan Shi": {
-			"name": "Mishan Shi",
 			"local_name": "密山市"
 		}
 	}

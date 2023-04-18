@@ -8,19 +8,15 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Boli Xian": {
-			"name": "Boli Xian",
 			"local_name": "勃利县"
 		},
 		"Qiezihe Qu": {
-			"name": "Qiezihe Qu",
 			"local_name": "茄子河区"
 		},
 		"Taoshan Qu": {
-			"name": "Taoshan Qu",
 			"local_name": "桃山区"
 		},
 		"Xinxing Qu": {
-			"name": "Xinxing Qu",
 			"local_name": "新兴区"
 		}
 	}

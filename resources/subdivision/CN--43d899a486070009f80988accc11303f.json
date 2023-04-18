@@ -8,21 +8,16 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Gangca Xian": {
-			"name": "Gangca Xian",
 			"local_name": "刚察县"
 		},
 		"Haiyan Xian": {
-			"name": "Haiyan Xian",
 			"local_name": "海晏县"
 		},
 		"Menyuan Xian": {
-			"code": "Menyuan Xian",
 			"local_code": "门源回族自治县",
-			"name": "Menyuan Xian",
 			"local_name": "门源县"
 		},
 		"Qilian Xian": {
-			"name": "Qilian Xian",
 			"local_name": "祁连县"
 		}
 	}

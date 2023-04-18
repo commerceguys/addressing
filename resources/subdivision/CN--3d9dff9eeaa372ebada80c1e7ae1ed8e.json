@@ -8,59 +8,45 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Baode Xian": {
-			"name": "Baode Xian",
 			"local_name": "保德县"
 		},
 		"Dai Xian": {
-			"name": "Dai Xian",
 			"local_name": "代县"
 		},
 		"Dingxiang Xian": {
-			"name": "Dingxiang Xian",
 			"local_name": "定襄县"
 		},
 		"Fanshi Xian": {
-			"name": "Fanshi Xian",
 			"local_name": "繁峙县"
 		},
 		"Hequ Xian": {
-			"name": "Hequ Xian",
 			"local_name": "河曲县"
 		},
 		"Jingle Xian": {
-			"name": "Jingle Xian",
 			"local_name": "静乐县"
 		},
 		"Kelan Xian": {
-			"name": "Kelan Xian",
 			"local_name": "岢岚县"
 		},
 		"Ningwu Xian": {
-			"name": "Ningwu Xian",
 			"local_name": "宁武县"
 		},
 		"Pianguan Xian": {
-			"name": "Pianguan Xian",
 			"local_name": "偏关县"
 		},
 		"Shenchi Xian": {
-			"name": "Shenchi Xian",
 			"local_name": "神池县"
 		},
 		"Wutai Xian": {
-			"name": "Wutai Xian",
 			"local_name": "五台县"
 		},
 		"Wuzhai Xian": {
-			"name": "Wuzhai Xian",
 			"local_name": "五寨县"
 		},
 		"Xinfu Qu": {
-			"name": "Xinfu Qu",
 			"local_name": "忻府区"
 		},
 		"Yuanping Shi": {
-			"name": "Yuanping Shi",
 			"local_name": "原平市"
 		}
 	}

@@ -8,23 +8,18 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Anji Xian": {
-			"name": "Anji Xian",
 			"local_name": "安吉县"
 		},
 		"Deqing Xian": {
-			"name": "Deqing Xian",
 			"local_name": "德清县"
 		},
 		"Nanxun Qu": {
-			"name": "Nanxun Qu",
 			"local_name": "南浔区"
 		},
 		"Wuxing Qu": {
-			"name": "Wuxing Qu",
 			"local_name": "吴兴区"
 		},
 		"Changxing Xian": {
-			"name": "Changxing Xian",
 			"local_name": "长兴县"
 		}
 	}

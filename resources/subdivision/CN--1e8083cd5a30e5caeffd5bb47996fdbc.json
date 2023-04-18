@@ -8,31 +8,24 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Guangde Xian": {
-			"name": "Guangde Xian",
 			"local_name": "广德县"
 		},
 		"Jixi Xian": {
-			"name": "Jixi Xian",
 			"local_name": "绩溪县"
 		},
 		"Jing Xian": {
-			"name": "Jing Xian",
 			"local_name": "泾县"
 		},
 		"Jingde Xian": {
-			"name": "Jingde Xian",
 			"local_name": "旌德县"
 		},
 		"Langxi Xian": {
-			"name": "Langxi Xian",
 			"local_name": "郎溪县"
 		},
 		"Ningguo Shi": {
-			"name": "Ningguo Shi",
 			"local_name": "宁国市"
 		},
 		"Xuanzhou Qu": {
-			"name": "Xuanzhou Qu",
 			"local_name": "宣州区"
 		}
 	}

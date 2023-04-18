@@ -8,53 +8,40 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Bachu Xian": {
-			"name": "Bachu Xian",
 			"local_name": "巴楚县"
 		},
 		"Jiashi Xian": {
-			"name": "Jiashi Xian",
 			"local_name": "伽师县"
 		},
 		"Kashi Shi": {
-			"name": "Kashi Shi",
 			"local_name": "喀什市"
 		},
 		"Markit Xian": {
-			"name": "Markit Xian",
 			"local_name": "麦盖提县"
 		},
 		"Shache Xian": {
-			"name": "Shache Xian",
 			"local_name": "莎车县"
 		},
 		"Shufu Xian": {
-			"name": "Shufu Xian",
 			"local_name": "疏附县"
 		},
 		"Shule Xian": {
-			"name": "Shule Xian",
 			"local_name": "疏勒县"
 		},
 		"Taxkorgan Xian": {
-			"code": "Taxkorgan Xian",
 			"local_code": "塔什库尔干塔吉克自治县",
-			"name": "Taxkorgan Xian",
 			"local_name": "塔什库尔干县"
 		},
 		"Yecheng Xian": {
-			"name": "Yecheng Xian",
 			"local_name": "叶城县"
 		},
 		"Yengisar Xian": {
-			"name": "Yengisar Xian",
 			"local_name": "英吉沙县"
 		},
 		"Yopurga Xian": {
-			"name": "Yopurga Xian",
 			"local_name": "岳普湖县"
 		},
 		"Zepu Xian": {
-			"name": "Zepu Xian",
 			"local_name": "泽普县"
 		}
 	}

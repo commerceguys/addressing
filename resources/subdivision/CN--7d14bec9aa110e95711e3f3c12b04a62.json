@@ -8,39 +8,30 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Huangyan Qu": {
-			"name": "Huangyan Qu",
 			"local_name": "黄岩区"
 		},
 		"Jiaojiang Qu": {
-			"name": "Jiaojiang Qu",
 			"local_name": "椒江区"
 		},
 		"Linhai Shi": {
-			"name": "Linhai Shi",
 			"local_name": "临海市"
 		},
 		"Luqiao Qu": {
-			"name": "Luqiao Qu",
 			"local_name": "路桥区"
 		},
 		"Sanmen Xian": {
-			"name": "Sanmen Xian",
 			"local_name": "三门县"
 		},
 		"Tiantai Xian": {
-			"name": "Tiantai Xian",
 			"local_name": "天台县"
 		},
 		"Wenling Shi": {
-			"name": "Wenling Shi",
 			"local_name": "温岭市"
 		},
 		"Xianju Xian": {
-			"name": "Xianju Xian",
 			"local_name": "仙居县"
 		},
 		"Yuhuan Xian": {
-			"name": "Yuhuan Xian",
 			"local_name": "玉环县"
 		}
 	}

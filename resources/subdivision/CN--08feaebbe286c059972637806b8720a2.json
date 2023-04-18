@@ -8,19 +8,15 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Akqi Xian": {
-			"name": "Akqi Xian",
 			"local_name": "阿合奇县"
 		},
 		"Akto Xian": {
-			"name": "Akto Xian",
 			"local_name": "阿克陶县"
 		},
 		"Artux Shi": {
-			"name": "Artux Shi",
 			"local_name": "阿图什市"
 		},
 		"Wuqia Xian": {
-			"name": "Wuqia Xian",
 			"local_name": "乌恰县"
 		}
 	}

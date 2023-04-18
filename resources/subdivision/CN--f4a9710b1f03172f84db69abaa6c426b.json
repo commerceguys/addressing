@@ -8,43 +8,33 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Dongfeng Qu": {
-			"name": "Dongfeng Qu",
 			"local_name": "东风区"
 		},
 		"Fuyuan Xian": {
-			"name": "Fuyuan Xian",
 			"local_name": "抚远县"
 		},
 		"Fujin Shi": {
-			"name": "Fujin Shi",
 			"local_name": "富锦市"
 		},
 		"Huachuan Xian": {
-			"name": "Huachuan Xian",
 			"local_name": "桦川县"
 		},
 		"Huanan Xian": {
-			"name": "Huanan Xian",
 			"local_name": "桦南县"
 		},
 		"Jiao Qu": {
-			"name": "Jiao Qu",
 			"local_name": "郊区"
 		},
 		"Qianjin Qu": {
-			"name": "Qianjin Qu",
 			"local_name": "前进区"
 		},
 		"Tangyuan Xian": {
-			"name": "Tangyuan Xian",
 			"local_name": "汤原县"
 		},
 		"Tongjiang Shi": {
-			"name": "Tongjiang Shi",
 			"local_name": "同江市"
 		},
 		"Xiangyang Qu": {
-			"name": "Xiangyang Qu",
 			"local_name": "向阳区"
 		}
 	}

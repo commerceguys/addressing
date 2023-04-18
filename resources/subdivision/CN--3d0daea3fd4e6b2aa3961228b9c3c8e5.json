@@ -8,49 +8,37 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Dao Xian": {
-			"name": "Dao Xian",
 			"local_name": "道县"
 		},
 		"Dong'an Xian": {
-			"name": "Dong'an Xian",
 			"local_name": "东安县"
 		},
 		"Jianghua Xian": {
-			"code": "Jianghua Xian",
 			"local_code": "江华瑶族自治县",
-			"name": "Jianghua Xian",
 			"local_name": "江华县"
 		},
 		"Jiangyong Xian": {
-			"name": "Jiangyong Xian",
 			"local_name": "江永县"
 		},
 		"Lanshan Xian": {
-			"name": "Lanshan Xian",
 			"local_name": "蓝山县"
 		},
 		"Lengshuitan Qu": {
-			"name": "Lengshuitan Qu",
 			"local_name": "冷水滩区"
 		},
 		"Lingling Qu": {
-			"name": "Lingling Qu",
 			"local_name": "零陵区"
 		},
 		"Ningyuan Xian": {
-			"name": "Ningyuan Xian",
 			"local_name": "宁远县"
 		},
 		"Qiyang Xian": {
-			"name": "Qiyang Xian",
 			"local_name": "祁阳县"
 		},
 		"Shuangpai Xian": {
-			"name": "Shuangpai Xian",
 			"local_name": "双牌县"
 		},
 		"Xintian Xian": {
-			"name": "Xintian Xian",
 			"local_name": "新田县"
 		}
 	}

@@ -8,25 +8,19 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Fuyu Xian": {
-			"name": "Fuyu Xian",
 			"local_name": "扶余县"
 		},
 		"Ningjiang Qu": {
-			"name": "Ningjiang Qu",
 			"local_name": "宁江区"
 		},
 		"Qian Gorlos Xian": {
-			"code": "Qian Gorlos Xian",
 			"local_code": "前郭尔罗斯蒙古族自治县",
-			"name": "Qian Gorlos Xian",
 			"local_name": "前郭尔罗斯县"
 		},
 		"Qian'an Xian": {
-			"name": "Qian'an Xian",
 			"local_name": "乾安县"
 		},
 		"Changling Xian": {
-			"name": "Changling Xian",
 			"local_name": "长岭县"
 		}
 	}

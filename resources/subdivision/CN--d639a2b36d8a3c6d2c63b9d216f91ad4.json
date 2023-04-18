@@ -8,71 +8,54 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Anze Xian": {
-			"name": "Anze Xian",
 			"local_name": "安泽县"
 		},
 		"Daning Xian": {
-			"name": "Daning Xian",
 			"local_name": "大宁县"
 		},
 		"Fenxi Xian": {
-			"name": "Fenxi Xian",
 			"local_name": "汾西县"
 		},
 		"Fushan Xian": {
-			"name": "Fushan Xian",
 			"local_name": "浮山县"
 		},
 		"Gu Xian": {
-			"name": "Gu Xian",
 			"local_name": "古县"
 		},
 		"Hongtong Xian": {
-			"name": "Hongtong Xian",
 			"local_name": "洪洞县"
 		},
 		"Houma Shi": {
-			"name": "Houma Shi",
 			"local_name": "侯马市"
 		},
 		"Huozhou Shi": {
-			"name": "Huozhou Shi",
 			"local_name": "霍州市"
 		},
 		"Ji Xian": {
-			"name": "Ji Xian",
 			"local_name": "吉县"
 		},
 		"Pu Xian": {
-			"name": "Pu Xian",
 			"local_name": "蒲县"
 		},
 		"Quwo Xian": {
-			"name": "Quwo Xian",
 			"local_name": "曲沃县"
 		},
 		"Xi Xian": {
-			"name": "Xi Xian",
 			"local_name": "隰县"
 		},
 		"Xiangning Xian": {
-			"name": "Xiangning Xian",
 			"local_name": "乡宁县"
 		},
 		"Xiangfen Xian": {
-			"name": "Xiangfen Xian",
 			"local_name": "襄汾县"
 		},
 		"Yaodu Qu": {
-			"name": "Yaodu Qu",
 			"local_name": "尧都区"
 		},
 		"Yicheng Xian": {
-			"name": "Yicheng Xian",
 			"local_name": "翼城县"
 		},
 		"Yonghe Xian": {
-			"name": "Yonghe Xian",
 			"local_name": "永和县"
 		}
 	}

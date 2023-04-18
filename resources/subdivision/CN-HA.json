@@ -7,87 +7,70 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Anyang Shi": {
-			"name": "Anyang Shi",
 			"local_name": "安阳市",
 			"has_children": true
 		},
 		"Hebi Shi": {
-			"name": "Hebi Shi",
 			"local_name": "鹤壁市",
 			"has_children": true
 		},
 		"Jiaozuo Shi": {
-			"name": "Jiaozuo Shi",
 			"local_name": "焦作市",
 			"has_children": true
 		},
 		"Kaifeng Shi": {
-			"name": "Kaifeng Shi",
 			"local_name": "开封市",
 			"has_children": true
 		},
 		"Luoyang Shi": {
-			"name": "Luoyang Shi",
 			"local_name": "洛阳市",
 			"has_children": true
 		},
 		"Luohe Shi": {
-			"name": "Luohe Shi",
 			"local_name": "漯河市",
 			"has_children": true
 		},
 		"Nanyang Shi": {
-			"name": "Nanyang Shi",
 			"local_name": "南阳市",
 			"has_children": true
 		},
 		"Pingdingshan Shi": {
-			"name": "Pingdingshan Shi",
 			"local_name": "平顶山市",
 			"has_children": true
 		},
 		"Puyang Shi": {
-			"name": "Puyang Shi",
 			"local_name": "濮阳市",
 			"has_children": true
 		},
 		"Sanmenxia Shi": {
-			"name": "Sanmenxia Shi",
 			"local_name": "三门峡市",
 			"has_children": true
 		},
 		"Shangqiu Shi": {
-			"name": "Shangqiu Shi",
 			"local_name": "商丘市",
 			"has_children": true
 		},
 		"Xinxiang Shi": {
-			"name": "Xinxiang Shi",
 			"local_name": "新乡市",
 			"has_children": true
 		},
 		"Xinyang Shi": {
-			"name": "Xinyang Shi",
 			"local_name": "信阳市",
 			"has_children": true
 		},
 		"Xuchang Shi": {
-			"name": "Xuchang Shi",
 			"local_name": "许昌市",
 			"has_children": true
 		},
 		"Zhengzhou Shi": {
-			"name": "Zhengzhou Shi",
 			"local_name": "郑州市",
 			"has_children": true
 		},
 		"Zhoukou Shi": {
-			"name": "Zhoukou Shi",
 			"local_name": "周口市",
 			"has_children": true
 		},
 		"Zhumadian Shi": {
-			"name": "Zhumadian Shi",
 			"local_name": "驻马店市",
 			"has_children": true
 		}

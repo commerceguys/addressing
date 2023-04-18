@@ -8,47 +8,36 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Baxoi Xian": {
-			"name": "Baxoi Xian",
 			"local_name": "八宿县"
 		},
 		"Banbar Xian": {
-			"name": "Banbar Xian",
 			"local_name": "边坝县"
 		},
 		"Chagyab Xian": {
-			"name": "Chagyab Xian",
 			"local_name": "察雅县"
 		},
 		"Qamdo Xian": {
-			"name": "Qamdo Xian",
 			"local_name": "昌都县"
 		},
 		"Dêngqên Xian": {
-			"name": "Dêngqên Xian",
 			"local_name": "丁青县"
 		},
 		"Konjo Xian": {
-			"name": "Konjo Xian",
 			"local_name": "贡觉县"
 		},
 		"Jomda Xian": {
-			"name": "Jomda Xian",
 			"local_name": "江达县"
 		},
 		"Riwoq Xian": {
-			"name": "Riwoq Xian",
 			"local_name": "类乌齐县"
 		},
 		"Lhorong Xian": {
-			"name": "Lhorong Xian",
 			"local_name": "洛隆县"
 		},
 		"Mangkam Xian": {
-			"name": "Mangkam Xian",
 			"local_name": "芒康县"
 		},
 		"Zogang Xian": {
-			"name": "Zogang Xian",
 			"local_name": "左贡县"
 		}
 	}

@@ -8,79 +8,60 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Baixiang Xian": {
-			"name": "Baixiang Xian",
 			"local_name": "柏乡县"
 		},
 		"Guangzong Xian": {
-			"name": "Guangzong Xian",
 			"local_name": "广宗县"
 		},
 		"Julu Xian": {
-			"name": "Julu Xian",
 			"local_name": "巨鹿县"
 		},
 		"Lincheng Xian": {
-			"name": "Lincheng Xian",
 			"local_name": "临城县"
 		},
 		"Linxi Xian": {
-			"name": "Linxi Xian",
 			"local_name": "临西县"
 		},
 		"Longyao Xian": {
-			"name": "Longyao Xian",
 			"local_name": "隆尧县"
 		},
 		"Nangong Shi": {
-			"name": "Nangong Shi",
 			"local_name": "南宫市"
 		},
 		"Nanhe Xian": {
-			"name": "Nanhe Xian",
 			"local_name": "南和县"
 		},
 		"Neiqiu Xian": {
-			"name": "Neiqiu Xian",
 			"local_name": "内丘县"
 		},
 		"Ningjin Xian": {
-			"name": "Ningjin Xian",
 			"local_name": "宁晋县"
 		},
 		"Pingxiang Xian": {
-			"name": "Pingxiang Xian",
 			"local_name": "平乡县"
 		},
 		"Qiaodong Qu": {
-			"name": "Qiaodong Qu",
 			"local_name": "桥东区"
 		},
 		"Qiaoxi Qu": {
-			"name": "Qiaoxi Qu",
 			"local_name": "桥西区"
 		},
 		"Qinghe Xian": {
-			"name": "Qinghe Xian",
 			"local_name": "清河县"
 		},
 		"Ren Xian": {
-			"name": "Ren Xian",
 			"local_name": "任县"
 		},
 		"Shahe Shi": {
-			"name": "Shahe Shi",
 			"local_name": "沙河市"
 		},
 		"Wei Xian": {
-			"name": "Wei Xian",
 			"local_name": "威县"
 		},
 		"Xinhe Xian": {
-			"name": "Xinhe Xian",
 			"local_name": "新河县"
 		},
 		"Xingtai Xian": {
-			"name": "Xingtai Xian",
 			"local_name": "邢台县"
 		}
 	}

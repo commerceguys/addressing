@@ -8,39 +8,30 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Changshu Shi": {
-			"name": "Changshu Shi",
 			"local_name": "常熟市"
 		},
 		"Gusu Qu": {
-			"name": "Gusu Qu",
 			"local_name": "姑苏区"
 		},
 		"Huqiu Qu": {
-			"name": "Huqiu Qu",
 			"local_name": "虎丘区"
 		},
 		"Kunshan Shi": {
-			"name": "Kunshan Shi",
 			"local_name": "昆山市"
 		},
 		"Taicang Shi": {
-			"name": "Taicang Shi",
 			"local_name": "太仓市"
 		},
 		"Wujiang Qu": {
-			"name": "Wujiang Qu",
 			"local_name": "吴江区"
 		},
 		"Wuzhong Qu": {
-			"name": "Wuzhong Qu",
 			"local_name": "吴中区"
 		},
 		"Xiangcheng Qu": {
-			"name": "Xiangcheng Qu",
 			"local_name": "相城区"
 		},
 		"Zhangjiagang Shi": {
-			"name": "Zhangjiagang Shi",
 			"local_name": "张家港市"
 		}
 	}

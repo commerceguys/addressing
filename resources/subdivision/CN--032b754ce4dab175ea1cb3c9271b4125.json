@@ -8,67 +8,51 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Ang'angxi Qu": {
-			"name": "Ang'angxi Qu",
 			"local_name": "昂昂溪区"
 		},
 		"Baiquan Xian": {
-			"name": "Baiquan Xian",
 			"local_name": "拜泉县"
 		},
 		"Hulan Ergi Qu": {
-			"name": "Hulan Ergi Qu",
 			"local_name": "富拉尔基区"
 		},
 		"Fuyu Xian": {
-			"name": "Fuyu Xian",
 			"local_name": "富裕县"
 		},
 		"Gannan Xian": {
-			"name": "Gannan Xian",
 			"local_name": "甘南县"
 		},
 		"Jianhua Qu": {
-			"name": "Jianhua Qu",
 			"local_name": "建华区"
 		},
 		"Kedong Xian": {
-			"name": "Kedong Xian",
 			"local_name": "克东县"
 		},
 		"Keshan Xian": {
-			"name": "Keshan Xian",
 			"local_name": "克山县"
 		},
 		"Longjiang Xian": {
-			"name": "Longjiang Xian",
 			"local_name": "龙江县"
 		},
 		"Longsha Qu": {
-			"name": "Longsha Qu",
 			"local_name": "龙沙区"
 		},
 		"Meilisi Daurzu Qu": {
-			"name": "Meilisi Daurzu Qu",
 			"local_name": "梅里斯达斡尔族区"
 		},
 		"Nehe Shi": {
-			"name": "Nehe Shi",
 			"local_name": "讷河市"
 		},
 		"Nianzishan Qu": {
-			"name": "Nianzishan Qu",
 			"local_name": "碾子山区"
 		},
 		"Tailai Xian": {
-			"name": "Tailai Xian",
 			"local_name": "泰来县"
 		},
 		"Tiefeng Qu": {
-			"name": "Tiefeng Qu",
 			"local_name": "铁锋区"
 		},
 		"Yi'an Xian": {
-			"name": "Yi'an Xian",
 			"local_name": "依安县"
 		}
 	}

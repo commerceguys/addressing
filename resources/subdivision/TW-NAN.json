@@ -7,55 +7,42 @@
 	"locale": "zh-Hant",
 	"subdivisions": {
 		"Zhongliao Township": {
-			"name": "Zhongliao Township",
 			"local_name": "中寮鄉"
 		},
 		"Ren'ai Township": {
-			"name": "Ren'ai Township",
 			"local_name": "仁愛鄉"
 		},
 		"Shuili Township": {
-			"name": "Shuili Township",
 			"local_name": "水里鄉"
 		},
 		"Mingjian Township": {
-			"name": "Mingjian Township",
 			"local_name": "名間鄉"
 		},
 		"Zhushan Township": {
-			"name": "Zhushan Township",
 			"local_name": "竹山鎮"
 		},
 		"Xinyi Township": {
-			"name": "Xinyi Township",
 			"local_name": "信義鄉"
 		},
 		"Nantou City": {
-			"name": "Nantou City",
 			"local_name": "南投市"
 		},
 		"Puli Township": {
-			"name": "Puli Township",
 			"local_name": "埔里鎮"
 		},
 		"Caotun Township": {
-			"name": "Caotun Township",
 			"local_name": "草屯鎮"
 		},
 		"Guoxing Township": {
-			"name": "Guoxing Township",
 			"local_name": "國姓鄉"
 		},
 		"Yuchi Township": {
-			"name": "Yuchi Township",
 			"local_name": "魚池鄉"
 		},
 		"Lugu Township": {
-			"name": "Lugu Township",
 			"local_name": "鹿谷鄉"
 		},
 		"Jiji Township": {
-			"name": "Jiji Township",
 			"local_name": "集集鎮"
 		}
 	}

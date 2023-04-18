@@ -8,47 +8,36 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Beilun Qu": {
-			"name": "Beilun Qu",
 			"local_name": "北仑区"
 		},
 		"Cixi Shi": {
-			"name": "Cixi Shi",
 			"local_name": "慈溪市"
 		},
 		"Fenghua Shi": {
-			"name": "Fenghua Shi",
 			"local_name": "奉化市"
 		},
 		"Haishu Qu": {
-			"name": "Haishu Qu",
 			"local_name": "海曙区"
 		},
 		"Jiangbei Qu": {
-			"name": "Jiangbei Qu",
 			"local_name": "江北区"
 		},
 		"Jiangdong Qu": {
-			"name": "Jiangdong Qu",
 			"local_name": "江东区"
 		},
 		"Ninghai Xian": {
-			"name": "Ninghai Xian",
 			"local_name": "宁海县"
 		},
 		"Xiangshan Xian": {
-			"name": "Xiangshan Xian",
 			"local_name": "象山县"
 		},
 		"Yinzhou Qu": {
-			"name": "Yinzhou Qu",
 			"local_name": "鄞州区"
 		},
 		"Yuyao Shi": {
-			"name": "Yuyao Shi",
 			"local_name": "余姚市"
 		},
 		"Zhenhai Qu": {
-			"name": "Zhenhai Qu",
 			"local_name": "镇海区"
 		}
 	}

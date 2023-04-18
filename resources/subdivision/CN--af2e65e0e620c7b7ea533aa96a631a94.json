@@ -8,19 +8,15 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Jiangcheng Qu": {
-			"name": "Jiangcheng Qu",
 			"local_name": "江城区"
 		},
 		"Yangchun Shi": {
-			"name": "Yangchun Shi",
 			"local_name": "阳春市"
 		},
 		"Yangdong Xian": {
-			"name": "Yangdong Xian",
 			"local_name": "阳东县"
 		},
 		"Yangxi Xian": {
-			"name": "Yangxi Xian",
 			"local_name": "阳西县"
 		}
 	}

@@ -7,74 +7,59 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Changde Shi": {
-			"name": "Changde Shi",
 			"local_name": "常德市",
 			"has_children": true
 		},
 		"Chenzhou Shi": {
-			"name": "Chenzhou Shi",
 			"local_name": "郴州市",
 			"has_children": true
 		},
 		"Hengyang Shi": {
-			"name": "Hengyang Shi",
 			"local_name": "衡阳市",
 			"has_children": true
 		},
 		"Huaihua Shi": {
-			"name": "Huaihua Shi",
 			"local_name": "怀化市",
 			"has_children": true
 		},
 		"Loudi Shi": {
-			"name": "Loudi Shi",
 			"local_name": "娄底市",
 			"has_children": true
 		},
 		"Shaoyang Shi": {
-			"name": "Shaoyang Shi",
 			"local_name": "邵阳市",
 			"has_children": true
 		},
 		"Xiangtan Shi": {
-			"name": "Xiangtan Shi",
 			"local_name": "湘潭市",
 			"has_children": true
 		},
 		"Xiangxi Zhou": {
-			"code": "Xiangxi Zhou",
 			"local_code": "湘西土家族苗族自治州",
-			"name": "Xiangxi Zhou",
 			"local_name": "湘西州",
 			"has_children": true
 		},
 		"Yiyang Shi": {
-			"name": "Yiyang Shi",
 			"local_name": "益阳市",
 			"has_children": true
 		},
 		"Yongzhou Shi": {
-			"name": "Yongzhou Shi",
 			"local_name": "永州市",
 			"has_children": true
 		},
 		"Yueyang Shi": {
-			"name": "Yueyang Shi",
 			"local_name": "岳阳市",
 			"has_children": true
 		},
 		"Zhangjiajie Shi": {
-			"name": "Zhangjiajie Shi",
 			"local_name": "张家界市",
 			"has_children": true
 		},
 		"Changsha Shi": {
-			"name": "Changsha Shi",
 			"local_name": "长沙市",
 			"has_children": true
 		},
 		"Zhuzhou Shi": {
-			"name": "Zhuzhou Shi",
 			"local_name": "株洲市",
 			"has_children": true
 		}

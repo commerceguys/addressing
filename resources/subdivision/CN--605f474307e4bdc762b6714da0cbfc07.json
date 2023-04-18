@@ -8,15 +8,12 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Echeng Qu": {
-			"name": "Echeng Qu",
 			"local_name": "鄂城区"
 		},
 		"Huarong Qu": {
-			"name": "Huarong Qu",
 			"local_name": "华容区"
 		},
 		"Liangzihu Qu": {
-			"name": "Liangzihu Qu",
 			"local_name": "梁子湖区"
 		}
 	}

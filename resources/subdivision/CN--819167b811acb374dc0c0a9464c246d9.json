@@ -8,59 +8,45 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Fengnan Qu": {
-			"name": "Fengnan Qu",
 			"local_name": "丰南区"
 		},
 		"Fengrun Qu": {
-			"name": "Fengrun Qu",
 			"local_name": "丰润区"
 		},
 		"Guye Qu": {
-			"name": "Guye Qu",
 			"local_name": "古冶区"
 		},
 		"Kaiping Qu": {
-			"name": "Kaiping Qu",
 			"local_name": "开平区"
 		},
 		"Leting Xian": {
-			"name": "Leting Xian",
 			"local_name": "乐亭县"
 		},
 		"Lubei Qu": {
-			"name": "Lubei Qu",
 			"local_name": "路北区"
 		},
 		"Lunan Qu": {
-			"name": "Lunan Qu",
 			"local_name": "路南区"
 		},
 		"Luannan Xian": {
-			"name": "Luannan Xian",
 			"local_name": "滦南县"
 		},
 		"Luan Xian": {
-			"name": "Luan Xian",
 			"local_name": "滦县"
 		},
 		"Qian'an Shi": {
-			"name": "Qian'an Shi",
 			"local_name": "迁安市"
 		},
 		"Qianxi Xian": {
-			"name": "Qianxi Xian",
 			"local_name": "迁西县"
 		},
 		"Tanghai Xian": {
-			"name": "Tanghai Xian",
 			"local_name": "唐海县"
 		},
 		"Yutian Xian": {
-			"name": "Yutian Xian",
 			"local_name": "玉田县"
 		},
 		"Zunhua Shi": {
-			"name": "Zunhua Shi",
 			"local_name": "遵化市"
 		}
 	}

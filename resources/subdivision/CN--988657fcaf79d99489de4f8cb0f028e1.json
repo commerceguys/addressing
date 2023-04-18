@@ -8,19 +8,15 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Wangyi Qu": {
-			"name": "Wangyi Qu",
 			"local_name": "王益区"
 		},
 		"Yaozhou Qu": {
-			"name": "Yaozhou Qu",
 			"local_name": "耀州区"
 		},
 		"Yijun Xian": {
-			"name": "Yijun Xian",
 			"local_name": "宜君县"
 		},
 		"Yintai Qu": {
-			"name": "Yintai Qu",
 			"local_name": "印台区"
 		}
 	}

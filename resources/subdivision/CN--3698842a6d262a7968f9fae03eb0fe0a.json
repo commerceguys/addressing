@@ -8,23 +8,18 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Gonghe Xian": {
-			"name": "Gonghe Xian",
 			"local_name": "共和县"
 		},
 		"Guide Xian": {
-			"name": "Guide Xian",
 			"local_name": "贵德县"
 		},
 		"Guinan Xian": {
-			"name": "Guinan Xian",
 			"local_name": "贵南县"
 		},
 		"Tongde Xian": {
-			"name": "Tongde Xian",
 			"local_name": "同德县"
 		},
 		"Xinghai Xian": {
-			"name": "Xinghai Xian",
 			"local_name": "兴海县"
 		}
 	}

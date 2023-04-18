@@ -8,23 +8,18 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Dangshan Xian": {
-			"name": "Dangshan Xian",
 			"local_name": "砀山县"
 		},
 		"Lingbi Xian": {
-			"name": "Lingbi Xian",
 			"local_name": "灵璧县"
 		},
 		"Si Xian": {
-			"name": "Si Xian",
 			"local_name": "泗县"
 		},
 		"Xiao Xian": {
-			"name": "Xiao Xian",
 			"local_name": "萧县"
 		},
 		"Yongqiao Qu": {
-			"name": "Yongqiao Qu",
 			"local_name": "埇桥区"
 		}
 	}

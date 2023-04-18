@@ -7,85 +7,67 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Ezhou Shi": {
-			"name": "Ezhou Shi",
 			"local_name": "鄂州市",
 			"has_children": true
 		},
 		"Enshi Zhou": {
-			"code": "Enshi Zhou",
 			"local_code": "恩施土家族苗族自治州",
-			"name": "Enshi Zhou",
 			"local_name": "恩施州",
 			"has_children": true
 		},
 		"Huanggang Shi": {
-			"name": "Huanggang Shi",
 			"local_name": "黄冈市",
 			"has_children": true
 		},
 		"Huangshi Shi": {
-			"name": "Huangshi Shi",
 			"local_name": "黄石市",
 			"has_children": true
 		},
 		"Jingmen Shi": {
-			"name": "Jingmen Shi",
 			"local_name": "荆门市",
 			"has_children": true
 		},
 		"Jingzhou Shi": {
-			"name": "Jingzhou Shi",
 			"local_name": "荆州市",
 			"has_children": true
 		},
 		"Qianjiang Shi": {
-			"name": "Qianjiang Shi",
 			"local_name": "潜江市"
 		},
 		"Shennongjia Linqu": {
-			"name": "Shennongjia Linqu",
 			"local_name": "神农架林区"
 		},
 		"Shiyan Shi": {
-			"name": "Shiyan Shi",
 			"local_name": "十堰市",
 			"has_children": true
 		},
 		"Suizhou Shi": {
-			"name": "Suizhou Shi",
 			"local_name": "随州市",
 			"has_children": true
 		},
 		"Tianmen Shi": {
-			"name": "Tianmen Shi",
 			"local_name": "天门市"
 		},
 		"Wuhan Shi": {
-			"name": "Wuhan Shi",
 			"local_name": "武汉市",
 			"has_children": true
 		},
 		"Xiantao Shi": {
-			"name": "Xiantao Shi",
 			"local_name": "仙桃市"
 		},
 		"Xianning Shi": {
-			"name": "Xianning Shi",
 			"local_name": "咸宁市",
 			"has_children": true
 		},
 		"Xiangyang Shi": {
-			"name": "Xiangyang Shi",
 			"local_name": "襄阳市",
 			"has_children": true
 		},
 		"Xiaogan Shi": {
-			"name": "Xiaogan Shi",
 			"local_name": "孝感市",
 			"has_children": true
 		},
 		"Yichang Shi": {
-			"name": "Yichang Shi",
 			"local_name": "宜昌市",
 			"has_children": true
 		}

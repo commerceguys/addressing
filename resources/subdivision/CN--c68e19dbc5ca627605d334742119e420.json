@@ -8,39 +8,30 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Anyi Xian": {
-			"name": "Anyi Xian",
 			"local_name": "安义县"
 		},
 		"Donghu Qu": {
-			"name": "Donghu Qu",
 			"local_name": "东湖区"
 		},
 		"Jinxian Xian": {
-			"name": "Jinxian Xian",
 			"local_name": "进贤县"
 		},
 		"Nanchang Xian": {
-			"name": "Nanchang Xian",
 			"local_name": "南昌县"
 		},
 		"Qingshanhu Qu": {
-			"name": "Qingshanhu Qu",
 			"local_name": "青山湖区"
 		},
 		"Qingyunpu Qu": {
-			"name": "Qingyunpu Qu",
 			"local_name": "青云谱区"
 		},
 		"Wanli Qu": {
-			"name": "Wanli Qu",
 			"local_name": "湾里区"
 		},
 		"Xihu Qu": {
-			"name": "Xihu Qu",
 			"local_name": "西湖区"
 		},
 		"Xinjian Xian": {
-			"name": "Xinjian Xian",
 			"local_name": "新建县"
 		}
 	}

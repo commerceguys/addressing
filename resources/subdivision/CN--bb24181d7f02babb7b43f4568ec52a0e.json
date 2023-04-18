@@ -8,11 +8,9 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"East District": {
-			"name": "East District",
 			"local_name": "東區"
 		},
 		"West District": {
-			"name": "West District",
 			"local_name": "西區"
 		}
 	}

@@ -8,61 +8,42 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Jiangcheng Xian": {
-			"code": "Jiangcheng Xian",
 			"local_code": "江城哈尼族彝族自治县",
-			"name": "Jiangcheng Xian",
 			"local_name": "江城县"
 		},
 		"Jingdong Xian": {
-			"code": "Jingdong Xian",
 			"local_code": "景东彝族自治县",
-			"name": "Jingdong Xian",
 			"local_name": "景东县"
 		},
 		"Jinggu Xian": {
-			"code": "Jinggu Xian",
 			"local_code": "景谷傣族彝族自治县",
-			"name": "Jinggu Xian",
 			"local_name": "景谷县"
 		},
 		"Lancang Xian": {
-			"code": "Lancang Xian",
 			"local_code": "澜沧拉祜族自治县",
-			"name": "Lancang Xian",
 			"local_name": "澜沧县"
 		},
 		"Menglian Xian": {
-			"code": "Menglian Xian",
 			"local_code": "孟连傣族拉祜族佤族自治县",
-			"name": "Menglian Xian",
 			"local_name": "孟连县"
 		},
 		"Mojiang Xian": {
-			"code": "Mojiang Xian",
 			"local_code": "墨江哈尼族自治县",
-			"name": "Mojiang Xian",
 			"local_name": "墨江县"
 		},
 		"Ning'er Xian": {
-			"code": "Ning'er Xian",
 			"local_code": "宁洱哈尼族彝族自治县",
-			"name": "Ning'er Xian",
 			"local_name": "宁洱县"
 		},
 		"Simao Qu": {
-			"name": "Simao Qu",
 			"local_name": "思茅区"
 		},
 		"Ximeng Xian": {
-			"code": "Ximeng Xian",
 			"local_code": "西盟佤族自治县",
-			"name": "Ximeng Xian",
 			"local_name": "西盟县"
 		},
 		"Zhenyuan Xian": {
-			"code": "Zhenyuan Xian",
 			"local_code": "镇沅彝族哈尼族拉祜族自治县",
-			"name": "Zhenyuan Xian",
 			"local_name": "镇沅县"
 		}
 	}

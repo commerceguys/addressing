@@ -8,11 +8,9 @@
 	"locale": "ko",
 	"subdivisions": {
 		"Dongan-gu": {
-			"name": "Dongan-gu",
 			"local_name": "동안구"
 		},
 		"Manan-gu": {
-			"name": "Manan-gu",
 			"local_name": "만안구"
 		}
 	}

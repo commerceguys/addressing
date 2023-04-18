@@ -8,27 +8,21 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Daye Shi": {
-			"name": "Daye Shi",
 			"local_name": "大冶市"
 		},
 		"Huangshigang Qu": {
-			"name": "Huangshigang Qu",
 			"local_name": "黄石港区"
 		},
 		"Tieshan Qu": {
-			"name": "Tieshan Qu",
 			"local_name": "铁山区"
 		},
 		"Xisaishan Qu": {
-			"name": "Xisaishan Qu",
 			"local_name": "西塞山区"
 		},
 		"Xialu Qu": {
-			"name": "Xialu Qu",
 			"local_name": "下陆区"
 		},
 		"Yangxin Xian": {
-			"name": "Yangxin Xian",
 			"local_name": "阳新县"
 		}
 	}

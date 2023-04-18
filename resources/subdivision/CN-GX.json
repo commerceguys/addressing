@@ -7,72 +7,58 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Baise Shi": {
-			"name": "Baise Shi",
 			"local_name": "百色市",
 			"has_children": true
 		},
 		"Beihai Shi": {
-			"name": "Beihai Shi",
 			"local_name": "北海市",
 			"has_children": true
 		},
 		"Chongzuo Shi": {
-			"name": "Chongzuo Shi",
 			"local_name": "崇左市",
 			"has_children": true
 		},
 		"Fangchenggang Shi": {
-			"name": "Fangchenggang Shi",
 			"local_name": "防城港市",
 			"has_children": true
 		},
 		"Guigang Shi": {
-			"name": "Guigang Shi",
 			"local_name": "贵港市",
 			"has_children": true
 		},
 		"Guilin Shi": {
-			"name": "Guilin Shi",
 			"local_name": "桂林市",
 			"has_children": true
 		},
 		"Hechi Shi": {
-			"name": "Hechi Shi",
 			"local_name": "河池市",
 			"has_children": true
 		},
 		"Hezhou Shi": {
-			"name": "Hezhou Shi",
 			"local_name": "贺州市",
 			"has_children": true
 		},
 		"Laibin Shi": {
-			"name": "Laibin Shi",
 			"local_name": "来宾市",
 			"has_children": true
 		},
 		"Liuzhou Shi": {
-			"name": "Liuzhou Shi",
 			"local_name": "柳州市",
 			"has_children": true
 		},
 		"Nanning Shi": {
-			"name": "Nanning Shi",
 			"local_name": "南宁市",
 			"has_children": true
 		},
 		"Qinzhou Shi": {
-			"name": "Qinzhou Shi",
 			"local_name": "钦州市",
 			"has_children": true
 		},
 		"Wuzhou Shi": {
-			"name": "Wuzhou Shi",
 			"local_name": "梧州市",
 			"has_children": true
 		},
 		"Yulin Shi": {
-			"name": "Yulin Shi",
 			"local_name": "玉林市",
 			"has_children": true
 		}

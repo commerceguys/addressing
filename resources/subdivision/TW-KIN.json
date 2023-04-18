@@ -7,27 +7,21 @@
 	"locale": "zh-Hant",
 	"subdivisions": {
 		"Jinsha Township": {
-			"name": "Jinsha Township",
 			"local_name": "金沙鎮"
 		},
 		"Jincheng Township": {
-			"name": "Jincheng Township",
 			"local_name": "金城鎮"
 		},
 		"Jinhu Township": {
-			"name": "Jinhu Township",
 			"local_name": "金湖鎮"
 		},
 		"Jinning Township": {
-			"name": "Jinning Township",
 			"local_name": "金寧鄉"
 		},
 		"Lieyu Township": {
-			"name": "Lieyu Township",
 			"local_name": "烈嶼鄉"
 		},
 		"Wuqiu Township": {
-			"name": "Wuqiu Township",
 			"local_name": "烏坵鄉"
 		}
 	}

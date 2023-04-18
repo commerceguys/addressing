@@ -7,48 +7,37 @@
 	"locale": "ko",
 	"subdivisions": {
 		"Goesan-gun": {
-			"name": "Goesan-gun",
 			"local_name": "괴산군"
 		},
 		"Danyang-gun": {
-			"name": "Danyang-gun",
 			"local_name": "단양군"
 		},
 		"Boeun-gun": {
-			"name": "Boeun-gun",
 			"local_name": "보은군"
 		},
 		"Yeongdong-gun": {
-			"name": "Yeongdong-gun",
 			"local_name": "영동군"
 		},
 		"Okcheon-gun": {
-			"name": "Okcheon-gun",
 			"local_name": "옥천군"
 		},
 		"Eumseong-gun": {
-			"name": "Eumseong-gun",
 			"local_name": "음성군"
 		},
 		"Jecheon-si": {
-			"name": "Jecheon-si",
 			"local_name": "제천시"
 		},
 		"Jeungpyeong-gun": {
-			"name": "Jeungpyeong-gun",
 			"local_name": "증평군"
 		},
 		"Jincheon-gun": {
-			"name": "Jincheon-gun",
 			"local_name": "진천군"
 		},
 		"Cheongju-si": {
-			"name": "Cheongju-si",
 			"local_name": "청주시",
 			"has_children": true
 		},
 		"Chungju-si": {
-			"name": "Chungju-si",
 			"local_name": "충주시"
 		}
 	}

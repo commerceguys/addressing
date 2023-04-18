@@ -8,51 +8,39 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Dexing Shi": {
-			"name": "Dexing Shi",
 			"local_name": "德兴市"
 		},
 		"Guangfeng Xian": {
-			"name": "Guangfeng Xian",
 			"local_name": "广丰县"
 		},
 		"Hengfeng Xian": {
-			"name": "Hengfeng Xian",
 			"local_name": "横峰县"
 		},
 		"Poyang Xian": {
-			"name": "Poyang Xian",
 			"local_name": "鄱阳县"
 		},
 		"Yanshan Xian": {
-			"name": "Yanshan Xian",
 			"local_name": "铅山县"
 		},
 		"Shangrao Xian": {
-			"name": "Shangrao Xian",
 			"local_name": "上饶县"
 		},
 		"Wannian Xian": {
-			"name": "Wannian Xian",
 			"local_name": "万年县"
 		},
 		"Wuyuan Xian": {
-			"name": "Wuyuan Xian",
 			"local_name": "婺源县"
 		},
 		"Xinzhou Qu": {
-			"name": "Xinzhou Qu",
 			"local_name": "信州区"
 		},
 		"Yiyang Xian": {
-			"name": "Yiyang Xian",
 			"local_name": "弋阳县"
 		},
 		"Yugan Xian": {
-			"name": "Yugan Xian",
 			"local_name": "余干县"
 		},
 		"Yushan Xian": {
-			"name": "Yushan Xian",
 			"local_name": "玉山县"
 		}
 	}

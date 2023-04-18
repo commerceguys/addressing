@@ -8,55 +8,42 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Wanshan Xian": {
-			"name": "Wanshan Xian",
 			"local_name": "方山县"
 		},
 		"Fenyang Shi": {
-			"name": "Fenyang Shi",
 			"local_name": "汾阳市"
 		},
 		"Jiaocheng Xian": {
-			"name": "Jiaocheng Xian",
 			"local_name": "交城县"
 		},
 		"Jiaokou Xian": {
-			"name": "Jiaokou Xian",
 			"local_name": "交口县"
 		},
 		"Lan Xian": {
-			"name": "Lan Xian",
 			"local_name": "岚县"
 		},
 		"Lishi Qu": {
-			"name": "Lishi Qu",
 			"local_name": "离石区"
 		},
 		"Lin Xian": {
-			"name": "Lin Xian",
 			"local_name": "临县"
 		},
 		"Liulin Xian": {
-			"name": "Liulin Xian",
 			"local_name": "柳林县"
 		},
 		"Shilou Xian": {
-			"name": "Shilou Xian",
 			"local_name": "石楼县"
 		},
 		"Wenshui Xian": {
-			"name": "Wenshui Xian",
 			"local_name": "文水县"
 		},
 		"Xiaoyi Shi": {
-			"name": "Xiaoyi Shi",
 			"local_name": "孝义市"
 		},
 		"Xing Xian": {
-			"name": "Xing Xian",
 			"local_name": "兴县"
 		},
 		"Zhongyang Xian": {
-			"name": "Zhongyang Xian",
 			"local_name": "中阳县"
 		}
 	}

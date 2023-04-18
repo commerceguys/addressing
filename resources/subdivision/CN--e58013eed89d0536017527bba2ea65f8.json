@@ -8,59 +8,45 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Bin Xian": {
-			"name": "Bin Xian",
 			"local_name": "彬县"
 		},
 		"Chunhua Xian": {
-			"name": "Chunhua Xian",
 			"local_name": "淳化县"
 		},
 		"Jingyang Xian": {
-			"name": "Jingyang Xian",
 			"local_name": "泾阳县"
 		},
 		"Liquan Xian": {
-			"name": "Liquan Xian",
 			"local_name": "礼泉县"
 		},
 		"Qian Xian": {
-			"name": "Qian Xian",
 			"local_name": "乾县"
 		},
 		"Qindu Qu": {
-			"name": "Qindu Qu",
 			"local_name": "秦都区"
 		},
 		"Sanyuan Xian": {
-			"name": "Sanyuan Xian",
 			"local_name": "三原县"
 		},
 		"Weicheng Qu": {
-			"name": "Weicheng Qu",
 			"local_name": "渭城区"
 		},
 		"Wugong Xian": {
-			"name": "Wugong Xian",
 			"local_name": "武功县"
 		},
 		"Xingping Shi": {
-			"name": "Xingping Shi",
 			"local_name": "兴平市"
 		},
 		"Xunyi Xian": {
-			"name": "Xunyi Xian",
 			"local_name": "旬邑县"
 		},
 		"Yangling Qu": {
-			"name": "Yangling Qu",
 			"local_name": "杨凌区"
 		},
 		"Yongshou Xian": {
-			"name": "Yongshou Xian",
 			"local_name": "永寿县"
 		},
 		"Changwu Xian": {
-			"name": "Changwu Xian",
 			"local_name": "长武县"
 		}
 	}

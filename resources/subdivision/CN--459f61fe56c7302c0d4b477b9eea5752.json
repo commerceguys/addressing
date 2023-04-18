@@ -8,55 +8,42 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Baqiao Qu": {
-			"name": "Baqiao Qu",
 			"local_name": "灞桥区"
 		},
 		"Beilin Qu": {
-			"name": "Beilin Qu",
 			"local_name": "碑林区"
 		},
 		"Gaoling Xian": {
-			"name": "Gaoling Xian",
 			"local_name": "高陵县"
 		},
 		"Hu Xian": {
-			"name": "Hu Xian",
 			"local_name": "户县"
 		},
 		"Lantian Xian": {
-			"name": "Lantian Xian",
 			"local_name": "蓝田县"
 		},
 		"Lianhu Qu": {
-			"name": "Lianhu Qu",
 			"local_name": "莲湖区"
 		},
 		"Lintong Qu": {
-			"name": "Lintong Qu",
 			"local_name": "临潼区"
 		},
 		"Weiyang Qu": {
-			"name": "Weiyang Qu",
 			"local_name": "未央区"
 		},
 		"Xincheng Qu": {
-			"name": "Xincheng Qu",
 			"local_name": "新城区"
 		},
 		"Yanliang Qu": {
-			"name": "Yanliang Qu",
 			"local_name": "阎良区"
 		},
 		"Yanta Qu": {
-			"name": "Yanta Qu",
 			"local_name": "雁塔区"
 		},
 		"Chang'an Qu": {
-			"name": "Chang'an Qu",
 			"local_name": "长安区"
 		},
 		"Zhouzhi Xian": {
-			"name": "Zhouzhi Xian",
 			"local_name": "周至县"
 		}
 	}

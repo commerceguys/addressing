@@ -8,19 +8,15 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Baijiantan Qu": {
-			"name": "Baijiantan Qu",
 			"local_name": "白碱滩区"
 		},
 		"Dushanzi Qu": {
-			"name": "Dushanzi Qu",
 			"local_name": "独山子区"
 		},
 		"Karamay Qu": {
-			"name": "Karamay Qu",
 			"local_name": "克拉玛依区"
 		},
 		"Orku Qu": {
-			"name": "Orku Qu",
 			"local_name": "乌尔禾区"
 		}
 	}

@@ -8,19 +8,15 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Dangtu Xian": {
-			"name": "Dangtu Xian",
 			"local_name": "当涂县"
 		},
 		"Huashan Qu": {
-			"name": "Huashan Qu",
 			"local_name": "花山区"
 		},
 		"Jinjiazhuang Qu": {
-			"name": "Jinjiazhuang Qu",
 			"local_name": "金家庄区"
 		},
 		"Yushan Qu": {
-			"name": "Yushan Qu",
 			"local_name": "雨山区"
 		}
 	}

@@ -8,45 +8,34 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Lechang Shi": {
-			"name": "Lechang Shi",
 			"local_name": "乐昌市"
 		},
 		"Nanxiong Shi": {
-			"name": "Nanxiong Shi",
 			"local_name": "南雄市"
 		},
 		"Qujiang Qu": {
-			"name": "Qujiang Qu",
 			"local_name": "曲江区"
 		},
 		"Renhua Xian": {
-			"name": "Renhua Xian",
 			"local_name": "仁化县"
 		},
 		"Ruyuan Xian": {
-			"code": "Ruyuan Xian",
 			"local_code": "乳源瑶族自治县",
-			"name": "Ruyuan Xian",
 			"local_name": "乳源县"
 		},
 		"Shixing Xian": {
-			"name": "Shixing Xian",
 			"local_name": "始兴县"
 		},
 		"Wengyuan Xian": {
-			"name": "Wengyuan Xian",
 			"local_name": "翁源县"
 		},
 		"Wujiang Qu": {
-			"name": "Wujiang Qu",
 			"local_name": "武江区"
 		},
 		"Xinfeng Xian": {
-			"name": "Xinfeng Xian",
 			"local_name": "新丰县"
 		},
 		"Zhenjiang Qu": {
-			"name": "Zhenjiang Qu",
 			"local_name": "浈江区"
 		}
 	}

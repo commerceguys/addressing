@@ -8,43 +8,33 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Biyang Xian": {
-			"name": "Biyang Xian",
 			"local_name": "泌阳县"
 		},
 		"Pingyu Xian": {
-			"name": "Pingyu Xian",
 			"local_name": "平舆县"
 		},
 		"Queshan Xian": {
-			"name": "Queshan Xian",
 			"local_name": "确山县"
 		},
 		"Runan Xian": {
-			"name": "Runan Xian",
 			"local_name": "汝南县"
 		},
 		"Shangcai Xian": {
-			"name": "Shangcai Xian",
 			"local_name": "上蔡县"
 		},
 		"Suiping Xian": {
-			"name": "Suiping Xian",
 			"local_name": "遂平县"
 		},
 		"Xiping Xian": {
-			"name": "Xiping Xian",
 			"local_name": "西平县"
 		},
 		"Xincai Xian": {
-			"name": "Xincai Xian",
 			"local_name": "新蔡县"
 		},
 		"Yicheng Qu": {
-			"name": "Yicheng Qu",
 			"local_name": "驿城区"
 		},
 		"Zhengyang Xian": {
-			"name": "Zhengyang Xian",
 			"local_name": "正阳县"
 		}
 	}

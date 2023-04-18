@@ -8,27 +8,21 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Keqiao Qu": {
-			"name": "Keqiao Qu",
 			"local_name": "柯桥区"
 		},
 		"Shangyu Shi": {
-			"name": "Shangyu Shi",
 			"local_name": "上虞市"
 		},
 		"Shengzhou Shi": {
-			"name": "Shengzhou Shi",
 			"local_name": "嵊州市"
 		},
 		"Xinchang Xian": {
-			"name": "Xinchang Xian",
 			"local_name": "新昌县"
 		},
 		"Yuecheng Qu": {
-			"name": "Yuecheng Qu",
 			"local_name": "越城区"
 		},
 		"Zhuji Shi": {
-			"name": "Zhuji Shi",
 			"local_name": "诸暨市"
 		}
 	}

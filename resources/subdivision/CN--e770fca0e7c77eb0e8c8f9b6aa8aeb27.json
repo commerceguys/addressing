@@ -8,33 +8,25 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Fuxin Xian": {
-			"code": "Fuxin Xian",
 			"local_code": "阜新蒙古族自治县",
-			"name": "Fuxin Xian",
 			"local_name": "阜新县"
 		},
 		"Haizhou Qu": {
-			"name": "Haizhou Qu",
 			"local_name": "海州区"
 		},
 		"Qinghemen Qu": {
-			"name": "Qinghemen Qu",
 			"local_name": "清河门区"
 		},
 		"Taiping Qu": {
-			"name": "Taiping Qu",
 			"local_name": "太平区"
 		},
 		"Xihe Qu": {
-			"name": "Xihe Qu",
 			"local_name": "细河区"
 		},
 		"Xinqiu Qu": {
-			"name": "Xinqiu Qu",
 			"local_name": "新邱区"
 		},
 		"Zhangwu Xian": {
-			"name": "Zhangwu Xian",
 			"local_name": "彰武县"
 		}
 	}

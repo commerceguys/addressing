@@ -8,27 +8,21 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Arxan Shi": {
-			"name": "Arxan Shi",
 			"local_name": "阿尔山市"
 		},
 		"Horqin Youyi Qianqi": {
-			"name": "Horqin Youyi Qianqi",
 			"local_name": "科尔沁右翼前旗"
 		},
 		"Horqin Youyi Zhongqi": {
-			"name": "Horqin Youyi Zhongqi",
 			"local_name": "科尔沁右翼中旗"
 		},
 		"Tuquan Xian": {
-			"name": "Tuquan Xian",
 			"local_name": "突泉县"
 		},
 		"Ulan Hot Shi": {
-			"name": "Ulan Hot Shi",
 			"local_name": "乌兰浩特市"
 		},
 		"Jalaid Qi": {
-			"name": "Jalaid Qi",
 			"local_name": "扎赉特旗"
 		}
 	}

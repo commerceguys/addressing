@@ -7,54 +7,40 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Golog Zhou": {
-			"code": "Golog Zhou",
 			"local_code": "果洛藏族自治州",
-			"name": "Golog Zhou",
 			"local_name": "果洛州",
 			"has_children": true
 		},
 		"Haibei Zhou": {
-			"code": "Haibei Zhou",
 			"local_code": "海北藏族自治州",
-			"name": "Haibei Zhou",
 			"local_name": "海北州",
 			"has_children": true
 		},
 		"Haidong Shi": {
-			"name": "Haidong Shi",
 			"local_name": "海东市",
 			"has_children": true
 		},
 		"Hainan Zhou": {
-			"code": "Hainan Zhou",
 			"local_code": "海南藏族自治州",
-			"name": "Hainan Zhou",
 			"local_name": "海南州",
 			"has_children": true
 		},
 		"Haixi Zhou": {
-			"code": "Haixi Zhou",
 			"local_code": "海西蒙古族藏族自治州",
-			"name": "Haixi Zhou",
 			"local_name": "海西州",
 			"has_children": true
 		},
 		"Huangnan Zhou": {
-			"code": "Huangnan Zhou",
 			"local_code": "黄南藏族自治州",
-			"name": "Huangnan Zhou",
 			"local_name": "黄南州",
 			"has_children": true
 		},
 		"Xining Shi": {
-			"name": "Xining Shi",
 			"local_name": "西宁市",
 			"has_children": true
 		},
 		"Yushu Zhou": {
-			"code": "Yushu Zhou",
 			"local_code": "玉树藏族自治州",
-			"name": "Yushu Zhou",
 			"local_name": "玉树州",
 			"has_children": true
 		}

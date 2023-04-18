@@ -7,47 +7,38 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Fuzhou Shi": {
-			"name": "Fuzhou Shi",
 			"local_name": "福州市",
 			"has_children": true
 		},
 		"Longyan Shi": {
-			"name": "Longyan Shi",
 			"local_name": "龙岩市",
 			"has_children": true
 		},
 		"Nanping Shi": {
-			"name": "Nanping Shi",
 			"local_name": "南平市",
 			"has_children": true
 		},
 		"Ningde Shi": {
-			"name": "Ningde Shi",
 			"local_name": "宁德市",
 			"has_children": true
 		},
 		"Putian Shi": {
-			"name": "Putian Shi",
 			"local_name": "莆田市",
 			"has_children": true
 		},
 		"Quanzhou Shi": {
-			"name": "Quanzhou Shi",
 			"local_name": "泉州市",
 			"has_children": true
 		},
 		"Sanming Shi": {
-			"name": "Sanming Shi",
 			"local_name": "三明市",
 			"has_children": true
 		},
 		"Xiamen Shi": {
-			"name": "Xiamen Shi",
 			"local_name": "厦门市",
 			"has_children": true
 		},
 		"Zhangzhou Shi": {
-			"name": "Zhangzhou Shi",
 			"local_name": "漳州市",
 			"has_children": true
 		}

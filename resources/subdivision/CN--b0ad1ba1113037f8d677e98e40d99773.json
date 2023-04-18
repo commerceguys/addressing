@@ -8,33 +8,24 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Guanling Xian": {
-			"code": "Guanling Xian",
 			"local_code": "关岭布依族苗族自治县",
-			"name": "Guanling Xian",
 			"local_name": "关岭县"
 		},
 		"Pingba Xian": {
-			"name": "Pingba Xian",
 			"local_name": "平坝县"
 		},
 		"Puding Xian": {
-			"name": "Puding Xian",
 			"local_name": "普定县"
 		},
 		"Xixiu Qu": {
-			"name": "Xixiu Qu",
 			"local_name": "西秀区"
 		},
 		"Zhenning Xian": {
-			"code": "Zhenning Xian",
 			"local_code": "镇宁布依族苗族自治县",
-			"name": "Zhenning Xian",
 			"local_name": "镇宁县"
 		},
 		"Ziyun Xian": {
-			"code": "Ziyun Xian",
 			"local_code": "紫云苗族布依族自治县",
-			"name": "Ziyun Xian",
 			"local_name": "紫云县"
 		}
 	}

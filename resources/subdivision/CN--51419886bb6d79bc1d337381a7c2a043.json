@@ -8,51 +8,39 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Binyang Xian": {
-			"name": "Binyang Xian",
 			"local_name": "宾阳县"
 		},
 		"Heng Xian": {
-			"name": "Heng Xian",
 			"local_name": "横县"
 		},
 		"Jiangnan Qu": {
-			"name": "Jiangnan Qu",
 			"local_name": "江南区"
 		},
 		"Liangqing Qu": {
-			"name": "Liangqing Qu",
 			"local_name": "良庆区"
 		},
 		"Long'an Xian": {
-			"name": "Long'an Xian",
 			"local_name": "隆安县"
 		},
 		"Mashan Xian": {
-			"name": "Mashan Xian",
 			"local_name": "马山县"
 		},
 		"Qingxiu Qu": {
-			"name": "Qingxiu Qu",
 			"local_name": "青秀区"
 		},
 		"Shanglin Xian": {
-			"name": "Shanglin Xian",
 			"local_name": "上林县"
 		},
 		"Wuming Xian": {
-			"name": "Wuming Xian",
 			"local_name": "武鸣县"
 		},
 		"Xixiangtang Qu": {
-			"name": "Xixiangtang Qu",
 			"local_name": "西乡塘区"
 		},
 		"Xingning Qu": {
-			"name": "Xingning Qu",
 			"local_name": "兴宁区"
 		},
 		"Yongning Qu": {
-			"name": "Yongning Qu",
 			"local_name": "邕宁区"
 		}
 	}

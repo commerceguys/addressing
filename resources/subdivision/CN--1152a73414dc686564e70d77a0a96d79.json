@@ -8,33 +8,25 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Haicheng Shi": {
-			"name": "Haicheng Shi",
 			"local_name": "海城市"
 		},
 		"Lishan Qu": {
-			"name": "Lishan Qu",
 			"local_name": "立山区"
 		},
 		"Qianshan Qu": {
-			"name": "Qianshan Qu",
 			"local_name": "千山区"
 		},
 		"Tai'an Xian": {
-			"name": "Tai'an Xian",
 			"local_name": "台安县"
 		},
 		"Tiedong Qu": {
-			"name": "Tiedong Qu",
 			"local_name": "铁东区"
 		},
 		"Tiexi Qu": {
-			"name": "Tiexi Qu",
 			"local_name": "铁西区"
 		},
 		"Xiuyan Xian": {
-			"code": "Xiuyan Xian",
 			"local_code": "岫岩满族自治县",
-			"name": "Xiuyan Xian",
 			"local_name": "岫岩县"
 		}
 	}

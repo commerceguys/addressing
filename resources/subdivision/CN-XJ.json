@@ -7,98 +7,75 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Aksu Diqu": {
-			"name": "Aksu Diqu",
 			"local_name": "阿克苏地区",
 			"has_children": true
 		},
 		"Ala'er Shi": {
-			"name": "Ala'er Shi",
 			"local_name": "阿拉尔市"
 		},
 		"Altay Shi": {
-			"name": "Altay Shi",
 			"local_name": "阿勒泰地区",
 			"has_children": true
 		},
 		"Bayingolin Zhou": {
-			"code": "Bayingolin Zhou",
 			"local_code": "巴音郭楞蒙古自治州",
-			"name": "Bayingolin Zhou",
 			"local_name": "巴音郭楞州",
 			"has_children": true
 		},
 		"Bortala Zhou": {
-			"code": "Bortala Zhou",
 			"local_code": "博尔塔拉蒙古自治州",
-			"name": "Bortala Zhou",
 			"local_name": "博尔塔拉州",
 			"has_children": true
 		},
 		"Changji Zhou": {
-			"code": "Changji Zhou",
 			"local_code": "昌吉回族自治州",
-			"name": "Changji Zhou",
 			"local_name": "昌吉州",
 			"has_children": true
 		},
 		"Hami Diqu": {
-			"name": "Hami Diqu",
 			"local_name": "哈密地区",
 			"has_children": true
 		},
 		"Hotan Diqu": {
-			"name": "Hotan Diqu",
 			"local_name": "和田地区",
 			"has_children": true
 		},
 		"Kashi Diqu": {
-			"name": "Kashi Diqu",
 			"local_name": "喀什地区",
 			"has_children": true
 		},
 		"Karamay Shi": {
-			"name": "Karamay Shi",
 			"local_name": "克拉玛依市",
 			"has_children": true
 		},
 		"Kizilsu Zhou": {
-			"code": "Kizilsu Zhou",
 			"local_code": "克孜勒苏柯尔克孜自治州",
-			"name": "Kizilsu Zhou",
 			"local_name": "克孜勒苏州",
 			"has_children": true
 		},
 		"Shihezi Shi": {
-			"name": "Shihezi Shi",
 			"local_name": "石河子市"
 		},
 		"Tacheng Diqu": {
-			"name": "Tacheng Diqu",
 			"local_name": "塔城地区",
 			"has_children": true
 		},
 		"Tumushuke Shi": {
-			"name": "Tumushuke Shi",
 			"local_name": "图木舒克市"
 		},
 		"Turpan Diqu": {
-			"name": "Turpan Diqu",
 			"local_name": "吐鲁番地区",
 			"has_children": true
 		},
 		"Ürümqi Shi": {
-			"name": "Ürümqi Shi",
 			"local_name": "乌鲁木齐市",
 			"has_children": true
 		},
 		"Wujiaqu Shi": {
-			"name": "Wujiaqu Shi",
 			"local_name": "五家渠市"
 		},
 		"Ili Zhou": {
-			"code": "Ili Zhou",
 			"local_code": "伊犁哈萨克自治州",
-			"name": "Ili Zhou",
 			"local_name": "伊犁州",
 			"has_children": true
 		}

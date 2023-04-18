@@ -8,23 +8,18 @@
 	"locale": "ko",
 	"subdivisions": {
 		"Masanhappo-gu": {
-			"name": "Masanhappo-gu",
 			"local_name": "마산합포구"
 		},
 		"Masanhoewon-gu": {
-			"name": "Masanhoewon-gu",
 			"local_name": "마산회원구"
 		},
 		"Seongsan-gu": {
-			"name": "Seongsan-gu",
 			"local_name": "성산구"
 		},
 		"Uichang-gu": {
-			"name": "Uichang-gu",
 			"local_name": "의창구"
 		},
 		"Jinhae-gu": {
-			"name": "Jinhae-gu",
 			"local_name": "진해구"
 		}
 	}

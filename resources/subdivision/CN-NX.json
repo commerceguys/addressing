@@ -7,27 +7,22 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Guyuan Shi": {
-			"name": "Guyuan Shi",
 			"local_name": "固原市",
 			"has_children": true
 		},
 		"Shizuishan Shi": {
-			"name": "Shizuishan Shi",
 			"local_name": "石嘴山市",
 			"has_children": true
 		},
 		"Wuzhong Shi": {
-			"name": "Wuzhong Shi",
 			"local_name": "吴忠市",
 			"has_children": true
 		},
 		"Yinchuan Shi": {
-			"name": "Yinchuan Shi",
 			"local_name": "银川市",
 			"has_children": true
 		},
 		"Zhongwei Shi": {
-			"name": "Zhongwei Shi",
 			"local_name": "中卫市",
 			"has_children": true
 		}

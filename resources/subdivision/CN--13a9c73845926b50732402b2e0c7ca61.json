@@ -8,23 +8,18 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Linying Xian": {
-			"name": "Linying Xian",
 			"local_name": "临颍县"
 		},
 		"Wuyang Xian": {
-			"name": "Wuyang Xian",
 			"local_name": "舞阳县"
 		},
 		"Yancheng Qu": {
-			"name": "Yancheng Qu",
 			"local_name": "郾城区"
 		},
 		"Yuanhui Qu": {
-			"name": "Yuanhui Qu",
 			"local_name": "源汇区"
 		},
 		"Zhaoling Qu": {
-			"name": "Zhaoling Qu",
 			"local_name": "召陵区"
 		}
 	}

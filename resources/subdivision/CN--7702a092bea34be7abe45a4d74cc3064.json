@@ -8,67 +8,51 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Beinan Township": {
-			"name": "Beinan Township",
 			"local_name": "卑南鄉"
 		},
 		"Chenggong Township": {
-			"name": "Chenggong Township",
 			"local_name": "成功鎮"
 		},
 		"Chishang Township": {
-			"name": "Chishang Township",
 			"local_name": "池上鄉"
 		},
 		"Daren Township": {
-			"name": "Daren Township",
 			"local_name": "達仁鄉"
 		},
 		"Dawu Township": {
-			"name": "Dawu Township",
 			"local_name": "大武鄉"
 		},
 		"Donghe Township": {
-			"name": "Donghe Township",
 			"local_name": "東河鄉"
 		},
 		"Guanshan Township": {
-			"name": "Guanshan Township",
 			"local_name": "關山鎮"
 		},
 		"Haiduan Township": {
-			"name": "Haiduan Township",
 			"local_name": "海端鄉"
 		},
 		"Jinfeng Township": {
-			"name": "Jinfeng Township",
 			"local_name": "金峰鄉"
 		},
 		"Lanyu Township": {
-			"name": "Lanyu Township",
 			"local_name": "蘭嶼鄉"
 		},
 		"Luye Township": {
-			"name": "Luye Township",
 			"local_name": "鹿野鄉"
 		},
 		"Lüdao Township": {
-			"name": "Lüdao Township",
 			"local_name": "綠島鄉"
 		},
 		"Taitung City": {
-			"name": "Taitung City",
 			"local_name": "台東市"
 		},
 		"Taimali Township": {
-			"name": "Taimali Township",
 			"local_name": "太麻里鄉"
 		},
 		"Yanping Township": {
-			"name": "Yanping Township",
 			"local_name": "延平鄉"
 		},
 		"Changbin Township": {
-			"name": "Changbin Township",
 			"local_name": "長濱鄉"
 		}
 	}

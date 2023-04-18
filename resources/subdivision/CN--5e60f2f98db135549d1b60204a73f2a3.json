@@ -8,15 +8,12 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Guixi Shi": {
-			"name": "Guixi Shi",
 			"local_name": "贵溪市"
 		},
 		"Yujiang Xian": {
-			"name": "Yujiang Xian",
 			"local_name": "余江县"
 		},
 		"Yuehu Qu": {
-			"name": "Yuehu Qu",
 			"local_name": "月湖区"
 		}
 	}

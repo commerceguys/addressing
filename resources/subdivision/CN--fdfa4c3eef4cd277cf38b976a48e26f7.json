@@ -8,31 +8,24 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Chaonan Qu": {
-			"name": "Chaonan Qu",
 			"local_name": "潮南区"
 		},
 		"Chaoyang Qu": {
-			"name": "Chaoyang Qu",
 			"local_name": "潮阳区"
 		},
 		"Chenghai Qu": {
-			"name": "Chenghai Qu",
 			"local_name": "澄海区"
 		},
 		"Haojiang Qu": {
-			"name": "Haojiang Qu",
 			"local_name": "濠江区"
 		},
 		"Jinping Qu": {
-			"name": "Jinping Qu",
 			"local_name": "金平区"
 		},
 		"Longhu Qu": {
-			"name": "Longhu Qu",
 			"local_name": "龙湖区"
 		},
 		"Nan'ao Xian": {
-			"name": "Nan'ao Xian",
 			"local_name": "南澳县"
 		}
 	}

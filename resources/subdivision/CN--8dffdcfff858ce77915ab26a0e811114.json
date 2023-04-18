@@ -8,45 +8,33 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Chengjiang Xian": {
-			"name": "Chengjiang Xian",
 			"local_name": "澄江县"
 		},
 		"Eshan Xian": {
-			"code": "Eshan Xian",
 			"local_code": "峨山彝族自治县",
-			"name": "Eshan Xian",
 			"local_name": "峨山县"
 		},
 		"Hongta Qu": {
-			"name": "Hongta Qu",
 			"local_name": "红塔区"
 		},
 		"Huaning Xian": {
-			"name": "Huaning Xian",
 			"local_name": "华宁县"
 		},
 		"Jiangchuan Xian": {
-			"name": "Jiangchuan Xian",
 			"local_name": "江川县"
 		},
 		"Tonghai Xian": {
-			"name": "Tonghai Xian",
 			"local_name": "通海县"
 		},
 		"Xinping Xian": {
-			"code": "Xinping Xian",
 			"local_code": "新平彝族傣族自治县",
-			"name": "Xinping Xian",
 			"local_name": "新平县"
 		},
 		"Yimen Xian": {
-			"name": "Yimen Xian",
 			"local_name": "易门县"
 		},
 		"Yuanjiang Xian": {
-			"code": "Yuanjiang Xian",
 			"local_code": "元江哈尼族彝族傣族自治县",
-			"name": "Yuanjiang Xian",
 			"local_name": "元江县"
 		}
 	}

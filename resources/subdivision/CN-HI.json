@@ -7,93 +7,68 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Baisha Xian": {
-			"code": "Baisha Xian",
 			"local_code": "白沙黎族自治县",
-			"name": "Baisha Xian",
 			"local_name": "白沙县"
 		},
 		"Baoting Xian": {
-			"code": "Baoting Xian",
 			"local_code": "保亭黎族苗族自治县",
-			"name": "Baoting Xian",
 			"local_name": "保亭县"
 		},
 		"Changjiang Xian": {
-			"code": "Changjiang Xian",
 			"local_code": "昌江黎族自治县",
-			"name": "Changjiang Xian",
 			"local_name": "昌江县"
 		},
 		"Chengmai Xian": {
-			"name": "Chengmai Xian",
 			"local_name": "澄迈县"
 		},
 		"Danzhou Shi": {
-			"name": "Danzhou Shi",
 			"local_name": "儋州市"
 		},
 		"Ding'an Xian": {
-			"name": "Ding'an Xian",
 			"local_name": "定安县"
 		},
 		"Dongfang Shi": {
-			"name": "Dongfang Shi",
 			"local_name": "东方市"
 		},
 		"Haikou Shi": {
-			"name": "Haikou Shi",
 			"local_name": "海口市",
 			"has_children": true
 		},
 		"Ledong Xian": {
-			"code": "Ledong Xian",
 			"local_code": "乐东黎族自治县",
-			"name": "Ledong Xian",
 			"local_name": "乐东县"
 		},
 		"Lingao Xian": {
-			"name": "Lingao Xian",
 			"local_name": "临高县"
 		},
 		"Lingshui Xian": {
-			"code": "Lingshui Xian",
 			"local_code": "陵水黎族自治县",
-			"name": "Lingshui Xian",
 			"local_name": "陵水县"
 		},
 		"Qionghai Shi": {
-			"name": "Qionghai Shi",
 			"local_name": "琼海市"
 		},
 		"Qiongzhong Xian": {
-			"code": "Qiongzhong Xian",
 			"local_code": "琼中黎族苗族自治县",
-			"name": "Qiongzhong Xian",
 			"local_name": "琼中县"
 		},
 		"Sansha Shi": {
-			"name": "Sansha Shi",
 			"local_name": "三沙市",
 			"has_children": true
 		},
 		"Sanya Shi": {
-			"name": "Sanya Shi",
 			"local_name": "三亚市"
 		},
 		"Tunchang Xian": {
-			"name": "Tunchang Xian",
 			"local_name": "屯昌县"
 		},
 		"Wanning Shi": {
-			"name": "Wanning Shi",
 			"local_name": "万宁市"
 		},
 		"Wenchang Shi": {
-			"name": "Wenchang Shi",
 			"local_name": "文昌市"
 		},
 		"Wuzhishan Shi": {
-			"name": "Wuzhishan Shi",
 			"local_name": "五指山市"
 		}
 	}

@@ -8,31 +8,24 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Enping Shi": {
-			"name": "Enping Shi",
 			"local_name": "恩平市"
 		},
 		"Heshan Shi": {
-			"name": "Heshan Shi",
 			"local_name": "鹤山市"
 		},
 		"Jianghai Qu": {
-			"name": "Jianghai Qu",
 			"local_name": "江海区"
 		},
 		"Kaiping Shi": {
-			"name": "Kaiping Shi",
 			"local_name": "开平市"
 		},
 		"Pengjiang Qu": {
-			"name": "Pengjiang Qu",
 			"local_name": "蓬江区"
 		},
 		"Taishan Shi": {
-			"name": "Taishan Shi",
 			"local_name": "台山市"
 		},
 		"Xinhui Qu": {
-			"name": "Xinhui Qu",
 			"local_name": "新会区"
 		}
 	}

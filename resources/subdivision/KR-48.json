@@ -7,76 +7,58 @@
 	"locale": "ko",
 	"subdivisions": {
 		"Geoje-si": {
-			"name": "Geoje-si",
 			"local_name": "거제시"
 		},
 		"Geochang-gun": {
-			"name": "Geochang-gun",
 			"local_name": "거창군"
 		},
 		"Goseong-gun": {
-			"name": "Goseong-gun",
 			"local_name": "고성군"
 		},
 		"Gimhae-si": {
-			"name": "Gimhae-si",
 			"local_name": "김해시"
 		},
 		"Namhae-gun": {
-			"name": "Namhae-gun",
 			"local_name": "남해군"
 		},
 		"Miryang-si": {
-			"name": "Miryang-si",
 			"local_name": "밀양시"
 		},
 		"Sacheon-si": {
-			"name": "Sacheon-si",
 			"local_name": "사천시"
 		},
 		"Sancheong-gun": {
-			"name": "Sancheong-gun",
 			"local_name": "산청군"
 		},
 		"Yangsan-si": {
-			"name": "Yangsan-si",
 			"local_name": "양산시"
 		},
 		"Uiryeong-gun": {
-			"name": "Uiryeong-gun",
 			"local_name": "의령군"
 		},
 		"Jinju-si": {
-			"name": "Jinju-si",
 			"local_name": "진주시"
 		},
 		"Changnyeong-gun": {
-			"name": "Changnyeong-gun",
 			"local_name": "창녕군"
 		},
 		"Changwon-si": {
-			"name": "Changwon-si",
 			"local_name": "창원시",
 			"has_children": true
 		},
 		"Tongyeong-si": {
-			"name": "Tongyeong-si",
 			"local_name": "통영시"
 		},
 		"Hadong-gun": {
-			"name": "Hadong-gun",
 			"local_name": "하동군"
 		},
 		"Haman-gun": {
-			"name": "Haman-gun",
 			"local_name": "함안군"
 		},
 		"Hamyang-gun": {
-			"name": "Hamyang-gun",
 			"local_name": "함양군"
 		},
 		"Hapcheon-gun": {
-			"name": "Hapcheon-gun",
 			"local_name": "합천군"
 		}
 	}

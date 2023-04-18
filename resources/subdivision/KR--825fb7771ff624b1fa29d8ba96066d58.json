@@ -8,15 +8,12 @@
 	"locale": "ko",
 	"subdivisions": {
 		"Bundang-gu": {
-			"name": "Bundang-gu",
 			"local_name": "분당구"
 		},
 		"Sujeong-gu": {
-			"name": "Sujeong-gu",
 			"local_name": "수정구"
 		},
 		"Jungwon-gu": {
-			"name": "Jungwon-gu",
 			"local_name": "중원구"
 		}
 	}

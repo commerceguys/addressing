@@ -8,31 +8,24 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Huma Xian": {
-			"name": "Huma Xian",
 			"local_name": "呼玛县"
 		},
 		"Huzhong Qu": {
-			"name": "Huzhong Qu",
 			"local_name": "呼中区"
 		},
 		"Jiagedaqi Qu": {
-			"name": "Jiagedaqi Qu",
 			"local_name": "加格达奇区"
 		},
 		"Mohe Xian": {
-			"name": "Mohe Xian",
 			"local_name": "漠河县"
 		},
 		"Songling Qu": {
-			"name": "Songling Qu",
 			"local_name": "松岭区"
 		},
 		"Tahe Xian": {
-			"name": "Tahe Xian",
 			"local_name": "塔河县"
 		},
 		"Xinlin Qu": {
-			"name": "Xinlin Qu",
 			"local_name": "新林区"
 		}
 	}

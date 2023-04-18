@@ -8,23 +8,18 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Jingyuan Xian": {
-			"name": "Jingyuan Xian",
 			"local_name": "泾源县"
 		},
 		"Longde Xian": {
-			"name": "Longde Xian",
 			"local_name": "隆德县"
 		},
 		"Pengyang Xian": {
-			"name": "Pengyang Xian",
 			"local_name": "彭阳县"
 		},
 		"Xiji Xian": {
-			"name": "Xiji Xian",
 			"local_name": "西吉县"
 		},
 		"Yuanzhou Qu": {
-			"name": "Yuanzhou Qu",
 			"local_name": "原州区"
 		}
 	}

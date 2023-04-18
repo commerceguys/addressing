@@ -7,134 +7,103 @@
 	"locale": "ko",
 	"subdivisions": {
 		"Gapyeong-gun": {
-			"name": "Gapyeong-gun",
 			"local_name": "가평군"
 		},
 		"Goyang-si": {
-			"name": "Goyang-si",
 			"local_name": "고양시",
 			"has_children": true
 		},
 		"Gwacheon-si": {
-			"name": "Gwacheon-si",
 			"local_name": "과천시"
 		},
 		"Gwangmyeong-si": {
-			"name": "Gwangmyeong-si",
 			"local_name": "광명시"
 		},
 		"Gwangju-si": {
-			"name": "Gwangju-si",
 			"local_name": "광주시"
 		},
 		"Guri-si": {
-			"name": "Guri-si",
 			"local_name": "구리시"
 		},
 		"Gunpo-si": {
-			"name": "Gunpo-si",
 			"local_name": "군포시"
 		},
 		"Gimpo-si": {
-			"name": "Gimpo-si",
 			"local_name": "김포시"
 		},
 		"Namyangju-si": {
-			"name": "Namyangju-si",
 			"local_name": "남양주시"
 		},
 		"Dongducheon-si": {
-			"name": "Dongducheon-si",
 			"local_name": "동두천시"
 		},
 		"Bucheon-si": {
-			"name": "Bucheon-si",
 			"local_name": "부천시",
 			"has_children": true
 		},
 		"Seongnam-si": {
-			"name": "Seongnam-si",
 			"local_name": "성남시",
 			"has_children": true
 		},
 		"Suwon-si": {
-			"name": "Suwon-si",
 			"local_name": "수원시",
 			"has_children": true
 		},
 		"Siheung-si": {
-			"name": "Siheung-si",
 			"local_name": "시흥시"
 		},
 		"Ansan-si": {
-			"name": "Ansan-si",
 			"local_name": "안산시",
 			"has_children": true
 		},
 		"Anseong-si": {
-			"name": "Anseong-si",
 			"local_name": "안성시"
 		},
 		"Anyang-si": {
-			"name": "Anyang-si",
 			"local_name": "안양시",
 			"has_children": true
 		},
 		"Yangju-si": {
-			"name": "Yangju-si",
 			"local_name": "양주시"
 		},
 		"Yangpyeong-gun": {
-			"name": "Yangpyeong-gun",
 			"local_name": "양평군"
 		},
 		"Yeoju-si": {
-			"name": "Yeoju-si",
 			"local_name": "여주시"
 		},
 		"Yeoncheon-gun": {
-			"name": "Yeoncheon-gun",
 			"local_name": "연천군"
 		},
 		"Osan-si": {
-			"name": "Osan-si",
 			"local_name": "오산시"
 		},
 		"Yongin-si": {
-			"name": "Yongin-si",
 			"local_name": "용인시",
 			"has_children": true
 		},
 		"Uiwang-si": {
-			"name": "Uiwang-si",
 			"local_name": "의왕시"
 		},
 		"Uijeongbu-si": {
-			"name": "Uijeongbu-si",
 			"local_name": "의정부시"
 		},
 		"Icheon-si": {
-			"name": "Icheon-si",
 			"local_name": "이천시"
 		},
 		"Paju-si": {
-			"name": "Paju-si",
 			"local_name": "파주시"
 		},
 		"Pyeongtaek-si": {
-			"name": "Pyeongtaek-si",
 			"local_name": "평택시"
 		},
 		"Pocheon-si": {
-			"name": "Pocheon-si",
 			"local_name": "포천시"
 		},
 		"Hanam-si": {
-			"name": "Hanam-si",
 			"local_name": "하남시"
 		},
 		"Hwaseong-si": {
-			"name": "Hwaseong-si",
 			"local_name": "화성시"
 		}
 	}

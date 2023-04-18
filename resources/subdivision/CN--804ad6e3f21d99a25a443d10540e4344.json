@@ -8,19 +8,15 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Anyue Xian": {
-			"name": "Anyue Xian",
 			"local_name": "安岳县"
 		},
 		"Jianyang Shi": {
-			"name": "Jianyang Shi",
 			"local_name": "简阳市"
 		},
 		"Lezhi Xian": {
-			"name": "Lezhi Xian",
 			"local_name": "乐至县"
 		},
 		"Yanjiang Qu": {
-			"name": "Yanjiang Qu",
 			"local_name": "雁江区"
 		}
 	}

@@ -7,131 +7,99 @@
 	"locale": "zh-Hant",
 	"subdivisions": {
 		"Kowloon City": {
-			"name": "Kowloon City",
 			"local_name": "九龍城"
 		},
 		"Kowloon Tong": {
-			"name": "Kowloon Tong",
 			"local_name": "九龍塘"
 		},
 		"Kowloon Bay": {
-			"name": "Kowloon Bay",
 			"local_name": "九龍灣"
 		},
 		"To Kwa Wan": {
-			"name": "To Kwa Wan",
 			"local_name": "土瓜灣"
 		},
 		"Tai Kok Tsui": {
-			"name": "Tai Kok Tsui",
 			"local_name": "大角咀"
 		},
 		"Shek Kip Mei": {
-			"name": "Shek Kip Mei",
 			"local_name": "石硤尾"
 		},
 		"Tsim Sha Tsui": {
-			"name": "Tsim Sha Tsui",
 			"local_name": "尖沙咀"
 		},
 		"Jordan": {
-			"name": "Jordan",
 			"local_name": "佐敦"
 		},
 		"Ho Man Tin": {
-			"name": "Ho Man Tin",
 			"local_name": "何文田"
 		},
 		"Sau Mau Ping": {
-			"name": "Sau Mau Ping",
 			"local_name": "秀茂坪"
 		},
 		"Mong Kok": {
-			"name": "Mong Kok",
 			"local_name": "旺角"
 		},
 		"Yau Ma Tei": {
-			"name": "Yau Ma Tei",
 			"local_name": "油麻地"
 		},
 		"Yau Tong": {
-			"name": "Yau Tong",
 			"local_name": "油塘"
 		},
 		"Cheung Sha Wan": {
-			"name": "Cheung Sha Wan",
 			"local_name": "長沙灣"
 		},
 		"Hung Hom": {
-			"name": "Hung Hom",
 			"local_name": "紅磡"
 		},
 		"Mei Foo": {
-			"name": "Mei Foo",
 			"local_name": "美孚"
 		},
 		"Cha Kwo Ling": {
-			"name": "Cha Kwo Ling",
 			"local_name": "茶果嶺"
 		},
 		"Lai Chi Kok": {
-			"name": "Lai Chi Kok",
 			"local_name": "荔枝角"
 		},
 		"Ma Tau Wai": {
-			"name": "Ma Tau Wai",
 			"local_name": "馬頭圍"
 		},
 		"Choi Hung": {
-			"name": "Choi Hung",
 			"local_name": "彩虹"
 		},
 		"Sham Shui Po": {
-			"name": "Sham Shui Po",
 			"local_name": "深水埗"
 		},
 		"Wong Tai Sin": {
-			"name": "Wong Tai Sin",
 			"local_name": "黃大仙"
 		},
 		"San Po Kong": {
-			"name": "San Po Kong",
 			"local_name": "新蒲崗"
 		},
 		"Tsz Wan Shan": {
-			"name": "Tsz Wan Shan",
 			"local_name": "慈雲山"
 		},
 		"Lok Fu": {
-			"name": "Lok Fu",
 			"local_name": "樂富"
 		},
 		"Wang Tau Hom": {
-			"name": "Wang Tau Hom",
 			"local_name": "橫頭磡"
 		},
 		"Lam Tin": {
-			"name": "Lam Tin",
 			"local_name": "藍田"
 		},
 		"Kwun Tong": {
-			"name": "Kwun Tong",
 			"local_name": "觀塘"
 		},
 		"Diamond Hill": {
-			"name": "Diamond Hill",
 			"local_name": "鑽石山"
 		},
 		"Yau Yat Chuen": {
-			"name": "Yau Yat Chuen",
 			"local_name": "又一村"
 		},
 		"Ngau Chi Wan": {
-			"name": "Ngau Chi Wan",
 			"local_name": "牛池灣"
 		},
 		"Ngau Tau Kok": {
-			"name": "Ngau Tau Kok",
 			"local_name": "牛頭角"
 		}
 	}

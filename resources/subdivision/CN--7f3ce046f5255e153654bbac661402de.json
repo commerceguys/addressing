@@ -8,43 +8,33 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Baiyun Qu": {
-			"name": "Baiyun Qu",
 			"local_name": "白云区"
 		},
 		"Guanshanhu Qu": {
-			"name": "Guanshanhu Qu",
 			"local_name": "观山湖区"
 		},
 		"Huaxi Qu": {
-			"name": "Huaxi Qu",
 			"local_name": "花溪区"
 		},
 		"Kaiyang Xian": {
-			"name": "Kaiyang Xian",
 			"local_name": "开阳县"
 		},
 		"Nanming Qu": {
-			"name": "Nanming Qu",
 			"local_name": "南明区"
 		},
 		"Qingzhen Shi": {
-			"name": "Qingzhen Shi",
 			"local_name": "清镇市"
 		},
 		"Wudang Qu": {
-			"name": "Wudang Qu",
 			"local_name": "乌当区"
 		},
 		"Xifeng Xian": {
-			"name": "Xifeng Xian",
 			"local_name": "息烽县"
 		},
 		"Xiuwen Xian": {
-			"name": "Xiuwen Xian",
 			"local_name": "修文县"
 		},
 		"Yunyan Qu": {
-			"name": "Yunyan Qu",
 			"local_name": "云岩区"
 		}
 	}

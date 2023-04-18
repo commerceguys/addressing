@@ -7,75 +7,59 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Baiyin Shi": {
-			"name": "Baiyin Shi",
 			"local_name": "白银市",
 			"has_children": true
 		},
 		"Dingxi Shi": {
-			"name": "Dingxi Shi",
 			"local_name": "定西市",
 			"has_children": true
 		},
 		"Gannan Zhou": {
-			"code": "Gannan Zhou",
 			"local_code": "甘南藏族自治州",
-			"name": "Gannan Zhou",
 			"local_name": "甘南州",
 			"has_children": true
 		},
 		"Jiayuguan Shi": {
-			"name": "Jiayuguan Shi",
 			"local_name": "嘉峪关市"
 		},
 		"Jinchang Shi": {
-			"name": "Jinchang Shi",
 			"local_name": "金昌市",
 			"has_children": true
 		},
 		"Jiuquan Shi": {
-			"name": "Jiuquan Shi",
 			"local_name": "酒泉市",
 			"has_children": true
 		},
 		"Lanzhou Shi": {
-			"name": "Lanzhou Shi",
 			"local_name": "兰州市",
 			"has_children": true
 		},
 		"Linxia Zhou": {
-			"code": "Linxia Zhou",
 			"local_code": "临夏回族自治州",
-			"name": "Linxia Zhou",
 			"local_name": "临夏州",
 			"has_children": true
 		},
 		"Longnan Shi": {
-			"name": "Longnan Shi",
 			"local_name": "陇南市",
 			"has_children": true
 		},
 		"Pingliang Shi": {
-			"name": "Pingliang Shi",
 			"local_name": "平凉市",
 			"has_children": true
 		},
 		"Qingyang Shi": {
-			"name": "Qingyang Shi",
 			"local_name": "庆阳市",
 			"has_children": true
 		},
 		"Tianshui Shi": {
-			"name": "Tianshui Shi",
 			"local_name": "天水市",
 			"has_children": true
 		},
 		"Wuwei Shi": {
-			"name": "Wuwei Shi",
 			"local_name": "武威市",
 			"has_children": true
 		},
 		"Zhangye Shi": {
-			"name": "Zhangye Shi",
 			"local_name": "张掖市",
 			"has_children": true
 		}

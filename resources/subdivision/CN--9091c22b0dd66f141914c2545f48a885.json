@@ -8,43 +8,33 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Chuxiong Shi": {
-			"name": "Chuxiong Shi",
 			"local_name": "楚雄市"
 		},
 		"Dayao Xian": {
-			"name": "Dayao Xian",
 			"local_name": "大姚县"
 		},
 		"Lufeng Xian": {
-			"name": "Lufeng Xian",
 			"local_name": "禄丰县"
 		},
 		"Mouding Xian": {
-			"name": "Mouding Xian",
 			"local_name": "牟定县"
 		},
 		"Nanhua Xian": {
-			"name": "Nanhua Xian",
 			"local_name": "南华县"
 		},
 		"Shuangbai Xian": {
-			"name": "Shuangbai Xian",
 			"local_name": "双柏县"
 		},
 		"Wuding Xian": {
-			"name": "Wuding Xian",
 			"local_name": "武定县"
 		},
 		"Yao'an Xian": {
-			"name": "Yao'an Xian",
 			"local_name": "姚安县"
 		},
 		"Yongren Xian": {
-			"name": "Yongren Xian",
 			"local_name": "永仁县"
 		},
 		"Yuanmou Xian": {
-			"name": "Yuanmou Xian",
 			"local_name": "元谋县"
 		}
 	}

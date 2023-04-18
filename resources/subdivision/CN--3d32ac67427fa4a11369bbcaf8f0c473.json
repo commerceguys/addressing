@@ -8,53 +8,40 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Debao Xian": {
-			"name": "Debao Xian",
 			"local_name": "德保县"
 		},
 		"Jingxi Xian": {
-			"name": "Jingxi Xian",
 			"local_name": "靖西县"
 		},
 		"Leye Xian": {
-			"name": "Leye Xian",
 			"local_name": "乐业县"
 		},
 		"Lingyun Xian": {
-			"name": "Lingyun Xian",
 			"local_name": "凌云县"
 		},
 		"Longlin Xian": {
-			"code": "Longlin Xian",
 			"local_code": "隆林各族自治县",
-			"name": "Longlin Xian",
 			"local_name": "隆林县"
 		},
 		"Napo Xian": {
-			"name": "Napo Xian",
 			"local_name": "那坡县"
 		},
 		"Pingguo Xian": {
-			"name": "Pingguo Xian",
 			"local_name": "平果县"
 		},
 		"Tiandong Xian": {
-			"name": "Tiandong Xian",
 			"local_name": "田东县"
 		},
 		"Tianlin Xian": {
-			"name": "Tianlin Xian",
 			"local_name": "田林县"
 		},
 		"Tianyang Xian": {
-			"name": "Tianyang Xian",
 			"local_name": "田阳县"
 		},
 		"Xilin Xian": {
-			"name": "Xilin Xian",
 			"local_name": "西林县"
 		},
 		"Youjiang Qu": {
-			"name": "Youjiang Qu",
 			"local_name": "右江区"
 		}
 	}

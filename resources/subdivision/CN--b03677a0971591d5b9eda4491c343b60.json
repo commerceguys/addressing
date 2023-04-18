@@ -8,61 +8,45 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Arun Qi": {
-			"name": "Arun Qi",
 			"local_name": "阿荣旗"
 		},
 		"Chen Barag Qi": {
-			"name": "Chen Barag Qi",
 			"local_name": "陈巴尔虎旗"
 		},
 		"Ergun Shi": {
-			"name": "Ergun Shi",
 			"local_name": "额尔古纳市"
 		},
 		"Oroqen Qi": {
-			"code": "Oroqen Qi",
 			"local_code": "鄂伦春自治旗",
-			"name": "Oroqen Qi",
 			"local_name": "鄂伦春旗"
 		},
 		"Ewenkizu Qi": {
-			"code": "Ewenkizu Qi",
 			"local_code": "鄂温克族自治旗",
-			"name": "Ewenkizu Qi",
 			"local_name": "鄂温克族旗"
 		},
 		"Genhe Shi": {
-			"name": "Genhe Shi",
 			"local_name": "根河市"
 		},
 		"Hailar Qu": {
-			"name": "Hailar Qu",
 			"local_name": "海拉尔区"
 		},
 		"Manzhouli Shi": {
-			"name": "Manzhouli Shi",
 			"local_name": "满洲里市"
 		},
 		"Morin Dawa Qi": {
-			"code": "Morin Dawa Qi",
 			"local_code": "莫力达瓦达斡尔族自治旗",
-			"name": "Morin Dawa Qi",
 			"local_name": "莫力达瓦旗"
 		},
 		"Xin Barag Youqi": {
-			"name": "Xin Barag Youqi",
 			"local_name": "新巴尔虎右旗"
 		},
 		"Xin Barag Zuoqi": {
-			"name": "Xin Barag Zuoqi",
 			"local_name": "新巴尔虎左旗"
 		},
 		"Yakeshi Shi": {
-			"name": "Yakeshi Shi",
 			"local_name": "牙克石市"
 		},
 		"Zhalantun Shi": {
-			"name": "Zhalantun Shi",
 			"local_name": "扎兰屯市"
 		}
 	}

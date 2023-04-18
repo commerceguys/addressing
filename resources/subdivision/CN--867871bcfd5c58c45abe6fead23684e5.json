@@ -8,19 +8,15 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Changjiang Qu": {
-			"name": "Changjiang Qu",
 			"local_name": "昌江区"
 		},
 		"Fuliang Xian": {
-			"name": "Fuliang Xian",
 			"local_name": "浮梁县"
 		},
 		"Leping Shi": {
-			"name": "Leping Shi",
 			"local_name": "乐平市"
 		},
 		"Zhushan Qu": {
-			"name": "Zhushan Qu",
 			"local_name": "珠山区"
 		}
 	}

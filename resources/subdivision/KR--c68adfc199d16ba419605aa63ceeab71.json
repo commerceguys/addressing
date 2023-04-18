@@ -8,11 +8,9 @@
 	"locale": "ko",
 	"subdivisions": {
 		"Deokjin-gu": {
-			"name": "Deokjin-gu",
 			"local_name": "덕진구"
 		},
 		"Wansan-gu": {
-			"name": "Wansan-gu",
 			"local_name": "완산구"
 		}
 	}

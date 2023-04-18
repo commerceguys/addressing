@@ -8,71 +8,54 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Chicheng Xian": {
-			"name": "Chicheng Xian",
 			"local_name": "赤城县"
 		},
 		"Chongli Xian": {
-			"name": "Chongli Xian",
 			"local_name": "崇礼县"
 		},
 		"Guyuan Xian": {
-			"name": "Guyuan Xian",
 			"local_name": "沽源县"
 		},
 		"Huai'an Xian": {
-			"name": "Huai'an Xian",
 			"local_name": "怀安县"
 		},
 		"Huailai Xian": {
-			"name": "Huailai Xian",
 			"local_name": "怀来县"
 		},
 		"Kangbao Xian": {
-			"name": "Kangbao Xian",
 			"local_name": "康保县"
 		},
 		"Qiaodong Qu": {
-			"name": "Qiaodong Qu",
 			"local_name": "桥东区"
 		},
 		"Qiaoxi Qu": {
-			"name": "Qiaoxi Qu",
 			"local_name": "桥西区"
 		},
 		"Shangyi Xian": {
-			"name": "Shangyi Xian",
 			"local_name": "尚义县"
 		},
 		"Wanquan Xian": {
-			"name": "Wanquan Xian",
 			"local_name": "万全县"
 		},
 		"Yu Xian": {
-			"name": "Yu Xian",
 			"local_name": "蔚县"
 		},
 		"Xiahuayuan Qu": {
-			"name": "Xiahuayuan Qu",
 			"local_name": "下花园区"
 		},
 		"Xuanhua Qu": {
-			"name": "Xuanhua Qu",
 			"local_name": "宣化区"
 		},
 		"Xuanhua Xian": {
-			"name": "Xuanhua Xian",
 			"local_name": "宣化县"
 		},
 		"Yangyuan Xian": {
-			"name": "Yangyuan Xian",
 			"local_name": "阳原县"
 		},
 		"Zhangbei Xian": {
-			"name": "Zhangbei Xian",
 			"local_name": "张北县"
 		},
 		"Zhuolu Xian": {
-			"name": "Zhuolu Xian",
 			"local_name": "涿鹿县"
 		}
 	}

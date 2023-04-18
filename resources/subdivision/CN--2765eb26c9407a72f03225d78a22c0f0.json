@@ -8,27 +8,21 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Cheng Qu": {
-			"name": "Cheng Qu",
 			"local_name": "城区"
 		},
 		"Gaoping Shi": {
-			"name": "Gaoping Shi",
 			"local_name": "高平市"
 		},
 		"Lingchuan Xian": {
-			"name": "Lingchuan Xian",
 			"local_name": "陵川县"
 		},
 		"Qinshui Xian": {
-			"name": "Qinshui Xian",
 			"local_name": "沁水县"
 		},
 		"Yangcheng Xian": {
-			"name": "Yangcheng Xian",
 			"local_name": "阳城县"
 		},
 		"Zezhou Xian": {
-			"name": "Zezhou Xian",
 			"local_name": "泽州县"
 		}
 	}

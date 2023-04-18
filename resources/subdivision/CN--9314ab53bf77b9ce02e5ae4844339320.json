@@ -8,39 +8,29 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Dongxiangzu Xian": {
-			"code": "Dongxiangzu Xian",
 			"local_code": "东乡族自治县",
-			"name": "Dongxiangzu Xian",
 			"local_name": "东乡族县"
 		},
 		"Guanghe Xian": {
-			"name": "Guanghe Xian",
 			"local_name": "广河县"
 		},
 		"Hezheng Xian": {
-			"name": "Hezheng Xian",
 			"local_name": "和政县"
 		},
 		"Jishishan Xian": {
-			"code": "Jishishan Xian",
 			"local_code": "积石山保安族东乡族撒拉族自治县",
-			"name": "Jishishan Xian",
 			"local_name": "积石山县"
 		},
 		"Kangle Xian": {
-			"name": "Kangle Xian",
 			"local_name": "康乐县"
 		},
 		"Linxia Shi": {
-			"name": "Linxia Shi",
 			"local_name": "临夏市"
 		},
 		"Linxia Xian": {
-			"name": "Linxia Xian",
 			"local_name": "临夏县"
 		},
 		"Yongjing Xian": {
-			"name": "Yongjing Xian",
 			"local_name": "永靖县"
 		}
 	}

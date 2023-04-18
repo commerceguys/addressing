@@ -8,27 +8,21 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Huairen Xian": {
-			"name": "Huairen Xian",
 			"local_name": "怀仁县"
 		},
 		"Pinglu Qu": {
-			"name": "Pinglu Qu",
 			"local_name": "平鲁区"
 		},
 		"Shanyin Xian": {
-			"name": "Shanyin Xian",
 			"local_name": "山阴县"
 		},
 		"Shuocheng Qu": {
-			"name": "Shuocheng Qu",
 			"local_name": "朔城区"
 		},
 		"Ying Xian": {
-			"name": "Ying Xian",
 			"local_name": "应县"
 		},
 		"Youyu Xian": {
-			"name": "Youyu Xian",
 			"local_name": "右玉县"
 		}
 	}

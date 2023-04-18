@@ -8,35 +8,27 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Funan Xian": {
-			"name": "Funan Xian",
 			"local_name": "阜南县"
 		},
 		"Jieshou Shi": {
-			"name": "Jieshou Shi",
 			"local_name": "界首市"
 		},
 		"Linquan Xian": {
-			"name": "Linquan Xian",
 			"local_name": "临泉县"
 		},
 		"Taihe Xian": {
-			"name": "Taihe Xian",
 			"local_name": "太和县"
 		},
 		"Yingdong Qu": {
-			"name": "Yingdong Qu",
 			"local_name": "颍东区"
 		},
 		"Yingquan Qu": {
-			"name": "Yingquan Qu",
 			"local_name": "颍泉区"
 		},
 		"Yingshang Xian": {
-			"name": "Yingshang Xian",
 			"local_name": "颍上县"
 		},
 		"Yingzhou Qu": {
-			"name": "Yingzhou Qu",
 			"local_name": "颍州区"
 		}
 	}

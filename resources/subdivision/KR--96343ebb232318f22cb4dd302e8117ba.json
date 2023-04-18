@@ -8,19 +8,15 @@
 	"locale": "ko",
 	"subdivisions": {
 		"Sangdang-gu": {
-			"name": "Sangdang-gu",
 			"local_name": "상당구"
 		},
 		"Seowon-gu": {
-			"name": "Seowon-gu",
 			"local_name": "서원구"
 		},
 		"Cheongwon-gu": {
-			"name": "Cheongwon-gu",
 			"local_name": "청원구"
 		},
 		"Heungdeok-gu": {
-			"name": "Heungdeok-gu",
 			"local_name": "흥덕구"
 		}
 	}

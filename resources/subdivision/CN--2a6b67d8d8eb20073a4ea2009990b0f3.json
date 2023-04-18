@@ -8,31 +8,24 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Bincheng Qu": {
-			"name": "Bincheng Qu",
 			"local_name": "滨城区"
 		},
 		"Boxing Xian": {
-			"name": "Boxing Xian",
 			"local_name": "博兴县"
 		},
 		"Huimin Xian": {
-			"name": "Huimin Xian",
 			"local_name": "惠民县"
 		},
 		"Wudi Xian": {
-			"name": "Wudi Xian",
 			"local_name": "无棣县"
 		},
 		"Yangxin Xian": {
-			"name": "Yangxin Xian",
 			"local_name": "阳信县"
 		},
 		"Zhanhua Xian": {
-			"name": "Zhanhua Xian",
 			"local_name": "沾化县"
 		},
 		"Zouping Xian": {
-			"name": "Zouping Xian",
 			"local_name": "邹平县"
 		}
 	}

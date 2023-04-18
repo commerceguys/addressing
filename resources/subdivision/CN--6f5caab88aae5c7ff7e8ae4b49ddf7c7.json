@@ -8,23 +8,18 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Cheng Qu": {
-			"name": "Cheng Qu",
 			"local_name": "城区"
 		},
 		"Jiao Qu": {
-			"name": "Jiao Qu",
 			"local_name": "郊区"
 		},
 		"Kuang Qu": {
-			"name": "Kuang Qu",
 			"local_name": "矿区"
 		},
 		"Pingding Xian": {
-			"name": "Pingding Xian",
 			"local_name": "平定县"
 		},
 		"Yu Xian": {
-			"name": "Yu Xian",
 			"local_name": "盂县"
 		}
 	}

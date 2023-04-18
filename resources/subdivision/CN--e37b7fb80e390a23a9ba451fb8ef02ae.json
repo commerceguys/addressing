@@ -8,61 +8,44 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Chenxi Xian": {
-			"name": "Chenxi Xian",
 			"local_name": "辰溪县"
 		},
 		"Hecheng Qu": {
-			"name": "Hecheng Qu",
 			"local_name": "鹤城区"
 		},
 		"Hongjiang Shi": {
-			"name": "Hongjiang Shi",
 			"local_name": "洪江市"
 		},
 		"Huitong Xian": {
-			"name": "Huitong Xian",
 			"local_name": "会同县"
 		},
 		"Jingzhou Xian": {
-			"code": "Jingzhou Xian",
 			"local_code": "靖州苗族侗族自治县",
-			"name": "Jingzhou Xian",
 			"local_name": "靖州县"
 		},
 		"Mayang Xian": {
-			"code": "Mayang Xian",
 			"local_code": "麻阳苗族自治县",
-			"name": "Mayang Xian",
 			"local_name": "麻阳县"
 		},
 		"Tongdao Xian": {
-			"code": "Tongdao Xian",
 			"local_code": "通道侗族自治县",
-			"name": "Tongdao Xian",
 			"local_name": "通道县"
 		},
 		"Xinhuang Xian": {
-			"code": "Xinhuang Xian",
 			"local_code": "新晃侗族自治县",
-			"name": "Xinhuang Xian",
 			"local_name": "新晃县"
 		},
 		"Xupu Xian": {
-			"name": "Xupu Xian",
 			"local_name": "溆浦县"
 		},
 		"Yuanling Xian": {
-			"name": "Yuanling Xian",
 			"local_name": "沅陵县"
 		},
 		"Zhijiang Xian": {
-			"code": "Zhijiang Xian",
 			"local_code": "芷江侗族自治县",
-			"name": "Zhijiang Xian",
 			"local_name": "芷江县"
 		},
 		"Zhongfang Xian": {
-			"name": "Zhongfang Xian",
 			"local_name": "中方县"
 		}
 	}

@@ -8,43 +8,33 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Fengcheng Shi": {
-			"name": "Fengcheng Shi",
 			"local_name": "丰城市"
 		},
 		"Fengxin Xian": {
-			"name": "Fengxin Xian",
 			"local_name": "奉新县"
 		},
 		"Gao'an Shi": {
-			"name": "Gao'an Shi",
 			"local_name": "高安市"
 		},
 		"Jing'an Xian": {
-			"name": "Jing'an Xian",
 			"local_name": "靖安县"
 		},
 		"Shanggao Xian": {
-			"name": "Shanggao Xian",
 			"local_name": "上高县"
 		},
 		"Tonggu Xian": {
-			"name": "Tonggu Xian",
 			"local_name": "铜鼓县"
 		},
 		"Wanzai Xian": {
-			"name": "Wanzai Xian",
 			"local_name": "万载县"
 		},
 		"Yifeng Xian": {
-			"name": "Yifeng Xian",
 			"local_name": "宜丰县"
 		},
 		"Yuanzhou Qu": {
-			"name": "Yuanzhou Qu",
 			"local_name": "袁州区"
 		},
 		"Zhangshu Shi": {
-			"name": "Zhangshu Shi",
 			"local_name": "樟树市"
 		}
 	}

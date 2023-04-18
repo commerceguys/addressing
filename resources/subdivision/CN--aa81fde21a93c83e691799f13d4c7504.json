@@ -8,23 +8,18 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Anju Qu": {
-			"name": "Anju Qu",
 			"local_name": "安居区"
 		},
 		"Chuanshan Qu": {
-			"name": "Chuanshan Qu",
 			"local_name": "船山区"
 		},
 		"Daying Xian": {
-			"name": "Daying Xian",
 			"local_name": "大英县"
 		},
 		"Pengxi Xian": {
-			"name": "Pengxi Xian",
 			"local_name": "蓬溪县"
 		},
 		"Shehong Xian": {
-			"name": "Shehong Xian",
 			"local_name": "射洪县"
 		}
 	}

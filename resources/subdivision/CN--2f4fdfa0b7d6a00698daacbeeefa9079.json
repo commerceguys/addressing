@@ -8,23 +8,18 @@
 	"locale": "zh-Hans",
 	"subdivisions": {
 		"Dianbai Qu": {
-			"name": "Dianbai Qu",
 			"local_name": "电白区"
 		},
 		"Gaozhou Shi": {
-			"name": "Gaozhou Shi",
 			"local_name": "高州市"
 		},
 		"Huazhou Shi": {
-			"name": "Huazhou Shi",
 			"local_name": "化州市"
 		},
 		"Maonan Qu": {
-			"name": "Maonan Qu",
 			"local_name": "茂南区"
 		},
 		"Xinyi Shi": {
-			"name": "Xinyi Shi",
 			"local_name": "信宜市"
 		}
 	}
