@@ -23,10 +23,10 @@ class SubdivisionUpdater
         // A list of all country codes defined in getUpdateMap(), duplicated here
         // to avoid retrieving the entire map for countries that don't need it.
         $countryCodes = [
-            'AD', 'AE', 'AM', 'AR', 'BS', 'CL', 'CN', 'CU', 'CV', 'EG', 'ES',
-            'ID', 'IE', 'IN', 'IR', 'JM', 'JP', 'KN', 'KP', 'KR', 'MX', 'MY',
-            'MZ', 'NG', 'NI', 'NR', 'PE', 'PH', 'RU', 'SR', 'SV', 'TH', 'TR',
-            'TV', 'TW', 'UA', 'UY', 'VE', 'VN',
+            'AD', 'AE', 'AM', 'AR', 'BS', 'CL', 'CN', 'CU', 'EG', 'ES', 'ID',
+            'IE', 'IN', 'IR', 'JM', 'JP', 'KN', 'KP', 'KR', 'MX', 'MY', 'MZ',
+            'NG', 'NI', 'NR', 'PE', 'PH', 'RU', 'SR', 'SV', 'TH', 'TR', 'TV',
+            'TW', 'UA', 'UY', 'VE', 'VN',
         ];
         if (in_array($countryCode, $countryCodes) && strlen($value) > 2) {
             $map = self::getUpdateMap();
@@ -208,13 +208,6 @@ class SubdivisionUpdater
               'Sancti Spíritus' => '07',
               'Santiago de Cuba' => '13',
               'Villa Clara' => '05',
-            ],
-            'CV' => [
-              'Boa Vista' => 'BV',
-              'Brava' => 'BR',
-              'Maio' => 'MA',
-              'Sal' => 'SL',
-              'São Vicente' => 'SV',
             ],
             'EG' => [
               'Aswan Governorate' => 'ASN',

@@ -1,24 +1,14 @@
 {
 	"country_code": "CV",
 	"subdivisions": {
-		"BV": {
-			"name": "Boa Vista"
-		},
-		"BR": {
-			"name": "Brava"
-		},
+		"Boa Vista": [],
+		"Brava": [],
 		"Fogo": [],
-		"MA": {
-			"name": "Maio"
-		},
-		"SL": {
-			"name": "Sal"
-		},
+		"Maio": [],
+		"Sal": [],
 		"Santiago": [],
 		"Santo Antão": [],
 		"São Nicolau": [],
-		"SV": {
-			"name": "São Vicente"
-		}
+		"São Vicente": []
 	}
 }
