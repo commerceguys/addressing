@@ -57,25 +57,19 @@ class AddressFormat
                 throw new \InvalidArgumentException(sprintf('Missing required property %s.', $requiredProperty));
             }
         }
-        // Add defaults for properties that are allowed to be empty.
-        $definition += [
-            'locale' => null,
-            'local_format' => null,
-            'required_fields' => [],
-            'uppercase_fields' => [],
-            'postal_code_pattern' => null,
-            'postal_code_prefix' => null,
-            'subdivision_depth' => 0,
-        ];
-        AddressField::assertAllExist($definition['required_fields']);
-        AddressField::assertAllExist($definition['uppercase_fields']);
         $this->countryCode = $definition['country_code'];
-        $this->locale = $definition['locale'];
+        $this->locale = $definition['locale'] ?? null;
         $this->format = $definition['format'];
-        $this->localFormat = $definition['local_format'];
-        $this->requiredFields = $definition['required_fields'];
-        $this->uppercaseFields = $definition['uppercase_fields'];
-        $this->subdivisionDepth = $definition['subdivision_depth'];
+        $this->localFormat = $definition['local_format'] ?? null;
+        if (isset($definition['required_fields'])) {
+            AddressField::assertAllExist($definition['required_fields']);
+            $this->requiredFields = $definition['required_fields'];
+        }
+        if (isset($definition['uppercase_fields'])) {
+            AddressField::assertAllExist($definition['uppercase_fields']);
+            $this->uppercaseFields = $definition['uppercase_fields'];
+        }
+        $this->subdivisionDepth = $definition['subdivision_depth'] ?? 0;
 
         $usedFields = $this->getUsedFields();
         if (in_array(AddressField::ADMINISTRATIVE_AREA, $usedFields)) {
@@ -101,8 +95,8 @@ class AddressFormat
                 PostalCodeType::assertExists($definition['postal_code_type']);
                 $this->postalCodeType = $definition['postal_code_type'];
             }
-            $this->postalCodePattern = $definition['postal_code_pattern'];
-            $this->postalCodePrefix = $definition['postal_code_prefix'];
+            $this->postalCodePattern = $definition['postal_code_pattern'] ?? null;
+            $this->postalCodePrefix = $definition['postal_code_prefix'] ?? null;
         }
     }
 

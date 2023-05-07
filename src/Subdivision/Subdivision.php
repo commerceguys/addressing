@@ -47,33 +47,24 @@ class Subdivision
     {
         // Validate the presence of required properties.
         $requiredProperties = [
-            'country_code', 'id', 'name',
+            'country_code', 'id', 'code', 'name',
         ];
         foreach ($requiredProperties as $requiredProperty) {
             if (empty($definition[$requiredProperty])) {
                 throw new \InvalidArgumentException(sprintf('Missing required property %s.', $requiredProperty));
             }
         }
-        // Add defaults for properties that are allowed to be empty.
-        $definition += [
-            'parent' => null,
-            'locale' => null,
-            'local_code' => null,
-            'local_name' => null,
-            'postal_code_pattern' => null,
-            'children' => new ArrayCollection(),
-        ];
 
-        $this->parent = $definition['parent'];
+        $this->parent = $definition['parent'] ?? null;
         $this->countryCode = $definition['country_code'];
         $this->id = $definition['id'];
-        $this->locale = $definition['locale'];
+        $this->locale = $definition['locale'] ?? null;
         $this->code = $definition['code'];
-        $this->localCode = $definition['local_code'];
+        $this->localCode = $definition['local_code'] ?? null;
         $this->name = $definition['name'];
-        $this->localName = $definition['local_name'];
-        $this->postalCodePattern = $definition['postal_code_pattern'];
-        $this->children = $definition['children'];
+        $this->localName = $definition['local_name'] ?? null;
+        $this->postalCodePattern = $definition['postal_code_pattern'] ?? null;
+        $this->children = $definition['children'] ?? new ArrayCollection();
     }
 
     /**
