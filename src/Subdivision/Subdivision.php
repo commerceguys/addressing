@@ -21,13 +21,13 @@ class Subdivision
 
     protected string $code;
 
-    protected ?string $localCode;
+    protected ?string $localCode = null;
 
     protected string $name;
 
-    protected ?string $localName;
+    protected ?string $localName = null;
 
-    protected ?string $postalCodePattern;
+    protected ?string $postalCodePattern = null;
 
     /**
      * The children.
@@ -36,7 +36,7 @@ class Subdivision
      */
     protected Collection $children;
 
-    protected ?string $locale;
+    protected ?string $locale = null;
 
     /**
      * Creates a new Subdivision instance.

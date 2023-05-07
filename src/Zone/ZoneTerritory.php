@@ -10,13 +10,13 @@ use CommerceGuys\Addressing\PostalCodeHelper;
  */
 class ZoneTerritory
 {
-    protected ?string $countryCode;
+    protected string $countryCode;
 
-    protected ?string $administrativeArea;
+    protected ?string $administrativeArea = null;
 
-    protected ?string $locality;
+    protected ?string $locality = null;
 
-    protected ?string $dependentLocality;
+    protected ?string $dependentLocality = null;
 
     /**
      * The included postal codes.
@@ -24,7 +24,7 @@ class ZoneTerritory
      * Can be a regular expression ("/(35|38)[0-9]{3}/") or a comma-separated
      * list of postal codes, including ranges ("98, 100:200, 250").
      */
-    protected ?string $includedPostalCodes;
+    protected ?string $includedPostalCodes = null;
 
     /**
      * The excluded postal codes.
@@ -32,8 +32,7 @@ class ZoneTerritory
      * Can be a regular expression ("/(35|38)[0-9]{3}/") or a comma-separated
      * list of postal codes, including ranges ("98, 100:200, 250").
      */
-    protected ?string $excludedPostalCodes;
-
+    protected ?string $excludedPostalCodes = null;
 
     public function __construct(array $definition)
     {

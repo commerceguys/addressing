@@ -9,11 +9,11 @@ class AddressFormat
 {
     protected string $countryCode;
 
-    protected ?string $locale;
+    protected ?string $locale = null;
 
     protected string $format;
 
-    protected ?string $localFormat;
+    protected ?string $localFormat = null;
 
     protected array $usedFields = [];
 
@@ -29,17 +29,17 @@ class AddressFormat
      */
     protected array $uppercaseFields = [];
 
-    protected ?string $administrativeAreaType;
+    protected ?string $administrativeAreaType = null;
 
-    protected string $localityType;
+    protected ?string $localityType = null;
 
     protected ?string $dependentLocalityType = null;
 
-    protected string $postalCodeType;
+    protected ?string $postalCodeType = null;
 
-    protected ?string $postalCodePattern;
+    protected ?string $postalCodePattern = null;
 
-    protected ?string $postalCodePrefix;
+    protected ?string $postalCodePrefix = null;
 
     /**
      * The subdivision depth.
