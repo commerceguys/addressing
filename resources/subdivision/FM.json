@@ -1,0 +1,17 @@
+{
+	"country_code": "FM",
+	"subdivisions": {
+		"TRK": {
+			"name": "Chuuk"
+		},
+		"KSA": {
+			"name": "Kosrae"
+		},
+		"PNI": {
+			"name": "Pohnpei"
+		},
+		"YAP": {
+			"name": "Yap"
+		}
+	}
+}

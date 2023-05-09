@@ -192,6 +192,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%locality, %administrativeArea %postalCode",
                 'administrative_area_type' => 'parish',
                 'postal_code_pattern' => 'BB\d{5}',
+                'subdivision_depth' => 1,
             ],
             'BD' => [
                 'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%locality - %postalCode",
@@ -455,6 +456,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'administrative_area_type' => 'state',
                 'postal_code_type' => 'zip',
                 'postal_code_pattern' => '(9694[1-4])(?:[ \-](\d{4}))?',
+                'subdivision_depth' => 1,
             ],
             'FO' => [
                 'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode %locality",
@@ -756,6 +758,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                     'addressLine1', 'addressLine2', 'locality', 'familyName', 'additionalName', 'givenName', 'organization', 'administrativeArea',
                 ],
                 'administrative_area_type' => 'island',
+                'subdivision_depth' => 1,
             ],
             'KM' => [
                 'uppercase_fields' => [
@@ -1089,6 +1092,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'uppercase_fields' => [
                     'locality', 'administrativeArea',
                 ],
+                'subdivision_depth' => 1,
             ],
             'PE' => [
                 'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%locality %postalCode\n%administrativeArea",

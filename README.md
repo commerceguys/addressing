@@ -10,7 +10,7 @@ Manipulates postal addresses, meant to identify a precise recipient location for
 Features:
 - Countries, with translations for over 250 locales. Powered by [CLDR](http://cldr.unicode.org) v43.
 - Address formats for over 200 countries
-- Subdivisions (administrative areas, localities, dependent localities) for 44 countries
+- Subdivisions (administrative areas, localities, dependent localities) for 56 countries
 - Both latin and local subdivision names, when relevant (e.g: Okinawa / 沖縄県)
 - Formatting, in HTML or plain text.
 - Validation via symfony/validator
