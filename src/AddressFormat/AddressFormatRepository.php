@@ -1118,6 +1118,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                     'addressLine1', 'locality', 'administrativeArea',
                 ],
                 'postal_code_pattern' => '\d{3}',
+                'subdivision_depth' => 1,
             ],
             'PH' => [
                 'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%dependentLocality, %locality\n%postalCode %administrativeArea",
@@ -1246,6 +1247,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                     'administrativeArea',
                 ],
                 'administrative_area_type' => 'island',
+                'subdivision_depth' => 1,
             ],
             'SD' => [
                 'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%locality\n%postalCode",
@@ -1436,6 +1438,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'administrative_area_type' => 'state',
                 'postal_code_type' => 'zip',
                 'postal_code_pattern' => '96898',
+                'subdivision_depth' => 1,
             ],
             'US' => [
                 'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%locality, %administrativeArea %postalCode",
