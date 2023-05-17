@@ -140,14 +140,13 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'subdivision_depth' => 1,
             ],
             'AS' => [
-                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%locality %administrativeArea %postalCode",
+                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%locality %postalCode",
                 'required_fields' => [
-                    'addressLine1', 'locality', 'administrativeArea', 'postalCode',
+                    'addressLine1', 'locality', 'postalCode',
                 ],
                 'uppercase_fields' => [
-                    'addressLine1', 'addressLine2', 'locality', 'familyName', 'additionalName', 'givenName', 'organization', 'administrativeArea',
+                    'addressLine1', 'addressLine2', 'locality', 'familyName', 'additionalName', 'givenName', 'organization',
                 ],
-                'administrative_area_type' => 'state',
                 'postal_code_type' => 'zip',
                 'postal_code_pattern' => '(96799)(?:[ \-](\d{4}))?',
             ],
@@ -929,14 +928,13 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 ],
             ],
             'MP' => [
-                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%locality %administrativeArea %postalCode",
+                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%locality %postalCode",
                 'required_fields' => [
-                    'addressLine1', 'locality', 'administrativeArea', 'postalCode',
+                    'addressLine1', 'locality', 'postalCode',
                 ],
                 'uppercase_fields' => [
-                    'addressLine1', 'addressLine2', 'locality', 'familyName', 'additionalName', 'givenName', 'organization', 'administrativeArea',
+                    'addressLine1', 'addressLine2', 'locality', 'familyName', 'additionalName', 'givenName', 'organization',
                 ],
-                'administrative_area_type' => 'state',
                 'postal_code_type' => 'zip',
                 'postal_code_pattern' => '(9695[012])(?:[ \-](\d{4}))?',
             ],
@@ -1496,14 +1494,13 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'postal_code_pattern' => 'VG\d{4}',
             ],
             'VI' => [
-                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%locality %administrativeArea %postalCode",
+                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%locality %postalCode",
                 'required_fields' => [
-                    'addressLine1', 'locality', 'administrativeArea', 'postalCode',
+                    'addressLine1', 'locality', 'postalCode',
                 ],
                 'uppercase_fields' => [
-                    'addressLine1', 'addressLine2', 'locality', 'familyName', 'additionalName', 'givenName', 'organization', 'administrativeArea',
+                    'addressLine1', 'addressLine2', 'locality', 'familyName', 'additionalName', 'givenName', 'organization',
                 ],
-                'administrative_area_type' => 'state',
                 'postal_code_type' => 'zip',
                 'postal_code_pattern' => '(008(?:(?:[0-4]\d)|(?:5[01])))(?:[ \-](\d{4}))?',
             ],
