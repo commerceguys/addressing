@@ -283,9 +283,9 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'subdivision_depth' => 1,
             ],
             'CC' => [
-                'format' => "%organization\n%givenName %familyName\n%addressLine1\n%addressLine2\n%addressLine3\n%locality %administrativeArea %postalCode",
+                'format' => "%organization\n%givenName %familyName\n%addressLine1\n%addressLine2\n%addressLine3\n%locality %postalCode",
                 'uppercase_fields' => [
-                    'locality', 'administrativeArea',
+                    'locality',
                 ],
                 'postal_code_pattern' => '6799',
             ],
@@ -349,9 +349,9 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'subdivision_depth' => 1,
             ],
             'CX' => [
-                'format' => "%organization\n%givenName %familyName\n%addressLine1\n%addressLine2\n%addressLine3\n%locality %administrativeArea %postalCode",
+                'format' => "%organization\n%givenName %familyName\n%addressLine1\n%addressLine2\n%addressLine3\n%locality %postalCode",
                 'uppercase_fields' => [
-                    'locality', 'administrativeArea',
+                    'locality',
                 ],
                 'postal_code_pattern' => '6798',
             ],
@@ -589,9 +589,9 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'subdivision_depth' => 2,
             ],
             'HM' => [
-                'format' => "%organization\n%givenName %familyName\n%addressLine1\n%addressLine2\n%addressLine3\n%locality %administrativeArea %postalCode",
+                'format' => "%organization\n%givenName %familyName\n%addressLine1\n%addressLine2\n%addressLine3\n%locality %postalCode",
                 'uppercase_fields' => [
-                    'locality', 'administrativeArea',
+                    'locality',
                 ],
                 'postal_code_pattern' => '\d{4}',
             ],
@@ -1026,9 +1026,9 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'postal_code_pattern' => '\d{4}',
             ],
             'NF' => [
-                'format' => "%organization\n%givenName %familyName\n%addressLine1\n%addressLine2\n%addressLine3\n%locality %administrativeArea %postalCode",
+                'format' => "%organization\n%givenName %familyName\n%addressLine1\n%addressLine2\n%addressLine3\n%locality %postalCode",
                 'uppercase_fields' => [
-                    'locality', 'administrativeArea',
+                    'locality',
                 ],
                 'postal_code_pattern' => '2899',
             ],
