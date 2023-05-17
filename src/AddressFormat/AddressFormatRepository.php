@@ -268,6 +268,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
             ],
             'BY' => [
                 'format' => "%organization\n%familyName %givenName %additionalName\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode, %locality\n%administrativeArea",
+                'administrative_area_type' => 'region',
                 'postal_code_pattern' => '\d{6}',
             ],
             'CA' => [
@@ -1226,7 +1227,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'uppercase_fields' => [
                     'addressLine1', 'addressLine2', 'locality',
                 ],
-                'administrative_area_type' => 'oblast',
+                'administrative_area_type' => 'region',
                 'postal_code_pattern' => '\d{6}',
                 'subdivision_depth' => 1,
             ],
@@ -1420,7 +1421,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'required_fields' => [
                     'addressLine1', 'locality', 'postalCode',
                 ],
-                'administrative_area_type' => 'oblast',
+                'administrative_area_type' => 'region',
                 'postal_code_pattern' => '\d{5}',
                 'subdivision_depth' => 1,
             ],

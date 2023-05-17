@@ -19,7 +19,6 @@ final class AdministrativeAreaType extends AbstractEnum
     public const DO_SI = 'do_si';
     public const EMIRATE = 'emirate';
     public const ISLAND = 'island';
-    public const OBLAST = 'oblast';
     public const PARISH = 'parish';
     public const PREFECTURE = 'prefecture';
     public const PROVINCE = 'province';
