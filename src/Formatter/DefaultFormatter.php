@@ -211,13 +211,13 @@ class DefaultFormatter implements FormatterInterface
     }
 
     /**
-     * Removes empty lines, leading punctuation, excess whitespace.
+     * Removes empty lines, leading/trailing punctuation, excess whitespace.
      */
     protected function cleanupOutput(string $output): string
     {
         $lines = explode("\n", $output);
         foreach ($lines as $index => $line) {
-            $line = trim(preg_replace('/^[-,]+/', '', $line, 1));
+            $line = trim($line, ' -,');
             $line = preg_replace('/\s\s+/', ' ', $line);
             $lines[$index] = $line;
         }

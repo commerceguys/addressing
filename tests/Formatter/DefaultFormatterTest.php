@@ -266,6 +266,65 @@ final class DefaultFormatterTest extends TestCase
     }
 
     /**
+     * @covers \CommerceGuys\Addressing\Formatter\DefaultFormatter
+     */
+    public function testUruguayAddress(): void
+    {
+        $address = new Address();
+        $address = $address
+            ->withCountryCode('UY')
+            ->withAdministrativeArea('CA')
+            ->withLocality('Pando')
+            ->withPostalCode('15600')
+            ->withAddressLine1('Some Street 12');
+
+        $expectedHtmlLines = [
+            '<p translate="no">',
+            '<span class="address-line1">Some Street 12</span><br>',
+            '<span class="postal-code">15600</span> - <span class="locality">Pando</span>, <span class="administrative-area">Canelones</span><br>',
+            '<span class="country">Uruguay</span>',
+            '</p>',
+        ];
+        $htmlAddress = $this->formatter->format($address);
+        $this->assertFormattedAddress($expectedHtmlLines, $htmlAddress);
+
+        $expectedTextLines = [
+            'Some Street 12',
+            '15600 - Pando, Canelones',
+            'Uruguay',
+        ];
+        $textAddress = $this->formatter->format($address, ['html' => false]);
+        $this->assertFormattedAddress($expectedTextLines, $textAddress);
+
+        // A formatted address without an administrative area should not have a
+        // trailing comma after the locality.
+        $address = new Address();
+        $address = $address
+            ->withCountryCode('UY')
+            ->withLocality('Canelones')
+            ->withPostalCode('90000')
+            ->withAddressLine1('Some Street 12');
+
+        $expectedHtmlLines = [
+            '<p translate="no">',
+            '<span class="address-line1">Some Street 12</span><br>',
+            '<span class="postal-code">90000</span> - <span class="locality">Canelones</span><br>',
+            '<span class="country">Uruguay</span>',
+            '</p>',
+        ];
+        $htmlAddress = $this->formatter->format($address);
+        $this->assertFormattedAddress($expectedHtmlLines, $htmlAddress);
+
+        $expectedTextLines = [
+            'Some Street 12',
+            '90000 - Canelones',
+            'Uruguay',
+        ];
+        $textAddress = $this->formatter->format($address, ['html' => false]);
+        $this->assertFormattedAddress($expectedTextLines, $textAddress);
+    }
+
+    /**
      * Asserts that the formatted address is valid.
      */
     protected function assertFormattedAddress(array $expectedLines, string $formattedAddress): void
