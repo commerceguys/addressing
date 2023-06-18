@@ -1,0 +1,59 @@
+{
+	"country_code": "PY",
+	"subdivisions": {
+		"16": {
+			"name": "Alto Paraguay"
+		},
+		"10": {
+			"name": "Alto Paraná"
+		},
+		"13": {
+			"name": "Amambay"
+		},
+		"ASU": {
+			"name": "Asunción"
+		},
+		"19": {
+			"name": "Boquerón"
+		},
+		"5": {
+			"name": "Caaguazú"
+		},
+		"6": {
+			"name": "Caazapá"
+		},
+		"14": {
+			"name": "Canindeyú"
+		},
+		"11": {
+			"name": "Central"
+		},
+		"1": {
+			"name": "Concepción"
+		},
+		"3": {
+			"name": "Cordillera"
+		},
+		"4": {
+			"name": "Guairá"
+		},
+		"7": {
+			"name": "Itapúa"
+		},
+		"8": {
+			"name": "Misiones"
+		},
+		"9": {
+			"name": "Paraguarí"
+		},
+		"15": {
+			"name": "Presidente Hayes"
+		},
+		"2": {
+			"name": "San Pedro"
+		},
+		"12": {
+			"name": "Ñeembucú"
+		}
+	}
+}
