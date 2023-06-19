@@ -129,21 +129,21 @@ final class PostalLabelFormatterTest extends TestCase
     {
         $address = new Address();
         $address = $address
-            ->withCountryCode('CH')
-            ->withLocality('Herrliberg')
-            ->withPostalCode('8047');
+            ->withCountryCode('HR')
+            ->withLocality('Zagreb')
+            ->withPostalCode('10105');
 
         // Domestic mail shouldn't have the postal code prefix added.
         $expectedLines = [
-            '8047 Herrliberg',
+            '10105 ZAGREB',
         ];
-        $formattedAddress = $this->formatter->format($address, ['origin_country' => 'CH']);
+        $formattedAddress = $this->formatter->format($address, ['origin_country' => 'HR']);
         $this->assertFormattedAddress($expectedLines, $formattedAddress);
 
         // International mail should have the postal code prefix added.
         $expectedLines = [
-            'CH-8047 Herrliberg',
-            'SWITZERLAND',
+            'HR-10105 ZAGREB',
+            'CROATIA',
         ];
         $formattedAddress = $this->formatter->format($address, ['origin_country' => 'FR']);
         $this->assertFormattedAddress($expectedLines, $formattedAddress);

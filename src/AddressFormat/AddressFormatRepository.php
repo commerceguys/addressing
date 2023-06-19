@@ -295,7 +295,6 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 ],
                 'uppercase_fields' => [],
                 'postal_code_pattern' => '\d{4}',
-                'postal_code_prefix' => 'CH-',
             ],
             'CI' => [
                 'format' => "%givenName %familyName\n%organization\n%sortingCode %addressLine1\n%addressLine2\n%addressLine3 %locality %sortingCode",
