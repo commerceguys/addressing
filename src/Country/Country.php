@@ -17,14 +17,14 @@ final class Country
     /**
      * The three-letter country code.
      */
-    protected string $threeLetterCode;
+    protected ?string $threeLetterCode = null;
 
     /**
      * The numeric country code.
      */
-    protected string $numericCode;
+    protected ?string $numericCode = null;
 
-    protected string $currencyCode;
+    protected ?string $currencyCode = null;
 
     /**
      * The locale (i.e. "en_US").
