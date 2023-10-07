@@ -15,6 +15,7 @@ final class LocalityType extends AbstractEnum
     public const DISTRICT = 'district';
     public const POST_TOWN = 'post_town';
     public const SUBURB = 'suburb';
+    public const TOWN_CITY = 'town_city';
 
     public static function getDefault(): string
     {
