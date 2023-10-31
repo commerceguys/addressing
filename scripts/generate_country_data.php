@@ -293,6 +293,10 @@ function prepare_currencies(array $currencies): array
     $currencies = array_filter($currencies, static function ($currency) {
         return !isset($currency['_tender']) || $currency['_tender'] != 'false';
     });
+    // Remove ex-currencies.
+    $currencies = array_filter($currencies, static function ($currency) {
+        return !isset($currency['_to']);
+    });
     // Sort by _from date.
     uasort($currencies, 'compare_from_dates');
 
