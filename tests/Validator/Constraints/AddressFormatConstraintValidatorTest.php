@@ -8,7 +8,6 @@ use CommerceGuys\Addressing\AddressFormat\FieldOverride;
 use CommerceGuys\Addressing\AddressFormat\FieldOverrides;
 use CommerceGuys\Addressing\Validator\Constraints\AddressFormatConstraint;
 use CommerceGuys\Addressing\Validator\Constraints\AddressFormatConstraintValidator;
-use Symfony\Component\Validator\Constraints\NotNull;
 use Symfony\Component\Validator\Test\ConstraintValidatorTestCase;
 
 /**
@@ -16,11 +15,6 @@ use Symfony\Component\Validator\Test\ConstraintValidatorTestCase;
  */
 final class AddressFormatConstraintValidatorTest extends ConstraintValidatorTestCase
 {
-    /**
-     * @var AddressFormatConstraint
-     */
-    protected $constraint;
-
     /**
      * {@inheritdoc}
      */
