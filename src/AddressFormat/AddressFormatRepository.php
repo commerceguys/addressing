@@ -1079,6 +1079,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'required_fields' => [
                     'addressLine1', 'locality', 'postalCode',
                 ],
+                'locality_type' => 'town_city',
                 'postal_code_pattern' => '\d{4}',
             ],
             'OM' => [
