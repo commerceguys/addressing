@@ -807,8 +807,12 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'subdivision_depth' => 1,
             ],
             'KZ' => [
-                'format' => "%postalCode\n%administrativeArea\n%locality\n%addressLine1\n%addressLine2\n%addressLine3\n%organization\n%familyName %givenName %additionalName",
-                'postal_code_pattern' => '\d{6}',
+                'format' => "%familyName %givenName %additionalName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode, %locality\n%administrativeArea",
+                'required_fields' => [
+                    'addressLine1', 'locality', 'postalCode',
+                ],
+                'administrative_area_type' => 'region',
+                'postal_code_pattern' => '\d{5}|[A-Z0-9]{7}',
             ],
             'LA' => [
                 'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode %locality",
