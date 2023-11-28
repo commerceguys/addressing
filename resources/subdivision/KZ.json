@@ -1,0 +1,86 @@
+{
+	"country_code": "KZ",
+	"locale": "kk",
+	"subdivisions": {
+		"10": {
+			"name": "Abai Region",
+			"local_name": "Abay oblysy"
+		},
+		"11": {
+			"name": "Akmola Region",
+			"local_name": "Aqmola oblysy"
+		},
+		"15": {
+			"name": "Aktobe Region",
+			"local_name": "Aqtöbe oblysy"
+		},
+		"75": {
+			"name": "Almaty",
+			"local_name": "Almaty"
+		},
+		"19": {
+			"name": "Almaty Region",
+			"local_name": "Almaty oblysy"
+		},
+		"71": {
+			"name": "Astana",
+			"local_name": "Astana"
+		},
+		"23": {
+			"name": "Atyrau Region",
+			"local_name": "Atyraū oblysy"
+		},
+		"63": {
+			"name": "East Kazakhstan Region",
+			"local_name": "Shyghys Qazaqstan oblysy"
+		},
+		"31": {
+			"name": "Jambyl Region",
+			"local_name": "Zhambyl oblysy"
+		},
+		"33": {
+			"name": "Jetisu Region",
+			"local_name": "Zhetisū oblysy"
+		},
+		"35": {
+			"name": "Karaganda Region",
+			"local_name": "Qaraghandy oblysy"
+		},
+		"39": {
+			"name": "Kostanay Region",
+			"local_name": "Qostanay oblysy"
+		},
+		"43": {
+			"name": "Kyzylorda Region",
+			"local_name": "Qyzylorda oblysy"
+		},
+		"47": {
+			"name": "Mangystau Region",
+			"local_name": "Mangghystaū oblysy"
+		},
+		"59": {
+			"name": "North Kazakhstan Region",
+			"local_name": "Soltüstik Qazaqstan oblysy"
+		},
+		"55": {
+			"name": "Pavlodar Region",
+			"local_name": "Pavlodar oblysy"
+		},
+		"79": {
+			"name": "Shymkent",
+			"local_name": "Shymkent"
+		},
+		"61": {
+			"name": "Turkistan Region",
+			"local_name": "Türkistan oblysy"
+		},
+		"62": {
+			"name": "Ulytau Region",
+			"local_name": "Ulytaū oblysy"
+		},
+		"27": {
+			"name": "West Kazakhstan Region",
+			"local_name": "Batys Qazaqstan oblysy"
+		}
+	}
+}

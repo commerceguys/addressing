@@ -813,6 +813,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 ],
                 'administrative_area_type' => 'region',
                 'postal_code_pattern' => '\d{5}|[A-Z0-9]{7}',
+                'subdivision_depth' => 1,
             ],
             'LA' => [
                 'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode %locality",
