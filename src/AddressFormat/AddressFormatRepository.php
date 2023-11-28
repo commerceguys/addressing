@@ -812,7 +812,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                     'addressLine1', 'locality', 'postalCode',
                 ],
                 'administrative_area_type' => 'region',
-                'postal_code_pattern' => '\d{5}|[A-Z0-9]{7}',
+                'postal_code_pattern' => '\d{6}|[A-Z0-9]{7}',
                 'subdivision_depth' => 1,
             ],
             'LA' => [
