@@ -613,7 +613,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'postal_code_prefix' => 'HT',
             ],
             'HU' => [
-                'format' => "%familyName %givenName\n%organization\n%locality\n%addressLine1\n%addressLine2\n%addressLine3\n%administrativeArea %postalCode",
+                'format' => "%familyName %givenName\n%organization\n%administrativeArea\n%postalCode %locality\n%addressLine1\n%addressLine2\n%addressLine3",
                 'required_fields' => [
                     'addressLine1', 'locality', 'postalCode',
                 ],
