@@ -1271,9 +1271,12 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'postal_code_prefix' => 'SE-',
             ],
             'SG' => [
-                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode",
+                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%locality %postalCode",
                 'required_fields' => [
-                    'addressLine1', 'postalCode',
+                    'addressLine1', 'locality', 'postalCode',
+                ],
+                'default_values' => [
+                    'locality' => 'Singapore',
                 ],
                 'postal_code_pattern' => '\d{6}',
             ],
