@@ -17,12 +17,11 @@ final class AddressFormatTest extends TestCase
 {
     /**
      * @covers ::__construct
-     *
-     *
      */
-    public function testMissingProperty(): void
+    public function testMissingFormat(): void
     {
         $this->expectException(\InvalidArgumentException::class);
+        $this->expectExceptionMessage('Missing required property format.');
         $definition = [
             'country_code' => 'US',
         ];
@@ -31,12 +30,26 @@ final class AddressFormatTest extends TestCase
 
     /**
      * @covers ::__construct
-     *
-     *
      */
-    public function testInvalidSubdivision(): void
+    public function testInvalidDefaultValue(): void
     {
         $this->expectException(\InvalidArgumentException::class);
+        $this->expectExceptionMessage('"unknown" is not a valid AddressField value.');
+        $definition = [
+            'country_code' => 'US',
+            'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%dependentLocality",
+            'default_values' => ['unknown' => 'CA'],
+        ];
+        $addressFormat = new AddressFormat($definition);
+    }
+
+    /**
+     * @covers ::__construct
+     */
+    public function testInvalidDependentLocalityType(): void
+    {
+        $this->expectException(\InvalidArgumentException::class);
+        $this->expectExceptionMessage('"WRONG" is not a valid DependentLocalityType value.');
         $definition = [
             'country_code' => 'US',
             'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%dependentLocality",
@@ -56,6 +69,7 @@ final class AddressFormatTest extends TestCase
      * @covers ::getUsedSubdivisionFields
      * @covers ::getRequiredFields
      * @covers ::getUppercaseFields
+     * @covers ::getDefaultValues
      * @covers ::getAdministrativeAreaType
      * @covers ::getLocalityType
      * @covers ::getDependentLocalityType
@@ -82,6 +96,9 @@ final class AddressFormatTest extends TestCase
                 AddressField::ADMINISTRATIVE_AREA,
                 AddressField::LOCALITY,
             ],
+            'default_values' => [
+                AddressField::ADMINISTRATIVE_AREA => 'CA',
+            ],
             'administrative_area_type' => AdministrativeAreaType::STATE,
             'locality_type' => LocalityType::CITY,
             'dependent_locality_type' => DependentLocalityType::DISTRICT,
@@ -99,6 +116,7 @@ final class AddressFormatTest extends TestCase
         $this->assertEquals($definition['local_format'], $addressFormat->getLocalFormat());
         $this->assertEquals($definition['required_fields'], $addressFormat->getRequiredFields());
         $this->assertEquals($definition['uppercase_fields'], $addressFormat->getUppercaseFields());
+        $this->assertEquals($definition['default_values'], $addressFormat->getDefaultValues());
         $this->assertEquals($definition['administrative_area_type'], $addressFormat->getAdministrativeAreaType());
         $this->assertEquals($definition['locality_type'], $addressFormat->getLocalityType());
         // The format has no %dependentLocality, the type must be NULL.

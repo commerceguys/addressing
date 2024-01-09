@@ -29,6 +29,8 @@ class AddressFormat
      */
     protected array $uppercaseFields = [];
 
+    protected array $defaultValues = [];
+
     protected ?string $administrativeAreaType = null;
 
     protected ?string $localityType = null;
@@ -64,6 +66,10 @@ class AddressFormat
         if (isset($definition['required_fields'])) {
             AddressField::assertAllExist($definition['required_fields']);
             $this->requiredFields = $definition['required_fields'];
+        }
+        if (isset($definition['default_values'])) {
+            AddressField::assertAllExist(array_keys($definition['default_values']));
+            $this->defaultValues = $definition['default_values'];
         }
         if (isset($definition['uppercase_fields'])) {
             AddressField::assertAllExist($definition['uppercase_fields']);
@@ -211,10 +217,22 @@ class AddressFormat
 
     /**
      * Gets the list of fields that need to be uppercased.
+     *
+     * @return AddressField[]
      */
     public function getUppercaseFields(): array
     {
         return $this->uppercaseFields;
+    }
+
+    /**
+     * Gets the default values.
+     *
+     * @return array The default values, keyed by field name.
+     */
+    public function getDefaultValues(): array
+    {
+        return $this->defaultValues;
     }
 
     /**
