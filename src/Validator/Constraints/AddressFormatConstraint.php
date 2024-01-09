@@ -16,6 +16,8 @@ class AddressFormatConstraint extends Constraint
 {
     public ?FieldOverrides $fieldOverrides = null;
 
+    public bool $validatePostalCode = true;
+
     public string $blankMessage = 'This value should be blank';
 
     public string $notBlankMessage = 'This value should not be blank';

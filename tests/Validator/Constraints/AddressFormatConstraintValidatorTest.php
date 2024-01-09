@@ -489,4 +489,24 @@ final class AddressFormatConstraintValidatorTest extends ConstraintValidatorTest
             ->setInvalidValue('INVALID')
             ->assertRaised();
     }
+
+    /**
+     * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatConstraintValidator
+     */
+    public function testNoPostalCodeValidation(): void
+    {
+        // Confirm that postal code validation is skipped.
+        $this->constraint->validatePostalCode = false;
+        $address = new Address();
+        $address = $address
+            ->withCountryCode('CN')
+            ->withAdministrativeArea('BJ')
+            ->withLocality('Xicheng Qu')
+            ->withAddressLine1('Yitiao Lu')
+            ->withGivenName('John')
+            ->withFamilyName('Smith')
+            ->withPostalCode('INVALID');
+        $this->validator->validate($address, $this->constraint);
+        $this->assertNoViolation();
+    }
 }

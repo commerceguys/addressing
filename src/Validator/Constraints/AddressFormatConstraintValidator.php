@@ -72,7 +72,7 @@ class AddressFormatConstraintValidator extends ConstraintValidator
 
         // Validate subdivisions and the postal code.
         $subdivisions = $this->validateSubdivisions($values, $addressFormat, $constraint);
-        if (in_array(AddressField::POSTAL_CODE, $usedFields)) {
+        if (in_array(AddressField::POSTAL_CODE, $usedFields) && $constraint->validatePostalCode) {
             $this->validatePostalCode($address->getPostalCode(), $subdivisions, $addressFormat, $constraint);
         }
     }
