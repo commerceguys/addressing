@@ -102,6 +102,22 @@
 			"name": "West Papua",
 			"local_name": "Papua Barat"
 		},
+		"PD": {
+			"name": "Southwest Papua",
+			"local_name": "Papua Barat Daya"
+		},
+		"PE": {
+			"name": "Highland Papua",
+			"local_name": "Papua Pengunungan"
+		},
+		"PS": {
+			"name": "South Papua",
+			"local_name": "Papua Selatan"
+		},
+		"PT": {
+			"name": "Central Papua",
+			"local_name": "Papua Tengah"
+		},
 		"RI": {
 			"name": "Riau",
 			"local_name": "Riau"
