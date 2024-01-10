@@ -1096,7 +1096,6 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'uppercase_fields' => [
                     'locality', 'administrativeArea',
                 ],
-                'administrative_area_type' => 'province',
                 'subdivision_depth' => 1,
             ],
             'PE' => [
