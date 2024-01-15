@@ -136,8 +136,11 @@
 		"LEY": {
 			"name": "Leyte"
 		},
-		"MAG": {
-			"name": "Maguindanao"
+		"MGN": {
+			"name": "Maguindanao del Norte"
+		},
+		"MGS": {
+			"name": "Maguindanao del Sur"
 		},
 		"MAD": {
 			"name": "Marinduque"
