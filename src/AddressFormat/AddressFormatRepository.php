@@ -301,6 +301,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
             ],
             'CL' => [
                 'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode %locality\n%administrativeArea",
+                'administrative_area_type' => 'region',
                 'postal_code_pattern' => '\d{7}',
                 'subdivision_depth' => 2,
             ],
