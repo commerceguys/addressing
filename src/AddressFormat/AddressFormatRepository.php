@@ -1102,7 +1102,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
             'PE' => [
                 'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%locality %postalCode\n%administrativeArea",
                 'locality_type' => 'district',
-                'postal_code_pattern' => '(?:LIMA \d{1,2}|CALLAO 0?\d)|[0-2]\d{4}',
+                'postal_code_pattern' => '[0-2]\d{4}',
                 'subdivision_depth' => 1,
             ],
             'PF' => [
