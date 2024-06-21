@@ -1104,7 +1104,7 @@ class SubdivisionUpdater
               'Zaporiz\'ka oblast' => '23',
               'Ivano-Frankivs\'ka oblast' => '26',
               'Kyiv city' => '30',
-              'Kyiv\'ska oblast' => '32',
+              'Kyivs\'ka oblast' => '32',
               'Kirovohrads\'ka oblast' => '35',
               'Luhans\'ka oblast' => '09',
               'Lvivs\'ka oblast' => '46',
