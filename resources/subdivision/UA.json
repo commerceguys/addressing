@@ -15,11 +15,11 @@
 			"local_name": "Волинська область"
 		},
 		"12": {
-			"name": "Dnipropetrovsk oblast",
+			"name": "Dnipropetrovs'ka oblast",
 			"local_name": "Дніпропетровська область"
 		},
 		"14": {
-			"name": "Donetsk oblast",
+			"name": "Donets'ka oblast",
 			"local_name": "Донецька область"
 		},
 		"18": {
@@ -45,7 +45,7 @@
 			"local_name": "Київ"
 		},
 		"32": {
-			"name": "Kiev oblast",
+			"name": "Kyivs'ka oblast",
 			"local_name": "Київська область"
 		},
 		"35": {
@@ -57,7 +57,7 @@
 			"local_name": "Луганська область"
 		},
 		"46": {
-			"name": "Lviv oblast",
+			"name": "Lvivs'ka oblast",
 			"local_name": "Львівська область"
 		},
 		"48": {
@@ -65,7 +65,7 @@
 			"local_name": "Миколаївська область"
 		},
 		"51": {
-			"name": "Odessa oblast",
+			"name": "Odes'ka oblast",
 			"local_name": "Одеська область"
 		},
 		"53": {
@@ -91,7 +91,7 @@
 			"local_name": "Тернопільська область"
 		},
 		"63": {
-			"name": "Kharkiv oblast",
+			"name": "Kharkivs'ka oblast",
 			"local_name": "Харківська область"
 		},
 		"65": {
