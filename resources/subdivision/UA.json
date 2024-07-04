@@ -3,115 +3,115 @@
 	"locale": "uk",
 	"subdivisions": {
 		"43": {
-			"name": "Crimea",
+			"name": "Avtonomna Respublika Krym",
 			"local_name": "Автономна Республіка Крим"
 		},
 		"05": {
-			"name": "Vinnyts'ka oblast",
+			"name": "Vinnytska oblast",
 			"local_name": "Вінницька область"
 		},
 		"07": {
-			"name": "Volyns'ka oblast",
+			"name": "Volynska oblast",
 			"local_name": "Волинська область"
 		},
 		"12": {
-			"name": "Dnipropetrovs'ka oblast",
+			"name": "Dnipropetrovska oblast",
 			"local_name": "Дніпропетровська область"
 		},
 		"14": {
-			"name": "Donets'ka oblast",
+			"name": "Donetska oblast",
 			"local_name": "Донецька область"
 		},
 		"18": {
-			"name": "Zhytomyrs'ka oblast",
+			"name": "Zhytomyrska oblast",
 			"local_name": "Житомирська область"
 		},
 		"21": {
-			"name": "Zakarpats'ka oblast",
+			"name": "Zakarpatska oblast",
 			"local_name": "Закарпатська область"
 		},
 		"23": {
-			"name": "Zaporiz'ka oblast",
+			"name": "Zaporizka oblast",
 			"local_name": "Запорізька область"
 		},
 		"26": {
-			"name": "Ivano-Frankivs'ka oblast",
+			"name": "Ivano-Frankivska oblast",
 			"local_name": "Івано-Франківська область"
 		},
 		"30": {
-			"code": "Kyiv city",
-			"local_code": "місто Київ",
-			"name": "Kyiv city",
+			"code": "Misto Kyiv",
+			"local_code": "Місто Київ",
+			"name": "Kyiv",
 			"local_name": "Київ"
 		},
 		"32": {
-			"name": "Kyivs'ka oblast",
+			"name": "Kyivska oblast",
 			"local_name": "Київська область"
 		},
 		"35": {
-			"name": "Kirovohrads'ka oblast",
+			"name": "Kirovohradska oblast",
 			"local_name": "Кіровоградська область"
 		},
 		"09": {
-			"name": "Luhans'ka oblast",
+			"name": "Luhanska oblast",
 			"local_name": "Луганська область"
 		},
 		"46": {
-			"name": "Lvivs'ka oblast",
+			"name": "Lvivska oblast",
 			"local_name": "Львівська область"
 		},
 		"48": {
-			"name": "Mykolaivs'ka oblast",
+			"name": "Mykolaivska oblast",
 			"local_name": "Миколаївська область"
 		},
 		"51": {
-			"name": "Odes'ka oblast",
+			"name": "Odeska oblast",
 			"local_name": "Одеська область"
 		},
 		"53": {
-			"name": "Poltavs'ka oblast",
+			"name": "Poltavska oblast",
 			"local_name": "Полтавська область"
 		},
 		"56": {
-			"name": "Rivnens'ka oblast",
+			"name": "Rivnenska oblast",
 			"local_name": "Рівненська область"
 		},
 		"40": {
-			"code": "Sevastopol' city",
-			"local_code": "місто Севастополь",
-			"name": "Sevastopol' city",
+			"code": "Misto Sevastopol",
+			"local_code": "Місто Севастополь",
+			"name": "Sevastopol",
 			"local_name": "Севастополь"
 		},
 		"59": {
-			"name": "Sums'ka oblast",
+			"name": "Sumska oblast",
 			"local_name": "Сумська область"
 		},
 		"61": {
-			"name": "Ternopil's'ka oblast",
+			"name": "Ternopilska oblast",
 			"local_name": "Тернопільська область"
 		},
 		"63": {
-			"name": "Kharkivs'ka oblast",
+			"name": "Kharkivska oblast",
 			"local_name": "Харківська область"
 		},
 		"65": {
-			"name": "Khersons'ka oblast",
+			"name": "Khersonska oblast",
 			"local_name": "Херсонська область"
 		},
 		"68": {
-			"name": "Khmel'nyts'ka oblast",
+			"name": "Khmelnytska oblast",
 			"local_name": "Хмельницька область"
 		},
 		"71": {
-			"name": "Cherkas'ka oblast",
+			"name": "Cherkaska oblast",
 			"local_name": "Черкаська область"
 		},
 		"77": {
-			"name": "Chernivets'ka oblast",
+			"name": "Chernivetska oblast",
 			"local_name": "Чернівецька область"
 		},
 		"74": {
-			"name": "Chernihivs'ka oblast",
+			"name": "Chernihivska oblast",
 			"local_name": "Чернігівська область"
 		}
 	}
