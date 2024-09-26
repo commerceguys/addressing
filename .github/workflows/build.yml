@@ -20,3 +20,15 @@ jobs:
           version: 9
         env:
           XDEBUG_MODE: coverage
+
+      - name: PHPUnit Tests PHP 8.4
+        uses: php-actions/phpunit@master
+        with:
+          bootstrap: vendor/autoload.php
+          configuration: phpunit.xml
+          args: --coverage-text
+          php_extensions: xdebug bcmath
+          php_version: 8.4
+          version: 9
+        env:
+          XDEBUG_MODE: coverage
