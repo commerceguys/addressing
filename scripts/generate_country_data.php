@@ -9,43 +9,26 @@ date_default_timezone_set('UTC');
 
 include __DIR__ . '/../vendor/autoload.php';
 
-$localeDirectory = __DIR__ . '/assets/cldr/cldr-json/cldr-localenames-modern/main/';
-$enCountries = $localeDirectory . 'en/territories.json';
-$codeMappings = __DIR__ . '/assets/cldr/cldr-json/cldr-core/supplemental/codeMappings.json';
-$currencyData = __DIR__ . '/assets/cldr/cldr-json/cldr-core/supplemental/currencyData.json';
-if (!file_exists($enCountries)) {
-    die("The $enCountries file was not found");
-}
-if (!file_exists($codeMappings)) {
-    die("The $codeMappings file was not found");
-}
-if (!file_exists($currencyData)) {
-    die("The $currencyData file was not found");
+$dataDirectory = __DIR__ . '/assets/cldr/cldr-json';
+if (!is_dir($dataDirectory)) {
+    die("The $dataDirectory directory was not found");
 }
 if (!function_exists('collator_create')) {
     // Reimplementing intl's collator would be a huge undertaking, so we
     // use it instead to presort the generated locale specific data.
     die('The intl extension was not found.');
 }
-if (!is_dir($localeDirectory)) {
-    die("The $localeDirectory directory was not found");
-}
-
-$codeMappings = json_decode(file_get_contents($codeMappings), true);
-$codeMappings = $codeMappings['supplemental']['codeMappings'];
-$currencyData = json_decode(file_get_contents($currencyData), true);
-$currencyData = $currencyData['supplemental']['currencyData'];
-$englishData = json_decode(file_get_contents($enCountries), true);
-$englishData = $englishData['main']['en']['localeDisplayNames']['territories'];
-
-$baseData = generate_base_data($englishData, $codeMappings, $currencyData);
-$localizations = generate_localizations($baseData, $englishData);
-$localizations = filter_duplicate_localizations($localizations);
-
 // Make sure we're starting from a clean slate.
 if (is_dir(__DIR__ . '/country')) {
     die('The country/ directory must not exist.');
 }
+
+$englishData = json_decode(file_get_contents($dataDirectory . '/cldr-localenames-full/main/en/territories.json'), true);
+$englishData = $englishData['main']['en']['localeDisplayNames']['territories'];
+
+$baseData = generate_base_data($englishData, $dataDirectory);
+$localizations = generate_localizations($baseData, $englishData, $dataDirectory);
+$localizations = filter_duplicate_localizations($localizations);
 
 // Prepare the filesystem.
 if (!mkdir($concurrentDirectory = __DIR__ . '/country') && !is_dir($concurrentDirectory)) {
@@ -133,7 +116,7 @@ function export_locales(array $data): string
 /**
  * Generates the base data.
  */
-function generate_base_data(array $englishData, array $codeMappings, array $currencyData): array
+function generate_base_data(array $englishData, string $dataDirectory): array
 {
     $ignoredCountries = [
         'AN', // Netherlands Antilles, no longer exists.
@@ -141,6 +124,11 @@ function generate_base_data(array $englishData, array $codeMappings, array $curr
         'XA', 'XB',
         'ZZ', // Unknown region
     ];
+
+    $codeMappings = json_decode(file_get_contents($dataDirectory . '/cldr-core/supplemental/codeMappings.json'), true);
+    $codeMappings = $codeMappings['supplemental']['codeMappings'];
+    $currencyData = json_decode(file_get_contents($dataDirectory . '/cldr-core/supplemental/currencyData.json'), true);
+    $currencyData = $currencyData['supplemental']['currencyData'];
 
     $baseData = [];
     foreach ($englishData as $countryCode => $countryName) {
@@ -180,13 +168,11 @@ function generate_base_data(array $englishData, array $codeMappings, array $curr
 /**
  * Generates the localizations.
  */
-function generate_localizations(array $baseData, array $englishData): array
+function generate_localizations(array $baseData, array $englishData, string $dataDirectory): array
 {
-    global $localeDirectory;
-
     $localizations = [];
-    foreach (discover_locales() as $locale) {
-        $data = json_decode(file_get_contents($localeDirectory . $locale . '/territories.json'), true);
+    foreach (collect_locales($dataDirectory) as $locale) {
+        $data = json_decode(file_get_contents($dataDirectory . '/cldr-localenames-full/main/' . $locale . '/territories.json'), true);
         $data = $data['main'][$locale]['localeDisplayNames']['territories'];
         foreach ($data as $countryCode => $countryName) {
             if (isset($baseData[$countryCode])) {
@@ -233,13 +219,12 @@ function filter_duplicate_localizations(array $localizations): array
     return $localizations;
 }
 
+
 /**
  * Creates a list of available locales.
  */
-function discover_locales(): array
+function collect_locales(string $dataDirectory): array
 {
-    global $localeDirectory;
-
     // Locales listed without a "-" match all variants.
     // Locales listed with a "-" match only those exact ones.
     $ignoredLocales = [
@@ -251,25 +236,23 @@ function discover_locales(): array
         "be-tarask", "cu", "gv", "prg",
         // Valencian differs from its parent only by a single character (è/é).
         "ca-ES-valencia",
-        // Africa secondary languages.
-        "bm", "byn", "dje", "dyo", "ff", "ha", "shi", "vai", "wo", "yo",
         // Infrequently used locales.
-        "jv", "kn", "row", "sat", "sd", "to",
+        "jv", "kn", "sd", "yo",
     ];
 
-    // Gather available locales.
-    $locales = [];
-    if ($handle = opendir($localeDirectory)) {
-        while (false !== ($entry = readdir($handle))) {
-            if (!str_starts_with($entry, '.')) {
-                $entryParts = explode('-', $entry);
-                if (!in_array($entry, $ignoredLocales) && !in_array($entryParts[0], $ignoredLocales)) {
-                    $locales[] = $entry;
-                }
-            }
-        }
-        closedir($handle);
-    }
+    // Start from the list of locales with a "modern" coverage level.
+    $coverageLevels = json_decode(file_get_contents($dataDirectory . '/cldr-core/coverageLevels.json'), true);
+    $coverageLevels = array_filter($coverageLevels['effectiveCoverageLevels'], static function ($level) {
+        return $level == 'modern';
+    });
+    $locales = array_keys($coverageLevels);
+
+    // Remove ignored locales.
+    $locales = array_filter($locales, static function ($locale) use ($ignoredLocales) {
+        $localeParts = explode('-', $locale);
+
+        return !in_array($locale, $ignoredLocales) && !in_array($localeParts[0], $ignoredLocales);
+    });
 
     return $locales;
 }
