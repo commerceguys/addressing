@@ -237,7 +237,7 @@ function collect_locales(string $dataDirectory): array
         // Valencian differs from its parent only by a single character (è/é).
         "ca-ES-valencia",
         // Infrequently used locales.
-        "jv", "kn", "sd", "yo",
+        "jv", "kn", "ha", "pcm", "sd", "ti", "yo",
     ];
 
     // Start from the list of locales with a "modern" coverage level.
