@@ -1,0 +1,86 @@
+{
+  "country_code": "HU",
+  "locale": "hu",
+  "subdivisions": {
+    "BA": {
+      "name": "Baranya",
+      "local_name": "Baranya"
+    },
+    "BK": {
+      "name": "Bacs-Kiskun",
+      "local_name": "Bács-Kiskun"
+    },
+    "BE": {
+      "name": "Bekes",
+      "local_name": "Békés"
+    },
+    "BZ": {
+      "name": "Borsod-Abaúj-Zemplén",
+      "local_name": "Borsod-Abaúj-Zemplén"
+    },
+    "BU": {
+      "name": "Budapest",
+      "local_name": "Budapest"
+    },
+    "CS": {
+      "name": "Csongrad-Csanad",
+      "local_name": "Csongrád-Csanád"
+    },
+    "FE": {
+      "name": "Fejer",
+      "local_name": "Fejér"
+    },
+    "GS": {
+      "name": "Gyor-Moson-Sopron",
+      "local_name": "Győr-Moson-Sopron"
+    },
+    "HB": {
+      "name": "Hajdu-Bihar",
+      "local_name": "Hajdú-Bihar"
+    },
+    "HE": {
+      "name": "Heves",
+      "local_name": "Heves"
+    },
+    "JN": {
+      "name": "Jasz-Nagykun-Szolnok",
+      "local_name": "Jász-Nagykun-Szolnok"
+    },
+    "KE": {
+      "name": "Komarom-Esztergom",
+      "local_name": "Komárom-Esztergom"
+    },
+    "NO": {
+      "name": "Nograd",
+      "local_name": "Nógrád"
+    },
+    "PE": {
+      "name": "Pest",
+      "local_name": "Pest"
+    },
+    "SO": {
+      "name": "Somogy",
+      "local_name": "Somogy"
+    },
+    "SZ": {
+      "name": "Szabolcs-Szatmar-Bereg",
+      "local_name": "Szabolcs-Szatmár-Bereg"
+    },
+    "TO": {
+      "name": "Tolna",
+      "local_name": "Tolna"
+    },
+    "VA": {
+      "name": "Vas",
+      "local_name": "Vas"
+    },
+    "VE": {
+      "name": "Veszprem",
+      "local_name": "Veszprém"
+    },
+    "ZA": {
+      "name": "Zala",
+      "local_name": "Zala"
+    }
+  }
+}
