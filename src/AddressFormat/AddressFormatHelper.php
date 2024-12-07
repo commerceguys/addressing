@@ -26,7 +26,7 @@ final class AddressFormatHelper
      *               ]
      * @throws \ReflectionException
      */
-    public static function getGroupedFields(string $formatString, FieldOverrides $fieldOverrides = null): array
+    public static function getGroupedFields(string $formatString, ?FieldOverrides $fieldOverrides = null): array
     {
         $groupedFields = [];
         $hiddenFields = $fieldOverrides ? $fieldOverrides->getHiddenFields() : [];

@@ -34,5 +34,5 @@ interface SubdivisionRepositoryInterface
      *
      * @return array An array of subdivision names, keyed by code.
      */
-    public function getList(array $parents, string $locale = null): array;
+    public function getList(array $parents, ?string $locale = null): array;
 }
