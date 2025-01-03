@@ -75,7 +75,7 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
     public function getList(array $parents, string $locale = null): array
     {
         $definitions = $this->loadDefinitions($parents);
-        if (empty($definitions)) {
+        if (empty($definitions) || empty($definitions['subdivisions'])) {
             return [];
         }
 
