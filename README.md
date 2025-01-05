@@ -255,3 +255,4 @@ echo $zone->match($austrianAddress); // true
 # Integrations
 
 - [Drupal module](https://drupal.org/project/address)
+- [Symfony bundle](https://github.com/daften/addressing-bundle)
