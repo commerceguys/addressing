@@ -36,7 +36,7 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
      * @param AddressFormatRepositoryInterface|null $addressFormatRepository The address format repository.
      * @param null $definitionPath Path to the subdivision definitions.
      */
-    public function __construct(AddressFormatRepositoryInterface $addressFormatRepository = null, $definitionPath = null)
+    public function __construct(?AddressFormatRepositoryInterface $addressFormatRepository = null, $definitionPath = null)
     {
         $this->addressFormatRepository = $addressFormatRepository ?: new AddressFormatRepository();
         $this->definitionPath = $definitionPath ?: __DIR__ . '/../../resources/subdivision/';
@@ -72,7 +72,7 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
     /**
      * {@inheritdoc}
      */
-    public function getList(array $parents, string $locale = null): array
+    public function getList(array $parents, ?string $locale = null): array
     {
         $definitions = $this->loadDefinitions($parents);
         if (empty($definitions)) {

@@ -2,21 +2,23 @@ name: Build
 on: [push, pull_request]
 
 jobs:
-  build-test:
+  run:
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        php-versions: ['8.1', '8.2', '8.3', '8.4']
+    name: PHPUnit @ PHP ${{ matrix.php-versions }}
 
     steps:
       - uses: actions/checkout@v4
       - uses: php-actions/composer@v6
-
-      - name: PHPUnit Tests PHP 8.1
-        uses: php-actions/phpunit@master
+      - uses: php-actions/phpunit@master
         with:
           bootstrap: vendor/autoload.php
           configuration: phpunit.xml
           args: --coverage-text
           php_extensions: xdebug bcmath
-          php_version: 8.1
+          php_version: ${{ matrix.php-versions }}
           version: 9
         env:
           XDEBUG_MODE: coverage

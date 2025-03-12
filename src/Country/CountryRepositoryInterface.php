@@ -15,7 +15,7 @@ interface CountryRepositoryInterface
      *
      * @return Country
      */
-    public function get(string $countryCode, string $locale = null): Country;
+    public function get(string $countryCode, ?string $locale = null): Country;
 
     /**
      * Gets all countries.
@@ -24,7 +24,7 @@ interface CountryRepositoryInterface
      *
      * @return Country[] An array of countries, keyed by country code.
      */
-    public function getAll(string $locale = null): array;
+    public function getAll(?string $locale = null): array;
 
     /**
      * Gets a list of countries.
@@ -33,5 +33,5 @@ interface CountryRepositoryInterface
      *
      * @return string[] An array of country names, keyed by country code.
      */
-    public function getList(string $locale = null): array;
+    public function getList(?string $locale = null): array;
 }

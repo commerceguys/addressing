@@ -79,7 +79,7 @@ class CountryRepository implements CountryRepositoryInterface
      * @param string|null $definitionPath The path to the country definitions.
      *                               Defaults to 'resources/country'.
      */
-    public function __construct(string $defaultLocale = 'en', string $fallbackLocale = 'en', string $definitionPath = null)
+    public function __construct(string $defaultLocale = 'en', string $fallbackLocale = 'en', ?string $definitionPath = null)
     {
         $this->defaultLocale = $defaultLocale;
         $this->fallbackLocale = $fallbackLocale;
@@ -89,7 +89,7 @@ class CountryRepository implements CountryRepositoryInterface
     /**
      * {@inheritdoc}
      */
-    public function get(string $countryCode, string $locale = null): Country
+    public function get(string $countryCode, ?string $locale = null): Country
     {
         $countryCode = strtoupper($countryCode);
         $baseDefinitions = $this->getBaseDefinitions();
@@ -112,7 +112,7 @@ class CountryRepository implements CountryRepositoryInterface
     /**
      * {@inheritdoc}
      */
-    public function getAll(string $locale = null): array
+    public function getAll(?string $locale = null): array
     {
         $locale = $locale ?: $this->defaultLocale;
         $locale = Locale::resolve($this->availableLocales, $locale, $this->fallbackLocale);
@@ -136,7 +136,7 @@ class CountryRepository implements CountryRepositoryInterface
     /**
      * {@inheritdoc}
      */
-    public function getList(string $locale = null): array
+    public function getList(?string $locale = null): array
     {
         $locale = $locale ?: $this->defaultLocale;
         $locale = Locale::resolve($this->availableLocales, $locale, $this->fallbackLocale);
@@ -433,7 +433,7 @@ class CountryRepository implements CountryRepositoryInterface
             'YT' => ['MYT', '175', 'EUR'],
             'ZA' => ['ZAF', '710', 'ZAR'],
             'ZM' => ['ZMB', '894', 'ZMW'],
-            'ZW' => ['ZWE', '716', 'USD'],
+            'ZW' => ['ZWE', '716', 'ZWG'],
         ];
     }
 }
