@@ -1054,7 +1054,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'postal_code_pattern' => '2899',
             ],
             'NG' => [
-                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%dependentLocality\n%locality %postalCode\n%administrativeArea",
+                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%administrativeArea\n%dependentLocality\n%locality %postalCode",
                 'uppercase_fields' => [
                     'locality', 'administrativeArea',
                 ],
