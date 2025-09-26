@@ -151,14 +151,14 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'postal_code_pattern' => '(96799)(?:[ \-](\d{4}))?',
             ],
             'AT' => [
-                'format' => "%organization\n%givenName %familyName\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode %locality",
+                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode %locality",
                 'required_fields' => [
                     'addressLine1', 'locality', 'postalCode',
                 ],
                 'postal_code_pattern' => '\d{4}',
             ],
             'AU' => [
-                'format' => "%organization\n%givenName %familyName\n%addressLine1\n%addressLine2\n%addressLine3\n%locality %administrativeArea %postalCode",
+                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%locality %administrativeArea %postalCode",
                 'required_fields' => [
                     'addressLine1', 'locality', 'administrativeArea', 'postalCode',
                 ],
@@ -171,7 +171,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'subdivision_depth' => 1,
             ],
             'AX' => [
-                'format' => "%organization\n%givenName %familyName\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode %locality",
+                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode %locality",
                 'required_fields' => [
                     'addressLine1', 'locality', 'postalCode',
                 ],
@@ -201,7 +201,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'postal_code_pattern' => '\d{4}',
             ],
             'BE' => [
-                'format' => "%organization\n%givenName %familyName\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode %locality",
+                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode %locality",
                 'required_fields' => [
                     'addressLine1', 'locality', 'postalCode',
                 ],
@@ -224,7 +224,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 ],
             ],
             'BL' => [
-                'format' => "%organization\n%givenName %familyName\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode %locality",
+                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode %locality",
                 'required_fields' => [
                     'addressLine1', 'locality', 'postalCode',
                 ],
@@ -247,7 +247,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 ],
             ],
             'BR' => [
-                'format' => "%organization\n%givenName %familyName\n%addressLine1\n%addressLine2\n%addressLine3\n%dependentLocality\n%locality-%administrativeArea\n%postalCode",
+                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%dependentLocality\n%locality-%administrativeArea\n%postalCode",
                 'required_fields' => [
                     'addressLine1', 'administrativeArea', 'locality', 'postalCode',
                 ],
@@ -269,7 +269,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'postal_code_pattern' => '\d{5}',
             ],
             'BY' => [
-                'format' => "%organization\n%familyName %givenName %additionalName\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode, %locality\n%administrativeArea",
+                'format' => "%familyName %givenName %additionalName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode, %locality\n%administrativeArea",
                 'administrative_area_type' => 'region',
                 'postal_code_pattern' => '\d{6}',
             ],
@@ -285,14 +285,14 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'subdivision_depth' => 1,
             ],
             'CC' => [
-                'format' => "%organization\n%givenName %familyName\n%addressLine1\n%addressLine2\n%addressLine3\n%locality %postalCode",
+                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%locality %postalCode",
                 'uppercase_fields' => [
                     'locality',
                 ],
                 'postal_code_pattern' => '6799',
             ],
             'CH' => [
-                'format' => "%organization\n%givenName %familyName\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode %locality",
+                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode %locality",
                 'required_fields' => [
                     'addressLine1', 'locality', 'postalCode',
                 ],
@@ -357,7 +357,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'subdivision_depth' => 1,
             ],
             'CX' => [
-                'format' => "%organization\n%givenName %familyName\n%addressLine1\n%addressLine2\n%addressLine3\n%locality %postalCode",
+                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%locality %postalCode",
                 'uppercase_fields' => [
                     'locality',
                 ],
@@ -375,7 +375,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'postal_code_pattern' => '\d{3} ?\d{2}',
             ],
             'DE' => [
-                'format' => "%organization\n%givenName %familyName\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode %locality",
+                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode %locality",
                 'required_fields' => [
                     'addressLine1', 'locality', 'postalCode',
                 ],
@@ -440,7 +440,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'postal_code_pattern' => '\d{4}',
             ],
             'FI' => [
-                'format' => "%organization\n%givenName %familyName\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode %locality",
+                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode %locality",
                 'required_fields' => [
                     'addressLine1', 'locality', 'postalCode',
                 ],
@@ -476,7 +476,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'postal_code_prefix' => 'FO',
             ],
             'FR' => [
-                'format' => "%organization\n%givenName %familyName\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode %locality %sortingCode",
+                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode %locality %sortingCode",
                 'required_fields' => [
                     'addressLine1', 'locality', 'postalCode',
                 ],
@@ -502,7 +502,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'postal_code_pattern' => '\d{4}',
             ],
             'GF' => [
-                'format' => "%organization\n%givenName %familyName\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode %locality",
+                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode %locality",
                 'required_fields' => [
                     'addressLine1', 'locality', 'postalCode',
                 ],
@@ -540,7 +540,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'postal_code_pattern' => '\d{3}',
             ],
             'GP' => [
-                'format' => "%organization\n%givenName %familyName\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode %locality",
+                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode %locality",
                 'required_fields' => [
                     'addressLine1', 'locality', 'postalCode',
                 ],
@@ -600,7 +600,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'subdivision_depth' => 2,
             ],
             'HM' => [
-                'format' => "%organization\n%givenName %familyName\n%addressLine1\n%addressLine2\n%addressLine3\n%locality %postalCode",
+                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%locality %postalCode",
                 'uppercase_fields' => [
                     'locality',
                 ],
@@ -686,7 +686,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'postal_code_pattern' => 'BBND 1ZZ',
             ],
             'IQ' => [
-                'format' => "%organization\n%givenName %familyName\n%addressLine1\n%addressLine2\n%addressLine3\n%locality, %administrativeArea\n%postalCode",
+                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%locality, %administrativeArea\n%postalCode",
                 'required_fields' => [
                     'addressLine1', 'locality', 'administrativeArea',
                 ],
@@ -696,7 +696,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'postal_code_pattern' => '\d{5}',
             ],
             'IR' => [
-                'format' => "%organization\n%givenName %familyName\n%administrativeArea\n%locality, %dependentLocality\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode",
+                'format' => "%givenName %familyName\n%organization\n%administrativeArea\n%locality, %dependentLocality\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode",
                 'required_fields' => [
                     'addressLine1', 'locality', 'administrativeArea',
                 ],
@@ -800,7 +800,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
             'KR' => [
                 'locale' => 'ko',
                 'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%dependentLocality\n%locality\n%administrativeArea\n%postalCode",
-                'local_format' => "%administrativeArea %locality%dependentLocality\n%addressLine1\n%addressLine2\n%addressLine3\n%organization\n%givenName %familyName\n%postalCode",
+                'local_format' => "%administrativeArea %locality%dependentLocality\n%addressLine1\n%addressLine2\n%addressLine3\n%givenName %familyName\n%organization\n%postalCode",
                 'required_fields' => [
                     'addressLine1', 'locality', 'administrativeArea', 'postalCode',
                 ],
@@ -843,7 +843,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'postal_code_pattern' => '(?:\d{4})(?: ?(?:\d{4}))?',
             ],
             'LI' => [
-                'format' => "%organization\n%givenName %familyName\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode %locality",
+                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode %locality",
                 'required_fields' => [
                     'addressLine1', 'locality', 'postalCode',
                 ],
@@ -863,7 +863,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'postal_code_pattern' => '\d{3}',
             ],
             'LT' => [
-                'format' => "%organization\n%givenName %familyName\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode %locality %administrativeArea",
+                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode %locality %administrativeArea",
                 'required_fields' => [
                     'addressLine1', 'locality', 'postalCode',
                 ],
@@ -872,7 +872,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'postal_code_prefix' => 'LT-',
             ],
             'LU' => [
-                'format' => "%organization\n%givenName %familyName\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode %locality",
+                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode %locality",
                 'required_fields' => [
                     'addressLine1', 'locality', 'postalCode',
                 ],
@@ -905,7 +905,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'postal_code_pattern' => '8\d{4}',
             ],
             'MF' => [
-                'format' => "%organization\n%givenName %familyName\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode %locality",
+                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode %locality",
                 'required_fields' => [
                     'addressLine1', 'locality', 'postalCode',
                 ],
@@ -962,7 +962,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'postal_code_pattern' => '(9695[012])(?:[ \-](\d{4}))?',
             ],
             'MQ' => [
-                'format' => "%organization\n%givenName %familyName\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode %locality",
+                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode %locality",
                 'required_fields' => [
                     'addressLine1', 'locality', 'postalCode',
                 ],
@@ -1033,7 +1033,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'postal_code_pattern' => '\d{5}',
             ],
             'NC' => [
-                'format' => "%organization\n%givenName %familyName\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode %locality",
+                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode %locality",
                 'required_fields' => [
                     'addressLine1', 'locality', 'postalCode',
                 ],
@@ -1047,7 +1047,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'postal_code_pattern' => '\d{4}',
             ],
             'NF' => [
-                'format' => "%organization\n%givenName %familyName\n%addressLine1\n%addressLine2\n%addressLine3\n%locality %postalCode",
+                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%locality %postalCode",
                 'uppercase_fields' => [
                     'locality',
                 ],
@@ -1072,7 +1072,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'subdivision_depth' => 1,
             ],
             'NL' => [
-                'format' => "%organization\n%givenName %familyName\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode %locality",
+                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode %locality",
                 'required_fields' => [
                     'addressLine1', 'locality', 'postalCode',
                 ],
@@ -1162,7 +1162,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'postal_code_pattern' => '\d{2}-\d{3}',
             ],
             'PM' => [
-                'format' => "%organization\n%givenName %familyName\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode %locality",
+                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode %locality",
                 'required_fields' => [
                     'addressLine1', 'locality', 'postalCode',
                 ],
@@ -1226,7 +1226,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 ],
             ],
             'RE' => [
-                'format' => "%organization\n%givenName %familyName\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode %locality",
+                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode %locality",
                 'required_fields' => [
                     'addressLine1', 'locality', 'postalCode',
                 ],
@@ -1284,7 +1284,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'postal_code_pattern' => '\d{5}',
             ],
             'SE' => [
-                'format' => "%organization\n%givenName %familyName\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode %locality",
+                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode %locality",
                 'required_fields' => [
                     'addressLine1', 'locality', 'postalCode',
                 ],
@@ -1550,7 +1550,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'subdivision_depth' => 1,
             ],
             'WF' => [
-                'format' => "%organization\n%givenName %familyName\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode %locality",
+                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode %locality",
                 'required_fields' => [
                     'addressLine1', 'locality', 'postalCode',
                 ],
@@ -1564,7 +1564,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'postal_code_pattern' => '[1-7]\d{4}',
             ],
             'YT' => [
-                'format' => "%organization\n%givenName %familyName\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode %locality",
+                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode %locality",
                 'required_fields' => [
                     'addressLine1', 'locality', 'postalCode',
                 ],
