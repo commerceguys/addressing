@@ -2,51 +2,15 @@
 	"country_code": "VN",
 	"locale": "vi",
 	"subdivisions": {
-		"44": {
+		"91": {
 			"name": "An Giang Province",
 			"local_name": "An Giang"
 		},
-		"43": {
-			"name": "Ba Ria-Vung Tau Province",
-			"local_name": "Bà Rịa–Vũng Tàu"
-		},
-		"55": {
-			"name": "Bac Lieu Province",
-			"local_name": "Bạc Liêu"
-		},
-		"54": {
-			"name": "Bac Giang Province",
-			"local_name": "Bắc Giang"
-		},
-		"53": {
-			"name": "Bac Kan Province",
-			"local_name": "Bắc Kạn"
-		},
-		"56": {
+		"24": {
 			"name": "Bac Ninh Province",
 			"local_name": "Bắc Ninh"
 		},
-		"50": {
-			"name": "Ben Tre Province",
-			"local_name": "Bến Tre"
-		},
-		"57": {
-			"name": "Binh Duong Province",
-			"local_name": "Bình Dương"
-		},
-		"31": {
-			"name": "Binh Dinh Province",
-			"local_name": "Bình Định"
-		},
-		"58": {
-			"name": "Binh Phuoc Province",
-			"local_name": "Bình Phước"
-		},
-		"40": {
-			"name": "Binh Thuan Province",
-			"local_name": "Bình Thuận"
-		},
-		"59": {
+		"96": {
 			"name": "Ca Mau Province",
 			"local_name": "Cà Mau"
 		},
@@ -54,71 +18,55 @@
 			"name": "Cao Bang Province",
 			"local_name": "Cao Bằng"
 		},
-		"CT": {
+		"92": {
 			"name": "Can Tho City",
 			"local_name": "Cần Thơ"
 		},
-		"DN": {
+		"48": {
 			"name": "Da Nang City",
 			"local_name": "Đà Nẵng"
 		},
-		"33": {
+		"66": {
 			"name": "Dak Lak Province",
 			"local_name": "Đắk Lắk"
 		},
-		"72": {
-			"name": "Dak Nong Province",
-			"local_name": "Đăk Nông"
-		},
-		"71": {
+		"11": {
 			"name": "Dien Bien Province",
 			"local_name": "Điện Biên"
 		},
-		"39": {
+		"75": {
 			"name": "Dong Nai Province",
 			"local_name": "Đồng Nai"
 		},
-		"45": {
+		"82": {
 			"name": "Dong Thap Province",
 			"local_name": "Đồng Tháp"
 		},
-		"30": {
+		"52": {
 			"name": "Gia Lai Province",
 			"local_name": "Gia Lai"
 		},
-		"03": {
-			"name": "Ha Giang Province",
-			"local_name": "Hà Giang"
-		},
-		"63": {
-			"name": "Ha Nam Province",
-			"local_name": "Hà Nam"
-		},
-		"HN": {
+		"01": {
 			"name": "Hanoi City",
 			"local_name": "Hà Nội"
 		},
-		"23": {
+		"42": {
 			"name": "Ha Tinh Province",
 			"local_name": "Hà Tĩnh"
 		},
-		"61": {
-			"name": "Hai Duong Province",
-			"local_name": "Hải Dương"
-		},
-		"HP": {
-			"name": "Haiphong City",
+		"31": {
+			"name": "Hai Phong City",
 			"local_name": "Hải Phòng"
 		},
-		"73": {
-			"name": "Hau Giang Province",
-			"local_name": "Hậu Giang"
+		"79": {
+			"name": "Ho Chi Minh City",
+			"local_name": "Thành phố Hồ Chí Minh"
 		},
-		"14": {
-			"name": "Hoa Binh Province",
-			"local_name": "Hòa Bình"
+		"46": {
+			"name": "Hue City",
+			"local_name": "Huế"
 		},
-		"66": {
+		"56": {
 			"name": "Hung Yen Province",
 			"local_name": "Hưng Yên"
 		},
@@ -126,23 +74,15 @@
 			"name": "Khanh Hoa Province",
 			"local_name": "Khánh Hòa"
 		},
-		"47": {
-			"name": "Kien Giang Province",
-			"local_name": "Kiên Giang"
-		},
-		"28": {
-			"name": "Kon Tum Province",
-			"local_name": "Kon Tum"
-		},
-		"01": {
+		"12": {
 			"name": "Lai Chau Province",
 			"local_name": "Lai Châu"
 		},
-		"09": {
-			"name": "Lang Song Province",
+		"20": {
+			"name": "Lang Son Province",
 			"local_name": "Lạng Sơn"
 		},
-		"02": {
+		"68": {
 			"name": "Lao Cai Province",
 			"local_name": "Lào Cai"
 		},
@@ -150,109 +90,53 @@
 			"name": "Lam Dong Province",
 			"local_name": "Lâm Đồng"
 		},
-		"41": {
-			"name": "Long An Province",
-			"local_name": "Long An"
-		},
-		"67": {
-			"name": "Nam Dinh Province",
-			"local_name": "Nam Định"
-		},
-		"22": {
+		"40": {
 			"name": "Nghe An Province",
 			"local_name": "Nghệ An"
 		},
-		"18": {
+		"37": {
 			"name": "Ninh Binh Province",
 			"local_name": "Ninh Bình"
 		},
-		"36": {
-			"name": "Ninh Thuan Province",
-			"local_name": "Ninh Thuận"
-		},
-		"68": {
+		"25": {
 			"name": "Phu Tho Province",
 			"local_name": "Phú Thọ"
 		},
-		"32": {
-			"name": "Phu Yen Province",
-			"local_name": "Phú Yên"
-		},
-		"24": {
-			"name": "Quang Binh Province",
-			"local_name": "Quảng Bình"
-		},
-		"27": {
-			"name": "Quang Nam Province",
-			"local_name": "Quảng Nam"
-		},
-		"29": {
+		"51": {
 			"name": "Quang Ngai Province",
 			"local_name": "Quảng Ngãi"
 		},
-		"13": {
+		"22": {
 			"name": "Quang Ninh Province",
 			"local_name": "Quảng Ninh"
 		},
-		"25": {
+		"44": {
 			"name": "Quang Tri Province",
 			"local_name": "Quảng Trị"
 		},
-		"52": {
-			"name": "Soc Trang Province",
-			"local_name": "Sóc Trăng"
-		},
-		"05": {
+		"14": {
 			"name": "Son La Province",
 			"local_name": "Sơn La"
 		},
-		"37": {
+		"80": {
 			"name": "Tay Ninh Province",
 			"local_name": "Tây Ninh"
 		},
-		"20": {
-			"name": "Thai Binh Province",
-			"local_name": "Thái Bình"
-		},
-		"69": {
+		"19": {
 			"name": "Thai Nguyen Province",
 			"local_name": "Thái Nguyên"
 		},
-		"21": {
+		"38": {
 			"name": "Thanh Hoa Province",
 			"local_name": "Thanh Hóa"
-		},
-		"SG": {
-			"name": "Ho Chi Minh City",
-			"local_name": "Thành phố Hồ Chí Minh"
-		},
-		"26": {
-			"name": "Thua Thien-Hue Province",
-			"local_name": "Thừa Thiên–Huế"
-		},
-		"46": {
-			"name": "Tien Giang Province",
-			"local_name": "Tiền Giang"
-		},
-		"51": {
-			"name": "Tra Vinh Province",
-			"local_name": "Trà Vinh"
-		},
-		"07": {
+		},				
+		"08": {
 			"name": "Tuyen Quang Province",
 			"local_name": "Tuyên Quang"
 		},
-		"49": {
+		"86": {
 			"name": "Vinh Long Province",
 			"local_name": "Vĩnh Long"
-		},
-		"70": {
-			"name": "Vinh Phuc Province",
-			"local_name": "Vĩnh Phúc"
-		},
-		"06": {
-			"name": "Yen Bai Province",
-			"local_name": "Yên Bái"
 		}
 	}
 }
