@@ -1,0 +1,36 @@
+{
+	"country_code": "NG",
+	"parents": [
+		"NG",
+		"LA"
+	],
+	"subdivisions": {
+		"Agege": [],
+		"Ajah": [],
+		"Ajeromi-Ifelodun": [],
+		"Alimosho": [],
+		"Amuwo-Odofin": [],
+		"Apapa": [],
+		"Badagry": [],
+		"Banana Island": [],
+		"Eko Atlantic": [],
+		"Epe": [],
+		"Eti-Osa": [],
+		"Ibeju-Lekki": [],
+		"Ifako-Ijaiye": [],
+		"Ikeja": [],
+		"Ikorodu": [],
+		"Ikoyi": [],
+		"Kosofe": [],
+		"Lagos-Island": [],
+		"Lagos Mainland": [],
+		"Lekki": [],
+		"Mushin": [],
+		"Ojo": [],
+		"Oshodi-Isolo": [],
+		"Sangotedo": [],
+		"Somolu": [],
+		"Surulere": [],
+		"Victoria Island": []			
+	}
+}

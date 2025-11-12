@@ -74,7 +74,9 @@
 			"name": "Kwara"
 		},
 		"LA": {
-			"name": "Lagos"
+			"code": "LA",
+			"name": "Lagos",
+			"has_children": true
 		},
 		"NA": {
 			"name": "Nasarawa"
