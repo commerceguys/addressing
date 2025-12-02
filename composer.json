@@ -9,7 +9,7 @@
         "doctrine/collections": "^1.6 || ^2.0"
     },
     "require-dev": {
-        "symfony/validator": "^5.4 || ^6.3 || ^7.0",
+        "symfony/validator": "^5.4 || ^6.3 || ^7.0 || ^8.0",
         "phpunit/phpunit": "^9.6",
         "mikey179/vfsstream": "^1.6.11",
         "squizlabs/php_codesniffer": "^3.7",
