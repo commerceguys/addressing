@@ -102,7 +102,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'subdivision_depth' => 1,
             ],
             'AE' => [
-                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%administrativeArea",
+                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%administrativeArea\n%locality",
                 'required_fields' => [
                     'addressLine1', 'administrativeArea',
                 ],
