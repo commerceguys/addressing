@@ -6,19 +6,16 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        php-versions: ['8.1', '8.2', '8.3', '8.4']
+        php-versions: ['8.1', '8.2', '8.3', '8.4', '8.5']
     name: PHPUnit @ PHP ${{ matrix.php-versions }}
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
       - uses: php-actions/composer@v6
       - uses: php-actions/phpunit@master
         with:
           bootstrap: vendor/autoload.php
           configuration: phpunit.xml
           args: --coverage-text
-          php_extensions: xdebug bcmath
           php_version: ${{ matrix.php-versions }}
           version: 9
-        env:
-          XDEBUG_MODE: coverage
