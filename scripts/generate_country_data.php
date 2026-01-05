@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Generates the json files stored in resources/country.
+ * Generates the json files stored in resources/country and updates CountryRepository.php.
  */
 
 set_time_limit(0);
@@ -18,10 +18,8 @@ if (!function_exists('collator_create')) {
     // use it instead to presort the generated locale specific data.
     die('The intl extension was not found.');
 }
-// Make sure we're starting from a clean slate.
-if (is_dir(__DIR__ . '/country')) {
-    die('The country/ directory must not exist.');
-}
+
+$countryDirectory = __DIR__ . '/../resources/country';
 
 $englishData = json_decode(file_get_contents($dataDirectory . '/cldr-localenames-full/main/en/territories.json'), true);
 $englishData = $englishData['main']['en']['localeDisplayNames']['territories'];
@@ -30,28 +28,25 @@ $baseData = generate_base_data($englishData, $dataDirectory);
 $localizations = generate_localizations($baseData, $englishData, $dataDirectory);
 $localizations = filter_duplicate_localizations($localizations);
 
-// Prepare the filesystem.
-if (!mkdir($concurrentDirectory = __DIR__ . '/country') && !is_dir($concurrentDirectory)) {
-    throw new \RuntimeException(sprintf('Directory "%s" was not created', $concurrentDirectory));
+// Clean up existing JSON files.
+foreach (glob($countryDirectory . '/*.json') as $file) {
+    unlink($file);
 }
-
 // Write out the localizations.
 foreach ($localizations as $locale => $localizedCountries) {
     $collator = collator_create($locale);
     uasort($localizedCountries, static function ($a, $b) use ($collator) {
         return collator_compare($collator, $a, $b);
     });
-    file_put_json(__DIR__ . '/country/' . $locale . '.json', $localizedCountries);
+    file_put_json($countryDirectory . '/' . $locale . '.json', $localizedCountries);
 }
 
 $availableLocales = array_keys($localizations);
 sort($availableLocales);
-// Base country definitions and available locales are stored
-// in PHP, then manually transferred to CountryRepository.
-$data = "<?php\n\n";
-$data .= export_locales($availableLocales);
-$data .= export_base_data($baseData);
-file_put_contents(__DIR__ . '/country_data.php', $data);
+
+// Update CountryRepository.php with the new data.
+$repositoryPath = __DIR__ . '/../src/Country/CountryRepository.php';
+update_country_repository($repositoryPath, $availableLocales, $baseData);
 
 echo "Done.\n";
 
@@ -67,11 +62,64 @@ function file_put_json(string $filename, array $data): void
 }
 
 /**
- * Exports base data.
+ * Updates CountryRepository.php with new locale and base data.
  */
-function export_base_data(array $baseData): string
+function update_country_repository(string $filePath, array $availableLocales, array $baseData): void
 {
-    $export = '$baseData = [' . "\n";
+    $content = file_get_contents($filePath);
+    // Replace $availableLocales.
+    $localesString = format_available_locales($availableLocales);
+    $content = preg_replace(
+        '/protected array \$availableLocales = \[.*?\];/s',
+        'protected array $availableLocales = ' . $localesString . ';',
+        $content
+    );
+    // Update the data in getBaseDefinitions().
+    $baseDataString = format_base_data($baseData);
+    $content = preg_replace(
+        '/(protected function getBaseDefinitions\(\): array\s*\{[^\[]*return )\[.*?\];(\s*\})/s',
+        '$1' . $baseDataString . ';$2',
+        $content
+    );
+
+    file_put_contents($filePath, $content);
+}
+
+/**
+ * Formats the available locales as PHP code.
+ */
+function format_available_locales(array $locales): string
+{
+    $lines = [];
+    $indent = '        ';
+    $maxLineLength = 70;
+    $currentLine = [];
+    foreach ($locales as $locale) {
+        $quoted = "'" . $locale . "'";
+        $lineContent = implode(', ', array_merge($currentLine, [$quoted]));
+        if (strlen($lineContent) > $maxLineLength) {
+            // Line length reached, add line and start a new one.
+            $lines[] = $indent . implode(', ', $currentLine) . ',';
+            $currentLine = [$quoted];
+        } else {
+            // Add to current line
+            $currentLine[] = $quoted;
+        }
+    }
+    // Add the last line.
+    if (!empty($currentLine)) {
+        $lines[] = $indent . implode(', ', $currentLine) . ',';
+    }
+
+    return "[\n" . implode("\n", $lines) . "\n    ]";
+}
+
+/**
+ * Formats the base data as PHP code.
+ */
+function format_base_data(array $baseData): string
+{
+    $lines = [];
     foreach ($baseData as $countryCode => $countryData) {
         $threeLetterCode = 'null';
         if (isset($countryData['three_letter_code'])) {
@@ -86,31 +134,10 @@ function export_base_data(array $baseData): string
             $currencyCode = "'" . $countryData['currency_code'] . "'";
         }
 
-        $export .= "    '" . $countryCode . "' => [";
-        $export .= $threeLetterCode . ", " . $numericCode . ', ' . $currencyCode;
-        $export .= "],\n";
+        $lines[] = "            '" . $countryCode . "' => [" . $threeLetterCode . ", " . $numericCode . ', ' . $currencyCode . "],";
     }
-    $export .= "];";
 
-    return $export;
-}
-
-/**
- * Exports locales.
- */
-function export_locales(array $data): string
-{
-    // Wrap the values in single quotes.
-    $data = array_map(static function ($value) {
-        return "'" . $value . "'";
-    }, $data);
-
-    $export = '// ' . count($data) . " available locales. \n";
-    $export .= '$locales = [' . "\n";
-    $export .= '    ' . implode(', ', $data) . "\n";
-    $export .= "];\n\n";
-
-    return $export;
+    return "[\n" . implode("\n", $lines) . "\n        ]";
 }
 
 /**
