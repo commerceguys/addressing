@@ -8,7 +8,7 @@ A PHP 8.0+ addressing library, powered by CLDR and Google's address data.
 Manipulates postal addresses, meant to identify a precise recipient location for shipping or billing purposes.
 
 Features:
-- Countries, with translations for over 150 locales. Powered by [CLDR](http://cldr.unicode.org) v47.
+- Countries, with translations for over 150 locales. Powered by [CLDR](http://cldr.unicode.org) v48.
 - Address formats for over 200 countries
 - Subdivisions (administrative areas, localities, dependent localities) for 60 countries
 - Both latin and local subdivision names, when relevant (e.g: Okinawa / 沖縄県)
