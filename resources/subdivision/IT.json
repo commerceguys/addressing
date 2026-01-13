@@ -245,9 +245,17 @@
 			"code": "NU",
 			"name": "Nuoro"
 		},
+		"OG": {
+			"code": "OG",
+			"name": "Ogliastra"
+		},
 		"OR": {
 			"code": "OR",
 			"name": "Oristano"
+		},
+		"OT": {
+			"code": "OT",
+			"name": "Gallura Nord-Est Sardegna"
 		},
 		"PD": {
 			"code": "PD",
@@ -359,7 +367,7 @@
 		},
 		"SU": {
 			"code": "SU",
-			"name": "Sud Sardegna"
+			"name": "Sulcis Iglesiente"
 		},
 		"TA": {
 			"code": "TA",
@@ -416,6 +424,10 @@
 		"VR": {
 			"code": "VR",
 			"name": "Verona"
+		},
+		"VS": {
+			"code": "VS",
+			"name": "Medio Campidano"
 		},
 		"VV": {
 			"code": "VV",
