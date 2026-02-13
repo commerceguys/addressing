@@ -101,8 +101,8 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
     {
         $countryCode = $parents[0];
         $addressFormat = $this->addressFormatRepository->get($countryCode);
-        $depth = $addressFormat->getSubdivisionDepth();
-        if ($depth === 0) {
+        $subdivisionDataFields = $addressFormat->getSubdivisionDataFields();
+        if (empty($subdivisionDataFields)) {
             return false;
         }
         // At least the first level has data.
@@ -119,9 +119,9 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
                 $hasData = !empty($definition['has_children']);
             } else {
                 // The parent definition wasn't loaded previously, fallback
-                // to guessing based on depth.
+                // to guessing based on the count of subdivision data fields.
                 $neededDepth = count($parents);
-                $hasData = ($neededDepth <= $depth);
+                $hasData = ($neededDepth <= count($subdivisionDataFields));
             }
         }
         return $hasData;

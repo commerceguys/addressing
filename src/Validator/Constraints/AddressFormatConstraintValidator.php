@@ -87,27 +87,27 @@ class AddressFormatConstraintValidator extends ConstraintValidator
      */
     protected function validateSubdivisions(array $values, AddressFormat $addressFormat, AddressFormatConstraint $constraint): array
     {
-        if ($addressFormat->getSubdivisionDepth() < 1) {
+        $subdivisionFields = $addressFormat->getSubdivisionDataFields();
+        if (empty($subdivisionFields)) {
             // No predefined subdivisions exist, nothing to validate against.
             return [];
         }
 
         $countryCode = $addressFormat->getCountryCode();
-        $subdivisionFields = $addressFormat->getUsedSubdivisionFields();
         $hiddenFields = $constraint->fieldOverrides->getHiddenFields();
-        $parents = [];
+        $parents = [$countryCode];
         $subdivisions = [];
         foreach ($subdivisionFields as $index => $field) {
             if (empty($values[$field]) || in_array($field, $hiddenFields)) {
                 // The field is empty or validation is disabled.
                 break;
             }
-            $parents[] = $index ? $values[$subdivisionFields[$index - 1]] : $countryCode;
             $subdivision = $this->subdivisionRepository->get($values[$field], $parents);
             if (!$subdivision) {
                 $this->addViolation($field, $constraint->invalidMessage, $values[$field], $addressFormat);
                 break;
             }
+            $parents[] = $values[$field];
 
             $subdivisions[] = $subdivision;
             if (!$subdivision->hasChildren()) {

@@ -45,8 +45,18 @@ class AddressFormat
 
     /**
      * The subdivision depth.
+     *
+     * @deprecated Use $subdivisionDataFields instead.
      */
     protected int $subdivisionDepth;
+
+    /**
+     * The subdivision data fields.
+     *
+     * An array of field names for which there is predefined subdivision data.
+     * For example: ['administrativeArea', 'locality']
+     */
+    protected array $subdivisionDataFields = [];
 
     /**
      * @throws \ReflectionException
@@ -75,7 +85,22 @@ class AddressFormat
             AddressField::assertAllExist($definition['uppercase_fields']);
             $this->uppercaseFields = $definition['uppercase_fields'];
         }
-        $this->subdivisionDepth = $definition['subdivision_depth'] ?? 0;
+
+        if (isset($definition['subdivision_data_fields'])) {
+            AddressField::assertAllExist($definition['subdivision_data_fields']);
+            $this->subdivisionDataFields = $definition['subdivision_data_fields'];
+            // Set subdivision depth based on the count of data fields for backwards compatibility.
+            $this->subdivisionDepth = count($this->subdivisionDataFields);
+        } elseif (isset($definition['subdivision_depth'])) {
+            // Backwards compatibility: convert subdivision_depth to subdivision_data_fields.
+            $this->subdivisionDepth = $definition['subdivision_depth'];
+            $availableFields = [
+                AddressField::ADMINISTRATIVE_AREA,
+                AddressField::LOCALITY,
+                AddressField::DEPENDENT_LOCALITY,
+            ];
+            $this->subdivisionDataFields = array_slice($availableFields, 0, $this->subdivisionDepth);
+        }
 
         $usedFields = $this->getUsedFields();
         if (in_array(AddressField::ADMINISTRATIVE_AREA, $usedFields)) {
@@ -206,6 +231,23 @@ class AddressFormat
     }
 
     /**
+     * Gets the subdivision data fields.
+     *
+     * Returns the list of subdivision fields for which there is predefined data.
+     * This is more precise than getUsedSubdivisionFields() which returns all
+     * subdivision fields used by the format, regardless of whether data exists.
+     *
+     * @return array An array of subdivision field names, such as:
+     *               ['administrativeArea']
+     *               ['administrativeArea', 'locality']
+     *               ['administrativeArea', 'locality', 'dependentLocality']
+     */
+    public function getSubdivisionDataFields(): array
+    {
+        return $this->subdivisionDataFields;
+    }
+
+    /**
      * Gets the list of required fields.
      *
      * @return AddressField[]
@@ -319,14 +361,7 @@ class AddressFormat
      *
      * Indicates the number of levels of predefined subdivisions.
      *
-     * Note that a country might use a subdivision field without having
-     * predefined subdivisions for it.
-     * For example, if the locality field is used by the address format, but
-     * the subdivision depth is 1, that means that the field element should be
-     * rendered as a textbox, since there's no known data to put in a dropdown.
-     *
-     * It is also possible to have no subdivisions for specific parents, even
-     * though the country generally has predefined subdivisions at that depth.
+     * @deprecated Use getSubdivisionDataFields() instead.
      *
      * @return int The subdivision depth. Possible values:
      *             0: no subdivisions have been predefined.

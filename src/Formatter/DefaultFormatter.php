@@ -242,22 +242,19 @@ class DefaultFormatter implements FormatterInterface
         }
 
         // Replace the subdivision values with the names of any predefined ones.
-        $originalValues = [];
-        $subdivisionFields = $addressFormat->getUsedSubdivisionFields();
-        $parents = [];
+        $subdivisionFields = $addressFormat->getSubdivisionDataFields();
+        $parents = [$address->getCountryCode()];
         foreach ($subdivisionFields as $index => $field) {
             if (empty($values[$field])) {
                 // This level is empty, so there can be no sublevels.
                 break;
             }
-            $parents[] = $index ? $originalValues[$subdivisionFields[$index - 1]] : $address->getCountryCode();
             $subdivision = $this->subdivisionRepository->get($values[$field], $parents);
             if (!$subdivision) {
                 break;
             }
+            $parents[] = $values[$field];
 
-            // Remember the original value so that it can be used for $parents.
-            $originalValues[$field] = $values[$field];
             // Replace the value with the expected code.
             $useLocalName = Locale::matchCandidates($address->getLocale(), $subdivision->getLocale());
             $values[$field] = $useLocalName ? $subdivision->getLocalCode() : $subdivision->getCode();

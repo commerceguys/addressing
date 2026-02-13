@@ -143,5 +143,41 @@ final class AddressFormatTest extends TestCase
             AddressField::LOCALITY,
         ];
         $this->assertEquals($expectedUsedSubdivisionFields, $addressFormat->getUsedSubdivisionFields());
+
+        // Test backwards compatibility: subdivision_depth should be converted to subdivision_data_fields.
+        $expectedSubdivisionDataFields = [AddressField::ADMINISTRATIVE_AREA];
+        $this->assertEquals($expectedSubdivisionDataFields, $addressFormat->getSubdivisionDataFields());
+    }
+
+    /**
+     * @covers ::__construct
+     * @covers ::getSubdivisionDataFields
+     * @covers ::getSubdivisionDepth
+     */
+    public function testSubdivisionDataFields(): void
+    {
+        // Test using subdivision_data_fields directly.
+        $definition = [
+            'country_code' => 'AD',
+            'format' => "%givenName %familyName\n%organization\n%addressLine1\n%postalCode %locality",
+            'subdivision_data_fields' => [AddressField::LOCALITY],
+        ];
+        $addressFormat = new AddressFormat($definition);
+
+        $this->assertEquals([AddressField::LOCALITY], $addressFormat->getSubdivisionDataFields());
+        // Backwards compatibility: subdivision_depth should be set based on the count.
+        $this->assertEquals(1, $addressFormat->getSubdivisionDepth());
+
+        // Test backwards compatibility: subdivision_depth converted to subdivision_data_fields.
+        $definition = [
+            'country_code' => 'US',
+            'format' => "%givenName %familyName\n%locality, %administrativeArea %postalCode",
+            'subdivision_depth' => 2,
+        ];
+        $addressFormat = new AddressFormat($definition);
+
+        $expectedFields = [AddressField::ADMINISTRATIVE_AREA, AddressField::LOCALITY];
+        $this->assertEquals($expectedFields, $addressFormat->getSubdivisionDataFields());
+        $this->assertEquals(2, $addressFormat->getSubdivisionDepth());
     }
 }
