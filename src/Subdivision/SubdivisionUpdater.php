@@ -28,7 +28,7 @@ class SubdivisionUpdater
             'NG', 'NI', 'NR', 'PE', 'PH', 'RU', 'SR', 'SV', 'TH', 'TR', 'TV',
             'TW', 'UA', 'UY', 'VE', 'VN',
         ];
-        if (in_array($countryCode, $countryCodes) && strlen($value) > 2) {
+        if (in_array($countryCode, $countryCodes) && strlen($value) >= 2) {
             $map = self::getUpdateMap();
             if (isset($map[$countryCode][$value])) {
                 return $map[$countryCode][$value];
@@ -1205,6 +1205,38 @@ class SubdivisionUpdater
               'Thanh Hoa Province' => '38',
               'Tuyen Quang Province' => '08',
               'Vinh Long Province' => '86',
+              // Updates shipped in v2.2.5.
+              '44' => '91',
+              '56' => '24',
+              '59' => '96',
+              'CT' => '92',
+              'DN' => '48',
+              '33' => '66',
+              '71' => '11',
+              '39' => '75',
+              '45' => '82',
+              '30' => '52',
+              '23' => '42',
+              'HP' => '31',
+              'HN' => '01',
+              'SG' => '79',
+              '26' => '46',
+              '66' => '56',
+              '01' => '12',
+              '09' => '20',
+              '02' => '68',
+              '22' => '40',
+              '18' => '37',
+              '68' => '25',
+              '29' => '51',
+              '13' => '22',
+              '25' => '44',
+              '05' => '14',
+              '37' => '80',
+              '69' => '19',
+              '21' => '38',
+              '07' => '08',
+              '49' => '86',
             ],
           ];
     }
