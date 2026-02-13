@@ -149,6 +149,10 @@
 			"code": "FR",
 			"name": "Frosinone"
 		},
+		"OT": {
+			"code": "OT",
+			"name": "Gallura Nord-Est Sardegna"
+		},
 		"GE": {
 			"code": "GE",
 			"name": "Genova"
@@ -217,6 +221,10 @@
 			"code": "MT",
 			"name": "Matera"
 		},
+		"VS": {
+			"code": "VS",
+			"name": "Medio Campidano"
+		},
 		"ME": {
 			"code": "ME",
 			"name": "Messina"
@@ -252,10 +260,6 @@
 		"OR": {
 			"code": "OR",
 			"name": "Oristano"
-		},
-		"OT": {
-			"code": "OT",
-			"name": "Gallura Nord-Est Sardegna"
 		},
 		"PD": {
 			"code": "PD",
@@ -424,10 +428,6 @@
 		"VR": {
 			"code": "VR",
 			"name": "Verona"
-		},
-		"VS": {
-			"code": "VS",
-			"name": "Medio Campidano"
 		},
 		"VV": {
 			"code": "VV",
