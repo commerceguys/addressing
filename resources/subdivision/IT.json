@@ -149,6 +149,10 @@
 			"code": "FR",
 			"name": "Frosinone"
 		},
+		"OT": {
+			"code": "OT",
+			"name": "Gallura Nord-Est Sardegna"
+		},
 		"GE": {
 			"code": "GE",
 			"name": "Genova"
@@ -217,6 +221,10 @@
 			"code": "MT",
 			"name": "Matera"
 		},
+		"VS": {
+			"code": "VS",
+			"name": "Medio Campidano"
+		},
 		"ME": {
 			"code": "ME",
 			"name": "Messina"
@@ -244,6 +252,10 @@
 		"NU": {
 			"code": "NU",
 			"name": "Nuoro"
+		},
+		"OG": {
+			"code": "OG",
+			"name": "Ogliastra"
 		},
 		"OR": {
 			"code": "OR",
@@ -359,7 +371,7 @@
 		},
 		"SU": {
 			"code": "SU",
-			"name": "Sud Sardegna"
+			"name": "Sulcis Iglesiente"
 		},
 		"TA": {
 			"code": "TA",
