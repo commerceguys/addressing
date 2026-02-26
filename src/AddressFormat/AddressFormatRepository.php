@@ -625,7 +625,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'postal_code_prefix' => 'HT',
             ],
             'HU' => [
-                'format' => "%familyName %givenName\n%organization\n%locality\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode",
+                'format' => "%familyName %givenName\n%organization\n%administrativeArea\n%postalCode %locality\n%addressLine1\n%addressLine2\n%addressLine3",
                 'required_fields' => [
                     'addressLine1', 'locality', 'postalCode',
                 ],
@@ -633,6 +633,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                     'addressLine1', 'addressLine2', 'addressLine3', 'locality', 'familyName', 'additionalName', 'givenName', 'organization',
                 ],
                 'postal_code_pattern' => '\d{4}',
+                'subdivision_depth' => 1,
             ],
             'ID' => [
                 'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%locality\n%administrativeArea %postalCode",
