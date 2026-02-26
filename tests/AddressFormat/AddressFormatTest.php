@@ -168,6 +168,17 @@ final class AddressFormatTest extends TestCase
         // Backwards compatibility: subdivision_depth should be set based on the count.
         $this->assertEquals(1, $addressFormat->getSubdivisionDepth());
 
+        // Test that subdivision_depth only counts data fields present in the format.
+        $definition = [
+            'country_code' => 'AD',
+            'format' => "%givenName %familyName\n%organization\n%addressLine1\n%postalCode %locality",
+            'subdivision_data_fields' => [AddressField::ADMINISTRATIVE_AREA, AddressField::LOCALITY],
+        ];
+        $addressFormat = new AddressFormat($definition);
+
+        $this->assertEquals([AddressField::ADMINISTRATIVE_AREA, AddressField::LOCALITY], $addressFormat->getSubdivisionDataFields());
+        $this->assertEquals(1, $addressFormat->getSubdivisionDepth());
+
         // Test backwards compatibility: subdivision_depth converted to subdivision_data_fields.
         $definition = [
             'country_code' => 'US',

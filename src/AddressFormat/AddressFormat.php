@@ -89,8 +89,8 @@ class AddressFormat
         if (isset($definition['subdivision_data_fields'])) {
             AddressField::assertAllExist($definition['subdivision_data_fields']);
             $this->subdivisionDataFields = $definition['subdivision_data_fields'];
-            // Set subdivision depth based on the count of data fields for backwards compatibility.
-            $this->subdivisionDepth = count($this->subdivisionDataFields);
+            // Set subdivision depth based on the count of data fields present in the format.
+            $this->subdivisionDepth = count(array_intersect($this->subdivisionDataFields, $this->getUsedSubdivisionFields()));
         } elseif (isset($definition['subdivision_depth'])) {
             // Backwards compatibility: convert subdivision_depth to subdivision_data_fields.
             $this->subdivisionDepth = $definition['subdivision_depth'];
