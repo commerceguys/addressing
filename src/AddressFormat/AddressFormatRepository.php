@@ -1098,12 +1098,13 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'subdivision_data_fields' => ['administrativeArea'],
             ],
             'NZ' => [
-                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%dependentLocality\n%locality %postalCode",
+                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%dependentLocality\n%locality, %administrativeArea %postalCode",
                 'required_fields' => [
-                    'addressLine1', 'locality', 'postalCode',
+                    'addressLine1', 'locality', 'postalCode', 'administrativeArea'
                 ],
                 'locality_type' => 'town_city',
                 'postal_code_pattern' => '\d{4}',
+                'subdivision_depth' => 1
             ],
             'OM' => [
                 'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode\n%locality",
