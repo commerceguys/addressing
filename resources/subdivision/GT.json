@@ -1,0 +1,79 @@
+{
+    "country_code": "GT",
+    "subdivisions": {
+        "GU": {
+            "name": "Guatemala"
+        },
+        "ES": {
+            "name": "Escuintla"
+        },
+        "SA": {
+            "code": "Sacatepequez",
+            "name": "Sacatepéquez"
+        },
+        "AV": {
+            "code": "Alta Verapaz",
+            "name": "Alta Verapáz"
+        },
+        "BV": {
+            "code": "Baja Verapaz",
+            "name": "Baja Verapáz"
+        },
+        "CH": {
+            "name": "Chimaltenango"
+        },
+        "CQ": {
+            "name": "Chiquimula"
+        },
+        "PR": {
+            "name": "El Progreso"
+        },
+        "HU": {
+            "name": "Huehuetenango"
+        },
+        "IZ": {
+            "name": "Izabal"
+        },
+        "JA": {
+            "name": "Jalapa"
+        },
+        "JU": {
+            "name": "Jutiapa"
+        },
+        "PE": {
+            "code": "Peten",
+            "name": "Petén"
+        },
+        "QZ": {
+            "name": "Quetzaltenango"
+        },
+        "QC": {
+            "code": "Quiche",
+            "name": "Quiché"
+        },
+        "RE": {
+            "name": "Retalhuleu"
+        },
+        "SM": {
+            "name": "San Marcos"
+        },
+        "SR": {
+            "name": "Santa Rosa"
+        },
+        "SO": {
+            "code": "Solola",
+            "name": "Sololá"
+        },
+        "SU": {
+            "code": "Suchitepequez",
+            "name": "Suchitepéquez"
+        },
+        "TO": {
+            "code": "Totonicapan",
+            "name": "Totonicapán"
+        },
+        "ZA": {
+            "name": "Zacapa"
+        }
+    }
+}
