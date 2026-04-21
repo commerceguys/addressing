@@ -101,7 +101,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'subdivision_data_fields' => ['locality'],
             ],
             'AE' => [
-                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%administrativeArea",
+                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%administrativeArea\n%locality",
                 'required_fields' => [
                     'addressLine1', 'administrativeArea',
                 ],
