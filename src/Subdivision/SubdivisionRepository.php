@@ -165,6 +165,9 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
      */
     protected function processDefinitions(array $definitions): array
     {
+        if (empty($definitions['subdivisions']) || !is_array($definitions['subdivisions'])) {
+            return [];
+        }
         foreach ($definitions['subdivisions'] as $id => &$definition) {
             // Add common keys from the root level.
             $definition['country_code'] = $definitions['country_code'];
