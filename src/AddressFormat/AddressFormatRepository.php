@@ -566,7 +566,8 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                 'postal_code_pattern' => 'SIQQ 1ZZ',
             ],
             'GT' => [
-                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode- %locality",
+                'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode- %locality, %administrativeArea",
+                'administrative_area_type' => 'department',
                 'postal_code_pattern' => '\d{5}',
             ],
             'GU' => [
