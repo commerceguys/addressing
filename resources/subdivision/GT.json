@@ -1,70 +1,70 @@
 {
     "country_code": "GT",
     "subdivisions": {
-        "AV": {
+        "16": {
             "name": "Alta Verapaz"
         },
-        "BV": {
+        "15": {
             "name": "Baja Verapaz"
         },
-        "CH": {
+        "04": {
             "name": "Chimaltenango"
         },
-        "CQ": {
+        "20": {
             "name": "Chiquimula"
         },
-        "PR": {
+        "02": {
             "name": "El Progreso"
         },
-        "ES": {
+        "05": {
             "name": "Escuintla"
         },
-        "GU": {
+        "01": {
             "name": "Guatemala"
         },
-        "HU": {
+        "13": {
             "name": "Huehuetenango"
         },
-        "IZ": {
+        "18": {
             "name": "Izabal"
         },
-        "JA": {
+        "21": {
             "name": "Jalapa"
         },
-        "JU": {
+        "22": {
             "name": "Jutiapa"
         },
-        "PE": {
+        "17": {
             "name": "Petén"
         },
-        "QZ": {
+        "09": {
             "name": "Quetzaltenango"
         },
-        "QC": {
+        "14": {
             "name": "Quiché"
         },
-        "RE": {
+        "11": {
             "name": "Retalhuleu"
         },
-        "SA": {
+        "03": {
             "name": "Sacatepéquez"
         },
-        "SM": {
+        "12": {
             "name": "San Marcos"
         },
-        "SR": {
+        "06": {
             "name": "Santa Rosa"
         },
-        "SO": {
+        "07": {
             "name": "Sololá"
         },
-        "SU": {
+        "10": {
             "name": "Suchitepéquez"
         },
-        "TO": {
+        "08": {
             "name": "Totonicapán"
         },
-        "ZA": {
+        "19": {
             "name": "Zacapa"
         }
     }
