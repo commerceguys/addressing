@@ -58,7 +58,8 @@
 			"has_children": true
 		},
 		"NB": {
-			"name": "Ñuble"
+			"name": "Ñuble",
+			"has_children": true
 		},
 		"TA": {
 			"name": "Tarapacá",
