@@ -1062,7 +1062,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
                     'locality', 'administrativeArea',
                 ],
                 'administrative_area_type' => 'state',
-                'postal_code_pattern' => '\d{6}',
+                'postal_code_pattern' => '\d{6}|[A-Z]{2}[ -]?(?:0[1-9]|[1-9]\d)[ -]?[A-Z0-9]{3}[ -]?[A-Z]{2}[ -]?(?:0[1-9]|[1-9]\d)',
                 'subdivision_data_fields' => ['administrativeArea'],
             ],
             'NI' => [

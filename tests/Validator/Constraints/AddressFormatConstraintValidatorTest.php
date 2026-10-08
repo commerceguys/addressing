@@ -398,6 +398,48 @@ final class AddressFormatConstraintValidatorTest extends ConstraintValidatorTest
 
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatConstraintValidator
+     *
+     * @dataProvider getNigerianPostalCodes
+     */
+    public function testNigeria(string $postalCode, bool $valid): void
+    {
+        $address = new Address();
+        $address = $address
+            ->withCountryCode('NG')
+            ->withAdministrativeArea('EK')
+            ->withLocality('Ado Ekiti')
+            ->withPostalCode($postalCode)
+            ->withAddressLine1('12 NTA Road')
+            ->withGivenName('Ade')
+            ->withFamilyName('Bello');
+
+        $this->validator->validate($address, $this->constraint);
+        if ($valid) {
+            $this->assertNoViolation();
+            return;
+        }
+        $this->buildViolation($this->constraint->invalidMessage)
+            ->atPath('[postalCode]')
+            ->setInvalidValue($postalCode)
+            ->assertRaised();
+    }
+
+    public function getNigerianPostalCodes(): array
+    {
+        return [
+            ['360001', true],
+            ['EK-01-A03-FK-01', true],
+            ['EK 01 A03 FK 01', true],
+            ['ek01a03fk01', true],
+            ['36000', false],
+            ['EK-00-A03-FK-01', false],
+            ['EK-01-A03-FK-00', false],
+            ['EK-01-A03-FK-011', false],
+        ];
+    }
+
+    /**
+     * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatConstraintValidator
      */
     public function testCanadaUnusedFields(): void
     {
