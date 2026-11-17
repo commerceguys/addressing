@@ -57,6 +57,33 @@ final class AddressFormatConstraintValidatorTest extends ConstraintValidatorTest
     /**
      * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatConstraintValidator
      */
+    /**
+     * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatConstraint::__construct
+     */
+    public function testConstraintOptions(): void
+    {
+        $constraint = new AddressFormatConstraint();
+        $this->assertEquals(new FieldOverrides([]), $constraint->fieldOverrides);
+        $this->assertTrue($constraint->validatePostalCode);
+
+        $field_overrides = new FieldOverrides([
+            AddressField::ORGANIZATION => FieldOverride::REQUIRED,
+        ]);
+        // Named arguments.
+        $constraint = new AddressFormatConstraint(fieldOverrides: $field_overrides, validatePostalCode: false, invalidMessage: 'Invalid!', groups: ['Custom']);
+        $this->assertSame($field_overrides, $constraint->fieldOverrides);
+        $this->assertFalse($constraint->validatePostalCode);
+        $this->assertSame('Invalid!', $constraint->invalidMessage);
+        $this->assertSame(['Custom'], $constraint->groups);
+
+        // Options array, ignored by Symfony 8's parent constructor.
+        $constraint = new AddressFormatConstraint(['fieldOverrides' => $field_overrides, 'validatePostalCode' => false, 'blankMessage' => 'Blank!', 'groups' => ['Custom']]);
+        $this->assertSame($field_overrides, $constraint->fieldOverrides);
+        $this->assertFalse($constraint->validatePostalCode);
+        $this->assertSame('Blank!', $constraint->blankMessage);
+        $this->assertSame(['Custom'], $constraint->groups);
+    }
+
     public function testInvalidValueType(): void
     {
         $this->expectException(\Symfony\Component\Validator\Exception\UnexpectedTypeException::class);
