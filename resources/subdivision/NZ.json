@@ -1,0 +1,73 @@
+{
+	"country_code": "NZ",
+	"subdivisions": {
+		"AUK": {
+			"code": "AUK",
+			"name": "Auckland"
+		},
+		"BOP": {
+			"code": "BOP",
+			"name": "Bay of Plenty"
+		},
+		"CAN": {
+			"code": "CAN",
+			"name": "Canterbury"
+		},
+		"CIT": {
+			"code": "CIT",
+			"name": "Chatham Islands Territory"
+		},
+		"GIS": {
+			"code": "GIS",
+			"name": "Gisborne"
+		},
+		"WGN": {
+			"code": "WGN",
+			"name": "Greater Wellington"
+		},
+		"HKB": {
+			"code": "HKB",
+			"name": "Hawke's Bay"
+		},
+		"MWT": {
+			"code": "MWT",
+			"name": "Manawatu-Wanganui"
+		},
+		"MBH": {
+			"code": "MBH",
+			"name": "Marlborough"
+		},
+		"NSN": {
+			"code": "NSN",
+			"name": "Nelson"
+		},
+		"NTL": {
+			"code": "NTL",
+			"name": "Northland"
+		},
+		"OTA": {
+			"code": "OTA",
+			"name": "Otago"
+		},
+		"STL": {
+			"code": "STL",
+			"name": "Southland"
+		},
+		"TKI": {
+			"code": "TKI",
+			"name": "Taranaki"
+		},
+		"TAS": {
+			"code": "TAS",
+			"name": "Tasman"
+		},
+		"WKO": {
+			"code": "WKO",
+			"name": "Waikato"
+		},
+		"WTC": {
+			"code": "WTC",
+			"name": "West Coast"
+		}
+	}
+}
