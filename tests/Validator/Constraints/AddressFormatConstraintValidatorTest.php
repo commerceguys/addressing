@@ -215,11 +215,32 @@ final class AddressFormatConstraintValidatorTest extends ConstraintValidatorTest
         $address = $address
             ->withCountryCode('CN')
             ->withAdministrativeArea('BJ')
-            ->withLocality('Xicheng Qu')
+            ->withLocality('Beijing Shi')
+            ->withDependentLocality('Xicheng Qu')
             ->withPostalCode('123456')
             ->withAddressLine1('Yitiao Lu')
             ->withGivenName('John')
             ->withFamilyName('Smith');
+
+        $this->validator->validate($address, $this->constraint);
+        $this->assertNoViolation();
+    }
+
+    /**
+     * @covers \CommerceGuys\Addressing\Validator\Constraints\AddressFormatConstraintValidator
+     */
+    public function testChinaShanghai(): void
+    {
+        $address = new Address();
+        $address = $address
+            ->withCountryCode('CN')
+            ->withAdministrativeArea('SH')
+            ->withLocality('Shanghai Shi')
+            ->withDependentLocality('Huangpu Qu')
+            ->withPostalCode('200003')
+            ->withAddressLine1('555 Middle Xizang Road')
+            ->withGivenName('John')
+            ->withFamilyName('Doe');
 
         $this->validator->validate($address, $this->constraint);
         $this->assertNoViolation();
@@ -271,7 +292,8 @@ final class AddressFormatConstraintValidatorTest extends ConstraintValidatorTest
         $address = $address
             ->withCountryCode('CN')
             ->withAdministrativeArea('BJ')
-            ->withLocality('Xicheng Qu')
+            ->withLocality('Beijing Shi')
+            ->withDependentLocality('Xicheng Qu')
             ->withPostalCode('InvalidValue')
             ->withGivenName('John')
             ->withFamilyName('Smith');
@@ -497,7 +519,8 @@ final class AddressFormatConstraintValidatorTest extends ConstraintValidatorTest
         $address = $address
             ->withCountryCode('CN')
             ->withAdministrativeArea('BJ')
-            ->withLocality('Xicheng Qu')
+            ->withLocality('Beijing Shi')
+            ->withDependentLocality('Xicheng Qu')
             ->withPostalCode('123456')
             ->withAddressLine1('Yitiao Lu');
 
@@ -522,7 +545,8 @@ final class AddressFormatConstraintValidatorTest extends ConstraintValidatorTest
         $address = $address
             ->withCountryCode('CN')
             ->withAdministrativeArea('BJ')
-            ->withLocality('Xicheng Qu')
+            ->withLocality('Beijing Shi')
+            ->withDependentLocality('Xicheng Qu')
             ->withAddressLine1('Yitiao Lu')
             ->withGivenName('John')
             ->withFamilyName('Smith')
@@ -546,7 +570,8 @@ final class AddressFormatConstraintValidatorTest extends ConstraintValidatorTest
         $address = new Address();
         $address = $address
             ->withCountryCode('CN')
-            ->withLocality('Xicheng Qu')
+            ->withLocality('Beijing Shi')
+            ->withDependentLocality('Xicheng Qu')
             ->withPostalCode('123456')
             ->withAddressLine1('Yitiao Lu')
             ->withGivenName('John')
@@ -570,7 +595,8 @@ final class AddressFormatConstraintValidatorTest extends ConstraintValidatorTest
         $address = $address
             ->withCountryCode('CN')
             ->withAdministrativeArea('BJ')
-            ->withLocality('Xicheng Qu')
+            ->withLocality('Beijing Shi')
+            ->withDependentLocality('Xicheng Qu')
             ->withAddressLine1('Yitiao Lu')
             ->withGivenName('John')
             ->withFamilyName('Smith')
