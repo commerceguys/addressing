@@ -20,4 +20,5 @@ jobs:
           configuration: phpunit.xml
           args: --coverage-text
           php_version: ${{ matrix.php-versions }}
+          php_extensions: mbstring
           version: 9
