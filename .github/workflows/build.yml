@@ -12,6 +12,8 @@ jobs:
     steps:
       - uses: actions/checkout@v6
       - uses: php-actions/composer@v6
+        with:
+          php_version: ${{ matrix.php-versions }}
       - uses: php-actions/phpunit@master
         with:
           bootstrap: vendor/autoload.php
