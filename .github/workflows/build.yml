@@ -6,7 +6,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        php-versions: ['8.1', '8.2', '8.3', '8.4', '8.5']
+        php-versions: ['8.1', '8.2', '8.3', '8.4', '8.5', '8.6']
     name: PHPUnit @ PHP ${{ matrix.php-versions }}
 
     steps:
@@ -20,4 +20,5 @@ jobs:
           configuration: phpunit.xml
           args: --coverage-text
           php_version: ${{ matrix.php-versions }}
+          php_extensions: mbstring
           version: 9
