@@ -4,7 +4,7 @@
 	"subdivisions": {
 		"42": {
 			"code": "Gangwon-do",
-			"local_code": "강원도",
+			"local_code": "강원특별자치도",
 			"name": "Gangwon-do",
 			"local_name": "강원",
 			"has_children": true
@@ -94,9 +94,9 @@
 			"has_children": true
 		},
 		"45": {
-			"code": "Jeollabuk-do",
-			"local_code": "전라북도",
-			"name": "Jeollabuk-do",
+			"code": "Jeonbuk-do",
+			"local_code": "전북특별자치도",
+			"name": "Jeonbuk-do",
 			"local_name": "전북",
 			"has_children": true
 		},

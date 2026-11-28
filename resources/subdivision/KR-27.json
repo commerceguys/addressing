@@ -6,6 +6,9 @@
 	],
 	"locale": "ko",
 	"subdivisions": {
+		"Gunwi-gun": {
+			"local_name": "군위군"
+		},
 		"Nam-gu": {
 			"local_name": "남구"
 		},
